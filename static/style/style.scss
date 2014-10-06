@@ -16,13 +16,22 @@ $font-color: $okf-darkgrey;
 $light-font-color: $okf-midgrey;
 
 body {
-  color: $font-color;
+  color: $okf-lightgrey;
   line-height: 1.4em;
   font-size: 1.6em;
-  background-color: $primary-color;
+  background-color: $okf-darkgrey;
 }
 
-.container-fluid {
-  padding-right: 5%;
-  padding-left: 5%;
+#page {
+  background-color: #fff;
+  color: $okf-darkgrey;
+  padding-bottom: 2em;
+}
+
+.container {
+  max-width: 960px;
+}
+
+footer {
+  padding-top: 2em;
 }
