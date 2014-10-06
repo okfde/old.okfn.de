@@ -1,6 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
 baseurl: /okfn.de/
+staticurl: /okfn.de/static/
 
 paginate: 7
 
