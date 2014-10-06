@@ -1,8 +1,8 @@
 - name: Kristina Klein
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail: kristina.klein@okfn.de
@@ -11,9 +11,9 @@
 
 - name: Helene Hahn
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio:
 
@@ -23,9 +23,9 @@
 
 - name: Anja Jentzsch
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail: anja.jentzsch@okfn.org
@@ -34,9 +34,9 @@
 
 - name: Julia Kloiber
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail: julia.kloiber@okfn.org
@@ -45,9 +45,9 @@
 
 - name: Daniel Mietchen
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail:
@@ -56,7 +56,9 @@
 
 - name: Maria Reimer
   img:
-  staff: board: advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail:
@@ -65,7 +67,9 @@
 
 - name: Katharina Meyer
   img:
-  staff: board: advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail:
@@ -74,9 +78,9 @@
 
 - name: Fiona Krakenbürger
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail:
@@ -85,21 +89,33 @@
 
 - name: Walter Palmetshofer
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail:
   twitter:
   website:
 
+- name: Michael Hörz
+  img:
+  staff: yes
+  board: no
+  advisory: no
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+-
 - name: Daniel Dietrich
   img:
-  staff: 
-  board: 
-  advisory: 
-  position:
+  staff: yes
+  board: yes
+  advisory: no
+  position: Vorsitzender
   bio: ""
   mail:
   twitter:
@@ -107,10 +123,10 @@
 
 - name: Friedrich Lindenberg
   img:
-  staff: 
-  board: 
-  advisory: 
-  position:
+  staff: no
+  board: yes
+  advisory: no
+  position: Stellvertreter
   bio: ""
   mail:
   twitter:
@@ -118,10 +134,10 @@
 
 - name: Christian Heise
   img:
-  staff: 
-  board: 
-  advisory: 
-  position:
+  staff: no
+  board: yes
+  advisory: no
+  position: Beisitzer
   bio: ""
   mail:
   twitter:
@@ -129,10 +145,10 @@
 
 - name: Claudia Schwegmann
   img:
-  staff: 
-  board: 
-  advisory: 
-  position:
+  staff: no
+  board: yes
+  advisory: no
+  position: Beisitzerin
   bio: ""
   mail:
   twitter:
@@ -140,10 +156,10 @@
 
 - name: Stefan Wehrmeyer
   img:
-  staff: 
-  board: 
-  advisory: 
-  position:
+  staff: no
+  board: yes
+  advisory: no
+  position: Beisitzer
   bio: ""
   mail:
   twitter:
@@ -151,10 +167,10 @@
 
 - name: Dr. Marcus Dapp
   img:
-  staff: 
-  board: 
-  advisory: 
-  position:
+  staff: no
+  board: yes
+  advisory: no
+  position: Beisitzer
   bio: ""
   mail:
   twitter:
@@ -162,10 +178,10 @@
 
 - name: Andreas Pawelke
   img:
-  staff: 
-  board: 
-  advisory: 
-  position:
+  staff: no
+  board: yes
+  advisory: no
+  position: Beisitzer
   bio: ""
   mail:
   twitter:
@@ -173,21 +189,21 @@
 
 - name: Prof. Dr. Sören Auer
   img:
-  staff: 
-  board: 
-  advisory:
-  position:
-  io: ""
+  staff: no
+  board: yes
+  advisory: no
+  position: Beisitzer
+  bio: ""
   mail:
   twitter:
   website:
 
 - name: Rufus Pollock
   img:
-  staff: 
-  board: 
-  advisory:
-  position:
+  staff: no
+  board: yes
+  advisory: no
+  position: Beisitzer
   bio: ""
   mail:
   twitter:
@@ -195,9 +211,9 @@
 
 - name: Friedrich Schumann
   img:
-  staff: 
-  board: 
-  advisory:
+  staff: yes
+  board: no
+  advisory: no
   position:
   bio: ""
   mail:
