@@ -108,6 +108,7 @@
   mail:
   twitter:
   website:
+  github:
 
 -
 - name: Daniel Dietrich
@@ -131,6 +132,7 @@
   mail:
   twitter:
   website:
+  github:
 
 - name: Christian Heise
   img:
@@ -164,6 +166,7 @@
   mail:
   twitter:
   website:
+  github:
 
 - name: Dr. Marcus Dapp
   img:
@@ -214,6 +217,128 @@
   staff: yes
   board: no
   advisory: no
+  position: Minion
+  bio: ""
+  mail:
+  twitter:
+  website:
+  github:
+
+- name: Prof.em. Dr. Dr. Eberhard R. Hilf
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Prof.em. Dr. Bernd Lutterbeck
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Prof. Dr. Rainer Kuhlen
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Prof. Dr. Claudia Müller-Birn
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Prof. Dr. Jörn von Lucke
+  img:
+  staff: no
+  board: no
+  advisory: yes 
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Prof. Dr. Christian Bizer
+  img:
+  staff: no
+  board: no
+  advisory: yes 
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Prof. Dr. Christian Bizer
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Prof. Dr. Herbert Kubicek
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Dr. Jeanette Hoffmann
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Dr. Timo Ehmann
+  img:
+  staff: no
+  board: no
+  advisory: yes
+  position:
+  bio: ""
+  mail:
+  twitter:
+  website:
+
+- name: Dr. Till Kreutzer
+  img:
+  staff: no
+  board: no
+  advisory: yes
   position:
   bio: ""
   mail:
