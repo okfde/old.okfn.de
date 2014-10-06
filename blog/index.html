@@ -4,9 +4,27 @@ title: Blog
 ---
 
 <ul class="entries">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url|replace_first:'/','' }}">{{ post.title|escape }}</a>
     </li>
   {% endfor %}
+</ul>
+
+<ul>
+{% if paginator.previous_page %}
+  <li>
+    {% if paginator.previous_page == 1 %}
+      <a href="{{ site.baseurl }}blog/">&laquo;</a>
+    {% else %}
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path|replace_first:'/','' }}">&laquo;</a>
+    {% endif %}
+  </li>
+{% endif %}
+
+{% if paginator.next_page %}
+  <li>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path|replace_first:'/','' }}">&raquo;</a>
+  </li>
+{% endif %}
 </ul>

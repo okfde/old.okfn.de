@@ -17,7 +17,9 @@ collections:
     permalink: /projekte/:path/
 
 
-paginate: 7
+permalink: blog/:year/:month/:title/
+paginate: 8
+paginate_path: blog/page/:num/
 
 sass:
   style: compressed
