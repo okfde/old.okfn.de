@@ -9,7 +9,32 @@ $okf-midgrey: rgb(142, 142, 142);
 $okf-lightgrey: rgb(240, 240, 240);
 $okf-working-group-bg: rgb(29, 29, 27);
 
+$col-1: #CF3D1E;
+$col-2: #F15623;
+$col-3: #F68B1F;
+$col-4: #FFC60B;
+$col-5: #DFCE21;
+$col-6: #BCD631;
+$col-7: #95C93D;
+$col-8: #48B85C;
+$col-9: #00833D;
+$col-10: #00B48D;
+$col-11: #60C4B1;
+$col-12: #27C4F4;
+$col-13: #478DCB;
+$col-14: #3E67B1;
+$col-15: #4251A3;
+$col-16: #59449B;
+$col-17: #6E3F7C;
+$col-18: #6A246D;
+$col-19: #8A4873;
+$col-20: #EB0080;
+$col-21: #EF58A0;
+$col-22: #C05A89;
+
 $okf-link: $okf-primary;
+
+$page-col: $col-13;
 
 $primary-color: $okf-primary;
 $font-color: $okf-darkgrey;
@@ -21,13 +46,13 @@ body {
   font-weight: 300;
   line-height: 1.4em;
   font-size: 1.6em;
-  background-color: #000;
+  background-color: #ddd;
 }
 
 #page {
   background-color: #fff;
   color: $okf-darkgrey;
-  padding-bottom: 2em;
+  padding-bottom: 4em;
 }
 
 .container {
@@ -35,15 +60,34 @@ body {
 }
 
 footer {
-  color: #fff;
-  font-weight: 600;
+  color: $okf-midgrey;
+  font-weight: 300;
 
-  border-top: 8px solid $okf-primary;
+  h3 {
+    text-transform: uppercase;
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 0 0 1.5em 0;
+  }
 
-  a, a:hover, a:active {
-    color: $okf-midgrey;
+  ul {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      padding: 0 0 1em 0;
+    }
+  }
+
+  a, a:active {
+    color: lighten($okf-midgrey, 10%);
     text-decoration: none; // underline;
   }
+
+  a:hover {
+    color: darken($okf-midgrey, 10%);
+  }
+
   .row {
     padding-top: 2em;
     padding-bottom: 2em;
@@ -54,28 +98,67 @@ footer {
   }
 
   .mezzanine {
-    background-color: $okf-darkgrey;
+    background-color: #eee;
   }
 
   .cellar {
+    border-top: 6px solid $page-col;
     font-size: 0.9em;
   }
 }
 
 .navbar {
   border-bottom: 0px;
+  background-color: $page-col;
 
-  li a {
-    font-weight: 600;
+  .container {
+    position: relative;
+  }
+
+  ul {
+    position: absolute;
+    right: 0;
+    bottom: 2.8em;
+  }
+
+  li a.nav-link {
+    font-weight: 300;
+    color: #fff;
+    text-transform: uppercase;
   }
 
   .navbar-brand {
     float: none;
 
-
     img {
-      margin: 1em 0 1em 0;
+      margin: 2em 0 2em 0;
       //width: 250px;
     }
+  }
+}
+
+
+
+
+// REMOVE
+.home-demo {
+  //background: url(../images/home_demo.png) no-repeat;
+  margin: -2em 0 0 0;
+  padding: 10em 0 5em 0; 
+
+  .claim {
+    padding: 1em 0 1em 0;
+    font-weight: 500;
+    color: $okf-darkgrey;
+    font-size: 2.2em;
+    text-align: left;
+  }
+
+  .kpi {
+    color: $okf-darkgrey;
+    display: block;
+    padding: 1em 0 0.5em 0;
+    font-size: 1.6em;
+    font-weight: 500;
   }
 }
