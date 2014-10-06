@@ -16,10 +16,10 @@ $font-color: $okf-darkgrey;
 $light-font-color: $okf-midgrey;
 
 body {
-  color: $okf-lightgrey;
+  color: #fff;
   line-height: 1.4em;
   font-size: 1.6em;
-  background-color: $okf-darkgrey;
+  background-color: #000;
 }
 
 #page {
@@ -33,5 +33,22 @@ body {
 }
 
 footer {
-  padding-top: 2em;
+  color: #fff;
+
+  a, a:hover, a:active {
+    color: $okf-midgrey;
+    text-decoration: none; // underline;
+  }
+  .row {
+    padding-top: 2em;
+    padding-bottom: 2em;
+  }
+
+  .mezzanine {
+    background-color: $okf-darkgrey;
+  }
+
+  .cellar {
+    font-size: 0.9em;
+  }
 }
