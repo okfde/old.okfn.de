@@ -17,6 +17,8 @@ $light-font-color: $okf-midgrey;
 
 body {
   color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   line-height: 1.4em;
   font-size: 1.6em;
   background-color: #000;
@@ -34,6 +36,7 @@ body {
 
 footer {
   color: #fff;
+  font-weight: 600;
 
   a, a:hover, a:active {
     color: $okf-midgrey;
@@ -42,6 +45,10 @@ footer {
   .row {
     padding-top: 2em;
     padding-bottom: 2em;
+  }
+
+  .logo {
+    margin-right: 2em;
   }
 
   .mezzanine {
