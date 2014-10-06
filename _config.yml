@@ -3,6 +3,20 @@ highlighter: pygments
 baseurl: /okfn.de/
 staticurl: /okfn.de/static/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+collections:
+  projects:
+    output: true
+    permalink: /projekte/:path/
+
+
 paginate: 7
 
 sass:
