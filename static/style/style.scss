@@ -38,6 +38,8 @@ footer {
   color: #fff;
   font-weight: 600;
 
+  border-top: 8px solid $okf-primary;
+
   a, a:hover, a:active {
     color: $okf-midgrey;
     text-decoration: none; // underline;
@@ -48,7 +50,7 @@ footer {
   }
 
   .logo {
-    margin-right: 2em;
+    margin-left: 4em;
   }
 
   .mezzanine {
@@ -57,5 +59,23 @@ footer {
 
   .cellar {
     font-size: 0.9em;
+  }
+}
+
+.navbar {
+  border-bottom: 0px;
+
+  li a {
+    font-weight: 600;
+  }
+
+  .navbar-brand {
+    float: none;
+
+
+    img {
+      margin: 1em 0 1em 0;
+      //width: 250px;
+    }
   }
 }
