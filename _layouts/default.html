@@ -11,9 +11,9 @@
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
-    <link href="{{site.base_url}}assets/style/style.css" rel='stylesheet' type='text/css'>
+    <link href="{{site.base_url}}static/style/style.css" rel='stylesheet' type='text/css'>
 
-    <link rel="alternate" type="application/atom+xml" title="Das Blog der Open Knowledge Foundation Deutschland." href="{{site.base_url}}atom.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Blog der Open Knowledge Foundation Deutschland." href="{{site.base_url}}atom.xml" />
     <link rel="shortcut icon" href="{{site.base_url}}static/images/favicon.ico">
   </head>
   <body>
@@ -21,25 +21,10 @@
       {% include nav.html %}
       {{ content }}
     </div>
-
-    <footer class="hidden-print">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-6">
-            banana!
-          </div>
-          <div class="col-md-6">
-            <div class="pull-right">
-              apple!
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
+    {% include footer.html %}
 
     <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     {% include ga.html %}
   </body>
 </html>
-
