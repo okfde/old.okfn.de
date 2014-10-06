@@ -3,10 +3,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>Open Knowledge Foundation Deutschland</title>
- <link href="{{site.base_url}}/atom.xml" rel="self"/>
- <link href="{{site.base_url}}"/>
+ <link href="{{site.baseurl}}/atom.xml" rel="self"/>
+ <link href="{{site.baseurl}}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{site.base_url}}</id>
+ <id>{{site.baseurl}}</id>
  <author>
    <name>Open Knowledge Foundation Deutschland</name>
  </author>
@@ -15,9 +15,9 @@
  {% if post.unlisted != true %}
      <entry>
        <title>{{ post.title | xml_escape }}</title>
-       <link href="{{site.base_url}}{{ post.url }}"/>
+       <link href="{{site.baseurl}}{{ post.url }}"/>
        <updated>{{ post.date | date_to_xmlschema }}</updated>
-       <id>{{site.base_url}}{{ post.id }}</id>
+       <id>{{site.baseurl}}{{ post.id }}</id>
        <content type="html">{{ post.content | xml_escape }}</content>
      </entry>
  {% endif %}
