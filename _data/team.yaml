@@ -1,6 +1,8 @@
 - name: Kristina Klein
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail: kristina.klein@okfn.de
@@ -9,16 +11,21 @@
 
 - name: Helene Hahn
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
-  bio: ""
+  bio:
+
   mail:
   twitter: pluscha
   website:
 
 - name: Anja Jentzsch
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail: anja.jentzsch@okfn.org
@@ -27,7 +34,9 @@
 
 - name: Julia Kloiber
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail: julia.kloiber@okfn.org
@@ -36,7 +45,9 @@
 
 - name: Daniel Mietchen
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail:
@@ -45,7 +56,7 @@
 
 - name: Maria Reimer
   img:
-  category:
+  staff: board: advisory:
   position:
   bio: ""
   mail:
@@ -54,7 +65,7 @@
 
 - name: Katharina Meyer
   img:
-  category:
+  staff: board: advisory:
   position:
   bio: ""
   mail:
@@ -63,7 +74,9 @@
 
 - name: Fiona Krakenbürger
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail:
@@ -72,7 +85,9 @@
 
 - name: Walter Palmetshofer
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail:
@@ -81,7 +96,9 @@
 
 - name: Daniel Dietrich
   img:
-  category: Vorstand
+  staff: 
+  board: 
+  advisory: 
   position:
   bio: ""
   mail:
@@ -90,7 +107,9 @@
 
 - name: Friedrich Lindenberg
   img:
-  category: Vorstand
+  staff: 
+  board: 
+  advisory: 
   position:
   bio: ""
   mail:
@@ -99,7 +118,9 @@
 
 - name: Christian Heise
   img:
-  category: Vorstand
+  staff: 
+  board: 
+  advisory: 
   position:
   bio: ""
   mail:
@@ -108,7 +129,9 @@
 
 - name: Claudia Schwegmann
   img:
-  category: Vorstand
+  staff: 
+  board: 
+  advisory: 
   position:
   bio: ""
   mail:
@@ -117,7 +140,9 @@
 
 - name: Stefan Wehrmeyer
   img:
-  category: Vorstand
+  staff: 
+  board: 
+  advisory: 
   position:
   bio: ""
   mail:
@@ -126,7 +151,9 @@
 
 - name: Dr. Marcus Dapp
   img:
-  category: Vorstand
+  staff: 
+  board: 
+  advisory: 
   position:
   bio: ""
   mail:
@@ -135,7 +162,9 @@
 
 - name: Andreas Pawelke
   img:
-  category: Vorstand
+  staff: 
+  board: 
+  advisory: 
   position:
   bio: ""
   mail:
@@ -144,7 +173,9 @@
 
 - name: Prof. Dr. Sören Auer
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   io: ""
   mail:
@@ -153,7 +184,9 @@
 
 - name: Rufus Pollock
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail:
@@ -162,7 +195,9 @@
 
 - name: Friedrich Schumann
   img:
-  category:
+  staff: 
+  board: 
+  advisory:
   position:
   bio: ""
   mail:
