@@ -16,8 +16,7 @@
   advisory: no
   position:
   bio:
-
-  mail:
+  mail: helene.hahn@okfn.org
   twitter: pluscha
   website:
 
@@ -50,8 +49,8 @@
   advisory: no
   position:
   bio: ""
-  mail:
-  twitter:
+  mail: daniel.mietchen@okfn.org
+  twitter: EvoMRI
   website:
 
 - name: Maria Reimer
@@ -61,9 +60,9 @@
   advisory: no
   position:
   bio: ""
-  mail:
-  twitter:
-  website:
+  mail: maria.reimer@okfn.org
+  twitter: malienamadrina
+  website: www.oderfunk.de
 
 - name: Katharina Meyer
   img:
@@ -72,7 +71,7 @@
   advisory: no
   position:
   bio: ""
-  mail:
+  mail: katharina.meyer@okfn.de
   twitter:
   website:
 
@@ -83,8 +82,8 @@
   advisory: no
   position:
   bio: ""
-  mail:
-  twitter:
+  mail: fiona.krakenbuerger@okfn.de
+  twitter: Fotografiona
   website:
 
 - name: Walter Palmetshofer
@@ -94,8 +93,8 @@
   advisory: no
   position:
   bio: ""
-  mail:
-  twitter:
+  mail: walter.palmetshofer@okfn.org
+  twitter: vavoida
   website:
 
 - name: Michael Hörz
@@ -105,9 +104,9 @@
   advisory: no
   position:
   bio: ""
-  mail:
-  twitter:
-  website:
+  mail: michael.hoerz@okfn.de
+  twitter: data_meining
+  website: michael-hoerz.de
   github:
 
 -
@@ -118,8 +117,8 @@
   advisory: no
   position: Vorsitzender
   bio: ""
-  mail:
-  twitter:
+  mail: daniel.dietrich@okfn.org
+  twitter: ddie
   website:
 
 - name: Friedrich Lindenberg
@@ -129,10 +128,10 @@
   advisory: no
   position: Stellvertreter
   bio: ""
-  mail:
-  twitter:
-  website:
-  github:
+  mail: friedrich.lindenberg@okfn.org
+  twitter: pudo
+  website: https://pudo.org
+  github: pudo
 
 - name: Christian Heise
   img:
@@ -141,8 +140,8 @@
   advisory: no
   position: Beisitzer
   bio: ""
-  mail:
-  twitter:
+  mail: christian.heise@okfn.org
+  twitter: christianheise
   website:
 
 - name: Claudia Schwegmann
@@ -152,8 +151,8 @@
   advisory: no
   position: Beisitzerin
   bio: ""
-  mail:
-  twitter:
+  mail: claudia.schwegmann@okfn.org
+  twitter: OpenAidGermany
   website:
 
 - name: Stefan Wehrmeyer
@@ -163,8 +162,8 @@
   advisory: no
   position: Beisitzer
   bio: ""
-  mail:
-  twitter:
+  mail: stefan.wehrmeyer@okfn.org
+  twitter: stefanwehrmeyer
   website:
   github:
 
@@ -186,8 +185,8 @@
   advisory: no
   position: Beisitzer
   bio: ""
-  mail:
-  twitter:
+  mail: andreas.pawelke@okfn.de
+  twitter: pa_wela
   website:
 
 - name: Prof. Dr. Sören Auer
@@ -209,8 +208,8 @@
   position: Beisitzer
   bio: ""
   mail:
-  twitter:
-  website:
+  twitter: rufuspollock
+  website: rufuspollock.org
 
 - name: Friedrich Schumann
   img:
@@ -272,7 +271,7 @@
   img:
   staff: no
   board: no
-  advisory: yes 
+  advisory: yes
   position:
   bio: ""
   mail:
@@ -283,7 +282,7 @@
   img:
   staff: no
   board: no
-  advisory: yes 
+  advisory: yes
   position:
   bio: ""
   mail:
