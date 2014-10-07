@@ -3,28 +3,51 @@ layout: default
 title: Blog
 ---
 
-<ul class="entries">
-  {% for post in paginator.posts %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url|replace_first:'/','' }}">{{ post.title|escape }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="row">
+  <div class="col-lg-8">
+    <div class="posts">
+      {% for post in paginator.posts %}
+        <div class="post">
+          <div class="post-header">
+            <h3 class="post-title">
+              <a href="{{ site.baseurl }}{{ post.url|replace_first:'/','' }}">
+                {{ post.title|escape }}
+              </a>
+            </h3>
+            <small>
+              {% assign author = site.team[post.author] %}
+              {% if author.img %}
+                <img src="{{ author.img }}" alt="{{ post.author }}" class="img-circle"/>
+              {% endif %}
+              {{ post.author }}
+            </small>
+          </div>
+          <div class="post-content">
+            {% if post.image %}
+              <img src="{{ post.image.src }}" alt="{{ post.image.title }}" class="img-responsive"/>
+            {% endif %}
+            {{ post.content }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
 
-<ul>
-{% if paginator.previous_page %}
-  <li>
-    {% if paginator.previous_page == 1 %}
-      <a href="{{ site.baseurl }}blog/">&laquo;</a>
-    {% else %}
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path|replace_first:'/','' }}">&laquo;</a>
+    <ul class="list-unstyled">
+    {% if paginator.previous_page %}
+      <li>
+        {% if paginator.previous_page == 1 %}
+          <a href="{{ site.baseurl }}blog/">&laquo;</a>
+        {% else %}
+          <a href="{{ site.baseurl }}{{ paginator.previous_page_path|replace_first:'/','' }}">&laquo;</a>
+        {% endif %}
+      </li>
     {% endif %}
-  </li>
-{% endif %}
 
-{% if paginator.next_page %}
-  <li>
-    <a href="{{ site.baseurl }}{{ paginator.next_page_path|replace_first:'/','' }}">&raquo;</a>
-  </li>
-{% endif %}
-</ul>
+    {% if paginator.next_page %}
+      <li>
+        <a href="{{ site.baseurl }}{{ paginator.next_page_path|replace_first:'/','' }}">&raquo;</a>
+      </li>
+    {% endif %}
+    </ul>
+  </div>
+</div>
