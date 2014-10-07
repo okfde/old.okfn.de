@@ -1,4 +1,4 @@
-- name: Kristina Klein
+Kristina Klein:
   img:
   staff: yes
   board: no
@@ -9,7 +9,7 @@
   twitter:
   website:
 
-- name: Helene Hahn
+Helene Hahn:
   img:
   staff: yes
   board: no
@@ -20,7 +20,7 @@
   twitter: pluscha
   website:
 
-- name: Anja Jentzsch
+Anja Jentzsch:
   img:
   staff: yes
   board: no
@@ -31,7 +31,7 @@
   twitter: anjeve
   website:
 
-- name: Julia Kloiber
+Julia Kloiber:
   img:
   staff: yes
   board: no
@@ -42,7 +42,7 @@
   twitter: j_kloiber
   website:
 
-- name: Daniel Mietchen
+Daniel Mietchen:
   img:
   staff: yes
   board: no
@@ -53,7 +53,7 @@
   twitter: EvoMRI
   website:
 
-- name: Maria Reimer
+Maria Reimer:
   img:
   staff: yes
   board: no
@@ -64,7 +64,7 @@
   twitter: malienamadrina
   website: www.oderfunk.de
 
-- name: Katharina Meyer
+Katharina Meyer:
   img:
   staff: yes
   board: no
@@ -75,7 +75,7 @@
   twitter:
   website:
 
-- name: Fiona Krakenbürger
+Fiona Krakenbürger:
   img:
   staff: yes
   board: no
@@ -86,7 +86,7 @@
   twitter: Fotografiona
   website:
 
-- name: Walter Palmetshofer
+Walter Palmetshofer:
   img:
   staff: yes
   board: no
@@ -97,7 +97,7 @@
   twitter: vavoida
   website:
 
-- name: Michael Hörz
+Michael Hörz:
   img:
   staff: yes
   board: no
@@ -109,8 +109,7 @@
   website: michael-hoerz.de
   github:
 
--
-- name: Daniel Dietrich
+Daniel Dietrich:
   img:
   staff: yes
   board: yes
@@ -121,7 +120,7 @@
   twitter: ddie
   website:
 
-- name: Friedrich Lindenberg
+Friedrich Lindenberg:
   img:
   staff: no
   board: yes
@@ -133,7 +132,7 @@
   website: https://pudo.org
   github: pudo
 
-- name: Christian Heise
+Christian Heise:
   img:
   staff: no
   board: yes
@@ -144,7 +143,7 @@
   twitter: christianheise
   website:
 
-- name: Claudia Schwegmann
+Claudia Schwegmann:
   img:
   staff: no
   board: yes
@@ -155,7 +154,7 @@
   twitter: OpenAidGermany
   website:
 
-- name: Stefan Wehrmeyer
+Stefan Wehrmeyer:
   img:
   staff: no
   board: yes
@@ -167,7 +166,7 @@
   website:
   github:
 
-- name: Dr. Marcus Dapp
+Dr. Marcus Dapp:
   img:
   staff: no
   board: yes
@@ -178,7 +177,7 @@
   twitter:
   website:
 
-- name: Andreas Pawelke
+Andreas Pawelke:
   img:
   staff: no
   board: yes
@@ -189,7 +188,7 @@
   twitter: pa_wela
   website:
 
-- name: Prof. Dr. Sören Auer
+Prof. Dr. Sören Auer:
   img:
   staff: no
   board: yes
@@ -200,7 +199,7 @@
   twitter:
   website:
 
-- name: Rufus Pollock
+Rufus Pollock:
   img:
   staff: no
   board: yes
@@ -211,7 +210,7 @@
   twitter: rufuspollock
   website: rufuspollock.org
 
-- name: Friedrich Schumann
+Friedrich Schumann:
   img:
   staff: yes
   board: no
@@ -223,7 +222,7 @@
   website:
   github:
 
-- name: Prof.em. Dr. Dr. Eberhard R. Hilf
+Prof.em. Dr. Dr. Eberhard R. Hilf:
   img:
   staff: no
   board: no
@@ -234,7 +233,7 @@
   twitter:
   website:
 
-- name: Prof.em. Dr. Bernd Lutterbeck
+Prof.em. Dr. Bernd Lutterbeck:
   img:
   staff: no
   board: no
@@ -245,7 +244,7 @@
   twitter:
   website:
 
-- name: Prof. Dr. Rainer Kuhlen
+Prof. Dr. Rainer Kuhlen:
   img:
   staff: no
   board: no
@@ -256,7 +255,7 @@
   twitter:
   website:
 
-- name: Prof. Dr. Claudia Müller-Birn
+Prof. Dr. Claudia Müller-Birn:
   img:
   staff: no
   board: no
@@ -267,7 +266,7 @@
   twitter:
   website:
 
-- name: Prof. Dr. Jörn von Lucke
+Prof. Dr. Jörn von Lucke:
   img:
   staff: no
   board: no
@@ -278,7 +277,7 @@
   twitter:
   website:
 
-- name: Prof. Dr. Christian Bizer
+Prof. Dr. Christian Bizer:
   img:
   staff: no
   board: no
@@ -289,7 +288,7 @@
   twitter:
   website:
 
-- name: Prof. Dr. Christian Bizer
+Prof. Dr. Christian Bizer:
   img:
   staff: no
   board: no
@@ -300,7 +299,7 @@
   twitter:
   website:
 
-- name: Prof. Dr. Herbert Kubicek
+Prof. Dr. Herbert Kubicek:
   img:
   staff: no
   board: no
@@ -311,7 +310,7 @@
   twitter:
   website:
 
-- name: Dr. Jeanette Hoffmann
+Dr. Jeanette Hoffmann:
   img:
   staff: no
   board: no
@@ -322,7 +321,7 @@
   twitter:
   website:
 
-- name: Dr. Timo Ehmann
+Dr. Timo Ehmann:
   img:
   staff: no
   board: no
@@ -333,7 +332,7 @@
   twitter:
   website:
 
-- name: Dr. Till Kreutzer
+Dr. Till Kreutzer:
   img:
   staff: no
   board: no
