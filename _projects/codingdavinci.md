@@ -1,6 +1,7 @@
 ---
 title: "Coding da Vinci"
 url: http://codingdavinci.de
+img: http://okfn.de/files/2012/12/web-okfn1.png
 contact: Helene Hahn
 twitter: codingdavinci
 status: active

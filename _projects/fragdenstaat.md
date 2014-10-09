@@ -1,5 +1,6 @@
 ---
 title: FragDenStaat.de
+img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/0012.png
 url: http://fragdenstaat.de
 contact: Stefan Wehrmeyer
 twitter: fragdenstaat

@@ -1,6 +1,7 @@
 ---
 title: "Jugend hackt"
 url: http://jugendhackt.de
+img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/jugendhackt-postkarte.png
 contact: Maria Reimer
 twitter: jugendhackt
 facebook: https://www.facebook.com/jugendhackt

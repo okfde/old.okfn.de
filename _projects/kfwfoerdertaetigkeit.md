@@ -1,6 +1,7 @@
 ---
 title: "KFW Fördertätigkeit"
 url: http://foerderreport.kfw.de
+img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/014.png
 contact: Christian Kreutz
 status: active
 ---

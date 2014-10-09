@@ -1,6 +1,7 @@
 ---
 title: OpenRuhr
 url: http://openruhr.de/
+img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/rathausinformationssystem-fuer-bochum.png
 contact: Ernesto Ruge
 twitter: openruhr
 facebook: https://www.facebook.com/OpenRuhr
