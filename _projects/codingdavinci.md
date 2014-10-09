@@ -1,5 +1,5 @@
 ---
-title: Coding da Vinci
+title: "Coding da Vinci"
 url: http://codingdavinci.de
 contact: Helene Hahn
 twitter: codingdavinci
