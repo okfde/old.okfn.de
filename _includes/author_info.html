@@ -1,0 +1,10 @@
+{% assign authorinfo=site.data.team[author] %}
+{% if authorinfo.img %}
+    <div class="pull-left">
+      <img src="{{ site.baseurl }}static/images/team/{{ authorinfo.img }}_square.jpg" alt="{{ author }}" class="img-circle" style="height:100px"/>
+    </div>
+{% endif %}
+<p>
+  {{ post.date|date:"%d.%m.%Y" }}<br/>
+  {{ author }}
+</p>

@@ -3,25 +3,26 @@ layout: default
 title: Blog
 ---
 
-<div class="row">
-  <div class="col-lg-8">
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <div class="post">
+<div class="posts">
+  {% for post in paginator.posts %}
+    <div class="post">
+      <div class="row">
+        <div class="col-lg-9">
           <div class="post-header">
             <h3 class="post-title">
               <a href="{{ site.baseurl }}{{ post.url|replace_first:'/','' }}">
                 {{ post.title|escape }}
               </a>
             </h3>
-            <small>
-              {% assign author = site.team[post.author] %}
-              {% if author.img %}
-                <img src="{{ author.img }}" alt="{{ post.author }}" class="img-circle"/>
-              {% endif %}
-              {{ post.author }}
-            </small>
           </div>
+        </div>
+        <div class="col-lg-3">
+          {% assign author=post.author %}
+          {% include author_info.html %}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8">
           <div class="post-content">
             {% if post.image %}
               <img src="{{ post.image.src }}" alt="{{ post.image.title }}" class="img-responsive"/>
@@ -29,8 +30,10 @@ title: Blog
             {{ post.content }}
           </div>
         </div>
-      {% endfor %}
+      </div>
     </div>
+  {% endfor %}
+</div>
 
     <ul class="list-unstyled">
     {% if paginator.previous_page %}
