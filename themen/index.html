@@ -4,5 +4,14 @@ title: Themen
 description: ''
 ---
 
-Ich bin eine Banane!
-
+<ul>
+{% for pg in site.pages %}
+  {% if pg.layout == "thema" %}
+    <li>
+      <a href="{{ site.baseurl }}{{ pg.url|replace_first:'/',''|replace_first:'index.html','' }}">
+        {{ pg.title }}
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
