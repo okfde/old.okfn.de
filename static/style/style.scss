@@ -137,6 +137,10 @@ footer {
   }
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
 
 
 
@@ -144,7 +148,7 @@ footer {
 .home-demo {
   //background: url(../images/home_demo.png) no-repeat;
   margin: -2em 0 0 0;
-  padding: 10em 0 5em 0; 
+  padding: 1em 0 5em 0;
 
   .claim {
     padding: 1em 0 1em 0;
@@ -152,6 +156,11 @@ footer {
     color: $okf-darkgrey;
     font-size: 2.2em;
     text-align: left;
+    line-height: 100%;
+
+    h1 {
+      text-align: center;
+    }
   }
 
   .kpi {
