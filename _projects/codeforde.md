@@ -2,7 +2,7 @@
 title: codefor.de
 url: http://codefor.de/
 img: http://okfn.de/files/2014/02/CFG_500x500.jpg
-contact: Julia Kloiber, Fiona Krakenbürger
+contact: Julia Kloiber, Fiona Krakenbuerger
 twitter: codeforde
 g+: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
 status: active
