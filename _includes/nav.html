@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="{{site.baseurl}}">
-        <img src="{{ site.staticurl }}images/logo_text_w.png" 
+        <img id="logo" src="{{ site.staticurl }}images/{% if page.whitelogo %}logo_white.png{% else %}logo_black.png{% endif %}" width="75" height="75"
           alt="Open Knowledge Foundation Deutschland">
       </a>
     </div>
