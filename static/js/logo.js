@@ -13,14 +13,14 @@
   var radius = 25/75 * height;
   var angleOffset = -Math.PI / 180 * 3.6;
   var animAngle = 0;
-  var animAngleSpeed = 0.02;
+  var animAngleSpeed = 0.01;
   var lineWidth = 2;
   var lineCount = 35;
   var minLineHeight = 1;
   var maxLineHeight = height / 6;
   var minLineSpeed = 1;
   var maxLineSpeed = 10;
-  var lineSpeedDiv = 200;
+  var lineSpeedDiv = 250;
   var backgroundColor = 'transparent';
   var lineColor = '#fff';
 
