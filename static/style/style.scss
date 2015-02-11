@@ -7,6 +7,22 @@ $footer-color-2: rgb(12, 74, 93);
 
 $primary-color: $okf-primary;
 
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flexwrap($value) {
+  -webkit-flex-wrap: $value;
+  -moz-flex-wrap:  $value;
+  -webkit-flex-wrap:  $value;
+  -ms-flex-wrap:  $value;
+  flex-wrap:  $value;
+}
+
 body {
   color: #333;
   font-family: 'Open Sans', sans-serif;
@@ -30,14 +46,22 @@ a, a:hover, a:focus {
 }
 
 .row-equal {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  width: 100%;
+  @include flexbox();
+  @include flexwrap(wrap);
+  -webkit-align-items: stretch;
+  align-items: stretch;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-align-content: stretch;
+  align-content: stretch;
 }
 
 .container {
   max-width: 1200px;
+  overflow: hidden;
 }
 
 .navbar-okfn {
@@ -116,9 +140,6 @@ a, a:hover, a:focus {
     padding-top: 35px;
     padding-bottom: 35px;
   }
-  .page-highlight {
-    margin-top: -10%;
-  }
 }
 
 .footer {
@@ -170,12 +191,22 @@ a, a:hover, a:focus {
   border-color: lighter($okf-primary, 20%);
 }
 
+.top-box {
+  background-color: #fff;
+  padding: 20px 40px 40px;
+  margin: -10% auto 2em;
+}
+
 .box {
   background-color: #fff;
-  color: #333;
-  padding: 40px;
   display: block;
-  margin-bottom: 20px;
+  margin: 1em;
+  flex: 1 0 auto;
+  min-width: 250px;
+}
+
+.box .inner {
+  padding: 40px;
 }
 
 .box h1, .box h2, .box h3 {
@@ -187,9 +218,35 @@ a, a:hover, a:focus {
 }
 
 .box-image {
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  padding-top: 50%;
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* padding-top: 260px; */
+
+}
+.box-image > img {
+  width: 100%;
+}
+
+.box-featured {
+  width: 40%;
+}
+
+.box-tool {
+  width: 25%;
+  /* flex: 1 0 0; */
+}
+
+.box-event {
+  width: 25%;
+}
+
+.box-research {
+  width: 20%;
+}
+
+
+.box-archive {
+  width: 20%;
 }
 
 .theme-header {
