@@ -1,0 +1,26 @@
+{% assign colsize = include.colsize %}
+{% assign projects = include.projects %}
+
+{% assign colmax = 12|divided_by:colsize %}
+{% assign colcount = 0 %}
+{% for project in projects %}
+  {% if colcount == 0 %}
+    <div class="row row-equal">
+  {% endif %}
+  {% assign fullspan=colcount|times:colsize %}
+  {% assign fullspan=12|minus:fullspan %}
+  <div class="{% if forloop.last %}col-md-{{ fullspan }}{% else %}col-md-{{ colsize }}{% endif %}">
+    <a class="box box-image" href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}" {% if project.img.size > 0 %}style="background-image:url('{% if project.img contains 'http' %}{{ project.img }}{% else %}{{ site.staticurl }}images/{{ project.img }}{% endif %}');"{% endif %}>
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.teaser }}</p>
+    </a>
+  </div>
+  {% assign colcount = colcount|plus:1 %}
+  {% if colcount == colmax %}
+    {% assign colcount = 0 %}
+    </div>
+  {% endif %}
+{% endfor %}
+{% if colcount > 0 %}
+  </div>
+{% endif %}

@@ -1,17 +1,33 @@
 ---
-layout: default
+layout: page
 title: Projekte
 description: ''
+whitelogo: yes
+menu_projekte: yes
+
 ---
 
-<h3>Projekte</h3>
+<div class="box page-highlight col-md-7 col-center text-center">
+  <h2>Projekte</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</div>
 
-<ul>
-  {% for project in site.projects %}
-    <li>
-      <a href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
-        {{ project.title }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+{% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
+{% include project_list.html projects=projects colsize=6 %}
+
+{% assign projects = site.projects | where: "type", "tool" %}
+{% include project_list.html projects=projects colsize=4 %}
+
+<h3>Events</h3>
+{% assign projects = site.projects | where: "type", "event" %}
+{% include project_list.html projects=projects colsize=4 %}
+
+
+<h3>Forschungsprojekte</h3>
+{% assign projects = site.projects | where: "type", "research" %}
+{% include project_list.html projects=projects colsize=4 %}
+
+
+<h4>Archiv</h4>
+{% assign projects = site.projects | where: "type", "archive" %}
+{% include project_list.html projects=projects colsize=3 %}

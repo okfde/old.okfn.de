@@ -1,17 +1,34 @@
 ---
 layout: default
 title: Themen
-description: ''
+menu_themen: yes
+
 ---
 
-<ul>
-{% for pg in site.pages %}
-  {% if pg.layout == "thema" %}
-    <li>
-      <a href="{{ site.baseurl }}{{ pg.url|replace_first:'/',''|replace_first:'index.html','' }}">
-        {{ pg.title }}
+{% assign themen = site.pages|where:"layout","thema"|sort:"title" %}
+
+<div class="theme-header">
+  <h1>Themen</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis in facilis eaque soluta, tempora. Quaerat deserunt, eius et pariatur asperiores placeat alias quis saepe, consectetur cumque ea sunt necessitatibus hic!</p>
+  <ul class="nav-list">
+    {% for thema in themen %}
+      <li>
+        <a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
+          {{ thema.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% for thema in themen %}
+    <div class="theme-item"{% if thema.background.size > 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}>
+      <a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}" class="container box col-md-7 col-center text-center">
+        <h2>{{ thema.title }}</h2>
+        <p>{{ thema.teaser }}</p>
+        <p>
+          mehr erfahren
+        </p>
       </a>
-    </li>
-  {% endif %}
+    </div>
 {% endfor %}
-</ul>

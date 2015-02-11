@@ -1,26 +1,29 @@
-<nav class="navbar navbar-default navbar-static-top" role="navigation">
+<nav class="navbar navbar-okfn" role="navigation" style="background-image:url('{{ site.staticurl }}images/{% if page.background %}{{ page.background }}{% else %}backgrounds/background.jpg{% endif %}')">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse"
-        data-target="#mainmenu">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
       <a class="navbar-brand" href="{{site.baseurl}}">
         <img id="logo" src="{{ site.staticurl }}images/{% if page.whitelogo %}logo_white.png{% else %}logo_black.png{% endif %}" width="75" height="75"
           alt="Open Knowledge Foundation Deutschland">
       </a>
     </div>
 
-    <div class="collapse navbar-collapse" id="mainmenu">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a class="nav-link" href="{{ site.baseurl }}themen/">Themen</a></li>
-        <li><a class="nav-link" href="{{ site.baseurl }}projekte/">Projekte</a></li>
-        <li><a class="nav-link" href="{{ site.baseurl }}community/">Community</a></li>
-        <li><a class="nav-link" href="{{ site.baseurl }}blog/">Blog</a></li>
-        <li><a class="nav-link" href="{{ site.baseurl }}services/">Services</a></li>
+    <div id="mainmenu">
+      <ul class="nav navbar-nav navbar-right {% if page.whitenav %}nav-white{% else %}nav-black{% endif %}">
+        <li{% if page.menu_themen %} class="active"{% endif %}>
+          <a class="nav-link" href="{{ site.baseurl }}themen/">Themen</a>
+        </li>
+        <li{% if page.menu_projekte %} class="active"{% endif %}>
+          <a class="nav-link" href="{{ site.baseurl }}projekte/">Projekte</a>
+        </li>
+        <li>
+          <a class="nav-link" href="{{ site.baseurl }}community/">Community</a>
+        </li>
+        <li>
+          <a class="nav-link" href="{{ site.baseurl }}blog/">Blog</a>
+        </li>
+        <li>
+          <a class="nav-link" href="{{ site.baseurl }}services/">Services</a>
+        </li>
       </ul>
     </div>
   </div>
