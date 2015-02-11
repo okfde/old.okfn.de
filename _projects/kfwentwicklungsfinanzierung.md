@@ -3,7 +3,7 @@ title: "KFW Entwicklungsfinanzierung"
 url: http://transparenz.kfw-entwicklungsbank.de
 img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/015.png
 contact: Christian Kreutz
-status: activ
+type: archive
 
 ---
 
