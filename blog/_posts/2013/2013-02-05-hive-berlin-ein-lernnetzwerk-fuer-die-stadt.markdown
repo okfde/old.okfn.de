@@ -15,6 +15,8 @@ tags:
 - offenes Wissen
 title: 'Hive Berlin: Ein Lernnetzwerk für die Stadt'
 type: post
+
+
 ---
 
 Organisierst du Lernveranstaltungen? Bist du begeistert von Tech? Denkst du das Berlin besser vernetzt sein könnte?

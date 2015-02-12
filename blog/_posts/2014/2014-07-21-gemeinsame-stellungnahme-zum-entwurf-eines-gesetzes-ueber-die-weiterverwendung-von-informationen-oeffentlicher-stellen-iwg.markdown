@@ -13,6 +13,8 @@ status: publish
 tags: []
 title: Gemeinsame Stellungnahme zum Entwurf eines Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen (IWG)
 type: post
+
+
 ---
 
 Folgende Stellungnahme haben Open Knowledge Foundation Deutschland e.V., [Wikimedia Deutschland e.V.](http://www.wikimedia.de), [Digitale Gesellschaft e. V.](https://digitalegesellschaft.de/) und [Creative Commons Deutschland](http://de.creativecommons.org/) zum [Entwurf einer Neufassung des Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen (IWG)](https://www.bmwi.de/BMWi/Redaktion/PDF/Gesetz/entwurf-eines-gesetzes-ueber-die-weiterverwendung-von-informationen-oeffentlicher-stellen,property=pdf,bereich=bmwi2012,sprache=de,rwb=true.pdf) abgegeben und an das Bundesministerium für Wirtschaft und Energie übermittelt:

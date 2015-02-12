@@ -13,6 +13,8 @@ tags:
 - Open Science
 title: Open Science Sum-Up März
 type: post
+
+
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie openscienceASAP.

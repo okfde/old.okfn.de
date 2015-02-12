@@ -17,6 +17,8 @@ tags:
 - Transparenz
 title: 'Einladung: Wie transparent ist die deutsche Entwicklungszusammenarbeit?'
 type: post
+
+
 ---
 
 Die **[Hertie School of Governance](http://www.hertie-school.org)**, **[Transparency International Deutschland](http://www.transparency.de/)** und **[ONE](http://www.one.org/de/)** laden zur folgenden Veranstaltung ein:

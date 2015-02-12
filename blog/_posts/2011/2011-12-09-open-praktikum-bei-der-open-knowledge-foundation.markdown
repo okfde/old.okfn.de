@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: Praktikum bei der Open Knowledge Foundation
 type: post
+
+
 ---
 
 Wir haben soeben unsere erste Praktikumsausschreibung veröffentlicht und freuen uns über Interesse. Details gibt es [hier nachzulesen.](http://okfn.de/organisation/jobs/)

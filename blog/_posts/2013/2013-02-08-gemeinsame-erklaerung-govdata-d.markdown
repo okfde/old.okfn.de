@@ -15,6 +15,8 @@ tags:
 - Open Government
 title: Gemeinsame Erklärung zum geplanten Datenportal für Deutschland
 type: post
+
+
 ---
 
 In einer gemeinsamen Erklärung mit dem Titel: "Den Standard endlich auf “Offen” setzen: Deutschland verschenkt mit dem geplanten Datenportal GovData.de eine große Chance" auf der Webseite  fordern Vertreter der deutschen Open-Data-Community "**zugängliche Plattformen und offene Lizenzen für unsere Daten**" und begründen, warum "**die Plattform govdata.de in der jetzt vorgesehenen Form nicht akzaptabel ist"**.

@@ -15,6 +15,8 @@ tags:
 - Abmahnung
 title: Bundesrepublik Deutschland mahnt die Open Knowledge Foundation ab
 type: post
+
+
 ---
 
 Das Bundesministerium des Innern (BMI) hat das Informationsfreiheitsportal FragDenStaat.de der gemeinnützigen Open Knowledge Foundation Deutschland e.V. wegen der Veröffentlichung einer Stellungnahme abgemahnt, die zuvor vom BMI nach dem Informationsfreiheitsgesetz herausgegeben wurde. Mit diesem Schritt versucht die Bundesregierung das Urheberrecht zu nutzen, um die Berichterstattung über ein brisantes Dokument einzuschränken.

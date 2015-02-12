@@ -17,6 +17,8 @@ tags:
 - Transparenz
 title: Informationsfreiheit, Open Data und Fahrradunfälle
 type: post
+
+
 ---
 
  Foto von [JL](http://piqs.de/fotos/136901.html) (Lizenziert unter: [CC BY 2.0 DE](http://creativecommons.org/licenses/by/2.0/de/deed.de))

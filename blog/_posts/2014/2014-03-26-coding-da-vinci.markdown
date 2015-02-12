@@ -19,6 +19,8 @@ tags:
 - OpenGLAM
 title: Coding da Vinci - Der Kultur-Hackathon
 type: post
+
+
 ---
 
 Kennt ihr gute Apps, Dienste oder Visualisierungen mit offenen Kulturdaten? Nein? Gemeinsam mit euch wollen wir das ändern und laden zu **[Coding da Vinci**](http://codingdavinci.de/), dem ersten deutschen Kultur-Hackathon nach Berlin ein!

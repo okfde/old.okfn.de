@@ -12,6 +12,8 @@ tags:
 - offener Haushalt
 title: Tranzparenz in Deutschland - die Chronik des geschlossenen Haushalts
 type: post
+
+
 ---
 
 Seit etwa zwei Jahren versuchen wir nun aus offizieller Quelle Zugriff auf die analysierbaren Zahlen des Bundeshaushalts zu erhalten. Während Staaten wie [England](http://data.gov.uk/) und die [USA](http://usaspending.gov/) längst einen direkten Zugriff auf die eigenen Kassen (also die einzelnen Empfänger öffentlicher Gelder) ermöglichen, scheitert im Bund bereits der einfache Zugriff auf die Budgetdaten. Hier also die beinahe komische Chronik der Diskussion:

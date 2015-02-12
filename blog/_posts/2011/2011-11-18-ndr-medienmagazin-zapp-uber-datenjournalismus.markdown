@@ -13,6 +13,8 @@ tags:
 - Transparenz
 title: NDR Medienmagazin ZAPP über Datenjournalismus
 type: post
+
+
 ---
 
 Das NDR-Medienmagazin ZAPP hat einen interssaten Beitrag über Datenjournalismus gemacht. Dazu wurde unter anderem auch Stefan Wehrmeyer von der OKF interviewt. Die Videos stehen erfreulicherweise unter CC-BY.

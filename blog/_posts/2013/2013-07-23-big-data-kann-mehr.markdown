@@ -14,6 +14,8 @@ tags:
 - Data Philanthropy
 title: Big Data Kann Mehr
 type: post
+
+
 ---
 
 Wer den Gewinner des [Eurovision Song Contest](http://www.techweekeurope.co.uk/news/eurovision-big-data-microsoft-research-116561) schon vor der eigentlichen Veranstaltung kennen will, den [Mitarbeiterbedarf seines Drogeriemarkts](http://www.welt.de/wirtschaft/webwelt/article114121023/Wie-die-Sammler-von-Big-Data-uns-durchleuchten.html) Wochen im Voraus planen muss oder seine Chancen auf einen [Sieg bei der amerikanischen Präsidentschaftswahl](http://swampland.time.com/2012/11/07/inside-the-secret-world-of-quants-and-data-crunchers-who-helped-obama-win/) verbessern möchte, der verlässt sich heutzutage nicht mehr auf die Einschätzung von Experten, seine BWL-Kenntnisse oder ein Team von Beratern. Vielmehr wird er versuchen, die Antwort in einem Berg von Daten zu suchen.

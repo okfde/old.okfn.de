@@ -19,6 +19,8 @@ tags:
 - Open Government Partnership
 title: Open Data Index 2013 - Deutschland bleibt Open Data Entwicklungsland
 type: post
+
+
 ---
 
 Kurz vor dem jährlichen Treffen der Mitglieder der [Open Government Partnership in London](http://www.opengovpartnership.org/get-involved/london-summit-2013) hat die Open Knowledge Foundation den aktuellen [Open Data Index 2013](http://index.okfn.org) veröffentlicht. Der Index sammelt Informationen zu 70 Ländern und zeigt das alle Regierungen sich noch schwer tun, wichtige Informationen offen und frei zugänglich zu veröffentlichen.  

@@ -15,6 +15,8 @@ tags:
 - Creative Commons
 title: Creative-Commons Lizenztextlesung auf der alle Fragen rund um freie Lizenzen gestellt werden können
 type: post
+
+
 ---
 
  Foto von Jöran Muuß-Merholz unter [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/).

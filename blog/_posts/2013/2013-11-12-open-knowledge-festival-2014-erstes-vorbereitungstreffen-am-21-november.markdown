@@ -22,6 +22,8 @@ tags:
 - Open Knowledge Foundation
 title: OKFestival 2014 - erstes Vorbereitungstreffen am 21. November
 type: post
+
+
 ---
 
 Knapp ein Jahr ist es her, dass sich Mitglieder und Freunde des Netzwerks der Open Knowledge Foundation zum großen Open Knowledge Festival (OKFestival) in Helsinki getroffen haben. Mehr als 1000 Besucher aus 50 Ländern trafen sich damals, um mit Referenten wie [Hans Rosling](http://blog.okfn.org/2012/09/21/demand-carbon-dioxide-data-says-hans-rosling-to-open-data-advocates-at-okfestival/) über den Wert offener Daten in der Wissenschaft zu diskutieren, gemeinsam das erste "[Open Book](http://blog.okfn.org/2013/03/18/theopenbook/)" zu entwerfen und neue Projekte zu beginnen. ([Mehr Videos und Berichte](http://blog.okfn.org/2012/10/29/okfestival-2012-one-month-later/))  

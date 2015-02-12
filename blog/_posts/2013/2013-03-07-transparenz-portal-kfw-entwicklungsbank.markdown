@@ -16,6 +16,8 @@ tags:
 - Open Aid
 title: Transparenz Portal KfW-Entwicklungsbank
 type: post
+
+
 ---
 
 In der Regel haben Organisationen in der Entwicklungszusammenarbeit nette Webseiten mit Projektbeschreibungen und viele Texte zu großen Themen. Wenn es um Gelder geht, kochen die meisten Webseiten aber auf Sparflamme. Die KfW-Entwicklungsbank wollte das ändern und deswegen haben wir sie dabei unterstützt.

@@ -19,6 +19,8 @@ tags:
 - Transparenz
 title: Konsultation zur Bereitstellung offener Daten in Bremen
 type: post
+
+
 ---
 
  © [Edu Martinez](www.flickr.com/photos/dukros/4323732956), Creative Commons 2.0 

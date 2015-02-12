@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: 'OKF in Berlin: Meetup diesen Samstag!'
 type: post
+
+
 ---
 
 As the Co-Founder and Director of the Open Knowledge Foundation, Rufus Pollock, is currently in Berlin, we're organizing a small meetup this Saturday for everyone interested in working on some of the OKFs German open data projects. 

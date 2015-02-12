@@ -14,6 +14,8 @@ tags:
 - Open Data
 title: Eine Standardlizenz für Open Data in der EU?
 type: post
+
+
 ---
 
 Am 12. Dezember 2011 hat Neelie Kroes, Vizepräsidentin der EC hatte die Vorschläge der Europäischen Kommission zur Revision der Richtlinie 2003/98/EG vorgestellt (siehe unseren [Bericht](http://okfn.de/2011/12/die-open-data-strategie-der-europaeischen-kommission/) dazu). Darin findet sich unter anderem ein Absatz zu Lizenzen in dem die Einführung von "Standardlizenzen" empfohlen wird. Leider bleibt unklar, was untere einer "Standardlizenz" zu verstehen sei, ausserdem ist zu befürchten, dass die ungenaue Formulierung zur Entwicklung von dutzenden "Standardlizenzen" in Europa führen wird - jedes Land seine eigene. Das dies enorme Probleme hinsichtlich der Kompatibilität führen wird ist offensichtlich.

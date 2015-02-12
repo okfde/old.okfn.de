@@ -14,6 +14,8 @@ tags:
 - Open Data
 title: 'Offene Geodaten Berlin: Wir fangen dann schon mal an…'
 type: post
+
+
 ---
 
 Wir begrüßen die Initiative des neuen Berliner Senats:

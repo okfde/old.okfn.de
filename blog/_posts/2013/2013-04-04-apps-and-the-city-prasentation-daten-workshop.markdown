@@ -17,6 +17,8 @@ tags:
 - Workshop
 title: 'Apps and the City: App Präsentation & Daten Workshop'
 type: post
+
+
 ---
 
 **Mit einer umfassenden Vorstellung von prototypischen Apps, die im Rahmen des von der Open Knowledge Foundation Deutschland in Kooperation mit dem [Verkehrsverbund Berlin-Brandenburg](http://www.vbb.de/de/index.html) (VBB) durchgeführten [Apps and the City](http://appsandthecity.net/) Projekts in Berlin entwickelt wurden, fand nun am 22. März 2013 die erste öffentliche Zwischenpräsentation in den Räumlichkeiten des VBB statt.**

@@ -10,6 +10,8 @@ status: publish
 tags: []
 title: Ideenbörse “Offene Daten” in Leipzig
 type: post
+
+
 ---
 
 Auf einer [Ideenbörse zum Thema “Offene Daten”](http://leipzig-netz.de/blog/?p=17) wollen Leipziger Bürger am 11. Januar 2013 Fragen der kooperativen Nutzung digitaler Informationen in ihrer Region diskutieren. Am folgenden Wochenende sollen zudem schnell umsetzbare Projektideen zur Nutzung Offener Daten durch Leipziger Vereine und Unternehmen mit erfahrenen Programmierern umgesetzt und gemeinsam mit interessierten Akteuren Pilotprojekte vorangetrieben werden.

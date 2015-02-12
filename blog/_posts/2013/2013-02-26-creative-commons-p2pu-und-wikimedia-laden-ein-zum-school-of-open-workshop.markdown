@@ -16,6 +16,8 @@ tags:
 - Wikimedia
 title: Creative Commons, P2PU und Wikimedia laden ein zum School of Open-Workshop!
 type: post
+
+
 ---
 
 [School of Open Project Showcase](http://vimeo.com/60035152) from [Creative Commons](http://vimeo.com/creativecommonsvideos) on [Vimeo](http://vimeo.com).

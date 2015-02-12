@@ -10,6 +10,8 @@ tags:
 - Knowledge Base
 title: 'Knowledege Base Update: Was bedeutet eigentlich "offen"?'
 type: post
+
+
 ---
 
 In unserer [Knowledge Base](http://wiki.okfn.de/KnowledgeBase) im [Wiki ](http://wiki.okfn.de)steht nun der[ zweite Beitrag ](http://wiki.okfn.de/Wasmeintoffenheit)bereit zum lesen:

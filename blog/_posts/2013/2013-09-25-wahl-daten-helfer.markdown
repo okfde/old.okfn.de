@@ -20,6 +20,8 @@ tags:
 - Open Data
 title: Wahl.Daten.Helfer. – ein produktives Wahlwochenende
 type: post
+
+
 ---
 
 Am Wahlwochenende haben sich Entwickler, Designer und interessierte Bürger in Berlin, Köln und Ulm getroffen, um gemeinsam an kreativen Anwendungen und Visualisierungen rund um Daten zur Bundestagswahl zu arbeiten. 

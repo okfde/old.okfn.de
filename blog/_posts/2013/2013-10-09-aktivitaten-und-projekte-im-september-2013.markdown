@@ -22,6 +22,8 @@ tags:
 - Open Access
 title: Aktivitäten und Projekte im September 2013
 type: post
+
+
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 

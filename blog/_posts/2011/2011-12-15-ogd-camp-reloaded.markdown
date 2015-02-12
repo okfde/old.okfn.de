@@ -12,6 +12,8 @@ tags:
 - OKFN
 title: OGD Camp reloaded
 type: post
+
+
 ---
 
 Viele von euch waren sicherlich beim [Open Government Data Camp](http://ogdcamp.org) in Warschau dabei, einige wären gerne dagewesen, konnten aber nicht. Alle die da waren konnten sicherlich nicht alles ansehen und behalten was sie wollten.

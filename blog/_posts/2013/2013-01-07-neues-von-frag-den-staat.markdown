@@ -12,6 +12,8 @@ tags:
 - Open Data
 title: Neues von Frag den Staat
 type: post
+
+
 ---
 
 Stefan Wehrmeyer hat auf dem Chaos Computer Congress einen Vortrag über [Frag den Staat](https://fragdenstaat.de/) gehalten, den wir euch nicht vorenthalten wollen. Hier sein vorläufiges Resümee nach 1,5 Jahren Projektlaufzeit:

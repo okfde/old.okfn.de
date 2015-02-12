@@ -12,6 +12,8 @@ tags:
 - Open Knowledge
 title: Open Government Data Camp 2010
 type: post
+
+
 ---
 
 The Open Knowledge Foundation is organising an international workshop on open government data, which will take place in London this autumn:

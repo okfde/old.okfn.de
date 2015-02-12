@@ -19,6 +19,8 @@ tags:
 - VBB
 title: Apps and the City Rückblick
 type: post
+
+
 ---
 
 +++ 150 Teilnehmer, 15 Projekt Pitches, 5 Kisten Club Mate, 11 Stunden hacking +++

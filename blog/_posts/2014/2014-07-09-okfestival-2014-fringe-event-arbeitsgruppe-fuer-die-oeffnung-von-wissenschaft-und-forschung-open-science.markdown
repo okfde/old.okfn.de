@@ -14,6 +14,8 @@ status: publish
 tags: []
 title: 'OKFestival 2014 Fringe Event: Arbeitsgruppe für die Öffnung von Wissenschaft und Forschung (Open Science)'
 type: post
+
+
 ---
 
 Die Digitalisierung bietet der Wissenschaft vielfältige Chancen im Umgang mit Wissen und Information. Neue Verfahren des Austausches von Publikationen, Forschungsdaten, Programmcode und Lehrmaterialien über institutionelle, geographische und fachliche Grenzen hinweg haben auf Basis des Internets Eingang in Forschung und Lehre gefunden. 

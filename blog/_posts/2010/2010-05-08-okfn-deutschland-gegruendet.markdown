@@ -11,6 +11,8 @@ tags:
 - Open Knowledge
 title: OKF Deutschland gegründet
 type: post
+
+
 ---
 
 Im Rahmen des [Semantic Web Tages in Leipzig](http://aksw.org/Events/2010/LeipzigerSemanticWebDay) haben sich die anwesenden, neben den technischen Fragen des Semantic Web und verschiedenen Geschäftsmodellen, in einem Schwerpunkt mit offenen Daten und offenem Wissen beschäftigt.

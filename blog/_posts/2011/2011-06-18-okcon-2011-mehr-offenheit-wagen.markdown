@@ -15,6 +15,8 @@ tags:
 - Open Knowledge
 title: OKCon 2011 – Mehr Offenheit wagen!
 type: post
+
+
 ---
 
 Bei der [Open Knowledege Foundation](http://okfn.org/) arbeiten wir das ganze Jahr über daran, eine freie und offene Gesellschaft zu verwirklichen. Offenes Wissen, offene Daten und offene Technologien weltweit zu fördern liegt uns am Herzen. Wir arbeiten zusammen mit Entwicklern, Designern, Beamten, Juristen, Wissenschaftlern, Studenten, Aktivisten und allen anderen die unseren Traum teilen. Auf unserer jährlichen [Open Knowledge Conference](http://okcon.org/) laufen all unsere Aktivitäten zusammen, es ist eine großartige Gelegenheit Leute zu treffen, zu diskutieren und Sachen zu machen!

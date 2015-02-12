@@ -13,6 +13,8 @@ tags:
 - OKF Deutschland
 title: Softwareentwickler/in gesucht
 type: post
+
+
 ---
 
 In eigener Sache: Wir suchen einen erfahrenen Softwareentwickler oder eine erfahrene Softwareentwicklerin für die projektbezogene Zusammenarbeit auf Honorarbasis. Weitersagen, teilen oder gleich bewerben!

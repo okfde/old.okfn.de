@@ -17,6 +17,8 @@ tags:
 - Hackday
 title: Die "Energy Hack" Netztour – Eine Tour in das Gehirn des Stromnetzes
 type: post
+
+
 ---
 
 Am Freitag, den 12. Juli 2013, hatten die Gewinnerteams des Energy Hack bei einer Netztour im Berliner Stromnetz die Gelegenheit einen Blick hinter die Kulissen des Stromnetzbetriebes zu werfen. 

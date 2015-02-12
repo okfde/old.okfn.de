@@ -28,6 +28,8 @@ tags:
 - PublicDomainRemix
 title: Aktivitäten und Projekte im Juni 2013
 type: post
+
+
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 

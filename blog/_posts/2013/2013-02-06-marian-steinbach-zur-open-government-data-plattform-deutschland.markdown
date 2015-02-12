@@ -17,6 +17,8 @@ tags:
 - Open Government
 title: M. Steinbach zur Open Government Data Plattform Deutschland
 type: post
+
+
 ---
 
   

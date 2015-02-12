@@ -13,6 +13,8 @@ tags:
 - PSI
 title: LAPSI zweite öffentliche Konferenz
 type: post
+
+
 ---
 
 Am 23. and 24. Januar 2012 findet in Brüssel die zweite öffentliche Konferenz des LAPSI thematic network statt. Die Teilnahme an der Konferenz ist kostenfrei, um [Anmeldung](http://lapsi-conf02.eventbrite.com/) wird aber gebeten. Ich werde dort einen kurzen Vortrag zur Frage, inwieweit offene Daten bürgerliche Grundrechte stärken können, halten.

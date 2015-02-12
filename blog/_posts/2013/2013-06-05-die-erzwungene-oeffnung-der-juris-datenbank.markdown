@@ -16,6 +16,8 @@ tags:
 - OffeneGesetze
 title: Die erzwungene Öffnung der juris-Datenbank
 type: post
+
+
 ---
 
  Verwaltungsgerichtshof Baden-Württemberg (CC BY-SA 3.0)

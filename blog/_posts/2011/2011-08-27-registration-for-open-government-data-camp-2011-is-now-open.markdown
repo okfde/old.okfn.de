@@ -16,6 +16,8 @@ tags:
 - Open Government
 title: Registration for Open Government Data Camp 2011 is now open!
 type: post
+
+
 ---
 
 The following is a cross post from [Jonathan Gray](http://jonathangray.org/), Community Coordinator at the [Open Knowledge Foundation](http://www.okfn.org/).

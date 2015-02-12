@@ -17,6 +17,8 @@ tags:
 - Workshop
 title: 'Hackidemia: Workshops für Kids, Berlin 1. April'
 type: post
+
+
 ---
 
 HacKIDemia ist ein mobiles Erfinderlabor das die Verwandlung materieller und virtueller Dinge zum Thema eines umfangreichen Kursprogramms macht. Dabei werden modernste Technologien angewendet und für die Kursteilnehmer unmittelbar erfahrbar gemacht.  

@@ -13,6 +13,8 @@ tags:
 - Wikimedia
 title: Freies Wissen für Berlin
 type: post
+
+
 ---
 
 **Unsere Freunde und Kollegen von der Wikimedia bereiten eine weitere interessante Veranstaltung vor zu der ihr alle herzlich eingeladen seid: Wikipedia für Berlin - Berlin für Wikipedia?**

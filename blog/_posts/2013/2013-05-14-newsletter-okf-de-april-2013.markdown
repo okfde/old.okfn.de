@@ -21,6 +21,8 @@ tags:
 - VBB
 title: Newsletter OKF DE April 2013
 type: post
+
+
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**

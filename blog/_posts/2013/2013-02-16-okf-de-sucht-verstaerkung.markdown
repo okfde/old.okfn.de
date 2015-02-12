@@ -12,6 +12,8 @@ tags:
 - OKFN
 title: OKF DE sucht Verstärkung!
 type: post
+
+
 ---
 
 Die Open Knowledge Foundation Deutschland sucht einen wissenschaftlichen Mitarbeiter und zwei Praktikanten. Hier die Stellenbeschreibungen. Wir freuen uns geeignete Bewerbungen!

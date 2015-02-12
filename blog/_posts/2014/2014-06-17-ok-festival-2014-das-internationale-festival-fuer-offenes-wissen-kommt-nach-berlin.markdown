@@ -20,6 +20,8 @@ tags:
 - Konferenz
 title: OK Festival 2014 – Das internationale Festival für offenes Wissen kommt nach Berlin
 type: post
+
+
 ---
 
  OKFestival Orga 2012

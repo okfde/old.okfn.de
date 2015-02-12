@@ -10,6 +10,8 @@ tags:
 - Open Data
 title: 'Gastbeitrag: Gibt es ein "Open Movement"?'
 type: post
+
+
 ---
 
 Stefan Baack, 28 Jahre alt, schreibt derzeit eine Masterarbeit über die Open Data Bewegung an der Universität Bremen im Studiengang MA Medienkultur und geht in einem Gastbeitrag der Frage nach: Gibt es ein "Open Movement"? 

@@ -14,6 +14,8 @@ tags:
 - PSI
 title: Die Open Data Strategie der Europäischen Kommission
 type: post
+
+
 ---
 
 Neelie Kroes, Vizepräsidentin der EC und zuständig für die Digital Agenda hat am Montag, den 12. Dezember 2011 die Vorschläge der Europäischen Kommission zur Revision der Richtlinie 2003/98/EG, das sogenannte "Open Data Package" vorgestellt. Ebenfalls wurden heute die Ergebnisse einer lange erwartete [POPSIS Studie](http://ec.europa.eu/information_society/policy/psi/docs/pdfs/opendata2012/reports/Deloitte/summary.pdf) zu Preismodellen für Daten des öffentlichen Sektors veröffentlicht. Hier ist die [Videoübertragung und Transcript der Rede](http://ec.europa.eu/avservices/player/streaming.cfm?type=ebsvod&sid=192681) von Frau Kroes und hier Kontext und Links zu den Studien auf der [Webseite der Kommission](http://ec.europa.eu/information_society/policy/psi/index_en.htm):

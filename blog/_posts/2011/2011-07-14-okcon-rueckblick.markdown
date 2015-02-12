@@ -14,6 +14,8 @@ tags:
 - Open Knowledge
 title: OKCon Rückblick
 type: post
+
+
 ---
 
 Die [OKCon](http://okcon.org) ist vorbei und ich kann nach ein paar Tagen Ruhe wieder klar Denken: Es war einfach großartig! So viele kluge Köpfe mit so vielen interessanten Themen in so kurzer Zeit... das war eigentlich kaum zu schaffen! Ein wahrer intellektueller und emotionaler Marathon. Wir haben viel positives Feedback bekommen und ich bin sehr glücklich und auch ein bisschen stolz dabei geholfen zu haben dies alles zu ermöglichen. Doch in Wirklichkeit war es weder das spannende [Programm](http://okcon.org/programme) noch die großartigen [Vortragenden](http://okcon.org/2011/speakers) sondern vor allem IHR - alle Leute die dabei waren! Gemeinsam haben wir die OKCon zu dem gemacht was sie dieses Jahr war: eine großartige Konferenz. Danke an alle Beteiligten!

@@ -16,6 +16,8 @@ tags:
 - open data day
 title: 'Pics: Open Data Day 2013 @ Zeit ONLINE'
 type: post
+
+
 ---
 
 **Today is Open Data Day!** Find here first pictures from the **[Berlin hackathon](http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE)** which is currently taking place at the HQ of Zeit ONLINE.

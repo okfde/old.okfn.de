@@ -10,6 +10,8 @@ tags:
 - Open Access
 title: Anmeldung Open-Access-Tage
 type: post
+
+
 ---
 
 Am 4. und 5. Oktober 2011 finden in Regensburg die Open-Access-Tage 2011 statt. Wir würden uns sehr freuen, Sie in Regensburg begrüßen zu dürfen. Die Anmeldung ist noch bis Ende September online möglich.

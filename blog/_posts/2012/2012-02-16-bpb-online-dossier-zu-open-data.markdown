@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: 'BpB: Online-Dossier zu Open Data'
 type: post
+
+
 ---
 
 Die Bundeszentrale für politische Bildung (BpB) hat ein [Online-Dossier zu Open Data](http://www.bpb.de/themen/BTWEO5,0,0,Open_Data.html) veröffentlicht an dem ich neben [Christiane Schulzki-Haddouti](https://twitter.com/#!/kooptech) und [Lorenz Matzat](https://twitter.com/#!/lorz) mitgewirkt habe. Hier ein Auszug aus dem Dossier:

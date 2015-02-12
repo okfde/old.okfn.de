@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: Enquete-Beteiligung
 type: post
+
+
 ---
 
 Die Arbeitsgruppe ["Interoperabilität, Standards, Freie Software"](https://standards.enquetebeteiligung.de/instance/standards) der Enquete-Kommission Internet und  

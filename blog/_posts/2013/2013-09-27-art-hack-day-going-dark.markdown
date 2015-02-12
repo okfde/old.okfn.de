@@ -12,6 +12,8 @@ status: publish
 tags: []
 title: Art Hack Day - "Going Dark"
 type: post
+
+
 ---
 
  Art Hack Day Berlin

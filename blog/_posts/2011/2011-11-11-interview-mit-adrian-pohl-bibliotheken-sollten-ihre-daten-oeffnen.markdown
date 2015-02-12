@@ -14,6 +14,8 @@ tags:
 - OKFN
 title: 'Interview mit Adrian Pohl: Bibliotheken sollten ihre Daten öffnen'
 type: post
+
+
 ---
 
 [Adrian Pohl](http://www.uebertext.org/) arbeitet seit 2008 im Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen ([hbz](http://www.hbz-nrw.de/)). Er ist Koordinator der [Arbeitsgruppe der Open Knowledge Foundation zu Open Bibliographic Data](http://openbiblio.net/) und [Vorstandsmitglied der OKF DE](http://okfn.de/about/executive-board/). In diesem [Interview](http://blog.zeit.de/open-data/2011/11/08/open-bibliographic-data/) mit der Zeit Online berichtet Adrian über die Infrastruktur für offene bibliographische Daten:

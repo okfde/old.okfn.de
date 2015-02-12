@@ -13,6 +13,8 @@ status: publish
 tags: []
 title: Rückblick Open Aid Data Hackday
 type: post
+
+
 ---
 
 Annähernd 150 Teilnehmerinnen und Teilnehmer kamen zur **[Open Aid Data Konferenz in Berlin](http://openaiddata.de/)**. Die Veranstaltung führte zu spannenden Diskussionen, wie offene Daten für mehr Transparenz in der Entwicklungshilfe genutzt werden können. Am Vortag der Konferenz gab es ein Datenbank-Training von AidInfo und einen Hackday.

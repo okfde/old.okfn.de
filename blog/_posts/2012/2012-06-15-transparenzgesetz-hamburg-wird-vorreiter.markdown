@@ -12,6 +12,8 @@ tags:
 - Transparenz
 title: Transparenzgesetz – Hamburg wird Vorreiter!
 type: post
+
+
 ---
 
 Der folgende Artikel ist eine Zusammenarbeit von Daniel Dietrich und Christian Pauschert, der sonst auf [tkarten.wordpress.com](http://tkarten.wordpress.com/) bloggt.

@@ -18,6 +18,8 @@ tags:
 - Open Data Charter
 title: Stellungnahme zum Nationalen Aktionsplan der Bundesregierung zur Umsetzung der Open Data Charter der G8 (G7)
 type: post
+
+
 ---
 
 Grundsätzlich begrüßt die Open Knowledge Foundation Deutschland, dass die Bundesregierung mit fast einem Jahr Verspätung und als letztes der G7-Mitglieder endlich seinen [nationalen Open Data Aktionsplan (PDF)](http://www.bmi.bund.de/SharedDocs/Downloads/DE/Broschueren/2014/aktionsplan-open-data.pdf?__blob=publicationFile) veröffentlicht hat. Der veröffentlichte Aktionsplan enthält einige sehr gute und für das Thema Open Data in Deutschland recht progressive Ansätze. Allerdings gehen diese Ansätze aus Sicht der Open Knowledge Foundation Deutschland nicht weit genug. Anfang 2014 hat die Open Knowledge Foundation [einen Empfehlungskatalog für den nationalen Aktionsplan](http://okfn.de/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/) an das federführende Referat im Bundesinnenministerium (BMI) übermittlet. Von diesem Empfehlungskatalog wurden allerdings nur einige wenige Punkte übernommen.

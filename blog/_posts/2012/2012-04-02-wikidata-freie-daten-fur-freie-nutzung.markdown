@@ -14,6 +14,8 @@ tags:
 - WIkipedia
 title: Wikidata - freie Daten für freie Nutzung
 type: post
+
+
 ---
 
 Heute wurde bei Wikimedia Deutschland offiziell der Startschuss für das [Wikidata ](http://meta.wikimedia.org/w/index.php?title=Wikidata/de&uselang=de)Projekt gegeben.

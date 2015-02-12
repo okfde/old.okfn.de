@@ -13,6 +13,8 @@ tags:
 - Transparenz
 title: Strategische Anregungen zur Öffnung von Haushaltswesen und Haushaltsdaten
 type: post
+
+
 ---
 
 **Der folgende Artikel ist Gastbeitrag von Prof. Dr. Jörn von Lucke, Zeppelin Universität Friedrichshafen, Mitglied des [wissenschaftlichen Beitrats](http://okfn.de/organisation/beirat/) der Open Knowledge Foundation Deutschland. **

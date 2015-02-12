@@ -23,6 +23,8 @@ tags:
 - Zugang gestalten
 title: Aktivitäten und Projekte im Oktober 2013
 type: post
+
+
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**

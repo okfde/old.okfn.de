@@ -20,6 +20,8 @@ tags:
 - Open Government
 title: Drittes Barcamp Offene Kommunen.NRW am 9. November
 type: post
+
+
 ---
 
 Am 9. November veranstaltet das Kompetenznetz Bürgerhaushalt die dritte Tagung "[Offene Kommunen.NRW - Schritte in die Praxis](http://oknrw.de/)" in Wuppertal. 

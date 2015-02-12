@@ -15,6 +15,8 @@ tags:
 - Open Government
 title: Start des "Apps für Deutschland" -Wettbewerbs
 type: post
+
+
 ---
 
 Am 8. November 2011 wurde mit "Apps für Deutschland" der erste Open Data-Wettbewerb hierzulande eröffnet. Träger und Organisatoren des Wettbewerbs sind drei gemeinnützige Vereine: die Open Knowledge Foundation Deutschland, das Open Data Network und das Government 2.0 Netzwerk. Der Wettbewerb steht unter der Schirmherrschaft des Bundesinnenministeriums und wird unterstützt durch den Bundesverband Informationswirtschaft, Telekommunikation und neue Medien (Bitkom).

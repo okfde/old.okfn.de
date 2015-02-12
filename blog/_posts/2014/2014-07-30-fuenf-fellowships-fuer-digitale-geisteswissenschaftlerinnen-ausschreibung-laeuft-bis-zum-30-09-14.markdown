@@ -16,6 +16,8 @@ tags:
 - Fellowship
 title: Fünf Fellowships für (digitale) GeisteswissenschaftlerInnen. Ausschreibung läuft bis zum 30.09.14!
 type: post
+
+
 ---
 
 Im Rahmen der DH-Nachwuchsförderung sollen über die Ausschreibung von fünf [DARIAH-DE](http://de.dariah.eu/) Fellowships innovative sowie individuelle Ansätze und Projekte in den digitalen Geisteswissenschaften gefördert werden.

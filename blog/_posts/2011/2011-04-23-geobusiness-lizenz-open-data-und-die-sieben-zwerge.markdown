@@ -13,6 +13,8 @@ tags:
 - Open Data
 title: 'GeoBusiness Lizenz: Open Data und die sieben Zwerge'
 type: post
+
+
 ---
 
 **IANAL: I am not a lawyer, was folgt ist Laienmeinung vom allerübelsten.**

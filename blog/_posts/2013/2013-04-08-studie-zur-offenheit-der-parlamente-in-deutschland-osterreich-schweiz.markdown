@@ -16,6 +16,8 @@ tags:
 - Transparenz
 title: Studie zur Offenheit der Parlamente in Deutschland, Österreich und der Schweiz
 type: post
+
+
 ---
 
 Im folgenden Gastbeitrag stellt Markus Schmidt, die Studie "Opening Parlament in Deutschland, Österreich und der Schweiz" vor, im Rahmen einer Vorlesung "Digitale Nachhaltigkeit in der Wissensgesellschaft". 

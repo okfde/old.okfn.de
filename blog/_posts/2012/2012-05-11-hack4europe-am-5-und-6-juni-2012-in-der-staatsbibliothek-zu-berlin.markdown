@@ -14,6 +14,8 @@ tags:
 - Hackday
 title: Hack4Europe! am 5. und 6. Juni 2012 in der Staatsbibliothek zu Berlin
 type: post
+
+
 ---
 
 Europäische Kultur digital erfahrbar machen: Die Europeana Stiftung und ihre Partner laden zum [Hack4Europe! 2012](http://pro.europeana.eu/web/guest/hackathons), einer Veranstaltungsreihe mit Hack Days in mehreren europäischen Städten. Ziel der Hack Days ist es, das kreative Potenzial der frei zugänglichen digitalisierten Kulturobjekte in Europa zu erschließen.

@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: 'Wissenschaft revolutionieren: die neue Ära der vernetzten Wissenschaft'
 type: post
+
+
 ---
 
 Das Internet transformiert unsere Gesellschaft, von der Finanz-Welt bis zur Freundschaft. Und doch wird das Netz bislang nur selten von Wissenschaftlern für ihre Forschung benutzt. Eine kleine Avantgarde von Wissenschaftlern verschiedenster Fachrichtungen beginnt jetzt die Art wie wir Wissen schaffen mit bahnbrechenden Projekten zu revolutionieren. Egal ob Natur-, Kultur-, oder Geisteswissenschaftler, Student oder interessierter Laie: erfahren Sie mehr über diese neuesten Entwicklungen in den Wissenschaften in Michael Nielsens Vortrag am 16. September, 2011.

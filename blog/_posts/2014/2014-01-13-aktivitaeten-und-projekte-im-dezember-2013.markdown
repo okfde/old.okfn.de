@@ -14,6 +14,8 @@ status: publish
 tags: []
 title: Aktivitäten und Projekte im Dezember 2013
 type: post
+
+
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**

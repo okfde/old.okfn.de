@@ -17,6 +17,8 @@ tags:
 - Open Government
 title: 'Offener Brief: Aufruf an die neue Führung der Europäischen Union die Rechte und den Schutz des Einzelnen zu garantieren'
 type: post
+
+
 ---
 
 In einem Zeitalter, in dem Regierungen und Unternehmen immer mehr private Daten sammeln, bedarf es klarer Regeln und effektiver Mechanismen, um die Rechte und den Schutz des Einzelnen zu garantieren. Deutschland und Europa haben international den Ruf, das Datenschutz und Schutz der Privatsphäre in diesen Regionen einen hohen Stellenwert haben. Die Erfahrungen, die Deutschland und Europa bei der Entwicklung von Gesetzen und Institutionen in diesem Bereich gemacht haben, dürfte anderen Nationen von großem Nutzen sein. Darüber hinaus würde ein Beitritt Deutschlands und Europas dem bisher sehr angelsächsischen Einschlag in der OGP eine neue Sichtweise geben. [Deutschland und die EU brauchen die OGP, aber die OGP braucht auch Deutschland und die EU!](http://okfn.de/2013/10/deutschland-muss-der-open-government-partnership-beitreten/)

@@ -13,6 +13,8 @@ status: publish
 tags: []
 title: Open Science Sum-Up Juni
 type: post
+
+
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.

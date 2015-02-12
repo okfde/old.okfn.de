@@ -16,6 +16,8 @@ tags:
 - offene Daten
 title: GovData in der Evaluationsphase
 type: post
+
+
 ---
 
 „[GovData – Das Datenportal für Deutschland](https://www.govdata.de/)“ ging als föderal übergreifendes Datenportal am 19. Februar als Pilotprojekt online und besteht nun über ein halbes Jahr. Von ehemals 1.100 Datensätzen sind nun knapp 3.700 Daten online verfügbar - davon auch Datensätze in 14 Kategorien, die über eine Stadt oder ein Bundesland viel mehr Informationen beinhalten als bspw. ein regionales Datenangebot. Der Großteil der Daten steht unter einer freien Nutzung (Namensnennung) zur Verfügung, knapp 700 Daten sind leider nur eingeschränkt (kommerzielle Nutzung ausgeschlossen oder kostenpflichtig) nutzbar. Bis heute sind in Deutschland viele relevante Datensätze gar nicht oder nicht als offene Daten [zugänglich](http://okfn.de/2013/05/offene-lizenzen-fuer-daten-und-dokumente-der-deutschen-verwaltung/).

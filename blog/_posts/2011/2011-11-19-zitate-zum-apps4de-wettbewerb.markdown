@@ -13,6 +13,8 @@ tags:
 - Open Data
 title: Ein paar schöne Zitate zum Apps4DE Wettbewerb
 type: post
+
+
 ---
 
 Rechtzeitig zum Apps für Deutschland Wettbewerb haben wir ein paar besonders [schöne Zitate](http://apps4deutschland.de/category/statements/) sammeln können.

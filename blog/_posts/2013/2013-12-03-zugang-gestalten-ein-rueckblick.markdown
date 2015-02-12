@@ -18,6 +18,8 @@ tags:
 - OpenGLAM
 title: Zugang gestalten - Ein Rückblick
 type: post
+
+
 ---
 
  Foto: David Jacob, CC-BY-SA

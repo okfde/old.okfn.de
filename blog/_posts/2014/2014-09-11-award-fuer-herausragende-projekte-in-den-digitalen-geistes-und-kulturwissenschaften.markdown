@@ -15,6 +15,8 @@ tags:
 - DARIAH
 title: Award für herausragende Projekte in den digitalen Geistes- und Kulturwissenschaften
 type: post
+
+
 ---
 
 Ab sofort und bis zum Einsendeschluss am 1.Dezember 2014 schreiben wir zusammen mit [DARIAH-DE](http://de.dariah.eu) einen [Digital Humanities Award](https://de.dariah.eu/dh-award-programm) aus.

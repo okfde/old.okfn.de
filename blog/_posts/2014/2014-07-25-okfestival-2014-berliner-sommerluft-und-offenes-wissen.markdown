@@ -14,6 +14,8 @@ tags:
 - OKFestival
 title: 'OKFestival 2014: Berliner Sommerluft und offenes Wissen'
 type: post
+
+
 ---
 
  Photo by [Marieke Guy](https://secure.flickr.com/photos/mariekeguy/) under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)

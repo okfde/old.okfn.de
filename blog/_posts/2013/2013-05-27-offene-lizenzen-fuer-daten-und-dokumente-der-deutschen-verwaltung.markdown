@@ -16,6 +16,8 @@ tags:
 - offene Daten
 title: Offene Lizenzen für Daten und Dokumente der Deutschen Verwaltung
 type: post
+
+
 ---
 
 Im folgenden findet ihr die Kritik der Open Knowledge Foundation Deutschland am Datenangebot sowie der technischen und rechtlichen Ausgestaltung des gemeinsamen Datenportals von Bund und Ländern – [govdata.de](http://govdata.de).

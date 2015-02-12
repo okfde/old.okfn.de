@@ -16,6 +16,8 @@ tags:
 - offenes Wissen
 title: '#OERcamp - 14.–16. September 2012, Uni Bremen'
 type: post
+
+
 ---
 
 **Einladung zum #OERcamp 2012, das Barcamp zu digitalen und offenen Lehr-Lern-Materialien, 14.–16\. September 2012 an der Uni Bremen.**

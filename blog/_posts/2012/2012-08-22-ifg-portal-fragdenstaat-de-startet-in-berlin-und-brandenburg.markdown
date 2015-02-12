@@ -13,6 +13,8 @@ tags:
 - Transparenz
 title: IFG-Portal “FragDenStaat.de” startet in Berlin und Brandenburg
 type: post
+
+
 ---
 
 Ab sofort können Bürger in [Berlin](https://fragdenstaat.de/berlin/) und [Brandenburg](https://fragdenstaat.de/brandenburg/) Anfragen an Landes- und Kommunalbehörden über die zentrale Internetseite “[FragDenStaat.de](http://fragdenstaat.de/)” stellen. Die Organisationen Open Knowledge Foundation Deutschland und Transparency International Deutschland haben heute den offiziellen Startschuss für diese beiden Bundesländer gegeben.

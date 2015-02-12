@@ -18,6 +18,8 @@ tags:
 - Open Data
 title: Apps for Europe Wettbewerb - mitmachen!
 type: post
+
+
 ---
 
 Arbeiten Sie an einer App, die offene Daten verwendet? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:

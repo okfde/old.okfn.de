@@ -11,6 +11,8 @@ tags:
 - Open Aid
 title: Open Aid Data in Berlin
 type: post
+
+
 ---
 
 Der folgende Beitrag ist von Claudia Schwegmann von [Open Aid](http://www.openaid.de/).

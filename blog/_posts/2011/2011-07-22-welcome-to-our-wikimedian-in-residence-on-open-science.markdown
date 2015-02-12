@@ -14,6 +14,8 @@ tags:
 - Open Science
 title: Welcome to our Wikimedian in Residence on Open Science
 type: post
+
+
 ---
 
 Our work at the Open Knowledge Foundation, both in Germany and globally, often involves catalyzing the interactions between communities from diverse backgrounds that share a common goal. For example, the upcoming [Open Aid Data Konferenz](http://okfn.de/2011/07/open-aid-data-konferenz/) brings together communities working on and with Open Data, in and with the developing world, and on transparent governance.

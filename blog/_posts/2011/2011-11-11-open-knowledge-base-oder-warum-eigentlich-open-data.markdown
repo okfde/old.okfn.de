@@ -10,6 +10,8 @@ tags:
 - Knowledge Base
 title: Open Knowledge - base oder 'Warum eigentlich Open Data'
 type: post
+
+
 ---
 
 Seit unserer Gründung Anfang des Jahres haben wir schon viele spannende Projetkte gelauncht und weiterentwickelt, wir waren auf vielen Veranstaltungen präsent oder haben diese organisiert. Was bislang fehlt ist eine Übersicht über unsere Positionen und eine Dokumentation unserer Arbeitsweise.

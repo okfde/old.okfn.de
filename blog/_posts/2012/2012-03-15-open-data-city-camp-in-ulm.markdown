@@ -12,6 +12,8 @@ tags:
 - Veranstaltungen
 title: Open Data City Camp in Ulm
 type: post
+
+
 ---
 
 Der folgende Text wurde verfasst von Stefan Kaufmann

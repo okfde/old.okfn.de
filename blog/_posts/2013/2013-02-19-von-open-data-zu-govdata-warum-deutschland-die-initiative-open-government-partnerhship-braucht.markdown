@@ -18,6 +18,8 @@ tags:
 - Transparenz
 title: 'Von Open Data zu GovData: Warum Deutschland die Initiative Open Government Partnerhship braucht'
 type: post
+
+
 ---
 
 Wir haben schon seit Längerem den Eindruck, dass es Deutschlands Politik bezüglich Transparenz und Rechenschaft an Führung und Verpflichtung mangelt. Die Open Data Community versucht zwar immer wieder echtes Open Government einzufordern, die Ergebnisse bleiben bislang leider enttäuschend. Der Beitritt Deutschlands zur internationalen Initiative Open Government Partnership, könnte Teil einer Lösung sein.

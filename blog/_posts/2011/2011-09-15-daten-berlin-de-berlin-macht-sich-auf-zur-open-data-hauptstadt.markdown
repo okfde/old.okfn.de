@@ -12,6 +12,8 @@ status: publish
 tags: []
 title: 'daten.berlin.de: Berlin macht sich auf zur Open Data-Hauptstadt'
 type: post
+
+
 ---
 
 Gestern ist das neue Datenportal der Stadt Berlin, [daten.berlin.de](http://daten.berlin.de/), ans Netz gegangen. Zum ersten Mal gibt es damit einen offiziellen Katalog aller Datenbestände eines Bundeslands. Dieser erste Katalog kann damit zum Beispiel für ganz Deutschland werden: nicht nur sind die neu veröffentlichten Daten schön sortiert und einfach zugänglich, viele der neu veröffentlichten Bestände sind auch unter einer CC-BY 3.0 Lizenz freigegeben und damit die ersten wirklich "Open" Data in Deutschland! Offensichtlich wurden von den fleißigen Aktiven bei Fraunhofer FOKUS, dem Berliner Verlag und vor allem der Senatsverwaltung Wirtschaft die vielen Bedenken gegen eine offene Lizenzierung und eine liberale Freigabe erfolgreich ausgeräumt: es geht also!

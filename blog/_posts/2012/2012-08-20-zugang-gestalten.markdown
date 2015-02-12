@@ -15,6 +15,8 @@ tags:
 - Open Knowledge
 title: Zugang gestalten!
 type: post
+
+
 ---
 
 ### Mehr Verantwortung für das kulturelle Erbe

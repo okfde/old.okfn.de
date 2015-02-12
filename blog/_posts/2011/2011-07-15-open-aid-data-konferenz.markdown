@@ -15,6 +15,8 @@ tags:
 - Transparenz
 title: Open Aid Data Konferenz
 type: post
+
+
 ---
 
 Transparenz und offene Daten für mehr Wirkung in der Entwicklungszusammenarbeit  

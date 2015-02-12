@@ -17,6 +17,8 @@ tags:
 - PSI
 title: 'Call for Papers: D-A-CH-LI-Konferenz'
 type: post
+
+
 ---
 
 **2\. Konferenz der OGD-D-A-CH-LI-Reihe unter dem Motto: "Open Government – Bürgernähe durch Kulturwandel"**

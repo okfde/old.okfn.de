@@ -17,6 +17,8 @@ tags:
 - Transparenz
 title: Die G8-Länder müssen hart arbeiten, um wichtige Daten zu öffnen
 type: post
+
+
 ---
 
 **Hier findet ihr die Pressemitteilung zu den Ergebnissen des globalen Open Data Census  

@@ -13,6 +13,8 @@ tags:
 - Open Knowledge
 title: Open Data Anhörung im Unterausschuss Neue Medien
 type: post
+
+
 ---
 
 Am 25.06.2012 hat der Unterausschuss Neue Medien im Deutschen Bundestag eine Anhörung zum Thema "Entwicklung und Stand von Open Data Projekten" veranstaltet, bei der ich für die OKFN als Experte teilgenommen habe.

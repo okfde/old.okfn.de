@@ -13,6 +13,8 @@ tags:
 - Open Transport
 title: Einladung zum Nahverkehrs-Hackday in Berlin
 type: post
+
+
 ---
 
 Berlin öffnet seine Nahverkehrsdaten! Wir laden gemeinsam mit dem Verkehrsverbund Berlin-Brandenburg (VBB), der Senatsverwaltung für Wirtschaft, Technologie und Forschung und dem Berlin Online Stadtportal GmbH zum **[Apps & the City“-Hackday](http://appsandthecity.net/)** ein. 

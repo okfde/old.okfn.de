@@ -15,6 +15,8 @@ tags:
 - Open Government Partnership
 title: 'Open Government Partnership Summit 2013: "Wo ist eigentlich Deutschland?"'
 type: post
+
+
 ---
 
 Über 1000 Delegierte aus mehr als 62 Ländern versammelten sich letzte Woche beim [Open Government Partnership Summit 2013 in London](http://www.opengovpartnership.org/get-involved/london-summit-2013), um an konkreten Ideen und Maßnahmen für effizienteres und transparenteres Regierungshandeln zu arbeiten. An dem Gipfel nahmen Vertreter von Regierungen und zivilgesellschaftlichen Organisationen teil, deren Länder zusammen rund 2 Milliarden Menschen ausmachen. Die Initiative Open Government Partnership (OGP) wurde im September 2011 von den Regierungen der USA und Brasiliens ins Leben gerufen und zusammen mit sechs weiteren Nationen gegründet. Ziel der OGP ist die Stärkung von Transparenz, Rechenschaftslegung, Bürgerbeteiligung und Korruptionsbekämpfung. Trotz mehrfacher [Aufforderung durch die Zivilgesellschaft ist Deutschland noch nicht beigetreten](http://opengovpartnership.de/2013/10/pm-beitritt-deutschlands-zur-ogp-umsetzungskonzept/%20).

@@ -14,6 +14,8 @@ status: publish
 tags: []
 title: App nach Litauen
 type: post
+
+
 ---
 
 _Dies ist ein Gastbeitrag von Finn, Daniel und Niklas, deren App PlateCollect bei [Jugend hackt](http://jugendhackt.de) gewonnen hat._

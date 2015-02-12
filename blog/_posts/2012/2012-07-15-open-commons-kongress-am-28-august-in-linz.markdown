@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: Open Commons Kongress am 28. August in Linz
 type: post
+
+
 ---
 
 **OC12: Leben und Zusammenarbeiten mit Digitalen Gemeingütern  

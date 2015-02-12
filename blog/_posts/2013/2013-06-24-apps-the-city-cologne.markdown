@@ -16,6 +16,8 @@ tags:
 - Open Transport
 title: Apps & the City Cologne
 type: post
+
+
 ---
 
 **Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _[Apps & the City_](http://appsandthecity.net/) Team der Open Knowledge Foundation Deutschland beim diesjährigen _[Interactive Cologne_](http://okfn.de/2013/06/interactive-cologne-apps-the-city/) Festival!**

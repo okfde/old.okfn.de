@@ -12,6 +12,8 @@ status: publish
 tags: []
 title: 'Mehr Transparenz: Kooperation KfW-Bankengruppe'
 type: post
+
+
 ---
 
 Wir freuen uns bekannt zu geben, dass wir gerade ein Projekt mit der KfW-Bankengruppe abgeschlossen haben.

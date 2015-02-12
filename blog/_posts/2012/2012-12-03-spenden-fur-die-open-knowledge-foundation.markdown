@@ -13,6 +13,8 @@ status: publish
 tags: []
 title: Spenden für die Open Knowledge Foundation
 type: post
+
+
 ---
 
 Seit unserer Gründung besteht ein populärer Irrtum über die Open Knowledge Foundation Deutschland, den wir an dieser Stelle endlich aufklären möchten: Wir sind ein eingetragener, gemeinnütziger Verein – und keine Stiftung. Den Namen „Foundation“ zeigt unsere Verbindung zu unserem Mutterschiff, der [Open Knowledge Foundation in Großbritannien](http://www.okfn.org/), und hat nichts mit unserer Rechtsform zu tun. Im Gegenteil. Wir sind keine Stiftung, sondern ein eingetragener, gemeinnütziger Verein.

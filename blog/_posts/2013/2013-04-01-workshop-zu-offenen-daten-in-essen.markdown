@@ -12,6 +12,8 @@ tags:
 - Workshop
 title: Workshop zu offenen Daten in Essen
 type: post
+
+
 ---
 
 Die Initiative OpenData Ruhr lädt für den 10. April ab 19 Uhr zu einem Workshop in das Essener Unperfekthaus ein: Friedrich-Ebert-Straße 18, 45127 Essen.

@@ -12,6 +12,8 @@ tags:
 - Semantic Web
 title: Einladung zum LSWT10
 type: post
+
+
 ---
 
 **Wir planen am 6. Mai auf dem Leipziger Semantic Web Tag 2010 die feierliche Gründungszeremonie des deutschen Zweiges der Open Knowledge Foundation. Dazu möchten wir Sie herzlich einladen.**

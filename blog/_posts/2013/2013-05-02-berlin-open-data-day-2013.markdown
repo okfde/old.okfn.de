@@ -17,6 +17,8 @@ tags:
 - Open Data
 title: Berlin Open Data Day 2013
 type: post
+
+
 ---
 
 **Das Aktionsbündnis "Open Data Berlin" kündigt für den 24. Juni 2013 den nächsten [Berlin Open Data Day](http://berlin.opendataday.de/) (BODDy13) an.**

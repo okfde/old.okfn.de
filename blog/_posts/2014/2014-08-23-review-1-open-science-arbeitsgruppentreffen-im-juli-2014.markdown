@@ -15,6 +15,8 @@ status: publish
 tags: []
 title: 'Review: 1. Open Science Arbeitsgruppentreffen im Juli 2014'
 type: post
+
+
 ---
 
 Um trotz der Kürze des [OKFestivals](http://okfn.de/2014/07/okfestival-2014-berliner-sommerluft-und-offenes-wissen/) von nur knapp drei Tagen möglichst viel Austausch zu haben, gab es in diesem Jahr eine ganze Reihe von Zusatzveranstaltungen vor und nach dem eigentlichen Event. Beispielsweise wurde die Arbeitsgruppe OpenGLAM ([Mailingliste hier](https://lists.okfn.org/mailman/listinfo/openglam-de) \+ [Review hier](http://okfn.de/2014/07/openglam-workshop-review/)) in Deutschland gegründet.

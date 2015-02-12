@@ -23,6 +23,8 @@ tags:
 - Stipendien
 title: Code for All – Open Knowledge Foundation Deutschland meets Code for America
 type: post
+
+
 ---
 
 Anfang Juli war ein Teil des OKF DE Teams zu Gast bei [Code for America](http://codeforamerica.org/) in San Francisco. Vor Ort hatten wir Gelegenheit uns intensiv mit dem Code for America Team auszutauschen und interessante Einblicke in das Programm zu bekommen. Diese Einblicke und den Grund unseres Treffens wollen wir euch natürlich nicht vorenthalten, es folgt ein kurzer Bericht.

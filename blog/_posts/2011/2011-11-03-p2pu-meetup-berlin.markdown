@@ -13,6 +13,8 @@ tags:
 - P2P
 title: P2PU Meetup Berlin
 type: post
+
+
 ---
 
 P2PU crew will be back to Berlin for the 2011 Workshop. On 10 Nov they are hosting a meetup that is open to the public. They'd love to see as much of the Berlin free culture / hacker / edupunk crew as possible there.

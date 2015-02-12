@@ -14,6 +14,8 @@ tags:
 - Open Data
 title: Praktiken, Ziele und Selbstbild der Open Knowledge Foundation
 type: post
+
+
 ---
 
 In welchem Verhältnis stehen Praktiken, Ziele und Selbstbild der Open Knowledge Foundation Deutschland? Dieser Frage gehe ich derzeit in meiner Masterarbeit nach und möchte die aktuellen Ergebnisse hier vorstellen. Vorweg sei betont, dass die Arbeit noch nicht fertig ist - über Feedback würde ich mich freuen!

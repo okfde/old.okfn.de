@@ -19,6 +19,8 @@ tags:
 - Open Government
 title: Initiative OpenRuhr veröffentlicht alternatives Ratsinformationssystem für Bochum und Moers
 type: post
+
+
 ---
 
 **Bochum / Moers, 20.06.2013:** Alternative Ratssysteme sorgen für mehr Transparenz in beiden Städten, macht Politik sichtbarer, Mitbestimmung leichter, zeigt zivilgesellschaftliches Engagement und erweitert die OpenData Strategie der Stadt Moers. Ein solches System wurde heute für Bochum und Moers veröffenntlicht ([bochum.ris.openruhr.de](http://bochum.ris.openruhr.de/) und [moers.ris.openruhr.de](http://moers.ris.openruhr.de/)). Die Plattform ist eine Weiterentwicklung des viel beachteten Projektes [offeneskoeln.de](http://offeneskoeln.de/).

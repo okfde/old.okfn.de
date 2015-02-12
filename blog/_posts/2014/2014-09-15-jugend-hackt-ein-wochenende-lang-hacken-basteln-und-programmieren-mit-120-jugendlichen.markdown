@@ -12,6 +12,8 @@ status: publish
 tags: []
 title: Jugend hackt - ein Wochenende lang hacken, basteln und programmieren mit 120 Jugendlichen
 type: post
+
+
 ---
 
  Foto: Leonard Wolf

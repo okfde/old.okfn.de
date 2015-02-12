@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: Fotos vom Stadt Land Code-Camp
 type: post
+
+
 ---
 
 Hier dokumentarische Beweisaufnahmen zu unserem schönen Workshop von letzter Woche: <http://www.flickr.com/photos/okfn/sets/72157632082036036/>

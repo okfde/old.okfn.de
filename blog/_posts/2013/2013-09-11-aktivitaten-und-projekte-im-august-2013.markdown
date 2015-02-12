@@ -20,6 +20,8 @@ tags:
 - Open Government
 title: Aktivitäten und Projekte im August 2013
 type: post
+
+
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 

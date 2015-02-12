@@ -13,6 +13,8 @@ tags:
 - Transparenz
 title: Informationsfreiheit und die Bundestagswahl
 type: post
+
+
 ---
 
 **Wie stehen die großen Parteien zur Bundestagswahl zu einer möglichen Verbesserung des IFG?**

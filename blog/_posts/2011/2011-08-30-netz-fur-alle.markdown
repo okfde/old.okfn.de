@@ -10,6 +10,8 @@ status: publish
 tags: []
 title: Konferenz Netz für Alle
 type: post
+
+
 ---
 
 Am 03.09.2011, um 11 Uhr findet im Berliner Betahaus die Konferenz "Netz für Alle" statt. Auf dem Panel 2 geht es um die Informationsfreiheit. Stefan Wehrmeyer ist mit dabei und stellt die IFG-Anfrageseite [www.fragdenstaat.de](http://www.fragdenstaat.de) vor. Aus der Ankündigung:

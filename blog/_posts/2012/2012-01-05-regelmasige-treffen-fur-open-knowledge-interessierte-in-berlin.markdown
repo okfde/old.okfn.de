@@ -13,6 +13,8 @@ tags:
 - Open Knowledge
 title: Regelmäßige Treffen für Open Knowledge Interessierte in Berlin
 type: post
+
+
 ---
 
 Mit dem Start ins neue Jahr möchten wir unseren ersten guten Vorsatz gleich umsetzen: endlich ein regelmäßiges Treffen für Interessierte an Open Knowledge und Open Data in Berlin! 

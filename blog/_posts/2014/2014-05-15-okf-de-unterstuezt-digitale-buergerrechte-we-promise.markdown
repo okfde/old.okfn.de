@@ -14,6 +14,8 @@ tags:
 - WePromise
 title: 'WePromise.eu: Wir unterstützen die Kampagne für digitale Bürgerrechte zur Europawahl'
 type: post
+
+
 ---
 
 Nie zuvor stand die Europäische Union vor so vielen Herausforderungen, von Themen wie dem Schutz der Netzneutralität und der Privatssphäre, der Urheberrechtsreform sowie der Überwachung aller europäischen Bürgerinnen und Bürger durch Staaten und Unternehmen. Heute laden wir euch zusammen mit über weiteren [36 weitere zivilgesellschaftlichen Organisationen](https://www.wepromise.eu/de/page/partner) aus ganz Europa ein, am europäischen Aktionstag der [WePromise-Kampagne teilzunehmen](https://www.wepromise.eu/de) und das kommende Europaparlament aufzufordern, Menschenrechte im digitalen Zeitalter zu verteidigen!

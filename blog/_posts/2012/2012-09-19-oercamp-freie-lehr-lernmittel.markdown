@@ -14,6 +14,8 @@ status: publish
 tags: []
 title: OER(Camp) - freie Lehr-Lernmittel
 type: post
+
+
 ---
 
 Ende Oktober 2011 machte netzpolitik.org auf eine "[neue Innovation der Verlage](http://netzpolitik.org/2011/der-schultrojaner-eine-neue-innovation-der-verlage/)" aufmerksam: den Schultrojaner. Auf Schulcomputern sollte anhand von Software nach unberechtigten Kopien, angefertigt durch Lehrer oder Schüler, gesucht werden. Die Folge der Debatte um die Einführung der "Software" war eine umfassende Auseinandersetzung mit dem Thema Urheberrechte bei Arbeitsmaterialien an Schulen und damit auch die Geburtsstunde von [Open Educational Ressources (OER)](http://de.wikipedia.org/wiki/Open_Educational_Resources) in Deutschland. Bei OER geht es dabei um "Lehr-Lern-Materialien" und wie diese geöffnet oder frei zugänglich gemacht werden können.

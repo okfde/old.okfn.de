@@ -10,6 +10,8 @@ tags:
 - Berlin
 title: 'Wikimedia: Wahlprüfsteine für Berlin'
 type: post
+
+
 ---
 
 Unsere Freunde und Kollegen von der Wikimedia wollen Wahlprüfsteine für Berlin bauen und rufen zum Peer-Review auf: [Beteiligt euch: Wahlprüfsteine für Berlin](http://blog.wikimedia.de/2011/07/18/wahlpruefsteine-berlin-entwurf/)

@@ -9,6 +9,8 @@ status: publish
 tags: []
 title: '"Open Data Trüffelschweine"'
 type: post
+
+
 ---
 
 Der Fluter hat uns zu unserer Arbeit und zu unserer Motivation befragt, und einen schönen Artikel zu Open Data geschrieben:  
