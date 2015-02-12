@@ -1,10 +1,8 @@
-{% assign authorinfo=site.data.team[author] %}
-{% if authorinfo.img %}
+{% assign name = include.name %}
+{% assign person=site.data.team[name] %}
+{% if person.img %}
     <div class="pull-left">
-      <img src="{{ site.baseurl }}static/images/team/{{ authorinfo.img }}_square.jpg" alt="{{ author }}" class="img-circle" style="height:100px"/>
+      <img src="{{ site.baseurl }}static/images/team/{{ person.img }}_square.jpg" alt="{{ name }}" class="img-circle" style="height:100px"/>
+      {{ name }}
     </div>
 {% endif %}
-<p>
-  {{ post.date|date:"%d.%m.%Y" }}<br/>
-  {{ author }}
-</p>
