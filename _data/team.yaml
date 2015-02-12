@@ -1,73 +1,62 @@
-Kristina Klein:
+- name: Kristina Klein
   img:
-  staff: yes
-  board: no
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio: ""
+  bio: "Kristina ist seit August 2014 Geschäftsführerin bei der Open Knowledge Foundation Deutschland. Davor war sie bei UNHCR in Myanmar für den Bereich Donor Relations zuständig. Kristina hat als Senior Program Manager der Carnegie Endowment for International Peace das Brüsseler Büro stellvertretend geleitet und als Programm und Konferenz Manager den Bereich Internationale Politik der Körber Stiftung begleitet. Weitere berufliche Stationen waren der Danish Refugee Council in Myanmar und das Wall Street Journal Europe in Berlin."
   mail: kristina.klein@okfn.de
   twitter:
   website:
 
-Helene Hahn:
-  img:
-  staff: yes
-  board: no
+- name: Helene Hahn
+  img: helenehahn
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio:
+  bio: "Helene engagiert sich insbesondere in den Bereichen OpenGLAM (Galeries, Libraries, Archives, Museums) und Open Culture. Mit ihrer Arbeit möchte sie den offenen Zugang und die freie Nutzbarkeit von Kulturerbe fördern, damit unsere Kulturschätze auch im digitalen Zeitalter relevant bleiben. Bei der Open Knowledge Foundation Deutschland ist sie als Projektleiterin verantwortlich für den Kultur-Hackathon Coding Da Vinci und arbeitet an dem EU-Forschungsprojekt Europeana Cloud, der Konferenz Zugang gestalten und dem Nachwuchsförderprogramm Jugend hackt mit. Studiert hat sie Kulturwissenschaften und Wirtschaft im In- und Ausland."
   mail: helene.hahn@okfn.org
   twitter: pluscha
   website:
 
-Anja Jentzsch:
-  img:
-  staff: yes
-  board: no
+- name: Anja Jentzsch
+  img: anjajentzsch
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio: ""
+  bio: "Anja betreut derzeit für die OKF DE das EU-Forschungsprojekt Europeana Cloud (eCloud) als Projektleiterin. eCloud startete im Februar 2013. Ziel des Projektes ist es, ein basiertes System für die Europeana und ihre Aggregatoren zu entwickeln. eCloud wird neue Europeana-Inhalte und Metadaten bereitstellen, sowie ein neues Speichersystem und eine Plattform mit Methoden und Werkzeuge für Forscher (Europeana Research). Zuvor hat Anja an verschiedenen Linked Data-Projekten wie Wikidata, DBpedia und Linking Open Drug Data mitgearbeitet. Ihr Forschungsschwerpunkt ist Data Profiling auf Linked Open Data."
   mail: anja.jentzsch@okfn.org
   twitter: anjeve
   website:
 
-Julia Kloiber:
-  img:
-  staff: yes
-  board: no
+- name: Julia Kloiber
+  img: juliakloiber
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio: ""
+  bio: "Julia setzt als Projektleiterin Projekte im Bereich Civic Apps and Open Data um. Sie war unter anderem verantwortlich für die Projekte Stadt Land Code, Apps and the City und Energy Hack. Vor ihrer Tätigkeit bei der OKF DE hat sie freiberuflich an Projekten im Bereich online Marketing, Kampagnenkonzeption und Videoproduktion gearbeitet. Aktuell arbeitet sie gemeinsam mit Daniel Dietrich, Fiona Krankenbürger und Marcus Dapp an dem Projekt Code for Germany. Eine besondere Herausforderung im Bereich Open Data liegt für sie darin, Daten nicht nur zu öffnen, sondern Multiplikatoren dazu anzuregen spannende Werkzeuge und Apps aus den Daten und Informationen zu entwickeln, um sie einer breiten Masse an Menschen zugänglich zu machen und den Nutzen für Gesellschaft und Demokratie aufzuzeigen."
   mail: julia.kloiber@okfn.org
   twitter: j_kloiber
   website:
 
-Daniel Mietchen:
-  img:
-  staff: yes
-  board: no
+- name: Maria Reimer
+  img: mariareimer
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio: ""
-  mail: daniel.mietchen@okfn.org
-  twitter: EvoMRI
-  website:
-
-Maria Reimer:
-  img:
-  staff: yes
-  board: no
-  advisory: no
-  position:
-  bio: ""
+  bio: "Maria Reimer (geb. Schröder) ist Projektleiterin von Jugend hackt und kümmert sich um die Fördermitgliedschaften. Sie hat Public Administration und Public Policy in Münster, Enschede (Niederlande) und Erfurt studiert. Vor der Open Knowledge Foundation Deutschland hat sie im Wissenschaftszentrum Berlin für Sozialforschung und bei der Anti-Korruptionsorganisation Transparency international Deutschland gearbeitet. Maria findet offene Daten spannend, weil sie die Bürgerrechte stärken."
   mail: maria.reimer@okfn.org
   twitter: malienamadrina
-  website: www.oderfunk.de
+  website: http://www.oderfunk.de
 
-Katharina Meyer:
+- name: Katharina Meyer
   img:
-  staff: yes
-  board: no
+  staff: 0
+  board: 0
   advisory: no
   position:
   bio: ""
@@ -75,55 +64,55 @@ Katharina Meyer:
   twitter:
   website:
 
-Fiona Krakenbürger:
-  img:
-  staff: yes
-  board: no
+- name: Fiona Krakenbürger
+  img: fionakrakenbuerger
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio: ""
+  bio: "Fiona begann im März 2014 als Praktikantin bei der Open Knowledge Foundation und unterstützt Julia Kloiber im Projekt “Code for Germany”. Seit August ist sie Projektassistentin und betreut die Community der dreizehn Labs in Deutschland. Nebenbei studiert sie Europäische Ethnologie an der Humboldt Universität zu Berlin und engagiert sich im Bereich der digitalen Alphabetisierung."
   mail: fiona.krakenbuerger@okfn.de
   twitter: Fotografiona
   website:
 
-Walter Palmetshofer:
-  img:
-  staff: yes
-  board: no
+- name: Walter Palmetshofer
+  img: walterpalmetshofer
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio: ""
+  bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er am BIG, Big Data Public Private Forum, am Digitalen Offenheitsindex [do:index] und macht beim Open Data Census mit. Nach Berlin kam er 2012 als Co-Founder eines Startups, zuvor arbeitete er 5 Jahre als Sysadmin in NYC."
   mail: walter.palmetshofer@okfn.org
   twitter: vavoida
   website:
 
-Michael Hörz:
+- name: Michael Hörz
   img:
-  staff: yes
-  board: no
+  staff: 1
+  board: 0
   advisory: no
   position:
-  bio: ""
+  bio: "Michael ist Projektleiter des Open-Data-Trainingsprogramms der OKF DE. Er arbeitet also Datenjournalist, Trainer und Dozent. An der Hochschule für Technik und Wirtschaft Berlin ist Michael seit 2013 Lehrbeauftragter für Open Data. Er engagiert sich seit 2010 für mehr und besser nutzbare offene Daten und ist Mitorganisator des jährlichen Berlin Open Data Day. Zwischen 2004 und 2012 arbeitete Michael als Online-Redakteur bei Tagesspiegel, Rundfunk Berlin-Brandenburg und Hasso-Plattner-Institut."
   mail: michael.hoerz@okfn.de
   twitter: data_meining
   website: michael-hoerz.de
   github:
 
-Daniel Dietrich:
-  img:
-  staff: yes
-  board: yes
+- name: Daniel Dietrich
+  img: danieldietrich
+  staff: 1
+  board: 1
   advisory: no
   position: Vorsitzender
-  bio: ""
+  bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Technologien einsetzen können um die Welt ein kleines bisschen besser zu machen. Für die Open Knowledge Foundation ist er als Open-Data-Evangelist und Koordinator der Open Definition und der Arbeitsgruppe zu Open Government Data tätig. Er ist Mitgründer des Open Data Network und Vorsitzender der Open Knowledge Foundation Deutschland. Bis Anfang 2013 arbeitete er als Redakteur der Platform der Europäischen Kommission für Public Sector Information www.epsiplatform.eu. Bis Ende 2011 arbeitete er als wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT Branche als Berater und Projektleiter gearbeitet. Weitere Informationen auf www.ddie.me."
   mail: daniel.dietrich@okfn.org
   twitter: ddie
   website:
 
-Friedrich Lindenberg:
+- name: Friedrich Lindenberg
   img:
-  staff: no
-  board: yes
+  staff: 0
+  board: 1
   advisory: no
   position: Stellvertreter
   bio: ""
@@ -132,10 +121,10 @@ Friedrich Lindenberg:
   website: https://pudo.org
   github: pudo
 
-Christian Heise:
+- name: Christian Heise
   img: christianheise
-  staff: no
-  board: yes
+  staff: 0
+  board: 1
   advisory: no
   position: Beisitzer
   bio: ""
@@ -143,10 +132,10 @@ Christian Heise:
   twitter: christianheise
   website:
 
-Claudia Schwegmann:
+- name: Claudia Schwegmann
   img:
-  staff: no
-  board: yes
+  staff: 0
+  board: 1
   advisory: no
   position: Beisitzerin
   bio: ""
@@ -154,10 +143,10 @@ Claudia Schwegmann:
   twitter: OpenAidGermany
   website:
 
-Stefan Wehrmeyer:
-  img:
-  staff: no
-  board: yes
+- name: Stefan Wehrmeyer
+  img: stefanwehrmeyer
+  staff: 0
+  board: 1
   advisory: no
   position: Beisitzer
   bio: ""
@@ -166,10 +155,10 @@ Stefan Wehrmeyer:
   website:
   github:
 
-Dr. Marcus Dapp:
+- name: Dr. Marcus Dapp
   img:
-  staff: no
-  board: yes
+  staff: 0
+  board: 1
   advisory: no
   position: Beisitzer
   bio: ""
@@ -177,10 +166,10 @@ Dr. Marcus Dapp:
   twitter:
   website:
 
-Andreas Pawelke:
+- name: Andreas Pawelke
   img:
-  staff: no
-  board: yes
+  staff: 0
+  board: 1
   advisory: no
   position: Beisitzer
   bio: ""
@@ -188,10 +177,10 @@ Andreas Pawelke:
   twitter: pa_wela
   website:
 
-Prof. Dr. Sören Auer:
+- name: Prof. Dr. Sören Auer
   img:
-  staff: no
-  board: yes
+  staff: 0
+  board: 1
   advisory: no
   position: Beisitzer
   bio: ""
@@ -199,10 +188,10 @@ Prof. Dr. Sören Auer:
   twitter:
   website:
 
-Rufus Pollock:
+- name: Rufus Pollock
   img:
-  staff: no
-  board: yes
+  staff: 0
+  board: 1
   advisory: no
   position: Beisitzer
   bio: ""
@@ -210,10 +199,10 @@ Rufus Pollock:
   twitter: rufuspollock
   website: rufuspollock.org
 
-Friedrich Schumann:
+- name: Friedrich Schumann
   img:
-  staff: yes
-  board: no
+  staff: 0
+  board: 0
   advisory: no
   position: Minion
   bio: ""
@@ -222,10 +211,10 @@ Friedrich Schumann:
   website:
   github:
 
-Prof.em. Dr. Dr. Eberhard R. Hilf:
+- name: Prof.em. Dr. Dr. Eberhard R. Hilf
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -233,10 +222,10 @@ Prof.em. Dr. Dr. Eberhard R. Hilf:
   twitter:
   website:
 
-Prof.em. Dr. Bernd Lutterbeck:
+- name: Prof.em. Dr. Bernd Lutterbeck
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -244,10 +233,10 @@ Prof.em. Dr. Bernd Lutterbeck:
   twitter:
   website:
 
-Prof. Dr. Rainer Kuhlen:
+- name: Prof. Dr. Rainer Kuhlen
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -255,10 +244,10 @@ Prof. Dr. Rainer Kuhlen:
   twitter:
   website:
 
-Prof. Dr. Claudia Müller-Birn:
+- name: Prof. Dr. Claudia Müller-Birn
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -266,10 +255,10 @@ Prof. Dr. Claudia Müller-Birn:
   twitter:
   website:
 
-Prof. Dr. Jörn von Lucke:
+- name: Prof. Dr. Jörn von Lucke
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -277,10 +266,10 @@ Prof. Dr. Jörn von Lucke:
   twitter:
   website:
 
-Prof. Dr. Christian Bizer:
+- name: Prof. Dr. Christian Bizer
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -288,10 +277,10 @@ Prof. Dr. Christian Bizer:
   twitter:
   website:
 
-Prof. Dr. Christian Bizer:
+- name: Prof. Dr. Christian Bizer
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -299,10 +288,10 @@ Prof. Dr. Christian Bizer:
   twitter:
   website:
 
-Prof. Dr. Herbert Kubicek:
+- name: Prof. Dr. Herbert Kubicek
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -310,10 +299,10 @@ Prof. Dr. Herbert Kubicek:
   twitter:
   website:
 
-Dr. Jeanette Hoffmann:
+- name: Dr. Jeanette Hoffmann
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -321,10 +310,10 @@ Dr. Jeanette Hoffmann:
   twitter:
   website:
 
-Dr. Timo Ehmann:
+- name: Dr. Timo Ehmann
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
@@ -332,14 +321,13 @@ Dr. Timo Ehmann:
   twitter:
   website:
 
-Dr. Till Kreutzer:
+- name: Dr. Till Kreutzer
   img:
-  staff: no
-  board: no
+  staff: 0
+  board: 0
   advisory: yes
   position:
   bio: ""
   mail:
   twitter:
   website:
-
