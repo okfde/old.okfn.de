@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Projekte
 description: ''
 whitelogo: yes
@@ -7,7 +7,7 @@ menu_projekte: yes
 
 ---
 
-<div class="box page-highlight col-md-7 col-center text-center">
+<div class="top-box col-md-7 col-center text-center">
   <h2>Projekte</h2>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 </div>
@@ -22,11 +22,9 @@ menu_projekte: yes
 {% assign projects = site.projects | where: "type", "event" %}
 {% include project_list.html projects=projects colsize=4 %}
 
-
 <h3>Forschungsprojekte</h3>
 {% assign projects = site.projects | where: "type", "research" %}
 {% include project_list.html projects=projects colsize=4 %}
-
 
 <h4>Archiv</h4>
 {% assign projects = site.projects | where: "type", "archive" %}
