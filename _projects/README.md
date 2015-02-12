@@ -8,7 +8,7 @@ type: featured
 featured: 2
 background: backgrounds/folders.jpg
 url: https://fragdenstaat.de
-roles:
+people:
   - name: Arne Semsrott
     role: Projektassistenz
   - name: Stefan Wehrmeyer
