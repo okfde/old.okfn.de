@@ -6,6 +6,7 @@ contact: Friedrich Lindenberg
 twitter: offenerhaushalt
 mailingliste: offener-haushalt@lists.okfn.org
 status: active
+type: tool
 
 ---
 
