@@ -67,7 +67,7 @@ def main():
         with open(md_filename, 'w') as f:
             f.write('---\n')
             f.write(ydump(meta))
-            f.write('---\n\n')
+            f.write('\n\n---\n\n')
             f.write(markdown.replace('\\-', '-').encode('utf-8'))
 
 
