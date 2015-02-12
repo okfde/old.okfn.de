@@ -1,19 +1,22 @@
 ---
-title: Dariah
-subtitle: Short project teaser
+title: Projektpartner DARIAH-DE
+subtitle: Wir unterstützen das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities).
+- See more at: http://okfn.de/projects/#sthash.EgeEGb6x.dpuf
 type: research
 background: backgrounds/folders.jpg
-url: https://fragdenstaat.de
+url: https://de.dariah.eu
 roles:
-  - name: Arne Semsrott
-    role: Projektassistenz
-  - name: Stefan Wehrmeyer
+  - name: Dr. Marcus Neuschäfer
     role: Projektleiter
+  - name: Christian Heise
+    role: Projektunterstützung
 contact:
-  - twitter: fragdenstaat
-  - github: https://github.com/okfde/fragdenstaat_de
-  - mailinglist: fragdenstaat@lists.okfn.org
+  - twitter: dariahde
+  - github: 
+  - mailinglist: 
 
 ---
 
-Your detailed description text here.
+DARIAH-DE unterstützt mit digitalen Ressourcen und Methoden arbeitende Geistes- und KulturwissenschaftlerInnen in Forschung und Lehre. Dafür baut das Projekt eine digitale Forschungsinfrastruktur für Werkzeuge und Forschungsdaten auf und entwickelt Materialien für Lehre und Weiterbildung im Bereich der Digital Humanities (DH).
+
+Als Projektpartner unterstützen das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities). Ziel ist es, die zunehmend mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kulturwissenschaftler in Forschung und Lehre zu betreuen und so die Nutzung von digitalen Inhalten, Ressourcen, Werkzeugen und offenen Forschungsinfrastrukturen zu fördern.
