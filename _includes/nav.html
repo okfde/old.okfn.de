@@ -15,13 +15,13 @@
         <li{% if page.menu_projekte %} class="active"{% endif %}>
           <a class="nav-link" href="{{ site.baseurl }}projekte/">Projekte</a>
         </li>
-        <li>
+        <li{% if page.menu_community %} class="active"{% endif %}>
           <a class="nav-link" href="{{ site.baseurl }}community/">Community</a>
         </li>
-        <li>
+        <li{% if page.menu_blog %} class="active"{% endif %}>
           <a class="nav-link" href="{{ site.baseurl }}blog/">Blog</a>
         </li>
-        <li>
+        <li{% if page.menu_services %} class="active"{% endif %}>
           <a class="nav-link" href="{{ site.baseurl }}services/">Services</a>
         </li>
       </ul>
