@@ -53,15 +53,17 @@ a, a:hover, a:focus {
   align-items: stretch;
   -webkit-justify-content: flex-start;
   justify-content: flex-start;
-  -webkit-flex-flow: row wrap;
-  flex-flow: row wrap;
   -webkit-align-content: stretch;
   align-content: stretch;
 }
 
+.row-wrap {
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+
 .container {
   max-width: 1200px;
-  overflow: hidden;
 }
 
 .navbar-okfn {
@@ -201,11 +203,11 @@ a, a:hover, a:focus {
   background-color: #fff;
   display: block;
   margin: 1em;
-  flex: 1 0 auto;
+  flex: 1 1 auto;
   min-width: 250px;
 }
 
-.box .inner {
+.box .inner, .box-inner {
   padding: 40px;
 }
 
@@ -218,13 +220,19 @@ a, a:hover, a:focus {
 }
 
 .box-image {
-  /* background-size: cover; */
-  /* background-repeat: no-repeat; */
-  /* padding-top: 260px; */
-
+  flex: 0 1 auto;
 }
+
 .box-image > img {
   width: 100%;
+}
+
+.order-1 {
+  order: -1;
+}
+
+.box-main {
+  flex: 3;
 }
 
 .box-featured {
@@ -249,14 +257,14 @@ a, a:hover, a:focus {
   width: 20%;
 }
 
-.theme-header {
+.broad-header {
   background-color: #fff;
   text-align: center;
   padding: 2em 0;
   margin: 0 auto;
 }
 
-.theme-header p {
+.broad-header p {
   margin: 0 auto;
   max-width: 540px;
 }
@@ -274,4 +282,11 @@ a, a:hover, a:focus {
 
 .theme-item>a:hover h2 {
   text-decoration: underline;
+}
+
+.person-image {
+/*   max-width: 285px; */
+  background-position: center 0;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
 }

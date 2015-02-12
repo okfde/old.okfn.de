@@ -3,7 +3,7 @@
 
 {% assign colmax = 12|divided_by:colsize %}
 {% assign colcount = 0 %}
-<div class="row-equal">
+<div class="row-equal row-wrap">
 {% for project in projects %}
   {% if colcount == 0 %}
     <!-- <div class="row-equal"> -->

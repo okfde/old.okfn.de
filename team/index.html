@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Community
+title: Team
 description: ''
 background: backgrounds/background.jpg
 menu_community: yes
@@ -8,29 +8,17 @@ menu_community: yes
 ---
 
 <div class="broad-header">
-  <h1>Community</h1>
+  <h1>Team</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, id provident omnis laudantium delectus excepturi quae eum ad? A fuga in dolores facilis nobis vitae incidunt. Ipsa delectus maxime magni!</p>
-  <ul class="nav-list">
-    <li>
-      <a href="{{ site.baseurl }}team/">
-        Team
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.baseurl }}vorstand/">
-        Vorstand
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.baseurl }}oklabs/">
-        OK Labs
-      </a>
-    </li>
-  </ul>
 </div>
 
 <div class="container">
 
-
+<h2>Team</h2>
+{% assign staff = site.data.team | where:"staff",1 %}
+{% for person in staff %}
+  {% assign order=forloop.index0|modulo:2 %}
+  {% include person.html person=person order=order %}
+{% endfor %}
 
 </div>
