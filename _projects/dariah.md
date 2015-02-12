@@ -1,7 +1,6 @@
 ---
 title: Projektpartner DARIAH-DE
-subtitle: Wir unterstützen das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities).
-- See more at: http://okfn.de/projects/#sthash.EgeEGb6x.dpuf
+subtitle: "Wir unterstützen das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities)."
 type: research
 background: backgrounds/folders.jpg
 url: https://de.dariah.eu
@@ -12,8 +11,6 @@ roles:
     role: Projektunterstützung
 contact:
   - twitter: dariahde
-  - github: 
-  - mailinglist: 
 
 ---
 
