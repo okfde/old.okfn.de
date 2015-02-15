@@ -1,31 +1,35 @@
 {% assign person=include.person %}
 <div class="row">
-  <div class="col-sm-4 person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{{ person.img }}.jpg')">
+  <div class="col-sm-4 col-xs-12">
+    <div class="box person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{{ person.img }}.jpg')">
+    </div>
   </div>
-  <div class="col-auto box order-{{ include.order }} box-inner">
-    <h3 id="{{ person.name | slugify | uri_escape }}">{{ person.name }}</h3>
-    {% if person.bio.size > 0 %}
-      {{ person.bio | markdownify }}
-    {% endif %}
-    <dl>
-    {% if person.twitter %}
-      <dt></dt>
-      <dd>
-        <a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a>
-      </dd>
-    {% endif %}
-    {% if person.github %}
-      <dt></dt>
-      <dd>
-        <a href="https://github.com/{{ person.github }}">{{ person.github }} on GitHub</a>
-      </dd>
-    {% endif %}
-    {% if person.website %}
-      <dt></dt>
-      <dd>
-        <a href="{{ person.website }}">{{ person.website|replace_first:"http://"|replace_first:"https://" }}</a>
-      </dd>
-    {% endif %}
-    </dl>
+  <div class="col-xs order-{{ include.order }}">
+    <div class="box box-inner">
+      <h3 id="{{ person.name | slugify | uri_escape }}">{{ person.name }}</h3>
+      {% if person.bio.size > 0 %}
+        {{ person.bio | markdownify }}
+      {% endif %}
+      <dl>
+      {% if person.twitter %}
+        <dt></dt>
+        <dd>
+          <a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a>
+        </dd>
+      {% endif %}
+      {% if person.github %}
+        <dt></dt>
+        <dd>
+          <a href="https://github.com/{{ person.github }}">{{ person.github }} on GitHub</a>
+        </dd>
+      {% endif %}
+      {% if person.website %}
+        <dt></dt>
+        <dd>
+          <a href="{{ person.website }}">{{ person.website|replace_first:"http://"|replace_first:"https://" }}</a>
+        </dd>
+      {% endif %}
+      </dl>
+    </div>
   </div>
 </div>

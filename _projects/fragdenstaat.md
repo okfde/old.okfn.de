@@ -3,6 +3,7 @@ title: FragDenStaat.de
 subtitle: Das beste Projekt des Universums!
 type: featured
 featured: 4
+wideimage: yes
 img: backgrounds/folders.jpg
 background: backgrounds/folders.jpg
 url: https://fragdenstaat.de

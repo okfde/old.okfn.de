@@ -4,6 +4,16 @@
 @import 'bootstrap.css';
 @import 'flexboxgrid.css';
 
+
+$min-width: 768px;
+
+$okf-background: rgb(235, 235, 235);
+$okf-primary: rgb(37, 168, 209);
+$footer-color-2: rgb(12, 74, 93);
+$grid-margin: 1.5rem;
+
+$primary-color: $okf-primary;
+
 .container{
   padding-right:15px;
   padding-left:15px;
@@ -11,7 +21,7 @@
   margin-left:auto;
 }
 
-@media (min-width:768px){
+@media (min-width:$min-width){
   .container{
     width:750px;
   }
@@ -28,20 +38,9 @@
 }
 
 .row>* {
-  margin: 2rem;
+  padding-left: $grid-margin;
+  padding-right: $grid-margin;
 }
-
-.row.row-normal>* {
-  margin: 0;
-}
-
-$min-width: 768px;
-
-$okf-background: rgb(235, 235, 235);
-$okf-primary: rgb(37, 168, 209);
-$footer-color-2: rgb(12, 74, 93);
-
-$primary-color: $okf-primary;
 
 body {
   color: #333;
@@ -105,6 +104,10 @@ a, a:hover, a:focus {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=0 );
 }
 
+.navbar-okfn.default-background>.container {
+  background: none;
+}
+
 .nav {
   padding-right: 40px;
 }
@@ -131,6 +134,9 @@ a, a:hover, a:focus {
   text-shadow: 0px 0px 20px #fff;
   color: #000;
 }
+.navbar-okfn.default-background .nav>li>a {
+  text-shadow: none;
+}
 
 
 @media (min-width: $min-width) {
@@ -150,9 +156,6 @@ a, a:hover, a:focus {
     background-color: transparent;
     text-decoration: underline;
   }
-  .navbar-okfn.default-background .nav>li>a {
-    text-shadow: none;
-  }
 
   .navbar-nav>li>a {
     padding-top: 35px;
@@ -162,8 +165,8 @@ a, a:hover, a:focus {
 
 .footer {
   background-color: $okf-primary;
-  margin: 0 auto;
-  padding: 2em 0;
+  margin: 2rem auto 0;
+  padding: 2rem 0;
   font-size: 0.9em;
   overflow: hidden;
 }
@@ -222,6 +225,8 @@ a, a:hover, a:focus {
 .box {
   background-color: #fff;
   display: block;
+  flex-grow: 1;
+  margin: $grid-margin 0;
 }
 
 .box .inner, .box-inner {
@@ -303,11 +308,11 @@ a, a:hover, a:focus {
   background-repeat: no-repeat;
   background-color: #fff;
   min-height: 320px;
-  margin-bottom: -4rem;
+  margin-bottom: -2 * $grid-margin;
 }
 
 @media (min-width: $min-width) {
   .person-image {
-    margin-bottom: 2rem;
+    margin-bottom: $grid-margin;
   }
 }

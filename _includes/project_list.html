@@ -1,11 +1,13 @@
 {% assign project = include.project %}
 
-<a class="col-auto box box-image box-{{ project.type }}" href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
-  {% if project.img.size > 0 %}
-    <img src="{% if project.img contains 'http' %}{{ project.img }}{% else %}{{ site.staticurl }}images/{{ project.img }}{% endif %}" alt="{{ project.title }}"/>
-  {% endif %}
-  <div class="inner">
-    <h3>{{ project.title }}</h3>
-    <p>{{ project.teaser }}</p>
+<a class="{% if project.wideimage %}col-md-8{% else %}col-md-4{% endif %} col-sm-6 col-xs-12" href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
+  <div class="box box-image box-{{ project.type }}">
+    {% if project.img.size > 0 %}
+      <img src="{% if project.img contains 'http' %}{{ project.img }}{% else %}{{ site.staticurl }}images/{{ project.img }}{% endif %}" alt="{{ project.title }}"/>
+    {% endif %}
+    <div class="inner">
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.teaser }}</p>
+    </div>
   </div>
 </a>
