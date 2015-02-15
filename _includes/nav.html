@@ -1,14 +1,13 @@
-<nav class="navbar navbar-okfn" role="navigation" style="background-image:url('{{ site.staticurl }}images/{% if page.background %}{{ page.background }}{% else %}backgrounds/background.jpg{% endif %}')">
+<nav class="navbar navbar-okfn {% unless page.background %}default-background{% endunless %}" role="navigation" style="{% if page.background %}background-image:url('{{ site.staticurl }}images/{{ page.background }}'){% endif %}">
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="{{site.baseurl}}">
-        <img id="logo" src="{{ site.staticurl }}images/{% if page.whitelogo %}logo_white.png{% else %}logo_black.png{% endif %}" width="75" height="75"
-          alt="Open Knowledge Foundation Deutschland">
+        <img src="{{ site.staticurl }}images/{% if page.whitelogo %}logo_white.png{% else %}logo_black.png{% endif %}" width="75" height="75" alt="Open Knowledge Foundation Deutschland" class="logo {% if page.whitelogo %}white-logo{% endif %}"/>
       </a>
     </div>
 
     <div id="mainmenu">
-      <ul class="nav navbar-nav navbar-right {% if page.whitenav %}nav-white{% else %}nav-black{% endif %}">
+      <ul class="nav navbar-nav navbar-right {% if page.background %}{% if page.whitenav %}nav-white{% else %}nav-black{% endif %}{% else %}nav-black{% endif %}">
         <li{% if page.menu_themen %} class="active"{% endif %}>
           <a class="nav-link" href="{{ site.baseurl }}themen/">Themen</a>
         </li>
