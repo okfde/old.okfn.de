@@ -1,12 +1,14 @@
 ---
 title: "Offener Haushalt"
-url: http://bund.offenerhaushalt.de/
-img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/008.png
-contact: Friedrich Lindenberg
-twitter: offenerhaushalt
-mailingliste: offener-haushalt@lists.okfn.org
-status: active
 type: tool
+url: http://offenerhaushalt.de/
+background: backgrounds/offenerhaushalt.jpg
+whitelogo: yes
+whitenav: yes
+img: projects/offenerhaushalt.png
+contact:
+  - twitter: offenerhaushalt
+  - mailingliste: offener-haushalt@lists.okfn.org
 
 ---
 
