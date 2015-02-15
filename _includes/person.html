@@ -1,9 +1,8 @@
 {% assign person=include.person %}
-<div class="row-equal">
-  <div class="box box-image person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{{ person.img }}.jpg')">
-    <!-- <img src="" alt="{{ person.name }}" class="img-responsive"/> -->
+<div class="row">
+  <div class="col-sm-4 person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{{ person.img }}.jpg')">
   </div>
-  <div class="box order-{{ include.order }} box-inner box-main">
+  <div class="col-auto box order-{{ include.order }} box-inner">
     <h3 id="{{ person.name | slugify | uri_escape }}">{{ person.name }}</h3>
     {% if person.bio.size > 0 %}
       {{ person.bio | markdownify }}

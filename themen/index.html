@@ -22,12 +22,13 @@ menu_themen: yes
 </div>
 
 {% for thema in themen %}
-    <div class="theme-item"{% if thema.background.size > 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}>
-      <a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}" class="container box col-md-7 col-center text-center">
+    <div class="theme-item">
+      <div class="theme-background" {% if thema.background.size > 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}></div>
+      <a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}" class="container top-box col-md-7 col-center text-center">
         <h2>{{ thema.title }}</h2>
         <p>{{ thema.teaser }}</p>
         <p>
-          mehr erfahren
+          <span class="highlight-link">mehr erfahren</span>
         </p>
       </a>
     </div>

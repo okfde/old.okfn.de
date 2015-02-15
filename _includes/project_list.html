@@ -1,37 +1,11 @@
-{% assign colsize = include.colsize %}
-{% assign projects = include.projects %}
+{% assign project = include.project %}
 
-{% assign colmax = 12|divided_by:colsize %}
-{% assign colcount = 0 %}
-<div class="row-equal row-wrap">
-{% for project in projects %}
-  {% if colcount == 0 %}
-    <!-- <div class="row-equal"> -->
+<a class="col-auto box box-image box-{{ project.type }}" href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
+  {% if project.img.size > 0 %}
+    <img src="{% if project.img contains 'http' %}{{ project.img }}{% else %}{{ site.staticurl }}images/{{ project.img }}{% endif %}" alt="{{ project.title }}"/>
   {% endif %}
-  {% assign fullspan=colcount|times:colsize %}
-  {% assign fullspan=12|minus:fullspan %}
-  <!-- <div class="{% if project.colcount > 0 %}col-md-{{ project.colcount|times:colsize }}{% else %}{% if forloop.last %}col-md-{{ fullspan }}{% else %}col-md-{{ colsize }}{% endif %}{% endif %}"> -->
-    <a href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}" class="box box-image box-{{ project.type }}">
-      {% if project.img.size > 0 %}
-        <img src="{% if project.img contains 'http' %}{{ project.img }}{% else %}{{ site.staticurl }}images/{{ project.img }}{% endif %}" alt="{{ project.title }}"/>
-      {% endif %}
-      <div class="inner">
-        <h3>{{ project.title }} {{ project.colcount }} - {{ project.colcount|times:colsize }} - {{ colcount }}</h3>
-        <p>{{ project.teaser }}</p>
-      </div>
-    </a>
-  <!-- </div> -->
-  {% if project.colcount > 0 %}
-    {% assign colcount = colcount|plus:project.colcount %}
-  {% else %}
-    {% assign colcount = colcount|plus:1 %}
-  {% endif %}
-  {% if colcount >= colmax %}
-    {% assign colcount = 0 %}
-<!--     </div> -->
-  {% endif %}
-{% endfor %}
-{% if colcount > 0 %}
-  <!-- </div> -->
-{% endif %}
-</div>
+  <div class="inner">
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.teaser }}</p>
+  </div>
+</a>

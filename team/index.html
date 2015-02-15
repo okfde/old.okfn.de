@@ -14,7 +14,6 @@ menu_community: yes
 
 <div class="container">
 
-<h2>Team</h2>
 {% assign staff = site.data.team | where:"staff",1 %}
 {% for person in staff %}
   {% assign order=forloop.index0|modulo:2 %}
