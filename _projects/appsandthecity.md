@@ -5,6 +5,7 @@ img: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/005.png
 contact: Julia Kloiber
 twitter: OpenVBB
 mailingliste: open-data-nahverkehr@lists.okfn.org
+date: 2012-11-29
 type: event
 ---
 
