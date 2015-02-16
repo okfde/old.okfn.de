@@ -9,10 +9,29 @@ $min-width: 768px;
 
 $okf-background: rgb(235, 235, 235);
 $okf-primary: rgb(37, 168, 209);
-$footer-color-2: rgb(12, 74, 93);
+$okf-secondary: rgb(12, 74, 93);
 $grid-margin: 1.5rem;
+$dark-text-color: #112233;
+$ligh-text-color: #535b63;
 
 $primary-color: $okf-primary;
+
+@font-face {
+  font-family: 'FiraSans-Regular';
+  src: url('../fonts/FiraSans-Regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/FiraSans-Regular.woff') format('woff'), url('../fonts/FiraSans-Regular.ttf')  format('truetype'), url('../fonts/FiraSans-Regular.svg#FiraSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'LeagueSpartan-Bold';
+  src: url('../fonts/LeagueSpartan-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/LeagueSpartan-Bold.woff') format('woff'), url('../fonts/LeagueSpartan-Bold.ttf')  format('truetype'), url('../fonts/LeagueSpartan-Bold.svg#LeagueSpartan-Bold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
 
 .container{
   padding-right:15px;
@@ -43,16 +62,34 @@ $primary-color: $okf-primary;
 }
 
 body {
-  color: #333;
-  font-family: 'Open Sans', sans-serif;
+  color: $ligh-text-color;
+  font-family: 'FiraSans-Regular', 'Helvetica', sans-serif;
   font-weight: 300;
   line-height: 1.4em;
-  font-size: 1.6em;
+  font-size: 18px;
   background-color: $okf-background;
+}
+
+h1, h2, h3, h4 {
+  color: $dark-text-color;
+  font-family: 'LeagueSpartan-Bold', 'Helvetica', sans-serif;
+  line-height: 1.4em;
+  margin-bottom: 45px;
+  letter-spacing: 2px;
 }
 
 a, a:hover, a:focus {
   color: #333;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: $okf-secondary;
+}
+
+a h3:hover {
+  color: $okf-secondary;
 }
 
 .col-center {
@@ -77,6 +114,10 @@ a, a:hover, a:focus {
   border: 0px;
   background-size: cover;
   margin-bottom: 0;
+  font-family: 'LeagueSpartan-Bold', 'Helvetica', sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-align: right;
 }
 
 .navbar-okfn>.container {
@@ -94,14 +135,14 @@ a, a:hover, a:focus {
 }
 
 .navbar-okfn>.container {
-  background: rgba(255,255,255,0);
-  background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.5) 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,0)), color-stop(50%, rgba(255,255,255,0.5)), color-stop(100%, rgba(255,255,255,0.5)));
-  background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.5) 100%);
-  background: -o-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.5) 100%);
-  background: -ms-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.5) 100%);
-  background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.5) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=0 );
+  background: rgba(0,0,0,0);
+  background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0)), color-stop(50%, rgba(0,0,0,0.5)), color-stop(100%, rgba(0,0,0,0.5)));
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
+  background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
+  background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000', GradientType=0 );
 }
 
 .navbar-okfn.default-background>.container {
@@ -114,28 +155,45 @@ a, a:hover, a:focus {
 
 .nav>li>a,.nav>li>a:hover, .nav>li>a:focus {
   text-align: right;
-  color: inherit;
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+.nav>li>a {
+    display: inline-block;
+    padding: 6px 0px 4px;
+    margin: 0px 1.5rem 0px;
+    position: relative;
+    text-decoration: none;
+}
+
+.nav>li>a:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    border-bottom: 3px solid transparent;
+    bottom: 2px;
+    -webkit-transform: scaleX(0);
+    -ms-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: 0.2s ease-in;
+    transition: 0.2s ease-in;
+}
+
+.nav>li>a:hover:before {
+    -webkit-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    transform: scaleX(1);
+    border-bottom: 3px solid #fff;
 }
 
 .nav>li>a:hover, .nav>li>a:focus  {
-  text-decoration: underline;
   background-color: transparent;
 }
 
 .nav>li.active>a {
   font-weight: 500;
-}
-
-.navbar-nav.nav-white a {
-  text-shadow: 0px 0px 20px #000;
-  color: #fff;
-}
-.navbar-nav.nav-black a {
-  text-shadow: 0px 0px 20px #fff;
-  color: #000;
-}
-.navbar-okfn.default-background .nav>li>a {
-  text-shadow: none;
 }
 
 
@@ -149,17 +207,27 @@ a, a:hover, a:focus {
   .navbar-okfn.default-background {
     padding-bottom: 8%;
   }
+  .navbar-nav.nav-black a,
+  .navbar-nav.nav-black a:hover,
+  .navbar-nav.nav-black a:focus {
+    color: $dark-text-color;
+  }
+
+  .nav-black .nav>li>a:before,
+  .nav-black .nav>li>a:hover:before {
+    border-bottom: 3px solid $dark-text-color;
+  }
+
   .nav {
     padding-right: 0px;
   }
   .nav>li>a:hover, .nav>li>a:focus {
     background-color: transparent;
-    text-decoration: underline;
   }
 
   .navbar-nav>li>a {
-    padding-top: 35px;
-    padding-bottom: 35px;
+    padding-top: 48px;
+    padding-bottom: 5px;
   }
 }
 
@@ -171,6 +239,10 @@ a, a:hover, a:focus {
   overflow: hidden;
 }
 
+.footer h3, h4 {
+  color: #fff;
+}
+
 .footer, .footer a, .footer a:hover {
   color: #fff;
 }
@@ -180,7 +252,7 @@ a, a:hover, a:focus {
 }
 
 .cellar {
-  background-color: $footer-color-2;
+  background-color: $okf-secondary;
   padding: 1em 0;
   font-size: 0.8em;
 }
@@ -218,7 +290,7 @@ a, a:hover, a:focus {
 .top-box {
   display: block;
   background-color: #fff;
-  padding: 20px 40px 40px;
+  padding: 20px 60px 40px;
   margin: -70px auto 2em;
 }
 
@@ -241,13 +313,18 @@ a, a:hover, a:focus {
   margin-bottom: 0;
 }
 
-.box-image {
-  padding: 0;
-  min-width: 240px;
+.box-image .box-image-inner {
+  height: 20rem;
+  background-size: 100% auto;
+  background-position: center 0;
+  background-repeat: no-repeat;
+  -webkit-transition: 0.2s ease-in;
+  transition: 0.2s ease-in;
 }
 
-.box-image > img {
-  width: 100%;
+.box-image:hover .box-image-inner {
+/*   background-position: -5% -5%; */
+  background-size: 110% auto;
 }
 
 @media (min-width: $min-width) {
@@ -271,7 +348,7 @@ a, a:hover, a:focus {
   background-color: #fff;
   text-align: center;
   padding: 2em 0;
-  margin: 0 auto 2rem;
+  margin: 0 auto;
 }
 
 .broad-header p {
@@ -296,10 +373,6 @@ a, a:hover, a:focus {
 
 .theme-item>a:hover, .theme-item>a:hover p {
   text-decoration: none;
-}
-
-.theme-item>a:hover h2 {
-  text-decoration: underline;
 }
 
 .person-image {
