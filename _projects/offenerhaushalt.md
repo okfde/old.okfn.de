@@ -3,8 +3,6 @@ title: "Offener Haushalt"
 type: tool
 url: http://offenerhaushalt.de/
 background: backgrounds/offenerhaushalt.jpg
-whitelogo: yes
-whitenav: yes
 img: projects/offenerhaushalt.png
 contact:
   - twitter: offenerhaushalt

@@ -6,6 +6,8 @@ featured: 4
 wideimage: yes
 img: backgrounds/folders.jpg
 background: backgrounds/folders.jpg
+blacklogo: yes
+blacknav: yes
 url: https://fragdenstaat.de
 people:
   - name: Stefan Wehrmeyer

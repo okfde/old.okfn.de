@@ -2,12 +2,12 @@
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="{{site.baseurl}}">
-        <img src="{{ site.staticurl }}images/{% if page.whitelogo %}logo_white.png{% else %}logo_black.png{% endif %}" width="75" height="75" alt="Open Knowledge Foundation Deutschland" class="logo {% if page.whitelogo %}white-logo{% endif %}"/>
+        <img src="{{ site.staticurl }}images/{% if page.blacklogo %}logo_black.png{% else %}logo_white.png{% endif %}" width="75" height="75" alt="Open Knowledge Foundation Deutschland" class="logo {% unless page.blacklogo %}white-logo{% endunless %}"/>
       </a>
     </div>
 
     <div id="mainmenu">
-      <ul class="nav navbar-nav navbar-right {% if page.background %}{% if page.whitenav %}nav-white{% else %}nav-black{% endif %}{% else %}nav-black{% endif %}">
+      <ul class="nav navbar-nav navbar-right {% if page.background %}{% if page.blacknav %}nav-black{% else %}nav-white{% endif %}{% else %}nav-white{% endif %}">
         <li{% if page.menu_themen %} class="active"{% endif %}>
           <a class="nav-link" href="{{ site.baseurl }}themen/">Themen</a>
         </li>
