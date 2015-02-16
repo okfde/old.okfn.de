@@ -3,7 +3,8 @@
 <a class="{% if project.wideimage %}col-md-8{% else %}col-md-4{% endif %} col-sm-6 col-xs-12" href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
   <div class="box box-image box-{{ project.type }}">
     {% if project.img.size > 0 %}
-      <img src="{% if project.img contains 'http' %}{{ project.img }}{% else %}{{ site.staticurl }}images/{{ project.img }}{% endif %}" alt="{{ project.title }}"/>
+      <div class="box-image-inner" style="background-image: url('{% if project.img contains 'http' %}{{ project.img }}{% else %}{{ site.staticurl }}images/{{ project.img }}{% endif %}');'">
+      </div>
     {% endif %}
     <div class="inner">
       <h3>{{ project.title }}</h3>
