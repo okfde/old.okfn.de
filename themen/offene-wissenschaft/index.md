@@ -1,7 +1,8 @@
 ---
 title: Offene Wissenschaft
 layout: thema
-image:http://okfn.de/files/2014/09/open_science_ag_okf_de.png
+image: http://okfn.de/files/2014/09/open_science_ag_okf_de.png
+
 ---
 
 # Offene Wissenschaft
