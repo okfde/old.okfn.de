@@ -16,7 +16,7 @@
   advisory: no
   position:
   bio: "Helene engagiert sich insbesondere in den Bereichen OpenGLAM (Galeries, Libraries, Archives, Museums) und Open Culture. Mit ihrer Arbeit möchte sie den offenen Zugang und die freie Nutzbarkeit von Kulturerbe fördern, damit unsere Kulturschätze auch im digitalen Zeitalter relevant bleiben. Bei der Open Knowledge Foundation Deutschland ist sie als Projektleiterin verantwortlich für den Kultur-Hackathon Coding Da Vinci und arbeitet an dem EU-Forschungsprojekt Europeana Cloud, der Konferenz Zugang gestalten und dem Nachwuchsförderprogramm Jugend hackt mit. Studiert hat sie Kulturwissenschaften und Wirtschaft im In- und Ausland."
-  mail: helene.hahn@okfn.org
+  mail: helene.hahn@okfn.de
   twitter: pluscha
   website:
 
@@ -27,7 +27,7 @@
   advisory: no
   position:
   bio: "Anja betreut derzeit für die OKF DE das EU-Forschungsprojekt Europeana Cloud (eCloud) als Projektleiterin. eCloud startete im Februar 2013. Ziel des Projektes ist es, ein basiertes System für die Europeana und ihre Aggregatoren zu entwickeln. eCloud wird neue Europeana-Inhalte und Metadaten bereitstellen, sowie ein neues Speichersystem und eine Plattform mit Methoden und Werkzeuge für Forscher (Europeana Research). Zuvor hat Anja an verschiedenen Linked Data-Projekten wie Wikidata, DBpedia und Linking Open Drug Data mitgearbeitet. Ihr Forschungsschwerpunkt ist Data Profiling auf Linked Open Data."
-  mail: anja.jentzsch@okfn.org
+  mail: anja.jentzsch@okfn.de
   twitter: anjeve
   website:
 
@@ -38,7 +38,7 @@
   advisory: no
   position:
   bio: "Julia setzt als Projektleiterin Projekte im Bereich Civic Apps and Open Data um. Sie war unter anderem verantwortlich für die Projekte Stadt Land Code, Apps and the City und Energy Hack. Vor ihrer Tätigkeit bei der OKF DE hat sie freiberuflich an Projekten im Bereich online Marketing, Kampagnenkonzeption und Videoproduktion gearbeitet. Aktuell arbeitet sie gemeinsam mit Daniel Dietrich, Fiona Krankenbürger und Marcus Dapp an dem Projekt Code for Germany. Eine besondere Herausforderung im Bereich Open Data liegt für sie darin, Daten nicht nur zu öffnen, sondern Multiplikatoren dazu anzuregen spannende Werkzeuge und Apps aus den Daten und Informationen zu entwickeln, um sie einer breiten Masse an Menschen zugänglich zu machen und den Nutzen für Gesellschaft und Demokratie aufzuzeigen."
-  mail: julia.kloiber@okfn.org
+  mail: julia.kloiber@okfn.de
   twitter: j_kloiber
   website:
 
@@ -49,7 +49,7 @@
   advisory: no
   position:
   bio: "Maria Reimer (geb. Schröder) ist Projektleiterin von Jugend hackt und kümmert sich um die Fördermitgliedschaften. Sie hat Public Administration und Public Policy in Münster, Enschede (Niederlande) und Erfurt studiert. Vor der Open Knowledge Foundation Deutschland hat sie im Wissenschaftszentrum Berlin für Sozialforschung und bei der Anti-Korruptionsorganisation Transparency international Deutschland gearbeitet. Maria findet offene Daten spannend, weil sie die Bürgerrechte stärken."
-  mail: maria.reimer@okfn.org
+  mail: maria.reimer@okfn.de
   twitter: malienamadrina
   website: http://www.oderfunk.de
 
@@ -82,8 +82,19 @@
   advisory: no
   position:
   bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er am BIG, Big Data Public Private Forum, am Digitalen Offenheitsindex [do:index] und macht beim Open Data Census mit. Nach Berlin kam er 2012 als Co-Founder eines Startups, zuvor arbeitete er 5 Jahre als Sysadmin in NYC."
-  mail: walter.palmetshofer@okfn.org
+  mail: walter.palmetshofer@okfn.de
   twitter: vavoida
+  website:
+
+- name: Arne Semsrott
+  img: arnesemsrott
+  staff: 1
+  board: 0
+  advisory: no
+  position:
+  bio: "Arne betreut für die Open Knowledge Foundation das Portal FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er arbeitet nebenbei als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus."
+  mail: arne.semsrott@okfn.de
+  twitter:
   website:
 
 - name: Michael Hörz
