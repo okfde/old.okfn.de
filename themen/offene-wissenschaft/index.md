@@ -5,20 +5,17 @@ image: http://okfn.de/files/2014/09/open_science_ag_okf_de.png
 
 ---
 
-# Offene Wissenschaft
+>Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die allesamt darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.
 
->Der Begriff Open Science bündelt in diesem Zusammenhang Strategien und Verfahren, die allesamt darauf abzielen, die Chancen der >Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich >und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit >wissenschaftlichen Erkenntnissen eröffnet werden.
-
-## Arbeitsgruppe Open Science
+## Die deutschsprachige Arbeitsgruppe "Open Science"
 
 Für den Bereich Wissenschaft konstituierte sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Open Science Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Open Science fungieren.
 
 Zur internationalen Open Access Week 2014 haben die Mitglieder der Arbeitsgruppe folgendes Mission Statement (Version 1.0) veröffentlicht.
 
 ## Mission Statement der deutschsprachigen Open Science AG
-
+### Science – Open by default
 Version 1.0, Oktober 2014
-Science – Open by default
 
 Offenheit ist ein immanenter Bestandteil der Wissenschaft. Der Zugang zu bewährtem Wissen und aktuellen Informationen entscheidet über Qualität, Inhalt und Anschlussfähigkeit von Erkenntnis und Innovation. Die Digitalisierung bietet der Wissenschaft neue Chancen im Umgang mit Wissen und Informationen. Neue Verfahren des Austausches von Publikationen, Forschungsdaten, Programmcode und Lehrmaterialien über institutionelle, geografische und fachliche Grenzen hinweg haben auf Basis des Internets Eingang in Forschung und Lehre gefunden.
 
@@ -36,7 +33,7 @@ Die Open Science AG unterstützt WissenschaftlerInnen bei der Arbeit mit digital
 Wir befürworten Transparenz, Vielfalt und neue Wege bei der Veröffentlichung und Bewertung von Forschungsergebnissen wie auch dem Forschungprozess selber. Der Austausch soll nicht nur innerhalb der wissenschaftlichen Gemeinschaft gefördert werden, sondern auch mit einer breiten Öffentlichkeit.
 Geplante Aktionsbereiche
 
-Konkrete Maßnahmen und Aktivitäten adressieren besonders die folgenden Themen:
+### Konkrete Maßnahmen und Aktivitäten adressieren besonders die folgenden Themen:
 
 * Nachvollziehbarkeit und Reproduzierbarkeit: Offenlegung von detaillierten Prozeduren und Materialien in wissenschaftlichen Veröffentlichungen, Redaktions- und Reviewprozessen
 * Bewertung von Qualität und Reputation: Lösungen im Umgang mit reputationsfördernden Möglichkeiten der Veröffentlichung, die nicht offen sind, z.B. bei zugangsbeschränkten Zeitschriften mit hohem Impact-Faktor
