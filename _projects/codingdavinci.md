@@ -1,7 +1,7 @@
 title: "Coding da Vinci"
 subtitle: der Kultur-Hackathon
 url: http://codingdavinci.de
-img: 
+img: /backgrounds/codingdavinci.jpg
 featured: 1
 background: backgrounds/folders.jpg
 url: https://codingdavinci.de
