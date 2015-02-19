@@ -19,7 +19,7 @@ Abonnieren Sie die [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-s
 
 Zur internationalen Open Access Week 2014 haben die Mitglieder der Arbeitsgruppe folgendes Mission Statement (Version 1.0) veröffentlicht.
 
-### Science – Open by default
+#### Science – Open by default
 Version 1.0, Oktober 2014
 
 Offenheit ist ein immanenter Bestandteil der Wissenschaft. Der Zugang zu bewährtem Wissen und aktuellen Informationen entscheidet über Qualität, Inhalt und Anschlussfähigkeit von Erkenntnis und Innovation. Die Digitalisierung bietet der Wissenschaft neue Chancen im Umgang mit Wissen und Informationen. Neue Verfahren des Austausches von Publikationen, Forschungsdaten, Programmcode und Lehrmaterialien über institutionelle, geografische und fachliche Grenzen hinweg haben auf Basis des Internets Eingang in Forschung und Lehre gefunden.
@@ -38,7 +38,7 @@ Die Open Science AG unterstützt WissenschaftlerInnen bei der Arbeit mit digital
 Wir befürworten Transparenz, Vielfalt und neue Wege bei der Veröffentlichung und Bewertung von Forschungsergebnissen wie auch dem Forschungprozess selber. Der Austausch soll nicht nur innerhalb der wissenschaftlichen Gemeinschaft gefördert werden, sondern auch mit einer breiten Öffentlichkeit.
 Geplante Aktionsbereiche
 
-### Konkrete Maßnahmen und Aktivitäten adressieren besonders die folgenden Themen:
+#### Konkrete Maßnahmen und Aktivitäten adressieren besonders die folgenden Themen:
 
 * Nachvollziehbarkeit und Reproduzierbarkeit: Offenlegung von detaillierten Prozeduren und Materialien in wissenschaftlichen Veröffentlichungen, Redaktions- und Reviewprozessen
 * Bewertung von Qualität und Reputation: Lösungen im Umgang mit reputationsfördernden Möglichkeiten der Veröffentlichung, die nicht offen sind, z.B. bei zugangsbeschränkten Zeitschriften mit hohem Impact-Faktor
@@ -48,7 +48,7 @@ Geplante Aktionsbereiche
 * Verbreitung: Entwicklung und Nutzung von Tools und Diensten zur Verbreitung von Methoden und Ergebnissen
 * Finanzierung: Entwicklung und Förderung von Modellen für die offene und freie Verbreitung von wissenschaftlichen Ergebnissen und Informationen über Open Access Zeitschriften hinaus
 
-## Über uns – Die deutschprachige Open Science AG der OKF
+#### Über uns – Die deutschprachige Open Science AG der OKF
 
 Die Open Science AG ist eine offene Initiative, welche die Idee freier und offener Wissenschaft und Forschung in Wirtschaft, Gesellschaft und Politik unterstützt.
 
