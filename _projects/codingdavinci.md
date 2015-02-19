@@ -1,12 +1,25 @@
----
 title: "Coding da Vinci"
+subtitle: der Kultur-Hackathon
 url: http://codingdavinci.de
-img: http://okfn.de/files/2012/12/web-okfn1.png
-contact: Helene Hahn
-twitter: codingdavinci
-status: active
+img: /backgrounds/codingdavinci.jpg
 featured: 1
+background: backgrounds/folders.jpg
+url: https://codingdavinci.de
 type: featured
+people:
+  - name: Helene Hahn
+    role: Projektleiterin
+  - name: Bela Seeger
+    role: Projektkoordinator
+contact:
+  - twitter: codingdavinci
+
 ---
 
-Was kann entstehen, wenn Digitalisate des kulturellen Erbes frei zugänglich und (nach-)nutzbar werden? Welches Potenzial steckt im digitalen Kulturerbe? Nach dem Motto „Let them play with your toys!“ (Jo Pugh, National Archives UK) möchten wir Open Data im Kulturbereich vorantreiben sowie die Entwickler-, Designer- sowie Gamescommunity mit Kulturinstitutionen und untereinander vernetzen. Wir kooperieren mit: [Deutsche Digitale Bibliothek]( https://www.deutsche-digitale-bibliothek.de/), [Servicestelle Digitalisierung Berlin]( http://www.servicestelle-digitalisierung.de/confluence/pages/viewpage.action?pageId=917513), [Wikimedia Deutschland](https://wikimedia.de/wiki/Hauptseite).
+Coding da Vinci ist der erste Kultur-Hackathon (Entwicklertag) in Deutschland, der Entwickler/innen, Designer/innen und Gamer/innen zusammenbringt, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen. 
+
+Ziel von Coding da Vinci ist nicht nur das Etablieren und Vernetzen einer technikaffinen und kulturbegeisterten Community, sondern insbesondere das kreative Ausschöpfen der technischen Möglichkeiten, die in unserem digitalen Kulturerbe stecken. Wir setzen uns für die freie Verfügbarkeit und Nutzbarkeit von Kulturdaten ein und stellen sicher, dass sie kreativen Menschen als Rohmaterial für ihre Ideen zur Verfügung stehen. 
+
+Coding da Vinci findet auch 2015 wieder statt! Alle Informationen zu Ablauf, Anmeldung, Daten etc. gibt es unter [codingdavinci.de]( https://www.codingdavinci.de/).
+
+Coding da Vinci ist ein Gemeinschaftsprojekt von: [Deutsche Digitale Bibliothek]( https://www.deutsche-digitale-bibliothek.de/), [Servicestelle Digitalisierung Berlin]( http://www.servicestelle-digitalisierung.de/confluence/pages/viewpage.action?pageId=917513), [Wikimedia Deutschland](https://wikimedia.de/wiki/Hauptseite).

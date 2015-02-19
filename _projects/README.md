@@ -1,4 +1,4 @@
-# How do setup a project
+# How to setup a project
 
 ```
 ---
