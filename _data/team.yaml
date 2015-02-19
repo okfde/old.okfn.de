@@ -64,6 +64,17 @@
   twitter:
   website:
 
+  name: Dr. Markus Neuschäfer
+  img:
+  staff: 1
+  board: 0
+  advisory: no
+  position:
+  bio: "Dr. Markus Neuschäfer betreut als Projektleiter die Zusammenarbeit mit DARIAH-DE in den Bereichen Digital Humanities und Open Science. Markus engagiert sich für offene Daten in Wissenschaft und Kultur; besonders interessiert ihn die Entwicklung von Sichtbarkeit mit freien Inhalten. Vor der Open Knowledge Foundation Deutschland promovierte er in Germanistik, war an der Uni Göttingen tätig und arbeitete als Business Development Manager im Verlagswesen."
+  mail: m.neuschaefer@okfn.de
+  twitter: mneuschaefer
+  website:
+
 - name: Fiona Krakenbürger
   img: fionakrakenbuerger
   staff: 1
