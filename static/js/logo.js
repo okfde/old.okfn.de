@@ -103,11 +103,20 @@
     window.requestAnimationFrame(animate);
   };
 
-  document.addEventListener("DOMContentLoaded", function(event) {
-    var logos = document.getElementsByClassName('logo');
-    for (var i = 0; i < logos.length; i += 1) {
+  var animateThis = function(logo) {
+    return function() {
+      logo.onload = null;
+      animateLogo(logo);
+    };
+  };
+
+  var logos = document.getElementsByClassName('logo');
+  for (var i = 0; i < logos.length; i += 1) {
+    if (logos[i].naturalWidth !== 0) {
       animateLogo(logos[i]);
+    } else {
+      logos[i].onload = animateThis(logos[i]);
     }
-  });
+  }
 
 }());
