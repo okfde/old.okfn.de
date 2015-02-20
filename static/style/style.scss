@@ -88,7 +88,7 @@ a:hover, a:focus {
   color: $okf-secondary;
 }
 
-a h3:hover {
+a:hover h3 {
   color: $okf-secondary;
 }
 
@@ -291,7 +291,7 @@ a h3:hover {
   display: block;
   background-color: #fff;
   padding: 20px 60px 40px;
-  margin: -70px auto 2em;
+  margin: -75px auto 2em;
 }
 
 .box {
