@@ -1,8 +1,8 @@
 - name: Kristina Klein
-  img:
+  img: kristinaklein
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Kristina ist seit August 2014 Geschäftsführerin bei der Open Knowledge Foundation Deutschland. Davor war sie bei UNHCR in Myanmar für den Bereich Donor Relations zuständig. Kristina hat als Senior Program Manager der Carnegie Endowment for International Peace das Brüsseler Büro stellvertretend geleitet und als Programm und Konferenz Manager den Bereich Internationale Politik der Körber Stiftung begleitet. Weitere berufliche Stationen waren der Danish Refugee Council in Myanmar und das Wall Street Journal Europe in Berlin."
   mail: kristina.klein@okfn.de
@@ -13,7 +13,7 @@
   img: helenehahn
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Helene engagiert sich insbesondere in den Bereichen OpenGLAM (Galeries, Libraries, Archives, Museums) und Open Culture. Mit ihrer Arbeit möchte sie den offenen Zugang und die freie Nutzbarkeit von Kulturerbe fördern, damit unsere Kulturschätze auch im digitalen Zeitalter relevant bleiben. Bei der Open Knowledge Foundation Deutschland ist sie als Projektleiterin verantwortlich für den Kultur-Hackathon Coding Da Vinci und arbeitet an dem EU-Forschungsprojekt Europeana Cloud, der Konferenz Zugang gestalten und dem Nachwuchsförderprogramm Jugend hackt mit. Studiert hat sie Kulturwissenschaften und Wirtschaft im In- und Ausland."
   mail: helene.hahn@okfn.de
@@ -24,7 +24,7 @@
   img: anjajentzsch
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Anja betreut derzeit für die OKF DE das EU-Forschungsprojekt Europeana Cloud (eCloud) als Projektleiterin. eCloud startete im Februar 2013. Ziel des Projektes ist es, ein basiertes System für die Europeana und ihre Aggregatoren zu entwickeln. eCloud wird neue Europeana-Inhalte und Metadaten bereitstellen, sowie ein neues Speichersystem und eine Plattform mit Methoden und Werkzeuge für Forscher (Europeana Research). Zuvor hat Anja an verschiedenen Linked Data-Projekten wie Wikidata, DBpedia und Linking Open Drug Data mitgearbeitet. Ihr Forschungsschwerpunkt ist Data Profiling auf Linked Open Data."
   mail: anja.jentzsch@okfn.de
@@ -35,7 +35,7 @@
   img: juliakloiber
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Julia setzt als Projektleiterin Projekte im Bereich Civic Apps and Open Data um. Sie war unter anderem verantwortlich für die Projekte Stadt Land Code, Apps and the City und Energy Hack. Vor ihrer Tätigkeit bei der OKF DE hat sie freiberuflich an Projekten im Bereich online Marketing, Kampagnenkonzeption und Videoproduktion gearbeitet. Aktuell arbeitet sie gemeinsam mit Daniel Dietrich, Fiona Krankenbürger und Marcus Dapp an dem Projekt Code for Germany. Eine besondere Herausforderung im Bereich Open Data liegt für sie darin, Daten nicht nur zu öffnen, sondern Multiplikatoren dazu anzuregen spannende Werkzeuge und Apps aus den Daten und Informationen zu entwickeln, um sie einer breiten Masse an Menschen zugänglich zu machen und den Nutzen für Gesellschaft und Demokratie aufzuzeigen."
   mail: julia.kloiber@okfn.de
@@ -46,7 +46,7 @@
   img: mariareimer
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Maria Reimer (geb. Schröder) ist Projektleiterin von Jugend hackt und kümmert sich um die Fördermitgliedschaften. Sie hat Public Administration und Public Policy in Münster, Enschede (Niederlande) und Erfurt studiert. Vor der Open Knowledge Foundation Deutschland hat sie im Wissenschaftszentrum Berlin für Sozialforschung und bei der Anti-Korruptionsorganisation Transparency international Deutschland gearbeitet. Maria findet offene Daten spannend, weil sie die Bürgerrechte stärken."
   mail: maria.reimer@okfn.de
@@ -54,13 +54,35 @@
   website: http://www.oderfunk.de
 
 - name: Katharina Meyer
-  img:
-  staff: 0
+  img: katharinameyer
+  staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: ""
   mail: katharina.meyer@okfn.de
+  twitter:
+  website:
+
+- name: Paula Glaser
+  img: paulaglaser
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: ""
+  mail: paula.glaser@okfn.de
+  twitter:
+  website:
+
+- name: Bela Seeger
+  img: belaseeger
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: ""
+  mail: bela.seeger@okfn.de
   twitter:
   website:
 
@@ -68,7 +90,7 @@
   img: fionakrakenbuerger
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Fiona begann im März 2014 als Praktikantin bei der Open Knowledge Foundation und unterstützt Julia Kloiber im Projekt “Code for Germany”. Seit August ist sie Projektassistentin und betreut die Community der dreizehn Labs in Deutschland. Nebenbei studiert sie Europäische Ethnologie an der Humboldt Universität zu Berlin und engagiert sich im Bereich der digitalen Alphabetisierung."
   mail: fiona.krakenbuerger@okfn.de
@@ -79,7 +101,7 @@
   img: walterpalmetshofer
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er am BIG, Big Data Public Private Forum, am Digitalen Offenheitsindex [do:index] und macht beim Open Data Census mit. Nach Berlin kam er 2012 als Co-Founder eines Startups, zuvor arbeitete er 5 Jahre als Sysadmin in NYC."
   mail: walter.palmetshofer@okfn.de
@@ -101,7 +123,7 @@
   img:
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Michael ist Projektleiter des Open-Data-Trainingsprogramms der OKF DE. Er arbeitet also Datenjournalist, Trainer und Dozent. An der Hochschule für Technik und Wirtschaft Berlin ist Michael seit 2013 Lehrbeauftragter für Open Data. Er engagiert sich seit 2010 für mehr und besser nutzbare offene Daten und ist Mitorganisator des jährlichen Berlin Open Data Day. Zwischen 2004 und 2012 arbeitete Michael als Online-Redakteur bei Tagesspiegel, Rundfunk Berlin-Brandenburg und Hasso-Plattner-Institut."
   mail: michael.hoerz@okfn.de
@@ -109,11 +131,47 @@
   website: michael-hoerz.de
   github:
 
+- name: Knut Perseke
+  img: knutperseke
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: ""
+  mail: knut.perseke@okfn.de
+  twitter:
+  website:
+  github:
+
+- name: Markus Neuschäfer
+  img: markusneuschaefer
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: ""
+  mail: markus.neuschaefer@okfn.de
+  twitter:
+  website:
+  github:
+
+- name: Arne Semsrott
+  img: arnesemsrott
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: ""
+  mail: arne.semsrott@okfn.de
+  twitter:
+  website:
+  github:
+
 - name: Daniel Dietrich
   img: danieldietrich
   staff: 1
   board: 1
-  advisory: no
+  advisory: 0
   position: Vorsitzender
   bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Technologien einsetzen können um die Welt ein kleines bisschen besser zu machen. Für die Open Knowledge Foundation ist er als Open-Data-Evangelist und Koordinator der Open Definition und der Arbeitsgruppe zu Open Government Data tätig. Er ist Mitgründer des Open Data Network und Vorsitzender der Open Knowledge Foundation Deutschland. Bis Anfang 2013 arbeitete er als Redakteur der Platform der Europäischen Kommission für Public Sector Information www.epsiplatform.eu. Bis Ende 2011 arbeitete er als wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT Branche als Berater und Projektleiter gearbeitet. Weitere Informationen auf www.ddie.me."
   mail: daniel.dietrich@okfn.org
@@ -121,12 +179,12 @@
   website:
 
 - name: Friedrich Lindenberg
-  img:
+  img: friedrichlindenberg
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Stellvertreter
-  bio: ""
+  bio: "Friedrich Lindenberg ist Knight-Mozilla Fellow bei SPIEGEL ONLINE, wo er helfen will, neue Web-Technolgien für den Journalismus zu erschliessen. Zuvor war er bei der Open Knowledge Foundation in Projekten zu transparentem Regierungshandeln (Open Government Data) aktiv. Sein Schwerpunkt ist die Umsetzung von Angeboten zur Beteiligung und Information im Zusammenhang mit Haushaltsführung, Gesetzgebung und Lobbyismus, sowie die Zusammenarbeit mit NGOs und Journalisten, die in diesen Bereichen arbeiten. Zuvor entwickelte er Adhocracy, eine Liquid Democracy-Platform für die gemeinsame Entwicklung politischer Entwürfe, die von der Internet-Enquete des Bundestags und verschiedenen Parteien eingesetzt wird."
   mail: friedrich.lindenberg@okfn.org
   twitter: pudo
   website: https://pudo.org
@@ -136,7 +194,7 @@
   img: christianheise
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Beisitzer
   bio: "Christian Heise ist Politologe und wissenschaftlicher Mitarbeiter am Hybrid Publishing Lab im Centre for Digital Cultures an der Leuphana Universität Lüneburg, wo er zum Thema Open Science promoviert. Zuvor war er als Manager bei der Deutschen Presse Agentur und bei ZEIT ONLINE tätig. Neben seiner ehrenamtlichen Tätigkeit im Vorstand der Open Knowledge Foundation ist er auch Gründungs- und Vorstandsmitlgied im Förderverein für freie Netzwerke e.V. (freifunk.net). Christian redet gern und schreibt viel über seine Schwerpunktthemen: Open (Government) Data, Open Government, Open Science und Open Networks. Mehr auf christianheise.de."
   mail: christian.heise@okfn.org
@@ -144,12 +202,12 @@
   website: https://christianheise.de
 
 - name: Claudia Schwegmann
-  img:
+  img: claudiaschwegmann
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Beisitzerin
-  bio: ""
+  bio: "Claudia ist Vorstandsmitglied der OKFN und Gründerin des OpenAid Projektes. Sie betreibt seit 2009 Lobbyarbeit für offene Daten in der Entwicklungszusammenarbeit, insbesondere für die International Aid Transparency Initiative. Claudia Schwegmann ist Politologin, Theologin und Organisationsberaterin und arbeitet seit 1996 in der Entwicklungszusammenarbeit, vor allem im Bereich Evaluation. Ihr Kernanliegen ist wirksame Entwicklungszusammenarbeit auf der Basis von Transparenz, Rechenschaftslegung, Bürgerbeteiligung und die Nutzung des Potentials digitaler Tools zur Erreichung dieser Ziele (open data, social media, crowdsourcing). Claudia Schwegmann arbeitet als freie Beraterin und engagiert sich ehrenamtlich in der Technical Advisory Groups von IATI, in der Technical Advisory Group des Land Portals und bei Transparency International."
   mail: claudia.schwegmann@okfn.org
   twitter: OpenAidGermany
   website:
@@ -158,55 +216,55 @@
   img: stefanwehrmeyer
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Beisitzer
-  bio: ""
+  bio: "Stefan Wehrmeyer ist Datenjournalist beim gemeinnützigen Recherchebüro CORRECT!V. Seit 2009 engagiert er sich für Open Data Nahverkehr und startete 2011 das Informationsfreiheitsportal [FragDenStaat.de](https://fragdenstaat.de/)."
   mail: stefan.wehrmeyer@okfn.org
   twitter: stefanwehrmeyer
-  website:
-  github:
+  website: http://stefanwehrmeyer.com
+  github: stefanw
 
 - name: Dr. Marcus Dapp
-  img:
+  img: marcusdapp
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Beisitzer
-  bio: ""
+  bio: "Dr. Marcus Dapp berät als Principal Consultant der OKF Central (UK) Institutionen und Verwaltungen zum Einsatz von Open Data. Davor initiierte er als IT-Stratege der Landeshauptstadt München das ePartizipationsprojekt “MOGDy (Munich Open Government Day)”, welches damals als Pionierprojekt der Verwaltung galt und in Deutschland und auf EU-Ebene ausgezeichnet wurde. In dieser Zeit half er auch mit, den Verein OKF Deutschland zu gründen. Seit zehn Jahren beschäftigt sich Dr. Dapp mit der Gestaltung offener digitaler Wertschöpfungsprozesse in unterschiedlichsten Bereichen und Sektoren: von Open Source bis Open Innovation, von Open Data bis Open Government, von Open Access bis Free Culture. Herausgefordert und weiterentwickelt wird sein eigenes Verständnis durch die regelmässige Interaktion mit Studierenden seiner Vorlesung “Digitale Nachhaltigkeit” an der ETH Zürich, wo er zu den Auswirkungen von Softwarepatentierung auf Open Source Innovation promovierte. Dr. Dapp wird von Organisationen aus Wirtschaft und Politik als unabhängiger Berater beigezogen und spricht regelmässig auf nationalen und internationalen Veranstaltungen."
   mail:
   twitter:
   website:
 
 - name: Andreas Pawelke
-  img:
+  img: andreaspawelke
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Beisitzer
-  bio: ""
+  bio: "Andreas Pawelke ist der Kassenwart der OKFN Deutschland. Er ist derzeit als Projektmanager bei der World Wide Web Foundation für Open Data Projekte in Südostasien zuständig. Davor war er u.a. für die Deutsche Gesellschaft für Internationale Zusammenarbeit, das Bundesinnenministerium und als sekundierter Mitarbeiter für UN Global Pulse tätig. Andreas wohnt in Freiburg und engagiert er sich dort für eine langfristige Öffnung der Verwaltung. Sein Studium der Politikwissenschaft hat er an der Hertie School of Governance, der TU Darmstadt und der Eidgenössischen Technischen Hochschule Lausanne absolviert."
   mail: andreas.pawelke@okfn.de
   twitter: pa_wela
   website:
 
 - name: Prof. Dr. Sören Auer
-  img:
+  img: soerenauer
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Beisitzer
-  bio: ""
+  bio: "Prof. Dr. Sören Auer leitet den Lehrstuhl Enterprise Information Systems an der Universität Bonn und eine Arbeitsgruppe am Fraunhofer Institut für Analysis und Informationssysteme (IAIS). Er ist Begründer mehrerer international beachteter Forschungs- und Entwicklungsvorhaben wie z.B. des Wikipedia-Semantifizierungs-Projektes DBpedia, der OpenCourseWare-Plattform SlideWiki.org oder des Social Semantic Web Toolkits OntoWiki. Dr. Auer ist Autor von über 100 referierten wissenschaftlichen Publikationen, Organisator vieler wissenschaftlicher Veranstaltungen. Seit 2010 leitet er das im EU RP7 geförderte Forschungsprojekt “LOD2 – Creating Knowledge out of Interlinked Data”. Er arbeitet als Experte für Unternehmen, die Europäische Kommission, das W3C und ist Mitglied des Advisory-Boards der Open Knowledge Foundation."
   mail:
   twitter:
   website:
 
 - name: Rufus Pollock
-  img:
+  img: rufuspollock
   staff: 0
   board: 1
-  advisory: no
+  advisory: 0
   position: Beisitzer
-  bio: ""
-  mail:
+  bio: "Rufus Pollock ist Fellow der Shuttleworth Foundation, Mitarbeiter beim Centre for Intellectual Property and Information Law der Cambridge Universität und Vorstand der Open Knowledge Foundation, die er 2004 mitbegründet hat. Er arbeitet als Wissenschaftler und Entwickler an sozialen, rechtlichen und technologischen Fragen im Zusammenhang mit der Schaffung und Weitergabe von Wissen."
+  mail: rufus.pollock@okfn.org
   twitter: rufuspollock
   website: rufuspollock.org
 
@@ -214,7 +272,7 @@
   img:
   staff: 0
   board: 0
-  advisory: no
+  advisory: 0
   position: Minion
   bio: ""
   mail:
@@ -226,7 +284,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -237,7 +295,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -248,7 +306,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -259,7 +317,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -270,7 +328,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -281,7 +339,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -292,7 +350,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -303,7 +361,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -314,7 +372,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -325,7 +383,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
@@ -336,7 +394,7 @@
   img:
   staff: 0
   board: 0
-  advisory: yes
+  advisory: 1
   position:
   bio: ""
   mail:
