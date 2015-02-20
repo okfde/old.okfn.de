@@ -7,14 +7,19 @@ image: http://okfn.de/files/2014/09/open_science_ag_okf_de.png
 
 >Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die allesamt darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.
 
-## Die deutschsprachige Arbeitsgruppe "Open Science"
+## Die deutschsprachige OKF-Arbeitsgruppe "Open Science"
 
 Für den Bereich Wissenschaft konstituierte sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Open Science Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Open Science fungieren.
 
-Zur internationalen Open Access Week 2014 haben die Mitglieder der Arbeitsgruppe folgendes Mission Statement (Version 1.0) veröffentlicht.
+## Mehr erfahren oder gleich für die Öffnung von Wissenschaft und Forschung aktiv werden?
+
+Abonnieren Sie die [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-dem) der Open Science AG oder [kontaktieren Sie uns](info@okfn.de)!
 
 ## Mission Statement der deutschsprachigen Open Science AG
-### Science – Open by default
+
+Zur internationalen Open Access Week 2014 haben die Mitglieder der Arbeitsgruppe folgendes Mission Statement (Version 1.0) veröffentlicht.
+
+#### Science – Open by default
 Version 1.0, Oktober 2014
 
 Offenheit ist ein immanenter Bestandteil der Wissenschaft. Der Zugang zu bewährtem Wissen und aktuellen Informationen entscheidet über Qualität, Inhalt und Anschlussfähigkeit von Erkenntnis und Innovation. Die Digitalisierung bietet der Wissenschaft neue Chancen im Umgang mit Wissen und Informationen. Neue Verfahren des Austausches von Publikationen, Forschungsdaten, Programmcode und Lehrmaterialien über institutionelle, geografische und fachliche Grenzen hinweg haben auf Basis des Internets Eingang in Forschung und Lehre gefunden.
@@ -33,7 +38,7 @@ Die Open Science AG unterstützt WissenschaftlerInnen bei der Arbeit mit digital
 Wir befürworten Transparenz, Vielfalt und neue Wege bei der Veröffentlichung und Bewertung von Forschungsergebnissen wie auch dem Forschungprozess selber. Der Austausch soll nicht nur innerhalb der wissenschaftlichen Gemeinschaft gefördert werden, sondern auch mit einer breiten Öffentlichkeit.
 Geplante Aktionsbereiche
 
-### Konkrete Maßnahmen und Aktivitäten adressieren besonders die folgenden Themen:
+#### Konkrete Maßnahmen und Aktivitäten adressieren besonders die folgenden Themen:
 
 * Nachvollziehbarkeit und Reproduzierbarkeit: Offenlegung von detaillierten Prozeduren und Materialien in wissenschaftlichen Veröffentlichungen, Redaktions- und Reviewprozessen
 * Bewertung von Qualität und Reputation: Lösungen im Umgang mit reputationsfördernden Möglichkeiten der Veröffentlichung, die nicht offen sind, z.B. bei zugangsbeschränkten Zeitschriften mit hohem Impact-Faktor
@@ -43,7 +48,7 @@ Geplante Aktionsbereiche
 * Verbreitung: Entwicklung und Nutzung von Tools und Diensten zur Verbreitung von Methoden und Ergebnissen
 * Finanzierung: Entwicklung und Förderung von Modellen für die offene und freie Verbreitung von wissenschaftlichen Ergebnissen und Informationen über Open Access Zeitschriften hinaus
 
-## Über uns – Die deutschprachige Open Science AG der OKF
+#### Über uns – Die deutschprachige Open Science AG der OKF
 
 Die Open Science AG ist eine offene Initiative, welche die Idee freier und offener Wissenschaft und Forschung in Wirtschaft, Gesellschaft und Politik unterstützt.
 
@@ -81,7 +86,3 @@ Mitglieder der AG:
 * Andreas Leimbach
 * Thilo Paul-Stüve, Christian-Albrechts-Universität zu Kiel
 * Prof. Dr. Sascha Friesike
-
-## Mehr erfahren oder gleich für die Öffnung von Wissenschaft und Forschung aktiv werden?
-
-Abonnieren Sie die [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-dem) der Open Science AG oder [kontaktieren Sie uns](info@okfn.de)!
