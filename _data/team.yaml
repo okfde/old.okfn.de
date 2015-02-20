@@ -59,7 +59,7 @@
   board: 0
   advisory: 0
   position:
-  bio: ""
+  bio: "Katharina betreut für die OKF DE das Forschungsprojekt “DARIAH” und ist bevorzugt Technik- und Kulturhistorikerin, subtil Kultur- und Medienmanagerin, von Zeit zu Zeit Kuratorin (z.B. bei der re:publica) und in Teilzeit Research Associate am Hybrid Publishing Lab an der Leuphana Lüneburg. Sie mäandert an den Schnittstellen von Schönen Künsten und Technik und publiziert zu Netz- und Medienkunst sowie Digitaler Kultur. Besonders interessiert sie sich für kollaboratives Arbeiten und dafür was entsteht, wenn man Ressourcen offen zur Verfügung stellt, ohne Scheuklappen aus Handlungsanweisungen."
   mail: katharina.meyer@okfn.de
   twitter:
   website:
@@ -151,18 +151,6 @@
   position:
   bio: ""
   mail: markus.neuschaefer@okfn.de
-  twitter:
-  website:
-  github:
-
-- name: Arne Semsrott
-  img: arnesemsrott
-  staff: 1
-  board: 0
-  advisory: 0
-  position:
-  bio: ""
-  mail: arne.semsrott@okfn.de
   twitter:
   website:
   github:
