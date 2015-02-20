@@ -1,7 +1,7 @@
 ---
 title: "Offene Entwicklungshilfe"
 url: http://offene-entwicklungshilfe.de
-img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/0042.png
+img: projects/offeneentwicklungshilfe.jpg
 contact: Claudia Schwegmann, Christian Kreutz
 mailingliste: open-aid-de@lists.okfn.org
 type: tool

@@ -1,7 +1,7 @@
 ---
 title: Bundesgit
 url: https://github.com/bundestag/gesetze
-img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/0132.png
+img: projects/bundesgit.jpg
 contact: Stefan Wehrmeyer
 twitter: bundesgit
 mailingliste: bundesgit@lists.okfn.org

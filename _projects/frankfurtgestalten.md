@@ -1,7 +1,7 @@
 ---
 title: "Frankfurt gestalten"
 url: http://frankfurt-gestalten.de
-img: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/009.png
+img: projects/frankfurtgestalten.jpg
 contact: Christian Kreutz
 twitter: ffminfo
 type: archiv

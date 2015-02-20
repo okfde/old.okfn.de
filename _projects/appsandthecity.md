@@ -1,7 +1,7 @@
 ---
 title: "Apps and the city"
 url: http://appsandthecity.net
-img: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/005.png
+img: projects/appsandthecity.jpg
 contact: Julia Kloiber
 twitter: OpenVBB
 mailingliste: open-data-nahverkehr@lists.okfn.org

@@ -1,11 +1,11 @@
 ---
-title: Jugend hackt
-subtitle: Short project teaser
+title: "Jugend hackt"
+url: http://jugendhackt.de
+status: active
 type: featured
 featured: 3
 background: backgrounds/folders.jpg
-url: https://jugendhackt.de
-img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/jugendhackt-postkarte.png
+img: projects/jugendhackt.jpg
 people:
   - name: Maria Reimer
     role: Projektleitung
