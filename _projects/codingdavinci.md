@@ -4,7 +4,7 @@ subtitle: Der Kultur-Hackathon
 type: featured
 featured: 1
 img: projects/codingdavinci.jpg
-background: backgrounds/folders.jpg
+background: backgrounds/codingdavinci.jpg
 blacklogo: yes
 blacknav: yes
 url: https://codingdavinci.de
