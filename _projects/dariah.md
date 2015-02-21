@@ -1,6 +1,6 @@
 ---
 title: DARIAH-DE
-subtitle: "Wir unterstützen das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities)."
+subtitle: "Unterstützung der digitalen Geisteswissenschaften"
 type: research
 img: projects/dariah.jpg
 url: https://de.dariah.eu
