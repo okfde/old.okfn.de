@@ -2,7 +2,7 @@
 title: Europeana Cloud
 subtitle: Short project teaser
 type: research
-background: backgrounds/folders.jpg
+img: projects/europeana.jpg
 url: https://fragdenstaat.de
 roles:
   - name: Arne Semsrott

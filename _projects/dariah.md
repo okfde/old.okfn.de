@@ -2,7 +2,7 @@
 title: DARIAH-DE
 subtitle: "Wir unterstützen das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities)."
 type: research
-background: backgrounds/folders.jpg
+img: projects/dariah.jpg
 url: https://de.dariah.eu
 roles:
   - name: Dr. Marcus Neuschäfer

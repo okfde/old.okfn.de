@@ -2,8 +2,8 @@
 title: BIG
 subtitle: Big Data Public Private Forum
 type: research
-background: backgrounds/folders.jpg
 url: http://big-project.eu/
+img: projects/big.jpg
 roles:
   - name: Walter Palmetshofer
     role: Projektleiter

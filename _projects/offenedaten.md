@@ -1,8 +1,7 @@
 ---
 title: "Offene Daten"
 url: http://offenedaten.de
-img: http://okfn.de/wp-content/blogs.dir/21/files/2011/02/007.png
-contact: Daniel Dietrich
+img: projects/offenedaten.jpg
 type: tool
 
 ---

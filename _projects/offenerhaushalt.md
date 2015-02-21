@@ -3,7 +3,7 @@ title: "Offener Haushalt"
 type: tool
 url: http://offenerhaushalt.de/
 background: backgrounds/offenerhaushalt.jpg
-img: projects/offenerhaushalt.png
+img: projects/offenerhaushalt.jpg
 contact:
   - twitter: offenerhaushalt
   - mailingliste: offener-haushalt@lists.okfn.org
