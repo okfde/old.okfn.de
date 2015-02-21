@@ -6,7 +6,7 @@
   </div>
   <div class="col-xs order-{{ include.order }}">
     <div class="box box-inner">
-      <h3 id="{{ person.name | slugify | uri_escape }}">{{ person.name }}</h3>
+      <h3 id="{{ person.name | slugify | uri_escape }}">{% if person.title.size > 0 %}{{ person.title }} {% endif %}{{ person.name }}</h3>
       {% if person.bio.size > 0 %}
         {{ person.bio | markdownify }}
       {% endif %}

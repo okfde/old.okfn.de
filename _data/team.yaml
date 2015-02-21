@@ -143,7 +143,8 @@
   website:
   github:
 
-- name: Dr. Markus Neuschäfer
+- name: Markus Neuschäfer
+  title: Dr.
   img: markusneuschaefer
   staff: 1
   board: 0
@@ -152,7 +153,7 @@
   bio: "Dr. Markus Neuschäfer betreut als Projektleiter die Zusammenarbeit mit DARIAH-DE in den Bereichen Digital Humanities und Open Science. Markus engagiert sich für offene Daten in Wissenschaft und Kultur; besonders interessiert ihn die Entwicklung von Sichtbarkeit mit freien Inhalten. Vor der Open Knowledge Foundation Deutschland promovierte er in Germanistik, war an der Uni Göttingen tätig und arbeitete als Business Development Manager im Verlagsbereich."
   mail: markus.neuschaefer@okfn.de
   twitter: mneuschaefer
-  website: 
+  website:
   github:
 
 - name: Daniel Dietrich
@@ -212,7 +213,8 @@
   website: http://stefanwehrmeyer.com
   github: stefanw
 
-- name: Dr. Marcus Dapp
+- name: Marcus Dapp
+  title: Dr.
   img: marcusdapp
   staff: 0
   board: 1
@@ -234,7 +236,8 @@
   twitter: pa_wela
   website:
 
-- name: Prof. Dr. Sören Auer
+- name: Sören Auer
+  title: Prof. Dr.
   img: soerenauer
   staff: 0
   board: 1
@@ -268,7 +271,8 @@
   website:
   github:
 
-- name: Prof.em. Dr. Dr. Eberhard R. Hilf
+- name: Dr. Eberhard R. Hilf
+  title: Prof.em. Dr.
   img:
   staff: 0
   board: 0
@@ -279,7 +283,8 @@
   twitter:
   website:
 
-- name: Prof.em. Dr. Bernd Lutterbeck
+- name: Bernd Lutterbeck
+  title: Prof.em. Dr.
   img:
   staff: 0
   board: 0
@@ -290,7 +295,8 @@
   twitter:
   website:
 
-- name: Prof. Dr. Rainer Kuhlen
+- name: Rainer Kuhlen
+  title: Prof. Dr.
   img:
   staff: 0
   board: 0
@@ -301,7 +307,8 @@
   twitter:
   website:
 
-- name: Prof. Dr. Claudia Müller-Birn
+- name: Claudia Müller-Birn
+  title: Prof. Dr.
   img:
   staff: 0
   board: 0
@@ -312,7 +319,8 @@
   twitter:
   website:
 
-- name: Prof. Dr. Jörn von Lucke
+- name: Jörn von Lucke
+  title: Prof. Dr.
   img:
   staff: 0
   board: 0
@@ -323,7 +331,8 @@
   twitter:
   website:
 
-- name: Prof. Dr. Christian Bizer
+- name: Christian Bizer
+  title: Prof. Dr.
   img:
   staff: 0
   board: 0
@@ -334,7 +343,8 @@
   twitter:
   website:
 
-- name: Prof. Dr. Christian Bizer
+- name: Christian Bizer
+  title: Prof. Dr.
   img:
   staff: 0
   board: 0
@@ -345,7 +355,8 @@
   twitter:
   website:
 
-- name: Prof. Dr. Herbert Kubicek
+- name: Herbert Kubicek
+  title: Prof. Dr.
   img:
   staff: 0
   board: 0
@@ -356,7 +367,8 @@
   twitter:
   website:
 
-- name: Dr. Jeanette Hoffmann
+- name: Jeanette Hoffmann
+  title: Dr.
   img:
   staff: 0
   board: 0
@@ -367,7 +379,8 @@
   twitter:
   website:
 
-- name: Dr. Timo Ehmann
+- name: Timo Ehmann
+  title: Dr.
   img:
   staff: 0
   board: 0
@@ -378,7 +391,8 @@
   twitter:
   website:
 
-- name: Dr. Till Kreutzer
+- name: Till Kreutzer
+  title: Dr.
   img:
   staff: 0
   board: 0
