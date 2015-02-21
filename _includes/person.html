@@ -1,12 +1,12 @@
 {% assign person=include.person %}
-<div class="row">
+<div class="row" id="{{ person.name | slugify | uri_escape }}">
   <div class="col-sm-4 col-xs-12">
     <div class="box person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{{ person.img }}.jpg')">
     </div>
   </div>
   <div class="col-xs order-{{ include.order }}">
     <div class="box box-inner">
-      <h3 id="{{ person.name | slugify | uri_escape }}">{% if person.title.size > 0 %}{{ person.title }} {% endif %}{{ person.name }}</h3>
+      <h3>{% if person.title.size > 0 %}{{ person.title }} {% endif %}{{ person.name }}</h3>
       {% if person.bio.size > 0 %}
         {{ person.bio | markdownify }}
       {% endif %}

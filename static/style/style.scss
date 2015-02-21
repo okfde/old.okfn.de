@@ -12,7 +12,8 @@ $okf-primary: rgb(37, 168, 209);
 $okf-secondary: rgb(12, 74, 93);
 $grid-margin: 1.5rem;
 $dark-text-color: #112233;
-$ligh-text-color: #535b63;
+$light-text-color: #535b63;
+$lightest-text-color: lighten(#535b63, 40%);
 
 $primary-color: $okf-primary;
 
@@ -62,7 +63,7 @@ $primary-color: $okf-primary;
 }
 
 body {
-  color: $ligh-text-color;
+  color: $light-text-color;
   font-family: 'FiraSans-Regular', 'Helvetica', sans-serif;
   font-weight: 300;
   line-height: 1.4em;
@@ -205,7 +206,7 @@ a:hover h3 {
     padding-bottom: 25%;
   }
   .navbar-okfn.default-background {
-    padding-bottom: 8%;
+    padding-bottom: 200px;
   }
   .navbar-nav.nav-black a,
   .navbar-nav.nav-black a:hover,
@@ -233,7 +234,7 @@ a:hover h3 {
 
 .footer {
   background-color: $okf-primary;
-  margin: 2rem auto 0;
+  margin: 0 auto 0;
   padding: 2rem 0;
   font-size: 0.9em;
   overflow: hidden;
@@ -341,11 +342,15 @@ a:hover h3 {
   min-width: 63.2% !important;
 }
 
-.broad-header {
+.full-box {
   background-color: #fff;
-  text-align: center;
-  padding: 2em 0;
+  padding: 2em;
   margin: 0 auto;
+}
+
+.broad-header {
+  @extend .full-box;
+  text-align: center;
 }
 
 .broad-header p {
@@ -385,4 +390,76 @@ a:hover h3 {
   .person-image {
     margin-bottom: $grid-margin;
   }
+}
+
+.post-list-item {
+  text-align: center;
+  margin: 2rem auto;
+  width: 50%;
+  min-width: 300px;
+}
+
+.post-list-item > a {
+  display: block;
+}
+
+.post-title {
+  margin-bottom: 1rem;
+}
+
+.post-list-item img {
+  width: 80px;
+  display: inline-block;
+  text-align: center
+}
+
+.post-list-item > hr {
+  width: 25%;
+  margin: 4rem auto 6rem;
+}
+
+.post-meta {
+  font-size: 0.8em;
+  color: $lightest-text-color;
+  line-height: 1.3em;
+}
+
+.blog-pagination {
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.blog-pagination li {
+  display: inline;
+}
+
+.post-author {
+  margin: -60px auto 4rem;
+  text-align: center;
+}
+
+.post-author > img {
+  width: 80px;
+  border: 2px solid #fff;
+  margin-bottom: 1rem;
+}
+
+.post-meta > a {
+  color: $lightest-text-color;
+  font-weight: normal;
+}
+
+.post-meta > a:hover {
+  font-weight: bold;
+  color: $light-text-color;
+}
+
+.post-image-full {
+  margin: 0 auto;
+}
+
+.post-image-full > img {
+  width: 100%;
+  text-align: center;
 }

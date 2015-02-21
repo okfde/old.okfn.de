@@ -1,0 +1,14 @@
+{% assign post=include.post %}
+<div class="post-list-item">
+  <a href="{{ site.baseurl }}{{ post.url|replace_first:'/','' }}">
+    {% if post.image %}
+      <img src="{{ post.image.src }}" alt="{{ post.title }}"/>
+    {% endif %}
+    <h3 class="post-title">
+        {{ post.title|truncatewords:10 }}
+    </h3>
+    <p class="post-meta">von {{ post.author }} am {{ post.date | date:"%d.%m.%Y" }}</p>
+    {{ post.teaser | truncate:140 }}
+  </a>
+  <hr/>
+</div>

@@ -1,41 +1,14 @@
 ---
-layout: default
+layout: base
 title: Blog
 ---
 
-<div class="posts">
+<div class="full-box">
   {% for post in paginator.posts %}
-    <div class="post">
-      <div class="row">
-        <div class="col-lg-9">
-          <div class="post-header">
-            <h3 class="post-title">
-              <a href="{{ site.baseurl }}{{ post.url|replace_first:'/','' }}">
-                {{ post.title|escape }}
-              </a>
-            </h3>
-          </div>
-        </div>
-        <div class="col-lg-3">
-          {% assign author=post.author %}
-          {% include author_info.html %}
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-8">
-          <div class="post-content">
-            {% if post.image %}
-              <img src="{{ post.image.src }}" alt="{{ post.image.title }}" class="img-responsive"/>
-            {% endif %}
-            {{ post.content }}
-          </div>
-        </div>
-      </div>
-    </div>
+    {% include post_preview.html post=post %}
   {% endfor %}
-</div>
 
-    <ul class="list-unstyled">
+    <ul class="list-unstyled blog-pagination">
     {% if paginator.previous_page %}
       <li>
         {% if paginator.previous_page == 1 %}
@@ -52,5 +25,5 @@ title: Blog
       </li>
     {% endif %}
     </ul>
-  </div>
+
 </div>
