@@ -4,7 +4,7 @@ url: http://jugendhackt.de
 status: active
 type: featured
 featured: 3
-background: backgrounds/folders.jpg
+background: backgrounds/jugendhackt.jpg
 img: projects/jugendhackt.jpg
 people:
   - name: Maria Reimer

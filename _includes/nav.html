@@ -20,10 +20,15 @@
         <li{% if page.menu_blog %} class="active"{% endif %}>
           <a class="nav-link" href="{{ site.baseurl }}blog/">Blog</a>
         </li>
-        <li{% if page.menu_beratung %} class="active"{% endif %}>
-          <a class="nav-link" href="{{ site.baseurl }}beratung/">Beratung</a>
+        <li{% if page.menu_services %} class="active"{% endif %}>
+          <a class="nav-link" href="{{ site.baseurl }}services/">Services</a>
         </li>
       </ul>
     </div>
+    {% if page.supertitle %}
+<!--     <div class="supertitle">
+  {{ page.supertitle }}
+</div> -->
+    {% endif %}
   </div>
 </nav>
