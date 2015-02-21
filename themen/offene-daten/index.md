@@ -32,7 +32,7 @@ In einer gut funktionierenden, demokratischen Gesellschaft müssen die Bürgerin
 
 ## Wie können Daten geöffnet werden?
 
-Wenn Du auf der Suche nach detaillierten, praktischen Ratschlägen bist, die zeigen wie man Daten öffnen kann, dann schau Dir das [Open Data Handbuch](http://opendatahandbook.org/de/how-to-open-up-data/index.htmlhttp://opendatahandbook.org/de/how-to-open-up-data/index.html an. Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
+Wenn Du auf der Suche nach detaillierten, praktischen Ratschlägen bist, die zeigen wie man Daten öffnen kann, dann schau Dir das [Open Data Handbuch](http://opendatahandbook.org/de/how-to-open-up-data/index.html) an. Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
 
 ## Mehr erfahren oder gleich für die Öffnung Daten einsetzen?
 
