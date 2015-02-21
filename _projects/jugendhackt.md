@@ -1,10 +1,10 @@
 ---
 title: Jugend hackt
-subtitle: Short project teaser
+subtitle: Coden für eine bessere Welt
 type: featured
 featured: 3
 background: projects/background_jugendhackt.jpg
-url: https://jugendhackt.de
+url: http://jugendhackt.de
 img: projects/image_jugendhackt.jpg
 people:
   - name: Maria Reimer
@@ -13,7 +13,7 @@ people:
     role: Organisation
 contact:
   - twitter: jugendhackt
-  - facebook: https://www.facebook.com/jugendhackt
+  - facebook: http://www.facebook.com/jugendhackt
   - mailinglist: http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=47735af82e
 ---
 
