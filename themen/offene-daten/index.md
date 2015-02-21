@@ -1,7 +1,7 @@
 ---
 title: Offene Daten
 layout: thema
-image: https://wwwdb.inf.tu-dresden.de/opendatasurvey/img/opendata1.png
+image: 
 teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten können von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Davon ausgenommen sind personenbezogene Daten.
 ---
 # Offene Daten
