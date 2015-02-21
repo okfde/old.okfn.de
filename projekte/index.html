@@ -43,7 +43,7 @@ menu_projekte: yes
 
 <h3>Archiv</h3>
 <div class="row">
-{% assign projects = site.projects | where: "type", "archive" %}
+{% assign projects = site.projects | where: "type", "archive"  | sort:"featured","last" %}
 {% for project in projects %}
   {% include project_list.html project=project %}
 {% endfor %}
