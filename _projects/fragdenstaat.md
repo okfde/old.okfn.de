@@ -1,6 +1,6 @@
 ---
 title: FragDenStaat.de
-subtitle: Das beste Projekt des Universums!
+subtitle: Das Informations&shy;freiheits&shy;portal
 type: featured
 featured: 4
 img: projects/fragdenstaat.jpg
