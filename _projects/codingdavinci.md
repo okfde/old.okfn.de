@@ -1,19 +1,12 @@
+---
 title: "Coding da Vinci"
-subtitle: der Kultur-Hackathon
 url: http://codingdavinci.de
-img: /backgrounds/codingdavinci.jpg
+img: projects/codingdavinci.jpg
+contact: Helene Hahn
+twitter: codingdavinci
+status: active
 featured: 1
-background: backgrounds/folders.jpg
-url: https://codingdavinci.de
 type: featured
-people:
-  - name: Helene Hahn
-    role: Projektleiterin
-  - name: Bela Seeger
-    role: Projektkoordinator
-contact:
-  - twitter: codingdavinci
-
 ---
 
 Coding da Vinci ist der erste Kultur-Hackathon (Entwicklertag) in Deutschland, der Entwickler/innen, Designer/innen und Gamer/innen zusammenbringt, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen. 
