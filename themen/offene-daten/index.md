@@ -2,16 +2,15 @@
 title: Offene Daten
 layout: thema
 image: https://wwwdb.inf.tu-dresden.de/opendatasurvey/img/opendata1.png
-
+teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten können von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Einzige Ausnahme: Personenbezogene Daten.
 ---
->Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und ‘sharealike’.
-
-Diese Definition für offenes Wissen zeigt detailliert die Anforderungen für “Offenheit” in Bezug auf Inhalte und Daten. 
+# Offene Daten
+> Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und ‘sharealike’. Einzige Ausnahme: Personenbezogene Daten.
 
 Die wichtigsten Eigenschaften offener Daten sind: 
-Verfügbarkeit und Zugang: Das Werk soll als Ganzes verfügbar sein, zu Kosten, die nicht höher als die Reproduktionskosten sind, vorzugsweise zum gebührenfreien Download im Internet. Das Werk soll ebenso in einer zweckmäßigen und modifizierbaren Form verfügbar sein. 
-Wiederverwendung und Nachnutzung: Die Daten müssen unter denjenigen Bedingungen bereitgestellt werden, die die Wiederverwendung, Nachnutzung und Verbindung mit anderen Datensätzen erlauben. Die Daten müssen maschinenlesbar sein. 
-Universelle Beteiligung: Jede Person muss in der Lage sein, die Daten zu nutzen, wiederzuverwenden und nachzunutzen. Es darf keine Diskriminierung gegen Handlungsfelder, Personen oder Gruppen vorliegen. Die Nachnutzung darf also nicht auf einzelne Bereiche begrenzt werden (z.B. nur in der Bildung), noch dürfen bestimmte Nutzungsarten (z.B. für kommerzielle Zwecke) ausgeschlossen sein. 
+* Verfügbarkeit und Zugang: Das Werk soll als Ganzes verfügbar sein, zu Kosten, die nicht höher als die Reproduktionskosten sind, vorzugsweise zum gebührenfreien Download im Internet. Das Werk soll ebenso in einer zweckmäßigen und modifizierbaren Form verfügbar sein. 
+* Wiederverwendung und Nachnutzung: Die Daten müssen unter denjenigen Bedingungen bereitgestellt werden, die die Wiederverwendung, Nachnutzung und Verbindung mit anderen Datensätzen erlauben. Die Daten müssen maschinenlesbar sein. 
+* Universelle Beteiligung: Jede Person muss in der Lage sein, die Daten zu nutzen, wiederzuverwenden und nachzunutzen. Es darf keine Diskriminierung gegen Handlungsfelder, Personen oder Gruppen vorliegen. Die Nachnutzung darf also nicht auf einzelne Bereiche begrenzt werden (z.B. nur in der Bildung), noch dürfen bestimmte Nutzungsarten (z.B. für kommerzielle Zwecke) ausgeschlossen sein. 
 
 [Hier geht es zur ausführlichen Definition von offenem Wissen](http://opendefinition.org/okd/deutsch/). 
 
