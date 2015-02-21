@@ -2,10 +2,10 @@
 title: Offene Daten
 layout: thema
 image: https://wwwdb.inf.tu-dresden.de/opendatasurvey/img/opendata1.png
-teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten können von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Einzige Ausnahme: Personenbezogene Daten.
+teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten können von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Davon ausgenommen sind personenbezogene Daten.
 ---
 # Offene Daten
-> Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und ‘sharealike’. Einzige Ausnahme: Personenbezogene Daten.
+> Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und ‘sharealike’. Davon ausgenommen sind personenbezogene Daten.
 
 Die wichtigsten Eigenschaften offener Daten sind: 
 * Verfügbarkeit und Zugang: Das Werk soll als Ganzes verfügbar sein, zu Kosten, die nicht höher als die Reproduktionskosten sind, vorzugsweise zum gebührenfreien Download im Internet. Das Werk soll ebenso in einer zweckmäßigen und modifizierbaren Form verfügbar sein. 
