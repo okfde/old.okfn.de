@@ -1,18 +1,14 @@
 ---
 title: BIG
-subtitle: Short project teaser
+subtitle: Big Data Public Private Forum
 type: research
 background: backgrounds/folders.jpg
-url: https://fragdenstaat.de
+url: http://big-project.eu/
 roles:
-  - name: Arne Semsrott
-    role: Projektassistenz
-  - name: Stefan Wehrmeyer
+  - name: Walter Palmetshofer
     role: Projektleiter
 contact:
-  - twitter: fragdenstaat
-  - github: https://github.com/okfde/fragdenstaat_de
-  - mailinglist: fragdenstaat@lists.okfn.org
+  - twitter: BigFP7
 
 ---
 
