@@ -194,6 +194,11 @@ a:hover h3 {
     border-bottom: 3px solid #fff;
 }
 
+.navbar-nav.nav-black>li>a:hover:before,
+.navbar-nav.nav-black>li.active>a:before {
+  border-bottom-color: $dark-text-color;
+}
+
 .nav>li>a:hover, .nav>li>a:focus  {
   background-color: transparent;
 }
