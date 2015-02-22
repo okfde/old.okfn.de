@@ -1,6 +1,6 @@
 ---
 title: Jugend hackt
-subtitle: Coden für eine bessere Welt
+subtitle: Mit Code die Welt verbessern
 type: featured
 featured: 3
 background: projects/background_jugendhackt.jpg
