@@ -3,7 +3,7 @@ title: Jugend hackt
 subtitle: Coden für eine bessere Welt
 type: featured
 featured: 3
-background: projects/jugendhackt.jpg
+background: backgrounds/jugendhackt.jpg
 url: http://jugendhackt.de
 img: projects/jugendhackt.jpg
 people:
