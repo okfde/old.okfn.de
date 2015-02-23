@@ -25,8 +25,11 @@
         </li>
       </ul>
     </div>
+    {% if page.headline %}
+      <h1 class="header-headline">{{ page.headline }}</h1>
+    {% endif %}
     {% if page.supertitle %}
-<!--     <div class="supertitle">
+<!-- <div class="supertitle">
   {{ page.supertitle }}
 </div> -->
     {% endif %}

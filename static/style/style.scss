@@ -3,13 +3,16 @@
 
 @import 'bootstrap.css';
 @import 'flexboxgrid.css';
+@import 'icons.css';
 
 
 $min-width: 768px;
 
 $okf-background: rgb(235, 235, 235);
-$okf-primary: rgb(37, 168, 209);
-$okf-secondary: rgb(12, 74, 93);
+$okf-primary: rgb(38, 183, 217);
+$okf-secondary: rgb(4, 92, 113);
+$okf-tertiary: rgb(29, 165, 197);
+$okf-quartinary: rgb(3, 134, 165);
 $grid-margin: 1.5rem;
 $dark-text-color: #112233;
 $light-text-color: #535b63;
@@ -125,10 +128,6 @@ a:hover h3 {
   text-align: right;
 }
 
-.navbar-okfn>.container {
-  padding-bottom: 5em;
-}
-
 .default-background {
   background-color: $primary-color;
 }
@@ -156,6 +155,7 @@ a:hover h3 {
 
 .nav {
   padding-right: 40px;
+  margin-left: 22%;
 }
 
 .nav>li>a,.nav>li>a:hover, .nav>li>a:focus {
@@ -166,7 +166,7 @@ a:hover h3 {
 
 .nav>li>a {
     display: inline-block;
-    padding: 6px 0px 4px;
+    padding: 12px 0px 8px;
     margin: 0px 1.5rem 0px;
     position: relative;
     text-decoration: none;
@@ -196,7 +196,7 @@ a:hover h3 {
 
 .navbar-nav.nav-black>li>a:hover:before,
 .navbar-nav.nav-black>li.active>a:before {
-  border-bottom-color: $dark-text-color;
+  border-bottom-color: #fff;
 }
 
 .nav>li>a:hover, .nav>li>a:focus  {
@@ -212,10 +212,7 @@ a:hover h3 {
     background-image: none;
   }
   .navbar-okfn {
-    padding-bottom: 25%;
-  }
-  .navbar-okfn.default-background {
-    padding-bottom: 200px;
+    padding-bottom: 12rem;
   }
   .navbar-nav.nav-black a,
   .navbar-nav.nav-black a:hover,
@@ -226,6 +223,11 @@ a:hover h3 {
   .nav-black .nav>li>a:before,
   .nav-black .nav>li>a:hover:before {
     border-bottom: 3px solid $dark-text-color;
+  }
+
+  .navbar-nav.nav-black>li>a:hover:before,
+  .navbar-nav.nav-black>li.active>a:before {
+    border-bottom-color: $dark-text-color;
   }
 
   .nav {
@@ -251,6 +253,21 @@ a:hover h3 {
   line-height: 1em;
   color: lighten($okf-primary, 10%);
   z-index: 1;
+}
+
+.header-headline {
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  font-size: 24px;
+  padding: 40px 0;
+}
+
+@media (min-width: $min-width) {
+  .header-headline {
+    font-size: 3em;
+    padding: 170px 0 0;
+  }
 }
 
 .footer {
@@ -291,6 +308,7 @@ a:hover h3 {
 .nav-list li {
   display: inline-block;
   color: $okf-primary;
+  line-height: 3em;
 }
 
 
@@ -494,4 +512,56 @@ a:hover h3 {
 .post-image-full > img {
   width: 100%;
   text-align: center;
+}
+
+.showcase h4 {
+  color: $okf-primary;
+  margin: 10px 0 0;
+}
+
+.showcase img {
+  width: 100%;
+  /* height: 200px; */
+}
+
+.padded-row {
+  padding: 5rem 0;
+}
+
+.tertiary-color {
+  background-color: $okf-tertiary;
+  color: #fff;
+}
+
+.tertiary-color h2 {
+  color: #fff;
+}
+
+.tertiary-color {
+
+  .nav-list {
+    text-align: center;
+  }
+
+  .nav-list li {
+    color: #fff;
+  }
+
+  .nav-list li>a, .highlight-link {
+    border-color: #fff;
+    color: #fff;
+  }
+
+  .nav-list li>a:hover, .highlight-link:hover {
+    text-decoration: none;
+    color: #fff;
+    border-color: #fff;
+  }
+
+}
+
+.project-section {
+  text-align: center;
+  color: $light-text-color;
+  margin: 60px 0 20px;
 }

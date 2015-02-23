@@ -1,32 +1,72 @@
 ---
-layout: default
+layout: base
 title: Offenes Wissen für ein digitales Zeitalter
 description: ''
+headline: Wir gestalten die digitale Gesellschaft<br/>mit offenem Wissen und Werkzeugen.
 home: true
 ---
 
-<div class="top-box col-center">
-  <h1>Wir gestalten die digitale Gesellschaft<br/>mit offenem Wissen und Werkzeugen.</h1>
+<div class="container">
+
+  <div class="row padded-row">
+    <div class="showcase col-xs-8 col-xs-offset-2 col-sm-3 col-sm-offset-15">
+      <img src="{{ site.staticurl }}images/projects/codeforde_square.jpg" alt="OK Labs" class="img-circle"/>
+      <h4 class="kpi">
+        13<br/>
+        OK Labs
+      </h4>
+      <p class="detail">
+          entwickeln Tools für <a href="{{ site.baseurl }}projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
+      </p>
+    </div>
+    <div class="showcase col-xs-8 col-xs-offset-2 col-sm-3 ">
+      <img src="{{ site.staticurl }}images/projects/jugendhackt_square.jpg" alt="Jugend Hackt" class="img-circle"/>
+      <h4 class="kpi">
+        120<br/>
+        Jugend-Hacker
+      </h4>
+      <p class="detail">
+          experimentieren bei <a href="{{ site.baseurl }}projekte/jugendhackt/">Jugend hackt</a> mit Code und Freundschaft.
+      </p>
+    </div>
+    <div class="showcase col-xs-8 col-xs-offset-2 col-sm-3 ">
+      <img src="{{ site.staticurl }}images/projects/fragdenstaat_square.jpg" alt="FragDenStaat" class="img-circle"/>
+      <h4 class="kpi">
+        3954<br/>
+        Anfragen
+      </h4>
+      <p class="detail">
+          nach amtlichen Informationen und Daten auf <a href="{{ site.baseurl }}projekte/fragdenstaat/">FragDenStaat.de</a>
+      </p>
+    </div>
+  </div>
 </div>
 
-<div class="row">
-    <div class="col-md-4">
-        <span class="kpi">13 OKLabs</span>
-        <span class="detail">
-            entwickeln Tools für <a href="#">digitale Städte</a> in ganz Deutschland.
-        </span>
+<div class="tertiary-color">
+  <div class="container">
+    <div class="col-center padded-row">
+      <h2>Wer wir sind</h2>
+      <p>
+        Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein, der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt. Hier kannst du mehr über unsere Organisation, unsere Ziele und unsere Projekte erfahren. Als gemeinnützige Organisation freuen wir uns über jede Spende!
+      </p>
+      <ul class="nav-list">
+        <li>
+          <a href="">Spenden</a>
+        </li>
+        <li>
+          <a href="">Spenden</a>
+        </li>
+      </ul>
     </div>
-    <div class="col-md-4">
-        <span class="kpi">120 Jugend-Hacker</span>
-        <span class="detail">
-            experimentieren bei <a href="#">Jugend hackt</a> mit Code und Freundschaft.
-        </span>
-    </div>
-    <div class="col-md-4">
-        <span class="kpi">3954 Anfragen</span>
-        <span class="detail">
-            nach amtlichen Informationen und Daten auf <a href="#">FragDenStaat.de</a>
-        </span>
-    </div>
+  </div>
+</div>
 
+
+<div class="container">
+  <div class="row padded-row">
+    {% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
+    {% for project in projects limit:3 %}
+      {% include project_list.html project=project %}
+    {% endfor %}
+  </div>
 </div>
