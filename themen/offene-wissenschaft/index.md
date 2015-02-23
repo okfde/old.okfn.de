@@ -7,7 +7,7 @@ teaser: Offene Wissenschaft bündelt Strategien und Verfahren, die allesamt dara
 
 >Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die allesamt darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.
 
-## Die deutschsprachige OKF-Arbeitsgruppe "Open Science"
+## Die deutschsprachige OKF-Arbeitsgruppe »Open Science«
 
 Für den Bereich Wissenschaft konstituierte sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Open Science Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Open Science fungieren.
 
