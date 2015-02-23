@@ -1,7 +1,7 @@
 ---
 title: codefor.de
 url: http://codefor.de/
-img: backgrounds/codeforde.jpg
+img: projects/codeforde.jpg
 contact: Julia Kloiber, Fiona Krakenbuerger
 twitter: codeforde
 g+: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
