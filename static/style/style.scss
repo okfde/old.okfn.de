@@ -528,16 +528,20 @@ a:hover h3 {
   padding: 5rem 0;
 }
 
-.tertiary-color {
+.dark-section {
   background-color: $okf-tertiary;
   color: #fff;
 }
 
-.tertiary-color h2 {
+.darker-color {
+  background-color: $okf-quartinary;
+}
+
+.dark-section h2 {
   color: #fff;
 }
 
-.tertiary-color {
+.dark-section {
 
   .nav-list {
     text-align: center;

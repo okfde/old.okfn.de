@@ -42,7 +42,8 @@ home: true
   </div>
 </div>
 
-<div class="tertiary-color">
+
+<div class="dark-section">
   <div class="container">
     <div class="col-center padded-row">
       <h2>Wer wir sind</h2>
@@ -61,12 +62,48 @@ home: true
   </div>
 </div>
 
-
 <div class="container">
+  <h2>Drei unserer Projekte</h2>
   <div class="row padded-row">
     {% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
     {% for project in projects limit:3 %}
       {% include project_list.html project=project %}
+    {% endfor %}
+  </div>
+</div>
+
+
+<div class="dark-section darker-color">
+  <div class="container">
+    <div class="col-center padded-row">
+    <form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=4ed2decd59" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="text-center mc-form" target="_blank" role="form">
+      <div class="row">
+        <h2>Newsletter</h2>
+        <div class="col-lg-10 col-lg-offset-1">
+          <p> Du möchtest auf dem Laufenden bleiben über Code for Germany? <br> Dann trag Dich in unseren monatlichen Newsletter ein: </p>
+        </div>
+        <div class="mc-field-group form-group form-group-newsletter text-left">
+          <div class="col-lg-5 col-lg-offset-2">
+            <label for="mce-EMAIL" class="sr-only" >E-Mail</label>
+            <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="E-Mail" required ></div>
+            <div class="col-lg-3">
+              <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-mitmachen">Abonnieren!</button>
+              <div style="position: absolute; left: -5000px;"><input type="text" name="b_929f1e07936386d34833e20d1_bb63fcab72" value="">
+                <!-- set to newsletter only-->
+                <input type="checkbox" value="1" checked="checked" name="group[16985][1]" id="mce-group[16985]-16985-0" style="display:none;">
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<div class="full-box">
+  <div class="container">
+    {% for post in site.posts limit:3 %}
+      {% include post_preview.html post=post %}
     {% endfor %}
   </div>
 </div>
