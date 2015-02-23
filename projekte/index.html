@@ -11,7 +11,7 @@ background: backgrounds/projekte.jpg
 
 <div class="top-box col-md-7 col-center text-center">
   <h2>Projekte</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+  <p>Unsere Projekte</p>
 </div>
 
 <div class="row">
@@ -26,7 +26,7 @@ background: backgrounds/projekte.jpg
 {% endfor %}
 </div>
 
-<h3>Events</h3>
+<h3 class="project-section">Events</h3>
 <div class="row">
 {% assign projects = site.projects | where: "type","event" | sort:"date","last" %}
 {% for project in projects reversed %}
@@ -35,7 +35,7 @@ background: backgrounds/projekte.jpg
 
 </div>
 
-<h3>Forschungsprojekte</h3>
+<h3 class="project-section">Forschungsprojekte</h3>
 <div class="row">
 {% assign projects = site.projects | where: "type", "research" %}
 {% for project in projects %}
@@ -43,7 +43,7 @@ background: backgrounds/projekte.jpg
 {% endfor %}
 </div>
 
-<h3>Archiv</h3>
+<h3 class="project-section">Archiv</h3>
 <div class="row">
 {% assign projects = site.projects | where: "type", "archive"  | sort:"featured","last" %}
 {% for project in projects %}
