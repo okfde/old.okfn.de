@@ -78,7 +78,8 @@ h1, h2, h3, h4 {
   color: $dark-text-color;
   font-family: 'LeagueSpartan-Bold', 'Helvetica', sans-serif;
   line-height: 1.4em;
-  margin-bottom: 45px;
+  margin-bottom: 15px;
+  margin-top: 35px;
   letter-spacing: 2px;
 }
 
@@ -285,10 +286,22 @@ a:hover h3 {
 .footer, .footer a, .footer a:hover {
   color: #fff;
 }
-.footer ul {
+.footer-links {
   list-style-type: none;
   padding: 0;
+  margin: 0;
 }
+
+.footer-links li {
+  display: inline-block;
+  text-transform: uppercase;
+  font-family: "LeagueSpartan-Bold";
+  letter-spacing: 2px;
+  font-weight: normal;
+  font-size: 12px;
+  padding: 0 2em;
+}
+
 
 .cellar {
   background-color: $okf-secondary;
@@ -568,4 +581,8 @@ a:hover h3 {
   text-align: center;
   color: $light-text-color;
   margin: 60px 0 20px;
+}
+
+.icon-list {
+  font-size: 14px;
 }
