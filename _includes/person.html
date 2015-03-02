@@ -10,23 +10,29 @@
       {% if person.bio.size > 0 %}
         {{ person.bio | markdownify }}
       {% endif %}
-      <dl>
+      <dl class="icon-list">
       {% if person.twitter %}
-        <dt></dt>
+        <dt><i class="icon-twitter-1"></i></dt>
         <dd>
           <a href="https://twitter.com/{{ person.twitter }}">@{{ person.twitter }}</a>
         </dd>
       {% endif %}
       {% if person.github %}
-        <dt></dt>
+        <dt><i class="icon-github"></i></dt>
         <dd>
           <a href="https://github.com/{{ person.github }}">{{ person.github }} on GitHub</a>
         </dd>
       {% endif %}
       {% if person.website %}
-        <dt></dt>
+        <dt><i class="icon-umbrella"></i></dt>
         <dd>
           <a href="{{ person.website }}">{{ person.website|replace_first:"http://"|replace_first:"https://" }}</a>
+        </dd>
+      {% endif %}
+      {% if person.mail %}
+        <dt><i class="icon-paper-plane"></i></dt>
+        <dd>
+          <a href="mailto:{{ person.mail }}">{{ person.mail }}</a>
         </dd>
       {% endif %}
       </dl>
