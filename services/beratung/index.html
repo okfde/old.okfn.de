@@ -1,0 +1,19 @@
+---
+layout: page
+title: Beratung
+menu_services: yes
+
+---
+
+{% assign pages = site.pages|where:"layout","beratung"|sort:"title" %}
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis in facilis eaque soluta, tempora. Quaerat deserunt, eius et pariatur asperiores placeat alias quis saepe, consectetur cumque ea sunt necessitatibus hic!</p>
+<ul class="nav-list">
+  {% for pages in themen %}
+    <li>
+      <a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
+        {{ thema.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

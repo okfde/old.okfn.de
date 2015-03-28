@@ -1,28 +1,30 @@
+---
+---
 /*
- * http://flexboxgrid.com/
- * Uncomment and set these variables to customize the grid.
+ * adapted from http://flexboxgrid.com/
  *
- * :root {
- *  --gutter-width: 1rem;
- *  --outer-margin: 2rem;
- *  --gutter-compensation: calc( var( --gutter-width / 2 ) * -1 );
- *  --half-gutter-width: calc( var( --gutter-width / 2 ) );
- *  --screen-xs-min: 30em;
- *  --screen-sm-min: 48em;
- *  --screen-md-min: 62em;
- *  --screen-lg-min: 75em;
- *  --container-sm: calc( 45rem + var( --gutter-width ) );
- *  --container-md: calc( 60rem + var( --gutter-width ) );
- *  --container-lg: calc( 70rem + var( --gutter-width ) );
- * }
- *
-*/
+ */
 
-.container-fluid {
+
+$gutter-width: 30px;
+$outer-margin: 15px;
+$gutter-compensation: ($gutter-width / 2 ) * -1;
+$half-gutter-width: $gutter-width / 2;
+$screen-xs-min: 450px;
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+$container-sm: 720px + $gutter-width;
+$container-md: 940px + $gutter-width;
+$container-lg: 1140px + $gutter-width;
+
+
+.container, .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  padding-right: 2rem;
-  padding-left: 2rem;
+  padding-right: $outer-margin;
+  padding-left: $outer-margin;
+
 }
 
 .row {
@@ -43,8 +45,8 @@
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: -0.5rem;
-  margin-left: -0.5rem;
+  margin-right: $gutter-compensation;
+  margin-left: $gutter-compensation;
 }
 
 .row.reverse {
@@ -109,8 +111,8 @@
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
+  padding-right: $half-gutter-width;
+  padding-left: $half-gutter-width;
 }
 
 .col-xs {
@@ -324,9 +326,9 @@
   order: 1;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: $screen-sm-min) {
   .container {
-    width: 46rem;
+    width: $container-sm;
   }
 
   .col-sm,
@@ -342,6 +344,7 @@
   .col-sm-10,
   .col-sm-11,
   .col-sm-12,
+  .col-sm-offset-0,
   .col-sm-offset-1,
   .col-sm-offset-2,
   .col-sm-offset-3,
@@ -375,8 +378,8 @@
     -webkit-flex-shrink: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: $half-gutter-width;
+    padding-left: $half-gutter-width;
   }
 
   .col-sm {
@@ -472,6 +475,10 @@
     -ms-flex-preferred-size: 100%;
     flex-basis: 100%;
     max-width: 100%;
+  }
+
+  .col-sm-offset-0 {
+    margin-left: 0%;
   }
 
   .col-sm-offset-1 {
@@ -591,9 +598,9 @@
   }
 }
 
-@media only screen and (min-width: 62em) {
+@media only screen and (min-width: $screen-md-min) {
   .container {
-    width: 61rem;
+    width: $container-md;
   }
 
   .col-md,
@@ -642,8 +649,8 @@
     -webkit-flex-shrink: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: $half-gutter-width;
+    padding-left: $half-gutter-width;
   }
 
   .col-md {
@@ -858,11 +865,10 @@
   }
 }
 
-@media only screen and (min-width: 75em) {
+@media only screen and (min-width: $screen-lg-min) {
   .container {
-    width: 71rem;
+    width: $container-lg;
   }
-
   .col-lg,
   .col-lg-1,
   .col-lg-2,
@@ -909,8 +915,8 @@
     -webkit-flex-shrink: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: $half-gutter-width;
+    padding-left: $half-gutter-width;
   }
 
   .col-lg {

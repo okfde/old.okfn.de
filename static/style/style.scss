@@ -6,19 +6,20 @@
 @import 'icons.css';
 
 
-$min-width: 768px;
-
 $okf-background: rgb(235, 235, 235);
 $okf-primary: rgb(38, 183, 217);
 $okf-secondary: rgb(4, 92, 113);
 $okf-tertiary: rgb(29, 165, 197);
 $okf-quartinary: rgb(3, 134, 165);
-$grid-margin: 1.5rem;
 $dark-text-color: #112233;
 $light-text-color: #535b63;
 $lightest-text-color: lighten(#535b63, 40%);
 
 $primary-color: $okf-primary;
+
+$min-width: 768px;
+$screen-md: 992px;
+$grid-margin: 15px;
 
 @font-face {
   font-family: 'FiraSans-Regular';
@@ -33,36 +34,6 @@ $primary-color: $okf-primary;
   src: url('../fonts/LeagueSpartan-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/LeagueSpartan-Bold.woff') format('woff'), url('../fonts/LeagueSpartan-Bold.ttf')  format('truetype'), url('../fonts/LeagueSpartan-Bold.svg#LeagueSpartan-Bold') format('svg');
   font-weight: 600;
   font-style: normal;
-}
-
-
-
-.container{
-  padding-right:15px;
-  padding-left:15px;
-  margin-right:auto;
-  margin-left:auto;
-}
-
-@media (min-width:$min-width){
-  .container{
-    width:750px;
-  }
-}
-@media (min-width:992px){
-  .container{
-    width:970px;
-  }
-}
-@media (min-width:1200px){
-  .container{
-    width:1170px;
-  }
-}
-
-.row>* {
-  padding-left: $grid-margin;
-  padding-right: $grid-margin;
 }
 
 body {
@@ -97,19 +68,6 @@ a:hover h3 {
   color: $okf-secondary;
 }
 
-.col-center {
-  margin: 0 auto;
-  width: 100%;
-  position:relative;
-  min-height:1px;
-}
-
-@media (min-width: $min-width) {
-  .col-center {
-    width: 66.66666667%;
-  }
-}
-
 .col-center h1, .col-center h2 {
   text-align: center;
 }
@@ -127,6 +85,7 @@ a:hover h3 {
   font-size: 16px;
   letter-spacing: 2px;
   text-align: right;
+  border-radius: 0px
 }
 
 .default-background {
@@ -143,7 +102,7 @@ a:hover h3 {
   background: rgba(0,0,0,0);
   background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0)), color-stop(50%, rgba(0,0,0,0.5)), color-stop(100%, rgba(0,0,0,0.5)));
-  background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
   background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
   background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
   background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0.5) 100%);
@@ -200,6 +159,11 @@ a:hover h3 {
   border-bottom-color: #fff;
 }
 
+.navbar-nav {
+  margin: 0 -15px;
+  padding: 15px 40px;
+}
+
 .nav>li>a:hover, .nav>li>a:focus  {
   background-color: transparent;
 }
@@ -213,7 +177,7 @@ a:hover h3 {
     background-image: none;
   }
   .navbar-okfn {
-    padding-bottom: 12rem;
+    padding-bottom: 15rem;
   }
   .navbar-nav.nav-black a,
   .navbar-nav.nav-black a:hover,
@@ -299,7 +263,7 @@ a:hover h3 {
   letter-spacing: 2px;
   font-weight: normal;
   font-size: 12px;
-  padding: 0 2em;
+  padding: 0 1.5em;
 }
 
 
@@ -318,20 +282,21 @@ a:hover h3 {
   list-style-type: none;
 }
 
-.nav-list li {
-  display: inline-block;
-  color: $okf-primary;
-  line-height: 3em;
-}
-
-
 .nav-list li>a, .highlight-link {
-  margin: 0.5em;
+  display: inline-block;
   line-height: 2em;
+  margin: 0.5em 0;
   border: 2px solid $okf-primary;
   padding: 0.5em;
   white-space: nowrap;
   color: $okf-primary;
+  width: 100%;
+}
+
+@media (min-width: $min-width) {
+  .nav-list li>a, .highlight-link {
+    margin: 0.5em;
+  }
 }
 
 .nav-list li>a:hover, .highlight-link:hover {
@@ -340,11 +305,33 @@ a:hover h3 {
   border-color: lighten($okf-primary, 20%);
 }
 
-.top-box {
+.col-center {
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  min-height: 1px;
+}
+
+@media (min-width: $min-width) {
+  .col-center {
+    width: 66.66666667%;
+  }
+}
+
+
+.lurking-header {
   display: block;
   background-color: #fff;
-  padding: 20px 60px 40px;
-  margin: -75px auto 2em;
+  padding: 10px 30px 40px;
+  margin: 0 auto 2em;
+  @extend .col-center;
+}
+
+@media (min-width: $min-width) {
+  .lurking-header {
+    margin-top: -85px;
+    padding: 15px 60px 40px;
+  }
 }
 
 .box {
@@ -391,7 +378,7 @@ a:hover h3 {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3bd2f6', endColorstr='#1da5c5',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
-@media (min-width: $min-width) {
+@media (min-width: $screen-md) {
   .order-1 {
     order: -1;
   }
@@ -407,8 +394,13 @@ a:hover h3 {
 
 .full-box {
   background-color: #fff;
-  padding: 2em;
   margin: 0 auto;
+}
+
+@media (min-width: $min-width) {
+  .full-box {
+    padding: 2em;
+  }
 }
 
 .broad-header {
@@ -444,7 +436,7 @@ a:hover h3 {
   background-position: center 0;
   background-size: auto 100%;
   background-repeat: no-repeat;
-  background-color: #fff;
+  background-color: transparent;
   min-height: 320px;
   margin-bottom: -2 * $grid-margin;
 }
@@ -527,6 +519,10 @@ a:hover h3 {
   text-align: center;
 }
 
+.showcase {
+  padding: 2rem 0 2rem
+}
+
 .showcase h4 {
   color: $okf-primary;
   margin: 10px 0 0;
@@ -577,7 +573,7 @@ a:hover h3 {
 
 }
 
-.project-section {
+.subtle-section {
   text-align: center;
   color: $light-text-color;
   margin: 60px 0 20px;
@@ -585,4 +581,23 @@ a:hover h3 {
 
 .icon-list {
   font-size: 14px;
+  line-height: 20px;
+}
+
+.icon-list dt {
+  float: left;
+  width: 20px;
+  overflow: hidden;
+  clear: left;
+  text-align: right;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.icon-list dd {
+  margin-left: 25px;
+}
+
+.btn-default {
+  color: #000;
 }
