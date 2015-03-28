@@ -7,22 +7,78 @@ menu_projekte: yes
   <h1>{{ page.title }}</h1>
   {{ content }}
 
-  <div class="row">
-    <div class="col-md-6">
-      {% if page.people.size > 0 %}
-        <ol>
-        {% for person in page.people %}
-          <li>
+  {% if page.people.size > 0 %}
+    <h3>Ansprechpartner</h3>
+    <div class="row">
+    {% for teammember in page.people %}
+      {% assign person = site.data.team | where:"name",teammember.name | first %}
+      <div class="col-md-6">
+        <div class="row">
+          <div class="col-xs-3">
+            <img src="{{ site.baseurl }}static/images/team/{{ person.img }}_square.jpg" alt="{{ person.name }}" class="img-circle" style="float:left;width: 64px;height:64px">
+          </div>
+          <div class="col-xs-9">
             {{ person.name }}
-          </li>
-        {% endfor %}
-        </ol>
-      {% endif %}
+            {% if teammember.role %}
+              <br/><small>{{ teammember.role }}</small>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
     </div>
-    <div class="col-md-6">
-      {% if contact.website %}
+  {% endif %}
+  <h3>Mehr Informationen</h3>
+  <dl class="icon-list big-icon-list">
+    {% if page.contact.website %}
+      <dt><i class="icon-umbrella"></i></dt>
+      <dd>
+        <a href="{{ page.contact.website }}">{{ page.contact.website|replace_first:"http://"|replace_first:"https://" }}</a>
+      </dd>
+    {% endif %}
+    {% if page.contact.twitter %}
+      <dt><i class="icon-twitter-1"></i></dt>
+      <dd>
+        <a href="https://twitter.com/{{ page.contact.twitter }}">
+          {{ page.contact.twitter }}
+        </a>
+      </dd>
+    {% endif %}
+    {% if page.contact.github %}
+      <dt><i class="icon-github"></i></dt>
+      <dd>
+        <a href="{{ page.contact.github }}">{{ page.contact.github|replace_first:"https://github.com/" }}</a>
+      </dd>
+    {% endif %}
+    {% if page.contact.mail %}
+      <dt><i class="icon-paper-plane"></i></dt>
+      <dd>
+        <a href="mailto:{{ page.contact.mail }}">{{ page.contact.mail }}</a>
+      </dd>
+    {% endif %}
+    {% if page.contact.mailinglist %}
+      <dt><i class="icon-paper-plane"></i></dt>
+      <dd>
+        <a href="{{ page.contact.mailinglist }}">{{ page.contact.mailinglist }}</a>
+      </dd>
+    {% endif %}
+  </dl>
+</div>
 
-      {% endif %}
+<h3 class="subtle-section">Weitere Projekte</h3>
+<div class="row">
+  <div class="col-xs-offset-2 col-xs-8">
+    <div class="row">
+      {% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
+      {% assign count = 0 %}
+      {% for project in projects limit:4 %}
+        {% if project.title != page.title %}
+          {% if count < 3 %}
+            {% include project_list.html project=project style="mini" %}
+          {% endif %}
+        {% endif %}
+        {% assign count = count|add:1 %}
+      {% endfor %}
     </div>
   </div>
 </div>

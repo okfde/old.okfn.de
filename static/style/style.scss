@@ -362,6 +362,14 @@ a:hover h3 {
   transition: 0.2s ease-in;
 }
 
+.mini .box .inner, .mini .box .inner h3 {
+  font-size: 0.9em;
+}
+
+.mini .box-image .box-image-inner {
+  height: 12rem;
+}
+
 .box-image:hover .box-image-inner {
 /*   background-position: -5% -5%; */
   background-size: 110% auto;
@@ -584,6 +592,11 @@ a:hover h3 {
   line-height: 20px;
 }
 
+.big-icon-list {
+  font-size: 20px;
+  line-height: 26px;
+}
+
 .icon-list dt {
   float: left;
   width: 20px;
@@ -596,6 +609,14 @@ a:hover h3 {
 
 .icon-list dd {
   margin-left: 25px;
+}
+
+.big-icon-list dt {
+  width: 30px;
+}
+
+.big-icon-list dd {
+  margin-left: 35px;
 }
 
 .btn-default {
