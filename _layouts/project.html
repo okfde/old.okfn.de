@@ -77,7 +77,7 @@ menu_projekte: yes
             {% include project_list.html project=project style="mini" %}
           {% endif %}
         {% endif %}
-        {% assign count = count|add:1 %}
+        {% assign count = count|plus:1 %}
       {% endfor %}
     </div>
   </div>

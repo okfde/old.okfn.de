@@ -6,11 +6,13 @@ layout: default
 {% assign author = site.data.team | where:"name",page.author | first %}
 
 <div class="lurking-header">
-  <div class="post-author">
-    <img src="{{ site.baseurl }}static/images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">
+  <div{% if author.img %} class="post-author"{% else %} class="post-nonteam-author" {% endif %}>
+    {% if author.img %}
+      <img src="{{ site.baseurl }}static/images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">
+    {% endif %}
     <p class="post-meta">
       {% if author.name %}
-      von <a href="{{ site.baseurl }}{% if author.team %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
+      von <a href="{{ site.baseurl }}{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
       {% else %}
       von {{ page.author }}
       {% endif %}
@@ -27,4 +29,29 @@ layout: default
   {% endif %}
 
   {{ content }}
+</div>
+
+<div class="row broad-header">
+  {% if page.previous.url and page.next.url %}
+    {% assign cols=2 %}
+  <div class="col-xs-offset-1 col-xs-10">
+  {% else %}
+    {% assign cols=1 %}
+  <div class="col-xs-offset-3 col-xs-6">
+  {% endif %}
+    <div class="row">
+      {% if page.previous.url %}
+        <div class="{% if cols == 2 %}col-xs-6{% else %}cols-xs-12{% endif %}">
+          <h3 class="subtle-section">Vorheriger Eintrag</h3>
+          {% include post_preview.html post=page.previous %}
+        </div>
+      {% endif %}
+      {% if page.next.url %}
+        <div class="{% if cols == 2 %}col-xs-6{% else %}cols-xs-12{% endif %}">
+          <h3 class="subtle-section">Nächster Eintrag</h3>
+          {% include post_preview.html post=page.next %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
 </div>

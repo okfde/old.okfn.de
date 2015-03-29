@@ -498,7 +498,7 @@ a:hover h3 {
 }
 
 .post-author {
-  margin: -60px auto 4rem;
+  margin: -55px auto 4rem;
   text-align: center;
 }
 
@@ -506,6 +506,10 @@ a:hover h3 {
   width: 80px;
   border: 2px solid #fff;
   margin-bottom: 1rem;
+}
+
+.post-nonteam-author {
+  text-align: center;
 }
 
 .post-meta > a {
