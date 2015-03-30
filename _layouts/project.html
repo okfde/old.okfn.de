@@ -73,7 +73,7 @@ menu_projekte: yes
       {% assign count = 0 %}
       {% for project in projects limit:4 %}
         {% if project.title != page.title %}
-          {% if count < 3 %}
+          {% if count < 4 %}
             {% include project_list.html project=project style="mini" %}
           {% endif %}
         {% endif %}
