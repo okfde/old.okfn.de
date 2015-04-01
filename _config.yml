@@ -1,7 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
-baseurl: /okfn.de/
-staticurl: /okfn.de/static/
+baseurl: /
+staticurl: /static/
 
 defaults:
   -
