@@ -5,7 +5,9 @@ menu_community: yes
 background: backgrounds/services.jpg
 
 ---
-Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Fast alle unserer Projekte leben vom ehrenamtlichen Engagement ihrer Unterstützer. Doch auch ehrenamtliches Engagement kostet Geld. Deshalb freuen wir uns über jede Spende, damit wir den Menschen, die sich unter dem Dach der Open Knowledge Foundation Deutschland für freies Wissen, offene Daten und Beteiligung einsetzen, weiterhin eine gute Infrastruktur bieten können.
+Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Fast alle unserer Projekte leben vom ehrenamtlichen Engagement ihrer Unterstützer. Doch auch ehrenamtliches Engagement kostet Geld. Deshalb freuen wir uns über jede Spende, damit wir den Menschen, die sich unter dem Dach der Open Knowledge Foundation Deutschland für freies Wissen, offene Daten und Beteiligung einsetzen, weiterhin eine gute Infrastruktur bieten können. Gern nehmen wir auch projektbezogene Sachspenden an.
+
+## Spenden via Banküberweisung
 
 Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
 
@@ -14,7 +16,7 @@ BLZ: 830 944 95 (Ethikbank)
 IBAN: DE89830944950003009670
 BIC: GENODEF1ETK
 
-Gern nehmen wir auch projektbezogene Sachspenden an.
+## Spenden über Betterplace
 
 Hier können Sie auch einfach un bequem über betterplace an uns spenden: 
 <iframe width="100%" height="880px" name="Spenden" style="border:0; padding-top:10px; padding-bottom:10px;" src="https://www.betterplace.org/de/organisations/okfde/iframe_donations/new">
@@ -26,6 +28,6 @@ Wenn Sie Fragen haben oder weitere Informationen benötigen, schreiben Sie bitte
 
 Spenden und Daueraufträge sind nur eine Möglichkeit, uns zu unterstützen. Wir suchen ständig motivierte Leute für die ehrenamtliche und aktive Mitarbeit in unseren Projekten! Wir freuen uns über Anregungen, Fragen und Kritik.
 
-Wenn Sie mehr darüber wissen wollen, wie wir uns finanzieren und wie wir investieren, kannst das hier nachgelesen werden.
+Wenn Sie mehr darüber wissen wollen, wie wir uns finanzieren und wie wir investieren, kannst das [hier](../verein/)hier nachgelesen werden.
 
 Wir bedanken uns für Ihre Unterstützung ! 
