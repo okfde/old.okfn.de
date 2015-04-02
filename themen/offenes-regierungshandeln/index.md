@@ -12,3 +12,9 @@ teaser: Offenes Regierungshandeln zielt darauf ab Regierungs- und Verwaltungshan
 Das Ziel von Open Government ist es, die Arbeit von Politik, Regierung, Verwaltung und Justiz (d. h. des öffentlichen Sektors insgesamt) offener, transparenter, partizipativer und kooperativer zu gestalten. Das erfordert eine neue, transparente und auf Zusammenarbeit ausgelegte Verwaltungskultur.
 
 Richtig umgesetzt wird Open Government deshalb mittel- bis langfristig eine nachhaltige Änderung der politischen Kultur zur Folge haben. Die bisherige Kultur der politischen Beteiligung, die fast ausschließlich auf Wahltermine begrenzt war, wird sich zu einer Kooperationskultur entwickeln, die die Zusammenarbeit zwischen Politik und Gesellschaft verstetigt und intensiviert. Die Hinwendung zu Open Government bedeutet so den Abbau von Politikverdrossenheit und einer rein negativen Protestkultur. Die Bundesrepublik kann von einer solchen Entwicklung nur profitieren.
+
+Wir unterstützen diesbezüglich u.a. internationale Bemühungen wie die [Open Government Partnership](http://www.opengovpartnership.org/).
+
+## Mehr erfahren oder gleich für die Open Government einsetzen?
+
+Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/okfn-de) der Open Knowledge Foundation, informiere dich beim [Arbeitskreis Open Government Partnership](http://www.opengovpartnership.de/) oder [kontaktiere uns direkt](mailto:info@okfn.de).

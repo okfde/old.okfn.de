@@ -35,4 +35,4 @@ Wenn Du auf der Suche nach detaillierten, praktischen Ratschlägen bist, die zei
 
 ## Mehr erfahren oder gleich für die Öffnung Daten einsetzen?
 
-Abonnieren die [Mailingliste](https://lists.okfn.org/mailman/listinfo/Codeforde) von Code for Germany oder [kontaktieren Sie uns](info@okfn.de)!
+Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/okfn-de) der Open Knowledge Foundation oder [kontaktiere uns direkt](mailto:info@okfn.de).

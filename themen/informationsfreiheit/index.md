@@ -14,4 +14,6 @@ In Deutschland ist es nach dem Informationsfreiheitsgesetz (IFG) geregelt. Dabei
 
 Trotzdem gilt vielerorts noch die alte Amtsverschwiegenheit. In manchen Bundesländern existiert noch kein IFG, in anderen antworten Behörden nur zögerlich. Wir setzen uns dafür ein, dass staatliche Stellen in Deutschland eine aktive Informationspolitik pflegen. Sie sollen transparent arbeiten und für einen freien Informationsfluss zur Bevölkerung sorgen. Bürgerinnen und Bürger können dadurch die Verwaltung kontrollieren.
 
-Weitere Informationen auf unserem Portal zur Informationsfreiheit [FragDenStaat.de](https://fragdenstaat.de/).
+## Mehr erfahren oder gleich für Informationsfreiheit einsetzen?
+
+Weitere Informationen findest du auf unserem Portal zur Informationsfreiheit [FragDenStaat.de](https://fragdenstaat.de/) oder in der [Mailingliste](https://lists.okfn.org/mailman/listinfo/fragdenstaat).
