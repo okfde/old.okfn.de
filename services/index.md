@@ -8,7 +8,7 @@ background: backgrounds/beratung.jpg
 
 ---
 
-Die Open Knowledge Foundation Deutschland arbeitet gemeinsam mit Experten an der Öffnung von Daten und Wissen sowie der Analyse und der Aufbereitung offener Inhalte. Die OKF fungiert dabei als einer der größten zivilgesellschaftlichen Ansprechpartner bei den Themen offenes Wissen und offene Daten in Deutschland.
+Die Open Knowledge Foundation Deutschland (OKF DE) arbeitet gemeinsam mit Experten an der Öffnung von Daten und Wissen sowie an der Analyse und der Aufbereitung offener Inhalte. Die OKF DE fungiert dabei als einer der größten zivilgesellschaftlichen Ansprechpartner bei den Themen offenes Wissen und offene Daten in Deutschland.
 
 Durch die ständig wachsende Anzahl an datengetriebenen Arbeitsumfeldern gibt es einen immer größeren Bedarf an Beratung und Dienstleistungen im Umgang mit Daten. Dieser Bedarf besteht bei Unternehmen und Verwaltungen ebenso so wie in Redaktionen oder bei zivilgesellschaftlichen Organisationen.
 
