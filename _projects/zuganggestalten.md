@@ -11,4 +11,6 @@ contact:
   website: http://www.zugang-gestalten.de
 ---
 
-Mit öffentlichen Mitteln werden Museen, Archive, Bibliotheken und Baudenkmäler betrieben und erhalten. Aber wie gestaltet sich der Zugang zu den Schätzen, die dort erschlossen, restauriert und bewahrt werden? Die Internationale Konferenz „Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe“ am 28. und 29. November 2013 im Jüdischen Museum in Berlin will die unterschiedlichen Gestaltungsmöglichkeiten beim Zugang zum kulturellen Erbe aufzeigen und die damit in Zusammenhang stehenden Fragen öffentlich mit Fachleuten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik diskutieren.
+<iframe src="https://player.vimeo.com/video/112263739?color=e2007a&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Mit öffentlichen Mitteln werden Museen, Archive, Bibliotheken und Baudenkmäler betrieben und erhalten. Aber wie gestaltet sich der Zugang zu den Schätzen, die dort erschlossen, restauriert und bewahrt werden? Die jährlich durchgeführte, internationale Konferenz „Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe“ zeigt die unterschiedlichen Gestaltungsmöglichkeiten beim Zugang zum kulturellen Erbe auf. Sie ist das Forum im deutschsprachigen Raum um die mit dem Zugang zu kulturellen Werken in Zusammenhang stehenden Fragen öffentlich mit Fachleuten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik zu diskutieren.

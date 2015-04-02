@@ -19,6 +19,8 @@ contact:
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AhVZAMMPMHo" frameborder="0" allowfullscreen></iframe>
+
 Coding da Vinci ist der erste Kultur-Hackathon (Entwicklertag) in Deutschland, der Entwickler/innen, Designer/innen und Gamer/innen zusammenbringt, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen.
 
 Ziel von Coding da Vinci ist nicht nur das Etablieren und Vernetzen einer technikaffinen und kulturbegeisterten Community, sondern insbesondere das kreative Ausschöpfen der technischen Möglichkeiten, die in unserem digitalen Kulturerbe stecken. Wir setzen uns für die freie Verfügbarkeit und Nutzbarkeit von Kulturdaten ein und stellen sicher, dass sie kreativen Menschen als Rohmaterial für ihre Ideen zur Verfügung stehen.

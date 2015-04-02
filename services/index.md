@@ -26,7 +26,7 @@ Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Fragen zu diesen Kursen ha
 
 Projektleiter: [Michael Hörz](mailto:training@okfn.de)
 
---
+___
 
 ## Einführungskurs (1/2 Tag)
 
