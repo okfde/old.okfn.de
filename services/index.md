@@ -4,7 +4,7 @@ title: Beratung
 menu_services: yes
 blacknav: yes
 blacklogo: yes
-background: backgrounds/services.jpg
+background: backgrounds/beratung.jpg
 
 ---
 
