@@ -5,7 +5,7 @@ type: research
 img: projects/dariah.jpg
 url: https://de.dariah.eu
 people:
-  - name: Dr. Markus Neuschäfer
+  - name: Markus Neuschäfer
     role: Projektleiter
   - name: Christian Heise
     role: Projektadvisor

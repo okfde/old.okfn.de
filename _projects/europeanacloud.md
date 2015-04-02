@@ -1,19 +1,16 @@
 ---
 title: Europeana Cloud
-subtitle: Short project teaser
+subtitle: Software-Lösungen für das bearbeiten von Metadaten
 type: research
 img: projects/europeana.jpg
-url: https://fragdenstaat.de
+url: http://pro.europeana.eu/web/europeana-ecloud
 roles:
-  - name: Arne Semsrott
-    role: Projektassistenz
-  - name: Stefan Wehrmeyer
-    role: Projektleiter
+  - name: Anja Jentzsch
+  - role: Projektleiterin
 contact:
-  - twitter: fragdenstaat
-  - github: https://github.com/okfde/fragdenstaat_de
-  - mailinglist: fragdenstaat@lists.okfn.org
+   twitter: europeanaeu
+   website: http://pro.europeana.eu/web/europeana-ecloud
 
 ---
 
-Your detailed description text here.
+Europeana Cloud ist ein "Best Practice Network" mit dem Ziel ein Cloud-basiertes System für Europeana und nationale Aggregatoren zu etablieren und geeignete Werkzeuge zu entwickeln, mit denen sich nicht nur beschreibende Metadaten, sondern tatsächliche digitalisierte Inhalte miteinander verknüpfen und bearbeiten lassen. Die Aufgabe der OKF DE im Projekt wird es sein, Software-Lösungen für das bearbeiten von Metadaten und digitalisierten Objekten in einer Cloud-Infrastruktur zu entwickeln.
