@@ -1,6 +1,6 @@
 ---
 title: Civic Technology
 layout: thema
-background: backgrounds/background.jpg
+background: backgrounds/civictech.jpg
 
 ---
