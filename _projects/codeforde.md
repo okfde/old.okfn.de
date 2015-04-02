@@ -1,7 +1,7 @@
 ---
 title: codefor.de
 url: http://codefor.de/
-subtitle: "Förderung von Transparenz, Open Data und Civic Tech"
+subtitle: "Transparenz, Open Data und Civic Tech"
 img: projects/codeforde.jpg
 contact: Julia Kloiber, Fiona Krakenbuerger
 twitter: codeforde
