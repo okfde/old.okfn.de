@@ -24,4 +24,4 @@ Diese Angebote werden ständig mit mehreren Partnern (u.a. für öffentliche Ver
 
 Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Fragen zu diesen Kursen haben oder mit uns über ein speziell für Sie entwickeltes Weiterbildungsprogramm sprechen möchten – etwa wenn wir Sie bei einem redaktionellen Projekt begleiten sollen oder Sie als Kommune oder Unternehmen strategische Unterstützung benötigen: Wir unterstützen Sie dabei, ein Konzept für für offene Daten und Transparenz zu entwickeln.
 
-Projektleiter: [Michael Hörz](mailto:michael.hoerz@okfn.de)
+Projektleiter: [Michael Hörz](mailto:training@okfn.de)
