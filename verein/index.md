@@ -98,12 +98,12 @@ Mittelverwendung
 
 Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 6 Vollzeitäquivalenten.
 
-* Gewinnermittlung für 2013
-* Balance Sheet 2013
-* Gewinnermittlung für 2012
-* Balance Sheet 2012
-* Gewinnermittlung für 2011
-* Balance Sheet 2011
+* [Gewinnermittlung für 2013](../files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)
+* [Balance Sheet 2013](../files/verein/Balance-Sheet-2013.pdf)
+* [Gewinnermittlung für 2012](../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)
+* [Balance Sheet 2012](../files/verein/Balance-Sheet-2012.pdf)
+* [Gewinnermittlung für 2011](../files/verein/OKF-DE-Gewinnermittlung-2011-kurz.pdf)
+* [Balance Sheet 2011](../files/verein/Balance-Sheet-2011.pdf)
 
 # Gesellschaftliche Verbundenheit
 
@@ -118,5 +118,3 @@ Signifikante Gelder für 2013 wurden von der Europäischen Kommission, dem Open 
 Signifikante Gelder für 2012 wurden von der Europäischen Kommission, dem Open Society Institute und der OKFN-International beigesteuert.
 
 Signifikante Gelder für 2011 stammen von der Bundeszentrale für politische Bildung, Google Deutschland, der Heinrich-Böll-Stiftung und der Kreditanstalt für Wiederaufbau.
-
-
