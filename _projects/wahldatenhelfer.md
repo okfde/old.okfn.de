@@ -1,6 +1,6 @@
 ---
-title: Wahl
-subtitle: "Inkubator für Civic Tech"
+title: Wahl.Daten.Helfer.
+subtitle: "Apps entwickeln stärkt die Demokratie!"
 type: archive
 img: projects/wahldatenhelfer.jpg
 url: http://www.wahldatenhelfer.de
