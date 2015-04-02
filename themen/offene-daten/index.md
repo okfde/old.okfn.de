@@ -2,7 +2,7 @@
 title: Offene Daten
 layout: thema
 background: backgrounds/opendata.jpg
-teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten können von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Davon ausgenommen sind personenbezogene Daten.
+teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten müssen von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Davon ausgenommen sind personenbezogene Daten.
 ---
 # Offene Daten
 > Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und »sharealike». Davon ausgenommen sind personenbezogene Daten.

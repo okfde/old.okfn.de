@@ -2,7 +2,7 @@
 title: Offenes Regierungshandeln
 layout: thema
 background: backgrounds/opengov.jpg
-teaser: Offene Regierungshandeln bündelt Strategien und Verfahren, die allesamt darauf abzielen, Regierungs- und Verwaltungshandeln transparenter zu machen.
+teaser: Offenes Regierungshandeln bündelt Strategien und Verfahren, die allesamt darauf abzielen, Regierungs- und Verwaltungshandeln transparenter zu machen.
 
 ---
 # Open Government
