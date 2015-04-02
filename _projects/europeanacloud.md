@@ -8,8 +8,8 @@ peoples:
   - name: Anja Jentzsch
   - role: Projektleiterin
 contact:
-   twitter: europeanaeu
    website: http://pro.europeana.eu/web/europeana-ecloud
+   twitter: europeanaeu
 
 ---
 

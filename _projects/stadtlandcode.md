@@ -5,13 +5,14 @@ type: archive
 img: projects/stadtlandcode.jpg
 url: http://stadtlandcode.de/
 featured: 1
-roles:
+people:
   - name: Julia Kloiber
     role: Projektleitung
   - name: Friedrich Lindenberg
     role: Projektleitung
 contact:
-  - twitter: stadtlandcode
+   twitter: stadtlandcode
+   website: http://stadtlandcode.de/
 
 ---
 

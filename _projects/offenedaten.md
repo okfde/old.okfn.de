@@ -3,7 +3,9 @@ title: "Offene Daten"
 url: http://offenedaten.de
 img: projects/offenedaten.jpg
 type: tool
-
+people:
+- name: Daniel Dietrich
+  role: Projektleiter
 contact:
   website: https://offenedaten.de/
 

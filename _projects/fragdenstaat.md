@@ -14,10 +14,11 @@ people:
   - name: Arne Semsrott
     role: Projektassistenz
 contact:
+  website: https://fragdenstaat.de
   twitter: fragdenstaat
   github: https://github.com/okfde/fragdenstaat_de
-  mailinglist: fragdenstaat@lists.okfn.org
-  website: https://fragdenstaat.de
+  mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
+
 
 ---
 

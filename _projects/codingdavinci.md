@@ -14,8 +14,9 @@ people:
   - name: Bela Seeger
     role: Projektassistenz
 contact:
-  twitter: codingdavinci
   website: https://codingdavinci.de
+  twitter: codingdavinci
+
 ---
 
 Coding da Vinci ist der erste Kultur-Hackathon (Entwicklertag) in Deutschland, der Entwickler/innen, Designer/innen und Gamer/innen zusammenbringt, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen.

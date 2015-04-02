@@ -14,9 +14,10 @@ people:
   - name: Fiona Krakenbürger
     role: Projektassistenz
 contact:
+  website: http://codefor.de
   twitter: codeforde
   github: https://github.com/codeforgermany
-  website: http://codefor.de
+  mailinglist: https://lists.okfn.org/mailman/listinfo/codeforde
 
 ---
 

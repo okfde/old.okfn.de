@@ -10,8 +10,8 @@ people:
   - name: Christian Heise
     role: Projektadvisor
 contact:
-  twitter: dariahde
   website: http://de.dariah.eu
+  twitter: dariahde
 
 ---
 

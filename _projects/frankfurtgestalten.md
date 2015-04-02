@@ -1,7 +1,7 @@
 ---
-title: Frankfurt gestalten
+title: "Frankfurt gestalten"
 img: projects/frankfurtgestalten.jpg
-type: archiv
+type: archive
 contact:
   website: http://www.frankfurt-gestalten.de/
   github: https://github.com/frankfurt-gestalten
