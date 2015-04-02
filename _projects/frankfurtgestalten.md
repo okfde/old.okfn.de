@@ -3,7 +3,7 @@ title: "Frankfurt gestalten"
 img: projects/frankfurtgestalten.jpg
 type: archive
 contact:
-  website: http://www.frankfurt-gestalten.de/
+  website: http://www.frankfurt-gestalten.de
   github: https://github.com/frankfurt-gestalten
   twitter: ffminfo
   facebook: https://www.facebook.com/frankfurtgestalten
