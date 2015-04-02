@@ -28,6 +28,6 @@ Wenn Sie Fragen haben oder weitere Informationen benötigen, schreiben Sie bitte
 
 Spenden und Daueraufträge sind nur eine Möglichkeit, uns zu unterstützen. Wir suchen ständig motivierte Leute für die ehrenamtliche und aktive Mitarbeit in unseren Projekten! Wir freuen uns über Anregungen, Fragen und Kritik.
 
-Wenn Sie mehr darüber wissen wollen, wie wir uns finanzieren und wie wir investieren, kannst das [hier](../verein/)hier nachgelesen werden.
+Wenn Sie mehr darüber wissen wollen, wie wir uns finanzieren und wie wir investieren, kannst das [hier](../verein/) nachgelesen werden.
 
 Wir bedanken uns für Ihre Unterstützung ! 
