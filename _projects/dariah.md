@@ -19,4 +19,4 @@ DARIAH-DE unterstützt mit digitalen Ressourcen und Methoden arbeitende Geistes-
 
 Als Projektpartner unterstützen wir das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities). Ziel ist es, die zunehmend mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kulturwissenschaftler in Forschung und Lehre zu betreuen und so die Nutzung von digitalen Inhalten, Ressourcen, Werkzeugen und offenen Forschungsinfrastrukturen zu fördern.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AWa661KfQG0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" style="margin:auto;" src="https://www.youtube.com/embed/AWa661KfQG0" frameborder="0" allowfullscreen></iframe>
