@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Verein
-menu_services: yes
+menu_services: no
 background: backgrounds/services.jpg
 
 ---
@@ -10,7 +10,7 @@ Der Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein mi
 
 Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Auf der Projektseite bekommst Du Einblick in alle Projekte. Unser Wiki, die Knowledge Base, enthält eine umfassende Zusammenstellung von Informationen über unsere Arbeit und unsere Positionen.
 
-Der Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open Knowledge Foundation, eines aktiven weltweiten Netzwerks von unterschiedlichen Menschen, die sich an den Aktivitäten und der Weiterentwicklung des Vereins beteiligen. Nur gemeinsam mit unseren Freunden und Förderern können wir unsere Ziele erreichen.
+Der Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open Knowledge Foundation, eines aktiven [weltweiten Netzwerks](https://okfn.org/network/) von unterschiedlichen Menschen, die sich an den Aktivitäten und der Weiterentwicklung des Vereins beteiligen. Nur gemeinsam mit unseren Freunden und Förderern können wir unsere Ziele erreichen.
 
 Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, sind wir Unterzeichner der [Initiative Transparente Zivilgesellschaft (ITZ)](http://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html) von Transparency International Deutschland e.V..
 
@@ -65,7 +65,7 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 * Satzung: [hier](../verein/satzung)
 * Memorandum of Understanding mit der OKFN aus Großbritannien: [hier](../files/verein/okfde-mou.pdf)
 * Mission Statement: hier
-* Protokoll der Gründungsversammlung: [hier](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)hier
+* Protokoll der Gründungsversammlung: [hier](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
 
 ## Anerkennung als gemeinnütziger Verein
 
@@ -78,8 +78,8 @@ Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar.
 Unseren ersten Tätigkeitsbericht haben wir im Gründungsjahr 2011 veröffentlicht. Auf unserem Blog berichten wir regelmässig einmal im Monat über unsere Tätigkeiten. Diese monatlichen Berichte gibt es auch in unserem Newsletter. Hier die Tätigkeitsberichte nach Jahren:
 
 * [Tätigkeitsbericht 2013](../files/verein/OKF-DE-Taetigkeitsbericht-2013.pdf)
-* [Tätigkeitsbericht 2012](../files/verein/OKF-DE-Taetigkeitsbericht-2012.pdf)
-* [Tätigkeitsbericht 2011](../files/verein/OKF-DE-Taetigkeitsbericht-2011.pdf)
+* [Tätigkeitsbericht 2012](../files/verein/OKFDE-Taetigkeitsbericht-2012.pdf)
+* [Tätigkeitsbericht 2011](../files/verein/OKFDE-Taetigkeitsbericht-2011.pdf)
 
 Hier gibt es mehr Informationen zu [unseren Projekten](../projekte/).
 

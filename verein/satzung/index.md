@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Satzung
-menu_services: yes
+menu_services: no
 background: backgrounds/services.jpg
 
 ---
