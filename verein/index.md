@@ -62,14 +62,14 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ## Wichtige Dokumente
 
-* Satzung: hier
-* Memorandum of Understanding mit der OKFN aus Großbritannien: hier
+* Satzung: [hier](../verein/satzung)
+* Memorandum of Understanding mit der OKFN aus Großbritannien: [hier](../files/verein/okfde-mou.pdf)
 * Mission Statement: hier
-* Protokoll der Gründungsversammlung: hier
+* Protokoll der Gründungsversammlung: [hier](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)hier
 
 ## Anerkennung als gemeinnütziger Verein
 
-Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012](../files/verein/Freistellungsbescheid-27-Dez-12.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
 Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar.
 
@@ -77,9 +77,9 @@ Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar.
 
 Unseren ersten Tätigkeitsbericht haben wir im Gründungsjahr 2011 veröffentlicht. Auf unserem Blog berichten wir regelmässig einmal im Monat über unsere Tätigkeiten. Diese monatlichen Berichte gibt es auch in unserem Newsletter. Hier die Tätigkeitsberichte nach Jahren:
 
-* Tätigkeitsbericht 2013
-* Tätigkeitsbericht 2012
-* Tätigkeitsbericht 2011
+* [Tätigkeitsbericht 2013](../files/verein/OKF-DE-Taetigkeitsbericht-2013.pdf)
+* [Tätigkeitsbericht 2012](../files/verein/OKF-DE-Taetigkeitsbericht-2012.pdf)
+* [Tätigkeitsbericht 2011](../files/verein/OKF-DE-Taetigkeitsbericht-2011.pdf)
 
 Hier gibt es mehr Informationen zu [unseren Projekten](../projekte/).
 
