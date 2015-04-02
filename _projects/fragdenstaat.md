@@ -19,7 +19,8 @@ contact:
   github: https://github.com/okfde/fragdenstaat_de
   mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
 
-
 ---
+
+<iframe src="https://player.vimeo.com/video/102604678" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Mit Frag den Staat kann jeder interessierte Bürger Anfragen nach den Informationsgesetzen (Informationsfreiheitsgesetz des Bundes, Umweltinformationsgesetz und Verbraucherinformationsgesetz) stellen. Fragen und Antworten werden auf dieser Seite öffentlich und transparent dokumentiert. Ziel ist es, durch die transparente Abbildung des ganzen Prozesses das Thema Informationsfreiheit insgesamt zu stärken. Vorbild für FragDenStaat.de ist das britische Informationsfreiheitsportal [What Do They Know]( https://www.whatdotheyknow.com/).
