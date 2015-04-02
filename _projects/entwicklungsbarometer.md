@@ -1,6 +1,6 @@
 ---
 title: Entwicklungsbarometer
-img:
+img: projects/entwicklungsbarometer.jpg
 type: tool
 people:
   - name: Claudia Schwegmann
