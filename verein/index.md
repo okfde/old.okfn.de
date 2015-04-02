@@ -107,7 +107,7 @@ Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation un
 
 # Gesellschaftliche Verbundenheit
 
-Es existiert ein Memorandum of Understanding mit der OKFN aus Großbritannien.
+Es existiert ein [Memorandum of Understanding](../files/verein/okfde-mou.pdf) mit der OKFN aus Großbritannien.
 
 # Großspender
 
