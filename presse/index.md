@@ -16,4 +16,4 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 ## Logos und Material
 
-Die Logos der Open Knowledge Foundation Deutschland, stehen [hier als Paket](../files/logos/Logos_okfde.zip) zur Verfügung. Weiteres Bildmaterial zur Verwendung findest du [hier](https://www.flickr.com/photos/okfde/).
+Die Logos der Open Knowledge Foundation Deutschland, stehen [hier als Paket](../files/logos/Logos_okfde.zip) zur Verfügung. Weiteres Bildmaterial zur Verwendung findest du [hier](https://www.flickr.com/photos/okfde/sets/).
