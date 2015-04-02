@@ -1,19 +1,13 @@
 ---
-title: Apps for Business
-subtitle: Short project teaser
+title: Apps for Europe
 type: research
 img: projects/appsforeurope.jpg
-url: https://fragdenstaat.de
 roles:
-  - name: Arne Semsrott
-    role: Projektassistenz
-  - name: Stefan Wehrmeyer
+  - name: Daniel Dietrich
     role: Projektleiter
 contact:
-  - twitter: fragdenstaat
-  - github: https://github.com/okfde/fragdenstaat_de
-  - mailinglist: fragdenstaat@lists.okfn.org
-
+  website: http://www.appsforeurope.eu
+  twitter: apps4eu
 ---
 
-Your detailed description text here.
+Apps for Europe möchte der Welt nicht nur die Wirkungsmacht offener Daten zeigen, sondern auch das wirtschaftliche Potenzial herauskehren. Neelie Kroes, die Vizepräsidentin der Europäischen Kommission und eine starke Unterstützerin von Apps for Europe, beziffert den Wert offener Daten auf viele Milliarden Euro. Wir fördern gemeinsam die Möglichkeiten offener Daten, indem wir Ihnen dabei helfen, Ihre Idee in ein erfolgreiches Unternehmen umzuwandeln, das sich in ganz Europa etablieren könnte.
