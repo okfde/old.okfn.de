@@ -1,1 +1,13 @@
-Das Entwicklungsbarometer ist ein Index »entwicklungsfreundlicher" Politik«. Auf der Basis von 30 quantitativen Indikatoren aus den Politikbereichen Handel, Umwelt, Finanzen, Sicherheit, Migration, Technologie und Entwicklungshilfe bewertet der Index den Einfluss deutscher Politik auf globale Armutsbekämpfung und nachhaltige Entwicklung und stellt einen Vergleich mit 18 anderen EU Ländern an. Der Index basiert ursprünglich auf dem Commitment to Development Index http://www.cgdev.org/initiative/commitment-development-index/index und wird gegenwärtig in Zusammenarbeit mit zahlreichen deutschen und europäischen NGOs weiter entwickelt. Launch der Webseite: 1 September 2015.
+---
+title: Entwicklungsbarometer (in Arbeit)
+img:
+type: featured
+people:
+  - name: Claudia Schwegmann
+    role: Projektleiterin
+contact:
+  github: https://github.com/okfde/entwicklungsbarometer
+---
+Deutsche Politik hat auf vielfältige Weise Einfluss auf die Bekämpfung von globaler Armut und auf nachhaltige Entwicklung weltweit. Dieser Einfluss ist teils positiv, teils negativ. Das Entwicklungsbarometer zeigt die unterschiedlichen Einflussbereichen deutscher Politik übersichtlich und anhand konkreter Indikatoren in acht Politikfeldern auf. Zu jedem Politikfeld stellen wir Detailanalysen und Daten bereit. Der Index basiert ursprünglich auf dem [Commitment to Development Index](http://www.cgdev.org/initiative/commitment-development-index/index) und wird gegenwärtig in Zusammenarbeit mit zahlreichen deutschen und europäischen NGOs weiter entwickelt.
+
+Launch der Webseite: 1. September 2015.

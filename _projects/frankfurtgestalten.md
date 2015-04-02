@@ -5,7 +5,14 @@ img: projects/frankfurtgestalten.jpg
 contact: Christian Kreutz
 twitter: ffminfo
 type: archiv
-
+contact:
+  website: http://www.frankfurt-gestalten.de/
+  github: https://github.com/frankfurt-gestalten
+  twitter: ffminfo
+  facebook: https://www.facebook.com/frankfurtgestalten
+people:
+- name: Christian Kreutz
+  role: Projektleiter
 ---
 
-Frankfurt gestalten! Im Internet können sich auf lokaler Ebene Bürgerinnen und Bürger vernetzen, um ihre Stadt zu gestalten. Oftmals weiß man nicht, dass es noch andere Personen mit ähnlichen Ideen oder Sorgen gibt. Deshalb wollen wir mit dieser Seite über lokal-politische Diskussionen und Entscheidungen informieren und Möglichkeiten zum Austausch bieten.
+Frankfurt Gestalten ist eine Plattform von und für die Bürger der Stadt Frankfurt. Wir glauben, dass es viele großartige Ideen für eine bessere Stadt gibt und wollen dabei helfen, die Menschen hinter diesen Ideen zu vernetzen. Wir dokumentieren lokalpolitische Ereignisse in der Nachbarschaft und sind ein Radar der Stadtgestaltung. 

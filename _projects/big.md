@@ -4,11 +4,12 @@ subtitle: Big Data Public Private Forum
 type: research
 url: http://big-project.eu/
 img: projects/big.jpg
-roles:
+peoples:
   - name: Walter Palmetshofer
     role: Projektleiter
 contact:
-  - twitter: BigFP7
+  twitter: BigFP7
+  website: http://big-project.eu/
 
 ---
 
