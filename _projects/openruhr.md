@@ -1,13 +1,13 @@
 ---
 title: OpenRuhr
 url: http://openruhr.de/
-img:
+img: projects/openruhr.jpg
 type: tool
 people:
 - name: Ernesto Ruge
   role: Projektleitung
 contact:
-  website: http://openruhr.de/
+  website: http://openruhr.de
   twitter: openruhr
   facebook: https://www.facebook.com/OpenRuhr
   github: https://github.com/OpenRuhr

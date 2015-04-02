@@ -2,14 +2,13 @@
 title: "Offenes Parlament"
 url: http://offenesparlament.de
 img: projects/offenesparlament.jpg
-mailingliste: offenes-parlament@lists.okfn.org
 type: tool
 people:  
   - name: Friedrich Lindenberg
     role: Projektleitung
 contact:
   website: http://offenesparlament.de
-  mailinglist: offenes-parlament@lists.okfn.org
+  mailinglist: https://lists.okfn.org/mailman/listinfo/offenes-parlament
 
 ---
 

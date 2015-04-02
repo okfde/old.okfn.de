@@ -1,5 +1,5 @@
 ---
-title: Entwicklungsbarometer (in Arbeit)
+title: Entwicklungsbarometer
 img:
 type: tool
 people:
