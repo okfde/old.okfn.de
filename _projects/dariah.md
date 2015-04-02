@@ -4,13 +4,14 @@ subtitle: "Unterstützung der digitalen Geisteswissenschaften"
 type: research
 img: projects/dariah.jpg
 url: https://de.dariah.eu
-roles:
+people:
   - name: Dr. Markus Neuschäfer
     role: Projektleiter
   - name: Christian Heise
     role: Projektadvisor
 contact:
-  - twitter: dariahde
+  twitter: dariahde
+  website: http://de.dariah.eu
 
 ---
 
