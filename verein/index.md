@@ -6,9 +6,9 @@ background: backgrounds/services.jpg
 
 ---
 
-Der Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit der Gründung 2011 für die Verbreitung von freiem und offen zugänglichem Wissen in der Gesellschaft einsetzt. Was mit offenem Wissen gemeint ist, findest Du hier.
+Der Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit der Gründung 2011 für die Verbreitung von freiem und offen zugänglichem Wissen in der Gesellschaft einsetzt.
 
-Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Auf der Projektseite bekommst Du Einblick in alle Projekte. Unser Wiki, die Knowledge Base, enthält eine umfassende Zusammenstellung von Informationen über unsere Arbeit und unsere Positionen.
+Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Auf der [Projektseite](../projekte/) bekommst Du Einblick in alle Projekte.
 
 Der Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open Knowledge Foundation, eines aktiven [weltweiten Netzwerks](https://okfn.org/network/) von unterschiedlichen Menschen, die sich an den Aktivitäten und der Weiterentwicklung des Vereins beteiligen. Nur gemeinsam mit unseren Freunden und Förderern können wir unsere Ziele erreichen.
 
@@ -22,15 +22,15 @@ Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil de
 
 Freies Wissen hilft Bürgerinnen und Bürgern, sich zu informieren und führt zu einer aufgeklärten Meinungsbildung. Es schafft gesellschaftlichen und ökonomischen Mehrwert und ist, aus unserer Sicht, in einem demokratischen Staat unerlässlich. Wir streben nach einer Welt, in der offenes Wissen sowohl online als auch offline im Alltag verankert ist. Offenes Wissen liefert weitreichenden gesellschaftlichen Nutzen. Unter anderem ermöglicht es:
 
-**Besseres Regieren**: Offenheit verbessert das Regieren durch erhöhte Transparenz, Effizienz und Beteiligung. Wir unterstützen u.a. internationale Bemühungen wie die [Open Government Partnership](http://www.opengovpartnership.org/).
+**Besseres Regieren**: Offenheit verbessert das Regieren durch erhöhte Transparenz, Effizienz und Beteiligung. Wir unterstützen diesbezüglich u.a. internationale Bemühungen wie die [Open Government Partnership](http://www.opengovpartnership.org/).
 
-**Besseren Zugang zu Kultur**: Offenheit bedeutet – in Bezug auf kulturelles Material und Aktivitäten – besseren Zugang zum Material, die Möglichkeit, das Material zu nutzen und sich aktiv einzubringen.
+**Besseren Zugang zu Kultur**: Offenheit bedeutet – in Bezug auf kulturelles Material und Aktivitäten – besseren Zugang zum Material, die Möglichkeit, das Material zu nutzen und sich aktiv einzubringen. Wir unterstützen hier u.a. internationale Bemühungen wie die [Open Glam Initiative](http://openglam.org/).
 
-**Bessere Forschung**: Damit Forschung effektiver funktioniert und der Gesellschaft der gesamte Nutzen einer Forschungsaktivität zugute kommt, müssen Forschungsergebnisse offen sein und auch Forschungsprozesse zunehmend geöffnet werden.
+**Bessere Forschung**: Damit Forschung effektiver funktioniert und der Gesellschaft der gesamte Nutzen einer Forschungsaktivität zugute kommt, müssen Forschungsergebnisse offen sein und auch Forschungsprozesse zunehmend geöffnet werden. Die OKF DE erkennt die [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org) und die [Berliner Erklärung](http://openaccess.mpg.de/Berliner-Erklaerung) an und strebt an, das Internet als Instrument für eine weltweite Basis wissenschaftlicher Kenntnisse zu fördern.
 
 **Bessere Wirtschaft**: Offenheit erlaubt eine einfache und schnellere Wiederverwendung von offenem Material, Daten und Inhalten, sodass dieses Material eine Voraussetzung für die Entwicklung von neuen innovativen Werkzeugen und Dienstleistungen darstellt.
 
-[Hier](../themen/) erklären wir, was wir unter offene Daten und offenes Wissen verstehen.
+[Hier erklären wir](../themen/), was wir noch alles unter offene Daten und offenes Wissen verstehen.
 
 **Aus unserer Überzeugung heraus, verfolgen wir diese Ziele**:
 
