@@ -2,7 +2,7 @@
 layout: page
 title: Mission
 menu_services: no
-background: backgrounds/services.jpg
+background: backgrounds/themen.jpg
 
 ---
 
