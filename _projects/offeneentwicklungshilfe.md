@@ -4,6 +4,11 @@ url: http://offene-entwicklungshilfe.de
 img: projects/offeneentwicklungshilfe.jpg
 contact: Claudia Schwegmann, Christian Kreutz
 type: tool
+people:
+ -name: Claudia Schwegmann
+ role: Projektleitung
+ -name: Christian Kreutz 
+ role: Projektleitung
 contact:
   website: http://offene-entwicklungshilfe.de
   mailinglist: https://lists.okfn.org/mailman/listinfo/open-aid-de

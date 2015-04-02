@@ -8,7 +8,7 @@ people:
 - name: Friedrich Lindenberg
   role: Projektleitung
 contact:
-  website: http://offenerhaushalt.de/
+  website: http://offenerhaushalt.de
   twitter: offenerhaushalt
   mailingliste: https://lists.okfn.org/mailman/listinfo/offener-haushalt
 

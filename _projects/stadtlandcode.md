@@ -12,7 +12,7 @@ people:
     role: Projektleitung
 contact:
    twitter: stadtlandcode
-   website: http://stadtlandcode.de/
+   website: http://stadtlandcode.de
 
 ---
 
