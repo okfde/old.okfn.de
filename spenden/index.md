@@ -11,10 +11,11 @@ Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-komm
 
 Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
 
-Kontonummer: 3009670
-BLZ: 830 944 95 (Ethikbank)
-IBAN: DE89830944950003009670
-BIC: GENODEF1ETK
+- Kontoinhaber: Open Knowledge Foundation Deutschland e.V.
+- Kontonummer: 3009670
+- BLZ: 830 944 95 (Ethikbank)
+- IBAN: DE89830944950003009670
+- BIC: GENODEF1ETK
 
 ## Spenden über Betterplace
 
