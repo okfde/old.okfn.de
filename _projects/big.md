@@ -8,8 +8,8 @@ people:
   - name: Walter Palmetshofer
     role: Projektleiter
 contact:
-  twitter: BigFP7
   website: http://big-project.eu
+  twitter: BigFP7
 
 ---
 
