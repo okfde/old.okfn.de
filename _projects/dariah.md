@@ -8,7 +8,7 @@ roles:
   - name: Dr. Markus Neuschäfer
     role: Projektleiter
   - name: Christian Heise
-    role: Projektunterstützung
+    role: Projektadvisor
 contact:
   - twitter: dariahde
 
