@@ -14,11 +14,13 @@ menu_projekte: yes
       {% assign person = site.data.team | where:"name",teammember.name | first %}
       <div class="col-md-6">
         <div class="row">
+          {% if person %}
           <div class="col-xs-3">
             <img src="{{ site.baseurl }}static/images/team/{{ person.img }}_square.jpg" alt="{{ person.name }}" class="img-circle" style="float:left;width: 64px;height:64px">
           </div>
+          {% endif %}
           <div class="col-xs-9">
-            {{ person.name }}
+            {{ teammember.name }}
             {% if teammember.role %}
               <br/><small>{{ teammember.role }}</small>
             {% endif %}

@@ -4,8 +4,8 @@ url: http://foerderreport.kfw.de
 img:
 type: archive
 people:
-- name: Christian Kreutz
-  role: Projektleiter
+  - name: Christian Kreutz
+    role: Projektleiter
 contact:
   website: http://foerderreport.kfw.de
 ---

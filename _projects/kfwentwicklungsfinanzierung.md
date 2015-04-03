@@ -3,8 +3,8 @@ title: "KFW-Entwicklungs&shy;finanzierung"
 img:
 type: archive
 people:
-- name: Christian Kreutz
-  role: Projektleiter
+  - name: Christian Kreutz
+    role: Projektleiter
 contact:
   website: http://transparenz.kfw-entwicklungsbank.de
 ---
