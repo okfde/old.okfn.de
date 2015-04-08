@@ -7,14 +7,18 @@ menu_community: yes
 
 ---
 
+{% assign staff = site.data.team | where:"staff",1 | sort: "name" %}
+
 <div class="lurking-header">
   <h1>Team</h1>
-<!--   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, id provident omnis laudantium delectus excepturi quae eum ad? A fuga in dolores facilis nobis vitae incidunt. Ipsa delectus maxime magni!</p>
- --></div>
+  <p>
+    Das Team der Open Knowledge Foundation besteht momentan aus {{ staff|size }} Personen. Sie arbeiten in verschiedenen Projekten an den Themen des Vereins.
+  </p>
+</div>
 
 <div class="container">
 
-{% assign staff = site.data.team | where:"staff",1 | sort: "name" %}
+
 {% for person in staff %}
   {% assign order=forloop.index0|modulo:2 %}
   {% include person.html person=person order=order %}
