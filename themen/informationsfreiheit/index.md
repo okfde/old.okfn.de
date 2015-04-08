@@ -12,6 +12,8 @@ Informationsfreiheit ist ein Bürgerrecht auf freien Zugang zu Informationen und
 
 In Deutschland ist es nach dem Informationsfreiheitsgesetz (IFG) geregelt. Dabei muss bei einer Anfrage nach dem IFG kein Grund angegeben werden, Behörden müssen in der Regel innerhalb einer Frist von einem Monat antworten.
 
+> Crypto ist Abwehr, IFG ist Angriff!
+
 Trotzdem gilt vielerorts noch die alte Amtsverschwiegenheit. In manchen Bundesländern existiert noch kein IFG, in anderen antworten Behörden nur zögerlich. Wir setzen uns dafür ein, dass staatliche Stellen in Deutschland eine aktive Informationspolitik pflegen. Sie sollen transparent arbeiten und für einen freien Informationsfluss zur Bevölkerung sorgen. Bürgerinnen und Bürger können dadurch die Verwaltung kontrollieren.
 
 ## Mehr erfahren oder gleich für Informationsfreiheit einsetzen?
