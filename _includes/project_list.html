@@ -1,7 +1,7 @@
 {% assign project = include.project %}
 {% assign style = include.style %}
 
-<a class="{% if project.wideimage %}col-md-8{% else %}col-md-4{% endif %} col-sm-6 col-xs-12 {{ style }}" href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
+<a class="project-item {% if project.wideimage %}col-md-8{% else %}col-md-4{% endif %} col-sm-6 col-xs-12 {{ style }}" href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
   <div class="box box-image box-{{ project.type }}">
     <div class="box-image-inner{% unless project.img.size > 0 %} box-color{% endunless %}" {% if project.img.size > 0 %}style="background-image: url('{{ site.staticurl }}images/{{ project.img }}');'"{% endif %}>
     </div>
