@@ -37,8 +37,8 @@
       {% endif %}
       </dl>
       {% assign has_projects = 0 %}
-        {% for project in site.projects | sort:"featured","last" %}
-          {% if project.type != "active" %}
+        {% for project in site.projects %}
+          {% if project.type != "archive" %}
             {% for p in project.people %}
               {% if p.name == person.name %}
                 {% if has_projects == 0 %}
