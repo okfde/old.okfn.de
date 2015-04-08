@@ -9,10 +9,10 @@ blacklogo: yes
 blacknav: yes
 url: https://fragdenstaat.de
 people:
-  - name: Stefan Wehrmeyer
-    role: Projektleiter
   - name: Arne Semsrott
-    role: Projektassistenz
+    role: Projektleiter
+  - name: Stefan Wehrmeyer
+    role: Projekt-BDFL
 contact:
   website: https://fragdenstaat.de
   twitter: fragdenstaat

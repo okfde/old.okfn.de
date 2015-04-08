@@ -4,9 +4,9 @@ subtitle: Software-Lösungen für das bearbeiten von Metadaten
 type: research
 img: projects/europeana.jpg
 url: http://pro.europeana.eu/web/europeana-ecloud
-peoples:
+people:
   - name: Anja Jentzsch
-  - role: Projektleiterin
+    role: Projektleiterin
 contact:
    website: http://pro.europeana.eu/web/europeana-ecloud
    twitter: europeanaeu
