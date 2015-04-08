@@ -1,6 +1,6 @@
 ---
 title: Offene Kulturgüter
-layout: thema
+layout: page
 image:
 
 ---
