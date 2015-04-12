@@ -40,7 +40,8 @@
   bio: "Julia arbeitet seit 2012 als Projektleiterin bei der Open Knowledge Foundation. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe an Community-Projekten umgesetzt, darunter „Stadt Land Code“ Deutschlands ersten Inkubator für Civc Tech und eine Reihe von Open Data Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
   mail: julia.kloiber@okfn.de
   twitter: j_kloiber
-  website:
+  website: http://juliakloiber.com/
+  github: juliakloiber
 
 - name: Maria Reimer
   img: mariareimer
@@ -81,7 +82,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Bela hält einen Master in „European Studies on Society, Science & Technology“ und startete im November 2014 als Praktikant bei der OKF DE. Seit Januar 2015 ist er fest angestellt. Er unterstützt Helene Hahn's Projekt „Coding da Vinci“ als Projektassistent, leitet eigene Projekte und übernimmt Aufgaben der Öffentlichkeitsarbeit für die Organisation."
+  bio: "Bela hat einen Master in „European Studies on Society, Science & Technology“ und startete im November 2014 als Praktikant bei der OKF DE. Seit Januar 2015 ist er fest angestellt. Er unterstützt Helene Hahn's Projekt „Coding da Vinci“ als Projektassistent, leitet eigene Projekte und übernimmt Aufgaben der Öffentlichkeitsarbeit für die Organisation."
   mail: bela.seeger@okfn.de
   twitter: belaseeger
   website:
@@ -103,7 +104,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er am BIG, Big Data Public Private Forum, am Digitalen Offenheitsindex [do:index] und macht beim Open Data Census mit. Nach Berlin kam er 2012 als Co-Founder eines Startups, zuvor arbeitete er 5 Jahre als Sysadmin in NYC."
+  bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er an den Projekten BIG - Big Data Public Private Forum - und am Digitalen Offenheitsindex [do:index] und betreut den Open Data Census. Nach Berlin kam er 2012 als Co-Founder eines Startups, zuvor arbeitete er 5 Jahre als Sysadmin in NYC."
   mail: walter.palmetshofer@okfn.de
   twitter: vavoida
   website:
