@@ -18,11 +18,11 @@ Aktuell unterstützen wir Sie mit drei Kursen:
 
 * Kompakte Einführung ins Thema (1/2 Tag)
 * Kurs für Führungskräfte, Entscheidungsträger (1 Tag)
-* Offene Daten für Journalisten (2-3 Tage)
+* Offene Daten für Verwaltungen (2 Tage)
 
 Diese Angebote werden ständig mit mehreren Partnern (u.a. für öffentliche Verwaltungen) weiterentwickelt. Wir leisten damit einen direkten Beitrag zur Digitalen Agenda und dem deutschen Aktionsplans für die Open-Data-Charta.
 
-Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Fragen zu diesen Kursen haben oder mit uns über ein speziell für Sie entwickeltes Weiterbildungsprogramm sprechen möchten – etwa wenn wir Sie bei einem redaktionellen Projekt begleiten sollen oder Sie als Kommune oder Unternehmen strategische oder konkrete technische Unterstützung benötigen.
+Bitte setzen Sie sich mit uns in Verbindung, wenn Sie Fragen zu diesen Kursen haben oder mit uns über ein speziell für Sie entwickeltes Weiterbildungsprogramm sprechen möchten. Ebenso können wir Sie als Kommune oder Unternehmen bei Ihrer Strategie beraten oder Sie konkret in technischen Fragen unterstützen.
 
 Projektleiter: [Michael Hörz](mailto:training@okfn.de)
 
@@ -48,12 +48,12 @@ In allen Bereichen werden mehr Daten zur Verfügung stehen und genutzt werden. D
 
 Sie erfahren, wie hoch die Kosten und daraus entstehender Nutzen sind, lernen Ihren künftigen Bedarf an Arbeitskräften einzuschätzen, wie hoch der Aufwand für welche Datenmengen ist, welche Infrastruktur Sie benötigen, wie sie strategisch beim veröffentlichen der Daten vorgehen sollten, mit wem Kooperationen sinnvoll sein können und wie sich offene Daten auf den internen und externen Informationsfluss auswirken.
 
-## Offene Daten für Journalisten (2-3 Tage)
+## Offene Daten für Verwaltungen (2 Tage)
 
 ### Für wen?
 
-Dieser Kurs richtet sich an feste und freie Journalisten sowie journalistische Weiterbildungseinrichtungen [2]. Lernen Sie, in Daten Geschichten zu entdecken und diese ansprechend zu erzählen. Mit Datensätzen können Sie Geschichten immer wieder neu aufrollen und auf verschieden Orte herunterbrechen. Am Anfang genügt es, wenn wenige Mitarbeiter eines Hauses in Datenjournalismus geschult sind – mit der Zeit wird das Team ganz natürlich wachsen.
+Dieser Kurs richtet sich an nicht-technische Mitarbeiter, die in der künftigen Praxis mit offenen Daten arbeiten sollen. Solche Aktivitäten umfassen in der Regel das Erarbeiten und Umsetzen einer Open-Data-Strategie, die Konzeption und das Starten eines Open-Data-Portals, die Koordination von Veröffentlichungsprozessen, das Vorbereiten von Daten zur Veröffentlichung und das Fördern der Daten-Weiterverwendung.
 
 ### Inhalte
 
-Sie lernen in einer kompakten Einführung, wie die Branche Daten bereits erfolgreich einsetzt. Sie erfahren, wo Sie Daten finden, wie sich diese auswerten lassen, auf welche Weise eine Geschichte am besten visuell aufbereitet wird und setzen im praktischen Teil eigene Ideen um. Sie lernen Daten zu beherrschen, und können das Erfolgserlebnis genießen, aus einem Zahlenwust etwa Ihre erste interaktive Karte erstellt zu haben.
+Sie erfahren anhand erfolgreicher Praxisbeispiele, was offene Daten sind und wer von diesen Daten profitiert. Wir zeigen Ihnen, wie sie den Daten-Bedarf innerhalb und außerhalb Ihrer ermitteln. Daraus bekommen Sie Empfehlungen, welche Daten wesentlich sind und wie sie diese veröffentlichen. Der zweite Tag ist vor allem auf eine praktische Vertiefung ausgerichtet.
