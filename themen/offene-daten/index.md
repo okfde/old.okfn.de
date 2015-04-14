@@ -5,7 +5,7 @@ background: backgrounds/opendata.jpg
 teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten müssen von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Davon ausgenommen sind personenbezogene Daten.
 ---
 # Offene Daten
-> Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und »sharealike». Davon ausgenommen sind personenbezogene Daten.
+> Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und "share-alike". Davon ausgenommen sind personenbezogene Daten.
 
 Die wichtigsten Eigenschaften offener Daten sind:
 
@@ -13,7 +13,7 @@ Die wichtigsten Eigenschaften offener Daten sind:
 * Wiederverwendung und Nachnutzung: Die Daten müssen unter denjenigen Bedingungen bereitgestellt werden, die die Wiederverwendung, Nachnutzung und Verbindung mit anderen Datensätzen erlauben. Die Daten müssen maschinenlesbar sein.
 * Universelle Beteiligung: Jede Person muss in der Lage sein, die Daten zu nutzen, wiederzuverwenden und nachzunutzen. Es darf keine Diskriminierung gegen Handlungsfelder, Personen oder Gruppen vorliegen. Die Nachnutzung darf also nicht auf einzelne Bereiche begrenzt werden (z.B. nur in der Bildung), noch dürfen bestimmte Nutzungsarten (z.B. für kommerzielle Zwecke) ausgeschlossen sein.
 
-[Hier geht es zur ausführlichen Definition von offenem Wissen](http://opendefinition.org/okd/deutsch/).
+[Hier geht es zur ausführlichen Definition von offenem Wissen ("Open Definition")](http://opendefinition.org/okd/deutsch/).
 
 ## Welche Arten von offenen Daten gibt es?
 
