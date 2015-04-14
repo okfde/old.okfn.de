@@ -16,4 +16,4 @@ contact:
 
 ---
 
-Dieses Git Repository enthält alle Deutschen Bundesgesetze und -verordnungen im Markdown-Format. Als Quelle dienen die XML-Versionen der Gesetze von [gesetze-im-internet.de](http://www.gesetze-im-internet.de) . Mit BundesGit wird die jeweils aktuellste Version eines Gesetzes versioniert gespeichert - so wird die Entstehung, historische Entwicklung und die Aktualisierung von Gesetzen einfach und frei nachvollziehbar.
+Dieses Git-Repository enthält alle deutschen Bundesgesetze und -verordnungen im Markdown-Format. Als Quelle dienen die XML-Versionen der Gesetze von [gesetze-im-internet.de](http://www.gesetze-im-internet.de) . Mit BundesGit wird die jeweils aktuellste Version eines Gesetzes versioniert gespeichert - so wird die Entstehung, historische Entwicklung und die Aktualisierung von Gesetzen einfach und frei nachvollziehbar.
