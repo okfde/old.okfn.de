@@ -37,7 +37,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Julia arbeitet seit 2012 als Projektleiterin bei der Open Knowledge Foundation. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter "Stadt Land Code", Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
+  bio: "Julia arbeitet seit 2012 als Projektleiterin bei der Open Knowledge Foundation. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter „Stadt Land Code“, Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
   mail: julia.kloiber@okfn.de
   twitter: j_kloiber
   website: http://juliakloiber.com/
@@ -52,17 +52,6 @@
   bio: "Maria Reimer ist Projektleiterin von Jugend hackt. Sie hat Public Administration und Public Policy in Münster, Enschede (Niederlande) und Erfurt studiert. Neben der Open Knowledge Foundation Deutschland arbeitet sie halbtags für eine Bundestagsabgeordnete. Ehrenamtlich setzt Maria sich im Führungskreis von Transparency International Deutschland für Informationsfreiheit ein."
   mail: maria.reimer@okfn.de
   twitter: malienamadrina
-  website:
-
-- name: Katharina Meyer
-  img: katharinameyer
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "Katharina betreut für die OKF DE das Forschungsprojekt "DARIAH" und ist bevorzugt Technik- und Kulturhistorikerin, subtil Kultur- und Medienmanagerin, von Zeit zu Zeit Kuratorin (z.B. bei der re:publica) und in Teilzeit Research Associate am Hybrid Publishing Lab an der Leuphana Lüneburg. Sie mäandert an den Schnittstellen von Schönen Künsten und Technik und publiziert zu Netz- und Medienkunst sowie Digitaler Kultur. Besonders interessiert sie sich für kollaboratives Arbeiten und dafür was entsteht, wenn man Ressourcen offen zur Verfügung stellt, ohne Scheuklappen aus Handlungsanweisungen."
-  mail: katharina.meyer@okfn.de
-  twitter:
   website:
 
 - name: Paula Glaser
@@ -82,7 +71,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Bela hat einen Master in "European Studies on Society, Science & Technology" und startete im November 2014 als Praktikant bei der OKF DE. Seit Januar 2015 ist er fest angestellt. Er unterstützt das Projekt "Coding da Vinci" als Projektassistent, leitet eigene Projekte und übernimmt Aufgaben der Öffentlichkeitsarbeit für die Organisation."
+  bio: "Bela hat einen Master in „European Studies on Society, Science & Technology“ und startete im November 2014 als Praktikant bei der OKF DE. Seit Januar 2015 ist er fest angestellt. Er unterstützt das Projekt „Coding da Vinci“ als Projektassistent, leitet eigene Projekte und übernimmt Aufgaben der Öffentlichkeitsarbeit für die Organisation."
   mail: bela.seeger@okfn.de
   twitter: belaseeger
   website:
@@ -93,7 +82,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Fiona begann im März 2014 als Praktikantin bei der Open Knowledge Foundation und unterstützt das Projekt "Code for Germany". Seit August ist sie Projektassistentin und betreut die Community der Labs in Deutschland. Nebenbei studiert sie Europäische Ethnologie an der Humboldt-Universität zu Berlin und engagiert sich im Bereich der digitalen Alphabetisierung."
+  bio: "Fiona begann im März 2014 als Praktikantin bei der Open Knowledge Foundation und unterstützt das Projekt „Code for Germany“. Seit August ist sie Projektassistentin und betreut die Community der Labs in Deutschland. Nebenbei studiert sie Europäische Ethnologie an der Humboldt-Universität zu Berlin und engagiert sich im Bereich der digitalen Alphabetisierung."
   mail: fiona.krakenbuerger@okfn.de
   twitter: Fotografiona
   website:
@@ -221,7 +210,7 @@
   board: 1
   advisory: 0
   position: Beisitzer
-  bio: "Dr. Marcus Dapp berät als Principal Consultant der OKF Central (UK) Institutionen und Verwaltungen zum Einsatz von Open Data. Davor initiierte er als IT-Stratege der Landeshauptstadt München das ePartizipationsprojekt "MOGDy (Munich Open Government Day)", welches damals als Pionierprojekt der Verwaltung galt und in Deutschland und auf EU-Ebene ausgezeichnet wurde. In dieser Zeit half er auch mit, den Verein OKF Deutschland zu gründen. Seit zehn Jahren beschäftigt sich Dr. Dapp mit der Gestaltung offener digitaler Wertschöpfungsprozesse in unterschiedlichsten Bereichen und Sektoren: von Open Source bis Open Innovation, von Open Data bis Open Government, von Open Access bis Free Culture. Herausgefordert und weiterentwickelt wird sein eigenes Verständnis durch die regelmässige Interaktion mit Studierenden seiner Vorlesung "Digitale Nachhaltigkeit" an der ETH Zürich, wo er zu den Auswirkungen von Softwarepatentierung auf Open Source Innovation promovierte. Dr. Dapp wird von Organisationen aus Wirtschaft und Politik als unabhängiger Berater beigezogen und spricht regelmässig auf nationalen und internationalen Veranstaltungen."
+  bio: "Dr. Marcus Dapp berät als Principal Consultant der OKF Central (UK) Institutionen und Verwaltungen zum Einsatz von Open Data. Davor initiierte er als IT-Stratege der Landeshauptstadt München das ePartizipationsprojekt „MOGDy (Munich Open Government Day)“, welches damals als Pionierprojekt der Verwaltung galt und in Deutschland und auf EU-Ebene ausgezeichnet wurde. In dieser Zeit half er auch mit, den Verein OKF Deutschland zu gründen. Seit zehn Jahren beschäftigt sich Dr. Dapp mit der Gestaltung offener digitaler Wertschöpfungsprozesse in unterschiedlichsten Bereichen und Sektoren: von Open Source bis Open Innovation, von Open Data bis Open Government, von Open Access bis Free Culture. Herausgefordert und weiterentwickelt wird sein eigenes Verständnis durch die regelmässige Interaktion mit Studierenden seiner Vorlesung „Digitale Nachhaltigkeit“ an der ETH Zürich, wo er zu den Auswirkungen von Softwarepatentierung auf Open Source Innovation promovierte. Dr. Dapp wird von Organisationen aus Wirtschaft und Politik als unabhängiger Berater beigezogen und spricht regelmässig auf nationalen und internationalen Veranstaltungen."
   mail:
   twitter:
   website:
@@ -244,7 +233,7 @@
   board: 1
   advisory: 0
   position: Beisitzer
-  bio: "Prof. Dr. Sören Auer leitet den Lehrstuhl Enterprise Information Systems an der Universität Bonn und eine Arbeitsgruppe am Fraunhofer Institut für Analysis und Informationssysteme (IAIS). Er ist Begründer mehrerer international beachteter Forschungs- und Entwicklungsvorhaben wie z.B. des Wikipedia-Semantifizierungs-Projektes DBpedia, der OpenCourseWare-Plattform SlideWiki.org oder des Social Semantic Web Toolkits OntoWiki. Dr. Auer ist Autor von über 100 referierten wissenschaftlichen Publikationen und Organisator vieler wissenschaftlicher Veranstaltungen. Seit 2010 leitet er das im EU RP7 geförderte Forschungsprojekt "LOD2 – Creating Knowledge out of Interlinked Data". Er arbeitet als Experte für Unternehmen, die Europäische Kommission, das W3C und ist Mitglied des Advisory-Boards der Open Knowledge Foundation."
+  bio: "Prof. Dr. Sören Auer leitet den Lehrstuhl Enterprise Information Systems an der Universität Bonn und eine Arbeitsgruppe am Fraunhofer Institut für Analysis und Informationssysteme (IAIS). Er ist Begründer mehrerer international beachteter Forschungs- und Entwicklungsvorhaben wie z.B. des Wikipedia-Semantifizierungs-Projektes DBpedia, der OpenCourseWare-Plattform SlideWiki.org oder des Social Semantic Web Toolkits OntoWiki. Dr. Auer ist Autor von über 100 referierten wissenschaftlichen Publikationen und Organisator vieler wissenschaftlicher Veranstaltungen. Seit 2010 leitet er das im EU RP7 geförderte Forschungsprojekt LOD2 – „Creating Knowledge out of Interlinked Data“. Er arbeitet als Experte für Unternehmen, die Europäische Kommission, das W3C und ist Mitglied des Advisory-Boards der Open Knowledge Foundation."
   mail:
   twitter:
   website:
