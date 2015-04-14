@@ -6,11 +6,11 @@ background: backgrounds/services.jpg
 
 ---
 
-Der Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit der Gründung 2011 für die Verbreitung von freiem und offen zugänglichem Wissen in der Gesellschaft einsetzt.
+Die Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit der Gründung 2011 für die Verbreitung von freiem und offen zugänglichem Wissen in der Gesellschaft einsetzt.
 
 Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Auf der [Projektseite](../projekte/) bekommst Du Einblick in alle Projekte.
 
-Der Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open Knowledge Foundation, eines aktiven [weltweiten Netzwerks](https://okfn.org/network/) von unterschiedlichen Menschen, die sich an den Aktivitäten und der Weiterentwicklung des Vereins beteiligen. Nur gemeinsam mit unseren Freunden und Förderern können wir unsere Ziele erreichen.
+Die Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open Knowledge Foundation, eines  [weltweit aktiven Netzwerks](https://okfn.org/network/) von Aktivisten, Entwicklern, Policy-Spezialisten und Wissenschaftlern, die sich für die Förderung offenen Wissens und offener Daten einsetzen. Nur gemeinsam mit unseren Freunden und Förderern können wir unsere Ziele erreichen.
 
 Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, sind wir Unterzeichner der [Initiative Transparente Zivilgesellschaft (ITZ)](http://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html) von Transparency International Deutschland e.V..
 
@@ -18,7 +18,7 @@ Im Folgenden findest Du alle Informationen über den Open Knowledge Foundation D
 
 ## Ziele
 
-Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind. Besonders setzen wir uns dafür ein, dass Bürgerinnen und Bürger ihre Rechte auch online wahrnehmen können.
+Die Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind. Besonders setzen wir uns dafür ein, dass Bürgerinnen und Bürger ihre Rechte auch online wahrnehmen können.
 
 Freies Wissen hilft Bürgerinnen und Bürgern, sich zu informieren und führt zu einer aufgeklärten Meinungsbildung. Es schafft gesellschaftlichen und ökonomischen Mehrwert und ist, aus unserer Sicht, in einem demokratischen Staat unerlässlich. Wir streben nach einer Welt, in der offenes Wissen sowohl online als auch offline im Alltag verankert ist. Offenes Wissen liefert weitreichenden gesellschaftlichen Nutzen. Unter anderem ermöglicht es:
 
@@ -58,18 +58,18 @@ Vereinsregister Nr: VR 30468 B
 Steuernummer: 27/674/52428
 VAT: DE278022128
 
-Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
+Gründungsjahr der Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ## Wichtige Dokumente
 
 * Satzung: [hier](../verein/satzung)
 * Memorandum of Understanding mit der OKFN aus Großbritannien: [hier](../files/verein/okfde-mou.pdf)
-* Mission Statement: hier
+* Mission Statement: [hier](../mission)
 * Protokoll der Gründungsversammlung: [hier](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
 
 ## Anerkennung als gemeinnütziger Verein
 
-Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012](../files/verein/Freistellungsbescheid-27-Dez-12.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012](../files/verein/Freistellungsbescheid-27-Dez-12.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit (gültig für fünf Jahre).
 
 Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar.
 
@@ -93,7 +93,8 @@ In 2011 hat die OKF DE 50.155 € aus Mitgliedsbeiträgen und Zuwendungen (Ideel
 
 ## Ausgaben
 
-Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ gering zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
+Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ niedrig zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
+
 Mittelverwendung
 
 Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 6 Vollzeitäquivalenten.
