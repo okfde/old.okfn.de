@@ -2,7 +2,9 @@ markdown: rdiscount
 highlighter: pygments
 baseurl: /
 staticurl: /static/
-
+gems:
+  - jekyll-redirect-from
+  
 defaults:
   -
     scope:
