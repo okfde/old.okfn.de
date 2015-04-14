@@ -5,7 +5,9 @@ background: backgrounds/science.jpg
 blacknav: yes
 teaser: Offene Wissenschaft bündelt Strategien und Verfahren, die allesamt darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen und für die Gesamtgesellschaft zugänglich und nachnutzbar zu machen.
 redirect_from: "/open-science/"
+
 ---
+
 # Open Science
 
 >Der Begriff Open Science (Offene Wissenschaft) bündelt Strategien und Verfahren, die allesamt darauf abzielen, die Chancen der Digitalisierung konsequent zu nutzen, um alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich und nachnutzbar zu machen. Damit sollen Wissenschaft, Gesellschaft und Wirtschaft neue Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen eröffnet werden.

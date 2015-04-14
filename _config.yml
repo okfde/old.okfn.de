@@ -4,7 +4,7 @@ baseurl: /
 staticurl: /static/
 gems:
   - jekyll-redirect-from
-  
+
 defaults:
   -
     scope:
