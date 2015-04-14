@@ -85,7 +85,8 @@
   bio: "Fiona ist Community Organizerin für Code for Germany. Sie betreut 20 Open Knowledge Labs in Deutschland und arbeitet gemeinsam mit Julia Kloiber am Projekt. Nebenbei studiert sie Europäische Ethnologie an der Humboldt-Universität zu Berlin und engagiert sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung."
   mail: fiona.krakenbuerger@okfn.de
   twitter: Fotografiona
-  website:
+  website: http://arduina.github.io/arduina.net/
+  github: arduina
 
 - name: Walter Palmetshofer
   img: walterpalmetshofer
