@@ -12,4 +12,4 @@ people:
   role: Projektleiter
 ---
 
-Frankfurt Gestalten ist eine Plattform von und für die Bürger der Stadt Frankfurt. Wir glauben, dass es viele großartige Ideen für eine bessere Stadt gibt und wollen dabei helfen, die Menschen hinter diesen Ideen zu vernetzen. Wir dokumentieren lokalpolitische Ereignisse in der Nachbarschaft und sind ein Radar der Stadtgestaltung.
+"Frankfurt Gestalten" ist eine Plattform von und für die Bürger der Stadt Frankfurt. Wir glauben, dass es viele großartige Ideen für eine bessere Stadt gibt und wollen dabei helfen, die Menschen hinter diesen Ideen zu vernetzen. Wir dokumentieren lokalpolitische Ereignisse in der Nachbarschaft und sind ein Radar der Stadtgestaltung.
