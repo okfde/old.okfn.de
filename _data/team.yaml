@@ -163,7 +163,12 @@
   board: 1
   advisory: 0
   position: Stellvertreter
-  bio: "Friedrich Lindenberg ist Knight-Mozilla Fellow bei SPIEGEL ONLINE, wo er helfen will, neue Web-Technolgien für den Journalismus zu erschliessen. Zuvor war er bei der Open Knowledge Foundation in Projekten zu transparentem Regierungshandeln (Open Government Data) aktiv. Sein Schwerpunkt ist die Umsetzung von Angeboten zur Beteiligung und Information im Zusammenhang mit Haushaltsführung, Gesetzgebung und Lobbyismus, sowie die Zusammenarbeit mit NGOs und Journalisten, die in diesen Bereichen arbeiten. Zuvor entwickelte er Adhocracy, eine Liquid Democracy-Platform für die gemeinsame Entwicklung politischer Entwürfe, die von der Internet-Enquete des Bundestags und verschiedenen Parteien eingesetzt wird."
+  bio: >
+    Friedrich Lindenberg unterstützt Journalisten bei der Auswertung öffentlicher Informationen
+    und programmiert Software zur investigativen Datenanalyse. Als Stipendiat der
+    Knight-Stiftung arbeitete er zuletzt für ein Netzwerk von Investigativmedien im südlichen
+    Afrika, davor bei Spiegel Online. Zuvor unterstützte er als Entwickler bei der britischen
+    Open Knowledge Foundation den Aufbau des OpenSpending-Projektes.
   mail: friedrich.lindenberg@okfn.org
   twitter: pudo
   website: https://pudo.org
