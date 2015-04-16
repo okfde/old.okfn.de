@@ -11,8 +11,11 @@ Du kannst uns auf unterschiedlichen Wegen kontaktieren.
 ## Online:
 
 info [at] okfn.de   –   Allgemeiner Kontakt
+
 team [at] okfn.de   –   Team-Kontakt
+
 getinvolved [at] okfn.de   –   Mitmachen!
+
 presse [at] okfn.de   –   Presse-Kontakt
 
 Telefon: +49 30 577 036 66 2
