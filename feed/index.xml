@@ -5,8 +5,8 @@
     <channel>
         <title>Open Knowledge Foundation Deutschland</title>
         <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>      
-        <link>{{site.baseurl}}</link>
-        <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+        <link>{{site.fullurl}}</link>
+        <atom:link href="{{ site.fullurl }}/feed/" rel="self" type="application/rss+xml" />
         {% for post in site.posts limit:10 %}
             {% if post.unlisted != true %}
             <item>
@@ -20,8 +20,8 @@
                     <description>{{ post.content | xml_escape }}</description>
                 {% endif %}
                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-                <link>{{ site.baseurl }}{{ post.url }}</link>
-                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+                <link>{{ site.fullurl }}{{ post.url }}</link>
+                <guid isPermaLink="true">{{ site.fullurl }}{{ post.url }}</guid>
             </item>
             {% endif %}
         {% endfor %}
