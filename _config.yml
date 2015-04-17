@@ -1,7 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
 baseurl: /
-fullurl: 'http://okfn.de/'
+fullurl: 'http://okfn.de'
 staticurl: /static/
 gems:
   - jekyll-redirect-from
