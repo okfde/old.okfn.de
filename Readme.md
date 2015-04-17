@@ -1,4 +1,2 @@
-# new website for okfn deutschland
-now with more bootstrap
+# Website for the Open Knowledge Foundation Germany
 
-# testdeployed to: [LINK](https://okfde.github.io/okfn.de/)
