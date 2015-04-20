@@ -1,12 +1,13 @@
 ---
 author: christianheise
 categories:
+- Featured
 - DARIAH-DE
 - Open Science
 date: 2015-04-20 12:42:49
 image:
-  src:
-  title:
+  src: http://okfn.de/files/blog/2015-4/dhsummit-2015-Slide.png
+  title: DARIAH-DE
 layout: post
 published: true
 status: publish
