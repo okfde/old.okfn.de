@@ -1,5 +1,5 @@
 ---
-author: christianheise
+author: Christian Heise
 categories:
 - Featured
 - DARIAH-DE
