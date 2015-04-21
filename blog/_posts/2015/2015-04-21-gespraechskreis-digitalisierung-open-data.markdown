@@ -16,7 +16,7 @@ title: "Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30
 type: post
 ---
 
-### Digitale Geisteswissenschaften: Video zum DH Summit 2015
+### Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30.4.
 
 Wir möchten auf einen Gesprächstermin in der Reihe "Digitalisierung in Politik & Verwaltung" hinweisen. In lockerer Atmosphäre können sich Teilnehmer_Innen über Innovation und Digitalisierung im Bereich Politik und Verwaltung austauschen. Ziel ist es, Raum zur Sortierung und Koordination zu schaffen, vor Ort ins Gespräch zu kommen, und Kräfte zu bündeln.
 
