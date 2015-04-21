@@ -20,11 +20,11 @@ type: post
 
 Wir möchten auf einen Gesprächstermin in der Reihe "Digitalisierung in Politik & Verwaltung" hinweisen. In lockerer Atmosphäre können sich Teilnehmer_Innen über Innovation und Digitalisierung im Bereich Politik und Verwaltung austauschen. Ziel ist es, Raum zur Sortierung und Koordination zu schaffen, vor Ort ins Gespräch zu kommen, und Kräfte zu bündeln.
 
-Veranstaltungsort/-uhrzeit: Demos, Panoramastraße 1, 10178 Berlin Berlin | Datum: 30.4.2015 Uhrzeit: 19:00
-
 **Thema:** Open Data - Who cares?
 
 Open Data ist längst Realität. Aber wer braucht das eigentlich wirklich und wozu? Wie kann die Öffnung von Regierungs- und Verwaltungsdaten zu dem erhofften Mehrwert für die Gesellschaft führen?
+
+**Veranstaltungsort/-uhrzeit:** Demos, Panoramastraße 1, 10178 Berlin Berlin | Datum: 30.4.2015 Uhrzeit: 19:00
 
 **Agenda:** Impulsvortrag von Jan-Ole Beyer (BMI) und Christian Heise (OKF/Freifunk/OGP) anschl. Diskussion
 
