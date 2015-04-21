@@ -22,12 +22,12 @@ Wir möchten auf einen Gesprächstermin in der Reihe "Digitalisierung in Politik
 
 Veranstaltungsort/-uhrzeit: Demos, Panoramastraße 1, 10178 Berlin Berlin | Datum: 30.4.2015 Uhrzeit: 19:00
 
-Thema: Open Data - Who cares?
+**Thema:** Open Data - Who cares?
 
 Open Data ist längst Realität. Aber wer braucht das eigentlich wirklich und wozu? Wie kann die Öffnung von Regierungs- und Verwaltungsdaten zu dem erhofften Mehrwert für die Gesellschaft führen?
 
-Agenda: Impulsvortrag von Jan-Ole Beyer (BMI) und Christian Heise (OKF/Freifunk/OGP) anschl. Diskussion
+**Agenda:** Impulsvortrag von Jan-Ole Beyer (BMI) und Christian Heise (OKF/Freifunk/OGP) anschl. Diskussion
 
-Anmeldung: [Hier anmelden](http://goo.gl/forms/qyd9d2nd0F) (Achtung: GoogleForm) oder via Email an kontakt@collaboratory.de
+**Anmeldung:** [Hier anmelden](http://goo.gl/forms/qyd9d2nd0F) (Achtung: GoogleForm) oder via Email an kontakt@collaboratory.de
 
 _Es laden ein:_ Dirk R. Arendt (Ansprechpartner Politik & Verwaltung, Collaboratory e.V., Leitender Beauftragter Public Affairs & New Technologies, Check Point Software Technologies GmbH), Sebastian Haselbeck (Geschäftsführer, Collaboratory e.V.), Rolf Lührs (Geschäftsführer, DEMOS Gesellschaft für E-Partizipation) und Christian Heise (Vorstandsmitglied Open Knowledge Foundation DE e.V. und Förderverein freie Netzwerke e.V.)
