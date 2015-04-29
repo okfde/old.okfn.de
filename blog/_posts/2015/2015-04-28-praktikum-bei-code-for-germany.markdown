@@ -13,7 +13,7 @@ tags: []
 title: "Code for Germany sucht eine Praktikantin oder einen Praktikanten zum 01. Juni"
 type: post
 ---
-
+<br>
 <strong>Code for Germany sucht eine/n Praktikanten/in zum 01. Juni.</strong>
 
 Du interessierst dich für Technologie, Politik, Design und Aktivismus. Storytelling ist deine Leidenschaft und das Internet dein Zuhause. Bloggen, schreiben und twittern machen dir Spaß. Du wolltest schon immer mal für eine NGO arbeiten, hast eine eigenständige Arbeitsweise, Lust viel zu lernen und dich weiterzuentwickeln. 
