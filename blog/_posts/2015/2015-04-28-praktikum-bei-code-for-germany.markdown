@@ -10,7 +10,7 @@ layout: post
 published: true
 status: publish
 tags: []
-title: "Code for Germany sucht eine Praktikantin oder einen Praktikanten zum 01. Juni"
+title: "Praktikum bei Code for Germany ab 01. Juni"
 type: post
 ---
 <br>
