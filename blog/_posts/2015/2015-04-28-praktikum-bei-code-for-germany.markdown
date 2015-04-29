@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2015-04-29 14:25
 image:
-  src: http://okfn.de/files/blog/2015-4/praktikum.png
+  src: http://okfn.de/files/blog/2015-4/codeforde.jpg
   title: 
 layout: post
 published: true
