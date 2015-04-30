@@ -5,6 +5,9 @@ categories:
 - Veranstaltung
 - Open Science
 date: 2015-04-30 12:42:49
+image:
+  src: http://okfn.de/files/blog/2015-4/AG_Open_Science.png
+  title: Open Science AG
 layout: post
 published: true
 status: publish
