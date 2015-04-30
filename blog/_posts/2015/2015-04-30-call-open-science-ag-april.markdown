@@ -26,8 +26,8 @@ Gestern fand unter reger Teilnahme der monatliche Call statt. Nach dem organisat
 * Feedbackrunde zu der [ersten Beta einer Open-Access-Engagement-Checkliste](https://pad.okfn.org/p/open-access-checkliste-feedback), die von Teilnehmern der Arbeitsgruppe erstellt wurde. Ziel der Checkliste soll es sein, Wissenschaftler und Studenten eine Handreichung zu bieten um Offenheit in der wissenschaftlichen Arbeit an Einrichtungen zu fördern. Das Feedback wird in den kommenden Wochen eingearbeitet und das Ergebnis als Projekt der Open Science AG veröffentlicht.
 * aktive Ansprache von Frauen für Offenheit in Wissenschaft und Forschung: Zwei Teilnehmer der AG werden bis zum nächsten Mal Ideen entwickeln, wie eine direkte Ansprache, vermutlich in einem Blogpost, aussehen kann. Das Thema wird auf dem kommenden Call im Mai diskutiert werden.
 * Vorstellung EGU Veranstaltungsreihe ["Open Science goes Geo"](https://docs.google.com/document/d/146FMThB-SdTdrJmx5vxNHS1siI7f9V3NSB14iVnsoV8/edit?usp=sharing)
-* Twitter-Koordination der Open Science AG: Vorschlag umfasst wöchentliche Twitteraktionen zu Open Science bei denen jeweils ein AG Mitglied einen Tag lang über seinen Alltag den [OKScienceDE-Account übernimmt]https://pad.okfn.org/p/open_science_twitter).
-* Open Science Treffen auf dem Chaos Communication Camp: Überlegung das zu veranstalten (http://events.ccc.de/2015/02/10/chaos-communication-camp-2015-save-the-date/). Das Thema wird auch auf dem kommenden Call weiter besprochen.
+* Twitter-Koordination der Open Science AG: Vorschlag umfasst wöchentliche Twitteraktionen zu Open Science bei denen jeweils ein AG Mitglied einen Tag lang über seinen Alltag den [OKScienceDE-Account übernimmt](https://pad.okfn.org/p/open_science_twitter).
+* Open Science Treffen auf dem [Chaos Communication Camp](http://events.ccc.de/2015/02/10/chaos-communication-camp-2015-save-the-date/): Überlegung das zu veranstalten. Das Thema wird auch auf dem kommenden Call weiter besprochen.
 
 [Konrad Förstner](http://konrad.foerstner.org/) übernimmt die Planung und Organisation des nächsten Calls und schickt Terminvorschläge an die Mailingliste.
 
