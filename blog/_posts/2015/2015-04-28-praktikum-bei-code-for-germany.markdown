@@ -22,7 +22,8 @@ Trifft auf dich zu? Dann freuen wir uns darauf, dich kennenzulernen. Wir bieten 
 
 Start: Juni 2015<br>
 Zeit: Mindestens 20h/Woche<br>
-Gehalt: Das Praktikum wird vergütet. <br>
+Standort: Berlin<br>
+Gehalt: Das Praktikum wird vergütet<br>
 
 
 <hr>
@@ -50,15 +51,15 @@ Gehalt: Das Praktikum wird vergütet. <br>
 <hr>
 <strong>Wir bieten Dir</strong>
 
-* Arbeit in einer etablierten non-profit Organisation, mit einem vielseitigen Projektportfolio
+* Arbeit in einer etablierten non-profit Organisation mit einem vielseitigen Projektportfolio
 * Die Mitarbeit an einem spannenden Projekt mit einer großartigen Community
 * Die Zusammenarbeit mit einem professionellen und sehr netten Team
 * Zugang zu unserem deutschen und internationalen Netzwerk 
 * Die Möglichkeit, dich aktiv mit eigenen Ideen einzubringen
-* Die Möglichkeit dich persönlich und professionell weiterzuentwickeln <br>
+* Die Möglichkeit, dich persönlich und professionell weiterzuentwickeln <br>
 
 <hr>
-Wenn du Interesse hast, dann schick uns deine Bewerbung bis zum 12. Mai per E-Mail an <strong><a href="mailto:info@codefor.de">info@codefor.de</a>.</strong>.<br>
+Wenn du Interesse hast, dann schick uns deine Bewerbung bis zum 12. Mai per E-Mail an <strong><a href="mailto:info@codefor.de">info@codefor.de</a></strong>.<br>
 Wir freuen uns auf dich!<br>
 Julia & Fiona 
 
