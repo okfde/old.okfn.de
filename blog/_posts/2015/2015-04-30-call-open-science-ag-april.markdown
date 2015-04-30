@@ -15,7 +15,7 @@ tags: []
 title: "Rückblick: Monatlicher Open Science AG Call im April 2015"
 type: post
 ---
-
+<br>
 Im Rahmen des [OK Festivals](http://2014.okfestival.org/) im Juli 2014 konstituierte sich für den Bereich Wissenschaft eine [deutschsprachige Open Science Arbeitsgruppe](http://okfn.de/open-science).
 
 Ziel der Arbeitsgruppe, bestehend aus rund 30 Personen, gut die Hälfte davon aktive Wissenschaftler, ist die Vernetzung von Aktiven im Bereich Open Science und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen - im Idealfall unter freien Lizenzen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute und Politik zum Thema Open Science fungieren. Bereits im letzten Jahr wurde kollaborativ ein Mission Statement [Mission Statement](https://github.com/OKScienceDE/Mission_Statement) erarbeitet.
