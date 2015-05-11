@@ -1,16 +1,17 @@
 ---
-title: OpenRuhr
-url: http://openruhr.de/
-img: projects/openruhr.jpg
+title: OParl
+url: http://oparl.org/
+img: projects/oparl.jpg
 type: tool
 people:
 - name: Ernesto Ruge
   role: Projektleitung
+- name: Lucas Jacob
+  role: Projektleitung
 contact:
-  website: http://openruhr.de
-  twitter: openruhr
-  facebook: https://www.facebook.com/OpenRuhr
-  github: https://github.com/OpenRuhr
+  website: http://oparl.org
+  twitter: oparl
+  github: https://github.com/oparl
 ---
 
-Die Initiative OpenRuhr fördert mit verschiedenen AkteurInnen offene Daten im Ruhrgebiet. Als erstes größeres Projekt hat OpenRuhr in Zusammenarbeit mit der Open Knowledge Foundation Deutschland das alternative Ratsinformationssystem OpenRuhr:RIS auf Basis von [offeneskoeln.de](http://www.offeneskoeln.de)  entwickelt. Mit dieser neuen intuitiven Web-Oberfläche der bestehenden kommunalen Ratsinformationssysteme wird der Zugang zu kommunaler Politik erleichtert. Zudem demonstriert OpenRuhr:RIS anschaulich die Möglichkeiten von offenen Daten und motiviert so zu Folgeprojekten seitens der Kommunen. Bisher wurde das System für die Städte Moers, Bochum und Duisburg umgesetzt.
+OParl setzt sich für die Schaffung eines einheitlichen Zugriffs auf Ratsinformationssysteme ein. Die Mitwirkenden hinter OParl haben sich darauf verständigt, einen Schnittstellen-Standard zu definieren. Die teilnehmenden Software-Anbieter passen ihre Systeme so an, dass sie diesen Standard erfüllen. Das Projekt wird gemeinsam mit dem Vitako e.V. geleitet.
