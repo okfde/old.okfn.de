@@ -1,7 +1,7 @@
 ---
 title: Politik Bei Uns
 url: https://politik-bei-uns.de/
-img: projects/politik-bei-uns.jpg
+img: projects/politikbeiuns.jpg
 type: tool
 people:
 - name: Ernesto Ruge
