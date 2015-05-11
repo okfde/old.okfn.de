@@ -1,16 +1,17 @@
 ---
-title: Politik Bei Uns
-url: https://politik-bei-uns.de/
-img: projects/politik-bei-uns.jpg
+title: OParl
+url: http://oparl.org/
+img: projects/oparl.jpg
 type: tool
 people:
 - name: Ernesto Ruge
   role: Projektleitung
+- name: Lucas Jacob
+  role: Projektleitung
 contact:
-  website: https://politik-bei-uns.de/
-  twitter: politikbeiuns
-  facebook: https://www.facebook.com/OpenRuhr
-  github: https://github.com/okfde/ris-web
+  website: http://oparl.org
+  twitter: oparl
+  github: https://github.com/oparl
 ---
 
-Das offene Ratsinformationssystem "Politik Bei Uns" stellt Informationen und Vorgänge aus Rat und Verwaltung nutzerfreundlich dar, damit Bürgerinnen und Bürger politische Entscheidungen nachvollziehen können und so frühzeitig mitbestimmen können. Es greift aktuelle Entwicklungen auf (mobiles Web, Big Data, offene Schnittstellen, OpenData, eGoverment, OpenSource, Datenjournalismus und hyperlokale / personifizierte Informationssysteme). Es stellt als eine Art Datenmarktplatz Rats- und Verwaltungsdaten Drittentwicklern zur Verfügung, so dass sie ohne großen Aufwand weitere Applikationen bauen können. Neben der Politik, der Zivilgesellschaft und den Journalisten profitiert auch die Wissenschaft von strukturierten und somit analysierbaren Daten.
+OParl setzt sich für die Schaffung eines einheitlichen Zugriffs auf Ratsinformationssysteme ein. Die Mitwirkenden hinter OParl haben sich darauf verständigt, einen Schnittstellen-Standard zu definieren. Die teilnehmenden Software-Anbieter passen ihre Systeme so an, dass sie diesen Standard erfüllen. Das Projekt wird gemeinsam mit dem Vitako e.V. geleitet.
