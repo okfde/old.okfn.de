@@ -24,8 +24,6 @@ Start: Zum nächstmöglichen Zeitpunkt<br>
 Zeit: Mindestens 20h/Woche<br>
 Gehalt: Das Praktikum wird vergütet.
 Ort: Open Knowledge Foundation Deutschland e.V., Berlin
-Standort: Berlin<br>
-Gehalt: Das Praktikum wird vergütet<br>
 
 <hr>
 **Profil:**
