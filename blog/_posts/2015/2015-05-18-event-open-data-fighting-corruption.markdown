@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2015-05-18 11:25
 image:
-  src: 
+  src: http://okfn.de/files/blog/2015-5/digiwhist.jpg
   title: 
 layout: post
 published: true
