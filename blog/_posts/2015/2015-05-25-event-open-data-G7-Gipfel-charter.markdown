@@ -20,22 +20,9 @@ Vor fast zwei Jahren unterzeichnete Deutschland gemeinsam mit den anderen Indust
 
 Der in Deutschland stattfindende G7-Gipfel ist ein willkommener Anlass, um eine erste Bewertung des G8 Open Data Charter vorzunehmen. Dabei sollen folgende Fragen im Mittelpunkt stehen: Was wurde bisher in Deutschland erreicht? Wie schneidet die Bundesrepublik im Vergleich mit den anderen G7-Staaten ab? Welche Perspektiven tun sich mit dem Auslaufen der Charta Ende 2015 auf? Ausgangspunkt für die Diskussion wird ein im Rahmen der Abendveranstaltung vorgestelltes, gemeinsam mit der Open Knowledge Foundation veröffentlichtes Analyse- und Positionspapier zum Stand von Open Data bilden.
 
-Gemeinsam mit der stiftung neue verantwortung laden wir zu einer Diskussionsveranstaltung zum Stand der Open Data Debatte in Deutschland.
+Gemeinsam mit der stiftung neue verantwortung laden wir zu einer Diskussionsveranstaltung zum Stand der Open Data Debatte in Deutschland:
 
-### Ablauf
-
-### Begrüßung
-
-* Dr. Stefan Heumann, stiftung neue verantwortung
-
-### Vorstellung Analyse- und Positionspapier
-
-### Diskussion
-*  Christian Heise, Open Knowledge Foundation Deutschland e.V.
-*  Dr. Helene Groß, Bundesministerium des Innern (angefragt)
-*  Moderation: Sebastian Haselbeck, Internet & Gesellschaft Collaboratory e.V.
-
-### Datum & Ort
+## Datum & Ort
 
 09. Juni 2015, 18:30 - 20:00
 
@@ -44,6 +31,19 @@ Berliner Freiheit 2<br>
 10785 Berlin<br>
 Deutschland
 
-### Anmeldung
+## Agenda
+
+### 18.30 Begrüßung
+
+* Dr. Stefan Heumann, stiftung neue verantwortung
+
+### 18.45 Vorstellung Analyse- und Positionspapier
+
+### 19.00 Diskussion
+*  Christian Heise, Open Knowledge Foundation Deutschland e.V.
+*  Dr. Helene Groß, Bundesministerium des Innern (angefragt)
+*  Moderation: Sebastian Haselbeck, Internet & Gesellschaft Collaboratory e.V.
+
+## Anmeldung
 
 Um Anmeldung wird gebeten. Zur Anmeldung bitte [hier klicken](http://www.stiftung-nv.de/veranstaltung/der-g7-gipfel-und-open-government-data).
