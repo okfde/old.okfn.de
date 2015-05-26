@@ -24,7 +24,7 @@ Gemeinsam mit der stiftung neue verantwortung laden wir zu einer Diskussionsvera
 
 ## Datum & Ort
 
-09. Juni 2015, 18:30 - 20:00
+9 Juni 2015, 18:30 - 20:00
 
 stiftung neue verantwortung<br>
 Berliner Freiheit 2<br>
