@@ -24,13 +24,13 @@ Gemeinsam mit der stiftung neue verantwortung laden wir zu einer Diskussionsvera
 
 ### Ablauf
 
-#### Begrüßung
+### Begrüßung
 
 * Dr. Stefan Heumann, stiftung neue verantwortung
 
-#### Vorstellung Analyse- und Positionspapier*
+### Vorstellung Analyse- und Positionspapier
 
-#### Diskussion
+### Diskussion
 *  Christian Heise, Open Knowledge Foundation Deutschland e.V.
 *  Dr. Helene Groß, Bundesministerium des Innern (angefragt)
 *  Moderation: Sebastian Haselbeck, Internet & Gesellschaft Collaboratory e.V.
