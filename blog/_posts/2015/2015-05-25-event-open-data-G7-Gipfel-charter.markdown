@@ -33,13 +33,13 @@ Deutschland
 
 ## Agenda
 
-### 18.30 Begrüßung
+### Begrüßung
 
 * Dr. Stefan Heumann, stiftung neue verantwortung
 
-### 18.45 Vorstellung Analyse- und Positionspapier
+### Vorstellung Analyse- und Positionspapier
 
-### 19.00 Diskussion
+### Diskussion
 *  Christian Heise, Open Knowledge Foundation Deutschland e.V.
 *  Dr. Helene Groß, Bundesministerium des Innern (angefragt)
 *  Moderation: Sebastian Haselbeck, Internet & Gesellschaft Collaboratory e.V.
