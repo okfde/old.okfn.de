@@ -18,7 +18,7 @@ Für den Bereich Wissenschaft konstituierte sich am 16.7.2014 im Rahmen des OKFe
 
 ## Mehr erfahren oder gleich für die Öffnung von Wissenschaft und Forschung aktiv werden?
 
-Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-dem) der Open Science AG oder [kontaktiere uns direkt](mailto:info@okfn.de).
+Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-de) der Open Science AG oder [kontaktiere uns direkt](mailto:info@okfn.de).
 
 ## Mission Statement der deutschsprachigen Open Science AG
 
