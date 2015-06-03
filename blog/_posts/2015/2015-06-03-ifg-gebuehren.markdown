@@ -41,14 +41,9 @@ Schließlich ist die Gebührenerhebung ohnehin nicht dazu gedacht, die durch IFG
 
 ---
 <strong><em>Was tun bei Gebührenforderungen durch Behörden?</em></strong>
-	<li>
-<strong>Freundlich antworten</strong>: Manche Behördenmitarbeiter gehen davon aus, dass IFG-Anfragen nicht kostenlos sein dürfen. Es lohnt sich, auf eine Gebührenschätzung mit einer freundlichen Erklärung des Anliegens zu reagieren.
-</li>
-	<li><strong>Andere Gesetze benutzen</strong>: Für Anfragen nach dem Verbraucherinformationsgesetz (VIG) werden bis zu einem Aufwand von 1000 Euro teilweise gar keine Gebühren fällig
-</li>
-	<li><strong>Auf Billigkeit hinweisen</strong>: Für Empfänger von Transferleistungen können Behörden von Gebühren absehen
-</li>
-	<li><strong>Vermittlung einschalten</strong>: Die Bundes- und die Landesbeauftragten für Datenschutz und Informationsfreiheit vermitteln in Fällen von zu hohen Gebühren mit Behörden
-</li>
-	<li><strong>Crowdfunding</strong>: Bei interessanten Anfragen kann es sich lohnen, von verschiedenen Personen Geld für den Gebührenbetrag einzuwerben
-</li>
+	
+- <strong>Freundlich antworten</strong>: Manche Behördenmitarbeiter gehen davon aus, dass IFG-Anfragen nicht kostenlos sein dürfen. Es lohnt sich, auf eine Gebührenschätzung mit einer freundlichen Erklärung des Anliegens zu reagieren.
+- <strong>Andere Gesetze benutzen</strong>: Für Anfragen nach dem Verbraucherinformationsgesetz (VIG) werden bis zu einem Aufwand von 1000 Euro teilweise gar keine Gebühren fällig
+- <strong>Auf Billigkeit hinweisen</strong>: Für Empfänger von Transferleistungen können Behörden von Gebühren absehen
+- <strong>Vermittlung einschalten</strong>: Die Bundes- und die Landesbeauftragten für Datenschutz und Informationsfreiheit vermitteln in Fällen von zu hohen Gebühren mit Behörden
+- <strong>Crowdfunding</strong>: Bei interessanten Anfragen kann es sich lohnen, von verschiedenen Personen Geld für den Gebührenbetrag einzuwerben
