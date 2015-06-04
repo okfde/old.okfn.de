@@ -35,7 +35,7 @@ Bewerbung durch Buchführungsbüros oder Multibeschäftigte ist nicht erwünscht
 
 * Einstellung auf 450 € Basis
 * Flexible Arbeitszeiten (ca 10 Stunden/Woche) zunächst in unserem Büro; Home Office nach Absprache zu einem späteren Zeitpunkt möglich 
-* Ein spannendes Arbeitsumfeld in Berlin, mit flexiblen Arbeitszeiten und netter Büroatmosphäre
+* Ein spannendes Arbeitsumfeld in Berlin mit flexiblen Arbeitszeiten und netter Büroatmosphäre
 * Ein junges und motiviertes Team, das sich auf Dich freut
 
 
