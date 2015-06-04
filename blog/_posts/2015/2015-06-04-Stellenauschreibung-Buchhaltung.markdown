@@ -20,7 +20,8 @@ type: post
 
 ---
 
-Die Open Knowledge Foundation (e.V.) ist eine der führenden NGOs im Bereich Offene Daten und Freies Wissen in Deutschland. Viele unserer Projekte gelten als Pionierprojekte, unsere Expertise wird von Anbietern wie Nutzern Offener Daten geschätzt und wir sind ein wichtiger Förderer der deutschen Open Data Community. Um unsere Organisation dem gewachsenen Projektportfolio anzupassen, unsere Projektteams weiter schlagkräftig zu halten und die finanzielle Basis dafür zu stabilisieren, suchen wir zum nächstmöglichen Termin einen Aushilfe für unsere Buchhaltung.
+<br />
+Die Open Knowledge Foundation (e.V.) ist eine der führenden NGOs im Bereich Offene Daten und Freies Wissen in Deutschland. Viele unserer Projekte gelten als Pionierprojekte, unsere Expertise wird von Anbietern wie Nutzern Offener Daten geschätzt und wir sind ein wichtiger Förderer der deutschen Open Data Community. Um unsere Organisation dem gewachsenen Projektportfolio anzupassen, unsere Projektteams weiter schlagkräftig zu halten und die finanzielle Basis dafür zu stabilisieren, suchen wir zum nächstmöglichen Termin eine Aushilfe für unsere Buchhaltung.
 Bewerbung durch Buchführungsbüros oder Multibeschäftigte ist nicht erwünscht. Wir stellen uns als Idealbewerber/in jemanden vor, der die hier ausgeschriebene Tätigkeit als Student/In und/oder während der Elternzeit oder im Vorruhestand oder während der Arbeitssuche zu einer Vollzeittätigkeit ausüben möchte.
 
 
