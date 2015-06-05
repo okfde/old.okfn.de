@@ -147,6 +147,18 @@
   website:
   github:
 
+- name: Anna Alberts
+  title: MSc.
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Anna Alberts ist Projektleiterin OpenBudgets.EU"
+  mail: anna.alberts@okfn.de
+  twitter: Anna_Alberts
+  website:
+  github:
+
 - name: Daniel Dietrich
   img: danieldietrich
   staff: 1
