@@ -153,11 +153,11 @@
   board: 0
   advisory: 0
   position:
-  bio: "Anna Alberts ist Projektleiterin OpenBudgets.EU"
+  bio: "Anna Alberts leitet bei der Open Knowledge Foundation Deutschland als das EU-Forschungsprojekt OpenBudgets.eu. Anna hat Internationale Entwicklungsstudien und Internationale Beziehungen studiert und als Referentin mit den Schwerpunkten Daten- und Geopolitik im Planungsstab des Außenministeriums der Niederlande gearbeitet. Ehrenamtlich setzt sich Anna beim Peace Innovation Lab Berlin für die Förderung von Social Innovation-Projekten ein."
   mail: anna.alberts@okfn.de
   twitter: Anna_Alberts
   website:
-  github:
+  github: annafralberts
 
 - name: Daniel Dietrich
   img: danieldietrich
