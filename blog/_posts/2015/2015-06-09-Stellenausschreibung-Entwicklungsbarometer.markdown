@@ -24,7 +24,7 @@ type: post
 **Das Projekt:** Im Arbeitsbereich Open Aid / Open Development betreiben wir Lobbyarbeit für offene Daten in der Entwicklungszusammenarbeit und in der Entwicklungspolitik. Seit 2014 führen wir das Projekt Entwicklungsbarometer zu entwicklungspolitischer Kohärenz durch. Bei dem Projekt geht es darum, in Absprache mit Experten aus Zivilgesellschaft und Wissenschaft datenbasierte Indikatoren “entwicklungsfreundlicher” Politik zu erarbeiten und auf der Webseite Entwicklungsbarometer in Form eines EU weiten Rankings zu veröffentlichen. Die betrachteten Politikbereiche des Entwicklungsbarometers sind: Umwelt, Handel, internationale Finanzen, Sicherheit, Technologie und Innovation, Migration, Entwicklungszusammenarbeit und institutionelle Verankerung entwicklungspolitischer Kohärenz. Die Auswahl der Indikatoren soll sich eng an die im September 2015 in New York verabschiedeten Sustainable Development Goals (SDGs) anlehnen.  Deutschland wird nach Sept 2015 einen nationalen Umsetzungsplan der SDGs entwickeln und dieses Projekt soll ein zivilgesellschaftlicher Beitrag zum Monitoring des nationalen Umsetzungsplanes sein.
 Neben der Entwicklung des Indizes umfasst das Projekt die Erarbeitung einer Broschüre, Veranstaltungen mit politischen Entscheidungsträgern und zivilgesellschaftlichen Organisationen und Öffentlichkeitsarbeit. Das Projekt Entwicklungsbarometer läuft bis Ende 2016.
 
-**Wann:** 1. Juli 2015 bis 31. Dezember 2015 (Verlängerung bis Mitte 2016 geplant, abhängig von Finanzzusagen)
+**Wann:** 15. Juli 2015 bis 31. Dezember 2015 (Verlängerung bis Mitte 2016 geplant, abhängig von Finanzzusagen)
 
 **Zeitumfang:**  20 Stunden pro Woche bei flexiblen Arbeitszeiten
 
@@ -52,7 +52,7 @@ Neben der Entwicklung des Indizes umfasst das Projekt die Erarbeitung einer Bros
 * Affinität zu digitalen Themen und Open Data ein Plus
 * Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
 
-**Wir wir bieten:**
+**Was wir bieten:**
 
 * Ein spannendes und politisch hoch relevantes Projekt mit Einblicken in die Prozesse rund um die Umsetzung der SDGs in Deutschland und in die entwicklungspolitische Lobbyarbeit
 * Eigenständige Arbeit und eine sehr vielfältige Tätigkeit
@@ -60,6 +60,8 @@ Neben der Entwicklung des Indizes umfasst das Projekt die Erarbeitung einer Bros
 * Ein junges und motiviertes Team, das sich auf Dich freut
 * Ein spannendes Arbeitsumfeld in Berlin, mit flexiblen Arbeitszeiten und netter Büroatmosphäre
 * 878 €/brutto / 20 Stunden Woche
+
+Bitte schickt Eure Bewerbung per E-Mail bis zum 8 Juli an [claudia.schwegmann@okfn.org](mailto:claudia.schwegmann@okfn.org)
 <hr>  
 
 
