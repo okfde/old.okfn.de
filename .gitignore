@@ -3,5 +3,3 @@ _site/
 __posts/
 *.DS_Store
 .jekyll-metadata
-
-Gemfile.lock
