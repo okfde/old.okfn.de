@@ -3,6 +3,12 @@ highlighter: pygments
 baseurl: /
 fullurl: 'http://okfn.de'
 staticurl: /static/
+exclude:
+  - "CNAME"
+  - "Gemfile*"
+  - "Readme.md"
+  - "scripts/"
+
 gems:
   - jekyll-redirect-from
 
