@@ -6,7 +6,8 @@ background: backgrounds/services.jpg
 
 ---
 
-### OKF DE Büro
+### Büro und Postaddresse
+
 [Singerstr. 109, 10179 Berlin](http://www.openstreetmap.org/way/29386807)
 
 
