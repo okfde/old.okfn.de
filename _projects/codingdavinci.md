@@ -13,6 +13,8 @@ people:
     role: Projektleiter
   - name: Bela Seeger
     role: Projektassistenz
+  - name: Knut Perseke
+    role: technischer Support
 contact:
   website: https://codingdavinci.de
   twitter: codingdavinci
