@@ -13,6 +13,8 @@ people:
     role: Projektleitung
   - name: Fiona Krakenbürger
     role: Projektassistenz
+  - name: Eileen Wagner
+    role: Praktikantin
 contact:
   website: http://codefor.de
   twitter: codeforde

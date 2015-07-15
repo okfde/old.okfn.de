@@ -88,6 +88,18 @@
   website: http://arduina.github.io/arduina.net/
   github: arduina
 
+- name: Eileen Wagner
+  img: eileenwagner
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Eileen ist seit Juli Praktikantin bei der OKF DE. Gemeinsam mit Julia und Fiona arbeitet sie am Projekt „Code for Germany“. Vor allem ist sie für Kommunikation und Öffentlichkeitsarbeit zuständig. Sie hat einen Bachelor in Philosophie und bald auch einen Master in Logik."
+  mail: eileen.wagner@okfn.de
+  twitter: flapperleenie
+  website: http://eileenwagner.xyz/
+  github: flapperleenie
+
 - name: Walter Palmetshofer
   img: walterpalmetshofer
   staff: 1
