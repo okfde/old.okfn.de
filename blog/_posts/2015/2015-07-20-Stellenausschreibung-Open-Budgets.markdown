@@ -4,7 +4,7 @@ categories:
 - Featured 
 date: 2015-07-20 12:00
 image:
-  src: http://okfn.de/files/blog/2015-7/job.jpg
+  src: http://okfn.de/files/blog/2015-7/jobs.jpg
   title: Jobs bei OKFDE
 layout: post
 published: true
