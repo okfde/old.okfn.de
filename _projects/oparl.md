@@ -10,7 +10,7 @@ people:
   role: Projektleitung
 contact:
   website: http://oparl.org
-  twitter: oparl
+  twitter: OParlOrg
   github: https://github.com/oparl
 ---
 
