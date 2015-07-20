@@ -1,5 +1,5 @@
 ---
-author: Eileen Wagner
+author: Fiona Krakenbuerger
 categories:
 - Featured 
 date: 2015-07-20 12:00
@@ -11,7 +11,7 @@ published: true
 status: publish
 tags:
 - OER
-title: Looking for a Junior Researcher/Journalist in the H2020 EU Project OpenBudgets.EU
+title: Junior Researcher/Journalist für OpenBudgets.EU gesucht
 
 type: post
 
