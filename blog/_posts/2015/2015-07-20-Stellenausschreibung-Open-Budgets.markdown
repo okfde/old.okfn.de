@@ -44,6 +44,7 @@ Your tasks will consists of the development of user requirement workshops and re
 * Travel and conference visits.
 
 <strong>What we expect</strong>
+
 * Recent graduate (approx. 1 year of working experience) 
 * Experience with with user-requirement research and gap analysis, experience with product development itself is a plus. 
 * Experience with research, report writing and documentation (in English)
