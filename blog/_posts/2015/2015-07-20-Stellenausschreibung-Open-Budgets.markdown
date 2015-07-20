@@ -10,7 +10,7 @@ layout: post
 published: true
 status: publish
 tags:
-- OER
+- 
 title: We are looking for a (Junior) Researcher/Journalist with a strong technical background (product owner) in the H2020 EU Project: OpenBudgets.EU.
 
 type: post
@@ -18,7 +18,6 @@ type: post
 
 ---
 
-<br />
 ###  Junior Researcher/Journalist with a strong technical background (product owner) in the H2020 EU Project: OpenBudgets.EU.
 
 Part-Time (50%) limited term: 14 months.  Salary: depending on Experience 
@@ -54,6 +53,7 @@ Your tasks will consists of the development of user requirement workshops and re
 * Excellent knowledge of spoken and written English. Good knowledge of German. 
 * Affinity with Open Data, Transparency, and Accountability and identification with the [Open Knowledge values][]
 
+<hr>
 
 Please apply by sending your CV and Cover Letter (in English) to: [getinvolved@okfn.de][] and [anna.alberts@okfn.de][].
 
