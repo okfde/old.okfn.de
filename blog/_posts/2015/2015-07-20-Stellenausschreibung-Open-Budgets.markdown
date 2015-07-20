@@ -17,11 +17,14 @@ type: post
 
 ---
 
-###  Junior Researcher/Journalist with a strong technical background (product owner) in the H2020 EU Project: OpenBudgets.EU.
+###  Junior Researcher/Journalist with a strong technical background (Product Owner) in the H2020 EU Project: OpenBudgets.EU.
 
-Part-Time (50%) limited term: 14 months.  Salary: depending on Experience 
-Start: asap
-Application deadline: 10 August 2015
+
+* Part-Time (50%) limited term: 14 months
+* Salary: depending on experience 
+* Start: asap
+* Application deadline: 10 August 2015
+
 
 The Open Knowledge Foundation Germany is one of the leading NGOs in the field of Open Knowledge, Open Data and Transparency in Germany. We support the Open Data community in Germany,  run innovative projects such as OffenerHaushalt, CodeforGermany and Jugend hackt, and provide expertise to users and providers of open data, in the government, civil society, and media. We are now hiring for one of the H2020 EU projects: OpenBudgets.EU.
 
@@ -29,7 +32,8 @@ OpenBudgets.eu is a platform for fiscal transparency in the EU and its member st
 
 Open Knowledge Foundation Deutschland is responsible for ‘Communication and Dissemination’ of Open Budgets. We mainly focus on three stakeholder groups: journalists, policy makers (MEPs), and participatory budgeting organizations. For specific tools that cater to Journalists, we are looking for a junior product owner with an interest in journalism, or a researcher/journalist with a technical background. 
 
-Tasks: 
+<strong>Tasks</strong>
+
 Your tasks will consists of the development of user requirement workshops and reports, testing tools and contribute to the development of new tools around Budget and Spending data for Journalists. It is not a traditional role as a product owner, as you will be working in a large consortium building a platform and tools together. The emphasis lies with the gap analysis, stakeholder workshops (with training elements), creating personas, detailed user stories and requirements.  In addition, you can be asked to contribute to broader stakeholder outreach and training on the OpenBudgets platform and its tools. 
 
 <strong>What we offer</strong>
