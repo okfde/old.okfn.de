@@ -1,20 +1,19 @@
 ---
-author: Anna Alberts
+author: Eileen Wagner
 categories:
 - Featured 
-date: 2015-07-20 16:00
+date: 2015-07-20 12:00
 image:
   src: http://okfn.de/files/blog/2015-7/okfn.jpg
-  title: Logo OKFN
+  title: Stadtgeschichten
 layout: post
 published: true
 status: publish
 tags:
-- Open Budgets
-title: We are looking for a (Junior) Researcher/Journalist with a strong technical background (product owner) in the H2020 EU Project: OpenBudgets.EU.
+- OER
+title: Looking for a Junior Researcher/Journalist in the H2020 EU Project OpenBudgets.EU
 
 type: post
-
 
 ---
 
