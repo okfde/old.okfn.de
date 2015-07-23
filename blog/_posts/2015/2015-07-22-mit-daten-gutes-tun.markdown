@@ -11,7 +11,7 @@ published: true
 status: publish
 tags:
 - opendata
-title: "OpenImpact: 10 Projekte, die mit Daten Gutes tun"
+title: "#openimpact: 10 Projekte, die mit Daten Gutes tun"
 
 type: post
 
