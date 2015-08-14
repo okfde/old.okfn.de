@@ -17,7 +17,7 @@ type: post
 
 ---
 
-###  Front-end Developer (w/m) für DIGIWHIST - ein H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed (DIGIWHIST).
+###  Front-end Developer (w/m) für DIGIWHIST - ein H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed" (DIGIWHIST).
 
 
 * Part-Time (50%) limited term: 50% FTE, project ends February 2018
