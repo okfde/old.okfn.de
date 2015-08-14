@@ -4,7 +4,7 @@ categories:
 - Featured 
 date: 2015-08-14 12:00
 image:
-  src: http://okfn.de/files/blog/2015-7/jobs.jpg
+  src: http://okfn.de/files/blog/2015-7/digiwhist.jpg
   title: Jobs bei OKFDE
 layout: post
 published: true
