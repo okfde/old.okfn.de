@@ -23,9 +23,6 @@ type: post
 ---
 
 
-### Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, 5.-6. Nov. 2015 in Hamburg
-
-
 Liebe Freunde des freien Wissens,
 
 die fortschreitende Digitalisierung bietet vielen Institutionen und Initiativen die Chance, den Zugang zum kulturellen Erbe zu erleichtern und damit einen wichtigen Beitrag zur Wissensgesellschaft der Zukunft zu leisten. Mit welchen Konzepten jedoch antworten Archive, Museen und Bibliotheken, aber auch andere Initiativen wie die Wikipedia auf diese Herausforderungen und welchen Beitrag wollen und sollen Unternehmen dazu leisten?
