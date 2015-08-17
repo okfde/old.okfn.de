@@ -8,7 +8,7 @@ background: backgrounds/services.jpg
 
 ### Jobs
 
-Aktuell sind keine freien Stellen zu besetzen.
+<a href="http://okfn.de/blog/2015/08/Stellenausschreibung-DIGIWHIST/">Front-end Developer (w/m) für das H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed" (DIGIWHIST)</a> 
 
 
 ### Praktika
