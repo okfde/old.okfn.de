@@ -22,7 +22,7 @@ Trifft auf dich zu? Dann freuen wir uns darauf, dich kennenzulernen. Wir bieten 
 
 * Start: ab sofort
 * Zeit: 20h/Woche, befristet auf 3 Monate
-* Gehalt: 660 brutto 
+* Gehalt: 660 Euro/Monat brutto 
 * Ort: Open Knowledge Foundation Deutschland e.V., Berlin
 
 Unterstützen würdest du uns beim Kultur-Hackathon [Coding da Vinci](http://codingdavinci.de), der Fortsetzung des [Energyhackdays](http://energyhack.de) und dem Informationsfreiheitsportal [FragdenStaat](https://fragdenstaat.de).
