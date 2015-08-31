@@ -22,7 +22,7 @@ Mit dem Smartphone steht dir das ganze Internet jederzeit zur Verfügung. Jede I
 
 Über Vor- und Nachteile, die daraus entstehen und über weitere Themen des Verbraucherschutzes in der digitalen Welt wollen wir mit Vertretern der Berliner Politik diskutieren.
 
-####Auf dem Podium diskutieren: 
+### Auf dem Podium diskutieren: 
 
 * <strong>Sven Kohlmeier</strong>, Sprecher der Fraktion der SPD für Rechts- und Netzpolitik</br>
 * ***Burkhard Dregger***, Sprecher der Fraktion der CDU für Netzpolitik, elektronische Verwaltung, Datenschutz und Informationsfreiheit</br>
@@ -33,7 +33,7 @@ Mit dem Smartphone steht dir das ganze Internet jederzeit zur Verfügung. Jede I
 
 Moderation: ***Nicolas Zimmer***, Vorstandsvorsitzender Technologiestiftung Berlin
 
-#### Eckdaten
+### Eckdaten
 
 * wann: am 3. September 2015, 18 Uhr
 * wo: im Festsaal des Abgeordnetenhauses, </br>
