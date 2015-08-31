@@ -34,7 +34,7 @@ Nachdem bereits in den vergangenen Jahren über das kulturelle Erbe in der digit
 Die Open Knowledge Foundation Deutschland und ihre Partner möchten Euch herzlich einladen, diese Frage in mehreren Räumen des Altonaer Museums in unterschiedlichen Vorträgen, Workshops, Podiums- und Publikumsdiskussionen aus verschiedenen Perspektiven zu diskutieren.
 
 
-* Anmeldung unter: [www.zugang-gestalten.de/registrierung](www.zugang-gestalten.de/registrierung)
+* Anmeldung unter: [www.zugang-gestalten.de/registrierung](http://www.zugang-gestalten.de/registrierung)
 * Kontakt: E-Mail: [p.klimpel@irights-law.de](mailto:p.klimpel@irights-law.de)  (Projektleitung)
 * Twitter: [@KulturellesErbe](https://twitter.com/kulturelleserbe)
 
