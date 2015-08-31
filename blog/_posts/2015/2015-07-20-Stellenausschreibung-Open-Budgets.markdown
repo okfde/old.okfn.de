@@ -17,7 +17,7 @@ type: post
 
 ---
 
-###  Junior Researcher/Journalist with a strong technical background (Product Owner) in the H2020 EU Project: OpenBudgets.EU.
+###  Junior Researcher/Journalist with a strong technical background (Product Owner) in the H2020 EU Project: OpenBudgets.EU
 
 
 * Part-Time (50%) limited term: 14 months
@@ -59,9 +59,9 @@ Your tasks will consists of the development of user requirement workshops and re
 
 <hr>
 
-Please apply by sending your CV and Cover Letter (in English) to: [getinvolved@okfn.de][] and [anna.alberts@okfn.de][].
+Please apply by sending your CV and Cover Letter (in English) to: <a href="mailto:getinvolved@okfn.de?Subject=Application OpenBudgets">getinvolved@okfn.de</a> and <a href="mailto:anna.alberts@okfn.de?Subject=Application OpenBudgets">anna.alberts@okfn.de</a>.
 
-For more information, please contact: [anna.alberts@okfn.de][]
+For more information, please contact: <a href="mailto:anna.alberts@okfn.de">anna.alberts@okfn.de</a>
 
 [getinvolved@okfn.de]: http://mailto:getinvolved@okfn.de
 [anna.alberts@okfn.de]: http://mailto:anna.alberts@okfn.de
