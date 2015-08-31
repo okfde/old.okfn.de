@@ -20,7 +20,7 @@ type: post
 
 Mit dem Smartphone steht dir das ganze Internet jederzeit zur Verfügung. Jede Information bekommst du mit einem Fingertipp und du kannst alles von überall erledigen. 
 
-Über Vor- und Nachteile, die daraus entstehen und über weitere Themen des Verbraucherschutzes in der digitalen Welt wollen wir mit Vertretern der Berliner Politik diskutieren.
+Über Vor- und Nachteile, die daraus entstehen und über weitere Themen des Verbraucherschutzes in der digitalen Welt wollen wir im Rahmen des Projekts [Smarte Bürger](https://smarte-buerger.de/index.html) mit Vertretern der Berliner Politik diskutieren.
 
 ### Auf dem Podium diskutieren: 
 
@@ -41,7 +41,7 @@ Niederkirchnerstraße 5, 10117 Berlin
 * Anmeldung: Mail an waltraut.schulz(at)parlament-berlin.de
 * Die Teilnahme ist kostenfrei.
 
-Am gleichen Abend wird der interaktive Smarte Bürger-Parcours im Abgeordnetenhaus aufgebaut und kann bis zum 11. September mit dem Smartphone gespielt werden. Wer Fragen zum Parcours hat, sollte am 5. September zum Tag der offenen Tür im Abgeordnetenhaus kommen. Dort wird das Smarte Bürger-Team mit einem Stand vertreten sein.
+Am gleichen Abend wird der interaktive [Smarte Bürger-Parcours](https://smarte-buerger.de/parcours-web.html) im Abgeordnetenhaus aufgebaut und kann bis zum 11. September mit dem Smartphone gespielt werden. Wer Fragen zum Parcours hat, sollte am 5. September zum Tag der offenen Tür im Abgeordnetenhaus kommen. Dort wird das Smarte Bürger-Team mit einem Stand vertreten sein.
 
 Für den Tag der offenen Tür am 5.9. ist keine Anmeldung erforderlich.
 
