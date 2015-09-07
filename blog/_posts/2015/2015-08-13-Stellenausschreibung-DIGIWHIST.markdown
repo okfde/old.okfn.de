@@ -23,7 +23,7 @@ type: post
 * Part-Time (50%) limited term: 50% FTE, project ends February 2018
 * Salary: depending on experience, we use the Berlin public servant salary bands
 * Start: Ideally October 2015 
-* Application deadline: 5 September 2015
+* Application deadline: **Deadline extended until 15 September 2015** 
 
 
 The Open Knowledge Foundation Germany is one of the leading NGOs in the field of Open Knowledge, Open Data and Transparency in Germany. We support the Open Data community in Germany,  run innovative projects such as OffenerHaushalt, CodeforGermany and Jugend hackt, and provide expertise to users and providers of open data, in the government, civil society, and media. We are now hiring for one of the H2020 EU projects: DIGIWHIST.
@@ -60,7 +60,7 @@ The goal of DIGIWHIST is to make information about purchases of goods and servic
 </ul>
 
 Please note that we can only consider applications from either EU citizens or those with a valid German work permit. 
-To apply, send your application (CV, GitHub or similar profile and cover letter) by **5 September 2015** to <a href="mailto:digiwhist@okfn.de?Subject=Application DIGIWHIST">digiwhist@okfn.de</a>
+To apply, send your application (CV, GitHub or similar profile and cover letter) by **15 September 2015** to <a href="mailto:digiwhist@okfn.de?Subject=Application DIGIWHIST">digiwhist@okfn.de</a>
 
 Please feel free to get in touch with Mara Mendes (<a href="mailto:mara.mendes@okfn.de?Subject=Application DIGIWHIST">mara.mendes@okfn.de</a>) should you have any further questions.  
 
