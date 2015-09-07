@@ -8,7 +8,9 @@ background: backgrounds/services.jpg
 
 ### Büro, Besuchs- und Postaddresse
 
-[Singerstr. 109, 10179 Berlin](http://www.openstreetmap.org/way/29386807)
+[Singerstr. 109
+10179 Berlin
+Deutschland](http://www.openstreetmap.org/way/29386807)
 
 
 ### Offizielle Vereinsadresse
