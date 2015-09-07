@@ -6,7 +6,7 @@ background: backgrounds/services.jpg
 
 ---
 
-### Büro und Postaddresse
+### Büro, Besuchs- und Postaddresse
 
 [Singerstr. 109, 10179 Berlin](http://www.openstreetmap.org/way/29386807)
 
