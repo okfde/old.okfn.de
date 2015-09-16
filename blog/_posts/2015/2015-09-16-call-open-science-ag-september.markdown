@@ -12,7 +12,7 @@ layout: post
 published: true
 status: publish
 tags: []
-title: "Open Science Call 9/15: Suchmaschine für Open-Access Inhalte, Opening up Science in Hamburg, Rückblick Chaos Communication Congress und vieles mehr"
+title: "Open Science Call 9/15: Suchmaschine für Open-Access Inhalte, Opening up Science in Hamburg, Rückblick Chaos Communication Camp und vieles mehr"
 type: post
 ---
 <br>
@@ -20,7 +20,7 @@ Am Freitag, den 11. September, fand wieder einmal der monatliche öffentlich Cal
 
 Dieses mal stellte Christian Pietsch von der Universitätsbibliothek Bielefeld einen Nachfolger der eingestellten Fragen-und-Antworten Seite Open Science StackExchange vor. Dieser wird seit kurzem im Rahmen des DFG-Projekts CONQUAIRE ("Continuous quality control for research data to ensure reproducibility") von der Bielefelder Universitätsbibliothek [bereitgestellt](https://openscience.ub.uni-bielefeld.de). Zudem wies Christian auch auf neue Suchoptionen in der Literatur-Suchmaschine [BASE](https://base-search.net/Search/Advanced) hin, mit der sich nun gezielt Open-Access-Artikel gefiltert nach verschiedenen Creative-Commons-Lizenzen finden lassen. Die Suchmaschine lässt sich über verschiedene [Schnittstellen](https://base-search.net/about/de/about_develop.php?menu=2) in eigene (Web-)Anwendungen einbinden. Eine Freigabe der aggregierten und teilweise normalisierten Daten wird gerade anlässlich einer [Archivierung durch das IPFS-Team](https://github.com/ipfs/archives/issues/3) diskutiert.
 
-Bernd Rupp, Markus Neuschäfer und Konrad Förstner berichteten von dem Open Science Workshop, der auf dem [Chaos Communication Congress](https://events.ccc.de/camp/2015/wiki/Main_Page) im August 2015 durchgeführt wurde. Dort diskutierten etwa 30 internationale Teilnehmer aus verschiedenen wissenschaftlichen Disziplinen über die verschiedene Aspekte des wissenschaftlichen Prozesses und wie dieser offener gestalltet werden kann.
+Bernd Rupp, Markus Neuschäfer und Konrad Förstner berichteten von dem Open Science Workshop, der auf dem [Chaos Communication Camp](https://events.ccc.de/camp/2015/wiki/Main_Page) im August 2015 durchgeführt wurde. Dort diskutierten etwa 30 internationale Teilnehmer aus verschiedenen wissenschaftlichen Disziplinen über die verschiedene Aspekte des wissenschaftlichen Prozesses und wie dieser offener gestalltet werden kann.
 
 Lamber Heller (TIB) stellte die Plattform [handbuch.io](http://handbuch.io) vor, auf der kollaborativ Buchprojekte gestalltet werden können, und berichtet vom VIVO-Workshop in Hannover.
 
