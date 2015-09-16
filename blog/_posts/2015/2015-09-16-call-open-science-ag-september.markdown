@@ -32,4 +32,4 @@ Im Zuge des Gespräches wurde zudem ein fester, wiederkehrender Termin für den 
 
 Jeder Interessierte ist dazu eingeladen, sich zu beteiligen. Wenn auch du mitmachen willst, informiere dich [hier](https://pad.okfn.org/p/Open_Science_AG_Public_Call_006) und melde dich hier auf der [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-de) an oder folge [@OKScienceDE](https://twitter.com/OKScienceDE).
 
-Das ganze Protokoll des Calls im September kann [hier eingesehen werden](https://pad.okfn.org/p/Open_Science_AG_Public_Call_006).
+Das ganze Protokoll des Calls im September kann [hier eingesehen werden](https://pad.okfn.org/p/Open_Science_AG_Public_Call_005).
