@@ -11,7 +11,7 @@ background: backgrounds/services.jpg
 <a href="http://okfn.de/blog/2015/08/Stellenausschreibung-DIGIWHIST/">Front-end Developer (w/m) für das H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed" (DIGIWHIST)</a> 
 
 
-### Praktika
+<!--### Praktika
 
 
 **Open Knowledge Foundation Deutschland sucht eine/n Praktikanten/in zum nächstmöglichen Zeitpunkt**
@@ -48,4 +48,4 @@ Unterstützen würdest du uns beim Kultur-Hackathon [Coding da Vinci](http://cod
 Wenn du Interesse hast, dann schick uns deine Bewerbung per E-Mail an [getinvolved@okfn.de](mailto:getinvolved@okfn.de) 
 
 Wir freuen uns auf dich!
-Helene & Arne
+Helene & Arne--> 
