@@ -6,19 +6,12 @@ background: backgrounds/services.jpg
 
 ---
 
-### Büro, Besuchs- und Postaddresse
+### Vereinsadresse
 
+Open Knowledge Foundation Deutschland e.V.<br/>
 [Singerstr. 109
 10179 Berlin
 Deutschland](http://www.openstreetmap.org/way/29386807)
-
-
-### Offizielle Vereinsadresse
-
-Open Knowledge Foundation Deutschland e.V.<br/>
-Schlesische Str. 6<br/>
-10997 Berlin<br/>
-Deutschland<br/>
 
 
 Vereinsregister Nr: VR 30468 B<br/>
@@ -61,9 +54,9 @@ Die Sicherheit Ihrer Daten hat bei uns höchste Priorität. Wir ergreifen jede n
 
 Diese Daten werden ausschließlich zur Verbesserung unseres Angebotes ausgewertet und erlauben keine Rückschlüsse auf Ihre Person.
 
-### II. Erhebung und Speicherung personenbezogener
+### II. Erhebung und Speicherung personenbezogener Daten
 
-Daten Personenbezogene Daten wie Name, Username und zusätzliche Metadaten wie z. B. Anschrift, Telefonnummer und Email-Adresse (Bestandsdaten) werden erhoben, wenn und soweit dies im Rahmen der Begründung und Abwicklung eines Vertragsverhältnisses sowie für dessen inhaltliche Ausgestaltung oder Änderung erforderlich ist. Diese Daten werden in der Regel in elektronischen Anmeldeformularen erhoben. Mit vollständiger Abwicklung des Vertrages werden Ihre Daten für die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Vorschriften gelöscht, sofern Sie nicht ausdrücklich in die weitere Nutzung Ihrer Daten eingewilligt haben.
+Personenbezogene Daten wie Name, Username und zusätzliche Metadaten wie z. B. Anschrift, Telefonnummer und Email-Adresse (Bestandsdaten) werden erhoben, wenn und soweit dies im Rahmen der Begründung und Abwicklung eines Vertragsverhältnisses sowie für dessen inhaltliche Ausgestaltung oder Änderung erforderlich ist. Diese Daten werden in der Regel in elektronischen Anmeldeformularen erhoben. Mit vollständiger Abwicklung des Vertrages werden Ihre Daten für die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Vorschriften gelöscht, sofern Sie nicht ausdrücklich in die weitere Nutzung Ihrer Daten eingewilligt haben.
 
 ### III. Übermittlung von Daten an Dritte
 
