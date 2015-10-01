@@ -6,7 +6,7 @@ categories:
 - Hackday
 date: 2015-09-30 10:00:56
 image:
-  src: http://okfn.de/files/blog/2015-8/blackout-head.png
+  src: http://okfn.de/files/blog/2015-9/blackout-head.png
 layout: post
 published: true
 status: publish
