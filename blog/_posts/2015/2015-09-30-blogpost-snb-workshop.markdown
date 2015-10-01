@@ -37,16 +37,16 @@ In Vorbereitung auf den zweiten Energyhackday zum Thema "Blackout" hat die Open 
 
 Ziel des Workshop war es in drei Themenblöcken erste Fragestellungen für den Hackday zu entwickeln, darunter: 
 
-##### 01	Der Strom ist weg. Berlin hat ein Problem.
+#### 01	Der Strom ist weg. Berlin hat ein Problem.
 
 Vor welche Probleme stellt ein Blackout die Berliner*innen? Erarbeitung der Probleme aus Sicht von Privatpersonen im Falle eines Blackouts anhand der drei Personas Sophie (Studentin), Thomas (Familienvater) und Daniel (Mitarbeiter bei Stromnetz Berlin).
 
-##### 02	Material für den Hackday
+#### 02	Material für den Hackday
 
 Welches Wissen und welches Datenmaterial benötigen die Teilnehmer*innen des Hackdays, um Lösungen zu den Problemen zu entwickeln, die Privatpersonen im Falle eines Blackouts begegnen?
 
 
-##### 03	Hackday und nun?
+#### 03	Hackday und nun?
 
 Mögliche Szenarien für die nachhaltige Nutzung der Ergebnisse des Hackdays seitens SNBs und für die Verstetigung der Beziehung zur technikaffinen Hacker-Community.
 
