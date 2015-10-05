@@ -106,7 +106,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er an den Projekten BIG - Big Data Public Private Forum - und am Digitalen Offenheitsindex [do:index] und betreut den Open Data Census. Nach Berlin kam er 2012 als Co-Founder eines Startups, zuvor arbeitete er 5 Jahre als Sysadmin in NYC."
+  bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er an den Projekten Open Data Incubator for Europe (ODINE), einem H2020-Forschungsprojekt und am Digitalen Offenheitsindex [do:index]. Überdies betreut er den Open Data Census. Nach Berlin kam er 2012 als Co-Founder eines Startups, zuvor arbeitete er 5 Jahre als Sysadmin in NYC."
   mail: walter.palmetshofer@okfn.de
   twitter: vavoida
   website:
@@ -140,7 +140,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Knut arbeitet seit Februar 2015 als studentische Aushilfe bei der OKF DE. Er studiert Informatik an der TU Berlin und unterstützt hauptsächlich die Projekte Coding da Vinci und Jugend Hackt."
+  bio: "Knut arbeitet seit Februar 2015 als Entwickler bei der OKF DE. Er studiert Informatik an der TU Berlin und unterstützt unter anderem die Projekte Coding da Vinci und Jugend hackt."
   mail: knut.perseke@okfn.de
   twitter: knutator
   website:
@@ -171,6 +171,32 @@
   twitter: Anna_Alberts
   website:
   github: annafralberts
+
+- name: Johanna zum Felde
+  title: 
+  img: 
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Johanna unterstützt das Projekt Entwicklungsbarometer seit September 2015. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
+  mail: "johanna.zumfelde@okfn.de"
+  twitter: "@Jzfelde"
+  website:
+  github:
+
+- name: Dominik Wurnig
+  title: 
+  img: 
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Dominik ist Journalist mit einer Vorliebe für Daten. Seit September 2015 unterstützt er für die Open Knowledge Foundation Deutschland das Projekt Openbudgets.eu. Daneben arbeitet der Wiener als Journalist für Krautreporter und das ZDF Lobbyradar. Zuvor war er Datenredakteur bei der österreichischen Nachrichtensendung Zeit im Bild beim ORF. Er hat Journalismus an der CUNY in New York studiert und ein Diplomstudium in Theater-, Film- und Medienwissenschaft abgeschlossen."
+  mail: dominik.wurnig@okfn.de
+  twitter:
+  website:
+  github:
 
 - name: Mara Mendes
   title: 

@@ -41,20 +41,3 @@ Christoph Partsch, Deutsche Gesellschaft für Informationsfreiheit: „Ziel des 
 Projektleiter FragDenStaat.de bei der Open Knowledge Foundation Deutschland e.V.<br>
 arne.semsrott@okfn.de<br>
 Tel.: 030 57703666 2
-
-<i>Dr. Heike Mayer</i><br>
-Bündnis Informationsfreiheit für Bayern<br>
-ifg-bayern@informationsfreiheit.org
-
-<i>Manfred Redelfs</i><br>
-netzwerk recherche<br>
-redelfs@netzwerkrecherche.de
-
-<i>Anne Dänner</i><br>
-Pressesprecherin Mehr Demokratie e.V.<br>
-presse@mehr-demokratie.de<br>
-030/420 823 70
-
-<i>Christoph Partsch</i><br>
-Deutsche Gesellschaft für Informationsfreiheit<br>
-c.partsch@kanzlei-partsch.de 

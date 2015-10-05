@@ -25,6 +25,7 @@ Um das zu ändern arbeiten wir mit 5 Partnern am Projekt DIGIWHIST.
 Das Ziel ist es zum einen das Vertrauen in Regierungen zu erhöhen und zum anderen die Effizienz in der Vergabe von öffentlichen Aufträgen in Europa zu steigern. Hierfür werden systematisch Informationen zur öffentlichen Vergabe gesammelt, strukturiert und analysiert.  
 
 Hierfür entwickeln wir bei der OKF 35 Vergabeportale (für 34 Länder und die Europäische Kommission) die folgende Hauptfunktionen erfüllen: 
+
 * downloadbare Datenbank und Dokumentation 
 * benutzerfreundliche, interaktive Analyse-Werkzeuge 
 * Benutzer können zu den Portalen beisteuern
