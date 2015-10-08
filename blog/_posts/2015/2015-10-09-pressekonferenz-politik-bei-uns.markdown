@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-10-09 10:00:56
 image: 
-  src: http://okfn.de/files/2015-10/politik-bei-uns.png
+  src: http://okfn.de/files/blog/2015-10/politik-bei-uns.jpg
 layout: post
 published: true
 status: publish
@@ -21,11 +21,11 @@ type: post
 
 Berlin wird preisgekrönt transparent! Wir laden alle Interessierten ein, an der Pressekonferenz zur Vorstellung des Transparenz- und Recherchetools „Politik Bei Uns“ für die Berliner Bezirke teilzunehmen. Außerdem wird „Politik Bei Uns“ auf der Pressekonferenz als „Ausgezeichneter Ort im Land der Ideen“ geehrt.
 
-	__Was?__ Pressekonferenz „Politik Bei Uns“ für Berlin mit Preisverleihung „Ausgezeichnete Orte im Land der Ideen“  
+**Was?** Pressekonferenz „Politik Bei Uns“ für Berlin mit Preisverleihung „Ausgezeichnete Orte im Land der Ideen“
 
-	<b>Wann?</b> Mittwoch, der 14.10.2015, 11:00 – 12:00 Uhr  
+**Wann?** Mittwoch, der 14.10.2015, 11:00 – 12:00 Uhr
 
-	**Wo?** Büro der Open Knowledge Foundation, Singerstraße 109, 10179 Berlin  
+**Wo?** Büro der Open Knowledge Foundation, Singerstraße 109, 10179 Berlin
 
 [Politik Bei Uns](https://politik-bei-uns.de/) öffnet kommunale Politik für alle und macht so Mitreden und Mitbestimmen leichter als je zuvor. Auf der Seite werden städtischen Dokumente Straßen und Orten zugeordnet und durchsuchbar gemacht, um schnell an alle gewünschten Informationen zu kommen. So kann man beispielsweise erfahren, welche politischen Beschlüsse zum Bau der kommunalen Mehrzweckhalle geführt haben und welche Partei gegen den Ausbau der Straßenbahn gestimmt hat. Dabei braucht man keinerlei Kenntnisse über die lokalen Politik- und Verwaltungsstrukturen wie z.B. Verteilung der Ausschüsse. „Politik Bei Uns“ ist damit ein gutes Werkzeug für interessierte Bürger, recherchierende Journalisten, ehrenamtliche Politiker und viele mehr.
 
