@@ -18,7 +18,6 @@ type: post
 
 
 ---
-
 Berlin wird preisgekrönt transparent! Wir laden alle Interessierten ein, an der Pressekonferenz zur Vorstellung des Transparenz- und Recherchetools „Politik Bei Uns“ für die Berliner Bezirke teilzunehmen. Außerdem wird „Politik Bei Uns“ auf der Pressekonferenz als „Ausgezeichneter Ort im Land der Ideen“ geehrt.
 
 **Was?** Pressekonferenz „Politik Bei Uns“ für Berlin mit Preisverleihung „Ausgezeichnete Orte im Land der Ideen“
@@ -31,7 +30,7 @@ Berlin wird preisgekrönt transparent! Wir laden alle Interessierten ein, an der
 
 Unter dem Motto „Stadt, Land, Netz! - Innovationen für eine digitale Welt“ werden im Jahr 2015 insgesamt 100 Projekte in den Bereichen Kultur, Wirtschaft, Bildung, Umwelt, Gesellschaft und Wissenschaft von der Initiative „Deutschland – Land der Ideen“ und der Deutschen Bank ausgezeichnet. „Politik Bei Uns“ wird im Rahmen der Initiative auf der Pressekonferenz als „Ausgezeichneter Ort“ im Land der Ideen gekürt. 
 
-„Politik Bei Uns“ ist ein Projekt der Open Knowledge Foundation, welche offenes Wissen und offene Daten in Deutschland fördert. Neben Beratung für Politik und Verwaltung bietet der gemeinnützige Verein ein Dach für innovative OpenData- und eGoverment-Projekte wie [https://fragdenstaat.de/](https://fragdenstaat.de/)  und [https://politik-bei-uns.de/](https://politik-bei-uns.de/). 
+„Politik Bei Uns“ ist ein Projekt der Open Knowledge Foundation. 
 
 Zur besseren Veranstaltungsplanung freuen wir uns über eine Anmeldung unter [pk@politik-bei-uns.de](mailto:pk@politik-bei-uns.de). Danke!
 
