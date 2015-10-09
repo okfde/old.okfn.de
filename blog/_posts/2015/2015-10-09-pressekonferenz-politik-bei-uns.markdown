@@ -30,7 +30,7 @@ Berlin wird preisgekrönt transparent! Wir laden alle Interessierten ein, an der
 
 Unter dem Motto „Stadt, Land, Netz! - Innovationen für eine digitale Welt“ werden im Jahr 2015 insgesamt 100 Projekte in den Bereichen Kultur, Wirtschaft, Bildung, Umwelt, Gesellschaft und Wissenschaft von der Initiative „Deutschland – Land der Ideen“ und der Deutschen Bank ausgezeichnet. „Politik Bei Uns“ wird im Rahmen der Initiative auf der Pressekonferenz als „Ausgezeichneter Ort“ im Land der Ideen gekürt. 
 
-„Politik Bei Uns“ ist ein Projekt der Open Knowledge Foundation. 
+„Politik Bei Uns“ ist ein Projekt der Open Knowledge Foundation Deutschland. 
 
 Zur besseren Veranstaltungsplanung freuen wir uns über eine Anmeldung unter [pk@politik-bei-uns.de](mailto:pk@politik-bei-uns.de). Danke!
 
