@@ -1,6 +1,6 @@
 ---
 title: Wahl.Daten.Helfer.
-subtitle: "Apps entwickeln stärkt die Demokratie!"
+subtitle: "Der Hack Day zum Wahlabend."
 type: archive
 img: projects/wahldatenhelfer.jpg
 url: http://www.wahldatenhelfer.de
