@@ -20,6 +20,16 @@ type: post
 
 ---
 <br>
+
+**Wann:** 23. Oktober 2015, 10.30 - 13.00 Uhr
+
+**Wo:** stiftung neue verantwortung, Beisheim Center, 5. OG, Berliner Freiheit 2, 10785 Berlin – direkt am Potsdamer Platz
+
+**Wer:** Eine kleine Runde aus Vertretern der Open-Data-Community, weiteren Experten sowie den in Verwaltungen Open Data-Zuständigen und Interessierten. 
+
+**Anmeldung**: Da wir die Teilnehmerzahl aus Platzgründen begrenzen müssen, meldet Euch vorab bitte bei [Julia Manske](mailto:jmanske@stiftung-nv.de) mit einer kurzen Email an. 
+
+
 Behörden sammeln und aggregieren eine Vielzahl von Daten. Deren produktive Nutzung bietet für Wirtschaft und Zivilgesellschaft sowie für Bürgerinnen und Bürger unmittelbare Chancen. Das ist relativ unstrittig und wird breit diskutiert. Dabei gerät bisweilen das große Potenzial aus dem Blick, das ein intelligenter Umgang mit Daten für politische Entscheidungsprozesse und für das Verwaltungshandeln selbst eröffnet. Vielfach ist Behörden nicht bewusst, welche Chancen in den von ihnen verwalteten Daten stecken und wie sie nicht nur für die Allgemeinheit, sondern auch für ihre eigene Arbeit in Wert gesetzt werden können.  
 
 Mit dem Open-Data-Aktionsplan hat die Bundesregierung einen wichtigen Schritt unternommen, um den Weg für eine produktivere Nutzung von Regierungsdaten zu ebnen und erste Pilotprojekte zu starten. Unabhängig von ersten Erfolgen oder frustrierenden Misserfolgen einzelner Anwendungen kann sich ein systematischer Mehrwert offener Daten nur durch die strategische Öffnung und Nutzung zahlreicher Datensätze ergeben. Erst dann können interne Arbeitsprozesse optimiert und die Zusammenarbeit zwischen Behörden erleichtert werden. Auch sind qualitativ hochwertige Datenbestände eine gute Grundlage für politische Entscheidungen und für die politische Kommunikation. Um solch positive Effekte erzielen zu können, müssen Datensätze in Zukunft jedoch **strategisch** und nicht nur experimentell geöffnet und genutzt werden.
@@ -27,11 +37,6 @@ Mit dem Open-Data-Aktionsplan hat die Bundesregierung einen wichtigen Schritt un
 Die **[stiftung neue verantwortung](http://www.stiftung-nv.de/veranstaltung/offene-daten-als-grundlage-moderner-verwaltung)** möchte mit Vertretern der Open-Data-Community, weiteren Experten sowie den in Verwaltungen Zuständigen und Interessierten darüber diskutieren, wie man diese Botschaft besser verankern kann. Wie kann dazu beitragen werden, dass der angestoßene Open-Data-Prozess fortgeführt und nach Möglichkeit intensiviert wird, auch wenn die bahnbrechende Nutzungsidee eines veröffentlichten Datensatzes wahrscheinlich mittelfristig erst einmal weiter auf sich warten lässt? Zudem soll gemeinsam herausgefunden werden, welche Mechanismen genutzt werden können, um die Chancen der Öffnung, Verbreitung, des Austausches und Nutzens der Datenbestände zu verdeutlichen. Was lässt sich aus anderen Ländern, aber auch von anderen Modernisierungs- und Innovationsverfahren lernen? Wie können bestimmte Akteure - etwa aus Zivilgesellschaft und Wirtschaft - der Verwaltung bei der Verankerung von Open-Data-Prinizipien helfen?
 
 Der Workshop soll auch dazu dienen, das neue snv-Projekt **“Open Data & Privacy”** vorzustellen. Ferner soll er Akteure aus Zivilgesellschaft und Verwaltung zusammen bringen, um Hindernisse für Verwaltungsmitarbeiter klar zu identifizieren und über konkrete Lösungen zu diskutieren. Als Aufschlag dafür wird die stiftung neue verantwortung Ideen für einen niedrigschwelligen 10-Punkte-Leitfaden (“10 Dinge, die jeder für Open Data tun kann”) vorstellen.
-
-Wann? **23. Oktober 2015, 10.30 - 13.00 Uhr**
-
-Wo? **stiftung neue verantwortung, Beisheim Center, 5. OG
-Berliner Freiheit 2, 10785 Berlin – direkt am Potsdamer Platz**
 
 **Agenda**
 
@@ -45,5 +50,4 @@ Vorstellungsrunde
 Vorstellung eines 10-Punkte-Leitfadens zur Unterstützung der Datenöffnung seitens der Bundesverwaltung
 - 13 Uhr Imbiss
 
-Teilnahmeinteressenten können sich mit einer kurzen Notiz, warum sie an der Veranstaltung teilnehmen wollen, [hier melden](mailto:jmanske@stiftung-nv.de). Bitte haben Sie aber Verständnis, dass nur begrenzt Teilnehmer und Teilnehmerinnen aufgenommen werden können.
-
+Hier gibt es weitere Inforamtionen zur Veranstaltung: [http://www.stiftung-nv.de/veranstaltung/offene-daten-als-grundlage-moderner-verwaltung](http://www.stiftung-nv.de/veranstaltung/offene-daten-als-grundlage-moderner-verwaltung)
