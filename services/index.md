@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Services und Beratung
+title: Training, Beratung & Service
 menu_services: yes
 blacknav: yes
 blacklogo: yes
 background: backgrounds/beratung.jpg
 
 ---
-Heute werden mehr Daten erhoben als jemals zuvor. Viele dieser Daten sind bereits als offene Daten verfügbar und bieten so die Grundlage für neue Analysen und Erkenntnisse, für Transparenz und Rechenschaft, für bessere, weil Faktenbasierte Entscheidungen in Politik, Wirtschaft und Gesellschaft und nicht zuletzt für neue datengetriebene Produkte und Dienstleistungen. Gleichzeitig haben wir heute mehr und bessere Werkzeuge um Daten zu vergleichen, zu analysieren und zu teilen. Um effizient mit Daten zu arbeiten und diese nutzbar zu machen braucht man Know How und die entsprechenden Werkzeuge. 
+Heute werden mehr Daten erhoben als jemals zuvor. Viele dieser Daten sind bereits als offene Daten verfügbar und bieten so die Grundlage für neue Analysen und Erkenntnisse, für Transparenz und Rechenschaft, für bessere, weil Faktenbasierte Entscheidungen in Politik, Wirtschaft und Gesellschaft und nicht zuletzt für neue datengetriebene Produkte und Dienstleistungen. Gleichzeitig haben wir heute mehr und bessere Werkzeuge um Daten zu vergleichen, zu analysieren und zu teilen. Um effizient mit Daten zu arbeiten und diese nutzbar zu machen, braucht man Know-How und die entsprechenden Werkzeuge. 
 
-Durch die ständig wachsende Anzahl an datengetriebenen Arbeitsumfeldern gibt es einen immer größeren Bedarf an **Beratung**, **Training** und **Dienstleistungen** im **Umgang mit Daten**. Dieser Bedarf besteht bei Unternehmen und Verwaltungen ebenso so wie in Redaktionen oder bei zivilgesellschaftlichen Organisationen. Wir beraten Sie professionell und erarbeiten mit Ihnen für Ihre Organisation, Ihr Unternehmen oder Ihre Stadt eine abgestimmte Strategie wie Sie offene Daten und entsrechende Technologien gezielt einsetzen können.
+Durch die ständig wachsende Anzahl an datengetriebenen Arbeitsumfeldern gibt es einen immer größeren Bedarf an **Beratung**, **Training** und **Dienstleistungen** im **Umgang mit Daten**. Dieser Bedarf besteht bei Unternehmen und Verwaltungen ebenso so wie in Redaktionen oder bei zivilgesellschaftlichen Organisationen. Wir beraten Sie professionell und erarbeiten mit Ihnen für Ihre Organisation, Ihr Unternehmen oder Ihre Stadt eine abgestimmte Strategie, wie Sie offene Daten und entsrechende Technologien gezielt einsetzen können.
 
 Die **Open Knowledge Foundation Deutschland (OKF DE)** ist ein anerkannter Think and Do Tank und arbeitet seit Jahren mit einem internationalen Netzwerk an Expertinnen und Experten verschiedener Disziplienen. Gemeinsam helfen wir Regierungen auf nationaler wie kommunaler Ebene, zivilgesellschaftlichen Organisationen sowie Medienorganisationen und Journalistinnen mit offenen Daten zu arbeiten und diese für die Erreichung ihrer jeweiligen Ziele nutzbar zu machen.
 
