@@ -16,7 +16,9 @@ menu_projekte: yes
         <div class="row">
           {% if person %}
           <div class="col-xs-3">
+            {% if person.img %}
             <img src="{{ site.baseurl }}static/images/team/{{ person.img }}_square.jpg" alt="{{ person.name }}" class="img-circle" style="float:left;width: 64px;height:64px">
+            {% endif %}
           </div>
           {% endif %}
           <div class="col-xs-9">
