@@ -7,8 +7,25 @@ blacklogo: yes
 background: backgrounds/beratung.jpg
 
 ---
+Heute werden mehr Daten erhoben als jemals zuvor. Viele dieser Daten sind bereits als offene Daten verfügbar und bieten so die Grundlage für neue Analysen und Erkenntnisse, für Transparenz und Rechenschaft, für bessere, weil Faktenbasierte Entscheidungen in Politik, Wirtschaft und Gesellschaft und nicht zuletzt für neue datengetriebene Produkte und Dienstleistungen. Gleichzeitig haben wir heute mehr und bessere Werkzeuge um Daten zu vergleichen, zu analysieren und zu teilen. Um effizient mit Daten zu arbeiten und diese nutzbar zu machen braucht man Know How und die entsprechenden Werkzeuge. 
 
-Die Open Knowledge Foundation Deutschland (OKF DE) arbeitet gemeinsam mit Experten an der Öffnung von Daten und Wissen sowie an der Analyse und der Aufbereitung offener Inhalte. Die OKF DE fungiert dabei als einer der größten zivilgesellschaftlichen Ansprechpartner bei den Themen offenes Wissen und offene Daten in Deutschland.
+Durch die ständig wachsende Anzahl an datengetriebenen Arbeitsumfeldern gibt es einen immer größeren Bedarf an **Beratung**, **Training** und **Dienstleistungen** im **Umgang mit Daten**. Dieser Bedarf besteht bei Unternehmen und Verwaltungen ebenso so wie in Redaktionen oder bei zivilgesellschaftlichen Organisationen. Wir beraten Sie professionell und erarbeiten mit Ihnen für Ihre Organisation, Ihr Unternehmen oder Ihre Stadt eine abgestimmte Strategie wie Sie offene Daten und entsrechende Technologien gezielt einsetzen können.
+
+Die **Open Knowledge Foundation Deutschland (OKF DE)** ist ein anerkannter Think and Do Tank und arbeitet seit Jahren mit einem internationalen Netzwerk an Expertinnen und Experten verschiedener Disziplienen. Gemeinsam helfen wir Regierungen auf nationaler wie kommunaler Ebene, zivilgesellschaftlichen Organisationen sowie Medienorganisationen und Journalistinnen mit offenen Daten zu arbeiten und diese für die Erreichung ihrer jeweiligen Ziele nutzbar zu machen.
+
+Neben einer strategischen Baratung bieten wir ein weites Trainingsprogramm rund um Daten, vom Einsteiger- bis zum Expertenlevel. Die Kurse sind maßgeschneidert, Inhalte und Format wird auf Ihre Anforderungen abgestimmt. Als Partner der School of Data bieten wir etwa folgende Kurse (kleine Auswahl):
+
+* **Kompakte Einführung ins Thema (2-4 Stunden)**
+* **Kurs für Führungskräfte, Entscheidungsträger (1 Tag)**
+* **Offene Daten für Verwaltungen (2-5 Tage)**
+
+Ausserdem bieten wir die Konzeption und Entwicklung von maßgeschneiderter datengetriebener Software als Dienstleistung an.  
+
+Bei Interesse melden SIe sich einfach bei uns und wir etwickeln gemeinsam ein pasendes Angebot: [info@okfn.de](mailto:info@okfn.de)
+
+
+<!--         
+ Die Open Knowledge Foundation Deutschland (OKF DE) arbeitet gemeinsam mit Experten an der Öffnung von Daten und Wissen sowie an der Analyse und der Aufbereitung offener Inhalte. Die OKF DE fungiert dabei als einer der größten zivilgesellschaftlichen Ansprechpartner bei den Themen offenes Wissen und offene Daten in Deutschland.
 
 Durch die ständig wachsende Anzahl an datengetriebenen Arbeitsumfeldern gibt es einen immer größeren Bedarf an Beratung und Dienstleistungen im Umgang mit Daten. Dieser Bedarf besteht bei Unternehmen und Verwaltungen ebenso so wie in Redaktionen oder bei zivilgesellschaftlichen Organisationen.
 
@@ -56,4 +73,4 @@ Dieser Kurs richtet sich an nicht-technische Mitarbeiter, die in der künftigen 
 
 ### Inhalte
 
-Sie erfahren anhand erfolgreicher Praxisbeispiele, was offene Daten sind und wer von diesen Daten profitiert. Wir zeigen Ihnen, wie sie den Daten-Bedarf innerhalb und außerhalb Ihrer ermitteln. Daraus bekommen Sie Empfehlungen, welche Daten wesentlich sind und wie sie diese veröffentlichen. Der zweite Tag ist vor allem auf eine praktische Vertiefung ausgerichtet.
+Sie erfahren anhand erfolgreicher Praxisbeispiele, was offene Daten sind und wer von diesen Daten profitiert. Wir zeigen Ihnen, wie sie den Daten-Bedarf innerhalb und außerhalb Ihrer ermitteln. Daraus bekommen Sie Empfehlungen, welche Daten wesentlich sind und wie sie diese veröffentlichen. Der zweite Tag ist vor allem auf eine praktische Vertiefung ausgerichtet. -->
