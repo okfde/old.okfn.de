@@ -17,8 +17,9 @@ title: Einladung zum Workshop 'Offene Daten als Grundlage moderner Verwaltung' -
 type: post
 
 
----
 
+---
+<br>
 Behörden sammeln und aggregieren eine Vielzahl von Daten. Deren produktive Nutzung bietet für Wirtschaft und Zivilgesellschaft sowie für Bürgerinnen und Bürger unmittelbare Chancen. Das ist relativ unstrittig und wird breit diskutiert. Dabei gerät bisweilen das große Potenzial aus dem Blick, das ein intelligenter Umgang mit Daten für politische Entscheidungsprozesse und für das Verwaltungshandeln selbst eröffnet. Vielfach ist Behörden nicht bewusst, welche Chancen in den von ihnen verwalteten Daten stecken und wie sie nicht nur für die Allgemeinheit, sondern auch für ihre eigene Arbeit in Wert gesetzt werden können.  
 
 Mit dem Open-Data-Aktionsplan hat die Bundesregierung einen wichtigen Schritt unternommen, um den Weg für eine produktivere Nutzung von Regierungsdaten zu ebnen und erste Pilotprojekte zu starten. Unabhängig von ersten Erfolgen oder frustrierenden Misserfolgen einzelner Anwendungen kann sich ein systematischer Mehrwert offener Daten nur durch die strategische Öffnung und Nutzung zahlreicher Datensätze ergeben. Erst dann können interne Arbeitsprozesse optimiert und die Zusammenarbeit zwischen Behörden erleichtert werden. Auch sind qualitativ hochwertige Datenbestände eine gute Grundlage für politische Entscheidungen und für die politische Kommunikation. Um solch positive Effekte erzielen zu können, müssen Datensätze in Zukunft jedoch **strategisch** und nicht nur experimentell geöffnet und genutzt werden.
@@ -44,5 +45,5 @@ Vorstellungsrunde
 Vorstellung eines 10-Punkte-Leitfadens zur Unterstützung der Datenöffnung seitens der Bundesverwaltung
 - 13 Uhr Imbiss
 
-Teilnahmeinteressenten können sich mit einer kurzen Notiz, warum sie an der Veranstaltung teilnehmen wollen, [hier melden](mailto:jmanske@stiftung-nv.de). Bitte haben Sie aber Verständnis, dass wir nur begrenzt Teilnehmer und Teilnehmerinnen aufnehmen können.
+Teilnahmeinteressenten können sich mit einer kurzen Notiz, warum sie an der Veranstaltung teilnehmen wollen, [hier melden](mailto:jmanske@stiftung-nv.de). Bitte haben Sie aber Verständnis, dass nur begrenzt Teilnehmer und Teilnehmerinnen aufgenommen werden können.
 
