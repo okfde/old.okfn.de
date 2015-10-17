@@ -17,7 +17,7 @@ title: "Open Budget Survey: Bundeshaushalt kann noch transparenter werden"
 type: post
 
 ---
-
+<br>
 <i>Berlin, 15.10.2015</i> - Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
 
 Jedoch hat die Bevölkerung nur wenige Möglichkeiten, den Haushalt mitzugestalten. Es fehlt etwa auf Bundesebene ein Bürgerhaushalt, der die Grundlagen der Haushaltspolitik in einfacher Form darstellt. Im Bereich der öffentlichen Beteiligung bei Haushaltsdaten liegt das Ergebnis Deutschlands mit 23 von 100 möglichen Punkten unterhalb des Durchschnitts von 102 befragten Staaten und damit hinter Ländern wie Norwegen, den USA und Italien. 
