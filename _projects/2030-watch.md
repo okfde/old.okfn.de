@@ -1,7 +1,7 @@
 ---
 title: 2030-Watch
 subtitle: Deutschland wird nachhaltig
-img: projects/2030watch.png
+img: projects/2030-watch.png
 type: tool
 people:
   - name: Claudia Schwegmann
