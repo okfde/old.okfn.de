@@ -1,5 +1,5 @@
 ---
-author: Stefan Kaufmann
+author: Stefan Kaufmann und Walter Palmetshofer
 categories:
 - Featured
 - Transparency
