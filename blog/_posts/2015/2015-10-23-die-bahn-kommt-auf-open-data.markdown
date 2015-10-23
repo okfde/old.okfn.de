@@ -7,7 +7,7 @@ categories:
 date: 2015-10-23 15:25:00
 layout: post
 published: true
-status: public
+status: publish
 tags:
 - Deutschland
 - Nahverkehr
