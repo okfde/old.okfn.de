@@ -6,8 +6,8 @@ categories:
 - Open Government
 date: 2015-10-23 15:25:00
 layout: post
-published: false
-status: draft
+published: true
+status: public
 tags:
 - Deutschland
 - Nahverkehr
