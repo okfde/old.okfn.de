@@ -10,7 +10,10 @@ published: false
 status: draft
 tags:
 - Deutschland
-- Open Data
+- Nahverkehr
+- Open Transport
+- Deutsche Bahn
+- 
 title: "Die Bahn kommt… auf Open Data!" 
 type: post
 
