@@ -109,7 +109,7 @@
   bio: „Cat ist seit September Praktikantin bei der OKF DE. Gemeinsam mit Helene und Arne arbeitet sie an den Projekten „Coding Da Vinci“, „Energyhack“ und „Frag den Staat“, und kümmert sich dort um Daten, Technisches und Dokumentation. Sie hat einen Abschluss in Kognitiver Neurowissenschaft und studiert seit 2013 im Zweitstudium Medieninformatik an der HTW in Berlin.“
   mail: cat.spangehl@okfn.de
   twitter: kittycake
-  website: 
+  website:
   github: catcosmo
 
 - name: Walter Palmetshofer
@@ -152,11 +152,7 @@
   board: 0
   advisory: 0
   position:
-<<<<<<< HEAD
-  bio: "Knut arbeitet seit Februar 2015 als Entwickler bei der OKF DE. Er studiert Informatik an der TU Berlin und unterstützt unter anderem die Projekte Coding da Vinci und Jugend hackt."
-=======
   bio: "Knut arbeitet seit Februar 2015 als studentische Aushilfe bei der OKF DE. Er studiert Informatik an der TU Berlin und unterstützt verschiedene Projekte von der technischen Seite. Knut beschäftigt sich vor allem mit mobilen Anwendungen und Webentwicklung. Außerdem arbeitet er zurzeit im Projekt Mnemosyne, das es sich zur Aufgabe gemacht hat, Museumsbesuchern die Möglichkeit zu geben, Archive von kulturellen Institutionen neu zu entdecken."
->>>>>>> origin/team
   mail: knut.perseke@okfn.de
   twitter: knutator
   website:
@@ -176,7 +172,7 @@
   github:
 
 - name: Anna Alberts
-  title: 
+  title:
   img: annaalberts
   staff: 1
   board: 0
@@ -189,7 +185,7 @@
   github: annafralberts
 
 - name: Johanna zum Felde
-  title: 
+  title:
   staff: 1
   board: 0
   advisory: 0
@@ -201,8 +197,8 @@
   github:
 
 - name: Dominik Wurnig
-  title: 
-  img: 
+  title:
+  img:
   staff: 1
   board: 0
   advisory: 0
@@ -214,7 +210,7 @@
   github:
 
 - name: Mara Mendes
-  title: 
+  title:
   img: maramendes
   staff: 1
   board: 0
