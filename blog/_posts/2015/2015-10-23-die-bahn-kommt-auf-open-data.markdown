@@ -26,7 +26,7 @@ Die Open Knowledge Foundation ist erfreut, dass in einem ersten Schritt nun die 
 
 Hervorzuheben ist, dass der Veröffentlichungsprozess nach erklärtem Willen der DB nicht „von oben herab" vonstatten gehen soll. Stattdessen sollen sich Datenformate, Inhalte und API-Funktionalität an den Bedürfnissen der Community orientieren, die ausdrücklich zu Kommentierung und Feedback eingeladen ist.
 
-Stammdaten und API zu den Aufzügen sollen auch nicht die einzigen Daten der Bahn sein, die künftig unter Freier Lizenz verfügbar sind. Noch dieses Jahr soll mit einem eigenen Open-Data-Portal und einem weiteren [Hackathon in Berlin am 11. und 12. Dezember] (https://www.eventbrite.de/e/3rd-dbhackathon-commit-open-data-tickets-19270040209) der Grundstein für die Veröffentlichung weiterer Datensätze und deren Nutzung gelegt werden. Updates zum weiteren Vorgehen sind bereits für die kommende Woche angekündigt.
+Stammdaten und API zu den Aufzügen sollen auch nicht die einzigen Daten der Bahn sein, die künftig unter Freier Lizenz verfügbar sind. Noch dieses Jahr soll mit einem eigenen Open-Data-Portal und einem weiteren [Hackathon in Berlin am 11. und 12. Dezember](https://www.eventbrite.de/e/3rd-dbhackathon-commit-open-data-tickets-19270040209) der Grundstein für die Veröffentlichung weiterer Datensätze und deren Nutzung gelegt werden. Updates zum weiteren Vorgehen sind bereits für die kommende Woche angekündigt.
 
 ### Unternehmen Zukunft?
 
