@@ -60,8 +60,6 @@ Nachdem es auch Mapper*innen bei der Bahn gibt, ist der Vorschlag für die Erwei
 
 Da die DB dankenswerterweise den bewährten Weg gehen möchte, kleine Schritte in Absprache mit der Community zu gehen, anstatt große Würfe zu versuchen und am Ende ohne Flughafen dazustehen: Wir freuen uns über euren Input!
 
-*Zu den Autoren: [Stefan Kaufmann](http://stefan.bloggt.es/) ([Twitter](http://www.twitter.com/_stk)) mag Züge und braucht endlich eine Warnweste, damit er ohne Argwohn zu erregen nachts Bahnhofsfahrstuhlkabinen nachvermessen kann. 
-
-[Walter Palmetshofer](http://twitter.com/vavoida) arbeitet bei der OKF beim [ODINE Open Data Incubator for Europe](http://opendataincubator.eu/) Projekt und fährt gern mit Zügen durch die Landschaft.
-
+*Zu den Autoren: [Stefan Kaufmann](http://stefan.bloggt.es/) ([Twitter](http://www.twitter.com/_stk)) mag Züge und braucht endlich eine Warnweste, damit er ohne Argwohn zu erregen nachts Bahnhofsfahrstuhlkabinen nachvermessen kann.  
+[Walter Palmetshofer](http://twitter.com/vavoida) arbeitet bei der OKF beim [ODINE Open Data Incubator for Europe](http://opendataincubator.eu/) Projekt und fährt gern mit Zügen durch die Landschaft.  
 Titelbild: DB-Daten (Dreiecke) über der OSM. [OSM-Daten © OSM-Mitwirkende](https://www.openstreetmap.org/copyright/de)*
