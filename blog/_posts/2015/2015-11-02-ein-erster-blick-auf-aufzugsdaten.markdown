@@ -44,7 +44,7 @@ Egal, welche Koordinaten in welchem Format: Die Bahn hat aus den Fehlern Dritter
 
 ## Was fehlt
 
-![image alt text](image_0.png)
+![Lagetreue Aufzüge in Karlsruhe – aber nicht alle sind im DB-Datensatz mit Koordinaten!](http://okfn.de/files/blog/2015-11/RK.png)
 
 Neben den unterschiedlichen Pflegeständen bei Koordinaten und sonstigen Datenfeldern fehlen manche Angaben selbst bei vollständig erfassten Anlagen. Leider nur eingeschränkt sind beispielsweise Rückschlüsse auf die Barrierefreiheit der Aufzüge möglich. Über die Kabinenabmessungen und Türbemaßung – sofern vorhanden – lassen sich zwar Rückschlüsse auf die Eignung für Rollstuhlfahrer*innen [nach DIN 18040](http://nullbarriere.de/din-18040-1-aufzug.htm) ziehen. Informationen über taktile Bedienelemente, [Brailleschrift](http://wiki.openstreetmap.org/wiki/Key:tactile_writing) und Stockwerkansagen für blinde und sehgeschädigte Personen ([DIN EN 81-70](http://nullbarriere.de/aufzug-abmessung.htm)) sind jedoch momentan überhaupt nicht vorhanden. Auch fehlen Informationen, ob der Fahrstuhl durchgängig benutzt werden kann oder nur innerhalb bestimmter [Betriebszeiten](http://wiki.openstreetmap.org/wiki/DE:Key:opening_hours). 
 
@@ -64,4 +64,6 @@ Da die DB dankenswerterweise den bewährten Weg gehen möchte, kleine Schritte i
 
 *Zu den Autoren: [Stefan Kaufmann](http://stefan.bloggt.es/) ([Twitter](http://www.twitter.com/_stk)) mag Züge und braucht endlich eine Warnweste, damit er ohne Argwohn zu erregen nachts Bahnhofsfahrstuhlkabinen nachvermessen kann. 
 
-[Walter Palmetshofer](http://twitter.com/vavoida) arbeitet bei der OKF beim [ODINE Open Data Incubator for Europe](http://opendataincubator.eu/) Projekt und fährt gern mit Zügen durch die Landschaft.*
+[Walter Palmetshofer](http://twitter.com/vavoida) arbeitet bei der OKF beim [ODINE Open Data Incubator for Europe](http://opendataincubator.eu/) Projekt und fährt gern mit Zügen durch die Landschaft.
+
+Titelbild: DB-Daten (Dreiecke) über der OSM. [OSM-Daten © OSM-Mitwirkende](https://www.openstreetmap.org/copyright/de)*
