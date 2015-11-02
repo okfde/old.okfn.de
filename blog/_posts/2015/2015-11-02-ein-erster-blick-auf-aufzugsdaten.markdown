@@ -1,4 +1,3 @@
-
 ---
 author: Stefan Kaufmann und Walter Palmetshofer
 categories:
