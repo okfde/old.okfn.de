@@ -53,7 +53,7 @@ Wir warten auf weitere Daten – geben sollte es davon ja jede Menge. Wie die Vo
 
 Achja, unsere Datenbahn ist pünktlich: 
 
-Falls noch nicht online: Nutzer opendata und Passwort 0pendata, zwitschern die Vogerl aus Berlin, im Netz, hört man so… wir sind nicht schuld. Es gab Sekt. Prost!
+Falls noch nicht online: Nutzer opendata und Passwort 0pendata, zwitschern die Vogerl aus Berlin, im Netz, hört man so… Es gab Sekt. Prost!
 
 *Zu den Autoren: [Stefan Kaufmann](http://stefan.bloggt.es/) ([Twitter](http://www.twitter.com/_stk)) mag Züge und ist gespannt auf sämtliche Infrastrukturdaten zu 37.000 Kilometern Streckennetz noch im November.  
 [Walter Palmetshofer](http://twitter.com/vavoida) arbeitet bei der OKF beim [ODINE Open Data Incubator for Europe](http://opendataincubator.eu/) Projekt und fährt gern mit Zügen durch die Landschaft.  
