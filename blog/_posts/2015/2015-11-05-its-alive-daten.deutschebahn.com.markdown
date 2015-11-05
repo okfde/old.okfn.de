@@ -1,15 +1,12 @@
+---
 author: Stefan Kaufmann und Walter Palmetshofer
-
 categories:
 - Featured
 - Transparency
 - Open Government
-
 date: 2015-11-05 18:59:59
-
 image: 
   src : http://okfn.de/files/blog/2015-11/db_launch.jpg
-
 layout: post
 published: true
 status: publish
@@ -18,16 +15,12 @@ tags:
 - Nahverkehr
 - Open Transport
 - Deutsche Bahn
-
-- 
-
 title: "It's alive… data.deutschebahn.com" 
-
 type: post
 
+---
 <br>
-
-*Frankfurt, 05.11.2015* 19:00 Es ist hoch offizös. [http://data.deutschebahn.com](http://data.deutschebahn.com) ist online. Endlich. Sie bewegt sich doch.
+*Frankfurt, 05.11.2015* 19:00 Es ist hoch offiziös. [http://data.deutschebahn.com](http://data.deutschebahn.com) ist online. Endlich. Sie bewegt sich doch. Unternehmen Zukunft. Die Bahn kommt. Und alle so: Yeah.
 
 – Wie [unlängst angekündigt](http://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/) gibt es endlich ein Datenportal der Deutschen Bahn. Manche warteten ja ein gewisse Zeit drauf:
 
@@ -60,7 +53,7 @@ Wir warten auf weitere Daten – geben sollte es davon ja jede Menge. Wie die Vo
 
 Achja, unsere Datenbahn ist pünktlich: 
 
-Falls noch nicht online: Nutzer opendata und Passwort 0pendata, zwitschern die Vogerl aus Berlin, im Netz, hört man so ...
+Falls noch nicht online: Nutzer opendata und Passwort 0pendata, zwitschern die Vogerl aus Berlin, im Netz, hört man so… wir sind nicht schuld. Es gab Sekt. Prost!
 
 *Zu den Autoren: [Stefan Kaufmann](http://stefan.bloggt.es/) ([Twitter](http://www.twitter.com/_stk)) mag Züge und ist gespannt auf sämtliche Infrastrukturdaten zu 37.000 Kilometern Streckennetz noch im November.  
 [Walter Palmetshofer](http://twitter.com/vavoida) arbeitet bei der OKF beim [ODINE Open Data Incubator for Europe](http://opendataincubator.eu/) Projekt und fährt gern mit Zügen durch die Landschaft.  
