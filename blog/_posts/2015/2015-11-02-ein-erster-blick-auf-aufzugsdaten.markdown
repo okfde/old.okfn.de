@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-11-02 22:14:00
 image: 
-  src : http://okfn.de/files/blog/2015-11/RK.png
+  src: http://okfn.de/files/blog/2015-11/RK.png
 layout: post
 published: true
 status: publish
