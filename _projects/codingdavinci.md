@@ -1,8 +1,7 @@
 ---
 title: Coding da Vinci
 subtitle: Der Kultur-Hackathon
-type: featured
-featured: 1
+type: event
 img: projects/codingdavinci.jpg
 background: backgrounds/codingdavinci.jpg
 blacklogo: yes

@@ -2,7 +2,7 @@
 title: FragDenStaat.de
 subtitle: Das Informations&shy;freiheits&shy;portal
 type: featured
-featured: 4
+featured: 1
 img: projects/fragdenstaat.jpg
 background: backgrounds/folders.jpg
 blacklogo: yes
