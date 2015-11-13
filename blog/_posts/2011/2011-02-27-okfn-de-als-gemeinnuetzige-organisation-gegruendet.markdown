@@ -29,7 +29,7 @@ Anders als bei deutschen Vereinen üblich wird das Verhältnis zwischen den Bete
 
 Der Vorstand des Verein "Open Knowledge Foundation Deutschland" wird einen [Memorandum of understanding](http://bit.ly/okf-mou) (MOU) mit der OKF unterzeichnen. Dieses ist bindend und regelt die gegenseitigen Rechte und Pflichten. Ausserdem wird ein Mitglied des [OKF Board](http://okfn.org/about/people/#board-of-directors%20) (Rufus Pollock) im Vorstand der OKF Deutschland vertreten sein um eine inhaltliche Abstimmung und Kommunikation zu gewährleisten. Darüber hinaus soll sich die OKF Deutschland an den unter "[Governance](http://okfn.org/governance/)" formulierten Regeln für die OKF-Community orientieren.
 
-**Hier ist die [Satzung](http://okfn.de/about/statute/) und hier das [Mission Statement](http://okfn.de/about/mission/) der OKF Deutschland.**
+**Hier ist die [Satzung](../verein/satzung/) und hier das [Mission Statement](../mission/) der OKF Deutschland.**
 
 Für den Vorstand konnten wir gewinnen:
 
