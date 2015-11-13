@@ -2,8 +2,6 @@
 layout: page
 title: Training, Beratung & Service
 menu_services: yes
-blacknav: yes
-blacklogo: yes
 background: backgrounds/beratung.jpg
 
 ---

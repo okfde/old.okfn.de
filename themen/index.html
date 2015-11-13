@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Themen
 menu_themen: yes
 
@@ -8,28 +8,31 @@ menu_themen: yes
 {% assign themen = site.pages|where:"layout","thema"|sort:"title" %}
 
 <div class="lurking-header">
-  <h1>Themen</h1>
-  <p>Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind. Wir setzen uns dabei insbesondere für folgende Themen der digitalen Gesellschaft ein:</p>
-  <!-- <ul class="nav-list">
-    {% for thema in themen %}
-      <li>
-        <a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
-          {{ thema.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul> -->
+	<h1>Themen</h1>
+
+	<p>Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen
+		Menschenrechtskonvention verankert sind. Wir setzen uns dabei insbesondere für folgende Themen der digitalen Gesellschaft ein:</p>
 </div>
 
 {% for thema in themen %}
-    <div class="theme-item">
-      <div class="theme-background" {% if thema.background.size > 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}></div>
-      <a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}" class="container top-box col-md-7 col-center text-center">
-        <h2>{{ thema.title }}</h2>
-        <p>{{ thema.teaser }}</p>
-        <p>
-          <span class="highlight-link">mehr erfahren</span>
-        </p>
-      </a>
-    </div>
+<div class="themen-item">
+	<a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="themen-image" {% if thema.background.size> 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}></div>
+			</div>
+			<div class="col-md-8">
+				<h2>{{ thema.title }}</h2>
+
+				<p>{{ thema.teaser }}</p>
+
+				<p><span class="highlight-link">mehr erfahren</span></p>
+			</div>
+		</div>
+	</a>
+</div>
+{% unless forloop.last %}
+<hr />
+{% endunless %}
+
 {% endfor %}

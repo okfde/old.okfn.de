@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stellenangebote & Praktika
-menu_services: yes
+menu_jobs: yes
 background: backgrounds/services.jpg
 
 ---

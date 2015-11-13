@@ -1,27 +1,45 @@
 ---
 layout: page
 title: Impressum
-menu_services: yes
+menu_impressum: yes
 background: backgrounds/services.jpg
 
 ---
-
+    
 ### Vereinsadresse
 
 Open Knowledge Foundation Deutschland e.V.<br/>
-[Singerstr. 109
-10179 Berlin
-Deutschland](http://www.openstreetmap.org/way/29386807)
+Singerstr. 109<br/>
+10179 Berlin<br/>
+Deutschland<br/>
+<sub>[> OpenStreetMap](http://www.openstreetmap.org/way/29386807) 
+[> Google Maps](https://goo.gl/maps/aHBAbaCA35C2)</sub>
 
 
 Vereinsregister Nr: VR 30468 B<br/>
 Steuernummer: 27/674/52428<br/>
 VAT: DE278022128<br/>
 
-Kontakt:<br/>
-info@okfn.de<br/>
+### Kontakt:
+[info@okfn.de](mailto:info@okfn.de)<br/>
 +49 30 57703666-0<br/>
 Fax: +49 30 57703666-9
+
+### Weitere Kanäle:
+
+[Twitter](https://www.twitter.com/okfde)<br>
+[Facebook](https://www.facebook.com/okfde/)<br>
+[Github](https://www.github.com/okfde)<br>
+[Flickr](https://www.flickr.com/photos/okfde)<br>
+[Vimeo](https://vimeo.com/okfn)<br>
+[Youtube](https://www.youtube.com/channel/UCUD8EFjXzRN-wFUbVTYlDAw)<br>
+[Meetup](http://www.meetup.com/de/Open-Knowledge-Foundation-Deutschland-e-V/)<br>
+[Betterplace](https://www.betterplace.org/de/organisations/okfde/)<br>
+
+
+### Webseitendesign: 
+
+Andrej Sandorf, <a href="http://nadinestammen.de/">Nadine Stammen</a>, Felix Becker, <a href="http://stefanwehrmeyer.com/">Stefan Wehrmeyer</a>
 
 
 ### Haftungsausschluss
@@ -76,7 +94,7 @@ Sie können die Datenschutzerklärung jederzeit von jeder Seite dieses Interneta
 
 ### VII. Fragen und Auskunftsrecht
 
-Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit und kostenlos Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Auch haben Sie nach dem Bundesdatenschutzgesetz ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Sie können außerdem jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenn Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden Sie sich bitte jederzeit an info [at] okfn [dot] de.
+Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit und kostenlos Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Auch haben Sie nach dem Bundesdatenschutzgesetz ein Recht auf unentgeltliche Auskunft über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Sie können außerdem jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenn Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden Sie sich bitte jederzeit an [info@okfn.de](mailto:info@okfn.de).
 
 ### VIII. Sicherheitshinweis
 

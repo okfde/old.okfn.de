@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Verein
-menu_services: no
+menu_verein: yes
 background: backgrounds/services.jpg
 
 ---

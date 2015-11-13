@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presse
-menu_services: no
+menu_presse: yes
 background: backgrounds/services.jpg
 
 ---
@@ -11,7 +11,7 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 ## Ansprechpartner
 
 * Ansprechpartner/in: Julia Kloiber und Daniel Dietrich
-* E-Mail-Adresse: presse (at) okfn.de
+* E-Mail-Adresse: <a href="mailto:presse@okfn.de">presse@okfn.de</a>
 * Telefon: +49 30 57703666 2
 
 ## Logos und Material
