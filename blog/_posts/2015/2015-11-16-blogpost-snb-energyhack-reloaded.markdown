@@ -7,7 +7,7 @@ date: 2015-11-16 10:00:00
 image:
   src: http://okfn.de/files/blog/2015-11/ehr-intro.jpg
 layout: post
-published: false
+published: true
 status: publish
 tags:
 - offene Energiedaten
