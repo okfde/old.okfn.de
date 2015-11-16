@@ -45,35 +45,68 @@ Einleitende Worte von: oben: Thomas Schäfer (SNB), Cornel Pampu (SenWTF), unten
 Sechs Projekte wurden im Laufe des Tages entwickelt und von unserer Jury prämiert.
 In der Jury saßen: Elektra Wagenrad (Freifunk), Kristina Klein (OKFDE), Thomas Schäfer (SNB). Gewonnen haben: DistMsg (most technical, most energetic), SMS Gateway 3000 sowie Wie Lange Denn Jetzt? (Sonderpreis), Trinkwassernotbrunnen (best design). 
 
+An dieser Stelle stellen sich die Projekte kurz alphabetisch selbst vor. Sie können auch im [Hackdash verfolgt werden] (https://hackdash.org/dashboards/energyhack).
+
 ![Hackday](http://okfn.de/files/blog/2015-11/ehr-impressionen.png "Impressionen")
 Eindrücke des Hackdays, CC-BY Leonard Wolf, Energyhack Reloaded
 
 
-##### 01	DistMsg
+##### 01	Blackout Crate
 
-<iframe src="https://hackdash.org/embed/projects/5647481eb513015e0384c144" width="100%" height="450" frameborder="0" allowtransparency="true" title="Hackdash"></iframe>
+![Hackday](http://okfn.de/files/blog/2015-11/ehr-blackout-crate.png "Blackout Crate") CC-BY Dierk Eichel, Energyhack Reloaded
+
+Blackout Crate ist ein Survival Kit für Technik-Nerds, das sich aus Leuchtstäben, Astronautennahrung und u.a. einer Anleitung dafür, wie man sich gegen Zombies behaupten kann, zusammensetzt.
+
+##### 02	DistMsg
+
+![Hackday](http://okfn.de/files/blog/2015-11/ehr-distmsg.png "DistMsg") CC-BY Ansgar Schmidt, Pascal Esemann, Tobias Krischer, Anth0rx, Energyhack Reloaded
+
+Wie kann man untereinander bei einem Stromausfall in Kontakt bleiben und Ressourcen, die man zur Verfügung hat, tauschen?
+
+Hier ist das Projektszenario:
+Just the first hours after the power went off. A normal cow farm outside of Berlin. Several hundred cows and only 5 people taking care on the farm. Normally everything is hightly automated with ID tags and computer optimized feeding and milking systems. But without power the cows needs to be milked every single day or they die. The farmer uses our app on his mobile to write a "Help me to milk the cows and you get free food" broadcast message. 5 minutes later a car stops on the way to a hospital and the the driver buys milk. Without any interaction both mobiles exchanges the massages and the driver continues his way to the hospital. On his way he meets several other people and each time he spread out the massage. Arriving at the hospital he connects with the hostital DistMsg system. This acts as some kind of backbone and transport the massage via satelite, Hamradio, freifunk, you-name-it to other hubs. The message is broadcasted to 1000 of people within a very short time and hopefully also reaches several people with milking-skill.  
+
+##### 03	3D Energie-Daten
+
+![Hackday](http://okfn.de/files/blog/2015-11/ehr-3d-energie.png "3D Energie-Daten") CC-BY Thomas Tursics, Energyhack Reloaded
+
+Dieses Projekt nutzt Daten des Berliner 3D-Modells und ermittelt den unterschiedlichen Stromverbrauch von Stadtgebäuden, Bezirken und der gesamten Stadt. Zur Visualisierung werden Livedaten von Stromnetz Berlin genutzt. 
+
+Mit einem Cardboard könnte ein/e Nutzer/in auf diese Weise die Stadt aus einer Verbrauchsperspektive erkunden und gleichzeitig mehr darüber erfahren, wo und wie viel Strom am Tag verbraucht wird. Das Projekt macht Stromverbrauch nachvollziehbar.
+
+[Demo:] (http://kiez-karte.berlin/cardboard)
+
+##### 04	SMS Gateway 3000
+
+![Hackday](http://okfn.de/files/blog/2015-11/ehr-sms-gateway.png "SMS Gateway 3000") CC-BY Marc Rentschler, Viktor Bedö, Energyhack Reloaded
+
+Use SMS Gateway to connect yourself to others via SMS when internet is already down but when there still is GSM available.
+
+Post offers and requests of things needed during the blackout e.g. candles. On a server which is not affected by blackout algorithms match the requests and offers and connect the people to each other by sending them meeting locations and phone numbers. In addition server-side algorithms broadcast the SMS's content to internet services like Twitter so that people from outside the blackout are also connected and can help.
+
+##### 05	Trinkwassernotbrunnen
+
+![Hackday](http://okfn.de/files/blog/2015-11/ehr-trinkwassernotbrunnen.png "Trinkwassernotbrunnen") CC-BY Knut Hühne, Energyhack Reloaded
+
+Wenn der Strom weg ist brauchen wir Wasser. In Berlin haben wir zum Glück Trinkwassernotbrunnen, an denen die Bürger/innen selbst Wasser pumpen können.
+
+Die Karte nutzt die Voronoi-Darstellung, um die Einzugsgebiete der Berliner Trinkwasernotbrunnen darzustellen.
+Die erste Version besteht schon, zwei Schritte sollen noch Folgen: - das Einfärben der Polygone je nach Fläche, die sie versorgen - die Konvertierung und Einbindung der Daten vom Bezirksamt Friedrichshain/Kreuzberg
 
 
-##### 02	SMS Gateway 3000
+##### 06	Wie Lange Denn Jetzt?
 
-<iframe src="https://hackdash.org/embed/projects/56475990b513015e0384c14c?hide=prg,contrib,acnbar," width="100%" height="450" frameborder="0" allowtransparency="true" title="Hackdash"></iframe>
+![Hackday](http://okfn.de/files/blog/2015-11/ehr-wie-lange.png "Wie lange denn jetzt?") CC-BY Sebastian Reck, Energyhack Reloaded
 
-##### 03	Wie Lange Denn Jetzt?
+Wie praktisch wäre es, wenn mir mein Telefon in den letzten Sekunden stabiler Infrastruktur die nötigen Informationen darüber aufbereiten könnte, wie lange ich mich ohne Strom bespaßen müsste? Wie steht es um Familien mit Kindern oder Personen, die auf eine beheimatete medizinische Versorgung angewiesen sind?
 
-<iframe src="https://hackdash.org/embed/projects/564754dcb513015e0384c149?hide=acnbar,contrib,prg," width="100%" height="450" frameborder="0" allowtransparency="true" title="Hackdash"></iframe>
+Das Stichwort ist wohl Risikoabschätzung. Keiner kann garantieren, dass der Strom nach einer bestimmten Zeit wieder da ist, aber mit einer gewissen Wahrscheinlichkeit kann zumindest davon ausgegenagen werden. Anhand dieser Information können, zu Beginn des Wegfalls der Infrastruktur, Entscheidungen getroffen werden, die den Verlauf bis zur Reaktivierung bestimmen.
 
-##### 04	Trinkwassernotbrunnen
+Die Vermeidung von Panik sollte, aufgrund weggefallener Informationskanäle, zumindest angestrebt werden. Annahme: Bei einem 24h Stromausfall, verhalten sich die betroffenen Bürger ruhiger (länger ruhig), wenn Sie am Anfang der Periode über die (approximierte) Dauer informiert werden.
 
-<iframe src="https://hackdash.org/embed/projects/56474715b513015e0384c141?hide=prg,contrib,acnbar," width="100%" height="450" frameborder="0" allowtransparency="true" title="Hackdash"></iframe>
 
-##### 05	Blackout Crate
-
-<iframe src="https://hackdash.org/embed/projects/5647736bb513015e0384c14d?hide=acnbar,prg,contrib," width="100%" height="450" frameborder="0" allowtransparency="true" title="Hackdash"></iframe>
-
-##### 06	3D Energie-Daten
-
-<iframe src="https://hackdash.org/embed/projects/56474859b513015e0384c145?hide=prg,contrib,acnbar," width="100%" height="450" frameborder="0" allowtransparency="true" title="Hackdash"></iframe>
+-----------------------
 
 Alle Fotos vom Energyhack Reloaded kann man sich [hier anschauen](https://www.flickr.com/photos/okfde/albums/72157661134814526). Großes Danke an unseren Fotografen, Leonard Wolf.
 
-Wir bedanken uns bei allen Teilnehmenden für die spannenden Ideen!
+Wir bedanken uns bei allen Teilnehmenden für die spannenden Ideen und den schönen Hackday!
