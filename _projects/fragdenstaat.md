@@ -5,8 +5,6 @@ type: featured
 featured: 1
 img: projects/fragdenstaat.jpg
 background: backgrounds/folders.jpg
-blacklogo: yes
-blacknav: yes
 url: https://fragdenstaat.de
 people:
   - name: Arne Semsrott

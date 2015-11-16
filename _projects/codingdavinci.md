@@ -4,8 +4,6 @@ subtitle: Der Kultur-Hackathon
 type: event
 img: projects/codingdavinci.jpg
 background: backgrounds/codingdavinci.jpg
-blacklogo: yes
-blacknav: yes
 url: https://codingdavinci.de
 people:
   - name: Helene Hahn
