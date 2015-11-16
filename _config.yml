@@ -31,4 +31,5 @@ paginate: 8
 paginate_path: blog/page/:num/
 
 sass:
-  style: compressed
+    sass_dir: static/style/_scss
+    style: compressed
