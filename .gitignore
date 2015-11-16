@@ -3,5 +3,6 @@ _site/
 __posts/
 *.DS_Store
 .jekyll-metadata
-
+*.css.map
 Gemfile.lock
+.sass-cache/
