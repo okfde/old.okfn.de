@@ -35,6 +35,6 @@ In einer gut funktionierenden, demokratischen Gesellschaft müssen die Bürgerin
 
 Wenn Du auf der Suche nach detaillierten, praktischen Ratschlägen bist, die zeigen wie man Daten öffnen kann, dann schau Dir das [Open Data Handbuch](http://opendatahandbook.org/de/how-to-open-up-data/index.html) an. Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
 
-## Mehr erfahren oder gleich für die Öffnung Daten einsetzen?
+### Mehr erfahren oder gleich für die Öffnung Daten einsetzen?
 
 Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/okfn-de) der Open Knowledge Foundation oder [kontaktiere uns direkt](mailto:info@okfn.de).

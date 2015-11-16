@@ -7,3 +7,12 @@ menu_themen: yes
 <div class="lurking-header">
   {{ content }}
 </div>
+<hr />
+<h3 class="subtle-section">Weitere Themen</h3>
+{% assign themen = site.pages|where:"layout","thema"|sort:"title" %}
+{% for thema in themen %}
+{% if thema.title != page.title %}
+<a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}"><p>{{ thema.title }}</p></a>
+{% endif %}
+{% endfor %}
+

@@ -2,14 +2,11 @@
 layout: default
 title: Themen
 menu_themen: yes
-
 ---
-
 {% assign themen = site.pages|where:"layout","thema"|sort:"title" %}
 
 <div class="lurking-header">
 	<h1>Themen</h1>
-
 	<p>Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen
 		Menschenrechtskonvention verankert sind. Wir setzen uns dabei insbesondere für folgende Themen der digitalen Gesellschaft ein:</p>
 </div>
@@ -17,11 +14,11 @@ menu_themen: yes
 {% for thema in themen %}
 <div class="themen-item">
 	<a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
-		<div class="row">
-			<div class="col-md-4">
+		<div class="row flex-row">
+			<div class="col-md-4 flex-col themen-image-col">
 				<div class="themen-image" {% if thema.background.size> 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}></div>
 			</div>
-			<div class="col-md-8">
+			<div class="col-md-8 themen-col">
 				<h2>{{ thema.title }}</h2>
 
 				<p>{{ thema.teaser }}</p>
@@ -31,8 +28,4 @@ menu_themen: yes
 		</div>
 	</a>
 </div>
-{% unless forloop.last %}
-<hr />
-{% endunless %}
-
 {% endfor %}

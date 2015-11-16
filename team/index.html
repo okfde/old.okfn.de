@@ -16,12 +16,7 @@ menu_team: yes
   </p>
 </div>
 
-<div class="container">
-
-
 {% for person in staff %}
   {% assign order=forloop.index0|modulo:2 %}
   {% include person.html person=person order=order %}
 {% endfor %}
-
-</div>

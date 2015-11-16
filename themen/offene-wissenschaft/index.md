@@ -15,9 +15,11 @@ redirect_from: "/open-science/"
 
 Für den Bereich Wissenschaft konstituierte sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Open Science Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Open Science fungieren.
 
-## Mehr erfahren oder gleich für die Öffnung von Wissenschaft und Forschung aktiv werden?
+### Mehr erfahren oder gleich für die Öffnung von Wissenschaft und Forschung aktiv werden?
 
 Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-de) der Open Science AG oder [kontaktiere uns direkt](mailto:info@okfn.de).
+
+---
 
 ## Mission Statement der deutschsprachigen Open Science AG
 

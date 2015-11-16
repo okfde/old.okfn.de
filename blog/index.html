@@ -6,30 +6,30 @@ background: backgrounds/folders.jpg
 ---
 
 <div class="lurking-header">
-  <h2>Blog</h2>
+	<h2>Blog</h2>
+	<p class="text-center">
+		<a href="{{ site.baseurl }}atom.xml" title="RSS Feed abonnieren"><i class="icon-rss-squared"></i> mit dem Feedreader abonnieren</a>
+	</p>
 </div>
 
-<div class="full-box">
-  {% for post in paginator.posts %}
-    {% include post_preview.html post=post %}
-  {% endfor %}
+{% for post in paginator.posts %}
+{% include post_preview.html post=post %}
+{% endfor %}
 
-    <ul class="list-unstyled blog-pagination">
-    {% if paginator.previous_page %}
-      <li>
-        {% if paginator.previous_page == 1 %}
-          <a href="{{ site.baseurl }}blog/">&laquo;</a>
-        {% else %}
-          <a href="{{ site.baseurl }}{{ paginator.previous_page_path|replace_first:'/','' }}">&laquo;</a>
-        {% endif %}
-      </li>
-    {% endif %}
+<ul class="list-unstyled blog-pagination">
+	{% if paginator.previous_page %}
+	<li>
+		{% if paginator.previous_page == 1 %}
+		<a href="{{ site.baseurl }}blog/">&laquo;</a>
+		{% else %}
+		<a href="{{ site.baseurl }}{{ paginator.previous_page_path|replace_first:'/','' }}">&laquo;</a>
+		{% endif %}
+	</li>
+	{% endif %}
 
-    {% if paginator.next_page %}
-      <li>
-        <a href="{{ site.baseurl }}{{ paginator.next_page_path|replace_first:'/','' }}">&raquo;</a>
-      </li>
-    {% endif %}
-    </ul>
+	{% if paginator.next_page %}<li><a href="{{ site.baseurl }}{{ paginator.next_page_path|replace_first:'/','' }}">&raquo;</a></li>{% endif %}
+</ul>
 
+<div class="text-center">
+{% include pagination.html %}
 </div>

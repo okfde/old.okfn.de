@@ -1,18 +1,17 @@
 {% assign person=include.person %}
-<div class="row" id="{{ person.name | slugify | uri_escape }}">
-  <div class="col-md-4 col-xs-12">
-    <div class="box person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{{ person.img }}.jpg')">
-    </div>
+<div class="row flex-row person" id="{{ person.name | slugify | uri_escape }}">
+  <div class="person-image-col col-md-4 col-xs-12 flex-col">
+    <div class="person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{% if person.img %}{{ person.img }}{% else %}silhouette{% endif %}.jpg')"></div>
   </div>
-  <div class="col-xs order-{{ include.order }}">
-    <div class="box box-inner">
+  <div class="person-col col-md-8 col-xs-12 order-{{ include.order }}">
+    <div>
       <h3>{% if person.title.size > 0 %}{{ person.title }} {% endif %}{{ person.name }}</h3>
       {% if person.bio.size > 0 %}
         {{ person.bio | markdownify }}
       {% endif %}
       <dl class="icon-list">
       {% if person.twitter %}
-        <dt><i class="icon-twitter-1"></i></dt>
+        <dt><i class="icon-twitter"></i></dt>
         <dd>
           <a href="https://twitter.com/{{ person.twitter }}">{{ person.twitter }}</a>
         </dd>

@@ -1,55 +1,41 @@
 <footer class="hidden-print">
-  <div class="footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-10">
-          <ul class="footer-links">
-            <li>
-              <a href="{{ site.baseurl }}team/">Team</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}vorstand/">Vorstand</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}verein/">Verein</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}presse/">Presse</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}jobs/">Jobs</a>
-            </li>
-            <li>
-              <a href="{{ site.baseurl }}impressum/">Impressum</a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-2">
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-10 nav-items">
+					<ul>
+						<li{% if page.menu_team %} class="active"{% endif %}><a href="{{ site.baseurl }}team/">Team</a></li>
+						<li{% if page.menu_vorstand %} class="active"{% endif %}><a href="{{ site.baseurl }}vorstand/">Vorstand</a></li>
+						<li{% if page.menu_verein %} class="active"{% endif %}><a href="{{ site.baseurl }}verein/">Verein</a></li>
+						<li{% if page.menu_presse %} class="active"{% endif %}><a href="{{ site.baseurl }}presse/">Presse</a></li>
+						<li{% if page.menu_jobs %} class="active"{% endif %}><a href="{{ site.baseurl }}jobs/">Jobs</a></li>
+						<li{% if page.menu_impressum %} class="active"{% endif %}><a href="{{ site.baseurl }}impressum/">Impressum</a></li>
+					</ul>
+				</div>
+				<div class="col-md-2 nav-items nav-items-right">
+					<ul>
+						<li><a href="https://twitter.com/okfde" title="OKF auf Twitter"><i class="icon-twitter"></i></a></li>
+						<li><a href="https://github.com/okfde" title="OKF auf Github"><i class="icon-github"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
 
-          <a href="https://twitter.com/okfde"><i class="icon-twitter-1"></i></a>
-
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="cellar">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <p>
-            Open Knowledge Foundation Deutschland e.V. ist ein eingetragener
-            Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite
-            sind, sofern nicht anders angegeben, nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert.
-          </p>
-          <p>
-            Webseitendesign: <a href="http://nadinestammen.de/">Nadine Stammen</a>, Felix Becker, <a href="http://stefanwehrmeyer.com/">Stefan Wehrmeyer</a>
-        </div>
-        <div class="col-md-3 col-md-offset-1">
-            <a href="{{ site.baseurl }}">
-              <img src="{{site.staticurl}}images/logo_footer.png" alt="Open Knowldege Foundation Deutschland e.V.">
-            </a>
-        </div>
-      </div>
-    </div>
-  </div>
+	<div class="cellar">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<p>
+						Open Knowledge Foundation Deutschland e.V. ist ein eingetragener
+						Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite
+						sind, sofern nicht anders angegeben, nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert.
+					</p>
+				</div>
+				<div class="col-md-3 col-md-offset-1">
+					<a href="{{ site.baseurl }}"><img src="{{site.staticurl}}images/logo_footer.png" alt="Open Knowldege Foundation Deutschland e.V."></a>
+				</div>
+			</div>
+		</div>
+	</div>
 </footer>

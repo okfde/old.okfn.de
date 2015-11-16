@@ -41,7 +41,7 @@ menu_projekte: yes
       </dd>
     {% endif %}
     {% if page.contact.twitter %}
-      <dt><i class="icon-twitter-1"></i></dt>
+      <dt><i class="icon-twitter"></i></dt>
       <dd>
         <a href="https://twitter.com/{{ page.contact.twitter }}">
           {{ page.contact.twitter }}
@@ -69,10 +69,12 @@ menu_projekte: yes
   </dl>
 </div>
 
+<hr />
+
 <h3 class="subtle-section">Weitere Projekte</h3>
 <div class="row">
-  <div class="col-xs-offset-2 col-xs-8">
-    <div class="row">
+  <div class="col-md-offset-2 col-md-8">
+    <div class="row flex-row">
       {% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
       {% assign count = 0 %}
       {% for project in projects limit:4 %}

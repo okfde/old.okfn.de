@@ -1,0 +1,19 @@
+<header>
+	<a class="header-logo" href="{{site.baseurl}}">
+		<div class="header-logo-img">
+			<img class="logo" src="{{ site.staticurl }}images/logo_white.png" alt="Open Knowledge Foundation Deutschland" />
+		</div>
+		<span class="header-brand-full">Open Knowledge Foundation Deutschland</span>
+		<span class="header-brand-small">OKF DE</span>
+	</a>
+	<nav class="header-nav nav-items">
+		<ul>
+			<li{% if page.menu_themen %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}themen/">Themen</a></li>
+			<li{% if page.menu_projekte %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}projekte/">Projekte</a></li>
+			<li{% if page.menu_blog %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}blog/">Blog</a></li>
+			<li{% if page.menu_services %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}services/">Services</a></li>
+			<li{% if page.menu_spenden %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}spenden/">Spenden</a></li>
+		</ul>
+	</nav>
+	<a id="cd-menu-trigger" href><span class="cd-menu-text">Mehr</span><span class="cd-menu-icon"></span></a>
+</header>

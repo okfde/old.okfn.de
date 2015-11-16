@@ -1,14 +1,20 @@
 {% assign post=include.post %}
-<div class="post-list-item">
-  <a href="{{ site.baseurl }}{{ post.url|replace_first:'/','' }}">
-    {% if post.image %}
-      <img src="{{ post.image.src }}" alt="{{ post.title }}"/>
-    {% endif %}
-    <h3 class="post-title">
-        {{ post.title|truncatewords:10 }}
-    </h3>
-    <p class="post-meta">von {{ post.author }} am {{ post.date | date:"%d.%m.%Y" }}</p>
-    {{ post.teaser | truncate:140 }}
-  </a>
-  <hr/>
-</div>
+<article class="row post-item">
+	<div class="post-meta col-md-2">
+		{% if post.image %}<img class="post-img" src="{{ post.image.src }}" alt="{{ post.title }}"/>{% endif %}
+		<div class="post-author">
+			<p>{{ post.date | date:"%d.%m.%Y" }}</p>
+			<p>von {{ post.author }}</p>
+		</div>
+	</div>
+	<div class="post-teaser col-md-10">
+		<ul class="post-tags">
+			{% for tag in post.tags %}
+			<li><span class="badge">{{ tag }}</span></li>
+			{% endfor %}
+		</ul>
+		<h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		<p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 50}}</p>
+		<p class="post-more"><a href="{{ post.url }}">ganzer Artikel</a></p>
+	</div>
+</article>

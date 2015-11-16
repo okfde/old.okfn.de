@@ -15,6 +15,6 @@ Richtig umgesetzt wird Open Government deshalb mittel- bis langfristig eine nach
 
 Wir unterstützen diesbezüglich u.a. internationale Bemühungen wie die [Open Government Partnership](http://www.opengovpartnership.org/).
 
-## Mehr erfahren oder gleich für die Open Government einsetzen?
+### Mehr erfahren oder gleich für die Open Government einsetzen?
 
 Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/okfn-de) der Open Knowledge Foundation, informiere dich beim [Arbeitskreis Open Government Partnership](http://www.opengovpartnership.de/) oder [kontaktiere uns direkt](mailto:info@okfn.de).
