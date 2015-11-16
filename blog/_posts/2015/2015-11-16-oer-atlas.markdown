@@ -6,7 +6,7 @@ categories:
 - Open Knowledge
 date: 2015-11-16 11:00:56
 image:
-  src : https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Going_open_%28education%29_-_Cover_page.jpg/1024px-Going_open_%28education%29_-_Cover_page.jpg
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Going_open_%28education%29_-_Cover_page.jpg/1024px-Going_open_%28education%29_-_Cover_page.jpg
 layout: post
 published: true
 status: publish
@@ -18,7 +18,7 @@ type: post
 
 
 ---
-
+<br>
 Für den OER-Atlas 2016 werden Projekte, Akteure und Angebote zum Thema Open Educational Resources gesammelt. Als Open Educational Resources, kurz OER, werden Lern- und Lehrmaterialien bezeichnet, die kostenlos genutzt, verbreitet und bearbeitet werden dürfen. Als eine Art Jahrbuch nimmt der OER-Atlas alle deutschsprachigen Angebote im Bereich freier Lehr- und Lernmittel auf. Die Daten zu Akteuren und Projekten werden im vierten Quartal 2015 in Zusammenarbeit mit dem OER World Map-Projekt des Hochschulbibliothekszentrums NRW (hbz) erhoben. Die Ergebnisse werden parallel in der interaktiven Datenbank der OER World Map auf [oerworldmap.org](oerworldmap.org) und als Buch veröffentlicht. Noch bis zum 02.12.2015 können sich alle Projekte und Organisationen rund um offene Lehr-Lern-Inhalte, über die Webseite [www.o-e-r.de/16/cfp](http://www.o-e-r.de/16/cfp) eintragen .
 
 Jan Neumann ist der Koordinator des OER-Atlas’ 2016. Er sagt, der OER-Atlas möchte einen Überblick über die OER-Landschaft im deutschsprachigen Raum bieten: „Das Ziel ist es, eine „Art Gelbe Seiten” für OER zu erstellen, also eine systematische Darstellung aller im deutschsprachigen Raum verfügbaren OER-Angebote.”
@@ -34,4 +34,4 @@ Das Festival besteht aus den vier Komponenten OER-Atlas, OERcamp, OER-Fachforum 
 
 Mehr Informationen gibt es im Internet unter [o-e-r.de/16](http://o-e-r.de/16/)
 
-<em>Disclamer:</em>Open Knowledge Foundation Deutschland e.V. ist offizieller Unterstützer des OER-Festival 2016.
+<em>Disclamer:</em>Open Knowledge Foundation Deutschland e.V. ist offizieller Unterstützer des OER-Festival 2016. <br><em>Bildrechte:</em> [CC BY-SA 3.0 von Jtneill](https://commons.wikimedia.org/wiki/User:Jtneill)
