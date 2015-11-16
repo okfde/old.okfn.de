@@ -1,15 +1,6 @@
 <nav id="cd-lateral-nav">
 	<ul class="cd-navigation">
-		<!--<li class="item-has-children{% if page.menu_themen %} active{% endif %}">-->
-		<li{% if page.menu_themen %} class="active"{% endif %}><a href="{{ site.baseurl }}themen/">Themen</a>
-			<ul class="sub-menu" style="display: none;">
-			<li><a href="/about/objectives/">Objectives</a></li>
-			<li><a href="/about/technical-structure/">Technical structure</a></li>
-			<li><a href="/about/work-packages/">Work Packages</a></li>
-			<li><a href="/about/deliverables/">Deliverables</a></li>
-			<li><a href="/about/partners/">Partners</a></li>
-			</ul>
-		</li>
+		<li{% if page.menu_themen %} class="active"{% endif %}><a href="{{ site.baseurl }}themen/">Themen</a></li>
 		<li{% if page.menu_projekte %} class="active"{% endif %}><a href="{{ site.baseurl }}projekte/">Projekte</a></li>
 		<li{% if page.menu_blog %} class="active"{% endif %}><a href="{{ site.baseurl }}blog/">Blog</a></li>
 		<li{% if page.menu_services %} class="active"{% endif %}><a href="{{ site.baseurl }}services/">Services</a></li>
