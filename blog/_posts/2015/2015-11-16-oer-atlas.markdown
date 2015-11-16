@@ -25,7 +25,7 @@ Jan Neumann ist der Koordinator des OER-Atlas’ 2016. Er sagt, der OER-Atlas m�
 
 <strong>Warum sollten OER-Akteure am Atlas teilnehmen?</strong>
 
-Wenn jede Person oder Organisation, die im OER-Bereich aktiv ist, sowohl in der OER World Map als auch im OER-Atlas vertreten ist, hat dies laut Neumann zufolge eine Reihe ganz unterschiedlicher Vorteile: „Erstens können Lehrende und Lernende die für sie passenden OER-Quellen dann leichter finden. Zweitens können OER-Initiativen schneller ähnliche Projekte finden, etwa um Projektergebnisse besser nutzen und Erfahrungen austauschen zu können. Und schließlich können auf diesem Wege Entscheidungsträger im Bildungsbereich mit aussagekräftigen Statistiken zum Thema versorgt werden, sodass sie mehr Entscheidungen zugunsten von OER treffen und diese auch besser vertreten können. Das Team des OER-Atlas’ benötigt deshalb dringend die Unterstützung OER-schaffender Akteure, die zeitnah ihre Daten auf der Call for Participation-Seite des OER-Festivals www.o-e-r.de/16/cfp eintragen sollen. „Das Verfahren ist nicht ganz unaufwändig, wird sich aber lohnen”, so Neumann.
+Wenn jede Person oder Organisation, die im OER-Bereich aktiv ist, sowohl in der OER World Map als auch im OER-Atlas vertreten ist, hat dies laut Neumann zufolge eine Reihe ganz unterschiedlicher Vorteile: „Erstens können Lehrende und Lernende die für sie passenden OER-Quellen dann leichter finden. Zweitens können OER-Initiativen schneller ähnliche Projekte finden, etwa um Projektergebnisse besser nutzen und Erfahrungen austauschen zu können. Und schließlich können auf diesem Wege Entscheidungsträger im Bildungsbereich mit aussagekräftigen Statistiken zum Thema versorgt werden, sodass sie mehr Entscheidungen zugunsten von OER treffen und diese auch besser vertreten können.
 
 <strong>#OERde16 – das OER-Festival 2016</strong>
 
@@ -34,4 +34,4 @@ Das Festival besteht aus den vier Komponenten OER-Atlas, OERcamp, OER-Fachforum 
 
 Mehr Informationen gibt es im Internet unter [o-e-r.de/16](http://o-e-r.de/16/)
 
-<em>Disclamer:</em>Open Knowledge Foundation Deutschland e.V. ist offizieller Unterstützer des OER-Festival 2016. <br><em>Bildrechte:</em> [CC BY-SA 3.0 von Jtneill](https://commons.wikimedia.org/wiki/User:Jtneill)
+<em>Disclamer:</em> Open Knowledge Foundation Deutschland e.V. ist offizieller Unterstützer des OER-Festival 2016. <br><em>Bildrechte:</em> [CC BY-SA 3.0 von Jtneill](https://commons.wikimedia.org/wiki/User:Jtneill)
