@@ -26,7 +26,7 @@ type: post
 
 Ziel des Hackdays war es, in einem experimentellen Rahmen Projektideen zu entwickelt, um die Gesellschaft stärker für die Themen zu sensibilisieren und Anwendungen für den Ernstfall zu entwickeln. Die Projekte und Diskussionen zwischen den Entwickler/innen und Energie-Expert/innen sollten zu neuen Anregungen für innovative Lösungsansätze führen.
 
-Deutschlandradio berichtete ausführlich in der Sendung Computer und Kommunikation über den Hackday mit offenen Energiedaten. [Reinhören lohnt sich!] (https://soundcloud.com/dlf-wissenschaft/apps-furs-e-werk-der-energy-reloaded-hackathon-in-berlin) (Dauer: 20min)
+Deutschlandradio berichtete ausführlich in der Sendung Computer und Kommunikation über den Hackday mit offenen Energiedaten. [Reinhören lohnt sich!](https://soundcloud.com/dlf-wissenschaft/apps-furs-e-werk-der-energy-reloaded-hackathon-in-berlin) (Dauer: 20min)
 
 <blockquote class="twitter-tweet" lang="th"><p lang="de" dir="ltr">Apps fürs E-Werk <a href="https://t.co/cJ6lfdyXt4">https://t.co/cJ6lfdyXt4</a> <a href="https://twitter.com/DLF">@DLF</a> Sdg. v. Energy-Reloaded <a href="https://twitter.com/hashtag/Hackathon?src=hash">#Hackathon</a> <a href="https://twitter.com/hashtag/stromnetzberlin?src=hash">#stromnetzberlin</a>     <a href="https://twitter.com/EnergyHackB">@EnergyHackB</a> <a href="https://t.co/Uy8Z4ckP3M">pic.twitter.com/Uy8Z4ckP3M</a></p>&mdash; Wissenschaft (@DLF_Forschung) <a href="https://twitter.com/DLF_Forschung/status/666150812285038593">16 พฤศจิกายน 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -45,7 +45,7 @@ Einleitende Worte von: oben: Thomas Schäfer (SNB), Cornel Pampu (SenWTF), unten
 Sechs Projekte wurden im Laufe des Tages entwickelt und von unserer Jury prämiert.
 In der Jury saßen: Elektra Wagenrad (Freifunk), Kristina Klein (OKFDE), Thomas Schäfer (SNB). Gewonnen haben: DistMsg (most technical, most energetic), SMS Gateway 3000 sowie Wie Lange Denn Jetzt? (Sonderpreis), Trinkwassernotbrunnen (best design). 
 
-An dieser Stelle stellen sich die Projekte kurz alphabetisch selbst vor. Sie können auch im [Hackdash verfolgt werden] (https://hackdash.org/dashboards/energyhack).
+An dieser Stelle stellen sich die Projekte kurz alphabetisch selbst vor. Sie können auch im [Hackdash verfolgt werden](https://hackdash.org/dashboards/energyhack).
 
 ![Hackday](http://okfn.de/files/blog/2015-11/ehr-impressionen.png "Impressionen")
 Eindrücke des Hackdays, CC-BY Leonard Wolf, Energyhack Reloaded
@@ -74,7 +74,7 @@ Dieses Projekt nutzt Daten des Berliner 3D-Modells und ermittelt den unterschied
 
 Mit einem Cardboard könnte ein/e Nutzer/in auf diese Weise die Stadt aus einer Verbrauchsperspektive erkunden und gleichzeitig mehr darüber erfahren, wo und wie viel Strom am Tag verbraucht wird. Das Projekt macht Stromverbrauch nachvollziehbar.
 
-[Demo:] (http://kiez-karte.berlin/cardboard)
+[Demo:](http://kiez-karte.berlin/cardboard)
 
 #### 04	SMS Gateway 3000
 
