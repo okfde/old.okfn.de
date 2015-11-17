@@ -82,16 +82,6 @@ body {
   line-height: 1.4em;
   font-size: 18px;
   background-color: $okf-background;
-
-  @include MQ-S() {
-    background-color: blue;
-  }
-  @include MQ-M() {
-    background-color: green;
-  }
-  @include MQ-L() {
-    background-color: red;
-  }
 }
 
 html, body {
