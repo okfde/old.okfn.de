@@ -47,16 +47,16 @@ menu_blog: yes
         <div class="{% if cols == 2 %}col-md-6{% else %}cols-md-12{% endif %}">
 			<a href="{{ site.baseurl }}{{ page.previous.url |replace_first:'/',''}}">
           <h3 class="subtle-section"><i class="icon-left-open"></i> Vorheriger Beitrag</h3>
-				</a>
-          {% include post_preview_small.html post=page.previous %}
+	      {% include post_preview_small.html post=page.previous %}
+            </a>
         </div>
       {% endif %}
       {% if page.next.url %}
         <div class="{% if cols == 2 %}col-md-6{% else %}cols-md-12{% endif %}">
           <a href="{{ site.baseurl }}{{ page.next.url |replace_first:'/',''}}">
           	<h3 class="subtle-section">Nächster Beitrag <i class="icon-right-open"></i></h3>
-		  </a>
-          {% include post_preview_small.html post=page.next %}
+	      {% include post_preview_small.html post=page.next %}
+          </a>
         </div>
       {% endif %}
     </div>

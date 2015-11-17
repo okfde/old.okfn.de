@@ -82,6 +82,16 @@ body {
   line-height: 1.4em;
   font-size: 18px;
   background-color: $okf-background;
+
+  @include MQ-S() {
+    background-color: blue;
+  }
+  @include MQ-M() {
+    background-color: green;
+  }
+  @include MQ-L() {
+    background-color: red;
+  }
 }
 
 html, body {
@@ -97,6 +107,51 @@ h1, h2, h3, h4 {
   margin-bottom: 15px;
   margin-top: 15px;
   letter-spacing: 2px;
+}
+
+#main-content {
+  font-size: 14px;
+  h1 {
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+  h2 {
+    font-size: 16px;
+    word-wrap: break-word;
+  }
+  h3 {
+    font-size: 14px;
+    word-wrap: break-word;
+  }
+
+  @include MQ-S() {
+    font-size: 16px;
+    h1 {
+      font-size: 28px;
+      word-wrap: normal;
+    }
+    h2 {
+      font-size: 22px;
+      word-wrap: normal;
+    }
+    h3 {
+      font-size: 18px;
+      word-wrap: normal;
+    }
+  }
+
+  @include MQ-M() {
+    font-size: 18px;
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      font-size: 30px;
+    }
+    h3 {
+      font-size: 24px;
+    }
+  }
 }
 
 a {
@@ -140,6 +195,10 @@ header {
   width: 100%;
   background: $okf-header-color;
   z-index: $header-zindex;
+
+  &.fixed {
+    position: fixed;
+  }
 
   /* Force Hardware Acceleration in WebKit */
   -webkit-transform: translateZ(0);
@@ -233,7 +292,7 @@ header {
     }
   }
 
-  #cd-menu-trigger {
+  #sidebar-trigger {
     position: absolute;
     right: 0;
     top: 0;
@@ -304,7 +363,6 @@ header {
       display: none;
     }
   }
-
 }
 
 .nav-items {
@@ -376,7 +434,7 @@ header {
 
 }
 
-#cd-main-content {
+#main-content {
   /* set a min-height and a z-index to be sure that the main element completely covers the lateral menu */
   min-height: 100%;
   position: relative;
@@ -402,15 +460,19 @@ header {
   }
 }
 
-#cd-lateral-nav {
+#sidebar {
   position: fixed;
   height: 100%;
   right: 0;
-  top: 0;
+  top: $header-S;
   visibility: hidden;
 
+  @include MQ-M() {
+    top: $header-M;
+  }
+
   /* the secondary navigation is covered by the main element */
-  z-index: $secondary-nav; // see partials > _variables.scss
+  z-index: $secondary-nav;
 
   width: 260px;
   background-color: $okf-sidebar-color;
@@ -467,9 +529,6 @@ header {
 
 }
 
-#main-container {
-}
-
 .navbar-okfn {
   border: 0;
   background-size: cover;
@@ -477,7 +536,7 @@ header {
   font-family: $primary-font-family;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 16px;
+  //font-size: 16px;
   letter-spacing: 2px;
   text-align: center;
   background-color: $okf-primary;
@@ -500,16 +559,16 @@ header {
     margin: 0 auto;
     text-align: center;
     color: #fff;
-    font-size: 24px;
+    //font-size: 24px;
     padding: 40px 0;
 
   }
 
   @include MQ-M() {
 
-    .header-headline {
-      font-size: 3em;
-    }
+    //.header-headline {
+    //  font-size: 3em;
+    //}
 
     > .container {
       background-image: none;
@@ -550,8 +609,8 @@ header {
   }
 
   .logo-cellar {
-    width:170px;
-    height:auto;
+    width: 170px;
+    height: auto;
   }
 
 }
@@ -606,7 +665,6 @@ header {
   overflow: hidden;
 }
 
-
 .row-flex, .row-flex > div[class*='col-'] {
   @include flexbox();
   @include flex(0, 0, auto);
@@ -622,11 +680,11 @@ header {
 }
 
 .row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
-  margin:-.2px; /* hack adjust for wrapping */
+  margin: -.2px; /* hack adjust for wrapping */
 }
 
-.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
-  width:100%;
+.container-flex > div[class*='col-'] div, .row-flex > div[class*='col-'] div {
+  width: 100%;
 }
 
 .flex-col {
@@ -646,7 +704,7 @@ header {
   display: block;
   background-color: #fff;
   margin: -150px auto 2em;
-  padding: 15px 60px 40px;
+  padding: 15px 20px 40px;
   width: 100%;
   position: relative;
   min-height: 1px;
@@ -657,6 +715,10 @@ header {
 
   h2 {
     margin-top: 50px;
+  }
+
+  @include MQ-M() {
+    padding: 15px 60px 40px;
   }
 }
 
@@ -807,6 +869,8 @@ header {
 
     .themen-col {
       text-align: left;
+      padding-left: 30px;
+      padding-right: 30px;
     }
   }
 }
@@ -1021,15 +1085,6 @@ header {
 
 .post {
 
-  h1 {
-    font-size: 20px;
-    word-wrap: break-word;
-  }
-  h2 {
-    font-size: 16px;
-    word-wrap: break-word;
-  }
-
   .post-meta {
     font-size: 0.8em;
     color: $light-text-color;
@@ -1077,26 +1132,12 @@ header {
   }
 
   @include MQ-S() {
-    h1 {
-      font-size: 24px;
-      word-wrap: normal;
-    }
-    h2 {
-      font-size: 18px;
-      word-wrap: normal;
-    }
     .post-image-full {
       height: 200px;
     }
   }
 
   @include MQ-M() {
-    h1 {
-      font-size: 36px;
-    }
-    h2 {
-      font-size: 30px;
-    }
     .post-image-full {
       height: 400px;
     }

@@ -134,7 +134,7 @@
 		};
 	};
 
-	var animateLogos = function(){
+	var animateLogos = function () {
 		var logos = document.getElementsByClassName('logo');
 		for (var i = 0; i < logos.length; i += 1) {
 			if (logos[i].naturalWidth !== 0) {
@@ -145,37 +145,27 @@
 		}
 	};
 
-	var $lateral_menu_trigger = $('#cd-menu-trigger'),
-		$content_wrapper = $('#cd-main-content'),
-		$navigation = $('header');
-
 	//open-close lateral menu clicking on the menu icon
-	$lateral_menu_trigger.on('click', function (event) {
+	$('#sidebar-trigger').on('click', function (event) {
 		event.preventDefault();
-		$lateral_menu_trigger.toggleClass('is-clicked');
-		$navigation.toggleClass('lateral-menu-is-open');
-		$content_wrapper.toggleClass('lateral-menu-is-open').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function () {
+		$('#sidebar-trigger').toggleClass('is-clicked');
+		$('header').toggleClass('lateral-menu-is-open');
+		$('#main-content').toggleClass('lateral-menu-is-open').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function () {
 			// firefox transitions break when parent overflow is changed, so we need to wait for the end of the transition to give the body an overflow hidden
 			$('body').toggleClass('overflow-hidden');
 		});
-		$('#cd-lateral-nav').toggleClass('lateral-menu-is-open');
+		$('#sidebar').toggleClass('lateral-menu-is-open');
 		//check if transitions are not supported - i.e. in IE9
 		if ($('html').hasClass('no-csstransitions')) {
 			$('body').toggleClass('overflow-hidden');
 		}
 	});
 
-
 	var fix_window = function () {
-		var h = $('.navbar-okfn').height()
-				+ $('footer').height()
-				+ $('header').height()+
-				30; //footer margin-top
-		console.log('all',window.innerHeight,
-				'nav',$('.navbar-okfn').height(),
-				'foo',$('footer').height(),
-				'head',$('header').height(),
-				'min', (window.innerHeight - h) + 'px');
+		var h = $('.navbar-okfn').height() //if any
+			+ $('footer').height()
+			+ $('header').height() +
+			30; //footer margin-top
 		$('#main-container').css('min-height', (window.innerHeight - h) + 'px');
 	};
 
