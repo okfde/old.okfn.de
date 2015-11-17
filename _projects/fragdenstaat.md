@@ -1,6 +1,6 @@
 ---
 title: FragDenStaat.de
-subtitle: Das Informations&shy;freiheits&shy;portal
+subtitle: Das Informationsfreiheitsportal
 type: featured
 featured: 1
 img: projects/fragdenstaat.jpg
