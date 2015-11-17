@@ -134,14 +134,16 @@
 		};
 	};
 
-	var logos = document.getElementsByClassName('logo');
-	for (var i = 0; i < logos.length; i += 1) {
-		if (logos[i].naturalWidth !== 0) {
-			animateLogo(logos[i]);
-		} else {
-			logos[i].onload = animateThis(logos[i]);
+	var animateLogos = function(){
+		var logos = document.getElementsByClassName('logo');
+		for (var i = 0; i < logos.length; i += 1) {
+			if (logos[i].naturalWidth !== 0) {
+				animateLogo(logos[i]);
+			} else {
+				logos[i].onload = animateThis(logos[i]);
+			}
 		}
-	}
+	};
 
 	var $lateral_menu_trigger = $('#cd-menu-trigger'),
 		$content_wrapper = $('#cd-main-content'),
@@ -153,7 +155,7 @@
 		$lateral_menu_trigger.toggleClass('is-clicked');
 		$navigation.toggleClass('lateral-menu-is-open');
 		$content_wrapper.toggleClass('lateral-menu-is-open').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function () {
-			// firefox transitions break when parent overflow is changed, so we need to wait for the end of the trasition to give the body an overflow hidden
+			// firefox transitions break when parent overflow is changed, so we need to wait for the end of the transition to give the body an overflow hidden
 			$('body').toggleClass('overflow-hidden');
 		});
 		$('#cd-lateral-nav').toggleClass('lateral-menu-is-open');
@@ -161,6 +163,27 @@
 		if ($('html').hasClass('no-csstransitions')) {
 			$('body').toggleClass('overflow-hidden');
 		}
+	});
+
+
+	var fix_window = function () {
+		var h = $('.navbar-okfn').height()
+				+ $('footer').height()
+				+ $('header').height()+
+				30; //footer margin-top
+		console.log('all',window.innerHeight,
+				'nav',$('.navbar-okfn').height(),
+				'foo',$('footer').height(),
+				'head',$('header').height(),
+				'min', (window.innerHeight - h) + 'px');
+		$('#main-container').css('min-height', (window.innerHeight - h) + 'px');
+	};
+
+	fix_window();
+	animateLogos();
+
+	$(window).on("resize", function () {
+		fix_window();
 	});
 
 }());

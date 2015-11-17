@@ -74,7 +74,7 @@ menu_projekte: yes
 <h3 class="subtle-section">Weitere Projekte</h3>
 <div class="row">
   <div class="col-md-offset-2 col-md-8">
-    <div class="row flex-row">
+    <div class="row row-flex row-flex-wrap">
       {% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
       {% assign count = 0 %}
       {% for project in projects limit:4 %}

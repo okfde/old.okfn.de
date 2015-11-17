@@ -1,9 +1,9 @@
 {% assign person=include.person %}
-<div class="row flex-row person" id="{{ person.name | slugify | uri_escape }}">
-  <div class="person-image-col col-md-4 col-xs-12 flex-col">
+<div class="row person" id="{{ person.name | slugify | uri_escape }}">
+  <div class="person-image-col col-md-4">
     <div class="person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{% if person.img %}{{ person.img }}{% else %}silhouette{% endif %}.jpg')"></div>
   </div>
-  <div class="person-col col-md-8 col-xs-12 order-{{ include.order }}">
+  <div class="person-col col-md-8 order-{{ include.order }}">
     <div>
       <h3>{% if person.title.size > 0 %}{{ person.title }} {% endif %}{{ person.name }}</h3>
       {% if person.bio.size > 0 %}
