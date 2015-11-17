@@ -1,35 +1,32 @@
 ---
 ---
 
-@import 'bootstrap.css';
+@import 'fontello.scss';
+@import 'latolatinfonts.scss';
+@import 'bootstrap.scss';
 @import 'pagination.scss';
 @import 'mixins.scss';
-@import '../fonts/fontello/fontello.css';
-@import '../fonts/LatoLatin/latolatinfonts.css';
+@import 'flex.scss';
+
+// font
+
+$primary-font-family: 'LatoLatinWeb', 'Helvetica', sans-serif;
+
+// colors
 
 $okf-background: #f5f4e9;
 $okf-primary: rgb(122, 184, 80);
 $okf-secondary: rgb(78, 99, 97);
 $okf-tertiary: rgb(3, 134, 165);
 $okf-quartinary: rgb(29, 165, 197);
+$okf-header-color: #4e6361; // green dark
+$okf-sidebar-color: #242e30; // green darker
+
 $dark-text-color: #112233;
 $light-text-color: #535b63;
-$lightest-text-color: lighten(#535b63, 40%);
-
-$primary-font-family: 'LatoLatinWeb', 'Helvetica', sans-serif;
-
-$min-width: 768px;
-$screen-md: 992px;
-$grid-margin: 15px;
-
-// colors
-
+$lightest-text-color: #aab5b7;
 $main-text: #4e6361; // main text
 $link: #6cac70; // anchor tags
-
-$color-1: #4e6361; // green dark
-$color-2: #242e30; // green darker
-$color-3: #aab5b7; // green light
 
 // z-index
 
@@ -45,6 +42,8 @@ $header-M: 90px;
 $header-logo-M: 75px;
 
 // screensize breakpoints
+
+$grid-margin: 15px;
 
 $S: 480px;
 $M: 768px;
@@ -71,7 +70,8 @@ $L: 1170px;
 // general
 
 html * {
-  -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: subpixel-antialiased;
+  //-webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
@@ -138,7 +138,7 @@ header {
   left: 0;
   height: $header-S;
   width: 100%;
-  background: $color-1;
+  background: $okf-header-color;
   z-index: $header-zindex;
 
   /* Force Hardware Acceleration in WebKit */
@@ -239,7 +239,7 @@ header {
     top: 0;
     height: 100%;
     width: 50px;
-    background-color: lighten($color-1, 10%);
+    background-color: lighten($okf-header-color, 10%);
 
     .cd-menu-text {
       height: 100%;
@@ -376,6 +376,148 @@ header {
 
 }
 
+#cd-main-content {
+  /* set a min-height and a z-index to be sure that the main element completely covers the lateral menu */
+  min-height: 100%;
+  position: relative;
+  z-index: $content-zindex;
+
+  //we assign a top padding since the header is in position absolute or fixed
+  padding-top: $header-S;
+
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+
+  @include transition-property(transform);
+  @include transition-duration(.4s);
+
+  &.lateral-menu-is-open {
+    /* translate to show the lateral menu - all content needs to be put in the .cd-main-content to translate*/
+    @include transform(translateX(-260px));
+  }
+
+  @include MQ-M() {
+    padding-top: $header-M;
+  }
+}
+
+#cd-lateral-nav {
+  position: fixed;
+  height: 100%;
+  right: 0;
+  top: 0;
+  visibility: hidden;
+
+  /* the secondary navigation is covered by the main element */
+  z-index: $secondary-nav; // see partials > _variables.scss
+
+  width: 260px;
+  background-color: $okf-sidebar-color;
+
+  overflow-y: auto;
+
+  /* Force Hardware Acceleration in WebKit */
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+
+  -webkit-transition: -webkit-transform .4s 0s, visibility 0s .4s;
+  -moz-transition: -moz-transform .4s 0s, visibility 0s .4s;
+  transition: transform .4s 0s, visibility 0s .4s;
+
+  /* this creates the subtle slide in animation of the navigation */
+  @include transform(translateX(80px));
+
+  .cd-navigation {
+    list-style: none;
+    margin: 10px 0 16px;
+    padding-left: 0;
+
+    @include MQ-M() {
+      margin: 20px 0;
+    }
+
+    a {
+      display: block;
+      line-height: 2em;
+      padding: 0 16px 0 32px;
+      color: $lightest-text-color;
+
+      &:hover {
+        color: #FFF;
+      }
+    }
+
+    li.active > a {
+      color: #FFF;
+      background-color: lighten($okf-sidebar-color, 2%);
+    }
+  }
+
+  &.lateral-menu-is-open {
+    @include transform(translateX(0));
+    visibility: visible;
+    -webkit-transition: -webkit-transform .4s 0s, visibility 0s 0s;
+    -moz-transition: -moz-transform .4s 0s, visibility 0s 0s;
+    transition: transform .4s 0s, visibility 0s 0s;
+
+    /* smooth the scrolling on touch devices - webkit browsers */
+    -webkit-overflow-scrolling: touch;
+  }
+
+}
+
+#main-container {
+}
+
+.navbar-okfn {
+  border: 0;
+  background-size: cover;
+  margin-bottom: 0;
+  font-family: $primary-font-family;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-align: center;
+  background-color: $okf-primary;
+  border-radius: 0;
+  min-height: 200px;
+  padding-bottom: 0;
+
+  > .container {
+    background: rgba(0, 0, 0, 0);
+    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(50%, rgba(0, 0, 0, 0.5)), color-stop(100%, rgba(0, 0, 0, 0.5)));
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
+    background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
+    background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
+  }
+
+  .header-headline {
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    padding: 40px 0;
+
+  }
+
+  @include MQ-M() {
+
+    .header-headline {
+      font-size: 3em;
+    }
+
+    > .container {
+      background-image: none;
+    }
+  }
+
+}
+
 .footer {
   background-color: $okf-primary;
   margin: 30px auto 0;
@@ -411,7 +553,6 @@ header {
 .highlight-link {
   display: inline-block;
   line-height: 2em;
-  margin: 0.5em 0;
   border: 2px solid $okf-primary;
   padding: 0.5em;
   text-align: center;
@@ -422,10 +563,6 @@ header {
     text-decoration: none;
     color: darken($okf-primary, 20%);
     border-color: darken($okf-primary, 20%);
-  }
-
-  @include MQ-M() {
-    margin: 0.5em;
   }
 }
 
@@ -463,36 +600,40 @@ header {
   overflow: hidden;
 }
 
-.flex-row {
-  box-sizing: border-box;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 1 auto;
-  -ms-flex: 0 1 auto;
-  flex: 0 1 auto;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+
+.row-flex, .row-flex > div[class*='col-'] {
+  @include flexbox();
+  @include flex(0, 0, auto);
+}
+
+.row-flex-wrap {
+  @include flex-dir(row);
+  @include flex-wrap(wrap);
+  -webkit-flex-flow: row wrap;
+  align-content: flex-start;
+  @include flex(0);
+  //flex:0;
+}
+
+.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
+  margin:-.2px; /* hack adjust for wrapping */
+}
+
+.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
+  width:100%;
 }
 
 .flex-col {
-  box-sizing: border-box;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
+  @include flexbox();
+  @include flex(1, 100%, auto);
+  @include flex-dir(column);
+  @include flex-wrap(nowrap);
+}
+
+.flex-grow {
   display: flex;
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 0 auto;
-  -ms-flex: 0 0 auto;
-  flex: 0 0 auto;
+  -webkit-flex: 2;
+  flex: 2;
 }
 
 .lurking-header {
@@ -637,35 +778,31 @@ header {
 //themen page
 
 .themen-item {
-  margin-top: 2.5em;
-  margin-bottom: 2.5em;
-
-  .row {
-    background-color: #fff;
-  }
-
-  > a:hover, > a:hover p {
-    text-decoration: none;
-    color: $dark-text-color;
-  }
+  background-color: #fff;
+  margin-bottom: 40px;
 
   .themen-image {
+    background-position: center 0;
     background-size: auto 100%;
     background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    min-height: 140px;
-    vertical-align: middle;
-  }
-
-  .themen-image-col {
-    padding: 0;
+    background-color: transparent;
+    min-height: 200px;
+    min-width: 200px;
   }
 
   .themen-col {
-    padding: 30px;
+    text-align: center;
   }
 
+  @include MQ-M() {
+    @include flexbox();
+    @include flex(0, 0, auto);
+    @include flex-dir(row);
+
+    .themen-col {
+      text-align: left;
+    }
+  }
 }
 
 //projekte page
@@ -763,9 +900,8 @@ header {
     background-repeat: no-repeat;
     background-color: transparent;
     min-height: 200px;
-    height: 100%;
+    min-width: 200px;
     width: 100%;
-    margin-bottom: -2 * $grid-margin;
     padding: 0;
   }
 
@@ -773,14 +909,19 @@ header {
     padding: 15px;
   }
 
-  @include MQ-M() {
+  @include MQ-L() {
+    @include flexbox();
+    @include flex(0, 0, auto);
+    @include flex-dir(row);
 
     .person-image-col {
+      @include flexbox();
       padding-top: 0;
       padding-bottom: 0;
     }
 
     .person-col {
+      @include flexbox();
       padding-left: 30px;
       padding-right: 30px;
     }
@@ -788,7 +929,11 @@ header {
     .order-1 {
       order: -1;
     }
+    //.person-col {
+    //  text-align: left;
+    //}
   }
+
 }
 
 // blog page
@@ -975,180 +1120,6 @@ header {
 
   .row {
     padding-bottom: 20px;
-  }
-
-}
-
-/* --------------------------------
-
--------------------------------- */
-
-/* --------------------------------
-
-Main components
-
--------------------------------- */
-
-#cd-main-content {
-  /* set a min-height and a z-index to be sure that the main element completely covers the lateral menu */
-  min-height: 100%;
-  position: relative;
-  z-index: $content-zindex;
-
-  //we assign a top padding since the header is in position absolute or fixed
-  padding-top: $header-S;
-
-  /* Force Hardware Acceleration in WebKit */
-  -webkit-transform: translateZ(0);
-  -webkit-backface-visibility: hidden;
-
-  @include transition-property(transform);
-  @include transition-duration(.4s);
-
-  &.lateral-menu-is-open {
-    /* translate to show the lateral menu - all content needs to be put in the .cd-main-content to translate*/
-    @include transform(translateX(-260px));
-  }
-
-  @include MQ-M() {
-    padding-top: $header-M;
-  }
-}
-
-#cd-lateral-nav {
-  position: fixed;
-  height: 100%;
-  right: 0;
-  top: 0;
-  visibility: hidden;
-
-  /* the secondary navigation is covered by the main element */
-  z-index: $secondary-nav; // see partials > _variables.scss
-
-  width: 260px;
-  background-color: $color-2;
-
-  overflow-y: auto;
-
-  /* Force Hardware Acceleration in WebKit */
-  -webkit-transform: translateZ(0);
-  -webkit-backface-visibility: hidden;
-
-  -webkit-transition: -webkit-transform .4s 0s, visibility 0s .4s;
-  -moz-transition: -moz-transform .4s 0s, visibility 0s .4s;
-  transition: transform .4s 0s, visibility 0s .4s;
-
-  /* this creates the subtle slide in animation of the navigation */
-  @include transform(translateX(80px));
-
-  .cd-navigation {
-    list-style: none;
-    margin: 10px 0 16px;
-    padding-left: 0;
-
-    @include MQ-M() {
-      margin: 20px 0;
-    }
-
-    a {
-      display: block;
-      line-height: 2em;
-      padding: 0 16px 0 32px;
-      color: $color-3;
-
-      &:hover {
-        color: #FFF;
-      }
-    }
-
-    li.active > a {
-      color: #FFF;
-      background-color: lighten($color-2, 2%);
-    }
-  }
-
-  &.lateral-menu-is-open {
-    @include transform(translateX(0));
-    visibility: visible;
-    -webkit-transition: -webkit-transform .4s 0s, visibility 0s 0s;
-    -moz-transition: -moz-transform .4s 0s, visibility 0s 0s;
-    transition: transform .4s 0s, visibility 0s 0s;
-
-    /* smooth the scrolling on touch devices - webkit browsers */
-    -webkit-overflow-scrolling: touch;
-  }
-
-}
-
-.nav > li > a:hover, .nav > li > a:focus {
-  background-color: transparent;
-}
-
-.nav > li.active > a {
-  font-weight: 500;
-}
-
-.navbar-okfn {
-  border: 0px;
-  background-size: cover;
-  margin-bottom: 0;
-  font-family: $primary-font-family;
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 16px;
-  letter-spacing: 2px;
-  text-align: center;
-  background-color: $okf-primary;
-  border-radius: 0px;
-  min-height: 200px;
-
-  > .container {
-    background: rgba(0, 0, 0, 0);
-    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(50%, rgba(0, 0, 0, 0.5)), color-stop(100%, rgba(0, 0, 0, 0.5)));
-    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
-    background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
-    background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.5) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#000000', GradientType=0);
-  }
-
-  &.default-background > .container {
-    background: none;
-  }
-
-  .header-headline {
-    margin: 0 auto;
-    text-align: center;
-    color: #fff;
-    font-size: 24px;
-    padding: 40px 0;
-  }
-
-  @media (min-width: $min-width) {
-    .header-headline {
-      font-size: 3em;
-      //padding: 170px 0 0;
-    }
-  }
-
-  @media (min-width: $min-width) {
-    padding-bottom: 5rem;
-    > .container {
-      background-image: none;
-    }
-
-    .nav {
-      padding-right: 0px;
-    }
-    .nav > li > a:hover, .nav > li > a:focus {
-      background-color: transparent;
-    }
-
-    > li > a {
-      padding-top: 48px;
-      padding-bottom: 5px;
-    }
   }
 
 }
