@@ -860,6 +860,8 @@ header {
 
   .themen-col {
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
 
   @include MQ-M() {
