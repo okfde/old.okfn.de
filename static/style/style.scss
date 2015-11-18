@@ -1170,3 +1170,17 @@ header {
   }
 
 }
+
+.related-post {
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 30px 30px 20px;
+  ul {
+    list-style: none;
+
+    li {
+      margin-top: 4px;
+    }
+
+  }
+}

@@ -34,6 +34,37 @@ menu_blog: yes
   <div class="post-content">{{ content }}</div>
 </div>
 
+
+
+{% assign postsTitlesArray = '' | split:':' %}
+
+{% for post in site.related_posts%}
+{% for tag in page.tags %}
+{% unless tag == 'Deutschland' %}
+{% if post.tags contains tag %}
+{% if postsTitlesArray contains post %}
+{% else %}
+{% assign postsTitlesArray = postsTitlesArray | push: post %}
+{% endif %}
+{% endif %}
+{% endunless %}
+{% endfor %}
+{% endfor %}
+
+{% assign thesize = postsTitlesArray.size %}
+{% unless thesize=='0' %}
+<div class="row related-post post">
+  <div class="col-md-12">
+    <h3>Verwandte Beiträge</h3>
+    <ul>
+      {% for post in postsTitlesArray | limit:3 %}
+      <li><a href="{{ site.baseurl }}{{ post.url|replace_first:'/',''|replace_first:'index.html',''}}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endunless %}
+
 <div class="row broad-header post">
   {% if page.previous.url and page.next.url %}
     {% assign cols=2 %}
