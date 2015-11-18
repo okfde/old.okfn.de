@@ -605,6 +605,16 @@ header {
 
 }
 
+.avatar-col {
+  min-width: 72px;
+}
+
+.avatar {
+  float:left;
+  width: 64px;
+  height:64px;
+}
+
 .highlight-link {
   display: inline-block;
   line-height: 2em;
