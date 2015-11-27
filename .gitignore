@@ -6,3 +6,4 @@ __posts/
 *.css.map
 Gemfile.lock
 .sass-cache/
+.idea/
