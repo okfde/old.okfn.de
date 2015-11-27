@@ -78,7 +78,7 @@ Mit einem Cardboard könnte ein/e Nutzer/in auf diese Weise die Stadt aus einer 
 
 #### 04	SMS Gateway 3000
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-sms-gateway.png "SMS Gateway 3000") </br> CC-BY Marc Rentschler, Viktor Bedö, Energyhack Reloaded
+![Hackday](http://okfn.de/files/blog/2015-11/ehr-sms-gateway.jpg "SMS Gateway 3000") </br> CC-BY Marc Rentschler, Viktor Bedö, Energyhack Reloaded
 
 Use SMS Gateway to connect yourself to others via SMS when internet is already down but when there still is GSM available.
 

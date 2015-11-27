@@ -19,7 +19,7 @@ type: post
 
 ---
 <br>
-Ein neues internationales Abkommen für eine bessere Welt? Neue globale Ziele für eine nachhaltige, gerechte Zukunft für alle? Und wie kann ich deren tatsächliche Umsetzung im Blick behalten? Für die kürzlich von den Vereinten Nationen (UN) verabschiedeten [Ziele zur nachhaltigen Entwicklung (Sustainable Developments - SDGs)](http://menschliche-entwicklung-staerken.dgvn.de/menschliche-entwicklung/ziele-fuer-nachhaltige-entwicklung-sdgs/) haben wir uns mit dem neuen [OKF DE Projekt 2030-Watch](http://www.2030-watch.de/) etwas ausgedacht.
+Ein neues internationales Abkommen für eine bessere Welt? Neue globale Ziele für eine nachhaltige, gerechte Zukunft für alle? Und wie kann ich deren tatsächliche Umsetzung im Blick behalten? Für die kürzlich von den Vereinten Nationen (UN) verabschiedeten [Ziele zur nachhaltigen Entwicklung (Sustainable Development Goals - SDGs)](http://menschliche-entwicklung-staerken.dgvn.de/menschliche-entwicklung/ziele-fuer-nachhaltige-entwicklung-sdgs/) haben wir uns mit dem neuen [OKF DE Projekt 2030-Watch](http://www.2030-watch.de/) etwas ausgedacht.
 
 ![image](http://okfn.de/files/blog/2015-11/2030-watch-screenshot.png)
 
