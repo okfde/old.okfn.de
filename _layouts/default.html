@@ -6,11 +6,11 @@
   {% if page.home %}
   <title>Open Knowledge Foundation Deutschland</title>
   {% else %}
-  <title>{{ page.title }} &gt; Open Knowledge Foundation Deutschland</title>
+  <title>{% t page.title %} &gt; Open Knowledge Foundation Deutschland</title>
   {% endif %}
   <meta name="description" content="{{ page.description }}"/>
   <link href="{{ site.staticurl }}style/style.css" rel='stylesheet' type='text/css'>
-  <link rel="alternate" type="application/atom+xml" title="Blog der Open Knowledge Foundation Deutschland." href="{{ site.baseurl }}atom.xml"/>
+  <link rel="alternate" type="application/atom+xml" title="Blog der Open Knowledge Foundation Deutschland." href="{{ site.baseurl_root }}/atom.xml"/>
   <link rel="shortcut icon" href="{{ site.staticurl }}images/favicon.ico">
 </head>
 <body>

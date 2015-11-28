@@ -1,7 +1,7 @@
 {% assign person=include.person %}
 <div class="row person" id="{{ person.name | slugify | uri_escape }}">
   <div class="person-image-col col-md-4">
-    <div class="person-image" style="background-image:url('{{ site.baseurl }}static/images/team/{% if person.img %}{{ person.img }}{% else %}silhouette{% endif %}.jpg')"></div>
+    <div class="person-image" style="background-image:url('{{ site.staticurl }}images/team/{% if person.img %}{{ person.img }}{% else %}silhouette{% endif %}.jpg')"></div>
   </div>
   <div class="person-col col-md-8 order-{{ include.order }}">
     <div>
@@ -36,18 +36,19 @@
       {% endif %}
       </dl>
       {% assign has_projects = 0 %}
-        {% for project in site.projects %}
+      {% assign projects = site.pages | where: "layout", "project" | where: "lang", site.lang | sort:"featured","last" %}
+      {% for project in projects %}
           {% if project.type != "archive" %}
             {% for p in project.people %}
               {% if p.name == person.name %}
                 {% if has_projects == 0 %}
                   {% assign has_projects = 1 %}
                   <small>
-                    {{ person.name | split: " " | first }} arbeitet an:
+                    {{ person.name | split: " " | first }} {% t person.ArbeitetAn %}:
                     <ul class="list-inline">
                 {% endif %}
                 <li>
-                  <a href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
+                  <a href="{{ site.baseurl }}/{{ project.url|replace_first:'/',''|replace_first:'index.html' }}">
                     {{ project.title }}
                   </a>
                 </li>

@@ -7,3 +7,5 @@ __posts/
 Gemfile.lock
 .sass-cache/
 .idea/
+.bundle/
+.gem/

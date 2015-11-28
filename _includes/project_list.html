@@ -3,7 +3,7 @@
 
 <div class="project-item flex-col {% if project.wideimage %}col-md-8{% else %}col-md-4{% endif %} col-sm-6 col-xs-12">
 	<div class="project-box {{ style }}">
-		<a href="{{ site.baseurl }}{{ project.url|replace_first:'/','' }}">
+		<a href="{{ site.baseurl }}/{{ project.url|replace_first:'/','' }}">
 			<div class="project-box-image{% unless project.img.size > 0 %} project-box-color{% endunless %}" {% if project.img.size> 0 %}style="background-image: url('{{ site.staticurl }}images/{{ project.img }}');'"{% endif %}></div>
 			<div class="project-box-inner">
 				<h3>{{ project.title }}</h3>

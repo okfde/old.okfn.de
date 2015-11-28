@@ -1,19 +1,26 @@
 <header class="fixed">
-	<a class="header-logo" href="{{site.baseurl}}">
+	<a class="header-logo" href="{{site.baseurl}}/">
 		<div class="header-logo-img">
 			<img class="logo" src="{{ site.staticurl }}images/logo_white.png" alt="Open Knowledge Foundation Deutschland" />
 		</div>
 		<span class="header-brand-full">Open Knowledge Foundation Deutschland</span>
 		<span class="header-brand-small">OKF DE</span>
 	</a>
+	{% if site.lang == "de" %}
+	{% capture link1 %}{{ site.baseurl_root }}en{{ page.url}}{% endcapture %}
+	<a href="{{ link1 }}" >EN</a>
+	{% else if site.lang == "en" %}
+	{% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+	<a href="{{ link2 }}" >DE</a>
+	{% endif %}
 	<nav class="header-nav nav-items">
 		<ul>
-			<li{% if page.menu_themen %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}themen/">Themen</a></li>
-			<li{% if page.menu_projekte %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}projekte/">Projekte</a></li>
-			<li{% if page.menu_blog %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}blog/">Blog</a></li>
-			<li{% if page.menu_services %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}services/">Services</a></li>
-			<li{% if page.menu_spenden %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}spenden/">Spenden</a></li>
+			<li{% if page.menu_themen %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/themen/">{% t navig.Themen %}</a></li>
+			<li{% if page.menu_projekte %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/projekte/">{% t navig.Projekte %}</a></li>
+			<li{% if page.menu_blog %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/blog/">{% t navig.Blog %}</a></li>
+			<li{% if page.menu_services %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/services/">{% t navig.Services %}</a></li>
+			<li{% if page.menu_spenden %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/spenden/">{% t navig.Spenden %}</a></li>
 		</ul>
 	</nav>
-	<a id="sidebar-trigger" href><span class="cd-menu-text">Mehr</span><span class="cd-menu-icon"></span></a>
+	<a id="sidebar-trigger" href><span class="cd-menu-text">{% t navig.Mehr %}</span><span class="cd-menu-icon"></span></a>
 </header>

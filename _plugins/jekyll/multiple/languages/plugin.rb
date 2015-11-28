@@ -1,0 +1,240 @@
+
+module Jekyll
+  @parsedlangs = {}
+  def self.langs
+    @parsedlangs
+  end
+  def self.setlangs(l)
+    @parsedlangs = l
+  end
+  class Site
+    alias :process_org :process
+    def process
+      if !self.config['baseurl']
+        self.config['baseurl'] = ""
+      end
+      #Variables
+      config['baseurl_root'] = self.config['baseurl']
+      baseurl_org = self.config['baseurl']
+      languages = self.config['languages']
+      exclude_org = self.exclude
+      dest_org = self.dest
+      default_lang = self.config['default_lang'] = languages.first
+
+      #Loop
+      self.config['lang'] = default_lang
+      self.config['default_lang'] = default_lang
+      puts
+      puts "Building site for default language: \"#{self.config['lang']}\" to: #{self.dest}"
+      process_org
+      languages.drop(1).each do |lang|
+
+        # Build site for language lang
+        @dest = @dest + "/" + lang
+        self.config['baseurl'] = self.config['baseurl'] + "/" + lang
+        self.config['lang'] = lang
+
+        # exclude folders or files from being copied to all the language folders
+        exclude_from_localizations = self.config['exclude_from_localizations'] || []
+
+        @exclude = @exclude + exclude_from_localizations
+
+        puts "Building site for language: \"#{self.config['lang']}\" to: #{self.dest}"
+        process_org
+
+        #Reset variables for next language
+        @dest = dest_org
+        @exclude = exclude_org
+
+        self.config['baseurl'] = baseurl_org
+      end
+      Jekyll.setlangs({})
+      puts 'Build complete'
+    end
+
+    alias :read_posts_org :read_posts
+    def read_posts(dir)
+      translate_posts = !self.config['exclude_from_localizations'].include?("_posts")
+      if dir == '' && translate_posts
+        read_posts("_i18n/#{self.config['lang']}/")
+      else
+        read_posts_org(dir)
+      end
+    end
+  end
+
+  class Page
+    def permalink
+      return nil if data.nil? || data['permalink'].nil?
+      if site.config['relative_permalinks']
+        File.join(@dir, data['permalink'])
+      else
+        # Look if there's a permalink overwrite specified for this lang
+        data['permalink_'+site.config['lang']] || data['permalink']
+      end
+    end
+
+    # Initialize a new Page.
+    #
+    # site - The Site object.
+    # base - The String path to the source.
+    # dir  - The String path between the source and the file.
+    # name - The String filename of the file.
+    def initialize(site, base, dir, name)
+       @site = site
+       @base = base
+       @dir  = dir
+       @name = name
+       self.read_yaml(File.join(base, dir), name)
+       ext = File.extname(name);
+       lang = File.extname(File.basename(name, ext))[1..-1] || site.config['default_lang'];
+       if lang == site.config['lang']
+         name = File.basename(File.basename(name, ext),'.'+lang) + ext
+         @name = name
+       end
+       self.process(name)
+       # Monkey patch
+
+       self.data['lang'] = lang
+
+    end
+  end
+
+  class LocalizeTag < Liquid::Tag
+
+    def initialize(tag_name, key, tokens)
+      super
+      @key = key.strip
+    end
+
+    def render(context)
+      if "#{context[@key]}" != "" #Check for page variable
+        key = "#{context[@key]}"
+      else
+        key = @key
+      end
+      lang = context.registers[:site].config['lang']
+      unless Jekyll.langs.has_key?(lang)
+        puts "Loading translation from file #{context.registers[:site].source}/_i18n/#{lang}.yml"
+        Jekyll.langs[lang] = YAML.load_file("#{context.registers[:site].source}/_i18n/#{lang}.yml")
+      end
+      translation = Jekyll.langs[lang].access(key) if key.is_a?(String)
+      if translation.nil? or translation.empty?
+        translation = Jekyll.langs[context.registers[:site].config['default_lang']].access(key)
+        if translation.nil? or translation.empty?
+          translation = key
+          #if lang == context.registers[:site].config['default_lang']
+          #  puts "Missing i18n key: #{lang}:#{key}"
+          #end
+          #puts "Using key '%s'" %[key]
+        else
+            #puts "Missing i18n key: #{lang}:#{key}"
+            puts "Using translation '%s' from default language: %s" %[translation, context.registers[:site].config['default_lang']]
+        end
+      end
+      translation
+    end
+  end
+
+  module Tags
+    class LocalizeInclude < IncludeTag
+      def render(context)
+        if "#{context[@file]}" != "" #Check for page variable
+          file = "#{context[@file]}"
+        else
+          file = @file
+        end
+
+        includes_dir = File.join(context.registers[:site].source, '_i18n/' + context.registers[:site].config['lang'])
+
+        if File.symlink?(includes_dir)
+          return "Includes directory '#{includes_dir}' cannot be a symlink"
+        end
+        if file !~ /^[a-zA-Z0-9_\/\.-]+$/ || file =~ /\.\// || file =~ /\/\./
+          return "Include file '#{file}' contains invalid characters or sequences"
+        end
+
+        Dir.chdir(includes_dir) do
+          choices = Dir['**/*'].reject { |x| File.symlink?(x) }
+          if choices.include?(file)
+            source = File.read(file)
+            partial = Liquid::Template.parse(source)
+
+            context.stack do
+              context['include'] = parse_params(context) if @params
+              contents = partial.render(context)
+              site = context.registers[:site]
+              ext = File.extname(file)
+
+              converter = site.converters.find { |c| c.matches(ext) }
+              contents = converter.convert(contents) unless converter.nil?
+
+              contents
+            end
+          else
+            "Included file '#{file}' not found in #{includes_dir} directory"
+          end
+        end
+      end
+    end
+  end
+
+  class LocalizeLink < Liquid::Tag
+
+    def initialize(tag_name, key, tokens)
+      super
+      @key = key
+    end
+
+    def render(context)
+      if "#{context[@key]}" != "" #Check for page variable
+        key = "#{context[@key]}"
+      else
+        key = @key
+      end
+      key = key.split
+      namespace = key[0]
+      lang = key[1] || context.registers[:site].config['lang']
+      default_lang = context.registers[:site].config['default_lang']
+      baseurl = context.registers[:site].baseurl
+      langsite = context.registers[:site].langsite
+      pages = context.registers[:site].pages
+      url = "";
+
+      for p in pages
+        unless p['namespace'].nil?
+          page_namespace = p['namespace']
+          if namespace == page_namespace
+            permalink = p['permalink_'+lang] || p['permalink']
+            url = baseurl + permalink
+          end
+        end
+      end
+      url
+    end
+  end
+end
+
+unless Hash.method_defined? :access
+  class Hash
+    def access(path)
+      ret = self
+      path.split('.').each do |p|
+        if p.to_i.to_s == p
+          ret = ret[p.to_i]
+        else
+          ret = ret[p.to_s] || ret[p.to_sym]
+        end
+        break unless ret
+      end
+      ret
+    end
+  end
+end
+
+Liquid::Template.register_tag('t', Jekyll::LocalizeTag)
+Liquid::Template.register_tag('translate', Jekyll::LocalizeTag)
+Liquid::Template.register_tag('tf', Jekyll::Tags::LocalizeInclude)
+Liquid::Template.register_tag('translate_file', Jekyll::Tags::LocalizeInclude)
+Liquid::Template.register_tag('tl', Jekyll::LocalizeLink)
+Liquid::Template.register_tag('translate_link', Jekyll::LocalizeLink)

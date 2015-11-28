@@ -8,20 +8,17 @@ background: backgrounds/projekte.jpg
 ---
 
 <div class="lurking-header">
-  <h2>Projekte</h2>
-  <p>
-    Wir bringen Menschen zusammen, die digitale Bürger-Werkzeuge bauen, und
-    wir betreiben offene Web-Infrastruktur für unsere Demokratie.
-  </p>
+  <h1>{% t projekte.Projekte %}</h1>
+  <p>{% t projekte.Intro %}</p>
 </div>
 
 <div class="row row-flex row-flex-wrap">
-{% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
+{% assign projects = site.pages | where: "layout", "project" | where: "lang", site.lang | where: "type", "featured" | sort:"featured","last" %}
 {% for project in projects %}
   {% include project_list.html project=project %}
 {% endfor %}
 
-{% assign projects = site.projects | where: "type", "tool" %}
+{% assign projects = site.pages | where: "layout", "project" | where: "lang", site.lang | where: "type", "tool" %}
 {% for project in projects %}
   {% include project_list.html project=project %}
 {% endfor %}
@@ -29,7 +26,7 @@ background: backgrounds/projekte.jpg
 
 <h3 class="subtle-section">Events</h3>
 <div class="row row-flex row-flex-wrap">
-{% assign projects = site.projects | where: "type","event" | sort:"date","last" %}
+{% assign projects = site.pages | where: "layout", "project" | where: "lang", site.lang | where: "type","event" | sort:"date","last" %}
 {% for project in projects reversed %}
   {% include project_list.html project=project %}
 {% endfor %}
@@ -37,7 +34,7 @@ background: backgrounds/projekte.jpg
 
 <h3 class="subtle-section">Forschungsprojekte</h3>
 <div class="row row-flex row-flex-wrap">
-{% assign projects = site.projects | where: "type", "research" %}
+{% assign projects = site.pages | where: "layout", "project" | where: "lang", site.lang | where: "type", "research" %}
 {% for project in projects %}
   {% include project_list.html project=project %}
 {% endfor %}
@@ -45,7 +42,7 @@ background: backgrounds/projekte.jpg
 
 <h3 class="subtle-section">Archiv</h3>
 <div class="row row-flex row-flex-wrap">
-{% assign projects = site.projects | where: "type", "archive"  | sort:"featured","last" %}
+{% assign projects = site.pages | where: "layout", "project" | where: "lang", site.lang | where: "type", "archive"  | sort:"featured","last" %}
 {% for project in projects %}
   {% include project_list.html project=project %}
 {% endfor %}

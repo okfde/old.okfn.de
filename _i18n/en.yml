@@ -1,0 +1,35 @@
+global:
+  about: About
+navig:
+  Themen: Topics
+  Projekte: Projects
+  Blog: Blog
+  Services: Services
+  Spenden: Donation
+  Mehr: More
+  Team: Team
+  Vorstand: Board
+  Verein: Organisation
+  Presse: Press
+  Jobs: Jobs
+  Impressum: Contact
+titles:
+  Themen: Topics
+themen:
+  Themen: Topics
+  Mehr: learn more
+  Intro:  >
+     The Open Knowledge Foundation Germany considers itself an active part of German and European civil society.
+     We promote and support civil rights as they are formulated in the German constitution and the European Convention of Human Rights.
+     We especially focus on the following topics related to digital society:
+projekte:
+  Projekte: Projects
+  Intro: >
+    We bring together people that build digital tools for citizens, and we run an open web infrastructure for our democracy. These are our projects:
+projekt:
+  Ansprechpartner: Contact
+  Mailingliste: Mailing List
+  MehrInformationen: More Informations
+  WeitereProjekte: More Projects
+person:
+  ArbeitetAn: works on

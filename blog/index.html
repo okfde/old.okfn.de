@@ -8,7 +8,7 @@ background: backgrounds/folders.jpg
 <div class="lurking-header">
 	<h1>Blog</h1>
 	<p class="text-center">
-		<a href="{{ site.baseurl }}atom.xml" title="RSS Feed abonnieren"><i class="icon-rss-squared"></i> mit dem Feedreader abonnieren</a>
+		<a href="{{ site.baseurl_root }}/atom.xml" title="RSS Feed abonnieren"><i class="icon-rss-squared"></i> mit dem Feedreader abonnieren</a>
 	</p>
 </div>
 
@@ -20,14 +20,14 @@ background: backgrounds/folders.jpg
 	{% if paginator.previous_page %}
 	<li>
 		{% if paginator.previous_page == 1 %}
-		<a href="{{ site.baseurl }}blog/">&laquo;</a>
+		<a href="{{ site.baseurl }}/blog/">&laquo;</a>
 		{% else %}
-		<a href="{{ site.baseurl }}{{ paginator.previous_page_path|replace_first:'/','' }}">&laquo;</a>
+		<a href="{{ site.baseurl }}/{{ paginator.previous_page_path|replace_first:'/','' }}">&laquo;</a>
 		{% endif %}
 	</li>
 	{% endif %}
 
-	{% if paginator.next_page %}<li><a href="{{ site.baseurl }}{{ paginator.next_page_path|replace_first:'/','' }}">&raquo;</a></li>{% endif %}
+	{% if paginator.next_page %}<li><a href="{{ site.baseurl }}/{{ paginator.next_page_path|replace_first:'/','' }}">&raquo;</a></li>{% endif %}
 </ul>
 
 <div class="text-center">

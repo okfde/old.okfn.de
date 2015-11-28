@@ -9,10 +9,10 @@ menu_blog: yes
 <div class="lurking-header post">
 
   <div{% if author.img %} class="post-author"{% else %} class="post-nonteam-author" {% endif %}>
-    {% if author.img %}<img src="{{ site.baseurl }}static/images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">{% endif %}
+    {% if author.img %}<img src="{{ site.baseurl_root }}/static/images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">{% endif %}
     <p class="post-meta">
       {% if author.name %}
-      von <a href="{{ site.baseurl }}{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
+      von <a href="{{ site.baseurl }}/{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
       {% else %}
       von {{ page.author }}
       {% endif %}
@@ -58,7 +58,7 @@ menu_blog: yes
     <h3>Verwandte Beiträge</h3>
     <ul>
       {% for post in postsTitlesArray | limit:3 %}
-      <li><a href="{{ site.baseurl }}{{ post.url|replace_first:'/',''|replace_first:'index.html',''}}">{{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}/{{ post.url|replace_first:'/',''|replace_first:'index.html',''}}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
   </div>
@@ -76,7 +76,7 @@ menu_blog: yes
     <div class="row">
       {% if page.previous.url %}
         <div class="{% if cols == 2 %}col-md-6{% else %}cols-md-12{% endif %}">
-			<a href="{{ site.baseurl }}{{ page.previous.url |replace_first:'/',''}}">
+			<a href="{{ site.baseurl }}/{{ page.previous.url |replace_first:'/',''}}">
           <h3 class="subtle-section"><i class="icon-left-open"></i> Vorheriger Beitrag</h3>
 	      {% include post_preview_small.html post=page.previous %}
             </a>
@@ -84,7 +84,7 @@ menu_blog: yes
       {% endif %}
       {% if page.next.url %}
         <div class="{% if cols == 2 %}col-md-6{% else %}cols-md-12{% endif %}">
-          <a href="{{ site.baseurl }}{{ page.next.url |replace_first:'/',''}}">
+          <a href="{{ site.baseurl }}/{{ page.next.url |replace_first:'/',''}}">
           	<h3 class="subtle-section">Nächster Beitrag <i class="icon-right-open"></i></h3>
 	      {% include post_preview_small.html post=page.next %}
           </a>

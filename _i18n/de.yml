@@ -1,0 +1,35 @@
+global:
+  about: About
+navig:
+  Themen: Themen
+  Projekte: Projekte
+  Blog: Blog
+  Services: Services
+  Spenden: Spenden
+  Mehr: Mehr
+  Team: Team
+  Vorstand: Vorstand
+  Verein: Verein
+  Presse: Presse
+  Jobs: Jobs
+  Impressum: Impressum
+titles:
+    Themen: Topics
+themen:
+  Themen: Themen
+  Mehr: mehr erfahren
+  Intro:  >
+     Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft.
+     Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind.
+     Wir setzen uns dabei insbesondere für folgende Themen der digitalen Gesellschaft ein:
+projekte:
+  Projekte: Projekte
+  Intro: >
+    Wir bringen Menschen zusammen, die digitale Bürger-Werkzeuge bauen, und wir betreiben offene Web-Infrastruktur für unsere Demokratie.
+projekt:
+  Ansprechpartner: Ansprechpartner
+  Mailingliste: Mailingliste
+  MehrInformationen: Mehr Informationen
+  WeitereProjekte: Weitere Projekte
+person:
+  ArbeitetAn: arbeitet an

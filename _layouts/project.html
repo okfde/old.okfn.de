@@ -5,10 +5,15 @@ menu_projekte: yes
 ---
 <div class="lurking-header">
   <h1>{{ page.title }}</h1>
+
+  {% if page.video %}
+  <div class="videoWrapper"><iframe src="{{page.video}}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  {% endif %}
+
   {{ content }}
 
   {% if page.people.size > 0 %}
-    <h3>Ansprechpartner</h3>
+    <h3>{% t projekt.Ansprechpartner %}</h3>
     <div class="row">
     {% for teammember in page.people %}
       {% assign person = site.data.team | where:"name",teammember.name | first %}
@@ -17,7 +22,7 @@ menu_projekte: yes
           {% if person %}
           <div class="col-xs-3 avatar-col">
             {% if person.img %}
-            <img src="{{ site.baseurl }}static/images/team/{{ person.img }}_square.jpg" alt="{{ person.name }}" class="img-circle avatar">
+            <img src="{{ site.baseurl_root }}/static/images/team/{{ person.img }}_square.jpg" alt="{{ person.name }}" class="img-circle avatar">
             {% endif %}
           </div>
           {% endif %}
@@ -32,7 +37,7 @@ menu_projekte: yes
     {% endfor %}
     </div>
   {% endif %}
-  <h3>Mehr Informationen</h3>
+  <h3>{% t projekt.MehrInformationen %}</h3>
   <dl class="icon-list big-icon-list">
     {% if page.contact.website %}
       <dt><i class="icon-umbrella"></i></dt>
@@ -63,7 +68,7 @@ menu_projekte: yes
     {% if page.contact.mailinglist %}
       <dt><i class="icon-paper-plane"></i></dt>
       <dd>
-        <a href="{{ page.contact.mailinglist }}">Mailingliste</a>
+        <a href="{{ page.contact.mailinglist }}">{% t projekt.Mailingliste %}</a>
       </dd>
     {% endif %}
   </dl>
@@ -71,11 +76,11 @@ menu_projekte: yes
 
 <hr />
 
-<h3 class="subtle-section">Weitere Projekte</h3>
+<h3 class="subtle-section">{% t projekt.WeitereProjekte %}</h3>
 <div class="row">
   <div class="col-md-offset-2 col-md-8">
     <div class="row row-flex row-flex-wrap">
-      {% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
+      {% assign projects = site.pages | where: "layout", "project" | where: "type", "featured" | where: "lang", site.lang | sort:"featured","last" %}
       {% assign count = 0 %}
       {% for project in projects limit:4 %}
         {% if project.title != page.title %}

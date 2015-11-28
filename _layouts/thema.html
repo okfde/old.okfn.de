@@ -12,7 +12,7 @@ menu_themen: yes
 {% assign themen = site.pages|where:"layout","thema"|sort:"title" %}
 {% for thema in themen %}
 {% if thema.title != page.title %}
-<a href="{{ site.baseurl }}{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}"><p>{{ thema.title }}</p></a>
+<a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}"><p>{{ thema.title }}</p></a>
 {% endif %}
 {% endfor %}
 
