@@ -23,7 +23,7 @@ de:
   stats: >
      325,000<br/>Kulturdaten
   teaser: >
-	 wurden bei <a href="{{ site.baseurl }}/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
+     wurden bei <a href="{{ site.baseurl }}/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
 
 en:
   content: >
@@ -31,7 +31,7 @@ en:
   stats: >
      325,000<br/>Kulturdaten
   teaser: >
-	 wurden bei <a href="{{ site.baseurl }}/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
+     wurden bei <a href="{{ site.baseurl }}/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
      
 ---
 

@@ -27,15 +27,15 @@ de:
   stats: >
      20<br/>OK Labs
   teaser: >
-	 entwickeln Tools für <a href="{{ site.baseurl }}/projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
-		
+     entwickeln Tools für <a href="{{ site.baseurl }}/projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
+
 en:
   content: >
      Code for Germany connects developers, designers, and open data enthusiasts from all over Germany. The program has established labs in 20 German cities that serve as meeting points for these local activists and representatives of their respective cities. The goal of the project is to facilitate the development of applications and projects that use open data in order to further political participation and empowerment. On the project's website, one can follow the individual labs and their work. The project cooperates with Code for America and Google. 
   stats: >
      20<br/>OK Labs
   teaser: >
-	 entwickeln Tools für <a href="{{ site.baseurl }}/projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
+     entwickeln Tools für <a href="{{ site.baseurl }}/projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
 
 ---
 
