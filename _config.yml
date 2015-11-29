@@ -6,11 +6,27 @@ exclude:
   - "CNAME"
   - "Gemfile*"
   - "Readme.md"
+  - ".idea/"
+  - ".git/"
   - "scripts/"
+  - "_site/"
 
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+collections:
+  projects:
+    output: true
+    permalink: /projekte/:path/
 
 
 permalink: blog/:year/:month/:title/
