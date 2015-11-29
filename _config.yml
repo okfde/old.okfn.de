@@ -10,6 +10,7 @@ exclude:
   - ".git/"
   - "scripts/"
   - "_site/"
+  - "vendor/"
 
 gems:
   - jekyll-redirect-from
