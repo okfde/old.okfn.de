@@ -128,11 +128,24 @@ h1, h2, h3, h4 {
     }
     h3 {
       font-size: 18px;
-      word-wrap: normal;
     }
   }
 
   @include MQ-M() {
+    font-size: 18px;
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      font-size: 30px;
+    }
+    h3 {
+      font-size: 20px;
+      word-wrap: normal;
+    }
+  }
+
+  @include MQ-L() {
     font-size: 18px;
     h1 {
       font-size: 36px;
@@ -806,7 +819,6 @@ header {
     margin-bottom: 20px;
     padding: 0;
     color: #fff;
-    text-align: right;
   }
 
   h4 {
@@ -948,6 +960,11 @@ header {
 
       h1, h2, h3 {
         font-size: 0.8em;
+      }
+
+      h3 {
+        font-size: 14px!important;
+        word-wrap: break-word!important;;
       }
 
     }

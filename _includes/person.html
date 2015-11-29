@@ -36,7 +36,7 @@
       {% endif %}
       </dl>
       {% assign has_projects = 0 %}
-      {% assign projects = site.pages | where: "layout", "project" | where: "lang", site.lang | sort:"featured","last" %}
+      {% assign projects = site.projects | sort:"featured","last" %}
       {% for project in projects %}
           {% if project.type != "archive" %}
             {% for p in project.people %}

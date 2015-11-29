@@ -2,7 +2,7 @@
 {% assign person=site.data.team[name] %}
 {% if person.img %}
     <div class="pull-left">
-      <img src="{{ site.baseurl_root }}/static/images/team/{{ person.img }}_square.jpg" alt="{{ name }}" class="img-circle" style="height:100px"/>
+      <img src="{{ site.staticurl }}images/team/{{ person.img }}_square.jpg" alt="{{ name }}" class="img-circle" style="height:100px"/>
       {{ name }}
     </div>
 {% endif %}

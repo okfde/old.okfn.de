@@ -9,7 +9,7 @@ menu_blog: yes
 <div class="lurking-header post">
 
   <div{% if author.img %} class="post-author"{% else %} class="post-nonteam-author" {% endif %}>
-    {% if author.img %}<img src="{{ site.baseurl_root }}/static/images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">{% endif %}
+    {% if author.img %}<img src="{{ site.staticurl }}images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">{% endif %}
     <p class="post-meta">
       {% if author.name %}
       von <a href="{{ site.baseurl }}/{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>

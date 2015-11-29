@@ -6,15 +6,17 @@
 		<span class="header-brand-full">Open Knowledge Foundation Deutschland</span>
 		<span class="header-brand-small">OKF DE</span>
 	</a>
-	{% if site.lang == "de" %}
-	{% capture link1 %}{{ site.baseurl_root }}en{{ page.url}}{% endcapture %}
-	<a href="{{ link1 }}" >EN</a>
-	{% else if site.lang == "en" %}
-	{% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-	<a href="{{ link2 }}" >DE</a>
-	{% endif %}
 	<nav class="header-nav nav-items">
 		<ul>
+			<li>
+					{% if site.lang == "de" %}
+					{% capture link1 %}{{ site.baseurl_root }}/en{{ page.url |replace_first:"index.html"}}{% endcapture %}
+					<a class="nav-link" href="{{ link1 }}" >EN - </a>
+					{% else if site.lang == "en" %}
+					{% capture link2 %}{{ site.baseurl_root }}{{ page.url |replace_first:"index.html" }}{% endcapture %}
+					<a class="nav-link" href="{{ link2 }}" >DE - </a>
+					{% endif %}
+			</li>
 			<li{% if page.menu_themen %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/themen/">{% t navig.Themen %}</a></li>
 			<li{% if page.menu_projekte %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/projekte/">{% t navig.Projekte %}</a></li>
 			<li{% if page.menu_blog %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/blog/">{% t navig.Blog %}</a></li>
