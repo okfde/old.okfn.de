@@ -4,3 +4,5 @@ rvm:
   - 2.1.2
 script:
 - scripts/cibuild
+before_script:
+ - chmod +x scripts/cibuild
