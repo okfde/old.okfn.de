@@ -6,3 +6,5 @@ script:
 - scripts/cibuild
 before_script:
  - chmod +x scripts/cibuild
+cache: bundler
+sudo: false
