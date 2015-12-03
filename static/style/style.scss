@@ -443,15 +443,15 @@ header {
 
 .language-toggle {
   font-size: 14px;
-  line-height:16px;
+  line-height: 16px;
   margin-left: 8px;
   color: #939393;
-  position:relative;
+  position: relative;
   top: 7px;
   a {
     color: #fff;
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
   }
 }
 
@@ -478,6 +478,19 @@ header {
 
   @include MQ-M() {
     padding-top: $header-M;
+
+    dt {
+      float: left;
+      width: 160px;
+      overflow: hidden;
+      clear: left;
+      text-align: right;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    dd {
+      margin-left: 180px
+    }
   }
 }
 
@@ -648,9 +661,9 @@ header {
 }
 
 .avatar {
-  float:left;
+  float: left;
   width: 64px;
-  height:64px;
+  height: 64px;
 }
 
 .highlight-link {
@@ -984,8 +997,8 @@ header {
       }
 
       h3 {
-        font-size: 14px!important;
-        word-wrap: break-word!important;
+        font-size: 14px !important;
+        word-wrap: break-word !important;
       }
 
     }
