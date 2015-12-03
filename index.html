@@ -21,19 +21,19 @@ home: true
 		</div>
 		{% assign projects = site.projects %}
 		{% for project in projects %}
-			{% capture langcontent %}{{ project[site.lang].stats }}{% endcapture %}
-			{% if langcontent != '' %}
-				<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
-					<div class="showcase">
-						<a href="{{ site.baseurl }}{{project.url}}"><img src="{{ site.staticurl }}images/{{project.img_square}}" alt="{{project.title}}" class="img-circle"/></a>
-						<h4 class="kpi">{{ langcontent }}</h4>
-						<p class="detail">
-							{% capture teasercontent %}{{ project[site.lang].teaser }}{% endcapture %}
-							{{ teasercontent }}
-						</p>
-					</div>
-				</div>
-			{% endif %}
+		{% capture langcontent %}{{ project[site.lang].stats }}{% endcapture %}
+		{% if langcontent != '' %}
+		<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
+			<div class="showcase">
+				<a href="{{ site.baseurl }}{{project.url}}"><img src="{{ site.staticurl }}images/{{project.img_square}}" alt="{{project.title}}" class="img-circle"/></a>
+				<h4 class="kpi">{{ langcontent }}</h4>
+				<p class="detail">
+					{% capture teasercontent %}{{ project[site.lang].teaser }}{% endcapture %}
+					{{ teasercontent }}
+				</p>
+			</div>
+		</div>
+		{% endif %}
 		{% endfor %}
 	</div>
 </div>
@@ -47,7 +47,7 @@ home: true
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2 col-xs-offset-2 col-xs-8">
+			<div class="col-sm-8 col-sm-offset-2 col-xs-12">
 				<p><a href="{{ site.baseurl }}/spenden/" class="highlight-link">{% t start.SpendenJa %}</a></p>
 				<p><a href="{{ site.baseurl }}/mission/" class="highlight-link">{% t start.SpendenNein %}</a></p>
 			</div>
@@ -62,21 +62,22 @@ home: true
 			<p>{% t start.NewsletterText %}</p>
 		</div>
 	</div>
-	<form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=4ed2decd59" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="text-center mc-form" target="_blank"
-		  role="form">
-		<div class="row">
-			<div class="col-md-6 col-md-offset-2 col-xs-12 padded-top">
-				<label for="mce-EMAIL" class="sr-only">E-Mail</label>
-				<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="E-Mail" required>
-			</div>
-			<div class="col-md-2 col-xs-12 padded-top">
-				<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default pull-right">{% t start.NewsletterJa %}</button>
-				<div style="position: absolute; left: -5000px;">
-					<input type="text" name="b_929f1e07936386d34833e20d1_bb63fcab72" value="">
-					<!-- set to newsletter only-->
-					<input type="checkbox" value="1" checked="checked" name="group[16985][1]" id="mce-group[16985]-16985-0" style="display:none;">
+	<div class="row">
+		<div class="col-sm-8 col-sm-offset-2 col-xs-12 padded-top">
+			<form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=4ed2decd59" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="text-center mc-form" target="_blank"
+				  role="form">
+				<div class="input-group">
+					<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="E-Mail" required>
+				  	<span class="input-group-btn">
+						<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">{% t start.NewsletterJa %}</button>
+						<div style="position: absolute; left: -5000px;">
+							<input type="text" name="b_929f1e07936386d34833e20d1_bb63fcab72" value="">
+							<!-- set to newsletter only-->
+							<input type="checkbox" value="1" checked="checked" name="group[16985][1]" id="mce-group[16985]-16985-0" style="display:none;">
+						</div>
+				  	</span>
 				</div>
-			</div>
+			</form>
 		</div>
-	</form>
+	</div>
 </div>
