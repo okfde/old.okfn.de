@@ -19,7 +19,7 @@ type: post
 
 ---
 
-In unserem gemütlichen Büro in der Singerstraße 109 [**OpenBudgets.eu**](http://openbudgets.eu/),, idyllisch gelegen zwischen U Strausberger Platz und U Jannowitzbrücke, sind ab sofort Coworking Plätze frei!  
+In unserem gemütlichen Büro in der [Singerstraße 109](http://www.openstreetmap.org/node/3662096773), idyllisch gelegen zwischen U Strausberger Platz und U Jannowitzbrücke, sind ab sofort Coworking Plätze frei!  
 
 Eckdaten:
 - Einzelplätze und/oder separater Raum (max. 4 Pers.) verfügbar, teils kurz- und teils langfristig 
