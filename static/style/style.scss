@@ -252,18 +252,20 @@ header {
 
     span {
       color: #fff;
+      display: inline-block;
       vertical-align: middle;
-      padding-top: 10px;
       border-bottom-color: #fff;
     }
 
     .header-brand-full {
       display: none;
+      padding-top: 6px;
       @include MQ-L() {
         display: inline-block;
       }
     }
     .header-brand-small {
+      padding-top: 6px;
       @include MQ-L() {
         display: none;
       }
@@ -283,7 +285,7 @@ header {
 
         > a {
           font-weight: 600;
-          padding: 12px 0px 8px;
+          padding: 10px 0px 8px;
           margin-bottom: 1.5rem;
         }
       }
@@ -814,9 +816,7 @@ header {
   }
 
   .start-headline {
-    margin: 0;
-    margin-top: 40px;
-    margin-bottom: 20px;
+    margin: 40px 0;
     padding: 0;
     color: #fff;
   }
