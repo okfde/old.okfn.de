@@ -19,7 +19,7 @@ Neben einer strategischen Baratung bieten wir ein weites Trainingsprogramm rund 
 
 Ausserdem bieten wir die Konzeption und Entwicklung von maßgeschneiderter datengetriebener Software als Dienstleistung an.  
 
-Bei Interesse melden SIe sich einfach bei uns und wir etwickeln gemeinsam ein pasendes Angebot: [info@okfn.de](mailto:info@okfn.de)
+Bei Interesse melden Sie sich einfach bei uns und wir entwickeln gemeinsam ein passendes Angebot: [info@okfn.de](mailto:info@okfn.de)
 
 
 <!--         
