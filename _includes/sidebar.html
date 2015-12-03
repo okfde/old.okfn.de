@@ -1,15 +1,26 @@
 <nav id="sidebar">
+	<div class="language-toggle pull-right">
+		{% if site.lang == "de" %}
+		{% capture link1 %}{{ site.baseurl_root }}/en{{ page.url |replace_first:"index.html"}}{% endcapture %}
+		<a href="{{ link1 }}" >EN</a><br/>DE
+		{% else if site.lang == "en" %}
+		{% capture link2 %}{{ site.baseurl_root }}{{ page.url |replace_first:"index.html" }}{% endcapture %}
+		EN<br/><a href="{{ link2 }}">DE</a>
+		{% endif %}
+	</div>
 	<ul class="cd-navigation">
-		<li{% if page.menu_themen %} class="active"{% endif %}><a href="{{ site.baseurl }}/themen/">Themen</a></li>
-		<li{% if page.menu_projekte %} class="active"{% endif %}><a href="{{ site.baseurl }}/projekte/">Projekte</a></li>
-		<li{% if page.menu_blog %} class="active"{% endif %}><a href="{{ site.baseurl }}/blog/">Blog</a></li>
-		<li{% if page.menu_services %} class="active"{% endif %}><a href="{{ site.baseurl }}/services/">Services</a></li>
-		<li{% if page.menu_spenden %} class="active"{% endif %}><a href="{{ site.baseurl }}/spenden/">Spenden</a></li>
-		<li{% if page.menu_team %} class="active"{% endif %}><a href="{{ site.baseurl }}/team/">Team</a></li>
-		<li{% if page.menu_vorstand %} class="active"{% endif %}><a href="{{ site.baseurl }}/vorstand/">Vorstand</a></li>
-		<li{% if page.menu_verein %} class="active"{% endif %}><a href="{{ site.baseurl }}/verein/">Verein</a></li>
-		<li{% if page.menu_presse %} class="active"{% endif %}><a href="{{ site.baseurl }}/presse/">Presse</a></li>
-		<li{% if page.menu_jobs %} class="active"{% endif %}><a href="{{ site.baseurl }}/jobs/">Jobs</a></li>
-		<li{% if page.menu_impressum %} class="active"{% endif %}><a href="{{ site.baseurl }}/impressum/">Impressum</a></li>
+		<li{% if page.menu_themen %} class="active"{% endif %}><a href="{{ site.baseurl }}/themen/">{% t navig.Themen %}</a></li>
+		<li{% if page.menu_projekte %} class="active"{% endif %}><a href="{{ site.baseurl }}/projekte/">{% t navig.Projekte %}</a></li>
+		<li{% if page.menu_blog %} class="active"{% endif %}><a href="{{ site.baseurl }}/blog/">{% t navig.Blog %}</a></li>
+		<li{% if page.menu_services %} class="active"{% endif %}><a href="{{ site.baseurl }}/services/">{% t navig.Services %}</a></li>
+		<li{% if page.menu_spenden %} class="active"{% endif %}><a href="{{ site.baseurl }}/spenden/">{% t navig.Spenden %}</a></li>
+	</ul>
+	<ul class="cd-navigation">
+		<li{% if page.menu_team %} class="active"{% endif %}><a href="{{ site.baseurl }}/team/">{% t navig.Team %}</a></li>
+		<li{% if page.menu_vorstand %} class="active"{% endif %}><a href="{{ site.baseurl }}/vorstand/">{% t navig.Vorstand %}</a></li>
+		<li{% if page.menu_verein %} class="active"{% endif %}><a href="{{ site.baseurl }}/verein/">{% t navig.Verein %}</a></li>
+		<li{% if page.menu_presse %} class="active"{% endif %}><a href="{{ site.baseurl }}/presse/">{% t navig.Presse %}</a></li>
+		<li{% if page.menu_jobs %} class="active"{% endif %}><a href="{{ site.baseurl }}/jobs/">{% t navig.Jobs %}</a></li>
+		<li{% if page.menu_impressum %} class="active"{% endif %}><a href="{{ site.baseurl }}/impressum/">{% t navig.Impressum %}</a></li>
 	</ul>
 </nav>

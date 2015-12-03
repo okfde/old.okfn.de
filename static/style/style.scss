@@ -2,6 +2,7 @@
 ---
 
 @import 'fontello.scss';
+@import 'leaguespartan.scss';
 @import 'latolatinfonts.scss';
 @import 'bootstrap.scss';
 @import 'pagination.scss';
@@ -11,6 +12,7 @@
 // font
 
 $primary-font-family: 'LatoLatinWeb', 'Helvetica', sans-serif;
+$headlines-font-family: 'LeagueSpartan-Bold', 'Helvetica', sans-serif;
 
 // colors
 
@@ -93,12 +95,13 @@ html, body {
 
 h1, h2, h3, h4 {
   color: $dark-text-color;
-  text-transform: uppercase;
+  //text-transform: uppercase;
   font-weight: bold;
   line-height: 1.4em;
   margin-bottom: 15px;
   margin-top: 15px;
   letter-spacing: 2px;
+  font-family: $headlines-font-family;
 }
 
 #main-content {
@@ -191,6 +194,71 @@ hr {
 }
 
 //page elements
+
+.nav-items {
+  margin: 0;
+  padding: 0;
+
+  ul {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    > li {
+      display: inline-block;
+      margin-right: 0.5em;
+
+      > a.nav-link, > a.nav-link:hover, > a.nav-link:focus {
+        text-align: right;
+        color: #fff;
+        border-bottom-color: #fff;
+        background-color: transparent;
+      }
+      > a.nav-link {
+        display: inline-block;
+        position: relative;
+        text-decoration: none;
+        text-transform: uppercase;
+        &:before {
+          content: '';
+          position: absolute;
+          width: 100%;
+          height: 0px;
+          border-bottom: 3px solid transparent;
+          bottom: 2px;
+          -webkit-transform: scaleX(0);
+          -ms-transform: scaleX(0);
+          transform: scaleX(0);
+          -webkit-transition: 0.2s ease-in;
+          transition: 0.2s ease-in;
+        }
+      }
+    }
+
+  }
+
+  ul > li > a.nav-link:hover:before,
+  ul > li.active > a.nav-link:before {
+    -webkit-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    transform: scaleX(1);
+    border-bottom: 3px solid #fff;
+  }
+
+  &.nav-items-right {
+    ul {
+      > li {
+        margin-left: 1rem;
+        margin-right: 0;
+        float: right;
+      }
+      > li:last-of-type {
+        margin-left: 0;
+      }
+    }
+  }
+
+}
 
 header {
   position: absolute;
@@ -370,75 +438,20 @@ header {
       display: none;
     }
   }
+
 }
 
-.nav-items {
-  margin: 0;
-  padding: 0;
-
-  ul {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-
-    > li {
-      display: inline-block;
-      margin-right: 0.5em;
-
-      > a, > a:hover, > a:focus {
-        text-align: right;
-        color: #fff;
-        border-bottom-color: #fff;
-      }
-      > a {
-        display: inline-block;
-        position: relative;
-        text-decoration: none;
-        text-transform: uppercase;
-      }
-      > a:before {
-        content: '';
-        position: absolute;
-        width: 100%;
-        height: 0px;
-        border-bottom: 3px solid transparent;
-        bottom: 2px;
-        -webkit-transform: scaleX(0);
-        -ms-transform: scaleX(0);
-        transform: scaleX(0);
-        -webkit-transition: 0.2s ease-in;
-        transition: 0.2s ease-in;
-      }
-
-    }
-
+.language-toggle {
+  font-size: 14px;
+  line-height:16px;
+  color: #939393;
+  position:relative;
+  top: 7px;
+  a {
+    color: #fff;
+    margin:0;
+    padding:0;
   }
-
-  ul > li > a:hover:before,
-  ul > li.active > a:before {
-    -webkit-transform: scaleX(1);
-    -ms-transform: scaleX(1);
-    transform: scaleX(1);
-    border-bottom: 3px solid #fff;
-  }
-
-  ul > li > a:hover, ul > li > a:focus {
-    background-color: transparent;
-  }
-
-  &.nav-items-right {
-    ul {
-      > li {
-        margin-left: 1rem;
-        margin-right: 0;
-        float: right;
-      }
-      > li:last-of-type {
-        margin-left: 0;
-      }
-    }
-  }
-
 }
 
 #main-content {
@@ -496,6 +509,12 @@ header {
 
   /* this creates the subtle slide in animation of the navigation */
   @include transform(translateX(80px));
+
+  .language-toggle {
+    margin-top: 10px;
+    margin-right: 20px;
+    font-size: 15px;
+  }
 
   .cd-navigation {
     list-style: none;
@@ -594,6 +613,7 @@ header {
 
   .nav-items {
     margin-top: 3px;
+
   }
 
   .row {
@@ -964,7 +984,7 @@ header {
 
       h3 {
         font-size: 14px!important;
-        word-wrap: break-word!important;;
+        word-wrap: break-word!important;
       }
 
     }
