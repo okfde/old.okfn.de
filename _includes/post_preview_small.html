@@ -2,9 +2,9 @@
 <h4>{{post.title}}</h4>
 <p class="post-meta">
 	{% if post.author.name %}
-	von <a href="{{ site.baseurl }}/{% if post.author.staff %}team{% else %}vorstand{% endif %}#{{ post.author.name | slugify }}">{{ post.author.name }}</a><br/>
+	{% t blog.Von %} <a href="{{ site.baseurl }}/{% if post.author.staff %}team{% else %}vorstand{% endif %}#{{ post.author.name | slugify }}">{{ post.author.name }}</a><br/>
 	{% else %}
-	von {{ post.author }}
+	{% t blog.Von %} {{ post.author }}
 	{% endif %}
-	am {{ post.date | date:"%d.%m.%Y" }}
+	{% t blog.AmDatum %} {{ post.date | date:"%d.%m.%Y" }}
 </p>

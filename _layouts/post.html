@@ -12,11 +12,11 @@ menu_blog: yes
     {% if author.img %}<img src="{{ site.staticurl }}images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">{% endif %}
     <p class="post-meta">
       {% if author.name %}
-      von <a href="{{ site.baseurl }}/{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
+      {% t blog.Von %} <a href="{{ site.baseurl }}/{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
       {% else %}
-      von {{ page.author }}
+      {% t blog.Von %} {{ page.author }}
       {% endif %}
-      am {{ page.date | date:"%d.%m.%Y" }}
+      {% t blog.AmDatum %} {{ page.date | date:"%d.%m.%Y" }}
   <ul class="post-tags">
     {% for tag in page.tags %}
     <li><span class="badge">{{ tag }}</span></li>
@@ -52,10 +52,11 @@ menu_blog: yes
 {% endfor %}
 
 {% assign thesize = postsTitlesArray.size %}
-{% unless thesize=='0' %}
+{% capture thesize %}{{ postsTitlesArray.size }}{% endcapture %}
+{% unless thesize == '0' %}
 <div class="row related-post post">
   <div class="col-md-12">
-    <h3>Verwandte Beiträge</h3>
+    <h3>{% t blog.VerwandteBeitraege %}</h3>
     <ul>
       {% for post in postsTitlesArray | limit:3 %}
       <li><a href="{{ site.baseurl }}/{{ post.url|replace_first:'/',''|replace_first:'index.html',''}}">{{ post.title }}</a></li>
@@ -77,7 +78,7 @@ menu_blog: yes
       {% if page.previous.url %}
         <div class="{% if cols == 2 %}col-md-6{% else %}cols-md-12{% endif %}">
 			<a href="{{ site.baseurl }}/{{ page.previous.url |replace_first:'/',''}}">
-          <h3 class="subtle-section"><i class="icon-left-open"></i> Vorheriger Beitrag</h3>
+          <h3 class="subtle-section"><i class="icon-left-open"></i> {% t blog.VorherigerBeitrag %}</h3>
 	      {% include post_preview_small.html post=page.previous %}
             </a>
         </div>
@@ -85,7 +86,7 @@ menu_blog: yes
       {% if page.next.url %}
         <div class="{% if cols == 2 %}col-md-6{% else %}cols-md-12{% endif %}">
           <a href="{{ site.baseurl }}/{{ page.next.url |replace_first:'/',''}}">
-          	<h3 class="subtle-section">Nächster Beitrag <i class="icon-right-open"></i></h3>
+          	<h3 class="subtle-section">{% t blog.NaechsterBeitrag %} <i class="icon-right-open"></i></h3>
 	      {% include post_preview_small.html post=page.next %}
           </a>
         </div>

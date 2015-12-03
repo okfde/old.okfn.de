@@ -39,7 +39,16 @@ person:
   ArbeitetAn: works on
 thema:
   WeitereThemen: More Topics
+blog:
+  FeedAbo: subscribe with your feedreeder
+  Mehr: Read full post
+  Von: by
+  AmDatum: "on"
+  VerwandteBeitraege: Related post
+  VorherigerBeitrag: Previous post
+  NaechsterBeitrag: Next post
 start:
+  Slogan: Open Knowledge<br/>for the digital society
   Intro: >
     We shape the digital society with open knowledge and tools. <br/>
     We empower society with digital tools and open knowledge.

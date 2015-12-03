@@ -4,7 +4,7 @@
 		{% if post.image %}<img class="post-img" src="{{ post.image.src }}" alt="{{ post.title }}"/>{% endif %}
 		<div class="post-author">
 			<p>{{ post.date | date:"%d.%m.%Y" }}</p>
-			<p>von {{ post.author }}</p>
+			<p>{% t blog.Von %} {{ post.author }}</p>
 		</div>
 	</div>
 	<div class="post-teaser col-md-10">
@@ -15,6 +15,6 @@
 		</ul>
 		<h3 class="post-title"><a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">{{ post.title }}</a></h3>
 		<p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 50}}</p>
-		<p class="post-more"><a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">ganzer Artikel</a></p>
+		<p class="post-more"><a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">{% t blog.Mehr %}</a></p>
 	</div>
 </article>

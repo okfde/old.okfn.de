@@ -1171,6 +1171,7 @@ header {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+    margin-bottom: 18px;
   }
 
   @include MQ-S() {

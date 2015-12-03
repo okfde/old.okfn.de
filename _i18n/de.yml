@@ -1,5 +1,3 @@
-global:
-  about: About
 navig:
   Themen: Themen
   Projekte: Projekte
@@ -14,7 +12,7 @@ navig:
   Jobs: Jobs
   Impressum: Impressum
 titles:
-    Themen: Topics
+    Themen: Themen
 themen:
   Themen: Themen
   Mehr: mehr erfahren
@@ -39,7 +37,16 @@ person:
   ArbeitetAn: arbeitet an
 thema:
   WeitereThemen: Weitere Themen
+blog:
+  FeedAbo: mit dem Feedreader abonnieren
+  Mehr: ganzer Artikel
+  Von: von
+  AmDatum: am
+  VerwandteBeitraege: Verwandte Beiträge
+  VorherigerBeitrag: Vorheriger Beitrag
+  NaechsterBeitrag: Nächster Beitrag
 start:
+  Slogan: Offenes Wissen<br/>für die digitale Gesellschaft
   Intro: >
     Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br/>
     der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt.

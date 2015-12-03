@@ -1,18 +1,13 @@
 ---
 layout: default
-title: Offenes Wissen für die digitale Gesellschaft
-description: ''
 home: true
 ---
 
 <div class="start-banner">
 	<div class="container">
 		<div class="row">
-			<!--<div class="col-md-4">-->
-				<!--<img src="{{ site.staticurl }}images/logo_text_w.png" alt="Open Knowledge Foundation Deutschland"/>-->
-			<!--</div>-->
 			<div class="col-md-12">
-				<h1 class="start-headline">Offenes Wissen<br/>für die digitale Gesellschaft</h1>
+				<h1 class="start-headline">{% t start.Slogan %}</h1>
 			</div>
 		</div>
 	</div>
@@ -24,55 +19,22 @@ home: true
 			<p class="intro">{% t start.Intro %}</p>
 			<p class="intro">{% t start.Willkommen %}</p>
 		</div>
-		<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
-			<div class="showcase">
-				<a href="{{ site.baseurl }}/projekte/codeforde/"><img src="{{ site.staticurl }}images/projects/codeforde_square.jpg" alt="OK Labs" class="img-circle"/></a>
-				<h4 class="kpi">
-					20<br/>OK Labs
-				</h4>
-
-				<p class="detail">
-					entwickeln Tools für <a href="{{ site.baseurl }}/projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
-				</p>
-			</div>
-		</div>
-		<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
-			<div class="showcase">
-				<a href="{{ site.baseurl }}/projekte/codingdavinci/"><img src="{{ site.staticurl }}images/projects/codingdavinci_square.jpg" alt="Coding da Vinci" class="img-circle"/></a>
-				<h4 class="kpi">
-					325,000<br/>Kulturdaten
-				</h4>
-
-				<p class="detail">
-					wurden bei <a href="{{ site.baseurl }}/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
-				</p>
-			</div>
-		</div>
-		<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
-			<div class="showcase">
-				<a href="{{ site.baseurl }}/projekte/jugendhackt/"><img src="{{ site.staticurl }}images/projects/jugendhackt_square.jpg" alt="Jugend Hackt" class="img-circle"/></a>
-				<h4 class="kpi">
-					120<br/>Jugend-Hacker
-				</h4>
-
-				<p class="detail">
-					experimentieren bei <a href="{{ site.baseurl }}projekte/jugendhackt/">Jugend hackt</a> mit Code und Freundschaft.
-				</p>
-			</div>
-		</div>
-		<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
-			<div class="showcase">
-				<a href="{{ site.baseurl }}projekte/fragdenstaat/"><img src="{{ site.staticurl }}images/projects/fragdenstaat_square.jpg" alt="Jugend Hackt" class="img-circle"/></a>
-				<h4 class="kpi">
-					7100+<br/>
-					Anfragen
-				</h4>
-
-				<p class="detail">
-					wurden bei <a href="{{ site.baseurl }}/projekte/fragdenstaat/">FragDenStaat.de</a> von Bürgen an Behörden gestellt.
-				</p>
-			</div>
-		</div>
+		{% assign projects = site.projects %}
+		{% for project in projects %}
+			{% capture langcontent %}{{ project[site.lang].stats }}{% endcapture %}
+			{% if langcontent != '' %}
+				<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
+					<div class="showcase">
+						<a href="{{ site.baseurl }}{{project.url}}"><img src="{{ site.staticurl }}images/{{project.img_square}}" alt="{{project.title}}" class="img-circle"/></a>
+						<h4 class="kpi">{{ langcontent }}</h4>
+						<p class="detail">
+							{% capture teasercontent %}{{ project[site.lang].teaser }}{% endcapture %}
+							{{ teasercontent }}
+						</p>
+					</div>
+				</div>
+			{% endif %}
+		{% endfor %}
 	</div>
 </div>
 
@@ -81,14 +43,12 @@ home: true
 		<div class="row">
 			<div class="col-md-12">
 				<h2>{% t start.Spenden %}</h2>
-
 				<p>{% t start.SpendenText %}</p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2 col-xs-offset-2 col-xs-8">
 				<p><a href="{{ site.baseurl }}spenden/" class="highlight-link">{% t start.SpendenJa %}</a></p>
-
 				<p><a href="{{ site.baseurl }}mission/" class="highlight-link">{% t start.SpendenNein %}</a></p>
 			</div>
 		</div>
