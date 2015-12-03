@@ -43,3 +43,20 @@ start:
   Intro: >
     Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br/>
     der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt.
+  Willkommen: >
+    Hier kannst du mehr über unsere <a href="/verein/">Organisation</a>, unsere <a href="/mission/">Ziele</a> und unsere <a href="/projekte/">Projekte</a> erfahren.
+  Spenden: Spenden
+  SpendenText: >
+    Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Fast alle unserer Projekte leben vom ehrenamtlichen Engagement ihrer Unterstützer. Doch auch ehrenamtliches Engagement kostet Geld.
+    Deshalb freuen wir uns über jede Spende, damit wir den Menschen, die sich unter dem Dach der Open Knowledge Foundation Deutschland für freies Wissen, offene Daten und Beteiligung einsetzen, weiterhin eine gute
+    Infrastruktur bieten können. Gern nehmen wir auch projektbezogene Sachspenden an - als gemeinnützige Organisation freuen wir uns über jede Spende!
+  SpendenJa: Find ich gut. Da will ich spenden.
+  SpendenNein: Stop. Erstmal mehr erfahren.
+  Newsletter: Newsletter
+  NewsletterText: >
+    Du möchtest über die Open Knowledge Foundation auf dem Laufenden bleiben?<br>Dann trag Dich in unseren monatlichen Newsletter ein!
+  NewsletterJa: Abonnieren
+footer:
+  license: >
+    Open Knowledge Foundation Deutschland e.V. ist ein eingetragener Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben,
+    nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert.

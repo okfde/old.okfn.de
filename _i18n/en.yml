@@ -43,3 +43,17 @@ start:
   Intro: >
     We shape the digital society with open knowledge and tools. <br/>
     We empower society with digital tools and open knowledge.
+  Willkommen: >
+    Here you can learn more about our <a href="/en/verein/">organisation</a>, our <a href="/en/mission/">goals</a>  and our <a href="/en/projekte/">projects</a>.
+  Spenden: Donations
+  SpendenText: >
+    Our work is independent, unbiased, interdisciplinary, and non-commercial. Almost all of our projects survive only due to the volunteers who support them. But volunteer commitment also have their cost. Therefore, we look forward to every donation that allows us to provide support and a good infrastructure to the people advocating open knowledge, open data, and participation under the aegis of the Open Knowledge Foundation Germany. We also accept project-based donations.
+  SpendenJa: Sounds good. I want to support OKF DE!
+  SpendenNein: Hold on. Tell me more first.
+  Newsletter: Newsletter
+  NewsletterText: >
+    You want to stay up to date on our activities? Sign up here for our monthly newsletter:
+  NewsletterJa: Sign up
+footer:
+  license: >
+    The Open Knowledge Foundation Deutschland (OKF DE) is an independent non-profit organisation registered in Berlin, Germany in 2011 under VR 30468 B. The contents of this website are, if not stated otherwise, licensed with <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a>.
