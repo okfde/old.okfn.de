@@ -928,7 +928,6 @@ header {
 //projekte page
 
 .project-item {
-
 }
 
 .project-box {
@@ -936,6 +935,13 @@ header {
   display: block;
   flex-grow: 1;
   margin: $grid-margin 0;
+
+  &.text-only {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
 
   .project-box-inner {
     padding: 2rem;

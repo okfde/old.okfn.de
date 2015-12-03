@@ -9,10 +9,29 @@ menu_themen: yes
 </div>
 <hr />
 <h3 class="subtle-section">{% t thema.WeitereThemen %}</h3>
-{% assign themen = site.pages|where:"layout","thema"|where:"lang",site.lang|sort:"title" %}
-{% for thema in themen %}
-{% if thema.title != page.title %}
-<a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}"><p>{{ thema.title }}</p></a>
-{% endif %}
-{% endfor %}
+
+<div class="row">
+  <div class="col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10">
+    <div class="row row-flex row-flex-wrap">
+      {% assign themen = site.pages|where:"layout","thema"|where:"lang",site.lang|sort:"title" %}
+      {% for thema in themen %}
+      {% if thema.title != page.title %}
+
+        <div class="project-item flex-col col-md-4 col-sm-6 col-xs-12">
+          <div class="project-box text-only mini">
+            <a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
+              <div class="project-box-inner">
+                <h3>{{ thema.title }}</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
 
