@@ -2,7 +2,7 @@
 title: DIGIWHIST
 url: http://digiwhist.eu/
 subtitle: "öffentliches Vergabewesen, public procurement, Vergabedaten"
-img: 
+img: projects/digiwhist.jpg
 contact: Mara Mendes
 twitter: digiwhist
 layout: project
