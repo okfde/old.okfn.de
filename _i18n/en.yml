@@ -47,6 +47,13 @@ blog:
   VerwandteBeitraege: Related post
   VorherigerBeitrag: Previous post
   NaechsterBeitrag: Next post
+pagination:
+  Seiten: Pages
+  Aktuelle: Current
+  Seite: Page
+  Vorherige: Previous
+  Naechste: Next
+  Uebersprungen: Übersprungen
 start:
   Slogan: Open Knowledge<br/>for the digital society
   Intro: >

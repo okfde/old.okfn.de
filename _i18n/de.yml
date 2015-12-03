@@ -45,6 +45,13 @@ blog:
   VerwandteBeitraege: Verwandte Beiträge
   VorherigerBeitrag: Vorheriger Beitrag
   NaechsterBeitrag: Nächster Beitrag
+pagination:
+  Seiten: Seiten
+  Aktuelle: Aktuelle
+  Seite: Seite
+  Vorherige: Vorherige
+  Naechste: Nächste
+  Uebersprungen: Übersprungen
 start:
   Slogan: Offenes Wissen<br/>für die digitale Gesellschaft
   Intro: >
