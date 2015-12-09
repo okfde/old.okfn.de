@@ -4,7 +4,7 @@ categories:
 - Featured
 - Open Data Index
 - Open Knowledge
-date: 2015-12-09 16:04:56
+date: 2015-11-17 12:00:56
 image:
   src: 
 layout: post
@@ -20,7 +20,7 @@ type: post
 <br>
 Deutschland fällt in Sachen Open Data hinter einen Großteil der Industrienationen zurück. Das geht aus dem [Open Data Index 2015](http://index.okfn.org/place/) hervor, der heute von der Open Knowledge Foundation veröffentlicht wurde.
 
-<iframe width="100%" height="360px" src="http://index.okfn.org/vis/map/embed/?embed_width=100%&embed_height=360px&filter_year=2015&filter_dataset=all&panel_tools=false&panel_share=false&embed_title=Germany ; 2015&map_place=de" frameBorder="0"></iframe>
+<iframe width="100%" height="360px" src="/vis/map/embed/?embed_width=100%&embed_height=360px&filter_year=2015&filter_dataset=all&panel_tools=false&panel_share=false&embed_title=Germany ; 2015&map_place=de" frameBorder="0"></iframe>
 
 Landete [Deutschland](http://index.okfn.org/place/germany/) im letzten Jahr noch auf Platz 9, liegt es jetzt auf Platz 26 der Rangliste. Während das Land sich in keiner der Kategorien verbessern konnte, verlor es in den Bereichen Gesetzgebung und Unternehmensregister sogar an Punkten, da dieses Jahr das Vergleichsverfahren mit anderen Ländern verfeinert wurde.
 
