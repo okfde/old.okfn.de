@@ -20,7 +20,7 @@ type: post
 <br>
 Deutschland fällt in Sachen Open Data hinter einen Großteil der Industrienationen zurück. Das geht aus dem [Open Data Index 2015](http://index.okfn.org/place/) hervor, der heute von der Open Knowledge Foundation veröffentlicht wurde.
 
-<iframe width="100%" height="360px" src="http://index.okfn.org/vis/map/embed/?embed_width=100%&embed_height=360px&filter_year=2015&filter_dataset=all&panel_tools=false&panel_share=false&embed_title=Germany ; 2015&map_place=de" frameBorder="0"></iframe>
+![image](https://okfn.de/blob/gh-pages/files/blog/2015-12/Screenshot_opendataindex.png)
 
 Landete [Deutschland](http://index.okfn.org/place/germany/) im letzten Jahr noch auf Platz 9, liegt es jetzt auf Platz 26 der Rangliste. Während das Land sich in keiner der Kategorien verbessern konnte, verlor es in den Bereichen Gesetzgebung und Unternehmensregister sogar an Punkten, da dieses Jahr das Vergleichsverfahren mit anderen Ländern verfeinert wurde.
 
@@ -30,3 +30,5 @@ In einigen Bereichen liegt Deutschland besonders weit hinten. Dazu zählt die Tr
 
 Bei den Daten zu Wahlergebnissen fällt Deutschland von 100% im vergangenen Jahr auf 0% in diesem Jahr zurück. Das liegt daran, dass die Definition der zu veröffentlichenden Daten spezifiziert wurde. Alle Daten sollen auf Ebene der Wahlstationen verfügbar sein. In Deutschland sind Daten nur an Orten mit über 100.000 Personen verfügbar. Auch andere Länder wie Großbritannien haben aufgrund dieser Änderungen Punkte verloren. Bei den Wetterdaten gab es auch eine Nullnummer für Deutschland, Grund dafür sind hier die nicht erreichten fünf Prognosetage der Wetterdaten. 
 Taiwan landet nach dieser Bewertung auf dem auf dem ersten Rang, gefolgt vom Vorjahresersten Großbritannien und Dänemark, Kolumbien und Finnland. 
+
+<iframe width="100%" height="360px" src="http://index.okfn.org/vis/map/embed/?embed_width=100%&embed_height=360px&filter_year=2015&filter_dataset=all&panel_tools=false&panel_share=false&embed_title=Germany ; 2015&map_place=de" frameBorder="0"></iframe>
