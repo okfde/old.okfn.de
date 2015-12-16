@@ -1,11 +1,11 @@
 ---
-title: Freedom of Information (FOI)
+title: Freedom of Information
 layout: thema
 background: backgrounds/informationsfreiheit.jpg
 teaser: We advocate free and open access to information and documents from public authorities.
 ---
 
-# Freedom of Information
+# Freedom of Information (FOI)
 
 Freedom of Information is the civic right to free and open access to information and documents of public authorities.
 

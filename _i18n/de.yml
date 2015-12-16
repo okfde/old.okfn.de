@@ -13,6 +13,7 @@ navig:
   Impressum: Impressum
 titles:
     Themen: Themen
+    Impressum: Impressum
 themen:
   Themen: Themen
   Mehr: mehr erfahren
@@ -74,3 +75,14 @@ footer:
   license: >
     Open Knowledge Foundation Deutschland e.V. ist ein eingetragener Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben,
     nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert.
+impressum:
+  Adresse: Vereinsadresse
+  Kontakt: Kontakt
+  WeitereKanaele: Weitere Kanäle
+  Webseitendesign: Webseitendesign
+  VereinsregisterNr: Vereinsregister Nr
+  Steuernummer: Steuernummer
+  VAT: VAT
+  EMail: E-Mail
+  Telefon: Telefon
+  Fax: Fax

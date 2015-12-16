@@ -1,54 +1,45 @@
 ---
 layout: default
 menu_blog: yes
-
 ---
-
 {% assign author = site.data.team | where:"name",page.author | first %}
-
 <div class="lurking-header post">
-
   <div{% if author.img %} class="post-author"{% else %} class="post-nonteam-author" {% endif %}>
     {% if author.img %}<img src="{{ site.staticurl }}images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">{% endif %}
     <p class="post-meta">
       {% if author.name %}
-      {% t blog.Von %} <a href="{{ site.baseurl }}/{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
+        {% t blog.Von %} <a href="{{ site.baseurl }}/{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
       {% else %}
-      {% t blog.Von %} {{ page.author }}
+        {% t blog.Von %} {{ page.author }}
       {% endif %}
       {% t blog.AmDatum %} {{ page.date | date:"%d.%m.%Y" }}
-  <ul class="post-tags">
-    {% for tag in page.tags %}
-    <li><span class="badge">{{ tag }}</span></li>
-    {% endfor %}
-  </ul>
+      <ul class="post-tags">
+        {% for tag in page.tags %}
+        <li><span class="badge">{{ tag }}</span></li>
+        {% endfor %}
+      </ul>
     </p>
   </div>
-
   <h1>{{ page.title }}</h1>
-
   {% if page.image %}
   <div class="post-image-full" style="background-image: url({{ page.image.src }});" title="{{ page.image.title }}"></div>
   {% endif %}
-
   <div class="post-content">{{ content }}</div>
 </div>
-
-
 
 {% assign postsTitlesArray = '' | split:':' %}
 
 {% for post in site.related_posts%}
-{% for tag in page.tags %}
-{% unless tag == 'Deutschland' %}
-{% if post.tags contains tag %}
-{% if postsTitlesArray contains post %}
-{% else %}
-{% assign postsTitlesArray = postsTitlesArray | push: post %}
-{% endif %}
-{% endif %}
-{% endunless %}
-{% endfor %}
+  {% for tag in page.tags %}
+    {% unless tag == 'Deutschland' %}
+      {% if post.tags contains tag %}
+        {% if postsTitlesArray contains post %}
+        {% else %}
+          {% assign postsTitlesArray = postsTitlesArray | push: post %}
+        {% endif %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
 {% endfor %}
 
 {% assign thesize = postsTitlesArray.size %}

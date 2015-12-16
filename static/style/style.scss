@@ -479,17 +479,19 @@ header {
   @include MQ-M() {
     padding-top: $header-M;
 
-    dt {
-      float: left;
-      width: 160px;
-      overflow: hidden;
-      clear: left;
-      text-align: right;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-    }
-    dd {
-      margin-left: 180px
+    dl {
+      dt {
+        float: left;
+        width: 280px;
+        overflow: hidden;
+        clear: left;
+        text-align: right;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      dd {
+        margin-left: 300px
+      }
     }
   }
 }
@@ -800,7 +802,7 @@ header {
 
   dt {
     float: left;
-    width: 20px;
+    width: 20px !important;
     overflow: hidden;
     clear: left;
     text-align: right;
@@ -809,7 +811,7 @@ header {
   }
 
   dd {
-    margin-left: 35px;
+    margin-left: 35px !important;
   }
 }
 
@@ -818,11 +820,11 @@ header {
   line-height: 26px;
 
   dt {
-    width: 30px;
+    width: 30px !important;
   }
 
   dd {
-    margin-left: 35px;
+    margin-left: 35px !important;
   }
 }
 
@@ -1215,7 +1217,10 @@ header {
   }
 
   iframe {
-    margin: 0 auto;
+    display: block;
+    margin: 3px auto 30px;
+    width: 600px;
+    max-width: 600px;
   }
 
 }

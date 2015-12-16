@@ -1,0 +1,17 @@
+---
+layout: default
+title: Vorstand
+description: ''
+background: backgrounds/background.jpg
+menu_vorstand: yes
+---
+{% assign board = site.data.team | where:"board",1 | sort: "name" %}
+<div class="lurking-header">
+  <h1>Vorstand</h1>
+  <p>Der Vorstand des Open Knowledge Foundation Deutschland e.V. besteht aus {{ board|size }} Mitgliedern.
+    Sie entscheiden über die strategische Ausrichtung des Vereins.</p>
+</div>
+{% for person in board %}
+{% assign order=forloop.index0|modulo:2 %}
+{% include person.html person=person order=order %}
+{% endfor %}

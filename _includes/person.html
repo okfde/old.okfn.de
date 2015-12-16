@@ -6,8 +6,16 @@
   <div class="person-col col-md-8 order-{{ include.order }}">
     <div>
       <h3>{% if person.title.size > 0 %}{{ person.title }} {% endif %}{{ person.name }}</h3>
-      {% if person.bio.size > 0 %}
-        {{ person.bio | markdownify }}
+      {% if site.lang == "en" %}
+        {% if person.bio_en.size > 0 %}
+          {{ person.bio_en | markdownify }}
+        {% else if person.bio.size > 0 %}
+          {{ person.bio | markdownify }}
+        {% endif %}
+      {% else %}
+        {% if person.bio.size > 0 %}
+          {{ person.bio | markdownify }}
+        {% endif %}
       {% endif %}
       <dl class="icon-list">
       {% if person.twitter %}

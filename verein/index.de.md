@@ -3,7 +3,6 @@ layout: page
 title: Verein
 menu_verein: yes
 background: backgrounds/services.jpg
-
 ---
 
 Der Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit der Gründung 2011 für die Verbreitung von freiem und offen zugänglichem Wissen in der Gesellschaft einsetzt.
