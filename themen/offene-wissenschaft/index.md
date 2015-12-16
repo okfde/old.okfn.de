@@ -14,15 +14,17 @@ redirect_from: "/open-science/"
 
 ## Die deutschsprachige OKF-Arbeitsgruppe »Open Science«
 
-Für den Bereich Wissenschaft konstituierte sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Open Science Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Open Science fungieren.
+Für den Bereich Wissenschaft konstituierte sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine [deutschsprachige Open Science Arbeitsgruppe](http://www.ag-openscience.de). Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Open Science fungieren.
 
 ## Mehr erfahren oder gleich für die Öffnung von Wissenschaft und Forschung aktiv werden?
 
 Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-de) der Open Science AG oder [kontaktiere uns direkt](mailto:info@okfn.de).
 
+Website: [www-ag-openscience.de](http://www.ag-openscience.de) 
+
 ## Mission Statement der deutschsprachigen Open Science AG
 
-Zur internationalen Open Access Week 2014 haben die Mitglieder der Arbeitsgruppe folgendes Mission Statement (Version 1.0) veröffentlicht.
+Zur internationalen Open Access Week 2014 haben die Mitglieder der [Arbeitsgruppe](http://www.ag-openscience.de)  folgendes Mission Statement (Version 1.0) veröffentlicht.
 
 ### Science – Open by default
 Version 1.0, Oktober 2014
@@ -91,3 +93,5 @@ Mitglieder der AG:
 * Andreas Leimbach
 * Thilo Paul-Stüve, Christian-Albrechts-Universität zu Kiel
 * Prof. Dr. Sascha Friesike
+
+[www-ag-openscience.de](http://www.ag-openscience.de) 
