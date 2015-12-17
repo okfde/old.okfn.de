@@ -1,5 +1,6 @@
 {% assign post=include.post %}
-<h4>{{post.title}}</h4>
+<h4 class="post-title"><a href="{{ site.baseurl }}/{{ post.url |replace_first:'/',''}}">{{post.title | truncatewords: 8 }}</a></h4>
+<p class="post-excerpt">{{ post.excerpt | truncatewords: 16 | markdownify | strip_html }}</p>
 <p class="post-meta">
 	{% if post.author.name %}
 	{% t blog.Von %} <a href="{{ site.baseurl }}/{% if post.author.staff %}team{% else %}vorstand{% endif %}#{{ post.author.name | slugify }}">{{ post.author.name }}</a><br/>

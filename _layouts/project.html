@@ -10,10 +10,13 @@ menu_projekte: yes
   <div class="videoWrapper"><iframe src="{{page.video}}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   {% endif %}
 
-  {% capture langcontent %}{{ page[site.lang].content }}{% endcapture %}
-  {{ langcontent | markdownify }}
-
-  {{ content }}
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      {% capture langcontent %}{{ page[site.lang].content }}{% endcapture %}
+      {{ langcontent | markdownify }}
+      {{ content }}
+    </div>
+  </div>
 
   {% if page.people.size > 0 %}
     <h3>{% t projekt.Ansprechpartner %}</h3>

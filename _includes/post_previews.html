@@ -1,0 +1,10 @@
+{% assign posts=include.posts %}
+<ul class="post-previews post-previews-{{ posts.size }}">
+	{% for post in posts %}
+	<li class="post-preview">
+		<div class="post-preview-content">
+			{% include post_preview_small.html post=post %}
+		</div>
+	</li>
+	{% endfor %}
+</ul>

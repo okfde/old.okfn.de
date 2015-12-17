@@ -1210,7 +1210,7 @@ header {
   .post-content {
     overflow-x: auto;
     img {
-      width: 100%;
+      max-width: 100%;
       height: auto;
       display: block;
     }
@@ -1225,29 +1225,121 @@ header {
 
 }
 
-.broad-header {
+.other-posts {
   background-color: #fff;
   text-align: center;
+  padding-top: 0;
+  padding-bottom: 30px;
+
   h3 {
     margin-top: 30px;
-  }
-
-  .row {
-    padding-bottom: 20px;
+    margin-bottom: 0;
   }
 
 }
 
-.related-post {
-  background-color: #fff;
-  margin-bottom: 20px;
-  padding: 30px 30px 20px;
-  ul {
-    list-style: none;
+.post-previews {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
 
-    li {
-      margin-top: 4px;
+  .post-preview {
+    display: flex;
+    padding: 0.5em;
+    width: 100%;
+  }
+
+  .subtle-section {
+    width: 100%;
+    margin: 10px 0 0;
+    text-align: left;
+  }
+
+  .post-preview-right {
+    .subtle-section {
+      text-align: right;
+    }
+  }
+
+  &.post-previews-4 {
+
+    @media all and (min-width: 40em) {
+      .post-preview {
+        width: 50%;
+      }
     }
 
+    @media all and (min-width: 60em) {
+      .post-preview {
+        width: 25%;
+      }
+    }
+  }
+
+  &.post-previews-3 {
+
+    @media all and (min-width: 40em) {
+      .post-preview {
+        width: 50%;
+      }
+    }
+
+    @media all and (min-width: 60em) {
+      .post-preview {
+        width: 33%;
+      }
+    }
+  }
+
+  &.post-previews-2 {
+
+    @media all and (min-width: 40em) {
+      .post-preview {
+        width: 50%;
+      }
+    }
+
+    @media all and (min-width: 60em) {
+      .post-preview {
+        width: 50%;
+      }
+    }
+  }
+
+  .post-preview-content {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 1em;
+    width: 100%;
+
+    .post-title {
+      font-size: 0.9em;
+      flex: 1 0 auto;
+    }
+
+    .post-meta {
+      font-size: 0.8em;
+      color: $light-text-color;
+      line-height: 1.3em;
+
+      > a {
+        color: $light-text-color;
+        font-weight: normal;
+      }
+
+      > a:hover {
+        font-weight: bold;
+        color: $light-text-color;
+      }
+    }
+
+    .post-excerpt {
+      font-size: 0.9em;
+      flex: 1 0 auto;
+    }
   }
 }
+
+
