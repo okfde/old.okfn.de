@@ -30,7 +30,7 @@ projekte:
   Events: Events
   Archiv: Archiv
 projekt:
-  Ansprechpartner: Ansprechpartner
+  Ansprechpartner: Ansprechpartner/innen
   Mailingliste: Mailingliste
   MehrInformationen: Mehr Informationen
   WeitereProjekte: Weitere Projekte
@@ -40,7 +40,7 @@ thema:
   WeitereThemen: Weitere Themen
 blog:
   FeedAbo: mit dem Feedreader abonnieren
-  Mehr: ganzer Artikel
+  Mehr: weiterlesen...
   Von: von
   AmDatum: am
   VerwandteBeitraege: Verwandte Beiträge

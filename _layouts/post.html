@@ -23,6 +23,10 @@ menu_blog: yes
 	<h1>{{ page.title }}</h1>
 	{% if page.image %}
 	<div class="post-image-full" style="background-image: url({{ page.image.src }});" title="{{ page.image.title }}"></div>
+
+	{% if page.image.licence %}
+	<sub>{{ page.image.licence | markdownify }}</sub>
+	{% endif %}
 	{% endif %}
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1">
@@ -49,12 +53,12 @@ menu_blog: yes
 <ul class="post-previews post-previews-{{ col }}">
 	{% if page.previous.url %}
 	<li class="post-preview">
-		<h3 class="subtle-section"><i class="icon-left-open"></i> {% t blog.VorherigerBeitrag %}</h3>
+		<h3 class="subtle-section"><a href="{{ site.baseurl }}/{{ page.previous.url |replace_first:'/',''}}"><i class="icon-left-open"></i> {% t blog.VorherigerBeitrag %}</a></h3>
 	</li>
 	{% endif %}
 	{% if page.next.url %}
 	<li class="post-preview post-preview-right">
-		<h3 class="subtle-section">{% t blog.NaechsterBeitrag %} <i class="icon-right-open"></i></h3>
+		<h3 class="subtle-section"><a href="{{ site.baseurl }}/{{ page.next.url |replace_first:'/',''}}">{% t blog.NaechsterBeitrag %} <i class="icon-right-open"></i></a></h3>
 	</li>
 	{% endif %}
 </ul>
