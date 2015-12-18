@@ -10,8 +10,8 @@
 			<div class="project-box-inner">
 				<h3>{{ project.title }}</h3>
 				{% capture langcontent %}{{ project[site.lang].subtitle }}{% endcapture %}
-				{{ if langcontent!='' and style != 'mini' }}
-					<p>{{ langcontent }}</p>
+				{{ if langcontent!='' }}
+				{% unless style == 'mini' %}<p>{{ langcontent }}</p>{% endunless %}
 				{{ endif}}
 			</div>
 		</a>
