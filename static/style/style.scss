@@ -943,10 +943,6 @@ header {
   .row > div {
     margin: 0;
     padding: 0;
-    //display: flex;
-    //align-items: center;
-    //justify-content: center;
-    //text-align: right;
   }
 
   .start-headline {
@@ -1203,7 +1199,7 @@ header {
   .post-meta {
     font-size: 0.8em;
     color: $light-text-color;
-   display: flex;
+    display: flex;
     flex-direction: row;
 
     .post-img-wrap {
@@ -1227,13 +1223,6 @@ header {
   .post-teaser {
     padding-bottom: 7px;
 
-    .post-tags {
-      padding: 0;
-      > li {
-        display: inline-block;
-      }
-    }
-
     .post-title {
       word-wrap: break-word;
       margin-top: 10px;
@@ -1248,6 +1237,14 @@ header {
       font-size: 0.8em;
       color: $light-text-color;
     }
+
+    .post-tags {
+      padding: 0;
+      > li {
+        display: inline-block;
+      }
+    }
+
   }
 
   .post-tags {
@@ -1358,6 +1355,7 @@ header {
       max-width: 100%;
       height: auto;
       display: block;
+      margin: 0 auto;
     }
   }
 
@@ -1407,34 +1405,6 @@ header {
     }
   }
 
-  @include MQ-S() {
-  }
-
-  @include MQ-M() {
-    &.post-previews-4 .post-preview {
-        width: 50%;
-    }
-    &.post-previews-3 .post-preview {
-        width: 50%;
-    }
-    &.post-previews-2 .post-preview {
-      width: 50%;
-    }
-  }
-
-  @include MQ-L() {
-
-    &.post-previews-4 .post-preview {
-          width: 25%;
-    }
-    &.post-previews-3 .post-preview {
-          width: 33%;
-    }
-    &.post-previews-2 .post-preview {
-          width: 50%;
-    }
-  }
-
   .post-preview-content {
     display: flex;
     flex-direction: column;
@@ -1443,16 +1413,19 @@ header {
     width: 100%;
 
     .post-img-wrap {
-      height: 152px;
       text-align: center;
-      border: 1px solid #c7c7c7;
+      height: 152px;
+      max-height: 152px;
       display: flex;
-      justify-content: center;
+      flex-direction: column;
       align-items: center;
-
+      justify-content: center;
+      border: 1px solid #c7c7c7;
       .post-img {
         max-height: 150px;
-        max-width: 260px;
+        max-width: 240px;
+        margin: 0 auto;
+        padding-right: 4px;
       }
     }
 
@@ -1482,6 +1455,39 @@ header {
       flex: 1 0 auto;
     }
   }
+
+  @include MQ-M() {
+    //.post-img-wrap {
+    //  .post-img {
+    //    max-height: 240px;
+    //    max-width: 100%;
+    //    height: auto;
+    //  }
+    //}
+    &.post-previews-4 .post-preview {
+      width: 50%;
+    }
+    &.post-previews-3 .post-preview {
+      width: 50%;
+    }
+    &.post-previews-2 .post-preview {
+      width: 50%;
+    }
+  }
+
+  @include MQ-L() {
+
+    &.post-previews-4 .post-preview {
+      width: 25%;
+    }
+    &.post-previews-3 .post-preview {
+      width: 33%;
+    }
+    &.post-previews-2 .post-preview {
+      width: 50%;
+    }
+  }
+
 }
 
 

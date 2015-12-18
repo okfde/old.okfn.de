@@ -17,6 +17,8 @@
 		</ul>
 		<h3 class="post-title"><a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">{{ post.title }}</a></h3>
 		<p class="post-excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 50}}</p>
-		<p class="post-more"><a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">{% t blog.Mehr %}</a></p>
+		<p class="post-more">
+			<a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">{% t blog.Mehr %}</a>
+		</p>
 	</div>
 </article>
