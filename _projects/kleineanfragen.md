@@ -11,7 +11,7 @@ contact:
   twitter: kleineanfragen
   github: https://github.com/robbi5/kleineanfragen
 de:
-  content: >
+  content: |-
      Kleine Anfragen sind offizielle Fragen an die Regierung von Abgeordneten der Landtage und des Bundestags.
      Die jeweiligen Ministerien sind verpflichtet darauf schriftlich zu antworten und das Ergebnis für die Öffentlichkeit zugänglich zu machen.
      
@@ -29,7 +29,7 @@ de:
      wichtige Themen der Bundesrepublik und ihren Bundesländern zu verschaffen und sich über ein Thema genauer zu informieren.
      
 en:
-  content: >
+  content: |-
      Kleine Anfragen sind offizielle Fragen an die Regierung von Abgeordneten der Landtage und des Bundestags.
      Die jeweiligen Ministerien sind verpflichtet darauf schriftlich zu antworten und das Ergebnis für die Öffentlichkeit zugänglich zu machen.
      

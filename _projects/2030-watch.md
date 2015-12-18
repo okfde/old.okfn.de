@@ -1,7 +1,7 @@
 ---
 title: 2030-Watch
 img: projects/2030-watch.png
-type: tool
+type: featured
 layout: project
 people:
   - name: Claudia Schwegmann
@@ -17,7 +17,7 @@ contact:
   github: https://github.com/okfde/2030-watch.de
 de:
   subtitle: Deutschland wird nachhaltig
-  content: >
+  content: |-
     2030-Watch überwacht und visualisiert die Umsetzung der nachhaltigen Entwicklungsziele in Deutschland. 
     Die Sustainable Development Goals (SDGs) wurden im September 2015 von den Vereinten Nationen (UN) verabschiedet und sollen bis 2030 erreicht werden. 
     Alle UN-Mitgliedsstaaten haben sich verpflichtet diese 17 Ziele und 169 Unterziele umzusetzen. 
@@ -28,7 +28,7 @@ de:
     Der Rest (weniger als 1%) sind Eigenmittel.
 en:
   subtitle: Germany becomes sustainable
-  content: >
+  content: |-
     2030-Watch monitors the implementation of the Sustainable Development Goals (SDGs) in Germany. 
     The SDGs have been adopted by the United Nations in September 2015 and shall be implemented by 2030. 
     All members the United Nations have committed to implementing 17 Goals and 169 targets. 

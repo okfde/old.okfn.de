@@ -16,7 +16,7 @@ contact:
   website: http://digiwhist.eu
   twitter: digiwhist
 de:
-  content: >
+  content: |-
      ####Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
      
      Die Vergabe von öffentlichen Aufträgen, also Dienstleistungen, Bauleistungen und Waren macht einen großen Anteil der Staatsausgaben aus. In der EU sind dies etwa 16% des Bruttoinlandsprodukts. Oft ist die Vergabe dieser Aufträge allerdings nicht besonders Transparent. So können 20-25% des Auftragsvolumens an Korruption verloren gehen. 
@@ -25,7 +25,7 @@ de:
      Das Ziel ist es zum einen das Vertrauen in Regierungen zu erhöhen und zum anderen die Effizienz in der Vergabe von öffentlichen Aufträgen in Europa zu steigern. Hierfür werden systematisch Informationen zur öffentlichen Vergabe gesammelt, strukturiert und analysiert.  
      
      Hierfür entwickeln wir bei der OKF 35 Vergabeportale (für 34 Länder und die Europäische Kommission) die folgende Hauptfunktionen erfüllen: 
-     
+
      * downloadbare Datenbank und Dokumentation 
      * benutzerfreundliche, interaktive Analyse-Werkzeuge 
      * Benutzer können zu den Portalen beisteuern
@@ -35,7 +35,7 @@ de:
      Das Projekt wird finanziert durch EU Horizon 2020. 
 
 en:
-  content: >
+  content: |-
      ####Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
      
      The allocation of funds through public procurement (services, bulding contracts, and goods) represents a significant share of state expenditure. In the EU, this amounts to about 16% of the GDP. In many cases, the allocation of these contracts is not very transparent. As a result, 20-25% of the volume of orders can be lost to corruption.
