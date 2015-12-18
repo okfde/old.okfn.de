@@ -11,30 +11,26 @@ exclude:
   - "scripts/"
   - "_site/"
   - "vendor/"
-
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - octopress-autoprefixer
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "projects"
     values:
       layout: "project"
-
 collections:
   projects:
     output: true
     permalink: /projekte/:path/
-
-
 permalink: blog/:year/:month/:title/
 paginate: 8
 paginate_path: blog/page/:num/
 languages: ["de", "en"]
 exclude_from_localizations: ["static", "files", "style", "js", "fonts", "images"]
 sass:
-    sass_dir: static/style/_scss
-    style: compressed
+  sass_dir: static/style/_scss
+  style: compressed
