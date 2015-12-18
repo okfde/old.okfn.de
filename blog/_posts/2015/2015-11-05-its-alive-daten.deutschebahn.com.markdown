@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-11-05 18:59:59
 image: 
-  src : http://okfn.de/files/blog/2015-11/db_launch.jpg
+  src : /files/blog/2015/11/db_launch.jpg
 layout: post
 published: true
 status: publish
@@ -19,10 +19,9 @@ title: "It's alive… data.deutschebahn.com"
 type: post
 
 ---
-<br>
 *Frankfurt, 05.11.2015* 19:00 Es ist hoch offiziös. [http://data.deutschebahn.com](http://data.deutschebahn.com) ist online. Endlich. Sie bewegt sich doch. Unternehmen Zukunft. Die Bahn kommt. Und alle so: Yeah.
 
-– Wie [unlängst angekündigt](http://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/) gibt es endlich ein Datenportal der Deutschen Bahn. Manche warteten ja ein gewisse Zeit drauf:
+– Wie [unlängst angekündigt](/blog/2015/10/die-bahn-kommt-auf-open-data/) gibt es endlich ein Datenportal der Deutschen Bahn. Manche warteten ja ein gewisse Zeit drauf:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="de" dir="ltr"><a href="https://twitter.com/DB_Bahn">@DB_Bahn</a> / cc <a href="https://twitter.com/jensbest">@jensbest</a> Echter Fortschritt wäre <a href="http://t.co/2Ho63f66">http://t.co/2Ho63f66</a> und eine Runde Internformat. Der Rest kommt dann.</p>&mdash; Mathias Schindler (@presroi) <a href="https://twitter.com/presroi/status/245385532333498368">September 11, 2012</a></blockquote>
 

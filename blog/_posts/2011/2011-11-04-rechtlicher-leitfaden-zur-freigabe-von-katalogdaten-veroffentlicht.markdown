@@ -15,7 +15,7 @@ type: post
 
 ---
 
-Im Auftrag des Hochschulbibliothekszentrums des Landes Nordrhein-Westfalen (hbz) hat der auf Urheberrecht spezialisierte Rechtswissenschaftler und Rechtsanwalt Dr. Till Kreutzer, Mitglied der Redaktion von irights.info und Mitglied im [wissenschaftlichen Beirat der OKF Deutschland](http://okfn.de/about/advisory-board/), den rechtlichen Leitfaden "Open Data – Freigabe von Daten aus Bibliothekskatalogen" erstellt. Der Leitfaden  
+Im Auftrag des Hochschulbibliothekszentrums des Landes Nordrhein-Westfalen (hbz) hat der auf Urheberrecht spezialisierte Rechtswissenschaftler und Rechtsanwalt Dr. Till Kreutzer, Mitglied der Redaktion von irights.info und Mitglied im wissenschaftlichen Beirat der OKF Deutschland, den rechtlichen Leitfaden "Open Data – Freigabe von Daten aus Bibliothekskatalogen" erstellt. Der Leitfaden  
 lässt sich u.a unter folgender URL abrufen (PDF, 896 KB):
 
 <http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/open-data-leitfaden.pdf>

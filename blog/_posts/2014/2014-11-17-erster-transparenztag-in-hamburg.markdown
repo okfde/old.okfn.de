@@ -6,7 +6,7 @@ categories:
 - offene Daten
 date: 2014-11-17 10:49:36
 image:
-  src: http://de.okblogfarm.org/files/2014/09/transparenzportal-hamburg-beta-415x277.png
+  src: /files/blog/2014/09/transparenzportal-hamburg-beta-415x277.png
   title: transparenzportal-hamburg-beta
 layout: post
 published: true

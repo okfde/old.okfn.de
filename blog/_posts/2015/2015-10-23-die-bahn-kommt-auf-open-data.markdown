@@ -18,7 +18,6 @@ title: "Die Bahn kommt… auf Open Data!"
 type: post
 
 ---
-<br>
 <i>Berlin, 23.10.2015</i> – Lange Zeit sah es so aus, als sei die Deutsche Bahn die letzte Bastion geschlossener Daten, aus der auf offiziellem Weg nicht auch nur ein Bit zu holen wäre. Doch was in diesem Frühjahr und Sommer mit zwei Hackathons in [Frankfurt](https://medium.com/@highsource/reliable-train-connections-app-wins-the-first-deutsche-bahn-hackathon-3419ef275bfc#.hmftwznor) und [Berlin](http://derbloggendebahner.de/2nd-db-hackathon/) anfing, soll keine Ausnahme bleiben: Auch die DB hat offenkundig die Vorteile von Open Data erkannt und bewegt sich auf eine Öffnung ihrer Daten zu.
 
 Die Open Knowledge Foundation ist erfreut, dass in einem ersten Schritt nun die Daten *aller* Aufzüge in den von der DB Station und Service betriebenen Bahnhöfen als Open Data veröffentlicht werden sollen. Unter anderem sollen Hersteller, Inbetriebnahmejahr und Geokoordinaten jedes Aufzugs – sofern in der Datenhaltung der Bahn vorhanden – der Community zur Verfügung stehen. Zusätzlich sorgen Angaben zur Türbreite und den Kabinenabmessungen dafür, dass Rückschlüsse auf die Barrierefreiheit der Anlage möglich sind. Im nächsten Schritt soll danach die Alpha-Version einer API folgen, über die der Betriebszustand der Aufzüge geprüft werden kann. Eine Indoor-Routing-Applikation könnte so beispielsweise im Falle einer Aufzugstörung gleich die passende Ausweichroute aufs Gleis ermitteln. Weitere Datensätze sind Betriebsstellenverzeichnis, Bahnsteighöhen und die Daten vom Netzradar.

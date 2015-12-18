@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2014-01-13 13:35:03
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/charta_open_data_okf.png
+  src: /files/blog/2013/06/charta_open_data_okf.png
   title: charta_open_data_okf
 layout: post
 published: true
@@ -20,7 +20,7 @@ type: post
 
 ---
 
-Im Sommer 2013 unterzeichneten die G8 Staaten, darunter auch Deutschland, ü[berraschend die “Open Data"-Charta](http://okfn.de/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/). Die Unterzeichnerländer verpflichteten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern.
+Im Sommer 2013 unterzeichneten die G8 Staaten, darunter auch Deutschland, ü[berraschend die “Open Data"-Charta](/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/). Die Unterzeichnerländer verpflichteten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern.
 
 Die einzelnen Mitgliedsländer einigten sich auch darauf bis Ende 2013 konkrete Aktionspläne zu erstellen und die dort festgeschriebenen Fortschritte beim nächsten G8-Treffen, am 4. und 5. Juni 2014 in Sotschi, zu überprüfen. Durch die ["noch nicht gebildeten neue Regierungskoalition konnte die Veröffentlichungs-Frist für den deutschen Aktionsplan jedoch nicht eingehalten werden"](https://www.govdata.de/neues/-/blogs/verzogerung-beim-aktionsplan-zur-umsetzung-der-g8-open-data-charta).
 

@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2014-03-05 14:56:10
 image:
-  src: http://de.okfn.org/wp-content/blogs.dir/21/files/2014/03/IMG_3462_crop.jpg
+  src: /files/blog/2014/03/IMG_3462_crop.jpg
   title: IMG_3462_crop
 layout: post
 published: true

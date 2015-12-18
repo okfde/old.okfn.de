@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2014-09-02 10:59:31
 image:
-  src: http://de.okblogfarm.org/files/2014/09/Untitled1.png
+  src: /files/blog/2014/09/Untitled1.png
   title: Jugend hackt beim Festival of Code
 layout: post
 published: true
@@ -33,7 +33,7 @@ Die meisten Mitglieder unserer Gruppe machten sich bereits am Sonntag vor dem Fe
 
 Die eigentliche Hack-Woche verbrachten wir somit in Plymouth, wo wir am Montag durch den “Centre Lead” Chris Hunt empfangen wurden, der uns in alle organisatorischen Dinge einführte. Untergebracht waren wir im “Babbage Building” auf dem Gelände der Universität, weshalb wir am abschließenden Festival of Code (also am Freitag) eine komfortable Anreise von nur 200 Metern zu absolvieren hatten. Die gesamte Woche hindurch arbeiteten wir fleißig an unseren Projekten und konnten zwischen durch mit den neusten Gadgets (u.a. Oculus Rift, Smartwatch) spielen.
 
-![Jugend hackt Teilnehmer an der Plymouth University](http://de.okblogfarm.org/files/2014/09/Untitled.png) Jugend hackt Teilnehmer an der Plymouth University
+![Jugend hackt Teilnehmer an der Plymouth University](/files/blog/2014/09/Untitled.png) Jugend hackt Teilnehmer an der Plymouth University
 
 **“Let’s Combine” im Finale**
 

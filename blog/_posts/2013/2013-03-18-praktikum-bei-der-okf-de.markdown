@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-03-18 12:06:57
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/03/8210336893_c76839a169_b.jpg
+  src: /files/blog/2013/03/8210336893_c76839a169_b.jpg
   title: 8210336893_c76839a169_b
 layout: post
 published: true
@@ -24,7 +24,7 @@ Quelle: Stadt Land Code Camp, Berlin, 2012.
 
 Die Open Knowledge Foundation Deutschland sucht zwei Praktikant*innen, hier sind die Stellenbeschreibungen. Wir freuen uns auf motivierte Bewerbungen!
 
-Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein, der seit mehreren Jahren erfolgreich im Bereich Offene Daten, Transparenz und Beteiligung arbeitet. Wir entwickeln freie Software und Anwendungen, die den konkreten Nutzen von offenen Daten aufzeigen, tragen zum politischen Diskurs bei und organisieren Veranstaltungen wie Konferenzen und Hackdays. Neben der Arbeit an Projekten hier in Deutschland sind wir auch international tätig und gut vernetzt. Infos zu unseren derzeitigen Projekten findest du hier: **[http://okfn.de/projects](http://okfn.de/projects/)**.
+Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein, der seit mehreren Jahren erfolgreich im Bereich Offene Daten, Transparenz und Beteiligung arbeitet. Wir entwickeln freie Software und Anwendungen, die den konkreten Nutzen von offenen Daten aufzeigen, tragen zum politischen Diskurs bei und organisieren Veranstaltungen wie Konferenzen und Hackdays. Neben der Arbeit an Projekten hier in Deutschland sind wir auch international tätig und gut vernetzt. Infos zu unseren derzeitigen Projekten findest du hier: **[okfn.de/projekte](/projekte/)**.
 
 #### Techi-Praktikum bei der Open Knowledge Foundation Deutschland
 

@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2015-05-18 11:25
 image:
-  src: http://okfn.de/files/blog/2015-5/digiwhist.jpg
+  src: /files/blog/2015/05/digiwhist.jpg
   title: 
 layout: post
 published: true
@@ -13,11 +13,8 @@ tags: []
 title: "Event: How Open Data Tools Can be Used to Engage Citizens in Fighting Corruption"
 type: post
 ---
-<br>
-<strong>Event: How Open Data Tools Can be Used to Engage Citizens in Fighting Corruption</strong>
-
 Wir freuen uns, dass die Hertie School of Governance und Transparency International am 21. Mai zu einer Diskussion zur Nutzung von Open Data in der Korruptionsbekämpfung einladen. Hierbei wird auch das 
-<a href="http://okfn.de/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/">DIGIWHIST Projekt</a>
+<a href="/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/">DIGIWHIST Projekt</a>
  an dem wir zusammen mit unter anderem der Hertie School of Governance arbeiten vorgestellt. Diskutiert wird auf Englisch. Mehr Infos findet ihr 
  <a href="http://www.hertie-school.org/mediaandevents/events/events-pages/21052015-how-open-data-tools-can-be-used-to-engage-citizens-in-anti-corruption-investigations/">hier</a>
  

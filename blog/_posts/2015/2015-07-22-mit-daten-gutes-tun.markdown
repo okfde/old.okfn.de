@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2015-07-22 16:00
 image:
-  src: http://okfn.de/files/blog/2015-7/open-impact.png
+  src: /files/blog/2015/07/open-impact.png
   title: OpenImpact
 layout: post
 published: true
@@ -16,7 +16,7 @@ title: "#openimpact: 10 Projekte, die mit Daten Gutes tun"
 type: post
 
 ---
-<br>Lange wurden die gesellschaftlichen Vorteile der Weiter- und Wiederverwendung offener Daten beschworen – beim ersten #openimpact marathon von datalook.io habt ihr bis zum 31. August die Möglichkeit zu zeigen, wie konkrete soziale Projekte mit offenen Daten weiter genutzt und diese ihre Wirkung erneut entfalten können.
+Lange wurden die gesellschaftlichen Vorteile der Weiter- und Wiederverwendung offener Daten beschworen – beim ersten #openimpact marathon von datalook.io habt ihr bis zum 31. August die Möglichkeit zu zeigen, wie konkrete soziale Projekte mit offenen Daten weiter genutzt und diese ihre Wirkung erneut entfalten können.
 
 Open Data Projekte adressieren meist eine bestimmte Stadt, einen bestimmten Zweck oder haben einen lokalen Nutzen. Wenn Code und Daten gut dokumentiert sind, können andere Coder und Coderinnen darauf aufbauen und bestehende Projekte und Daten replizieren. Wenn der Code dann noch <a href="http://opendefinition.org" target="_blank">offen</a> ist, kann ein Projekt ohne viel Mehraufwand von A nach B transferiert und erneut ins Leben gerufen werden. So lässt sich viel Zeit sparen, die in die konkrete Weiterentwicklung von Ideen und Projekten gesteckt werden kann.
 

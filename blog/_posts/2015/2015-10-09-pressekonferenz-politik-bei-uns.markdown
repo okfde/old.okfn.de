@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-10-09 10:00:56
 image: 
-  src: http://okfn.de/files/blog/2015-10/politik-bei-uns.jpg
+  src: /files/blog/2015/10/politik-bei-uns.jpg
 layout: post
 published: true
 status: publish

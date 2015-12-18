@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2015-02-18 12:28:05
 image:
-  src: http://de.okblogfarm.org/files/2015/02/image001.jpg
+  src: /files/blog/2015/02/image001.jpg
   title: image001
 layout: post
 published: true
@@ -19,7 +19,6 @@ type: post
 
 
 ---
-
 Mitmachen und das Programm gestalten!
 
 Die 3. Internationale Open Data Konferenz (IODC) wird am 28. und 29. Mai 2015 in Ottawa stattfinden. Die Konferenz bringt Experten aus der ganzen Welt zusammen, um eine Bestandsaufnahme sowie eine Aussicht auf die rasche Entwicklung der globalen Open Data Community zu geben.

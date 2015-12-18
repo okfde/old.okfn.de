@@ -7,7 +7,7 @@ categories:
 - Termine
 date: 2014-01-30 19:07:13
 image:
-  src: http://de.okfn.org/wp-content/blogs.dir/21/files/2014/01/1149.8198.original-260x415.jpg
+  src: /files/blog/2014/01/1149.8198.original-260x415.jpg
   title: ''
 layout: post
 published: true

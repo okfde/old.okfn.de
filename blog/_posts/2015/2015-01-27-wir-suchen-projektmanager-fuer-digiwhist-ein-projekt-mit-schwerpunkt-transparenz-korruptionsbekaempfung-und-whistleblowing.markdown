@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2015-01-27 17:29:18
 image:
-  src: http://de.okblogfarm.org/files/2013/03/8210336893_c76839a169_b.jpg
+  src: /files/blog/2013/03/8210336893_c76839a169_b.jpg
   title: 8210336893_c76839a169_b
 layout: post
 published: true
@@ -20,7 +20,6 @@ type: post
 
 
 ---
-
 Festanstellung (50%), Gehalt nach Öffentlichem Dienst Berlin E13 Stufe 3, Projektlaufzeit drei Jahre, Bewerbungsfrist 15. Februar 2015
 
 Die Open Knowledge Foundation Deutschland (e.V.) ist eine der führenden NGOs im Bereich Freies Wissen, Offene Daten und Transparenz in Deutschland. Viele unserer Projekte gelten als Pionierarbeiten, unsere Expertise wird von Regierungen, Anbietern wie Nutzern Offener Daten geschätzt und wir sind ein wichtiger Förderer der deutschen Open Data Community. Wir suchen idealerweise zum 1. März 2015 einen Projekmanager für unser H2020 EU-Forschungsprojekt „The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed (DIGIWHIST)”. Ziel von DIGIWHIST ist es, das öffentliche Auftragswesen transparenter und effizienter zu gestalten sowie Whistleblower bei der Korruptionsbekämpfung zu unterstützen. Unser Arbeitsschwerpunkt in diesem Projekt ist die Konzeption und Entwicklung von Transparenzwerkzeugen.
@@ -45,7 +44,7 @@ Die Open Knowledge Foundation Deutschland (e.V.) ist eine der führenden NGOs im
 
 * Abgeschlossenes Hochschulstudium (Master, MA oder Diplom)  
 * Mindestens 2 Jahre Berufserfahrung, idealerweise im NGO-Umfeld  
-* Identifikation mit unseren [Vereinszielen](http://okfn.de/about/#Ziele)  
+* Identifikation mit unseren [Vereinszielen](/mission)  
 * Präsenz im Berliner Büro und Lust auf Teamarbeit  
 * Erfahrungen in Bezug auf Projekt- und Finanzmanagement  
 * Sicheres Auftreten und hohe soziale und kommunikative Kompetenz  
@@ -60,4 +59,4 @@ Die Open Knowledge Foundation Deutschland (e.V.) ist eine der führenden NGOs im
 Bitte schicke uns Deine Bewerbung (Anschreiben und Lebenslauf sowie die Kontaktdaten einer Referenzperson) bis zum 15. Februar 2015 an ** [getinvolved@okfn.de](mailto:getinvolved@okfn.de?subject=ProjektmanagerIn%20EU-Projekt%20)  
 ** und **[daniel.dietrich@okfn.org](mailto:daniel.dietrich@okfn.org?subject=ProjektmanagerIn%20DIGIWHIST%20Projekt)**, der Dir auch für gern Rückfragen zur Verfügung steht. Die Interviews werden in der Woche vom 23.-27. Februar 2015 stattfinden.
 
-Projektbeschreibung: "The central objective of DIGIWHIST is to combine the provision of data on public spending with actionable indicators and provide a whistleblower reporting channel that strengthens accountability and transparency of public administration. In particular, it aims at improving trust in governments and efficiency of public spending across Europe through the systematic collection, analysis, and broad dissemination of information on public procurement and on mechanisms that increase accountability of public officials in all EU and some neighbouring countries. Availability of such information can provide an effective tool to private actors such as NGOs, academia, and businesses to ensure that governments are accountable and transparent in their management of public resources, especially when an effective whistleblower reporting channel also underpins accountability." See our [press release](http://okfn.de/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing).
+Projektbeschreibung: "The central objective of DIGIWHIST is to combine the provision of data on public spending with actionable indicators and provide a whistleblower reporting channel that strengthens accountability and transparency of public administration. In particular, it aims at improving trust in governments and efficiency of public spending across Europe through the systematic collection, analysis, and broad dissemination of information on public procurement and on mechanisms that increase accountability of public officials in all EU and some neighbouring countries. Availability of such information can provide an effective tool to private actors such as NGOs, academia, and businesses to ensure that governments are accountable and transparent in their management of public resources, especially when an effective whistleblower reporting channel also underpins accountability." See our [press release](/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing).

@@ -7,7 +7,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-05-07 08:44:20
 image:
-  src: http://okfn.de/files/2014/05/Coding_da_Vinci_Kultur_Hackathon_grafic_recording3.jpg
+  src: /files/blog/2014/05/Coding_da_Vinci_Kultur_Hackathon_grafic_recording3.jpg
   title: Coding_da_Vinci_Kultur_Hackathon_grafic_recording
 layout: post
 published: true
@@ -29,7 +29,7 @@ type: post
 
 **Drahten, hacken, tüfteln**
 
-![G38A9126](http://okfn.de/files/2014/05/G38A9126-415x276.jpg)
+![G38A9126](/files/blog/2014/05/G38A9126-415x276.jpg)
 
 Insgesamt wurden 24 Projektideen entwickelt. Beispielsweise programmiert Kati einen Cyberbeetle basierend auf den Daten der Insekten des Museums für Naturkunde Berlin. Flo, Noa und Ruperta schaffen mit dem Projekt “Poetic Relief” einen neuen Zugang zu jüdischen Grabinschriften des Steinheim-Instituts, während Kai, Dierck und Frederike mit der Liste des schädlichen und unerwünschten Schrifttums arbeiten und den Werken und Autoren einen frischen “Data-Look” verpassen.
 
@@ -41,7 +41,7 @@ Damit aus einer Projektidee mehr werden kann, haben wir eine [@Apps4EU](http://t
 
 **Wie geht’s weiter?**
 
-![G38A9054](http://okfn.de/files/2014/05/G38A9054-415x253.jpg)
+![G38A9054](/files/blog/2014/05/G38A9054-415x253.jpg)
 
 In den nächsten 10 Wochen werden die Teams ihre Projekte weiterführen. Danach treffen wir uns am 5. Juli zum BBQ und am [6\. Juli zur öffentlichen Projektpräsentation und Preisverleihung in Berlin](http://codingdavinci.de/programm/). Fotos gibt es [hier](https://www.flickr.com/photos/okfde/sets/)!
 

@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-05-20 08:40:30
 image:
-  src: http://de.okblogfarm.org/files/2014/05/okfn_global_editors_forum_faz_JPEG.jpg
+  src: /files/blog/2014/05/okfn_global_editors_forum_faz_JPEG.jpg
   title: okfn_global_editors_forum_faz_JPEG
 layout: post
 published: true

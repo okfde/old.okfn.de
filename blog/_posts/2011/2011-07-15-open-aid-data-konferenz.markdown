@@ -43,7 +43,7 @@ Die Konferenz wird ergänzt durch eine Schulung in Datenanalyse und Datenquellen
 * **Anna Lauridsen**, Project Officer, AidData, Brüssel, Belgien  
 * **Thomas Bjelkeman-Petterson** Director, AKVO, Den Haag, Niederlande
 
-**Veranstalter:** Eine Kooperation zwischen der Heinrich-Böll-Stiftung, [OpenAid e.V](http://www.openaid.de/)., [Open Knowledge Foundation Deutschland](http://okfn.de/), [Transparency International Deutschland](http://transparency.de/)  
+**Veranstalter:** Eine Kooperation zwischen der Heinrich-Böll-Stiftung, [OpenAid e.V](http://www.openaid.de/)., [Open Knowledge Foundation Deutschland](/), [Transparency International Deutschland](http://transparency.de/)  
 ****
 
 Anmeldung: Bitte melden Sie sich über unser [elektronisches Anmeldeformular](http://www.boell.de/calendar/VA-genform-de.aspx?evtid=10058&returnurl=/index.html) an**.**

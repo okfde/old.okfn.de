@@ -4,7 +4,7 @@ categories:
 - Featured 
 date: 2015-07-20 12:00
 image:
-  src: http://okfn.de/files/blog/2015-7/jobs.jpg
+  src: /files/blog/2015/07/jobs.jpg
   title: Jobs bei OKFDE
 layout: post
 published: true
@@ -12,13 +12,10 @@ status: publish
 tags:
 - OER
 title: Junior Researcher/Journalist für OpenBudgets.EU gesucht
-
 type: post
 
 ---
-
 ###  Junior Researcher/Journalist with a strong technical background (Product Owner) in the H2020 EU Project: OpenBudgets.EU
-
 
 * Part-Time (50%) limited term: 14 months
 * Salary: depending on experience 
@@ -63,6 +60,6 @@ Please apply by sending your CV and Cover Letter (in English) to: <a href="mailt
 
 For more information, please contact: <a href="mailto:anna.alberts@okfn.de">anna.alberts@okfn.de</a>
 
-[getinvolved@okfn.de]: http://mailto:getinvolved@okfn.de
-[anna.alberts@okfn.de]: http://mailto:anna.alberts@okfn.de
-[Open Knowledge values]: http://okfn.de/about/#Ziele
+[getinvolved@okfn.de](mailto:getinvolved@okfn.de)
+[anna.alberts@okfn.de](mailto:anna.alberts@okfn.de)
+[Open Knowledge values](/mission)

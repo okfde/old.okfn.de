@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2011-10-17 09:35:08
 image:
-  src: http://okfn.de/files/2011/10/german-oda-1024x517.png
+  src: /files/blog/2011/10/german-oda-1024x517.png
   title: ''
 layout: post
 published: true

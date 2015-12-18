@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2015-05-12 14:25
 image:
-  src: http://okfn.de/files/blog/2015-4/codeforde.jpg
+  src: /files/blog/2015/04/codeforde.jpg
   title: 
 layout: post
 published: true
@@ -13,7 +13,6 @@ tags: []
 title: "Praktikum bei Code for Germany - Bewerbungsfrist verlängert"
 type: post
 ---
-<br>
 <strong>Code for Germany sucht eine/n Praktikanten/in zum nächstmöglichen Zeitpunkt</strong>
 
 Du interessierst dich für Technologie, Politik, Design und Aktivismus. Storytelling ist deine Leidenschaft und das Internet dein Zuhause. Bloggen, schreiben und twittern machen dir Spaß. Du wolltest schon immer mal für eine NGO arbeiten, hast eine eigenständige Arbeitsweise, Lust viel zu lernen und dich weiterzuentwickeln. 

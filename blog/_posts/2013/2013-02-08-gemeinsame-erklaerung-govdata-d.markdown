@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-02-08 22:16:42
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/Screen-Shot-2013-02-13-at-10.34.50.png
+  src: /files/blog/2013/02/Screen-Shot-2013-02-13-at-10.34.50.png
   title: Screen Shot 2013-02-13 at 10.34.50
 layout: post
 published: true

@@ -9,7 +9,7 @@ categories:
 - Termine
 date: 2014-06-17 12:09:47
 image:
-  src: http://de.okblogfarm.org/files/2014/06/9501397375_cd4e1541b2_o-406x415.jpg
+  src: /files/blog/2014/06/9501397375_cd4e1541b2_o-406x415.jpg
   title: OKFestival Orga 2012
 layout: post
 published: true

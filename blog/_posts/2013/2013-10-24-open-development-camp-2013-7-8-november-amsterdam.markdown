@@ -4,7 +4,7 @@ categories:
 - offene Daten
 date: 2013-10-24 16:57:52
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/10/banner_odc.png
+  src: /files/blog/2013/10/banner_odc.png
   title: banner_odc
 layout: post
 published: true

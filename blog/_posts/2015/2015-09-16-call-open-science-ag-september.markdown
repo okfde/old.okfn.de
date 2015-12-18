@@ -6,7 +6,7 @@ categories:
 - Open Science
 date: 2015-09-16 10:42:49
 image:
-  src: http://okfn.de/files/blog/2015-4/AG_Open_Science.png
+  src: /files/blog/2015/04/AG_Open_Science.png
   title: Open Science AG
 layout: post
 published: true
@@ -15,7 +15,6 @@ tags: []
 title: "Open Science Call 9/15: Suchmaschine für Open-Access Inhalte, Opening up Science in Hamburg, Rückblick Chaos Communication Camp und vieles mehr"
 type: post
 ---
-<br>
 Am Freitag, den 11. September, fand wieder einmal der monatliche öffentlich Call der deutschsprachigen Open-Science-AG statt. Teilnehmen konnten alle, die Interesse an dem Thema offene Wissenschaft mit all seinen Facetten haben.
 
 Dieses mal stellte Christian Pietsch von der Universitätsbibliothek Bielefeld einen Nachfolger der eingestellten Fragen-und-Antworten Seite Open Science StackExchange vor. Dieser wird seit kurzem im Rahmen des DFG-Projekts CONQUAIRE ("Continuous quality control for research data to ensure reproducibility") von der Bielefelder Universitätsbibliothek [bereitgestellt](https://openscience.ub.uni-bielefeld.de). Zudem wies Christian auch auf neue Suchoptionen in der Literatur-Suchmaschine [BASE](https://base-search.net/Search/Advanced) hin, mit der sich nun gezielt Open-Access-Artikel gefiltert nach verschiedenen Creative-Commons-Lizenzen finden lassen. Die Suchmaschine lässt sich über verschiedene [Schnittstellen](https://base-search.net/about/de/about_develop.php?menu=2) in eigene (Web-)Anwendungen einbinden. Eine Freigabe der aggregierten und teilweise normalisierten Daten wird gerade anlässlich einer [Archivierung durch das IPFS-Team](https://github.com/ipfs/archives/issues/3) diskutiert.

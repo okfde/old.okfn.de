@@ -7,7 +7,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-03-26 16:21:38
 image:
-  src: http://okfn.de/files/2014/03/klein.png
+  src: /files/blog/2014/03/klein.png
   title: ''
 layout: post
 published: true

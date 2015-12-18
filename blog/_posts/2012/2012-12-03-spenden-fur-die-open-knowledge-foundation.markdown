@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2012-12-03 17:10:38
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2012/11/spenden.png
+  src: /files/blog/2012/11/spenden.png
   title: ''
 layout: post
 published: true

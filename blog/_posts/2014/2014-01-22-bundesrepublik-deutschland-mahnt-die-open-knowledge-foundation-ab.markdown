@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-01-22 08:59:52
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2014/01/fds_bmi_abmahnung.png
+  src: /files/blog/2014/01/fds_bmi_abmahnung.png
   title: fds_bmi_abmahnung
 layout: post
 published: true

@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-04-12 10:22:36
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/04/ZugangGestalten.jpg
+  src: /files/blog/2013/04/ZugangGestalten.jpg
   title: ZugangGestalten
 layout: post
 published: true

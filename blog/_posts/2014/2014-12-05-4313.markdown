@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-12-05 18:50:38
 image:
-  src: http://de.okblogfarm.org/files/2014/12/header-415x104.png
+  src: /files/blog/2014/12/header-415x104.png
   title: header
 layout: post
 published: true
@@ -25,7 +25,7 @@ Mit unserer Kampagne “[Smarte Bürger - Verbraucherschutz in der digitalen Wel
 
 **"Was ist deine geheime Identität im Netz?"**
 
-![team](http://de.okblogfarm.org/files/2014/12/team-253x415.png)
+![team](/files/blog/2014/12/team-253x415.png)
 
 Vom 8.-18. Dezember 2014 findet ein interaktiver Stadt-Parcours statt, den wir konzipiert, gestaltet und technisch umgesetzt haben: An fünf zu durchlaufenden Station (Startpunkt am Zoo Palast, Berlin) werden typische Situationen unseres digitalen Alltags nachgespielt. Themen der Stationen sind u.a. soziale Netzwerke, Ortung, Mobile Banking, eCommerce und Profiling.
 

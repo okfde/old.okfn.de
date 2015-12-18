@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-06-10 08:29:17
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/interactive-cologne.jpg
+  src: /files/blog/2013/06/interactive-cologne.jpg
   title: Interactive Cologne
 layout: post
 published: true

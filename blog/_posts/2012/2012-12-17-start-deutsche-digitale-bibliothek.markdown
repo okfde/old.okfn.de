@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2012-12-17 11:34:33
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2012/12/Deutsche-Digi-Bib.png
+  src: /files/blog/2012/12/Deutsche-Digi-Bib.png
   title: ''
 layout: post
 published: true

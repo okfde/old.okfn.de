@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-02-05 10:31:29
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/Hive.png
+  src: /files/blog/2013/02/Hive.png
   title: dachli
 layout: post
 published: true

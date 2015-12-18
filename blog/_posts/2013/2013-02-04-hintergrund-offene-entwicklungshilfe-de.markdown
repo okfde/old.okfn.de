@@ -5,7 +5,7 @@ categories:
 - Transparenz
 date: 2013-02-04 05:36:45
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/indikatoren.png
+  src: /files/blog/2013/02/indikatoren.png
   title: indikatoren
 layout: post
 published: true
@@ -27,25 +27,25 @@ Entwicklungshilfe ist aus finanzieller Sicht ein großer Sektor. Allein die OECD
 
 ## BMZ veröffentlicht die eigenen Daten nicht
 
-Für die Umsetzung der Webseite habe ich einen offenen zugänglichen Datensatz des [Creditor Reporting System der OECD](http://stats.oecd.org/Index.aspx?datasetcode=CRS1) genutzt. (Der komplette Datensatz ist übrigens etwas versteckt. Im Menü auf der Seite erst auf “Export” klicken und dann auf “Related Files”).Ironischerweise zeigt das BMZ selber diese Zahlen nicht auf der eigenen Webseite an, sondern belässt es bisher dabei die Zahlen, mit einjähriger Bearbeitungszeit, an die OECD zu liefern. Das soll sich nun ändern, wenn das Ministerium [reichlich verspätet den neuen IATI](www.www.de) umsetzt. Im [Frühjahr sollen bessere Daten](http://okfn.de/2013/01/offene-daten-gegen-armut/) in kürzeren Zyklen erscheinen. Bei der Analyse der Daten wurde mir aber klar, dass die historische Perspektive der Daten fast interessanter ist.
+Für die Umsetzung der Webseite habe ich einen offenen zugänglichen Datensatz des [Creditor Reporting System der OECD](http://stats.oecd.org/Index.aspx?datasetcode=CRS1) genutzt. (Der komplette Datensatz ist übrigens etwas versteckt. Im Menü auf der Seite erst auf “Export” klicken und dann auf “Related Files”).Ironischerweise zeigt das BMZ selber diese Zahlen nicht auf der eigenen Webseite an, sondern belässt es bisher dabei die Zahlen, mit einjähriger Bearbeitungszeit, an die OECD zu liefern. Das soll sich nun ändern, wenn das Ministerium [reichlich verspätet den neuen IATI](www.www.de) umsetzt. Im [Frühjahr sollen bessere Daten](/blog/2013/01/offene-daten-gegen-armut/) in kürzeren Zyklen erscheinen. Bei der Analyse der Daten wurde mir aber klar, dass die historische Perspektive der Daten fast interessanter ist.
 
 ## Über 100.000 Aktivitäten der letzten 10 Jahre
 
 Deshalb habe ich über hunderttausend Projektdaten der letzten 10 Jahre zur Umsetzung der Webseite einbezogen. So gibt es für jedes Empfängerland deutscher Entwicklungszusammenarbeit einen eigenen Steckbrief, welcher detailliert die einzelnen Aktivitäten pro Schwerpunkt anzeigt, wie zum Beispiel für Burkina Faso. Doch bei den Projekten kommt auch die unzureichende Qualität der Daten zum Vorschein. Projekttitel zu allgemein, in anderen Sprachen oder fehlen teilweise vollständig. Zudem gibt es praktisch keine Informationen zu Empfänger-Organisationen. Die Geber-Institutionen werden mit Abkürzungen wie LG oder Found versehen und sind zum Beispiel bei den Geldern für die GIZ nicht nachvollziehbar.
 
-![projektliste](http://okfn.de/wp-content/blogs.dir/21/files/2013/02/projektliste.png)
+![projektliste](/files/blog/2013/02/projektliste.png)
 
 ## Trends analysieren
 
 Wichtiges Ziel für die Webseite ist es einen transparenten Überblick aus verschiedenen Perspektiven zu bekommen. So kann man zum Beispiel einfach analysieren in welche Sektoren Gelder in den letzten Jahren investiert wurden und wo die Schwerpunkte der deutschen Entwicklungszusammenarbeit liegen. Entsprechen die Hilfsgelder den wichtigsten Bedarfen eines Entwicklungslandes? Oder leiten die sich eher von außen- oder wirtschaftspolitischen Interessen ab? Sind die Ausgaben nachhaltig, oder werden hier singulär plötzlich Investitionen getätigt? Die Daten geben nicht immer direkt eine Antwort, aber [offene-entwicklungshilfe.de](http://www.offene-entwicklungshilfe.de) soll helfen Trends zu entdecken und [Fragen aufzuwerfen.](http://www.offene-entwicklungshilfe.de/analyse/)
 
-## ![treands-oe](http://okfn.de/wp-content/blogs.dir/21/files/2013/02/treands-oe.png)
+## ![treands-oe](/files/blog/2013/02/treands-oe.png)
 
 ## Kombination von Datensätzen
 
 Spannend wird es aber wenn andere Datensätze hinzugefügt werden. Dank der Open Data Initiative der Weltbank, lassen sich zum Beispiel einfach Entwicklungsindikatoren einfügen. Diese Indikatoren zeigen auf einen Blick, wenn auch etwas allgemein, wo die größten Probleme im jeweiligen Land liegen. Nun kann man vergleichen, ob die deutschen Ausgaben deckungsgleich sind. Keine Frage der Vergleich hinkt und weitere Datensätze wären notwendig um hier die Ausgaben für die Sektoren besser nachvollziehen zu können. Aber genau in diese Richtung wollen wir gehen.
 
-![indikatoren](http://okfn.de/wp-content/blogs.dir/21/files/2013/02/indikatoren.png)
+![indikatoren](/files/blog/2013/02/indikatoren.png)
 
 ## Ausblick
 

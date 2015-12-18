@@ -6,7 +6,7 @@ categories:
 - Transparenz
 date: 2013-06-18 13:41:00
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/census-laender-1.png
+  src: /files/blog/2013/06/census-laender-1.png
   title: census laender 1
 layout: post
 published: true

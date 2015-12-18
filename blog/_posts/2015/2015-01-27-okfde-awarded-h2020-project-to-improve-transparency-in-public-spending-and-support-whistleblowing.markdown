@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2015-01-27 17:25:23
 image:
-  src: http://de.okblogfarm.org/files/2015/01/horizon2020_0.jpg
+  src: /files/blog/2015/01/horizon2020_0.jpg
   title: horizon2020_0
 layout: post
 published: true
@@ -21,7 +21,6 @@ type: post
 
 
 ---
-
 Horizon 2020 project DIGIWHIST to build a digital whistleblowing platform and help improve transparency in public spending
 
 Berlin – 25.01.2014 – The tell-tale signs of public spending gone wrong are easy to spot. For example, an airport that is many years behind schedule and billions of Euro over budget, or a highway which leads to nowhere. What has been harder up to now is to how to shine a light on the problem and engage civil society in helping to curb it. The Open Knowledge Foundation Germany has just been awarded a new[ Horizon 2020](http://ec.europa.eu/programmes/horizon2020/) research project, DIGIWHIST, which aims to do just that.
@@ -32,9 +31,9 @@ The central objective of DIGIWHIST is to improve trust in governments and effici
 
 Specifically, the project will create several interactive transparency tools intended for use by civil society, investigative journalists, and civil servants:
 
-  * national procurement portals and mobile apps allowing users to do four key things:  1) making the database and documentation downloadable, 2) providing easy to use interactive analytic tools, and 3) making it possible for users to contribute data and 4) allowing for anonymous whistleblower reports and freedom of information requests;
-  * a European transparency legislation observatory similar to the national procurement portals which allows users to access and understand existing legal frameworks related to public procurement;
-  * an easy-to-use risk assessment software for public authorities, which will be based on the indicators developed by DIGIWHIST, to assess corruption risks in their public procurement procedures.
+* national procurement portals and mobile apps allowing users to do four key things:  1) making the database and documentation downloadable, 2) providing easy to use interactive analytic tools, and 3) making it possible for users to contribute data and 4) allowing for anonymous whistleblower reports and freedom of information requests;
+* a European transparency legislation observatory similar to the national procurement portals which allows users to access and understand existing legal frameworks related to public procurement;
+* an easy-to-use risk assessment software for public authorities, which will be based on the indicators developed by DIGIWHIST, to assess corruption risks in their public procurement procedures.
 
 Returning to the example of the airport, an investigative journalist who would like to understand more about the airport project could visit the DIGIWHIST platform and look up the public body overseeing the construction or a construction firm involved in the process. The information on the platform would include whether the public body has complied with public procurement laws, or whether the firm’s tendering behaviour has posed a corruption risk. This journalist could then file a report with the appropriate government agency to get more information on the project or even file a whistleblowing report if they have evidence of corrupt actions.
 
@@ -42,7 +41,7 @@ Returning to the example of the airport, an investigative journalist who would l
 
 “To effectively fight corruption, we need to support the whole transparency spectrum: from open data, access to information, whistle-blower protection and active support for whistleblowers to freedom of expression and freedom of the press”, says Daniel Dietrich, Chairman of the Open Knowledge Foundation Germany. “We are proud to be part of the WIGIWHIST project and looking forward developing outcomes that have real impact.”
 
-The consortium, led by the[ University of Cambridge](http://www.cam.ac.uk/), includes ERCAS (Hertie School of Governance), Corruption Research Centre Budapest, Hungary;[ Datlab](http://www.hertie-school.org/), Prague, Czech Republic;[ Open Knowledge Foundation Deutschland](http://okfn.de/), Berlin, Germany; and[ Transcrime](http://www.transcrime.it/en) ([Università Cattolica del Sacro Cuore](http://www.ucsc.it/)) organised crime research centre, Milan, Italy. DIGIWHIST builds extensively on the partners’ prior innovative work in this area, particularly[ EU FP7 ANTICORRP](http://anticorrp.eu/).
+The consortium, led by the[ University of Cambridge](http://www.cam.ac.uk/), includes ERCAS (Hertie School of Governance), Corruption Research Centre Budapest, Hungary; [Datlab](http://www.hertie-school.org/), Prague, Czech Republic;[ Open Knowledge Foundation Deutschland](/), Berlin, Germany; and[ Transcrime](http://www.transcrime.it/en) ([Università Cattolica del Sacro Cuore](http://www.ucsc.it/)) organised crime research centre, Milan, Italy. DIGIWHIST builds extensively on the partners’ prior innovative work in this area, particularly[ EU FP7 ANTICORRP](http://anticorrp.eu/).
 
 “As part of our research on public procurement for the ANTICORRP project we have shown that EU funds are particularly susceptible to corruption – up to one-third more than national funds,” explained project coordinator[ Dr. Mihaly Fazekas](http://www.sociology.cam.ac.uk/people/academic-staff/mfazekas). “With DIGIWHIST we will be able to build tools to empower civil society and investigative journalists to both pull back the curtain on irregular public spending and to report irregularities.”
 

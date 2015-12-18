@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2013-04-08 15:00:37
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png
+  src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png
   title: Screen Shot 2013-03-25 at 15.35.12
 layout: post
 published: true
@@ -22,7 +22,7 @@ type: post
 
 Im folgenden Gastbeitrag stellt Markus Schmidt, die Studie "Opening Parlament in Deutschland, Österreich und der Schweiz" vor, im Rahmen einer Vorlesung "Digitale Nachhaltigkeit in der Wissensgesellschaft". 
 
-Seit ihrer Veröffentlichung im September 2012, möchte die "[Erklärung zur Parlamentarischen Offenheit](http://www.openingparliament.org/)", ein neues Problembewusstsein für die Offenheit und Transparenz in Parlamenten schaffen. Die Deklaration wird von zahlreichen Parliamentary Monitoring Organizations (PMOs) weltweit unterstützt und liegt jetzt auch in einer [Deutschen Übersetzung](http://okfn.de/2013/03/erklaerung-zur-parlamentarischen-offenheit/) vor.
+Seit ihrer Veröffentlichung im September 2012, möchte die "[Erklärung zur Parlamentarischen Offenheit](http://www.openingparliament.org/)", ein neues Problembewusstsein für die Offenheit und Transparenz in Parlamenten schaffen. Die Deklaration wird von zahlreichen Parliamentary Monitoring Organizations (PMOs) weltweit unterstützt und liegt jetzt auch in einer [Deutschen Übersetzung](/blog/2013/03/erklaerung-zur-parlamentarischen-offenheit/) vor.
 
 Während des Kurses “Digitale Nachhaltigkeit” an der ETH Zürich mit Marcus Dapp habe ich die ersten Kammern der nationalen Parlamente in Deutschland, Österreich und der Schweiz, den Bundestag sowie den Österreichischen und Schweizer Nationalrat untersucht. Ziel der Untersuchung war es, die Forderungen von Opening Parliament mit den aktuellen Stand in den Parlamenten zu vergleichen.
 

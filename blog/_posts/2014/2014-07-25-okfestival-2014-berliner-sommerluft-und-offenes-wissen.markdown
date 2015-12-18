@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2014-07-25 11:45:09
 image:
-  src: http://de.okblogfarm.org/files/2014/07/OKFestival-2014-415x311.jpg
+  src: /files/blog/2014/07/OKFestival-2014-415x311.jpg
   title: OKFestival-2014
 layout: post
 published: true
@@ -24,7 +24,7 @@ Vom 15. bis 17. Juli 2014 fand auf dem Gelände der Berliner Kulturbrauerei das�
 
 **Was war: Viel Austausch, großartige Keynotes & Workshops, Launchevent Code for Germany, Kickoff Open Glam & Open Science AGs uvm.**
 
-Um trotz der Kürze des OKFestivals von nur knapp drei Tagen möglichst viel Austausch zu haben, gab es in diesem Jahr eine ganze Reihe von Zusatzveranstaltungen vor und nach dem eigentlichen Event. Beispielsweise wurden die Arbeitsgruppen [Open Science](http://okfn.de/2014/07/okfestival-2014-fringe-event-arbeitsgruppe-fuer-die-oeffnung-von-wissenschaft-und-forschung-open-science/) ([Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-de)) und [OpenGLAM](http://okfn.de/openglam/#openglam-workshop) ([Mailingliste](https://lists.okfn.org/mailman/listinfo/openglam-de)) in Deutschland gegründet - wer mitmachen will, kann sich via Mailingliste melden.
+Um trotz der Kürze des OKFestivals von nur knapp drei Tagen möglichst viel Austausch zu haben, gab es in diesem Jahr eine ganze Reihe von Zusatzveranstaltungen vor und nach dem eigentlichen Event. Beispielsweise wurden die Arbeitsgruppen [Open Science](/blog/2014/07/okfestival-2014-fringe-event-arbeitsgruppe-fuer-die-oeffnung-von-wissenschaft-und-forschung-open-science/) ([Mailingliste](https://lists.okfn.org/mailman/listinfo/open-science-de)) und [OpenGLAM](/projekte/openglam-workshop) ([Mailingliste](https://lists.okfn.org/mailman/listinfo/openglam-de)) in Deutschland gegründet - wer mitmachen will, kann sich via Mailingliste melden.
 
 Schon am Montagabend, kurz vor dem offiziellen Start des OKFestivals 2014, fand der Launch von [Code for Germany](http://codefor.de/) in der Kulturbrauerei statt. Gemeinsam mit Partnern und Unterstützern aus aller Welt wurde das Programm der anwesenden Presse, Politik und Community vorgestellt.
 
@@ -32,7 +32,7 @@ Am Dienstagabend begann dann der offizielle Teil des OKFestivals. Erstaunliche M
 
 Am Mittwoch hörten wir inspirierende Keynotes von Patrick Alley, Gründer der NGO [Global Witness](https://de.wikipedia.org/wiki/Global_Witness), der eindrucksvoll von der Notwendigkeit berichtete Finanztransaktionsdaten zu veröffentlichen, um Korruption weltweit aufzudecken. Diese Keynote stand stellvertretend für eines der großen Themen des OKFestivals, das in einer Vielzahl von Sessions („Power, politics, inclusion and voice“ oder „Can open data go wrong?“) ausgiebig diskutiert wurde: Relevanz und Wirkung von Offenem Wissen.
 
-![OKFestival-2014-3](http://de.okblogfarm.org/files/2014/07/OKFestival-2014-3-415x311.jpg) Photo by [Marieke Guy](https://secure.flickr.com/photos/mariekeguy/) under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
+![OKFestival-2014-3](/files/blog/2014/07/OKFestival-2014-3-415x311.jpg) Photo by [Marieke Guy](https://secure.flickr.com/photos/mariekeguy/) under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
 
 Der Donnerstag begann mit einer Keynote von [Neelie Kroes](http://ec.europa.eu/commission_2010-2014/kroes/), bis November noch Vize Präsidentin der Europäischen Kommission, über die Bemühungen der EU für die Öffnung von Wissen und Verwaltungsdaten. Im Anschluss demonstrierte [Eric Hysen](http://2014.okfestival.org/okfestival-keynote-spotlight-eric-hysen/) von Google (einer der Hauptsponsoren des OKFestivals) in seiner Keynote u.a. die Möglichkeiten von Open Data. Er gab ausserdem einen Überblick über den Stand der Offenheit von Datan weltweit und forderte mit "Open is not enough, data should also be structured, licensed and updated" dazu auf, nicht nur Daten zu veröffentlichen, sondern auch die Nachnutzung zu ermöglichen und zu fördern. In weiteren Workshops am Nachmittag wurde zusammen an den Themen Überwachung, Open Design, Story finding & story-telling und vielem mehr gemeinsam gearbeitet.
 
@@ -42,7 +42,7 @@ Das OKFestival war aber auch von Innehalten und Nachdenken über die eigene Vorg
 
 **Was wird: Die Debatte um den Erfolg von Open Knowledge, Kritik an Offenheit und noch mehr Austausch**
 
-![OKFestival-2014-2](http://de.okblogfarm.org/files/2014/07/OKFestival-2014-2-415x311.jpg) Photo by [Marieke Guy](https://secure.flickr.com/photos/mariekeguy/) under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
+![OKFestival-2014-2](/files/blog/2014/07/OKFestival-2014-2-415x311.jpg) Photo by [Marieke Guy](https://secure.flickr.com/photos/mariekeguy/) under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
 
 Das Open Knowledge Festival 2014 bot mit Bereichen wie offenes Design, offene Entwicklungshilfe, offene Hardware und offene Wissenschaften u.a. (insgesamt 16 Bereiche) eine große Themenbreite, in denen es Bestrebungen gibt, offenes Wissen zu teilen. Mehr Themen und Köpfe, das bedeutet jedoch auch, dass mehr unterschiedliche Interessen und Meinungen auf eine Linie zu bringen sind. Dass dies in den kommenden Jahren gelingt, ist für den weiteren Erfolg der Open Knowledge-Bewegung von großer Bedeutung. Denn ihre potenziellen Gegenspieler, die aus so unterschiedlichen Ecken wie Wissenschaft, Politik und Wirtschaft kommen können, verfügen erfahrungsgemäß über die größeren Ressourcen und vor allem andere Intentionen. Schon auf dem nächste Open Knowledge Festival 2015 könnte sich entscheiden, ob die Bewegung den eigenen kurzfristigen Erfolg auch langfristig meistern und weiterhin gestalten kann. Dazu muss Sie sich auch noch stärker und umfassender mit der Kritik an Openness in den unterschiedlichsten Bereichen befassen und diese selber mitgestalten.
 

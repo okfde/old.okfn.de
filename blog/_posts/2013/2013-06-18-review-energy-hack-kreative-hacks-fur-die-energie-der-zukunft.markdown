@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-06-18 16:29:22
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/SSmfH3ZSR-9Vs71KVPwKEkwdj5W4RJGS9NSs6nJfqE8.jpg
+  src: /files/blog/2013/06/SSmfH3ZSR-9Vs71KVPwKEkwdj5W4RJGS9NSs6nJfqE8.jpg
   title: Hackday Crowd
 layout: post
 published: true
@@ -27,7 +27,7 @@ type: post
 
 Am Samstag dem 15. Juni traf sich eine bunte Truppe aus Entwicklern, Open Data Enthusiasten, Energieexperten, Journalisten und Hardware Hackern im [Supermarkt Berlin](http://www.supermarkt-berlin.net/), um es [Finnland](http://fi.okfn.org/meetups/energy-hackathon-2013/) und den [USA](http://appsforenergy.challenge.gov/) gleichzutun und Anwendungen, Visualisierungen und Gadgets rund um die Themen Stromverbrauch, -erzeugung und Infrastruktur zu entwickeln. Heraus kam eine kreative Auswahl an Hacks, die den Verbrauch im Haushalt transparenter machen, über günstige Zeiten zum Energieverbrauch informieren oder den Verbrauch der Bezirke in Berlin visualisieren. Es folgt eine kurze Zusammenfassung des Tages und der Hacks.
 
-![crowd](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/IMG_1033-1.jpg)
+![crowd](/files/blog/2013/06/IMG_1033-1.jpg)
 
 **12:00 Uhr** Nach einer kurzen Begrüßung startet der Hackday mit vier Lightening Talks.  
 Christian Jacob von [Stromnetz Berlin](http://www.stromnetz-berlin.de/de/index.htm) macht den Anfang und stellt den Open Data Ansatz von Stromnetz Berlin vor. Im Anschluss erzählt Philipp Mahr vom Energie-StartUp [Awaju.com](http://www.awaju.com/) darüber, wie sehr sich Verbräuche innerhalb unterschiedlicher Haushalte unterscheiden können, wie wenig Feedback wir als Konsumenten zu unserem Verbrauch bekommen und dementsprechend auch wie schlecht wir über unseren Energieverbrauch informiert sind. Informationsvermittlung und Feedback sind zwei wichtige Schlagworte der Challenges auf dem Hackday, Schlagworte die in den Talks von Verena Schwarz ([Public Art Lab](http://www.publicartlab-berlin.de/)) und von Jan-Erik Stange ([FH Potsdam](http://www.fh-potsdam.de/)) auf der gestalterischen Ebene adressiert werden.
@@ -38,27 +38,27 @@ Los geht es mit einer Premiere, den [Echtzeitdaten zu Verbrauch und Erzeugung de
 **13:15 Uhr** In einer Pitchingsession stellen die Teilnehmer erste Projektideen vor und formieren sich zu Teams.
 
 **14:00 Uhr** Startschuss für den Hackday. LAN-Kabel werden verlegt, der 3D Drucker beginnt zu drucken, der Wasserkocher wird angeschmissen, damit die Anzeigen der digitalen Strommessgeräte für Testzwecke in die Höhe schießen, die Raspberry PIs blinken, Arduino Kits werden ausgepackt und in Brainstormings die Ideen sortiert.  
-![work](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/IMG_1197.jpg)  
+![work](/files/blog/2013/06/IMG_1197.jpg)  
 19:00 Alle arbeiten auf Hochtouren – der Abendsnack wird mit einer Hand an der Tastatur eingenommen.
 
 **20:00** Die Teams präsentieren ihre Projekte und Prototypen.  
-![crowd2](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/IMG_1240-1.jpg)
+![crowd2](/files/blog/2013/06/IMG_1240-1.jpg)
 
 **#1 Energotchi**  
 Energotchi basiert auf der Idee eines Tamagotchis. Ein kleines, digitales Wesen, dessen Laune sich nach dem Stromverbrauch richtet. Wird viel Strom im Haushalt des Energotchi verbraucht, ändert sich die Farbe des Energotchi auf rot und es wird wütend. Energotchi ist ein Energiesparmaskottchen für Kinder. Auf dem Hackday entstand neben der digitalen Version auch ein 3D-gedrucktes Energotchi zum Anfassen.  
-![energotchi](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/IMG_1217-1.jpg)  
+![energotchi](/files/blog/2013/06/IMG_1217-1.jpg)  
 **#2 Energyclock**  
 eine Smartphone Anwendung, die Nutzern über ihren Handy-Startscreen Auskunft darüber gibt, wie günstig die Zeit zum Energieverbrauch gerade ist. Der Vorteil der Anwendung ist, dass Nutzer keine App starten müssen, sondern bereits auf ihrem Startscreen die wichtigsten Infos zum Status Quo bekommen. Verwendete Daten: Wetterprognosedaten und Echtzeitdaten der Stadt Berlin.
 
 **#3 Energy Bank**  
-![Energybank](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/epuCZs0GUInnup-em90nOxjtKuNS4_6DOvWNtN9vf2o.jpg)  
+![Energybank](/files/blog/2013/06/epuCZs0GUInnup-em90nOxjtKuNS4_6DOvWNtN9vf2o.jpg)  
 Die Energy Bank ist eine Anwendung, die Kindern und Jugendlichen dabei helfen soll, Strom in ihrem Kinderzimmer zu sparen und einen Überblick über den eigenen Verbrauch bzw. die eigene Einsparung zu bekommen. Über eine Leuchtanzeige bekommen die Nutzer unmittelbares Feedback zu ihrem Verhalten. Zusätzlich können sie über eine Anwendung den Verbrauch über längere Zeitperioden hinweg verfolgen. Werden Einsparungsziele erreicht, können die Kinder und Jugendlichen ihre Einsparung in Geld oder Goodies einlösen.
 
 **#4 Energiekarte Berlin**  
 Die Energiekarte Berlin ist eine Visualisierung der Echtzeitdaten zum Verbrauch der Stadtteile. Auf Basis einer Farbcodierung kann schnell erfasst werden, welcher Bezirk gerade am meisten Strom verbraucht. Live: <http://felixebert.de/energyhackday>
 
 **#5 Consumption Bubbles**  
-![printer](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/VUrug24OYt3ZZWV0sklGfTG6Rl6M0wR7w7HHxeh4wwk.jpg)  
+![printer](/files/blog/2013/06/VUrug24OYt3ZZWV0sklGfTG6Rl6M0wR7w7HHxeh4wwk.jpg)  
 Consumption Bubbles ist ein interdisziplinäres Projekt. Yoda besteht aus einem 3D-gedruckten Kopf mit leuchtenden LED-Augen und einer kleinen Luftpumpe. Yoda kann sprechen und informiert seine Schüler über den aktuellen Stromverbrauch und warnt sie bei zu hohem Verbrauch mit „This is the path to the dark side”, dabei leuchten seine Augen in unterschiedlichen Farben. Sein volles Können entfaltet Yoda unter Wasser, dann bewegt sich sein Mund über Luftblasen beim Sprechen. Zusätzlich kann man an der Größe der Blasen den aktuellen Stromverbrauch ablesen. Update: [Video von Yoda in Aktion.](http://vimeo.com/68650398?t=0m52s)
 
 **#6 iPhone App für Volkszähler**  
@@ -70,9 +70,9 @@ Flickrgy basiert, wie der Name bereits verrät, auf Flickr-Streams. Je nachdem w
 **#8 Smeterengine-JSON **  
 SmeterEngine-JSON ist ein Proxy für den Last-Web-Service von Stromnetz Berlin, der die Anfrage an die Schnittstelle vereinfacht und sie auch direkt aus dem Browser ermöglicht.
 
-Eine Jury bestehend aus Vertretern der [Open Knowlegde Foundation](http://okfn.de/), [Stromnetz Berlin](http://www.stromnetz-berlin.de/de/index.htm) und [Yetu](http://www.yetu.de/) prämierte die Anwednungen. Die Preise gingen an folgende Anwendungen/Prototypen:
+Eine Jury bestehend aus Vertretern der [Open Knowlegde Foundation](/), [Stromnetz Berlin](http://www.stromnetz-berlin.de/de/index.htm) und [Yetu](http://www.yetu.de/) prämierte die Anwednungen. Die Preise gingen an folgende Anwendungen/Prototypen:
 
-![Winners](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/vJw11KbHfuKe5padT8M8ScAozNgfoVE7s7xX2XMzivs.jpg)
+![Winners](/files/blog/2013/06/vJw11KbHfuKe5padT8M8ScAozNgfoVE7s7xX2XMzivs.jpg)
 
   * **Erster Preis:**
 
@@ -89,7 +89,7 @@ Energy Bank und Team Flickrgy. Gewinn: eine Tour das Berliner Stromnetz.
 Vielen Dank allen Teilnehmern und Unterstützern für den großartigen und inspirierenden Tag! Bis zum nächsten Hackday!  
 Mehr Fotos vom Event finden sich auf [Flickr](https://www.flickr.com/photos/okfn/sets/72157634242408295/).
 
-![Pizza](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/IMG_1116-1.jpg)
+![Pizza](/files/blog/2013/06/IMG_1116-1.jpg)
 
  
 
@@ -145,7 +145,7 @@ On Saturday 15 June 2013 a colourful group of developers, open data enthusiasts,
 
 **#8 Smeterengine-JSON** – Smeterengine-JSON is a proxy for the electricity load web service of Stromnetz Berlin.
 
-[Open Knowledge Foundation](http://okfn.de/),[ Stromnetz Berlin](http://www.stromnetz-berlin.de/de/index.htm) and [Yetu](http://www.yetu.de/) were representatives of the jury and rewarded the projects and prototypes as follows:
+[Open Knowledge Foundation](/),[ Stromnetz Berlin](http://www.stromnetz-berlin.de/de/index.htm) and [Yetu](http://www.yetu.de/) were representatives of the jury and rewarded the projects and prototypes as follows:
 
 **First prize winner:** Consumption Bubbles. Prize: Arduino Kits by [fritzing](http://fritzing.org/).
 
@@ -153,7 +153,7 @@ On Saturday 15 June 2013 a colourful group of developers, open data enthusiasts,
 
 **Third prize winner:** Energy Bank and Team Flickrgy. Prize: a tour through Berlin's electricity grid
 
-![Winners](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/vJw11KbHfuKe5padT8M8ScAozNgfoVE7s7xX2XMzivs.jpg)
+![Winners](/files/blog/2013/06/vJw11KbHfuKe5padT8M8ScAozNgfoVE7s7xX2XMzivs.jpg)
 
 We want to thank all participants and supporters for this wonderful inspiring day! We hope to see you soon on our next hack day!
 

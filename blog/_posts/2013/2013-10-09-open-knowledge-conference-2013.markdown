@@ -6,7 +6,7 @@ categories:
 - Termine
 date: 2013-10-09 05:35:10
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/10/OKConBanner1.png
+  src: /files/blog/2013/10/OKConBanner1.png
   title: OKConBanner
 layout: post
 published: true

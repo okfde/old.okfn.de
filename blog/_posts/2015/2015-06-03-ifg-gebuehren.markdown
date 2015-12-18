@@ -13,7 +13,6 @@ tags: []
 title: "500 Euro für PDFs: Ministerien gefährden mit Gebührenzwang Informationsfreiheit"
 type: post
 ---
-<br><br>
 <em>Statt Kosten der Verwaltung zu decken, sind Gebühren für Anträge nach dem Informationsfreiheitsgesetz zum Abschreckungsinstrument verkommen</em>
 
 Was ist die Transparenz der staatlichen Verwaltung wert? Nach dem Informationsfreiheitsgesetz  (IFG) dürfen Behörden für die Bearbeitung von Anträgen Gebühren verlangen, für einfache Anfragen jedoch nicht. "Öffentliche Leistungen" können dabei für einen Antragssteller nach dem Gesetz <a href="https://fragdenstaat.de/hilfe/gebuehren/">bis zu 500 Euro</a> kosten. Gleichzeitig sollen die Gebühren aber "<a href="https://www.transparency.de/fileadmin/pdfs/Themen/Verwaltung/IFG_Kommentar_09-11-10.pdf#131">nicht abschreckend</a>" wirken.

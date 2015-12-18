@@ -29,4 +29,4 @@ Das Informationsfreiheitsgesetz des Bundes soll nun erneuert werden und es gibt 
 
 Durch die Unterstützung von Access Info Europe, Deutsche Gesellschaft für Informationsfreiheit e.V., Deutsche Journalistinnen- und Journalisten-Union, Deutscher Journalisten-Verband e.V., Digitale Gesellschaft e.V., Legal Leaks, Mehr Demokratie e.V., netzwerk recherche e.V., n-ost Netzwerk für Osteuropa-Berichterstattung e.V., Open Data Network e.V. and Transparency International Deutschland e.V hoffen wir, dass auch FragDenStaat die eine oder Anregung für diesen Prozess geben kann.
 
-Link: Hier gibt es die [Pressemitteilung](http://okfn.de/files/2011/08/FragdenStaat-Pressemitteilung.pdf), auch in [englischer Sprache](http://okfn.de/files/2011/08/FragdenStaat-PressReleaseEN.pdf).
+Link: Hier gibt es die [Pressemitteilung](/files/blog/2011/08/FragdenStaat-Pressemitteilung.pdf), auch in [englischer Sprache](/files/blog/2011/08/FragdenStaat-PressReleaseEN.pdf).

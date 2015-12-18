@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2014-04-05 09:47:39
 image:
-  src: http://okfn.de/files/2014/04/FE13_Overview_064_web.jpg
+  src: /files/blog/2014/04/FE13_Overview_064_web.jpg
   title: FutureEverything Summit  2013 - Image by TAPE | www.WeAreTAPE.com
 layout: post
 published: true
@@ -33,6 +33,6 @@ Von den hunderten von Teilnehmern der ersten Runde des hatte eine hochkarätige
 
 **Nach dem Wettbewerb ist vor dem Wettbewerb**. Apps for Europe wird auch weiterhin den Teilnehmern von lokalen Apps Wettbewerbe, Code Sprints und Hackathons dabei helfen etwas aus ihrer App zu machen. Die zweite Runde der [pan-europäischen Business Lounge](http://appsforeurope.eu/competition) wird demnächst bekannt gegeben. Stay tuned!
 
-Apps for Europe ist ein von der Europäischen Kommission gefördertes Unterstützernetzwerk mit dem Ziel, den Entwicklern von datengetriebene Apps dabei zu helfen diese in Startups und tragfähige Unternehmen zu verwandeln. Die Open Knowledge Foundation Deutschland ist Teil dieses Netzwerks. Weiter Informationen über unser Konsortium finden Sie unter: [www.apps4europe.eu/about-us](http://www.apps4europe.eu/about-us). Im Anhang finden Sie die [Pressemitteilung zur Preisverleihung](http://okfn.de/files/2014/04/FutureEverything-Apps-for-Europe-winners-PressRelease.pdf) (PDF, Englisch).
+Apps for Europe ist ein von der Europäischen Kommission gefördertes Unterstützernetzwerk mit dem Ziel, den Entwicklern von datengetriebene Apps dabei zu helfen diese in Startups und tragfähige Unternehmen zu verwandeln. Die Open Knowledge Foundation Deutschland ist Teil dieses Netzwerks. Weiter Informationen über unser Konsortium finden Sie unter: [www.apps4europe.eu/about-us](http://www.apps4europe.eu/about-us). Im Anhang finden Sie die [Pressemitteilung zur Preisverleihung](/files/blog/2014/04/FutureEverything-Apps-for-Europe-winners-PressRelease.pdf) (PDF, Englisch).
 
  

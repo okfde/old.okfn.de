@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-05-14 12:01:42
 image:
-  src: http://pdr-okfn.presscdn.com/files/2013/04/banks-thumb-150x150.jpg
+  src: /files/blog/2013/05/banks-thumb-150x150.jpg
   title: banks-thumb
 layout: post
 published: true
@@ -40,7 +40,7 @@ Offene Schnittstellen würden den Zugang und die Veröffentlichung behördlicher
 
  
 
-![Trial_of_Pig](http://pdr-okfn.presscdn.com/files/2011/03/Trial_of_Pig-150x150.jpg)
+![Trial_of_Pig](/files/blog/2013/05/Trial_of_Pig-150x150.jpg)
 
 **OKF @ re:publica**
 
@@ -63,21 +63,21 @@ Wenn ihr Lust habt, uns bei "Jugend hackt" unterstützen, dann schreibt an info@
 
  
 
-![domenicocabinet-detail](http://pdr-okfn.presscdn.com/files/2012/02/domenicocabinet-detail-150x150.jpg)
+![domenicocabinet-detail](/files/blog/2013/05/domenicocabinet-detail-150x150.jpg)
 
 **Was wird spannend?**
 
-Die nächsten Monate werden spannend und ereignisreich. So können wir verraten, dass es am 15. Juni einen Hackday zum Thema Energiedaten geben wird. Er beginnt um 12 Uhr im Supermarkt Berlin ([Anfahrt](http://www.supermarkt-berlin.net/)). Mehr Informationen gibt es bald auf unserer Seite. Ein weiterer Termin ist der [Berliner Open Data Day](http://okfn.de/2013/05/berlin-open-data-day-2013/), der am 24. Juni stattfinden wird. Am 17. September beginnt die diesjährige [OKCon](http://okcon.org/) in Genf. Der Call for Papers läuft noch bis zum 24. Mai. Wir freuen uns, euch bei den Events zu treffen!
+Die nächsten Monate werden spannend und ereignisreich. So können wir verraten, dass es am 15. Juni einen Hackday zum Thema Energiedaten geben wird. Er beginnt um 12 Uhr im Supermarkt Berlin ([Anfahrt](http://www.supermarkt-berlin.net/)). Mehr Informationen gibt es bald auf unserer Seite. Ein weiterer Termin ist der [Berliner Open Data Day](/blog/2013/05/berlin-open-data-day-2013/), der am 24. Juni stattfinden wird. Am 17. September beginnt die diesjährige [OKCon](http://okcon.org/) in Genf. Der Call for Papers läuft noch bis zum 24. Mai. Wir freuen uns, euch bei den Events zu treffen!
 
-Für die anstehenden Projekte können wir in den nächsten Monaten auf Martin Koll, Student der Politik, Verwaltung und Soziologie zählen, der das Berliner Büro unterstützen wird. Weiterhin suchen wir einen Open Data-affinen Menschen für ein [Techi-Praktikum](http://okfn.de/jobs/). Meldet euch bei uns!
+Für die anstehenden Projekte können wir in den nächsten Monaten auf Martin Koll, Student der Politik, Verwaltung und Soziologie zählen, der das Berliner Büro unterstützen wird. Weiterhin suchen wir einen Open Data-affinen Menschen für ein [Techi-Praktikum](/jobs/). Meldet euch bei uns!
 
  
 
-![pietri_dorando- finish - 540](http://pdr-okfn.presscdn.com/files/2012/08/pietri_dorando-finish-5401-150x150.jpeg)
+![pietri_dorando- finish - 540](/files/blog/2013/05/pietri_dorando-finish-5401-150x150.jpeg)
 
 **Schon gesehen?**
 
-Regelmäßige Leser dieses Blogs werden den [Beitrag](http://okfn.de/2013/04/praktiken-ziele-und-selbstbild-der-open-knowledge-foundation/) von Stefan Baack gesehen haben. Er hat seine Masterarbeit über Selbstbild, Ziele und Praktiken der OKF geschrieben. Für uns stellt er seine ersten Forschungsergebnisse kurz und bündig vor. Ein guter Einstieg für Bekannte, die fragen, was die OKF macht.
+Regelmäßige Leser dieses Blogs werden den [Beitrag](/blog/2013/04/praktiken-ziele-und-selbstbild-der-open-knowledge-foundation/) von Stefan Baack gesehen haben. Er hat seine Masterarbeit über Selbstbild, Ziele und Praktiken der OKF geschrieben. Für uns stellt er seine ersten Forschungsergebnisse kurz und bündig vor. Ein guter Einstieg für Bekannte, die fragen, was die OKF macht.
 
 Als neuestes Ergebnis unserer Kooperation mit dem VBB zur Öffnung der Berliner Verkehrsdaten dürfen wir euch [VeeBeBe](http://veebibi.herokuapp.com) vorstellen. Die Seite stellt den Berliner Busverkehr übersichtlich und nutzerorientiert dar.
 

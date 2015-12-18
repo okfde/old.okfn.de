@@ -6,7 +6,7 @@ categories:
 - offenes Wissen
 date: 2014-03-21 13:47:03
 image:
-  src: http://de.okfn.org/wp-content/blogs.dir/21/files/2014/03/header-21.jpg
+  src: /files/blog/2014/03/header-21.jpg
   title: ''
 layout: post
 published: true
@@ -24,7 +24,7 @@ type: post
 ---
 
   
-[Map of Science](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0004803<br%20/>%0A) by [PLOSOne](http://www.plosone.org/) [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
+[Map of Science](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0004803) by [PLOSOne](http://www.plosone.org/) [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/)
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) ist eine Zusammenfassung des vergangenen Monats und bietet eine kleine Aussicht: Weltweit, in Österreich, in Deutschland und auf openscienceASAP.org.
 

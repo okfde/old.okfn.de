@@ -4,7 +4,7 @@ categories:
 - Monatsrückblick
 date: 2014-06-23 14:46:36
 image:
-  src: http://de.okblogfarm.org/files/2014/06/14159657713_b0d14ac5ec_o-150x99.jpg
+  src: /files/blog/2014/06/14159657713_b0d14ac5ec_o-150x99.jpg
   title: republica 2014, Tag 2
 layout: post
 published: true
@@ -29,34 +29,34 @@ Auf der re:publica 2014 haben wir mehrere Talks gehalten. Aufzeichnungen gibt es
 
  
 
-#### Coding Da Vinci:![codingdavincinl](http://de.okblogfarm.org/files/2014/04/codungdavincinl.png)
+#### Coding Da Vinci:![codingdavincinl](/files/blog/2014/04/codungdavincinl.png)
 
 Zu gewinnen gibt es beispielsweise: [Arduinos mit Open Source Sensoren, ein Coaching mit Prof. Dr. Marian Dörk (FH-Potsdam, Information Visualization) und Reisen zum diesjährigen 30C3, nach Amsterdam und nach Weimar.](http://codingdavinci.de/#preise) Alle Interessierten sind herzlich zur Abschlussveranstaltung im Jüdischen Museum Berlin (Lindenstr. 9-14) eingeladen. Los geht es ab 10:30 Uhr, wir bitten um eine vorherige [Anmeldung](http://codingdavinci.de/anmeldung/).
 
 #### 
 
-#### Jugend hackt:![jugendhackt](http://de.okblogfarm.org/files/2014/06/jugendhackt_fb-150x150.jpg)
+#### Jugend hackt:![jugendhackt](/files/blog/2014/06/jugendhackt_fb-150x150.jpg)
 
 Vor allem für die Junghaecksen und -hacker unter uns: Wir haben die Anmeldung für [Jugend hackt geöffnet und die Webseite aktualisiert](http://jugendhackt.de/). Wer sich für Computer interessiert, Gleichgesinnte treffen will und zwischen 12 und 18 Jahre alt ist, ist herzlich eingeladen. Besonders freuen wir uns über die Verbreitung des Links unter programmierbegeisterten Mädchen! Das Camp findet vom 12.-14.09. in Berlin statt.
 
 #### 
 
-#### Code for Germany:![Code for Germany](http://de.okblogfarm.org/files/2014/02/CFG_500x500-150x150.jpg)
+#### Code for Germany:![Code for Germany](/files/blog/2014/02/CFG_500x500-150x150.jpg)
 
 Seit Februar sind 12 OK Labs in ganz Deutschland aktiv. Die Communities treffen sich regelmäßig zum Austausch und Arbeiten. Sie nutzen Daten ihrer Stadt und entwickeln daraus nützliche Werkzeuge und Visualisierungen für Bürgerinnen. Pünktlich zum OKFestival findet der offizielle Launch des Programms statt. Für alle, die auf dem Laufenden über Entwicklungen und News aus den Labs bleiben möchten: [Hier kann man sich in den (monatlichen) Code for Germany Newsletter eintragen](http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=bb63fcab72).
 
 #### 
 
-#### Was wird spannend?![9501397375_cd4e1541b2_o](http://de.okblogfarm.org/files/2014/06/9501397375_cd4e1541b2_o1-147x150.jpg)
+#### Was wird spannend?![9501397375_cd4e1541b2_o](/files/blog/2014/06/9501397375_cd4e1541b2_o1-147x150.jpg)
 
-In Berlin findet das [OKFestival](http://okfn.de/2014/06/ok-festival-2014-das-internationale-festival-fuer-offenes-wissen-kommt-nach-berlin/) statt. Im Rahmen des OKFestivals veranstalten wir zum Thema Kulturerbe einen [OpenGLAM-Workshop](http://okfn.de/openglam/#openglam-workshop), in dessen Rahmen wir gemeinsam mit euch eine OpenGLAM-Arbeitsgruppe Deutschland gründen wollen. Der Workshop ist kostenlos, jetzt mitmachen und [anmelden](http://okfn.de/openglam/#openglam-workshop).
+In Berlin findet das [OKFestival](/blog/2014/06/ok-festival-2014-das-internationale-festival-fuer-offenes-wissen-kommt-nach-berlin/) statt. Im Rahmen des OKFestivals veranstalten wir zum Thema Kulturerbe einen [OpenGLAM-Workshop](/projekte/openglam-workshop), in dessen Rahmen wir gemeinsam mit euch eine OpenGLAM-Arbeitsgruppe Deutschland gründen wollen. Der Workshop ist kostenlos, jetzt mitmachen und [anmelden](/projekte/openglam-workshop).
 
 #### 
 
  
 
 #### Schon gesehen?  
-![CC-BY 2.0 Christiaan Triebert](http://de.okblogfarm.org/files/2014/06/2495398058_5bc1382e80_o-150x114.jpg) CC-BY 2.0 Christiaan Triebert
+![CC-BY 2.0 Christiaan Triebert](/files/blog/2014/06/2495398058_5bc1382e80_o-150x114.jpg) CC-BY 2.0 Christiaan Triebert
 
 Die Landesregierung Nordrhein-Westfalen beschließt ihre [Open Data Strategie](http://www.nrw.de/opennrw/opennrw-1/open-nrw-strategie.html).
 
@@ -66,7 +66,7 @@ An der TH Wildau hat ein neues [FabLab](http://www.th-wildau.de/index.php?id=649
 
 Es gibt für Berlin eine neue, umfassende Nahverkehrs-Planung, den [City Mapper](https://citymapper.com/berlin).
 
-Kennt ihr schon den [Open Science Sum up](http://okfn.de/2014/03/open-science-sum-up-februar/)? Hier werden News aus dem Bereich Open Science weltweit, in Österreich und in Deutschland für euch zusammengefasst.
+Kennt ihr schon den [Open Science Sum up](/blog/2014/03/open-science-sum-up-februar/)? Hier werden News aus dem Bereich Open Science weltweit, in Österreich und in Deutschland für euch zusammengefasst.
 
 Der Schweizerische Bundesrat verabschiedet eine [Open Government Data-Strategie](https://www.news.admin.ch/message/index.html?lang=de&msg-id=52688).
 

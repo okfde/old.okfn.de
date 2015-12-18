@@ -6,7 +6,7 @@ categories:
 - Termine
 date: 2014-08-19 09:16:27
 image:
-  src: http://de.okblogfarm.org/files/2014/08/Recht-zu-Apps-cc-by-joeran-muuss-merholz-415x300.png
+  src: /files/blog/2014/08/Recht-zu-Apps-cc-by-joeran-muuss-merholz-415x300.png
   title: Recht-zu-Apps-cc-by-joeran-muuss-merholz
 layout: post
 published: true

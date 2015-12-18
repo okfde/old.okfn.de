@@ -5,8 +5,8 @@ categories:
 - Open Knowledge Foundation
 date: 2014-03-10 09:57:19
 image:
-  src: http://de.okfn.org/wp-content/blogs.dir/21/files/2014/03/4323732956_7d458bcd47-415x276.jpg
-  title: '© Edu Martinez, Creative Commons 2.0 '
+  src: /files/blog/2014/03/4323732956_7d458bcd47-415x276.jpg
+  licence: "© [Edu Martinez](www.flickr.com/photos/dukros/4323732956), Creative Commons 2.0" 
 layout: post
 published: true
 status: publish
@@ -22,9 +22,6 @@ type: post
 
 
 ---
-
- © [Edu Martinez](www.flickr.com/photos/dukros/4323732956), Creative Commons 2.0 
-
 Das [Institut für Informationsmanagement Bremen](http://www.ifib.de) (ifib) führt eine vierwöchige Online-Konsultation über die Bereitstellung Offener Daten durch die Bremische Verwaltung durch. Das Angebot soll damit um die Expertise und Wünsche der Bürger und Bürgerinnen ergänzt werden.
 
 Das Ziel ist, die Diskrepanz zwischen Angebot und Nachfrage zu schmälern, das Institut möchte also jene Datensätze zur Verfügung stellen, die tatsächlich gewünscht werden. Die Konsultation wird dafür genutzt, das Profil der Nachfrage zu schärfen, damit entsprechend gehandelt werden kann. 

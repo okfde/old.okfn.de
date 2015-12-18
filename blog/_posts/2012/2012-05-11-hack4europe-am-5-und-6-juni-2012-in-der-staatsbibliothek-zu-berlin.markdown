@@ -71,4 +71,4 @@ siegmann@eu1914-1918.eu
   5. Das Programm der Veranstaltung folgt keiner festen Struktur, um den Teilnehmern größtmögliche Flexibilität zu garantieren.
   6. Weitere Informationen werden unter www.europeana-collections-1914-1918.de/berlin- hackday/ veröffentlicht.
 
- Diese Einladung gibt es auch als PDF in [deutscher](http://okfn.de/files/2012/05/Ankuendigung-Hack4EuropeBerlin-deutsch.pdf) und [englischer](http://okfn.de/files/2012/05/Ankuendigung-Hack4EuropeBerlin-deutsch.pdf) Sprache.
+ Diese Einladung gibt es auch als PDF in [deutscher](/files/blog/2012/05/Ankuendigung-Hack4EuropeBerlin-deutsch.pdf) und [englischer](/files/blog/2012/05/Ankuendigung-Hack4EuropeBerlin-deutsch.pdf) Sprache.

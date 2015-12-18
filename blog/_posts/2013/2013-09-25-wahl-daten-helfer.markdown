@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-09-25 13:05:47
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/09/wahlDatenHelfer_Banner.png
+  src: /files/blog/2013/09/wahlDatenHelfer_Banner.png
   title: www.wahldatenhelfer.de
 layout: post
 published: true
@@ -46,7 +46,7 @@ Folgend möchten wir einige Hacks vom Wahlwochenende vorstellen. Weitere Beispie
 
 - [Nichtwähleratlas](http://mappable.info/blog/2013/9/23/nonvoters): Dot-Density-Map der Nichtwähler in den deutschen Wahlkreisen von [Patrick Stotz](https://twitter.com/PatrickStotz) und [Achim Tack](https://twitter.com/A_Tack). 
 
-![stimmzettel](http://okfn.de/wp-content/blogs.dir/21/files/2013/09/stimmzettel-150x100.png)
+![stimmzettel](/files/blog/2013/09/stimmzettel-150x100.png)
 
 - [Interaktiver Stimmzettel Köln](http://stimmzettel.herokuapp.com/):  
 Der interaktive Stimmzettel ist die App für alle Wahlangelegenheiten vor, während und nach der Wahl. Vom Stimmzettel über Kandidateninformationen bis hin zur interaktiven Zählung der Stimmen und der Wahlbeteiligung.
@@ -61,7 +61,7 @@ Der interaktive Stimmzettel ist die App für alle Wahlangelegenheiten vor, währ
 
 - [Interaktive Karte](http://wahlen.github.io/bundestag/2013/), über die sich der Einfluss der einzelnen Bundesländer auf das Gesamtergebnis erschließt. Einzelne Bundesländer können gemutet werden.
 
-![spiegel](http://okfn.de/wp-content/blogs.dir/21/files/2013/09/spiegel-150x97.png)
+![spiegel](/files/blog/2013/09/spiegel-150x97.png)
 
 - [Partei-Erwähnungen in den Medien](http://cf.datawrapper.de/40YIe/1/): Grafik zu den Erwähnungen einzelner Parteien auf Spiegel Online im Monat vor der Wahl. 
 

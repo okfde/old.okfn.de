@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-06-21 13:40:05
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/OpenRis_Moers-415x282.jpg
+  src: /files/blog/2013/06/OpenRis_Moers-415x282.jpg
   title: OpenRis_Moers
 layout: post
 published: true

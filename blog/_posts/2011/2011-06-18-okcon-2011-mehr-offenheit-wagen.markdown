@@ -4,7 +4,7 @@ categories:
 - Termine
 date: 2011-06-18 10:31:45
 image:
-  src: http://okfn.de/files/2011/06/okcon2010-1.png
+  src: /files/blog/2011/06/okcon2010-1.png
   title: ''
 layout: post
 published: true

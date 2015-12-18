@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-02-06 09:47:37
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/ERCAS1.png
+  src: /files/blog/2013/02/ERCAS1.png
   title: dachli
 layout: post
 published: true

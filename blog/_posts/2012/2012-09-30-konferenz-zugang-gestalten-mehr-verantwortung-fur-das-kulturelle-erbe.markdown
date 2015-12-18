@@ -27,4 +27,4 @@ Allerdings stellen sich ihnen im digitalen Zeitalter viele Fragen neu: Wie gesta
 
 Die Internationale Konferenz »Zugang gestalten!« will die unterschiedlichen Gestaltungsmöglichkeiten beim Zugang zum kulturellen Erbe aufzeigen und die damit in Zusammenhang stehenden Fragen öffentlich mit Fachleuten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik diskutieren.
 
-Hier ist das vielversprechende [Programm](/wp-content/blogs.dir/21/files/2012/09/Programm-Zugang-gestalten.pdf) der Konferenz.
+Hier ist das vielversprechende [Programm](/files/blog/2012/09/Programm-Zugang-gestalten.pdf) der Konferenz.

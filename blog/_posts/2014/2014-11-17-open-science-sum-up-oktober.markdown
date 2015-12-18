@@ -43,7 +43,7 @@ Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-s
 
 **Es gibt eine neue Version der Open Definition.** Sie [beschreibt genau](http://opendefinition.org/od/), welche Anforderungen an Werke und Lizenzen gestellt werden, um als offen zu gelten.
 
-**Science - Open by default.** Das Mission Statement der deutschsprachigen Open Science AG wurde veröffentlicht. [Ziele und Aktionsbereiche](http://okfn.de/open-science/) werden definiert, und zum weiteren Mitgestalten aufgerufen.
+**Science - Open by default.** Das Mission Statement der deutschsprachigen Open Science AG wurde veröffentlicht. [Ziele und Aktionsbereiche](/themen/offene-wissenschaft/) werden definiert, und zum weiteren Mitgestalten aufgerufen.
 
 **Es gibt kein Patentrezept für alle Disziplinen.** Warum bei der Einführung von Open Science der disziplinenspezifische Kontext besonders wichtig ist, hat Peter Kraker [in einem Post auf dem LSE Impact Blog](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/29/open-science-disciplinary-culture-clash/) zusammengefasst.
 

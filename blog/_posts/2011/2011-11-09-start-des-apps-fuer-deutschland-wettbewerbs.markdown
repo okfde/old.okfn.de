@@ -31,7 +31,7 @@ Die Freie Hansestadt Bremen stellt Daten aus dem [Bremer Datenkatalog](http://d
 
 Wir möchten Deutsche Behörden ermutigen im Rahmen des Wettbewerbs Datensätze bereitstellen, die vorher nicht als offene Daten zugänglich waren. Hier geht es zum [Anmeldeformular für Daten](http://apps4deutschland.de/wettbewerb/anmeldung-von-daten/).
 
-Es gibt eine offene [Mailingliste](http://lists.okfn.org/mailman/listinfo/apps4d-orga) für Diskussionen rund um den Wettbewerb. Auf Twitter kann man [@Apps4DE](http://twitter.com/apps4de) folgen. Der Hashtag ist #apps4de Die OKF DE möchte in den nächsten Monaten helfen eine Reihe von Hackdays in verschiedenen Städten zu organisieren. Der erste davon bereits am 19. November in Bremen. Hier mehr dazu und hier die [Pressemitteilung](http://okfn.de/files/2011/11/MehrTransparenzdurchoffeneDaten-auchinBremen.pdf) der Hansestadt Bremen zum Hackday. Weitere werden folgen: in Berlin, Hamburg, Frankfurt, ... stay tuned!
+Es gibt eine offene [Mailingliste](http://lists.okfn.org/mailman/listinfo/apps4d-orga) für Diskussionen rund um den Wettbewerb. Auf Twitter kann man [@Apps4DE](http://twitter.com/apps4de) folgen. Der Hashtag ist #apps4de Die OKF DE möchte in den nächsten Monaten helfen eine Reihe von Hackdays in verschiedenen Städten zu organisieren. Der erste davon bereits am 19. November in Bremen. Hier mehr dazu und hier die [Pressemitteilung](/files/blog/2011/11/MehrTransparenzdurchoffeneDaten-auchinBremen.pdf) der Hansestadt Bremen zum Hackday. Weitere werden folgen: in Berlin, Hamburg, Frankfurt, ... stay tuned!
 
 Wir freuen uns um Anregungen un d Kritik und auf viele gute Ideen und nützliche Anwendungen. Besonders gespannt sind wir auf die Daten, die im Rahmen von Apps4DE geöffnet werden!
 

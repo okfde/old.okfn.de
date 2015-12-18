@@ -6,7 +6,7 @@ categories:
 - Open Science
 date: 2014-07-09 15:00:50
 image:
-  src: http://de.okblogfarm.org/files/2014/07/kickoff-open-science-de-2014-415x155.png
+  src: /files/blog/2014/07/kickoff-open-science-de-2014-415x155.png
   title: kickoff-open-science-de-2014
 layout: post
 published: true

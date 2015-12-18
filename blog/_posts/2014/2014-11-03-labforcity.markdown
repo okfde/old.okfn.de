@@ -6,7 +6,7 @@ categories:
 - Termine
 date: 2014-11-03 17:57:51
 image:
-  src: http://de.okblogfarm.org/files/2014/10/labforcity-415x232.jpg
+  src: /files/blog/2014/10/labforcity-415x232.jpg
   title: labforcity
 layout: post
 published: true

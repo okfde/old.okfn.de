@@ -4,7 +4,7 @@ categories:
 - Featured 
 date: 2015-08-14 12:00
 image:
-  src: http://okfn.de/files/blog/2015-7/digiwhist.jpg
+  src: /files/blog/2015/07/digiwhist.jpg
   title: Jobs bei OKFDE
 layout: post
 published: true
@@ -12,13 +12,11 @@ status: publish
 tags:
 - H2020
 title: Front-end Developer (w/m) für DIGIWHIST gesucht
-
 type: post
 
 ---
 
 ###  Front-end Developer (w/m) für DIGIWHIST - ein H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed" (DIGIWHIST).
-
 
 * Part-Time (50%) limited term: 50% FTE, project ends February 2018
 * Salary: depending on experience, we use the Berlin public servant salary bands
@@ -28,7 +26,7 @@ type: post
 
 The Open Knowledge Foundation Germany is one of the leading NGOs in the field of Open Knowledge, Open Data and Transparency in Germany. We support the Open Data community in Germany,  run innovative projects such as OffenerHaushalt, CodeforGermany and Jugend hackt, and provide expertise to users and providers of open data, in the government, civil society, and media. We are now hiring for one of the H2020 EU projects: DIGIWHIST.
 
-The goal of DIGIWHIST is to make information about purchases of goods and services by government (public procurement) more transparent and efficient. The project aims to make it easy to browse information regarding such transactions, and to analyze it for signs of corruption. This forms part of OKF Germany’s focus on the development and deployment of transparency tools. (More information <a href="http://okfn.de/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/">here</a>).  
+The goal of DIGIWHIST is to make information about purchases of goods and services by government (public procurement) more transparent and efficient. The project aims to make it easy to browse information regarding such transactions, and to analyze it for signs of corruption. This forms part of OKF Germany’s focus on the development and deployment of transparency tools. (More information <a href="/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/">here</a>).  
 
 <strong>Tasks</strong>
 
@@ -56,7 +54,7 @@ The goal of DIGIWHIST is to make information about purchases of goods and servic
 <li>Ability to work independently and in a structured way </li>
 <li>Ability to prioritise and work towards deadlines </li>
 <li>Good German and English language skills (both written and oral) </li>
-<li>Identification with our organisation's <a href="http://okfn.de/mission/">goals</a></li>
+<li>Identification with our organisation's <a href="/mission/">goals</a></li>
 </ul>
 
 Please note that we can only consider applications from either EU citizens or those with a valid German work permit. 

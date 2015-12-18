@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-09-12 14:56:28
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/09/jugendhackt031.jpg
+  src: /files/blog/2013/09/jugendhackt031.jpg
   title: jugendhackt03
 layout: post
 published: true

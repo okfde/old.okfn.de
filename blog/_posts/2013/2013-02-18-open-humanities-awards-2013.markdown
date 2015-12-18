@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-02-18 18:27:08
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/OpenHumanitiesAwards.png
+  src: /files/blog/2013/02/OpenHumanitiesAwards.png
   title: OpenHumanitiesAwards
 layout: post
 published: true

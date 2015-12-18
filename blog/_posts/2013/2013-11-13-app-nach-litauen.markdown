@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-11-13 16:43:54
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/11/677_fb17f7317a12e9128cff38d121059e86.jpg
+  src: /files/blog/2013/11/677_fb17f7317a12e9128cff38d121059e86.jpg
   title: IMG_2294
 layout: post
 published: true

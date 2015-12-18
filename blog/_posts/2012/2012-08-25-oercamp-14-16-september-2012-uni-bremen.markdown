@@ -4,7 +4,7 @@ categories:
 - Termine
 date: 2012-08-25 15:13:19
 image:
-  src: /wp-content/blogs.dir/21/files/2012/08/OERcamp-Logo-300px.jpeg
+  src: /files/blog/2012/08/OERcamp-Logo-300px.jpeg
   title: ''
 layout: post
 published: true
@@ -31,4 +31,4 @@ Ist das so eine Art "Wikipedia für Lehr-Lern-Materialien"?
 Antworten gibt es beim #OERcamp.  
 Das #OERcamp ist eine Tagung zu digitalen und offenen Lehr-Lern-Materialien. Es findet vom 14.-16.9.2012 an der Uni Bremen statt. Die Anmeldung ist für die ersten 100 Personen kostenfrei.
 
-Details stehen im [Flyer](/wp-content/blogs.dir/21/files/2012/08/OERcampFlyer.pdf) (PDF) anbei und auf [www.oercamp.de](http://www.oercamp.de)
+Details stehen im [Flyer](/files/blog/2012/08/OERcampFlyer.pdf) (PDF) anbei und auf [www.oercamp.de](http://www.oercamp.de)

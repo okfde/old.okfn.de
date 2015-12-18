@@ -5,7 +5,7 @@ categories:
 - Workshops
 date: 2015-08-31 11:20:56
 image:
-  src: http://okfn.de/files/blog/2015-8/smarte-buerger.png
+  src: /files/blog/2015/08/smarte-buerger.png
 layout: post
 published: true
 status: publish
@@ -15,9 +15,7 @@ tags:
 title: Smarte Bürger - Diskussionsrunde im Abgeordnetenhaus zu Verbraucherschutz in der digitalen Welt
 type: post
 
-
 ---
-
 Mit dem Smartphone steht dir das ganze Internet jederzeit zur Verfügung. Jede Information bekommst du mit einem Fingertipp und du kannst alles von überall erledigen. 
 
 Über Vor- und Nachteile, die daraus entstehen und über weitere Themen des Verbraucherschutzes in der digitalen Welt wollen wir im Rahmen des Projekts [Smarte Bürger](https://smarte-buerger.de/index.html) mit Vertretern der Berliner Politik diskutieren.

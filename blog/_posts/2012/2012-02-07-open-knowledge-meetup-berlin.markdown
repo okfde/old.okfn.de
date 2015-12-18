@@ -26,6 +26,6 @@ Ein regelmäßiges Treffen für Interessierte an Open Knowledge und Open Data in
 
 Das letzte Treffen war sehr inspirierend und hat viel Spaß gemacht. Deshalb freuen wir uns nun umso mehr auf euch und eure Ideen!
 
-Aktuelle Termine zu unseren Veranstaltungen und zu solchen die uns interessieren findet ihr in unserem [Kalender](http://okfn.de/community/kalender/) und auch bei [Lanyrd](http://lanyrd.com/profile/okfde/). Und um nichts zu verpassen solltet ihr uns bei Twitter verfolgen: [@okfde](http://twitter.com/okfde)
+Aktuelle Termine zu unseren Veranstaltungen und zu solchen die uns interessieren findet ihr in unserem [Kalender](/kalender/) und auch bei [Lanyrd](http://lanyrd.com/profile/okfde/). Und um nichts zu verpassen solltet ihr uns bei Twitter verfolgen: [@okfde](http://twitter.com/okfde)
 
  

@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2012-11-21 15:45:05
 image:
-  src: /wp-content/blogs.dir/21/files/2012/11/ODD-Banner_V8-1024x189.jpg
+  src: /files/blog/2012/11/ODD-Banner_V8-1024x189.jpg
   title: ''
 layout: post
 published: true

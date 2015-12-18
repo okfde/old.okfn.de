@@ -6,7 +6,7 @@ categories:
 - offene Daten
 date: 2014-09-15 10:54:28
 image:
-  src: http://de.okblogfarm.org/files/2014/09/hackmack-transparenz-hamburg.png
+  src: /files/blog/2014/09/hackmack-transparenz-hamburg.png
   title: hackmack-transparenz-hamburg
 layout: post
 published: true

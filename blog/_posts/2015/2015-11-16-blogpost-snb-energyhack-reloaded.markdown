@@ -5,7 +5,7 @@ categories:
 - Hackday
 date: 2015-11-16 10:00:00
 image:
-  src: http://okfn.de/files/blog/2015-11/ehr-intro.jpg
+  src: /files/blog/2015/11/ehr-intro.jpg
 layout: post
 published: true
 status: publish
@@ -19,7 +19,6 @@ type: post
 
 
 ---
-
 <strong> Blackout und Krisenvorsorge </strong> - mit diesen zwei zentralen Themen beschäftigten sich letzten Samstag, am 14. November 2015 in Berlin, 30 Open Data- und Energie-Expert/innen beim Energyhack Reloaded.
 
 <strong>[Energyhack Reloaded](http://energyhack.de/)</strong> ist der zweite Hackday zum Thema Energieversorgung, durchgeführt von der Open Knowledge Foundation Deutschland und Stromnetz Berlin in Kooperation mit u.a. der Senatsverwaltung für Wirtschaft, Technologie und Forschung sowie dem Förderverein Freie Netzwerke e.V..
@@ -36,7 +35,7 @@ Deutschlandradio berichtete ausführlich in der Sendung Computer und Kommunikati
 
 Zu Beginn des Tages ging es darum, zu verstehen, wodurch ein Stromausfall entstehen kann und wie die Energieversorgung bspw. in Berlin aufgebaut ist. Die größten gesellschaftlichen Herausforderungen bei einem Stromfall umfassen den Austausch von Informationen und lebensnotwendigen Ressourcen sowie das Zusammenbrechen bestehender Infrastrukturen. 
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-impulse.jpg "Impulsreferate")
+![Hackday](/files/blog/2015/11/ehr-impulse.jpg "Impulsreferate")
 Einleitende Worte von: oben: Thomas Schäfer (SNB), Cornel Pampu (SenWTF), unten: Stephan Boy (KKI), Monic Meisel (Freifunk), CC-BY Leonard Wolf, Energyhack Reloaded
 
 
@@ -47,19 +46,19 @@ In der Jury saßen: Elektra Wagenrad (Freifunk), Kristina Klein (OKFDE), Thomas 
 
 An dieser Stelle stellen sich die Projekte kurz alphabetisch selbst vor. Sie können auch im [Hackdash verfolgt werden](https://hackdash.org/dashboards/energyhack).
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-impressionen.png "Impressionen")
+![Hackday](/files/blog/2015/11/ehr-impressionen.png "Impressionen")
 Eindrücke des Hackdays, CC-BY Leonard Wolf, Energyhack Reloaded
 
 
 #### 01	Blackout Crate
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-blackout-crate.png "Blackout Crate") </br> CC-BY Dierk Eichel, Energyhack Reloaded
+![Hackday](/files/blog/2015/11/ehr-blackout-crate.png "Blackout Crate") </br> CC-BY Dierk Eichel, Energyhack Reloaded
 
 Blackout Crate ist ein Survival Kit für Technik-Nerds, das sich aus Leuchtstäben, Astronautennahrung und u.a. einer Anleitung dafür, wie man sich gegen Zombies behaupten kann, zusammensetzt.
 
 #### 02	DistMsg
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-distmsg.png "DistMsg") </br> CC-BY Ansgar Schmidt, Pascal Esemann, Tobias Krischer, Anth0rx, Energyhack Reloaded
+![Hackday](/files/blog/2015/11/ehr-distmsg.png "DistMsg") </br> CC-BY Ansgar Schmidt, Pascal Esemann, Tobias Krischer, Anth0rx, Energyhack Reloaded
 
 Wie kann man untereinander bei einem Stromausfall in Kontakt bleiben und Ressourcen, die man zur Verfügung hat, tauschen?
 
@@ -68,7 +67,7 @@ Just the first hours after the power went off. A normal cow farm outside of Berl
 
 #### 03	3D Energie-Daten
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-3d-energie.png "3D Energie-Daten") </br> CC-BY Thomas Tursics, Energyhack Reloaded
+![Hackday](/files/blog/2015/11/ehr-3d-energie.png "3D Energie-Daten") </br> CC-BY Thomas Tursics, Energyhack Reloaded
 
 Dieses Projekt nutzt Daten des Berliner 3D-Modells und ermittelt den unterschiedlichen Stromverbrauch von Stadtgebäuden, Bezirken und der gesamten Stadt. Zur Visualisierung werden Livedaten von Stromnetz Berlin genutzt. 
 
@@ -78,7 +77,7 @@ Mit einem Cardboard könnte ein/e Nutzer/in auf diese Weise die Stadt aus einer 
 
 #### 04	SMS Gateway 3000
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-sms-gateway.jpg "SMS Gateway 3000") </br> CC-BY Marc Rentschler, Viktor Bedö, Energyhack Reloaded
+![Hackday](/files/blog/2015/11/ehr-sms-gateway.jpg "SMS Gateway 3000") </br> CC-BY Marc Rentschler, Viktor Bedö, Energyhack Reloaded
 
 Use SMS Gateway to connect yourself to others via SMS when internet is already down but when there still is GSM available.
 
@@ -86,7 +85,7 @@ Post offers and requests of things needed during the blackout e.g. candles. On a
 
 #### 05	Trinkwassernotbrunnen
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-trinkwassernotbrunnen.png "Trinkwassernotbrunnen") </br> CC-BY Knut Hühne, Energyhack Reloaded
+![Hackday](/files/blog/2015/11/ehr-trinkwassernotbrunnen.png "Trinkwassernotbrunnen") </br> CC-BY Knut Hühne, Energyhack Reloaded
 
 Wenn der Strom weg ist brauchen wir Wasser. In Berlin haben wir zum Glück Trinkwassernotbrunnen, an denen die Bürger/innen selbst Wasser pumpen können.
 
@@ -96,7 +95,7 @@ Die erste Version besteht schon, zwei Schritte sollen noch Folgen: - das Einfär
 
 #### 06	Wie Lange Denn Jetzt?
 
-![Hackday](http://okfn.de/files/blog/2015-11/ehr-wie-lange.png "Wie lange denn jetzt?") </br> CC-BY Sebastian Reck, Energyhack Reloaded
+![Hackday](/files/blog/2015/11/ehr-wie-lange.png "Wie lange denn jetzt?") </br> CC-BY Sebastian Reck, Energyhack Reloaded
 
 Wie praktisch wäre es, wenn mir mein Telefon in den letzten Sekunden stabiler Infrastruktur die nötigen Informationen darüber aufbereiten könnte, wie lange ich mich ohne Strom bespaßen müsste? Wie steht es um Familien mit Kindern oder Personen, die auf eine beheimatete medizinische Versorgung angewiesen sind?
 

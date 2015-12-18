@@ -18,11 +18,11 @@ type: post
 
 Die Open Knowledge Foundation Deutschland sucht einen wissenschaftlichen Mitarbeiter und zwei Praktikanten. Hier die Stellenbeschreibungen. Wir freuen uns geeignete Bewerbungen!
 
-Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein, der seit mehreren Jahren erfolgreich im Bereich Offene Daten, Transparenz und Beteiligung arbeitet. Wir entwickeln freie Software und Anwendungen, die den konkreten Nutzen von offenen Daten aufzeigen, tragen zum politischen Diskurs bei und organisieren Veranstaltungen wie Konferenzen und Hackdays. Neben der Arbeit an Projekten hier in Deutschland sind wir auch international tätig und gut vernetzt. Infos zu unseren derzeitigen Projekten findest du hier: **[http://okfn.de/projects](http://okfn.de/projects/)**.
+Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein, der seit mehreren Jahren erfolgreich im Bereich Offene Daten, Transparenz und Beteiligung arbeitet. Wir entwickeln freie Software und Anwendungen, die den konkreten Nutzen von offenen Daten aufzeigen, tragen zum politischen Diskurs bei und organisieren Veranstaltungen wie Konferenzen und Hackdays. Neben der Arbeit an Projekten hier in Deutschland sind wir auch international tätig und gut vernetzt. Infos zu unseren derzeitigen Projekten findest du hier: **[okfn.de/projekte](/projekte/)**.
 
 #### Wissenschaftlicher Mitarbeiter Projekt Dissemination
 
-Für unsere EC finanzierten Forschungsprojekte suchen wir einen wissenschaftlichen Mitarbeiter für die Dissemination der drei [Forschungsprojekte](http://okfn.de/projects/#tabs-131-0-1). 
+Für unsere EC finanzierten Forschungsprojekte suchen wir einen wissenschaftlichen Mitarbeiter für die Dissemination der drei [Forschungsprojekte](/projekte/). 
 
 **Wir bieten dir:**
 

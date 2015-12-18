@@ -31,4 +31,4 @@ Die Länder Berlin und Bremen vergeben jeweils Sonderpreise für Anwendungen, di
 
 Der Wettbewerb wird unterstützt durch die Hauptsponsoren Esri und Microsoft sowie durch die weiteren Sponsoren Capgemini, Computacenter, EMC2, Fraunhofer Fokus, Huawei, Materna, SAP, Software AG, Symantec, Vitako und Vodafone sowie dem IT-Branchenverband Bitkom und den Bundesländern Berlin und Bremen.
 
-Pressemitteilung als [pdf](http://okfn.de/files/2012/02/Apps4De_Pressemitteilung_2012-02-02.pdf)
+Pressemitteilung als [pdf](/files/blog/2012/02/Apps4De_Pressemitteilung_2012-02-02.pdf)

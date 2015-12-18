@@ -4,7 +4,7 @@ categories:
 - offene Daten
 date: 2015-02-18 12:16:46
 image:
-  src: http://de.okblogfarm.org/files/2015/02/odd15-karte.png
+  src: /files/blog/2015/02/odd15-karte.png
   title: odd15-karte
 layout: post
 published: true
@@ -15,7 +15,6 @@ type: post
 
 
 ---
-
 Der [Open Data Day](http://opendataday.org/) jährt sich zum fünften Mal mit zahlreichen Events rund um den Globus - seid dabei!
 
 Die Initiative wurde 2010 gestartet und ruft seitdem jedes Jahr die internationale Open-Data-Community dazu auf, dezentrale Events in ihren Städten zu organisieren. Über 100 Events in über 50 Länder finden am 21. Februar statt und sind offen für Alle. Auf Hackdays, Workshops und Info-Veranstaltungen wird gemeinsam an Projekten gearbeitet, das Thema Open Data sichtbarer gemacht und der Austausch aktiv gesucht. Auch die Zusammenarbeit mit Städten, Vereinen, Museen und anderen Institutionen, die Daten beisteuern können, ist ein Ziel des Open Data Days.

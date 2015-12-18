@@ -5,7 +5,7 @@ categories:
 - Open Science
 date: 2014-07-30 11:41:39
 image:
-  src: http://de.okblogfarm.org/files/2014/07/DH-DARIAH-Fellowship_small-e1406720208783.png
+  src: /files/blog/2014/07/DH-DARIAH-Fellowship_small-e1406720208783.png
   title: DH-DARIAH-Fellowship
 layout: post
 published: true

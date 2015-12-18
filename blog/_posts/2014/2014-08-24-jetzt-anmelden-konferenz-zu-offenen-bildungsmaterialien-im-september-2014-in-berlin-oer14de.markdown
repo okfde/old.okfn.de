@@ -7,7 +7,7 @@ categories:
 - Termine
 date: 2014-08-24 09:54:13
 image:
-  src: http://de.okblogfarm.org/files/2014/08/OERde14_grau_breit-415x294.png
+  src: /files/blog/2014/08/OERde14_grau_breit-415x294.png
   title: OERde14_grau_breit
 layout: post
 published: true

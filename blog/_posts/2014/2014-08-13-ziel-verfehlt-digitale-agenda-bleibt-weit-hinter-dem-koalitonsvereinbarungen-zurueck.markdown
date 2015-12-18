@@ -5,7 +5,7 @@ categories:
 - Featured
 date: 2014-08-13 10:35:38
 image:
-  src: http://de.okblogfarm.org/files/2014/08/digitale_agenda-415x257.png
+  src: /files/blog/2014/08/digitale_agenda-415x257.png
   title: digitale_agenda
 layout: post
 published: true
@@ -29,7 +29,7 @@ Die Nichteinbeziehung der Zivilgesellschaft, anderer gesellschaftlicher Gruppen 
 
 Die aktuellen Entwicklungen im Rahmen der digitalen Agenda bergen somit trotz dem Bekenntnis den "Multi-Stakeholder-Prozessen eine besondere Bedeutung zu kommen zu lassen, in denen Akteure aus den Bereichen Wirtschaft, Wissenschaft, Staat und Zivilgesellschaft im Rahmen ihrer jeweiligen Verantwortlichkeiten transparent zusammenwirken" (Entwurf der Digitalen Agenda vom 22.7.2014) die Gefahr, dass sich die Bundesregierung das Vertrauen der Zivilgesellschaft gänzlich verspielt. Deshalb braucht es auch in der digitalen Agenda neben konkreten Maßnahmen im Bereich innovativer Staat eben auch ein klares Bekenntnis zu Open Government (zum Beispiel mit einem Beitritt zur OGP), denn ["eine aktive, dauerhafte politische Unterstützung des Themas auf hoher Ebene ist ebenfalls unumgänglich"](https://fragdenstaat.de/files/foi/7436/ogp120314bmi.pdf). 
 
-Es bleibt auch abzuwarten (und zu hoffen), inwiefern das Regierungsprogramm „Digitale Verwaltung 2020“ sowie der "[Nationalen Aktionsplan zur Umsetzung der G8-Open-Data-Charta](http://okfn.de/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/)" ([unsere Empfehlungen dazu](http://okfn.de/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/)) als Anhänge zu der Digitalen Agenda die Themen Open Knowledge und Open Government/Data umfassender adressieren als die Agenda das bisher tut und ob das die deutschen "Bundesbehörden (wirklich) zu Vorreitern bei der Bereitstellung offener Daten in Deutschland" macht. 
+Es bleibt auch abzuwarten (und zu hoffen), inwiefern das Regierungsprogramm „Digitale Verwaltung 2020“ sowie der "[Nationalen Aktionsplan zur Umsetzung der G8-Open-Data-Charta](/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/)" ([unsere Empfehlungen dazu](/blog/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/)) als Anhänge zu der Digitalen Agenda die Themen Open Knowledge und Open Government/Data umfassender adressieren als die Agenda das bisher tut und ob das die deutschen "Bundesbehörden (wirklich) zu Vorreitern bei der Bereitstellung offener Daten in Deutschland" macht. 
 
 Der aktuelle Entwurf der Digitalen Agenda verfehlt bisher seine Ziele in vielerlei Hinsicht, besonders aber in den Punkten Beteiligung, Kohärenz und Konkretheit. Es bleibt zu hoffen, dass die Forderungen nach einer grundlegenden Überarbeitung unter Einbeziehung der Zivilgesellschaft sowie anderer Gruppen und den klaren Ankündigungen aus dem Koalitionsvertrag bei der Beschlussfassung vorraussichtlich am 20.8.2014 im Bundeskabinett nicht unberücksichtigt bleiben.
 

@@ -16,7 +16,6 @@ type: post
 
 
 ---
-
 ### Der letzte Monat im Rückblick
 
 **Einsichten in die Black Box von Förderungs-Reviews.** Eine Simulation weist darauf hin dass bereits kleine Voreingenommenheiten zu [gravierenden Unterschieden bei Förderquoten](http://news.sciencemag.org/funding/2015/02/little-bias-peer-review-scores-can-translate-big-money-simulation-finds) führen können. Es bleibt allerdings noch eine empirische Frage, ob und welche strukturellen Biases tatsächlich existieren.

@@ -7,7 +7,7 @@ categories:
 - Transparenz
 date: 2015-01-28 12:00:13
 image:
-  src: http://de.okblogfarm.org/files/2015/01/Screen-Shot-2015-01-27-at-11.09.49.png
+  src: /files/blog/2015/01/Screen-Shot-2015-01-27-at-11.09.49.png
   title: Screen Shot 2015-01-27 at 11.09.49
 layout: post
 published: true
@@ -16,9 +16,7 @@ tags: []
 title: Code for München launcht „München Transparent"
 type: post
 
-
 ---
-
 Nachdem letzte Woche [politik-bei-uns.de](http://politik-bei-uns.de/) das Licht der Welt erblickt hat, geht heute das Projekt „**[München Transparent**](http://muenchen-transparent.de)“ an den Start, welches in dem [Münchener OK Lab](http://codefor.de/muenchen/) unseres [Code for Germany](http://codefor.de/) Projektes entstand. Die unabhängige Plattform ermöglicht es Münchener BürgerInnen, schnell und einfach Einblicke in die Kommunalpolitik zu bekommen, indem normalerweise nur schwer zugängliche Daten aus dem Münchener [Ratsinformationssystem](http://de.wikipedia.org/wiki/Ratsinformationssystem) übersichtlich und ansprechend aufbereitet werden.
 
 Insgesamt über 160.000 gescannte Dokumente umfasst die Datenbank derzeit, von Stadtratsanträgen über Beschlussvorlagen bis hin zum täglich erscheinenden Rathaus-Magazin „Rathausumschau“. So lässt sich erfahren, was eigentlich der Münchner Stadtrat gerade macht und welche Themen in den lokalen Stadtteilparlamenten oder den Bezirksausschüssen anstehen. 

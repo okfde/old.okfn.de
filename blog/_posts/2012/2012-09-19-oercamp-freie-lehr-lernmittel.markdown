@@ -6,7 +6,7 @@ categories:
 - Termine
 date: 2012-09-19 07:44:46
 image:
-  src: /wp-content/blogs.dir/21/files/2012/09/OERCamp_oben-300x207.png
+  src: /files/blog/2012/09/OERCamp_oben-300x207.png
   title: ''
 layout: post
 published: true

@@ -22,7 +22,7 @@ Es ist soweit: Nach ein paar Wochen der Vorbereitung freue ich mich euch heute 
 
 Die drei Vereine sind für die konzeptionelle Arbeit und die Durchführung des Wettbewerbs zuständig. Der BITKOM ist mit der Aktivierung von Unternehmen der IKT-Industrie zur kommunikativen und finanziellen Unterstützung (Sponsoring) des Wettbewerbs betraut. Der Deutsche Städte- und Gemeindebund hat seine Unterstützung bei der Mobilisierung von Kommunen zugesagt.
 
-Der Start des Wettbewerbs ist für den 8. November 2011 auf der Messe "Moderner Staat" vorgesehen. Die Prämierung der Gewinner wird auf der CeBIT im März 2012 stattfinden. Hier findet ihr ein [Informationsblatt](http://okfn.de/files/2011/07/Infoblatt-Open-Data-Apps-Wettbewerb.pdf) mit weiteren Fakten zum Wettbewerb.
+Der Start des Wettbewerbs ist für den 8. November 2011 auf der Messe "Moderner Staat" vorgesehen. Die Prämierung der Gewinner wird auf der CeBIT im März 2012 stattfinden. Hier findet ihr ein [Informationsblatt](/files/blog/2011/07/Infoblatt-Open-Data-Apps-Wettbewerb.pdf) mit weiteren Fakten zum Wettbewerb.
 
 Ein solcher Wettbewerb kann nur gelingen, wenn möglichst viele kluge Köpfe Ideen und Engagement einbringen. Wir würden uns daher sehr über eure Beteiligung freuen. Ein erstes offenes Treffen des Orga-Teams wird Ende diesen Monats in Berlin stattfinden. Den genauen Termin teilen wir euch mit, wenn er feststeht - ihr seid herzlich eingeladen!
 

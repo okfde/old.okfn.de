@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2012-01-16 15:17:22
 image:
-  src: http://okfn.de/files/2012/01/IMG_0562-300x225.jpg
+  src: /files/blog/2012/01/IMG_0562-300x225.jpg
   title: ''
 layout: post
 published: true
@@ -20,6 +20,6 @@ Letzten Dienstag war es endlich soweit: Der Auftakt zu unseren regelmäßigen Op
 
 Jedes Treffen wird in unserem [Wiki ](http://wiki.okfn.de/OKberlinmeeting)dokumentiert. Dort können auch Themenvorschläge für das nächste Treffen gemacht werden! Außerdem gibt es jetzt auch eine [Twitter Liste](https://twitter.com/#!/okfde/openberlin) von allen Beteiligten. Falls ich jemand vergessen habe: bitte melden!
 
-![](http://okfn.de/files/2012/01/IMG_0559-300x225.jpg)
+![](/files/blog/2012/01/IMG_0559-300x225.jpg)
 
-Aktuelle Termine sind immer in unserem [Kalender](http://okfn.de/community/kalender/), bei [Meetup ](http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/)oder [Lanyrd ](http://lanyrd.com/profile/okfde/)zu finden!
+Aktuelle Termine sind immer in unserem [Kalender](/kalender/), bei [Meetup ](http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/)oder [Lanyrd ](http://lanyrd.com/profile/okfde/)zu finden!

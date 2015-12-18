@@ -4,7 +4,7 @@ categories:
 - offene Daten
 date: 2013-06-24 09:28:41
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/interactive-cologne-2013.jpg
+  src: /files/blog/2013/06/interactive-cologne-2013.jpg
   title: interactive cologne 2013
 layout: post
 published: true
@@ -20,7 +20,7 @@ type: post
 
 ---
 
-**Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _[Apps & the City_](http://appsandthecity.net/) Team der Open Knowledge Foundation Deutschland beim diesjährigen _[Interactive Cologne_](http://okfn.de/2013/06/interactive-cologne-apps-the-city/) Festival!**
+**Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _[Apps & the City_](http://appsandthecity.net/) Team der Open Knowledge Foundation Deutschland beim diesjährigen _[Interactive Cologne_](/blog/2013/06/interactive-cologne-apps-the-city/) Festival!**
 
 Angelockt unter anderem durch aktuelle Gerüchte um Open-Transport-Data-Pläne sowohl bei den Kölner Verkehrsbetrieben (KVB) als auch bei den Verkehrsverbünden Rhein-Ruhr (VRR) und Rhein-Sieg (VRS) zog es zwischen 17. und 23. Juni 2013 neben Hackern, App-Entwicklern und Gründern auch das _Apps & the City_ Team der Open Knowledge Foundation Deutschland sowie weitere Open-Data-Aktivisten in die Domstadt am Rhein.
 
@@ -34,8 +34,8 @@ Des Weiteren gelang es im Rahmen verschiedener Panel-Talks rund um die Themen _T
 
 Köln scheint also auf dem richtigen Weg zu sein. Nicht nur wird durch eine überaus aktive Community versucht das regional und überregional vorhandene Potential von Entwicklern, Startups und Evangelisten in einem Event zu bündeln, sondern präsentiert sich der KVB auch als überaus interessiert an zeitnahen Lösungen für eine zukunftsorientierte Befreihung von Transportdaten. Gleichzeitig scheint die Kölner Stadtverwaltung verstanden zu haben, dass sich kommende stadt- und verkehrsplanerischen Probleme effektiver lösen lassen, wenn Hacker, Entwickler und Kreative dazu befähigt werden, fundamentale Informationen zu analysieren und so möglicherweise (unkonventionelle) Lösungen zu finden. Offene Daten sind hierfür zwingend erforderlich!
 
-![open transport data - interactive cologne](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/open-transport-data-interactive-cologne.jpg)
+![open transport data - interactive cologne](/files/blog/2013/06/open-transport-data-interactive-cologne.jpg)
 
-![hacking -  interactive cologne](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/hacking-interactive-cologne.jpg)
+![hacking -  interactive cologne](/files/blog/2013/06/hacking-interactive-cologne.jpg)
 
-![kids - interactive cologne](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/kids-interactive-cologne.jpg)
+![kids - interactive cologne](/files/blog/2013/06/kids-interactive-cologne.jpg)

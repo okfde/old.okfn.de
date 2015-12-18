@@ -7,7 +7,7 @@ categories:
 - Termine
 date: 2014-10-10 14:34:20
 image:
-  src: http://de.okblogfarm.org/files/2013/11/Bildschirmfoto-2013-11-28-um-14.00.47-415x159.png
+  src: /files/blog/2013/11/Bildschirmfoto-2013-11-28-um-14.00.47-415x159.png
   title: Bildschirmfoto 2013-11-28 um 14.00.47
 layout: post
 published: true

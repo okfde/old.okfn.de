@@ -6,7 +6,7 @@ categories:
 - offene Kultur
 date: 2014-07-28 12:22:50
 image:
-  src: http://de.okblogfarm.org/files/2014/07/IMAG0174.jpg
+  src: /files/blog/2014/07/IMAG0174.jpg
   title: ''
 layout: post
 published: true
@@ -24,29 +24,29 @@ type: post
 
 Während des Workshops stellen sich verschiedene Projekte vor, die bereits mit offenen Kulturdaten arbeiten:
 
-***Lieke Ploeger, Open Knowledge**, gab eine Einführung in offene Kulturdaten, [Slides](http://de.okblogfarm.org/files/2014/06/1_Lieke-Ploeger_OpenGLAM-intro-OKFest-2014.pdf)
+***Lieke Ploeger, Open Knowledge**, gab eine Einführung in offene Kulturdaten, [Slides](/files/blog/2014/06/1_Lieke-Ploeger_OpenGLAM-intro-OKFest-2014.pdf)
 
-***Joris Pekel, Europeana**, stellte den Datenöffnungsprozess des Rijksmuseums dar [Slides](http://de.okblogfarm.org/files/2014/06/2_Joris-Pekel_rijksmuseumpaper-140717041443-phpapp01.pdf)
+***Joris Pekel, Europeana**, stellte den Datenöffnungsprozess des Rijksmuseums dar [Slides](/files/blog/2014/06/2_Joris-Pekel_rijksmuseumpaper-140717041443-phpapp01.pdf)
 
-***Stephan Bartholmei, Deutsche Digitale Bibliothek**, lies die Teilnehmer an seinen Erfahrungen (insb. Hindernissen) bei der Öffnung von Kulturdaten teilhaben [Slides](http://de.okblogfarm.org/files/2014/06/3_Stephan-Bartholmei_2014-07-15-OpenGLAM-Workshop_with_notes.pdf)
+***Stephan Bartholmei, Deutsche Digitale Bibliothek**, lies die Teilnehmer an seinen Erfahrungen (insb. Hindernissen) bei der Öffnung von Kulturdaten teilhaben [Slides](/files/blog/2014/06/3_Stephan-Bartholmei_2014-07-15-OpenGLAM-Workshop_with_notes.pdf)
 
-***Lydia Pintscher, Wikimedia DE**, berichtete über das Datenverbesserungstool Wikidata [Slides](http://de.okblogfarm.org/files/2014/06/4_Lydia-Pintscher_Wikidata-@-OKFest-Fringe-event-2014-07-15.pdf)
+***Lydia Pintscher, Wikimedia DE**, berichtete über das Datenverbesserungstool Wikidata [Slides](/files/blog/2014/06/4_Lydia-Pintscher_Wikidata-@-OKFest-Fringe-event-2014-07-15.pdf)
 
-***Helene Hahn, Open Knowledge Foundation Deutschland,** lies Coding da Vinci, den ersten Hackathon mit Kulturdaten Review passieren [Slides](http://de.okblogfarm.org/files/2014/06/5_Helene-Hahn_openglam-workshop-2014-final.pdf)
+***Helene Hahn, Open Knowledge Foundation Deutschland,** lies Coding da Vinci, den ersten Hackathon mit Kulturdaten Review passieren [Slides](/files/blog/2014/06/5_Helene-Hahn_openglam-workshop-2014-final.pdf)
 
 ***Daniel Mietchen, Museum für Naturkunde Berlin**, stellte GLAM-Wiki-Kooperationen in der Wissenschaft vor
 
-![](http://de.okblogfarm.org/files/2014/07/IMAG0184.jpg) CC-BY Open Knowledge Foundation De
+![](/files/blog/2014/07/IMAG0184.jpg) CC-BY Open Knowledge Foundation De
 
 Ziel des Workshops war es auch, eine OpenGLAM Arbeitsgruppe in Deutschland zu gründen. Mit Tipps und Best Practices für den Start versorgten uns die OpenGLAM Arbeitsgruppen aus der Schweiz und Finnland:
 
-***Beat Estermann, OpenGLAM Arbeitsgruppe Schweiz**, [Slides](http://de.okblogfarm.org/files/2014/06/7_Beat-Estermann_20140715_OpenGLAM_Satellite-Event_Input_CH.pdf)
+***Beat Estermann, OpenGLAM Arbeitsgruppe Schweiz**, [Slides](/files/blog/2014/06/7_Beat-Estermann_20140715_OpenGLAM_Satellite-Event_Input_CH.pdf)
 
-***Sanna Marttila, OpenGLAM Arbeitsgruppe Finnland**, [Slides](http://de.okblogfarm.org/files/2014/06/8_Sanna-Marttila_OpenGLAM-workshop-Berlin-SM-150714.pdf)
+***Sanna Marttila, OpenGLAM Arbeitsgruppe Finnland**, [Slides](/files/blog/2014/06/8_Sanna-Marttila_OpenGLAM-workshop-Berlin-SM-150714.pdf)
 
  
 
-![](http://de.okblogfarm.org/files/2014/06/mach-mit.jpg) CC-BY-SA Julian Kücklich, Coding da Vinci - Der Kultur-Hackathon
+![](/files/blog/2014/06/mach-mit.jpg) CC-BY-SA Julian Kücklich, Coding da Vinci - Der Kultur-Hackathon
 
 **Kultur-gut gemeinsam stärken!**
 

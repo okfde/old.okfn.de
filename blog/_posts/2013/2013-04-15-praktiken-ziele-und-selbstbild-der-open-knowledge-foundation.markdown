@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-04-15 14:48:33
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/04/Mindmap_mindnode-05.04.13-415x183.png
+  src: /files/blog/2013/04/Mindmap_mindnode-05.04.13-415x183.png
   title: Mindmap Praktiken, Ziele und Selbstbild OKF
 layout: post
 published: true

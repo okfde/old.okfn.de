@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2013-12-13 11:05:24
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/12/a4e_logo.png
+  src: /files/blog/2013/12/a4e_logo.png
   title: a4e_logo
 layout: post
 published: true
@@ -46,8 +46,8 @@ Apps for Europe möchte der Welt nicht nur die Wirkungsmacht offener Daten zeige
 ### Über Apps for Europe  
 Apps for Europe ist ein Unterstützernetzwerk mit dem Auftrag, datengetriebene Apps in tragfähige Unternehmen zu verwandeln. Weiter Informationen über unser Konsortium finden Sie unter: [www.apps4europe.eu/about-us](http://www.apps4europe.eu/about-us).
 
-[Apps for Europe Online Competition](http://okfn.de/wp-content/blogs.dir/21/files/2013/12/Apps-for-Europe-Online-Competition.pdf) (PDF Englisch)
+[Apps for Europe Online Competition](/files/blog/2013/12/Apps-for-Europe-Online-Competition.pdf) (PDF Englisch)
 
-[Apps for Europe Online Competition](http://okfn.de/wp-content/blogs.dir/21/files/2013/12/Apps-for-Europe-Online-Competition_DE.pdf) (PDF Deutsch)
+[Apps for Europe Online Competition](/files/blog/2013/12/Apps-for-Europe-Online-Competition_DE.pdf) (PDF Deutsch)
 
  

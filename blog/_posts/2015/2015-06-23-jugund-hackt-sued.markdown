@@ -15,9 +15,7 @@ title: Im “Spiel des Lebens” wird soziale Ungleichheit verdeutlicht und durc
 
 type: post
 
-
 ---
-
 42 Stunden, 48 technikbegeisterte Jugendliche, 16 Mentorinnen und Mentoren, und ebenso viele helfende Hände – das war das Rezept für Jugend hackt Süd. Ermöglicht wurde die Veranstaltung durch den <a href="http://award.codeweek.de/">Code Week Award</a>, den Jugend hackt Süd für die Austragung des Events erhalten hatte.
 
 <figure>

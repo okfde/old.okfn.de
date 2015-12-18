@@ -6,7 +6,7 @@ categories:
 - offenes Wissen
 date: 2015-02-10 10:44:52
 image:
-  src: http://de.okblogfarm.org/files/2015/02/buendnis-freie-bildung-415x76.png
+  src: /files/blog/2015/02/buendnis-freie-bildung-415x76.png
   title: buendnis-freie-bildung
 layout: post
 published: true
@@ -18,7 +18,6 @@ type: post
 
 
 ---
-
 Bildungsgerechtigkeit ist ein wichtiger Indikator für die gesellschaftlichen Perspektiven in Deutschland. Das Bündnis freie Bildung (BFB) hat heute ein gemeinsames Positionspapier zum Thema freie und offene Bildungsmaterialien verabschiedet. Das Bündnis stellt dabei fest, dass die bisherigen Entwicklungen, insbesondere im Bereich der Verfügbarkeit freier und offener Bildungsmaterialien, bisher unzureichend sind und eine klare Strategie zwingend notwendig ist.
 
 Freie Bildungsmaterialien werden als ein Mittel für eine gerechtere und partizipativere Bildung gesehen. Zum einen sollen durch Steuergelder finanzierte Bildungsmaterialien für die Allgemeinheit nutzbar sein, zum anderen eröffnen sich mit freien Bildungsmaterialien auch neue und innovative Möglichkeiten des Lernens und Lehrens. Das veröffentlichte Positionspapier enthält konkrete Handlungsempfehlungen. Diese richten sich primär, aber nicht ausschließlich, an die Legislative und Exekutive in Deutschland – soweit Regulierung, Entwicklung und Einsatz von Bildungsmaterialien in den verschiedenen Bildungssektoren Teil ihres öffentlichen Auftrages sind – insbesondere also an die Bildungsministerien und -behörden sowie die Parlamente und Regierungen auf Bundes- und Landesebene.

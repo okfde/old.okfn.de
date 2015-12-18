@@ -7,7 +7,7 @@ categories:
 - Positionen
 date: 2014-09-24 21:22:45
 image:
-  src: http://de.okblogfarm.org/files/2014/09/g8-aktions-plan-open-data-415x211.png
+  src: /files/blog/2014/09/g8-aktions-plan-open-data-415x211.png
   title: g8-aktions-plan - open-data
 layout: post
 published: true
@@ -38,4 +38,4 @@ Die Open Knowledge Foundation Deutschland wird das Thema weiterhin begleiten, au
 
 Wir verstehen den kürzlich veröffentlichten Aktionsplan als ressortübergreifenden Kompromiss eines Rahmensetzungsdokuments das nun in den nächsten 15 Monaten mit sehr viel Leben gefüllt werden muss. Dass aber bis Ende 2015 in Deutschland das erste Prinzip der [Charter](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex) ("Open Data by Default") vollkommen umgesetzt werden wird, ist aber eher unwahrscheinlich.
 
-Mehr über die Historie und den Umfang der [G8 Open Data Charter finden Sie hier](http://okfn.de/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/).
+Mehr über die Historie und den Umfang der [G8 Open Data Charter finden Sie hier](/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/).

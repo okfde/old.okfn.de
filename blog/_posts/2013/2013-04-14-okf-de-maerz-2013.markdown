@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-04-14 12:10:53
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/Open_data.png
+  src: /files/blog/2013/02/Open_data.png
   title: Open_data
 layout: post
 published: true
@@ -30,7 +30,7 @@ Neben der Arbeit an laufenden Projekten bemühen wir uns derzeit um drei große 
 > 
 > Am 7. und 8. September 2013 laden wir 50 Jugendliche aus Berlin ein, Werkzeuge und Anwendungen zu entwickeln, die offene Daten ihrere Stadt (Kriminalitätsdaten, Verkehrsdaten usw.) nutzbar machen, um die Welt ein kleines bisschen besser zu machen. Dabei werdet ihr von erfahrenen Entwicklern als Mentoren unterstützt. Zusammen wollen wir mehr und besser coden lernen und vor allem viel Spaß haben.
 
-Damit wir unsere Arbeit weiterhin gut machen können, sind wir auf Deine Hilfe angewiesen. Es gibt verschiedene Möglichkeiten uns zu unterstützen: Sei es durch [aktive Mitarbeit](http://okfn.de/getinvolved/) in unseren Projekten oder durch eine [Spende](http://okfn.de/about/spenden/)! Wir freuen uns über Fragen, Anregungen und Kritik and info@okfn.de. Im folgenden nun die Übersicht unserer Aktivitäten im März 2013.
+Damit wir unsere Arbeit weiterhin gut machen können, sind wir auf Deine Hilfe angewiesen. Es gibt verschiedene Möglichkeiten uns zu unterstützen: Sei es durch aktive Mitarbeit in unseren Projekten oder durch eine [Spende](/spenden/)! Wir freuen uns über Fragen, Anregungen und Kritik and info@okfn.de. Im folgenden nun die Übersicht unserer Aktivitäten im März 2013.
 
 ### Fundraising  
 * Gespräche zum und Anpassungen am Antrag für die OGP-Kampagne  
@@ -94,13 +94,13 @@ Damit wir unsere Arbeit weiterhin gut machen können, sind wir auf Deine Hilfe a
 
   * 8\. & 9\. März: Retreat für OKF DE Team und Vorstand
   * 21\. März: Expertenworkshop zum Energyhackday im Betahaus in Berlin
-  * 22\. März: Apps and the City | [Präsentation von Apps und Daten](http://okfn.de/2013/04/apps-and-the-city-prasentation-daten-workshop/), beim VBB in Berlin
+  * 22\. März: Apps and the City | [Präsentation von Apps und Daten](/blog/2013/04/apps-and-the-city-prasentation-daten-workshop/), beim VBB in Berlin
   * 26\. & 27\. März: School of Data: [Wrangling for Watchdogs Workshop](http://www.supermarkt-berlin.net/content/wrangling-watchdogs-school-data-workshop), im Supermarkt Berlin
 
 ## Sonstiges
 
-  * Blogpost zum [Transparenzportal KfW-Entwicklungsbank](http://okfn.de/2013/03/transparenz-portal-kfw-entwicklungsbank/)
-  * Übersetzung und Veröffentlichung der [Erklärung zur Parlamentarischen Offenheit](http://okfn.de/2013/03/erklaerung-zur-parlamentarischen-offenheit/) ([Declaration on Parliamentary Openness](http://www.openingparliament.org/))
+  * Blogpost zum [Transparenzportal KfW-Entwicklungsbank](/blog/2013/03/transparenz-portal-kfw-entwicklungsbank/)
+  * Übersetzung und Veröffentlichung der [Erklärung zur Parlamentarischen Offenheit](/blog/2013/03/erklaerung-zur-parlamentarischen-offenheit/) ([Declaration on Parliamentary Openness](http://www.openingparliament.org/))
 
  
 

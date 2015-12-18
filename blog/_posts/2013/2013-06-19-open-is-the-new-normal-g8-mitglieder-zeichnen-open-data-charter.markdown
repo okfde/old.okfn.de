@@ -7,7 +7,7 @@ categories:
 - Positionen
 date: 2013-06-19 12:37:08
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/charta_open_data_okf.png
+  src: /files/blog/2013/06/charta_open_data_okf.png
   title: charta_open_data_okf
 layout: post
 published: true
@@ -22,7 +22,7 @@ type: post
 
 ---
 
-Kurz nach der [Veröffentlichung der Ergebnisse des globalen Open Data Census](http://okfn.de/2013/06/pressemitteilung-zu-den-ergebnissen-des-globalen-open-data-census/) unterzeichneten die G8-Mitgliedsstaaten, darunter auch Deutschland, die "[Open Data Charter](https://www.gov.uk/government/publications/open-data-charter)". Die Unterzeichnerländer verpflichten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um "Transparenz und Innovation" zu fördern.
+Kurz nach der [Veröffentlichung der Ergebnisse des globalen Open Data Census](/blog/2013/06/pressemitteilung-zu-den-ergebnissen-des-globalen-open-data-census/) unterzeichneten die G8-Mitgliedsstaaten, darunter auch Deutschland, die "[Open Data Charter](https://www.gov.uk/government/publications/open-data-charter)". Die Unterzeichnerländer verpflichten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um "Transparenz und Innovation" zu fördern.
 
 **"Open Data by Default"**
 

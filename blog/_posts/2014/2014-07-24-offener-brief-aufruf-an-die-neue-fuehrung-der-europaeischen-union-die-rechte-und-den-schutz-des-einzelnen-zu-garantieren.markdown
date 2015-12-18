@@ -5,7 +5,7 @@ categories:
 - Positionen
 date: 2014-07-24 12:06:16
 image:
-  src: http://de.okblogfarm.org/files/2014/07/Screen-Shot-2014-07-24-at-14.02.32.png
+  src: /files/blog/2014/07/Screen-Shot-2014-07-24-at-14.02.32.png
   title: Offener Brief
 layout: post
 published: true
@@ -21,7 +21,7 @@ type: post
 
 ---
 
-In einem Zeitalter, in dem Regierungen und Unternehmen immer mehr private Daten sammeln, bedarf es klarer Regeln und effektiver Mechanismen, um die Rechte und den Schutz des Einzelnen zu garantieren. Deutschland und Europa haben international den Ruf, das Datenschutz und Schutz der Privatsphäre in diesen Regionen einen hohen Stellenwert haben. Die Erfahrungen, die Deutschland und Europa bei der Entwicklung von Gesetzen und Institutionen in diesem Bereich gemacht haben, dürfte anderen Nationen von großem Nutzen sein. Darüber hinaus würde ein Beitritt Deutschlands und Europas dem bisher sehr angelsächsischen Einschlag in der OGP eine neue Sichtweise geben. [Deutschland und die EU brauchen die OGP, aber die OGP braucht auch Deutschland und die EU!](http://okfn.de/2013/10/deutschland-muss-der-open-government-partnership-beitreten/)
+In einem Zeitalter, in dem Regierungen und Unternehmen immer mehr private Daten sammeln, bedarf es klarer Regeln und effektiver Mechanismen, um die Rechte und den Schutz des Einzelnen zu garantieren. Deutschland und Europa haben international den Ruf, das Datenschutz und Schutz der Privatsphäre in diesen Regionen einen hohen Stellenwert haben. Die Erfahrungen, die Deutschland und Europa bei der Entwicklung von Gesetzen und Institutionen in diesem Bereich gemacht haben, dürfte anderen Nationen von großem Nutzen sein. Darüber hinaus würde ein Beitritt Deutschlands und Europas dem bisher sehr angelsächsischen Einschlag in der OGP eine neue Sichtweise geben. [Deutschland und die EU brauchen die OGP, aber die OGP braucht auch Deutschland und die EU!](/blog/2013/10/deutschland-muss-der-open-government-partnership-beitreten/)
 
 **Deutschland und die EU sollten ihrem angestrebten Engagement in der Open Government Partnership (OGP) Taten folgen lassen**
 

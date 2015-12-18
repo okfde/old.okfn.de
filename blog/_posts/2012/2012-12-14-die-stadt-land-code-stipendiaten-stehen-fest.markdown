@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2012-12-14 18:27:34
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2012/12/pokal.png
+  src: /files/blog/2012/12/pokal.png
   title: ''
 layout: post
 published: true

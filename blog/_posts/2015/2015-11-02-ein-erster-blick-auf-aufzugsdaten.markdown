@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-11-02 22:14:00
 image: 
-  src: http://okfn.de/files/blog/2015-11/RK.png
+  src: /files/blog/2015/11/RK.png
 layout: post
 published: true
 status: publish
@@ -20,8 +20,7 @@ title: "Ein erster Blick auf Aufzugsdaten: Erste Daten von der Bahn"
 type: post
 
 ---
-<br>
-*Berlin, 02.11.2015* – Wie [unlängst angekündigt](http://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/) hatte die Deutsche Bahn die Öffnung erster Datensätze als „echtes" Open Data in Aussicht gestellt, was nicht ohne Echo blieb:
+*Berlin, 02.11.2015* – Wie [unlängst angekündigt](/blog/2015/10/die-bahn-kommt-auf-open-data/) hatte die Deutsche Bahn die Öffnung erster Datensätze als „echtes" Open Data in Aussicht gestellt, was nicht ohne Echo blieb:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/okfde">@okfde</a> <a href="https://twitter.com/_stk">@_stk</a> wooot! For real? Party to celebrate? Champagne? <a href="https://twitter.com/OKFN">@OKFN</a></p>&mdash; Pieter Colpaert (@pietercolpaert) <a href="https://twitter.com/pietercolpaert/status/657633315046957061">October 23, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -30,11 +29,11 @@ type: post
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/tristramg">@tristramg</a> <a href="https://twitter.com/_stk">@_stk</a> <a href="https://twitter.com/pietercolpaert">@pietercolpaert</a> &#10;No realtime status and position about these elevators? &#10;Very disappointing</p>&mdash; Thomas (@somoht) <a href="https://twitter.com/somoht/status/657646384498262016">October 23, 2015</a></blockquote>
 
-Nun haben die Mühlen gemahlen, und wir können einen kleinen Einblick geben, welche Daten rund um Aufzüge die DB AG vor hat freizugeben, welche Features vorhanden sind – und welche fehlen. Um gleich einmal Hands-on damit etwas anfangen zu können, haben wir vorab [einige Auszüge aus den Daten](http://okfn.de/files/blog/2015-11/DB-Aufzug-Probedatensaetze.csv) bekommen, die wir auch schon in einer abendlichen Telefonsession mit [@Nakaner](https://twitter.com/nakaner) aus der [OpenRailwayMap](http://www.openrailwaymap.org/)-Community mit dem Ist-Stand verglichen haben.
+Nun haben die Mühlen gemahlen, und wir können einen kleinen Einblick geben, welche Daten rund um Aufzüge die DB AG vor hat freizugeben, welche Features vorhanden sind – und welche fehlen. Um gleich einmal Hands-on damit etwas anfangen zu können, haben wir vorab [einige Auszüge aus den Daten](/files/blog/2015/11/DB-Aufzug-Probedatensaetze.csv) bekommen, die wir auch schon in einer abendlichen Telefonsession mit [@Nakaner](https://twitter.com/nakaner) aus der [OpenRailwayMap](http://www.openrailwaymap.org/)-Community mit dem Ist-Stand verglichen haben.
 
 ## Besonderheiten und Caveats
 
-Eines fällt schon bei unserem [kleinen Auszug](http://okfn.de/files/blog/2015-11/DB-Aufzug-Probedatensaetze.csv) auf: Die vielen verschiedenen Datenfelder sind recht unterschiedlich gepflegt. Bei manchen Datensätzen (siehe das Beispiel Neu-Ulm) sind beinahe alle Felder eingepflegt und auch korrekt, wie die händische Vermessung vor Ort ergab. Anderenorts kann es schon einmal vorkommen, dass bis auf Grunddaten wie die Equipmentnummer, Bahnhof und Baujahr so gut wie nichts dokumentiert ist – inklusive fehlender Koordinaten.
+Eines fällt schon bei unserem [kleinen Auszug](/files/blog/2015/11/DB-Aufzug-Probedatensaetze.csv) auf: Die vielen verschiedenen Datenfelder sind recht unterschiedlich gepflegt. Bei manchen Datensätzen (siehe das Beispiel Neu-Ulm) sind beinahe alle Felder eingepflegt und auch korrekt, wie die händische Vermessung vor Ort ergab. Anderenorts kann es schon einmal vorkommen, dass bis auf Grunddaten wie die Equipmentnummer, Bahnhof und Baujahr so gut wie nichts dokumentiert ist – inklusive fehlender Koordinaten.
 
 Spannend wird auch die Frage, die wir mit der DB gerade diskutieren, welche der Merkmale passenderweise als Unique Identifier dienen sollen. An jedem Aufzug ist für die Benutzer*innen sichtbar eine Herstellernummer angebracht, die in Verbindung mit dem [Hersteller](http://wiki.openstreetmap.org/wiki/Key:brand) eindeutig ist. Darüber hinaus existiert im Datensatz noch die DB-konzernweit eindeutige Equipmentnummer, die [analog zum Hamburger Vorschlag](https://lists.openstreetmap.de/pipermail/hamburg/2015-June/thread.html#1191) in OSM mitgetaggt werden könnte, um die Verknüpfung zur „Echtwelt" zu schaffen. 
 

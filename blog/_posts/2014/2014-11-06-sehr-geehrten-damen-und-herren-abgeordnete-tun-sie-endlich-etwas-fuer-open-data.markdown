@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2014-11-06 15:16:45
 image:
-  src: http://de.okblogfarm.org/files/2014/11/sachverstaendige_schildchen-415x231.png
+  src: /files/blog/2014/11/sachverstaendige_schildchen-415x231.png
   title: sachverstaendige_schildchen
 layout: post
 published: true
@@ -47,4 +47,4 @@ Eine weitere Aussage des Sachverständigen Schindler der ich mich als Konsens in
 
 Am Ende des Gesprächs "[könnte man eigentlich voller Freude und Hoffnung sein](https://netzpolitik.org/2014/fachgespraech-zu-open-data-im-bundestag-eigentlich-wollen-alle-dasselbe/)". Nun bleibt anzuwarten, ob der Ausschuss wirklich (nach den Worten des Vorsitzenden Koeppen) die Anmerkungen und Anregungen der Experten aufgreifen und umsetzen wird.
 
-Die gesamte Stellungnahme kann [hier eingesehen werden](http://de.okblogfarm.org/files/2014/11/Stellungnahme_Open_Data_btada_heise_291014.pdf). Diese und alle weiteren Stellungnahmen können auch im [Beteiligungsforum des Ausschusses](https://www.bundestag.de/ada/beteiligung/forum.php) eingesehen und kommentiert werden. Eine gute Zusammenfassung des gesamten Fachgesprächs findet man drüben bei [netzpolitik.org](https://netzpolitik.org/2014/fachgespraech-zu-open-data-im-bundestag-eigentlich-wollen-alle-dasselbe/) und bei der [Parlamentsredaktion des Bundestags](http://www.bundestag.de/presse/hib/2014_11/-/339140). Die ganze Sitzung des ["revolutionären"](https://twitter.com/JoernPL/status/529983658892222464) Ausschusses kann im Videomitschnitt nachverfolgt werden:
+Die gesamte Stellungnahme kann [hier eingesehen werden](/files/blog/2014/11/Stellungnahme_Open_Data_btada_heise_291014.pdf). Diese und alle weiteren Stellungnahmen können auch im [Beteiligungsforum des Ausschusses](https://www.bundestag.de/ada/beteiligung/forum.php) eingesehen und kommentiert werden. Eine gute Zusammenfassung des gesamten Fachgesprächs findet man drüben bei [netzpolitik.org](https://netzpolitik.org/2014/fachgespraech-zu-open-data-im-bundestag-eigentlich-wollen-alle-dasselbe/) und bei der [Parlamentsredaktion des Bundestags](http://www.bundestag.de/presse/hib/2014_11/-/339140). Die ganze Sitzung des ["revolutionären"](https://twitter.com/JoernPL/status/529983658892222464) Ausschusses kann im Videomitschnitt nachverfolgt werden:

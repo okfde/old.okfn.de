@@ -5,6 +5,9 @@ categories:
 - Featured
 - offene Kultur
 - Termine
+image:
+  src: /static/images/projects/codingdavinci.jpg
+  title: Coding da Vinci
 date: 2015-02-12 19:44:45
 layout: post
 published: true
@@ -15,7 +18,6 @@ type: post
 
 
 ---
-
 **Mit Coding da Vinci bereits 325 000 Mediendateien befreit**
 
 [Coding da Vinci](http://codingdavinci.de) steht für digitale Kulturprojekte, die aus offenen Daten spartenübergreifender Kulturinstitutionen bestehen und von allen frei genutzt werden können. Beim größten deutschen Kultur-Hackathon haben im letzten Jahr 16 Museen, Bibliotheken und Archive 325.000 Mediendateien aus ihren Beständen unter eine offene Lizenz gestellt und so für alle zugänglich gemacht. 

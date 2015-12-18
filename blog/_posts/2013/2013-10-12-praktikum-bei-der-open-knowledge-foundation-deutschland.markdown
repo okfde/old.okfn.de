@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-10-12 12:35:35
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/03/8210336893_c76839a169_b.jpg
+  src: /files/blog/2013/03/8210336893_c76839a169_b.jpg
   title: 8210336893_c76839a169_b
 layout: post
 published: true
@@ -41,7 +41,7 @@ Wenn Du dich für freies Wissen und offene Daten interessiert, Texte schreiben k
 
 **Wichtig für uns ist**
 
-* Du möchtest die Welt ein kleines Stückchen besser machen und teilst unsere [Ziele](http://okfn.de/about/#Ziele)  
+* Du möchtest die Welt ein kleines Stückchen besser machen und teilst unsere [Ziele](/mission)  
 * Sicher in Auftreten und Kommunikation  
 * Fleiß und Engagement  
 * Teamfähigkeit und eigenständige Arbeitsweise  
@@ -67,7 +67,7 @@ Wenn Du dich für freies Wissen und offene Daten interessiert, Texte schreiben k
 
 **Wichtig für uns ist:**
 
-* Du möchtest die Welt ein kleines Stückchen besser machen und teilst unsere [Ziele](http://okfn.de/about/#Ziele)  
+* Du möchtest die Welt ein kleines Stückchen besser machen und teilst unsere [Ziele](/mission)  
 * Sicher in Auftreten und Kommunikation  
 * Fleiß und Engagement  
 * Teamfähigkeit und eigenständige Arbeitsweise  

@@ -19,8 +19,6 @@ type: post
 
 ### Der letzte Monat im Rückblick
 
-# Der letzte Monat im Rückblick
-
 **Die geplante Fusion von Springer und Macmillan würde ein Verlagshaus mit € 1,5 Mrd. Umsatz schaffen.** Die Mutterkonzerne BC Partners und Holtzbrinck sehen dies als "[strategische Transaktion um langfristiges Wachstum zu sichern](http://se.macmillan.com/Media/News/HOLTZBRINCK-PUBLISHING-GROUP-AND-BC-PARTNERS-ANNOUNCE--AGREEMENT-TO-MERGE-MAJORITY-OF-MACMILLAN-SCIENCE-AND-EDUCATION--WITH-SPRINGER-SCIENCE-BUSINESS-MEDIA/?taxId=145)." Die ökonomischen Eigenheiten von Oligopolmärkten sind klar, es stellt sich viel mehr die Frage: Was ist das wirkliche Produkt, was ist der Mehrwert der noch generiert wird, welches Problem wird von solchen Konstrukten noch [sinnvoll gelöst](http://www.betaboston.com/footnote/2014/05/06/the-exploitative-economics-of-academic-publishing/)? Diese Fragen werden umso wichtiger, je stärker auch die Open Access-Veröffentlichungswelt von wenigen zentralen Akteuren dominiert wird.
 
 **Der Weg zu Open Science Commons.** Das ambitionierte und umfangreiche Projekt "[European Grid Infrastructures](http://www.hpcwire.com/2015/01/15/europe-approves-path-open-science-commons/)" erhält grünes Licht von der Europäischen Kommission. Ziel ist vereinfachter Zugang zu gemeinsamen Infrastrukturen, Technologien und wissenschaftlichem Wissen.

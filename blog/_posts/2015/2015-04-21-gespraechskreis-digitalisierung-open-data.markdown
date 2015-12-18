@@ -6,7 +6,7 @@ categories:
 - Open Data
 date: 2015-04-21 09:42:49
 image:
-  src: http://okfn.de/files/blog/2015-4/data-types.png
+  src: /files/blog/2015/04/data-types.png
   title: Types of Data
 layout: post
 published: true
@@ -14,8 +14,8 @@ status: publish
 tags: []
 title: "Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30.4."
 type: post
----
 
+---
 ### Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30.4.
 
 Wir möchten auf einen Gesprächstermin in der Reihe "Digitalisierung in Politik & Verwaltung" hinweisen. In lockerer Atmosphäre können sich Teilnehmer_Innen über Innovation und Digitalisierung im Bereich Politik und Verwaltung austauschen. Ziel ist es, Raum zur Sortierung und Koordination zu schaffen, vor Ort ins Gespräch zu kommen, und Kräfte zu bündeln.

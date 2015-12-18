@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-10-28 16:57:14
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/10/cropped-oknrw-logo_960x80-415x34.png
+  src: /files/blog/2013/10/cropped-oknrw-logo_960x80-415x34.png
   title: cropped-oknrw-logo_960x80
 layout: post
 published: true

@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-08-13 13:09:36
 image:
-  src: http://de.okblogfarm.org/files/2014/08/fill_618x322_9732249824_28f9b493cc_b.jpg
+  src: /files/blog/2014/08/fill_618x322_9732249824_28f9b493cc_b.jpg
   title: fill_618x322_9732249824_28f9b493cc_b
 layout: post
 published: true
@@ -56,4 +56,4 @@ Es ist das Ziel von **[Wikimedia Deutschland](http://wikimedia.de/wiki/Hauptseit
 
  
 
-![logos jh](http://de.okblogfarm.org/files/2014/08/logos-jh.png)
+![logos jh](/files/blog/2014/08/logos-jh.png)

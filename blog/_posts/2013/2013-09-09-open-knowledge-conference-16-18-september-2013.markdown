@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-09-09 11:07:24
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/09/Screen-Shot-2013-09-09-at-13.53.02.png
+  src: /files/blog/2013/09/Screen-Shot-2013-09-09-at-13.53.02.png
   title: OKCon 2013
 layout: post
 published: true

@@ -4,7 +4,7 @@ categories:
 - Termine
 date: 2013-01-07 10:30:15
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/01/Raumschiff-Erde.png
+  src: /files/blog/2013/01/Raumschiff-Erde.png
   title: ''
 layout: post
 published: true

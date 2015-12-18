@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-01-14 11:31:17
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/01/OGDP.png
+  src: /files/blog/2013/01/OGDP.png
   title: ''
 layout: post
 published: true

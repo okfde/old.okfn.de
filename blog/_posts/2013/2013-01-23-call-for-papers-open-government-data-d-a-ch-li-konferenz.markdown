@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-01-23 11:19:07
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/01/dachli.png
+  src: /files/blog/2013/01/dachli.png
   title: dachli
 layout: post
 published: true

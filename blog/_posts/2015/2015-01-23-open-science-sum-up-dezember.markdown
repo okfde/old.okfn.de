@@ -16,7 +16,6 @@ type: post
 
 
 ---
-
 ### Der letzte Monat im Rückblick
 
 Wir verzichten unsererseits auf einen Jahresrückblick und verweisen stattdessen auf:
@@ -28,7 +27,7 @@ Wir verzichten unsererseits auf einen Jahresrückblick und verweisen stattdessen
 
 **Mozilla will Fähigkeitslücken bei Open Science schließen.** Dafür wurde ein [Förderprogramm initiiert](http://mozillascience.org/announcing-new-support-to-build-capacity-for-open-science/), mit dem Ziel, Kompetenzen für kollaborative, effiziente, und reproduzierbare Wissenschaft einer breiteren Masse zu vermitteln. Dazu gehören auch Trainingsprogramme für Open Science und datenintensive Forschung.
 
-**Open Science 31C3.** Vernetzung und Austausch gab es im [Workshop der Open Science AG von Open Knowledge](http://okfn.de/2015/01/open-science-auf-dem-chaos-communication-congress-31c3/) auf dem Chaos Communication Congress. Dabei wurden viele Facetten angesprochen, und die Einbettung in andere gesellschaftliche Prozesse diskutiert.
+**Open Science 31C3.** Vernetzung und Austausch gab es im [Workshop der Open Science AG von Open Knowledge](/blog/2015/01/open-science-auf-dem-chaos-communication-congress-31c3/) auf dem Chaos Communication Congress. Dabei wurden viele Facetten angesprochen, und die Einbettung in andere gesellschaftliche Prozesse diskutiert.
 
 **Die Dateiendung als vorletzte Hürde.** Proprietäre Formate stehen einer einfachen Nutzung und Veröffentlichung [im Weg](https://medium.com/open-science/open-science-but-not-during-submission-6049dbfd14f9), und sind dennoch bevorzugte Wahl großer Publisher.
 

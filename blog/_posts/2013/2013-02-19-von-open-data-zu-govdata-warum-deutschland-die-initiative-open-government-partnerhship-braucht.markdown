@@ -5,7 +5,7 @@ categories:
 - Transparenz
 date: 2013-02-19 09:16:19
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/Reichstag-415x276.jpg
+  src: /files/blog/2013/02/Reichstag-415x276.jpg
   title: Reichstag
 layout: post
 published: true

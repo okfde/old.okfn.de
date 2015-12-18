@@ -5,7 +5,7 @@ categories:
 - Featured
 date: 2015-02-16 13:19:23
 image:
-  src: http://de.okblogfarm.org/files/2015/02/DH-Summit-SlideNEU.png
+  src: /files/blog/2015/02/DH-Summit-SlideNEU.png
   title: DH-Summit-SlideNEU
 layout: post
 published: true
@@ -17,7 +17,6 @@ type: post
 
 
 ---
-
 In den digitalen Geisteswissenschaften entwickeln sich neue Ansätze für Forschung, Lehre und offene Forschungsdaten. Vom 03.-04. März findet im Berliner Harnack-Haus der Digital Humanities Summit 2015 statt. Das Event wird von den Forschungsinfrastrukturen [DARIAH-DE](http://de.dariah.eu) und [Textgrid](https://www.textgrid.de/) organisiert, mit Unterstützung der Open Knowledge Foundation. Die Tagung richtet sich an alle, die sich für Digital Humanities interessieren.
 
 Für das Veranstaltungsprogramm konnten hochkarätige Vertreter aus den Digital Humanities gewonnen werden. So werden die Keynotesprecher Prof. Thaller, Universität zu Köln und Dr. Fendt, Massachusetts Institute of Technology eine Bestandsaufnahme bzw. Notwendigkeiten und Bedingungen der Digital Humanities präsentieren. Geplant sind zudem zwei Panels zu den Perspektiven aus Sicht der Wissenschaft, Infrastruktureinrichtungen und Förderinstitutionen sowie Pro- und Contrapositionen zum Thema Zukunft mit Tradition in den Geisteswissenschaften. Am 3. März wird Saskia Esken, Mitglied des deutschen Bundestags, eine Keynote zum Thema Digitales Publizieren, Open Access und Open Data halten.

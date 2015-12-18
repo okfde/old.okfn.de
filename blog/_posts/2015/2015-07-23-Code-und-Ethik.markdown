@@ -15,7 +15,7 @@ title: Code+Ethik=<3
 type: post
 
 ---
-<br>"Seit zwei Jahren wissen wir, dass Geheimdienste alles über uns wissen. Seit einem Jahr sind Programmierlernbefürworter an allen Ecken anzutreffen. Und 2015? Müssen wir endlich darüber sprechen, dass Code ohne Ethik wertlos ist. Der Talk will die Motivation hinter der derzeit angesagten Forderung nach „Programmieren als Pflichtfach“ sezieren, einen Blick auf aktuelle Lehrpläne der Informatik werfen und außerschulische Orte für Programmierwillige vorstellen."
+"Seit zwei Jahren wissen wir, dass Geheimdienste alles über uns wissen. Seit einem Jahr sind Programmierlernbefürworter an allen Ecken anzutreffen. Und 2015? Müssen wir endlich darüber sprechen, dass Code ohne Ethik wertlos ist. Der Talk will die Motivation hinter der derzeit angesagten Forderung nach „Programmieren als Pflichtfach“ sezieren, einen Blick auf aktuelle Lehrpläne der Informatik werfen und außerschulische Orte für Programmierwillige vorstellen."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lD34A2nuWCs" frameborder="0" allowfullscreen style="width: 100%"></iframe>
 

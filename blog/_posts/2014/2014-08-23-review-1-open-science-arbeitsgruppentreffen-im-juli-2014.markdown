@@ -7,7 +7,7 @@ categories:
 - Open Science
 date: 2014-08-23 07:21:56
 image:
-  src: http://de.okblogfarm.org/files/2014/09/open_science_ag_okf_de-415x310.png
+  src: /files/blog/2014/09/open_science_ag_okf_de-415x310.png
   title: open_science_ag_okf_de
 layout: post
 published: true
@@ -19,9 +19,9 @@ type: post
 
 ---
 
-Um trotz der Kürze des [OKFestivals](http://okfn.de/2014/07/okfestival-2014-berliner-sommerluft-und-offenes-wissen/) von nur knapp drei Tagen möglichst viel Austausch zu haben, gab es in diesem Jahr eine ganze Reihe von Zusatzveranstaltungen vor und nach dem eigentlichen Event. Beispielsweise wurde die Arbeitsgruppe OpenGLAM ([Mailingliste hier](https://lists.okfn.org/mailman/listinfo/openglam-de) \+ [Review hier](http://okfn.de/2014/07/openglam-workshop-review/)) in Deutschland gegründet.
+Um trotz der Kürze des [OKFestivals](/blog/2014/07/okfestival-2014-berliner-sommerluft-und-offenes-wissen/) von nur knapp drei Tagen möglichst viel Austausch zu haben, gab es in diesem Jahr eine ganze Reihe von Zusatzveranstaltungen vor und nach dem eigentlichen Event. Beispielsweise wurde die Arbeitsgruppe OpenGLAM ([Mailingliste hier](https://lists.okfn.org/mailman/listinfo/openglam-de) \+ [Review hier](/blog/2014/07/openglam-workshop-review/)) in Deutschland gegründet.
 
-Doch auch im für den Bereich Wissenschaft konstituierte sich im Rahmen eines [eigenen Open Science Fringe Events](http://okfn.de/2014/07/okfestival-2014-fringe-event-arbeitsgruppe-fuer-die-oeffnung-von-wissenschaft-und-forschung-open-science/) am 16.7.2014 im Büro der Open Knowledge Foundation Deutschland eine deutschsprachige Arbeitsgruppe. 
+Doch auch im für den Bereich Wissenschaft konstituierte sich im Rahmen eines [eigenen Open Science Fringe Events](/blog/2014/07/okfestival-2014-fringe-event-arbeitsgruppe-fuer-die-oeffnung-von-wissenschaft-und-forschung-open-science/) am 16.7.2014 im Büro der Open Knowledge Foundation Deutschland eine deutschsprachige Arbeitsgruppe. 
 
 Ziel der Arbeitsgruppe, bestehend aus rund 30 Personen, gut die Hälfte davon aktive Wissenschaftler, ist die Vernetzung von Aktiven im Bereich Open Science und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen - im Idealfall unter freien Lizenzen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute und Politik zum Thema Open Science fungieren. Erste Ziele, Aufgaben und Herausforderungen [wurden kollaborativ erarbeitet](https://pad.okfn.org/p/okfestkickoffsession) und in einem [Mission Statement](https://docs.google.com/document/d/1NhwTYJ-0Mn3bOmiadSXYJIbG-CGRxcJyBWtHEqw2ujc/edit) zusammengefasst, an welchem kontinuierlich weiter gearbeitet wird. Jeder Interessierte ist dazu eingeladen, die Rahmenbedingungen mitzugestalten.
 

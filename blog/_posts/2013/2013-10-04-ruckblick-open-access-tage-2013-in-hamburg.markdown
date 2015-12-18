@@ -5,7 +5,7 @@ categories:
 - offenes Wissen
 date: 2013-10-04 11:46:27
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/10/open_access_tage_hamburg.jpg
+  src: /files/blog/2013/10/open_access_tage_hamburg.jpg
   title: open_access_tage_hamburg
 layout: post
 published: true

@@ -7,7 +7,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-08-05 16:05:41
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/08/teampic.jpg
+  src: /files/blog/2013/08/teampic.jpg
   title: Code for All Team
 layout: post
 published: true
@@ -42,7 +42,7 @@ Herzstück von Code for America ist ein [Stipendienprogramm](http://codeforameri
 Nach dem Erfolg unseres Inkubator-Programms [Stadt Land Code](http://stadtlandcode.de/) haben wir Anfang des Jahres überlegt, wie man das Programm ausweiten und weiterentwickeln könnte. Dabei hat uns der Ansatz des Stipendienprogramms von Code for America sehr zugesagt. Insbesondere die enge Zusammenarbeit zwischen Entwicklern, Designern und Verwaltungsmitarbeitern stellte für uns eine spannende Weiterentwicklung des Inkubators dar. Denn durch die Kooperation werden nicht nur neue digitale Werkzeuge und Services entwickelt, sondern auch Prozesse verändert und ein Umdenken innerhalb des Verwaltungsapparats angestoßen.  
 Aus dieser ersten Idee wurde eine Partnerschaft und die Open Knowledge Foundation Deutschland Teil der internationalen Ausweitung von Code for America: [Code for All](http://codeforamerica.org/international/). Weitere Partner der [internationalen Ausweitung](http://codeforamerica.org/international/) sind [Mexico City](http://www.labplc.mx/) und [die Karibik](http://www.codeforthecaribbean.org/). Um den internationalen Teams die Möglichkeit zu geben, das Programm und die anderen Partner besser kennenzulernen, wurden alle "Code for All"-Partner zu einem mehrtägigen Workshop ins Code for America Büro nach San Francisco eingeladen.
 
-![Tim O´Reilly](http://okfn.de/wp-content/blogs.dir/21/files/2013/08/meetingtim.jpg)
+![Tim O´Reilly](/files/blog/2013/08/meetingtim.jpg)
 
 **Die Einblicke**
 
@@ -50,7 +50,7 @@ Während unseres Besuches hatten wir nicht nur Gelegenheit mit Tim O´Reilly üb
 
 Viele Stipendiaten treibt vor allem die Möglichkeit an, ihre Fähigkeiten und ihr Know-how gewinnbringend für die Gesellschaft einzusetzen. Ein Großteil der Fellows hat vor Code for America in IT-Unternehmen gearbeitet und Erfahrungen in der Umsetzung von Projekten gesammelt, das sie nun in der Zusammenarbeit mit den Partnerstädten einsetzen können. Die Zusammensetzung der Teams ist interdisziplinär, neben Softwareentwicklern, bestehen die Teams aus Designern und Profis aus dem Bereich Projektmanagement und Kommunikation.
 
-![office](http://okfn.de/wp-content/blogs.dir/21/files/2013/08/office.jpg)Code for America Office, San Francisco
+![office](/files/blog/2013/08/office.jpg)Code for America Office, San Francisco
 
 **Die Ergebnisse **
 

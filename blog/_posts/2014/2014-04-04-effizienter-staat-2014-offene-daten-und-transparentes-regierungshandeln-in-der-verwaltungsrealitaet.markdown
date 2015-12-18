@@ -8,7 +8,7 @@ categories:
 - Transparenz
 date: 2014-04-04 13:43:04
 image:
-  src: http://okfn.de/files/2014/04/effstaat.jpg
+  src: /files/blog/2014/04/effstaat.jpg
   title: effstaat
 layout: post
 published: true
@@ -31,7 +31,7 @@ Ich glaube nicht! Ja, es geht zu langsam, ja, es gibt eine [drastische Unterauss
 
 Besonders spannend war der Ansatz, von dem Andreas Schreiber, Informationsmanager des Landratsamts aus Ludwigslust-Parchim, auf dem Forum "Open Data – zwischen (zu) hohen Erwartungen und Verwaltungsrealität" zu berichten hatte: In dem zweitgrößten Landkreis Deutschlands ist die Verwaltung selber der größte Treiber und Nutzer für die Verwendung von Verwaltungsdaten. Und damit fahren sie sehr gut. Die Verwaltung schafft durch die Aufbereitung der eigenen Daten neue Möglichkeiten für Reporting und Controlling, Führungskräfte werden besser informiert und das Verwaltungswissen intern besser kommuniziert. Dass diese Verwaltungsdaten perspektivisch geöffnet werden, ist laut Schreiber ebenfalls geplant und wurde von Beginn an auch so kommuniziert. Der Widerstand in der eigenen Verwaltung hält sich dabei in Grenzen. Auch wenn es sich hierbei erstmal nur um einen ersten Schritt handelt, so ist ein Ansatz die Öffnung von Verwaltungsdatensätzen mit den Vorteilen der Verwendung der Verwaltungsdaten durch die Verwaltung selbst zu verknüpfen sicher sinnvoll. 
 
-Darüber hinaus wurden auch alle weiteren, aktuellen Entwicklungen auf dem Kongress von Zivilgesellschaft und Verwaltung positiv gewertet: Dazu gehören die Entwicklungen rund um die kommende Datenlizenz Deutschland 2.0, der [Aktionsplan zur G8(7) Open Data Charta](http://okfn.de/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/) und der regelmäßige Austausch zwischen Verwaltung und Zivilgesellschaft (und der [angestrebte Beitritt zur OGP](http://opengovpartnership.de/2013/11/open-government-im-koalitionsvertrag/)). So darf man also auch weiterhin auf einen ambitionierten Open Data Aktionsplan der Bundesregierung hoffen.
+Darüber hinaus wurden auch alle weiteren, aktuellen Entwicklungen auf dem Kongress von Zivilgesellschaft und Verwaltung positiv gewertet: Dazu gehören die Entwicklungen rund um die kommende Datenlizenz Deutschland 2.0, der [Aktionsplan zur G8(7) Open Data Charta](/blog/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/) und der regelmäßige Austausch zwischen Verwaltung und Zivilgesellschaft (und der [angestrebte Beitritt zur OGP](http://opengovpartnership.de/2013/11/open-government-im-koalitionsvertrag/)). So darf man also auch weiterhin auf einen ambitionierten Open Data Aktionsplan der Bundesregierung hoffen.
 
 Und um zumindest kurz auf Wewer zurückzukommen: Offene Daten sind sicher kein Allheilmittel. Das hat aber auch niemand behauptet. Offene Daten zu veröffentlichen, wird auch nicht einfach so und sofort zu einem massenhaften Ansturm von Interessierten führen. Offene Daten sind aber eine Möglichkeit, unsere Demokratie transparenter zu machen. Sie werden und sind Treibstoff für wirtschaftliche Unternehmungen und helfen der Verwaltung beim Übergang hin zu einem effizienten Staat. Diesbzüglich war man sich auf dem Verwaltungskongress in Berlin einig. Für das Verhältnis von Zivilgesellschaft und Verwaltung muss es deshalb weiter heißen: Gemeinsame Sache machen!
 

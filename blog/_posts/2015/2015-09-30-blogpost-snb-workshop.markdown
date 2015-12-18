@@ -6,7 +6,7 @@ categories:
 - Hackday
 date: 2015-09-30 10:00:56
 image:
-  src: http://okfn.de/files/blog/2015-9/blackout-head.png
+  src: /files/blog/2015/09/blackout-head.png
 layout: post
 published: true
 status: publish
@@ -18,9 +18,7 @@ tags:
 title: Hackday zum Thema Energieversorgung und Blackout am 14. November 2015
 type: post
 
-
 ---
-
 Deutschland ist ein Land mit einer überdurchschnittlich guten Versorgungssicherheit. Wenig Grund – möchte man meinen – sich Gedanken um Versorgungsengpässe oder gar Blackouts zu machen. Was viele jedoch nicht wissen: In der Vergangenheit haben starke Schneestürme oder Kurzschlüsse im Stromnetz in Teilen der Bundesrepublik zu mehrtägigen Stromausfällen mit der Folge von ausfallenden Kommunikationsmöglichkeiten und kritischer Versorgungsinfrastrukturen geführt.
 
 Mit <strong>[Energyhack Reloaded](http://energyhack.de/)</strong>, der zweiten Reihe der Hacks zum Thema Energieversorgung, wollen wir uns überlegen, welche Anwendungen und Geräte zur Sensibilisierung des Themas Versorgungssicherheit in der Gesellschaft beitragen könnten. 
@@ -33,7 +31,7 @@ Am <strong>11. November 2015</strong> wollen wir gemeinsam mit euch im <strong>I
 
 In Vorbereitung auf den zweiten Energyhackday zum Thema "Blackout" hat die Open Knowledge Foundation Deutschland gemeinsam mit Stromnetz Berlin einen Workshop mit Energie-Experten und der Open Data-Community durchgeführt.
 
-![Workshop](http://okfn.de/files/blog/2015-9/workshop.jpg "Workshop Blackout") Workshop zum Thema Stromverbrauch und Blackout
+![Workshop](/files/blog/2015/09/workshop.jpg "Workshop Blackout") Workshop zum Thema Stromverbrauch und Blackout
 
 Ziel des Workshop war es in drei Themenblöcken erste Fragestellungen für den Hackday zu entwickeln, darunter: 
 
@@ -50,5 +48,5 @@ Welches Wissen und welches Datenmaterial benötigen die Teilnehmer*innen des Hac
 
 Mögliche Szenarien für die nachhaltige Nutzung der Ergebnisse des Hackdays seitens SNBs und für die Verstetigung der Beziehung zur technikaffinen Hacker-Community.
 
-Die Dokumentation des Workshops kann man sich [hier anschauen](http://okfn.de/files/blog/2015-9/Doku_Workshop_Blackout_kurz.pdf).
+Die Dokumentation des Workshops kann man sich [hier anschauen](/files/blog/2015/09/Doku_Workshop_Blackout_kurz.pdf).
 

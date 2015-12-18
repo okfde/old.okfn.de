@@ -13,4 +13,4 @@ type: post
 
 ---
 
-Wir haben soeben unsere erste Praktikumsausschreibung veröffentlicht und freuen uns über Interesse. Details gibt es [hier nachzulesen.](http://okfn.de/organisation/jobs/)
+Wir haben soeben unsere erste Praktikumsausschreibung veröffentlicht und freuen uns über Interesse. Details gibt es [hier nachzulesen.](/jobs/)

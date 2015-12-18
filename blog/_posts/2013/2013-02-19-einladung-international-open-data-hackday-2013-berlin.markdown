@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-02-19 10:37:41
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/Open-Data-Day1.png
+  src: /files/blog/2013/02/Open-Data-Day1.png
   title: open data day
 layout: post
 published: true
@@ -40,7 +40,7 @@ Askanischer Platz 1 (Nähe Anhalter Bahnhof)
 Wir sind offen für alle Themen und Aktivitäten rund um´s Thema Open Data. Im Zentrum werden vor allem zwei spannende Projekte stehen: 
 
 * Erstellung einer Wunschliste der „Hottest Datasets“ mit Michael Kreil ([Open Data City](http://www.opendatacity.de/))  
-* Frag den Staat-Hackathon mit Stefan Wehrmeyer ([Frag den Staat](https://fragdenstaat.de/) / [OKF](http://okfn.de/))
+* Frag den Staat-Hackathon mit Stefan Wehrmeyer ([Frag den Staat](https://fragdenstaat.de/) / [OKF](/))
 
 **Anmeldung: <http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/866282>**
 

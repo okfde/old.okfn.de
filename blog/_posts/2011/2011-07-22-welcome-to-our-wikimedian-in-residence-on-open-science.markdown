@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2011-07-22 13:45:10
 image:
-  src: http://okfn.de/files/2011/07/journal.pone_.0004803.g005.png
+  src: /files/blog/2011/07/journal.pone_.0004803.g005.png
   title: 'A network of scientific knowledge, as obtained from traffic data to scientific journals '
 layout: post
 published: true
@@ -18,7 +18,7 @@ type: post
 
 ---
 
-Our work at the Open Knowledge Foundation, both in Germany and globally, often involves catalyzing the interactions between communities from diverse backgrounds that share a common goal. For example, the upcoming [Open Aid Data Konferenz](http://okfn.de/2011/07/open-aid-data-konferenz/) brings together communities working on and with Open Data, in and with the developing world, and on transparent governance.
+Our work at the Open Knowledge Foundation, both in Germany and globally, often involves catalyzing the interactions between communities from diverse backgrounds that share a common goal. For example, the upcoming [Open Aid Data Konferenz](/blog/2011/07/open-aid-data-konferenz/) brings together communities working on and with Open Data, in and with the developing world, and on transparent governance.
 
 Now, we are happy to announce that - thanks to a grant from the [Open Society Foundations](http://www.soros.org/openaccess) - we can **welcome Daniel Mietchen as a Wikimedian in Residence on Open Science** (see also [the Wikimedia blog](http://blog.wikimedia.org/2011/07/20/joining-forces-with-open-science/)), so as to stimulate interactions between the wiki, Open Knowledge, Open Access and Open Science communities.
 

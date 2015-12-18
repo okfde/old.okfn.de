@@ -5,7 +5,7 @@ categories:
 - Transparenz
 date: 2013-03-25 15:06:06
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png
+  src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png
   title: Screen Shot 2013-03-25 at 15.35.12
 layout: post
 published: true

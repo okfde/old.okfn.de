@@ -4,7 +4,7 @@ categories:
 - Featured
 date: 2015-09-11 16:20:56
 image:
-  src: http://okfn.de/files/blog/2015-9/fragdenstaat_square.png
+  src: /files/blog/2015/09/fragdenstaat_square.png
 layout: post
 published: true
 status: publish
@@ -14,9 +14,7 @@ tags:
 title: Es wäre toll, wenn ihr uns verklagt!
 type: post
 
-
 ---
-
 Im ersten [IFG-Podcast](https://soundcloud.com/fragdenstaat/ifg-podcast-1-es-ware-toll-wenn-ihr-uns-verklagt) von FragDenStaat sprechen wir mit Daniel Drepper vom gemeinnützigen Recherchebüro [CORRECT!V](http://correctiv.org/) über seine Klagen nach dem Informationsfreiheitsgesetz und warum es sich manchmal lohnt, gerichtlich gegen den Staat vorzugehen.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/223063085&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

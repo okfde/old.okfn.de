@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-07-03 11:18:00
 image:
-  src: http://de.okblogfarm.org/files/2014/07/geisteswissenschaften-schulungsmaterialien.png
+  src: /files/blog/2014/07/geisteswissenschaften-schulungsmaterialien.png
   title: geisteswissenschaften-schulungsmaterialien
 layout: post
 published: true
@@ -26,4 +26,4 @@ Wir freuen uns sehr, dass DARIAH-DE einen Beitrag zu Open Educational Ressources
 
 Falls auch Sie DH-Schulungsmaterial haben, das Sie selbst – beispielsweise für eine Lehrveranstaltung oder Workshops – entwickelt oder geschrieben haben und das Sie über das DARIAH-DE Portal anderen Forschenden und Lehrenden zur Weiterverbreitung, Nachnutzung oder auch zur Ergänzung und zum Ausbau zur Verfügung stellen möchten, senden Sie Bitte eine Mail an info@de.dariah.eu.
 
-**Disclamer:** Die Open Knowledge Foundation e.V. ist Partner von DARIAH-DE und unterstützet das [Forschungsprojekt](http://okfn.de/projects) DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities).
+**Disclamer:** Die Open Knowledge Foundation e.V. ist Partner von DARIAH-DE und unterstützet das [Forschungsprojekt](/projekte) DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities).

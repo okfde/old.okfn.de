@@ -44,4 +44,4 @@ Für alle die lieber Coden als reden haben wir ein interessantes Angebot: die Op
 
 ### Mehr Informationen:
 
-Aktuelle Termine zu unseren Veranstaltungen und zu solchen die uns interessieren findet ihr immer unter <http://okfn.de/community/kalender/> und auch bei [Lanyrd](http://lanyrd.com/profile/okfde/). Und um nichts zu verpassen solltet ihr uns am besten bei Twitter verfolgen: [@okfde](http://twitter.com/okfde)
+Aktuelle Termine zu unseren Veranstaltungen und zu solchen die uns interessieren findet ihr immer unter </kalender/> und auch bei [Lanyrd](http://lanyrd.com/profile/okfde/). Und um nichts zu verpassen solltet ihr uns am besten bei Twitter verfolgen: [@okfde](http://twitter.com/okfde)

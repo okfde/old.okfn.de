@@ -15,7 +15,6 @@ type: post
 
 
 ---
-
 Wer gerne Auskunft einer Behörde erhalten will, sollte sich vorher den richtigen Wohnort aussuchen.  
 Denn die Transparenz der staatlichen Verwaltung ist in Deutschland **unterschiedlich weit** fortgeschritten: Hessen hat kein Gesetz zur Informationsfreiheit, Hamburg hingegen ein Transparenzportal. In Bayern öffnen sich nur einige Kommunen, in Berlin blockiert der Senat die Bemühungen um mehr Transparenz.
 

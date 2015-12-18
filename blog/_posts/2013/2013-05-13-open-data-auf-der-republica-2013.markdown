@@ -4,7 +4,7 @@ categories:
 - offene Daten
 date: 2013-05-13 12:53:21
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/05/republica_13_blog.jpg
+  src: /files/blog/2013/05/republica_13_blog.jpg
   title: republica_13_blog
 layout: post
 published: true

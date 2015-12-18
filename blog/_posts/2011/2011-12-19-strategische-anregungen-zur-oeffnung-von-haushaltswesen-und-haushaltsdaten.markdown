@@ -17,7 +17,7 @@ type: post
 
 ---
 
-**Der folgende Artikel ist Gastbeitrag von Prof. Dr. Jörn von Lucke, Zeppelin Universität Friedrichshafen, Mitglied des [wissenschaftlichen Beitrats](http://okfn.de/organisation/beirat/) der Open Knowledge Foundation Deutschland. **
+**Der folgende Artikel ist Gastbeitrag von Prof. Dr. Jörn von Lucke, Zeppelin Universität Friedrichshafen, Mitglied des wissenschaftlichen Beitrats der Open Knowledge Foundation Deutschland. **
 
 Das öffentliche Haushaltswesen in Deutschland unterliegt auf allen Ebenen Transparenz- und Öffent-lichkeitspflichten. Web 2.0-Technologien tragen derzeit maßgeblich zu einer nachhaltigen Öffnung von Staat und Verwaltung bei. Sie revitalisieren bestehende Berichtsinstrumente und ermöglichen eine intensivere Bürgerbeteiligung in den Haushaltsprozessen von Europäischer Union, Bund, Ländern und Kommunen. Ganz im Sinne von Open Budget 2.0 wird diese Entwicklung über die gesetzlichen Vorgaben zu Haushaltstransparenz, Budgetöffentlichkeit und offene Haushaltsdebatte hinaus vor allem von einer aktiven Umsetzung durch die Verwaltung selbst, der Vernetzung offener Haushaltsdaten und einer Bürgerbeteiligung über soziale Medien geprägt. Zur erfolgreichen Umsetzung solcher Überlegungen sind nicht nur Impulse aus der Wissenschaft ([Gutachten der Zeppelin Universität](http://www.zeppelin-university.de/deutsch/lehrstuehle/ticc/TICC-111024-OpenBudget-V1.pdf)) und Politik erforderlich, sondern es muss auf allen Ebenen neben einer Vision und Zielen auch eine Implementierungsstrategie erarbeitet werden. Ausgangspunkt sind die einzelnen Phasen des Haushaltskreislaufes, jeweils unter Berücksichtigung der Vorstellungen der Bürger, der Politik und der Verwaltung.
 

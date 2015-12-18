@@ -6,8 +6,8 @@ categories:
 - offenes Wissen
 date: 2013-12-03 12:34:55
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/12/zugang-gestalten-1-415x276.jpg
-  title: 'Foto: David Jacob, CC-BY-SA'
+  src: /files/blog/2013/12/zugang-gestalten-1-415x276.jpg
+  licence: 'Foto: David Jacob, CC-BY-SA'
 layout: post
 published: true
 status: publish
@@ -21,15 +21,12 @@ type: post
 
 
 ---
-
- Foto: David Jacob, CC-BY-SA
-
 **Die Konferenz geht in die dritte Runde**
 
 Am 28./29. November fand die zwei-tägige Konferenz "[Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe](http://www.zugang-gestalten.de/)" im [Jüdischen Museum Berlin](http://www.jmberlin.de/) statt.  
 Zusammen mit dem Publikum und zahlreichen Experten aus Kultur, Politik und Wirtschaft diskutierten wir [online ](https://twitter.com/search?q=%23ke13&src=typd)und offline über Chancen, Hindernisse und Herausforderungen, aber auch darüber, warum der Zugang zum kulturellen Erbe eine öffentliche Aufgabe sein sollte.
 
-![Foto: David Jacob, CC-BY-SA](http://okfn.de/wp-content/blogs.dir/21/files/2013/12/zugang-gestalten-3-415x276.jpg) Foto: David Jacob, CC-BY-SA
+![Foto: David Jacob, CC-BY-SA](/files/blog/2013/12/zugang-gestalten-3-415x276.jpg) Foto: David Jacob, CC-BY-SA
 
 **Wer war da und Was waren die Highlights?**
 
@@ -39,7 +36,7 @@ Besonders erfreut waren wir über die [Teilnahme ](http://www.zugang-gestalten.d
 
 Auch haben wir mit der "[Werkschau](http://www.zugang-gestalten.de/innovative-projekte-in-der-werkschau/)", einer interaktiven Präsentationsrunde, einen Blick in die Praxis gewagt und Sprecherinnen und Sprecher eingeladen, die an konkreten Projekten arbeiten, um den Zugang zum kulturellen Erbe zu öffnen und für alle zugänglich zu machen. Darunter wurden folgende Projekte vorgestellt: [Rijksmuseum ](https://www.rijksmuseum.nl/en)API & Studio (Lizzy Jongma), die [Europeana Open Culture App](http://blog.europeana.eu/2013/06/europeana-open-culture-apps-treasures-of-art/) (Joris Pekel), die [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) (Frank Frischmuth) und die Crowdsourcing App für digitale Bildbestände "[Tag.Check.Score](http://www.fokus.fraunhofer.de/en/fokus/_fokusnews/_news_2013/_2013_09_13_TagCheckScore.html)" (Lena-Sophie Müller, Alan Meyer, Celia Soltek).
 
-![Foto: David Jacob, CC-BY-SA](http://okfn.de/wp-content/blogs.dir/21/files/2013/12/zugang-gestalten-2-415x276.jpg) Foto: David Jacob, CC-BY-SA
+![Foto: David Jacob, CC-BY-SA](/files/blog/2013/12/zugang-gestalten-2-415x276.jpg) Foto: David Jacob, CC-BY-SA
 
 **Und wo kann man das nachlesen?**
 
@@ -49,6 +46,6 @@ Hier geht es zu den [Videos ](http://vimeo.com/album/2629015)und den [Fotos](htt
 
 **Veranstalter der Konferenz 2013 sind:**
 
-[Jüdisches Museum Berlin](http://www.jmberlin.de/), [Stiftung Preußischer Kulturbesitz](http://www.preussischer-kulturbesitz.de/), [Internet & Gesellschaft Co:llaboratory](http://www.collaboratory.de/w/Hauptseite), [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/), [iRights.Lab Kultur](http://irights-lab.de/), [Open Knowledge Foundation Deutschland](http://okfn.de/), [Wikimedia Deutschland](http://www.wikimedia.de/wiki/Hauptseite)
+[Jüdisches Museum Berlin](http://www.jmberlin.de/), [Stiftung Preußischer Kulturbesitz](http://www.preussischer-kulturbesitz.de/), [Internet & Gesellschaft Co:llaboratory](http://www.collaboratory.de/w/Hauptseite), [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/), [iRights.Lab Kultur](http://irights-lab.de/), [Open Knowledge Foundation Deutschland](/), [Wikimedia Deutschland](http://www.wikimedia.de/wiki/Hauptseite)
 
 **Wir freuen uns schon auf die nächste Konferenz 2014 und hoffen, euch alle dort wieder begrüßen zu können!**

@@ -5,7 +5,7 @@ categories:
 - Transparenz
 date: 2013-01-15 21:30:36
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/01/openaid.png
+  src: /files/blog/2013/01/openaid.png
   title: ''
 layout: post
 published: true

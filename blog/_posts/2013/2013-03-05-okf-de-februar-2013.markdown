@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-03-05 09:00:07
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/02/Open_data.png
+  src: /files/blog/2013/02/Open_data.png
   title: Open_data
 layout: post
 published: true

@@ -5,7 +5,7 @@ categories:
 - OpenGLAM
 date: 2015-08-17 13:00:00
 image:
-  src: http://okfn.de/files/blog/2015-8/zugang-gestalten-logo.png
+  src: /files/blog/2015/08/zugang-gestalten-logo.png
   title: Zugang gestalten!
 layout: post
 published: true
@@ -19,10 +19,7 @@ tags:
 title: Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, 5.-6. Nov. 2015 in Hamburg
 type: post
 
-
 ---
-
-
 Liebe Freunde des freien Wissens,
 
 die fortschreitende Digitalisierung bietet vielen Institutionen und Initiativen die Chance, den Zugang zum kulturellen Erbe zu erleichtern und damit einen wichtigen Beitrag zur Wissensgesellschaft der Zukunft zu leisten. Mit welchen Konzepten jedoch antworten Archive, Museen und Bibliotheken, aber auch andere Initiativen wie die Wikipedia auf diese Herausforderungen und welchen Beitrag wollen und sollen Unternehmen dazu leisten?
@@ -51,7 +48,7 @@ Wo: Historische Museen Hamburg, Altonaer Museum, Museumsstraße 23, 22765 Hambur
 
 Die Konferenz wird in diesem Jahr getragen von:
 
-* [Open Knowledge Foundation Deutschland e.V.](http://okfn.de/)
+* [Open Knowledge Foundation Deutschland e.V.](/)
 * [Stiftung Historische Museen Hamburg](http://www.historische-museen-hamburg.de/)
 * [digiS - Servicestelle Digitalisierung Berlin](http://www.servicestelle-digitalisierung.de/)
 * [Deutschen Digitalen Bibliothek](http://www.deutsche-digitale-bibliothek.de/)

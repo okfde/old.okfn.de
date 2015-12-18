@@ -32,7 +32,7 @@ Lindenstraße 9 - 14, 10969 Berlin
 **Wann:** 28.und 29. November 2013, ab 10.00 Uhr
 
 Gern möchten wir gemeinsam mit Euch über die mit der Digitalisierung zusammenhängenden Chancen und Veränderungen für Kultur und kulturelle Institutionen diskutieren.   
-Entnehmt weitere Informationen unserem Flyer (Download: **[Flyer_Konferenz Zugang Gestalten!](http://okfn.de/wp-content/blogs.dir/21/files/2013/10/Flyer_Konferenz-Zugang-Gestalten.pdf)**) oder **[meldet Euch direkt an](http://www.zugang-gestalten.de/registrierung/)**.
+Entnehmt weitere Informationen unserem Flyer (Download: **[Flyer_Konferenz Zugang Gestalten!](/files/blog/2013/10/Flyer_Konferenz-Zugang-Gestalten.pdf)**) oder **[meldet Euch direkt an](http://www.zugang-gestalten.de/registrierung/)**.
 
 **Wir freuen uns über Eure Teilnahme!**
 
@@ -43,5 +43,5 @@ Die Konferenz wird getragen von:
 \+ [Internet & Gesellschaft Co:llaboratory](http://www.collaboratory.de/w/Hauptseite)  
 \+ [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/)  
 \+ [iRights.Lab](http://www.irights-lab.de/)  
-\+ [Open Knowledge Foundation Deutschland e.V.](http://okfn.de/)  
+\+ [Open Knowledge Foundation Deutschland e.V.](/)  
 \+ [Wikimedia Deutschland e.V.](https://www.wikimedia.de/wiki/Hauptseite)

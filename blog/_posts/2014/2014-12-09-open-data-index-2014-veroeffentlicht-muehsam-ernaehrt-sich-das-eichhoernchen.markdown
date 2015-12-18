@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2014-12-09 10:45:50
 image:
-  src: http://de.okblogfarm.org/files/2014/12/OpenDataIceberg-400-293x415.png
+  src: /files/blog/2014/12/OpenDataIceberg-400-293x415.png
   title: OpenDataIceberg-400
 layout: post
 published: true

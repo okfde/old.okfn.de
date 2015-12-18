@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2013-05-02 10:17:28
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/05/Logo-BerlinOpenData2013.png
+  src: /files/blog/2013/05/Logo-BerlinOpenData2013.png
   title: berlin open data day
 layout: post
 published: true

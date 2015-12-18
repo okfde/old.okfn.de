@@ -7,7 +7,7 @@ categories:
 - Positionen
 date: 2013-10-09 15:30:11
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/10/ogp_de_logo.jpg
+  src: /files/blog/2013/10/ogp_de_logo.jpg
   title: ogp_de_logo
 layout: post
 published: true
@@ -33,6 +33,6 @@ _Hinweis:_ Dieser Beitrag enstand auf Grundlage [einer gemeinsamen Pressemitteil
 
 Der **Arbeitskreis Open Government Partnership Deutschland** ist ein offener Zusammenschluss von zivilgesellschaftlichen Organisationen und interessierten Einzelpersonen. In ihm vereinigen sich Experten zu allen wichtigen Themen von Open Government. Die Mitglieder des  Arbeitskreises verbindet die gemeinsame Überzeugung, dass eine Teilnahme der Bundesrepublik Deutschland an der internationalen Initiative „Open Government Partnership“ langfristig einen Kulturwandel zu mehr Transparenz und Bürgerbeteiligung und damit einen Abbau von Politikverdrossenheit zur Folge haben wird.
 
-Der Arbeitskreis setzt sich aus Mitgliedern folgender Organisationen zusammen: _[Government 2.0 Netzwerk Deutschland e.V.](http://gov20.de/), [Internet &  Gesellschaft Collaboratory e.V.](http://www.collaboratory.de), [Gesellschaft für Informatik e.V.](http://www.gi.de/%E2%80%8E), [Open Knowledge Foundation Deutschland e.V.](http://okfn.de/), [Open Data Network e.V.](http://www.gov20.de/initiative-fordert-beitritt-deutschlands-zur-open-government-partnership/opendata-network.org),  [Bertelsmann Stiftung](http://www.bertelsmann-stiftung.de/%E2%80%8E), [Stiftung Mitarbeit](http://www.mitarbeit.de), [Bundesnetzwerk Bürgerschaftliches Engagement](http://www.b-b-e.de/%E2%80%8E), [Initiative E-Demokratie.org](http://www.e-demokratie.org)_
+Der Arbeitskreis setzt sich aus Mitgliedern folgender Organisationen zusammen: _[Government 2.0 Netzwerk Deutschland e.V.](http://gov20.de/), [Internet &  Gesellschaft Collaboratory e.V.](http://www.collaboratory.de), [Gesellschaft für Informatik e.V.](http://www.gi.de/%E2%80%8E), [Open Knowledge Foundation Deutschland e.V.](/), [Open Data Network e.V.](http://www.gov20.de/initiative-fordert-beitritt-deutschlands-zur-open-government-partnership/opendata-network.org),  [Bertelsmann Stiftung](http://www.bertelsmann-stiftung.de/%E2%80%8E), [Stiftung Mitarbeit](http://www.mitarbeit.de), [Bundesnetzwerk Bürgerschaftliches Engagement](http://www.b-b-e.de/%E2%80%8E), [Initiative E-Demokratie.org](http://www.e-demokratie.org)_
 
  

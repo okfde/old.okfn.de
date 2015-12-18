@@ -4,7 +4,7 @@ categories:
 - Termine
 date: 2013-03-25 11:04:12
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/03/Screen-Shot-2013-03-25-at-12.00.11.png
+  src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-12.00.11.png
   title: Screen Shot 2013-03-25 at 12.00.11
 layout: post
 published: true

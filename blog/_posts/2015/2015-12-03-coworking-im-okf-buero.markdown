@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-12-04 10:00:56
 image: 
-  src : http://okfn.de/files/blog/2015-12/okfdebuero.jpg
+  src : /files/blog/2015/12/okfdebuero.jpg
 layout: post
 published: true
 status: publish
@@ -16,9 +16,7 @@ tags:
 title: "Coworking im OKF DE Büro"
 type: post
 
-
 ---
-
 In unserem gemütlichen Büro in der [Singerstraße 109](http://www.openstreetmap.org/node/3662096773), idyllisch gelegen zwischen U Strausberger Platz und U Jannowitzbrücke, sind ab sofort Coworking Plätze frei!  
 
 Eckdaten:

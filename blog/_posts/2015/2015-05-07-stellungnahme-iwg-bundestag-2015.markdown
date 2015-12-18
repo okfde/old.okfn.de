@@ -6,7 +6,7 @@ categories:
 - Open Data
 date: 2015-05-07 08:20:49
 image:
-  src: http://okfn.de/files/blog/2015-5/iwg-entwurf-2015.png
+  src: /files/blog/2015/05/iwg-entwurf-2015.png
   title: IWG-Entwurf 2015
 layout: post
 published: true
@@ -15,8 +15,7 @@ tags: []
 title: "Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen (IWG): Eine weitere vertane Chance"
 type: post
 ---
-<br>
-Die Open Knowledge Foundation Deutschland e.V. begrüßt eine Neufassung des Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen und insbesondere die Veröffentlichung des Entwurfs vorab im Internet. Wir haben bereits im Mai 2014 eine [Stellungnahme zu dem Entwurf]( http://okfn.de/blog/2014/07/gemeinsame-stellungnahme-zum-entwurf-eines-gesetzes-ueber-die-weiterverwendung-von-informationen-oeffentlicher-stellen-iwg/) veröffentlicht und an das federführende Ministerium übermittelt.
+Die Open Knowledge Foundation Deutschland e.V. begrüßt eine Neufassung des Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen und insbesondere die Veröffentlichung des Entwurfs vorab im Internet. Wir haben bereits im Mai 2014 eine [Stellungnahme zu dem Entwurf](/blog/2014/07/gemeinsame-stellungnahme-zum-entwurf-eines-gesetzes-ueber-die-weiterverwendung-von-informationen-oeffentlicher-stellen-iwg/) veröffentlicht und an das federführende Ministerium übermittelt.
 
 Mit dem finalen [Entwurf zur Änderung des Informationsweiterverwendungsgesetzes](http://dip21.bundestag.de/dip21/btd/18/046/1804614.pdf), der heute in zweiter und dritter Lesung im Bundestag beraten wird und für den eine [Beschlussempfehlung](http://dip21.bundestag.de/dip21/btd/18/048/1804844.pdf) abgegeben werden soll, vertut die Bundesregierung aber leider eine weitere Chance, endlich auch in Deutschland die international längst üblichen Transparenzstandards bei Verwaltungs- und Regierungshandeln zu schaffen. Die Trennung von Zugang und Nachnutzung von Informationen öffentlicher Stellen sowie die in der Stellungnahme genannten Punkte stehen im Zentrum unserer Kritik. Damit bleibt eine weitere Gelegenheit ungenutzt, endlich die notwendigen Rahmenbedingungen für die gesellschaftliche und wirtschaftliche Weiternutzung von Verwaltungsdaten zu schaffen.
 

@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-07-08 08:16:37
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/07/open_data_census.jpg
+  src: /files/blog/2013/07/open_data_census.jpg
   title: Open Data Census
 layout: post
 published: true
@@ -38,7 +38,7 @@ type: post
 
 **Rückblick in den Juni**
 
-Die ersten Ergebnisse des weltweiten [Open Data Census](http://census.okfn.org/) haben gezeigt, dass die vorgestellte "[Open Data Charta](http://okfn.de/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter)" der G8 Staaten nur ein erster Schritt in die richtige Richtung ist.
+Die ersten Ergebnisse des weltweiten [Open Data Census](http://census.okfn.org/) haben gezeigt, dass die vorgestellte "[Open Data Charta](/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter)" der G8 Staaten nur ein erster Schritt in die richtige Richtung ist.
 
 Voran gegangen sind die Kommunen Moers und Bochum in denen wir, gemeinsam mit der Initiative [OpenRuhr](http://openruhr.de/), die offenen Ratsinformationssysteme [moers.ris.openruhr.de](http://moers.ris.openruhr.de/) und [bochum.ris.openruhr.de](http://bochum.ris.openruhr.de/) veröffentlichten.
 
@@ -46,7 +46,7 @@ In Berlin wurde beim [Open Data Day](http://berlin.opendataday.de/) die erfolgre
 
  
 
-![Jugend hackt](http://okfn.de/wp-content/blogs.dir/21/files/2013/07/jugendhackt_fb.jpg)
+![Jugend hackt](/files/blog/2013/07/jugendhackt_fb.jpg)
 
 **Jugend hackt**
 
@@ -56,11 +56,11 @@ Wer den Jugendlichen als Mentor zur Seite stehen will, kann sich [hier](https://
 
  
 
-![Apps & the City Cologne](http://okfn.de/wp-content/blogs.dir/21/files/2013/07/iacologne.jpg)
+![Apps & the City Cologne](/files/blog/2013/07/iacologne.jpg)
 
 **Interactive Cologne**
 
-Im Rahmen des Festivals „[Interactive Cologne](http://interactive-cologne.com/)" haben wir einen [Apps & the City](http://cologne.appsandthecity.net/) Hackday zu offenen Verkehrsdaten durchgeführt. Nach hartnäckiger Lobbyarbeit der örtlichen Community wurden dazu von den Verkehrsbetrieben erste Datenpakete veröffentlicht ([Details](http://okfn.de/2013/06/apps-the-city-cologne/)). Parallel haben wir unser erstes [Startup Corner](http://cologne.appsandthecity.net/startup/) veranstaltet. Im Rahmen des Wettbewerbs „[Apps for Europe](http://appsforeurope.eu/)“ wollen wir Unternehmen zur Nutzung von offenen Daten ermutigen und beraten.  
+Im Rahmen des Festivals „[Interactive Cologne](http://interactive-cologne.com/)" haben wir einen [Apps & the City](http://cologne.appsandthecity.net/) Hackday zu offenen Verkehrsdaten durchgeführt. Nach hartnäckiger Lobbyarbeit der örtlichen Community wurden dazu von den Verkehrsbetrieben erste Datenpakete veröffentlicht ([Details](/blog/2013/06/apps-the-city-cologne/)). Parallel haben wir unser erstes [Startup Corner](http://cologne.appsandthecity.net/startup/) veranstaltet. Im Rahmen des Wettbewerbs „[Apps for Europe](http://appsforeurope.eu/)“ wollen wir Unternehmen zur Nutzung von offenen Daten ermutigen und beraten.  
 Es war schön, die große und lebendige Community in Köln kennen zu lernen. Allen, die einen ersten Überblick über die Projekte vor Ort gewinnen wollen, können wir [datacolonia](http://www.datacolonia.de/), [offeneskoeln.de](http://offeneskoeln.de/) und das [Open Data Portal der Stadt](http://www.offenedaten-koeln.de/) empfehlen.
 
  
@@ -71,11 +71,11 @@ Es war schön, die große und lebendige Community in Köln kennen zu lernen. All
 
 Was man in sechs Stunden hacken schaffen kann, bewiesen über 70 Entwickler, Designer und Experten aus dem Bereich Energie auf dem ersten [Berliner Energy Hack](http://energyhack.de/)! Zusammen mit [Stromnetz Berlin](http://www.stromnetz-berlin.de/de/index.htm) und anderen Partnern haben wir über Stromverbrauch, -erzeugung und Infrastruktur diskutiert. Eine Premiere des Hackdays war die Veröffentlichung der [Echtzeitdaten zu Energieverbrauch und -erzeugung](http://www.netzdaten-berlin.de/web/guest/suchen/-/details/web-service-last-und-erzeugung-berlin) der Berliner Bezirke. Gewinner des Tages war „Yoda“ ([Video](http://vimeo.com/68650398?t=0m52s)), der seine Schüler vor zu hohem Stromverbrauch warnt: „This is the path to the dark side.“.
 
-Mehr zu den kreativen Hacks und Ergebnissen in unserem [Blog](http://okfn.de/2013/06/review-energy-hack-kreative-hacks-fur-die-energie-der-zukunft/).
+Mehr zu den kreativen Hacks und Ergebnissen in unserem [Blog](/blog/2013/06/review-energy-hack-kreative-hacks-fur-die-energie-der-zukunft/).
 
  
 
-![OHM2013](http://okfn.de/wp-content/blogs.dir/21/files/2013/07/OHM.jpg)
+![OHM2013](/files/blog/2013/07/OHM.jpg)
 
 **Was wird spannend?**
 
@@ -85,7 +85,7 @@ Am Ende des Monats steht die [OHM 2013](https://ohm2013.org/site/) in unserem Ka
 
  
 
-![OpenGLAM](http://okfn.de/wp-content/blogs.dir/21/files/2013/07/remix.jpeg)
+![OpenGLAM](/files/blog/2013/07/remix.jpeg)
 
 **Schon gesehen?**
 

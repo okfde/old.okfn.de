@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2013-05-27 11:01:45
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/05/Too-Many-Silos.jpg
+  src: /files/blog/2013/05/Too-Many-Silos.jpg
   title: Too-Many-Silos
 layout: post
 published: true
@@ -139,7 +139,7 @@ Doch bei genauerem hinsehen wird schnell klar, dass auch die Variante 1.2 Ia nac
 
 Man kann nur hoffen, dass das Modellvorhaben Geolizenz ein solches bleibt und keine Nachahmung findet. Das Argument, dass die Wirtschaft solche Lizenzen brauche weil so die Verfügbarkeit der Daten verlässlich geregelt seien, ist eine Nebelkerze. Denn das nennt man in der Wirtschaft ein "Service Level Agreement (SLA)" oder zu Deutsch eine "Dienstleistungsvereinbarung (DLV)" und diese werden in der Regel in einem Vertrag geregelt. Es spricht nichts dagegen, dass Wirtschaftsunternehmen mit deutschen Behörden solche Verträge abschliessen, aber in Lizenzen haben solche Zusätze einfach nichts verloren. Schon gar nicht in Lizenzen die mit dem Anspruch antreten, die "Bereitstellung von Geoinformationen bundesweit zu vereinheitlichen".
 
-Zur Kritik an den Geolizenzen siehe auch den Beitrag "[Geobusiness Lizenz: open data und die sieben Zwerge](http://okfn.de/2011/04/geobusiness-lizenz-open-data-und-die-sieben-zwerge/)" von Friedrich Lindenberg und zur GeoNutzV den [Beitrag](http://urheberrecht.wikimedia.de/2013/04/geodaten-geonutzv/) von Mathias Schindler.
+Zur Kritik an den Geolizenzen siehe auch den Beitrag "[Geobusiness Lizenz: open data und die sieben Zwerge](/blog/2011/04/geobusiness-lizenz-open-data-und-die-sieben-zwerge/)" von Friedrich Lindenberg und zur GeoNutzV den [Beitrag](http://urheberrecht.wikimedia.de/2013/04/geodaten-geonutzv/) von Mathias Schindler.
 
 **Update**
 

@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-11-04 19:35:45
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/11/ogp_summit_heise_pawelke.png
+  src: /files/blog/2013/11/ogp_summit_heise_pawelke.png
   title: ogp_summit_heise_pawelke
 layout: post
 published: true

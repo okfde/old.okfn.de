@@ -27,4 +27,4 @@ Die **Internationale Konferenz „Zugang gestalten!“ am 22. und 23. Oktober 20
 
 Weitere Informationen zu [Konzept](http://www.zugang-gestalten.de/konzept/) und [Programm](http://www.zugang-gestalten.de/programm/) sowie zur [Anfahrt](http://www.zugang-gestalten.de/informationen-anfahrt/) und [Anmeldung](http://www.zugang-gestalten.de/anmelden-register/) auf der Konferenzwebseite: [www.zugang-gestalten.de](http://www.zugang-gestalten.de).
 
-Veranstalter: [Jüdisches Museum Berlin](http://www.jmberlin.de/), [Internet & Gesellschaft Co:llaboratory](http://www.collaboratory.de/),[iRightsLab](http://irights-lab.de/) Kultur, [Open Knowledge Foundation Deutschland](http://okfn.de/), [Stiftung Preußischer Kulturbesitz](http://hv.spk-berlin.de/), [Wikimedia Deutschland](http://www.wikimedia.de/)
+Veranstalter: [Jüdisches Museum Berlin](http://www.jmberlin.de/), [Internet & Gesellschaft Co:llaboratory](http://www.collaboratory.de/),[iRightsLab](http://irights-lab.de/) Kultur, [Open Knowledge Foundation Deutschland](/), [Stiftung Preußischer Kulturbesitz](http://hv.spk-berlin.de/), [Wikimedia Deutschland](http://www.wikimedia.de/)

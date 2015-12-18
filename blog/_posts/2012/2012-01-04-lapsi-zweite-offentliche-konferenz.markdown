@@ -29,6 +29,6 @@ Das ganze [Programm](http://www.lapsi-project.eu/bruxellesprog) scheint vielve
 
 [LAPSI](http://www.lapsi-project.eu/) (Legal Aspects of Public Sector Information) ist ein von der Europäischen Commission gefördertes Forschungsprojekt zu den rechtlichen Aspekten der PSI Direktive 2003/98/EC. Untersucht werden Themen wie Datenschutz, Urheber- und Wettbewerbsrecht im Zusammenhang mit dem Zugang und der Weiterverarbeitung von Daten des öffentlichen Sektors.
 
-LAPSI soll politische Empfehlungen im Hinblick auf die Auswirkungen der PSI Direktive im Zusammenhang mit der für 2012 [geplanten Überarbeitung der Direktive](http://okfn.de/2011/12/die-open-data-strategie-der-europaeischen-kommission/) erarbeiten.
+LAPSI soll politische Empfehlungen im Hinblick auf die Auswirkungen der PSI Direktive im Zusammenhang mit der für 2012 [geplanten Überarbeitung der Direktive](/blog/2011/12/die-open-data-strategie-der-europaeischen-kommission/) erarbeiten.
 
 Weitere Informationen: <http://www.lapsi-project.eu/>

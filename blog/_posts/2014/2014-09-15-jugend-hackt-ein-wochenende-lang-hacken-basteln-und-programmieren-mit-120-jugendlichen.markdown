@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-09-15 13:58:54
 image:
-  src: http://de.okblogfarm.org/files/2014/09/15041977270_2214ee6eaf_k-415x276.jpg
+  src: /files/blog/2014/09/15041977270_2214ee6eaf_k-415x276.jpg
   title: 15041977270_2214ee6eaf_k
 layout: post
 published: true

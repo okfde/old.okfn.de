@@ -7,7 +7,7 @@ categories:
 - Positionen
 date: 2014-09-17 15:51:56
 image:
-  src: http://de.okblogfarm.org/files/2014/09/Glow_openparliament-okf-de-415x235.png
+  src: /files/blog/2014/09/Glow_openparliament-okf-de-415x235.png
   title: Glow_openparliament-okf-de
 layout: post
 published: true
@@ -25,7 +25,7 @@ Am Montag, haben wir zusammen mit einer Gruppe von 108 zivilgesellschaftlichen O
 
 Neben den zivilgesellschaftlichen Akteuren finden sich unter den Unterstützern der Kampagne auch Mitglieder des Europäischen Parlaments, die Speaker's Digital Democracy Commission aus den UK und die brasilianischen Abgeordnetenkammer.
 
-Im Mittelpunkt der Aktion steht ein ö[ffentlicher Brief](http://de.okblogfarm.org/files/2014/09/GermanOKFNDE-OpenUpYourLegislatureletter.pdf), in dem die Mitglieder des Bundestags aufgefordert werden sich dafür einzusetzen, dass alle Infromationen und Dokumente des Parlaments proaktiv und in offenen und strukturierten Formaten kostenlos der Öffentlichkeit zur Verfügung gestellt werden. Diese und weitere Grundsätze sind in der [Erklärung zur Parlamentarischen Offenheit](http://offenesparlament.de/info/offenheit) verankert, die seit ihrer Veröffentlichung im September 2012, ein neues Problembewusstsein für die [Offenheit und Transparenz in Parlamenten schaffen will](http://okfn.de/2013/04/studie-zur-offenheit-der-parlamente-in-deutschland-osterreich-schweiz/).
+Im Mittelpunkt der Aktion steht ein ö[ffentlicher Brief](/files/blog/2014/09/GermanOKFNDE-OpenUpYourLegislatureletter.pdf), in dem die Mitglieder des Bundestags aufgefordert werden sich dafür einzusetzen, dass alle Infromationen und Dokumente des Parlaments proaktiv und in offenen und strukturierten Formaten kostenlos der Öffentlichkeit zur Verfügung gestellt werden. Diese und weitere Grundsätze sind in der [Erklärung zur Parlamentarischen Offenheit](http://offenesparlament.de/info/offenheit) verankert, die seit ihrer Veröffentlichung im September 2012, ein neues Problembewusstsein für die [Offenheit und Transparenz in Parlamenten schaffen will](/blog/2013/04/studie-zur-offenheit-der-parlamente-in-deutschland-osterreich-schweiz/).
 
 Die Erklärung zur parlamentarischen Offenheit versteht unter einer “standardmäßigen Offenheit”:
 

@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-07-19 15:22:19
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/07/jugendhackt_banner.jpg
+  src: /files/blog/2013/07/jugendhackt_banner.jpg
   title: jugendhackt_banner
 layout: post
 published: true

@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-06-07 06:28:18
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/06/horse_rain.jpg
+  src: /files/blog/2013/06/horse_rain.jpg
   title: banks-thumb
 layout: post
 published: true
@@ -38,7 +38,7 @@ Hier ist unser [Bericht](http://eepurl.com/Avw_P) für Mai. Wer ihn abonnieren w
 **Rückblick in den Mai**
 
 Im Mai feierte die [Open Knowledge Foundation](http://okfn.org/) ihren 9. Geburtstag. Spontan wurde [am Gründungshaus in Cambridge eine Gedenktafel angebracht](http://blog.okfn.org/2013/05/20/happy-9th-birthday-to-the-open-knowledge-foundation/) und einige Sektflaschen geleert.  
-Entgegen unserer Vorsätze haben wir wieder viel zu viele schöne Maitage damit verbracht Überzeugungsarbeit und Lobbying zu betreiben. So argumentierten wir bei der Bund-Länder-Arbeitsgruppe und der Konferenz „Effizienter Staat“ gegen die Datenlizenz für deutsche Verwaltungsdaten. Warum wir sie und einige andere Lizenzen als Sackgassenprojekte ansehen, die im besten Fall neue Datensilos schaffen, legen wir in diesem [Blogpost](http://okfn.de/2013/05/offene-lizenzen-fuer-daten-und-dokumente-der-deutschen-verwaltung/) detailliert dar.
+Entgegen unserer Vorsätze haben wir wieder viel zu viele schöne Maitage damit verbracht Überzeugungsarbeit und Lobbying zu betreiben. So argumentierten wir bei der Bund-Länder-Arbeitsgruppe und der Konferenz „Effizienter Staat“ gegen die Datenlizenz für deutsche Verwaltungsdaten. Warum wir sie und einige andere Lizenzen als Sackgassenprojekte ansehen, die im besten Fall neue Datensilos schaffen, legen wir in diesem [Blogpost](/blog/2013/05/offene-lizenzen-fuer-daten-und-dokumente-der-deutschen-verwaltung/) detailliert dar.
 
 Eine Ausnahme war [#opennrw](http://www.nrw.de/opennrw/), auch wenn der NRW-Innenminister mit der [Aussage](http://www.heise.de/newsticker/meldung/Open-NRW-Landesregierung-treibt-OpenData-und-Buergerbeteiligung-voran-1865911.html) „Ich finde, Open Government hat nichts damit zu tun, dem Bürger terabyteweise Daten zuzuschieben.“ uns und den hoffnungsvollen TeilnehmerInnen einen Dämpfer verpasste.
 
@@ -46,7 +46,7 @@ Umso mehr freuen wir uns über die dort vorgestellte Kampagne für ein [Transpar
 
  
 
-![domenicocabinet-detail](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/energyhackday.jpg)
+![domenicocabinet-detail](/files/blog/2013/06/energyhackday.jpg)
 
 **Energy hacks**
 
@@ -66,7 +66,7 @@ Wenn ihr über das Programm auf dem Laufenden gehalten werden wollt, tragt euch 
 
  
 
-![domenicocabinet-detail](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/space_colony.jpg)
+![domenicocabinet-detail](/files/blog/2013/06/space_colony.jpg)
 
 **Was wird spannend?**
 
@@ -77,15 +77,15 @@ Mit Freude haben wir zudem erfahren, dass der Berliner Senat sich bei seiner neu
 
  
 
-![pietri_dorando- finish - 540](http://okfn.de/wp-content/blogs.dir/21/files/2013/06/seeCable.jpg)
+![pietri_dorando- finish - 540](/files/blog/2013/06/seeCable.jpg)
 
 **Schon gesehen?**
 
 Fortschritte gibt es, wenn auch nur im Bereich der Transparenz, am Berliner Flughafen BER. Die Piratenfraktion hat die Seite [BERwatch](https://ber.piratenfraktion-berlin.de/) als Informationsseite zum Untersuchungsausschuss der Dauerbaustelle überarbeitet und noch interaktiver gestaltet. Schaut mal vorbei.
 
-Wer sich für den freien Zugang zu Gesetzen und Gerichtsurteilen interessiert, sollte sich mit den aktuellen Entwicklungen rund um die juris GmbH beschäftigen. In diesem [Blogpost](http://okfn.de/?p=2947) geben wir euch einen Überblick über die Frage, warum deren Datenbank eigentlich gemeinfrei sein sollte.
+Wer sich für den freien Zugang zu Gesetzen und Gerichtsurteilen interessiert, sollte sich mit den aktuellen Entwicklungen rund um die juris GmbH beschäftigen. In diesem [Blogpost](/blog) geben wir euch einen Überblick über die Frage, warum deren Datenbank eigentlich gemeinfrei sein sollte.
 
-Weitere Entwicklungen und aktuelle Informationen zu unseren Projekten findet ihr auf unserer [Mailingliste](http://lists.okfn.org/mailman/listinfo/okfn-de), hier im [Blog](http://okfn.de/blog) oder auf [Twitter](https://twitter.com/okfde).
+Weitere Entwicklungen und aktuelle Informationen zu unseren Projekten findet ihr auf unserer [Mailingliste](http://lists.okfn.org/mailman/listinfo/okfn-de), hier im [Blog](/blog) oder auf [Twitter](https://twitter.com/okfde).
 
 Willst du unseren Überblick regelmäßig erhalten? Dann abonnieren unseren [Newsletter hier](http://eepurl.com/vwdjT).
 

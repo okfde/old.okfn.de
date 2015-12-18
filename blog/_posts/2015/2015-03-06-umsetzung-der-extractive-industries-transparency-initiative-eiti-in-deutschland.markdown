@@ -5,7 +5,7 @@ categories:
 - Transparenz
 date: 2015-03-06 18:20:56
 image:
-  src: http://de.okblogfarm.org/files/2015/03/Screen-Shot-2015-03-06-at-17.58.44.png
+  src: /files/blog/2015/03/Screen-Shot-2015-03-06-at-17.58.44.png
   title: Screen Shot 2015-03-06 at 17.58.44
 layout: post
 published: true
@@ -21,7 +21,6 @@ type: post
 
 
 ---
-
 Die [Extractive Industries Transparency Initiative (EITI)](https://eiti.org/) ist eine internationale freiwillige Initiative zur Förderung der Transparenz von Einnahmen und Ausgaben im Rohstoffsektor.
 
 Die Bundesregierung plant dieser Initiative beizutreten und hat durch das BMWi die GIZ zur Unterstützung beauftragt. Die GIZ hat hierbei die Rolle das deutsche EITI Sekretariat im Auftrag des BMWi aufzubauen und zu leiten. Das nationale EITI Sekretariat ist grundsätzlich unabhängig und agiert als koordinierende Hand für den Umsetzungsprozess sowie neutraler Unterstützer der drei Interessengruppen (Wirtschaft, Zivilgesellschaft und Bundesregierung).
@@ -51,14 +50,14 @@ Aktive und regelmäßige Einbeziehung von weiteren zivilgesellschaftlichen Akteu
 
 Die rohstoffgewinnenden Unternehmen legen ihre Zahlungen an staatliche Stellen offen und die Regierungen ihre Einnahmen aus dem Rohstoffsektor. Diese Finanzströme werden miteinander abgeglichen. Der Gesamtprozess wird unabhängig überprüft.
 
-![transparenz11](http://de.okblogfarm.org/files/2015/03/transparenz11.png)
+![transparenz11](/files/blog/2015/03/transparenz11.png)
 
 Über die Gestaltung und Einhaltung der Transparenzvorgaben der EITI für den rohstoffgewinnenden Sektor entscheiden Multi-Stakeholder-Gruppen (MSG). Bei den MSG handelt es sich um Gremien der Interessenvertretungen aus Regierung, Wirtschaft und Zivilgesellschaft. Dadurch wird die Rechenschaftspflicht auf breite Basis gestellt. Es gibt einen internationalen EITI-Vorstand der ebenfalls mit Vertretern von Regierung, Wirtschaft und Zivilgesellschaft besetzt ist. Jedes EITI-umsetzende Land muss für die effektive Aufsicht der nationalen Umsetzung der EITI eine nationale MSG einrichten.
 
-![Rechenschaftspflicht](http://de.okblogfarm.org/files/2015/03/Rechenschaftspflicht.png)
+![Rechenschaftspflicht](/files/blog/2015/03/Rechenschaftspflicht.png)
 
 Der [EITI-Standard](http://eiti.org/files/German_EITI_STANDARD_July2013.pdf) sieht neben der Veröffentlichung von Zahlungen und Einnahmen auch eine umfassende Transparenz über andere Aspekte der Rohstoffgewinnung vor. Hierzu gehören Lizenzvergaben und Rahmenbedingungen der Rohstoffgewinnung. Zusätzlich kann national vorgegeben werden, die Eigentümerstrukturen der Rohstoffunternehmen oder die Verträge offenzulegen.
 
-![eiti_standard](http://de.okblogfarm.org/files/2015/03/eiti_standard.png)
+![eiti_standard](/files/blog/2015/03/eiti_standard.png)
 
 Bildquelle: <http://www.d-eiti.de/was-ist-eiti/>

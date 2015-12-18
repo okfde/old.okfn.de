@@ -5,8 +5,9 @@ categories:
 - Featured
 date: 2014-05-28 07:38:03
 image:
-  src: http://de.okblogfarm.org/files/2014/05/img_2140b1-web_136901_by-jl_piqs_de.jpg
+  src: /files/blog/2014/05/img_2140b1-web_136901_by-jl_piqs_de.jpg
   title: ''
+  licence: "Foto von [JL](http://piqs.de/fotos/136901.html) (Lizenziert unter: [CC BY 2.0 DE](http://creativecommons.org/licenses/by/2.0/de/deed.de))"
 layout: post
 published: true
 status: publish
@@ -21,7 +22,6 @@ type: post
 
 ---
 
- Foto von [JL](http://piqs.de/fotos/136901.html) (Lizenziert unter: [CC BY 2.0 DE](http://creativecommons.org/licenses/by/2.0/de/deed.de))
 
 **Freiburger Fahrradfahrer leben gefährlich!**
 

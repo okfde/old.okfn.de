@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-11-28 13:01:35
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/11/zugang_gestalten-415x219.png
+  src: /files/blog/2013/11/zugang_gestalten-415x219.png
   title: zugang_gestalten
 layout: post
 published: true

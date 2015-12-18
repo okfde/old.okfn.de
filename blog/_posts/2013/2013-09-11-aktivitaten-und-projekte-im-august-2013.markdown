@@ -30,11 +30,11 @@ type: post
 
 **Rückblick in den August**
 
-Mit Sekt, Grillgut und viel guter Laune haben wir eine Bootstour auf dem Müggelsee gemacht und sind dabei gehörig in [Urlaubsstimmung](http://www.flickr.com/photos/okfde) gekommen. Zurück im Büro ging es mit unseren laufenden Projekten weiter: Für „[Code for All”](http://codeforall.de/) haben wir die Webseite überarbeitet und mit einem neuen Design versehen. Wir sind noch auf der Suche nach Partnern und Unterstützern und freuen uns über euer Interesse. Und „Jugend hackt” war ein Riesenerfolg! Erfahrt mehr über die entwickelten Projekte und den Verlauf des Wochenendes via [jugendhackt.de](http://jugendhackt.de/), [Twitter](https://twitter.com/jugendhackt), [Facebook](https://www.facebook.com/jugendhackt) und natürlich bald auch in diesem [Blog](http://okfn.de/blog).
+Mit Sekt, Grillgut und viel guter Laune haben wir eine Bootstour auf dem Müggelsee gemacht und sind dabei gehörig in [Urlaubsstimmung](http://www.flickr.com/photos/okfde) gekommen. Zurück im Büro ging es mit unseren laufenden Projekten weiter: Für „[Code for All”](http://codeforall.de/) haben wir die Webseite überarbeitet und mit einem neuen Design versehen. Wir sind noch auf der Suche nach Partnern und Unterstützern und freuen uns über euer Interesse. Und „Jugend hackt” war ein Riesenerfolg! Erfahrt mehr über die entwickelten Projekte und den Verlauf des Wochenendes via [jugendhackt.de](http://jugendhackt.de/), [Twitter](https://twitter.com/jugendhackt), [Facebook](https://www.facebook.com/jugendhackt) und natürlich bald auch in diesem [Blog](/blog).
 
  
 
-![21. Bust](http://okfn.de/wp-content/blogs.dir/21/files/2013/09/wahldatenhelfer_mini-150x136.jpg)
+![21. Bust](/files/blog/2013/09/wahldatenhelfer_mini-150x136.jpg)
 
 **Wahl.Daten.Helfer.**
 
@@ -42,7 +42,7 @@ Pünktlich zur Wahl haben wir mit weiteren Initiativen die Aktion „[Wahl.Daten
 
  
 
-![21. Bust](http://okfn.de/wp-content/blogs.dir/21/files/2013/09/goingDark_klein.jpg)
+![21. Bust](/files/blog/2013/09/goingDark_klein.jpg)
 
 **Art Hack Day**
 
@@ -50,7 +50,7 @@ Wir sind überaus erfreut darüber, mit dem Team des „Art Hack Day” vom 26-2
 
  
 
-![21. Bust](http://okfn.de/wp-content/blogs.dir/21/files/2013/09/120x120.png)
+![21. Bust](/files/blog/2013/09/120x120.png)
 
 **Was wird spannend?**
 

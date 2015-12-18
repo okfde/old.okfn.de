@@ -5,7 +5,7 @@ categories:
 - Transparenz
 date: 2013-03-07 11:12:50
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/03/country-kfw.png
+  src: /files/blog/2013/03/country-kfw.png
   title: country-kfw
 layout: post
 published: true
@@ -22,9 +22,9 @@ type: post
 
 In der Regel haben Organisationen in der Entwicklungszusammenarbeit nette Webseiten mit Projektbeschreibungen und viele Texte zu großen Themen. Wenn es um Gelder geht, kochen die meisten Webseiten aber auf Sparflamme. Die KfW-Entwicklungsbank wollte das ändern und deswegen haben wir sie dabei unterstützt.
 
-[ ](http://okfn.de/wp-content/blogs.dir/21/files/2013/03/wirkungen-kfw.png)
+[ ](/files/blog/2013/03/wirkungen-kfw.png)
 
-Wir hatten schon vorher mit der [KfW zum Förderreport](http://okfn.de/2012/04/mehr-transparenz-kooperation-kfw-bankengruppe/) zusammen gearbeitet und wurden daraufhin von der KfW-Entwicklungsbank angesprochen, ob wir auch deren Förder-Daten auf neue Weise darstellen könnten. Zu dieser Zeit hatten wir bereits [offene-Entwicklungshilfe.de](http://www.offene-Entwicklungshilfe.de) in Arbeit und freuten uns diesen Ansatz auch gleich auf weitere Datensätze ausweiten zu können.
+Wir hatten schon vorher mit der [KfW zum Förderreport](/blog/2012/04/mehr-transparenz-kooperation-kfw-bankengruppe/) zusammen gearbeitet und wurden daraufhin von der KfW-Entwicklungsbank angesprochen, ob wir auch deren Förder-Daten auf neue Weise darstellen könnten. Zu dieser Zeit hatten wir bereits [offene-Entwicklungshilfe.de](http://www.offene-Entwicklungshilfe.de) in Arbeit und freuten uns diesen Ansatz auch gleich auf weitere Datensätze ausweiten zu können.
 
 ## Transparenz-Portal
 
@@ -32,7 +32,7 @@ Vor kurzen ging das [Transparanz-Portal online (transparenz.kfw-entwicklungsbank
 
 Die nun zur Verfügung gestellten Daten, können auch direkt im maschinenlesbaren Format heruntergeladen werden. Glücklicherweise konnten wir die KfW auch überzeugen Geodaten und Karten von OpenStreetMap zu nutzen. Außerdem binden wir hier auch [Indikatoren der Weltbank](http://data.worldbank.org/indicator) für jedes Land ein. Gerade die Kombination von solchen Datensätzen in Echtzeit wird den Stein erst richtig ins Rollen bringen.
 
-## ![wirkungen-kfw](http://okfn.de/wp-content/blogs.dir/21/files/2013/03/wirkungen-kfw.png)
+## ![wirkungen-kfw](/files/blog/2013/03/wirkungen-kfw.png)
 
 ## Ein Anfang ist gemacht
 

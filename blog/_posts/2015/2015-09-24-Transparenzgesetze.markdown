@@ -4,7 +4,8 @@ categories:
 - Featured
 date: 2015-09-24 10:20:56
 image:
-  src: http://okfn.de/files/blog/2015-9/demo-transparent.jpg
+  src: /files/blog/2015/09/demo-transparent.jpg
+  licence: "Bild: [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/), Leif Hinrichsen via [flickr](https://www.flickr.com/photos/leifhinrichsen/15084392262/)"
 layout: post
 published: true
 status: publish
@@ -12,9 +13,8 @@ tags:
 title: "Tag der Informationsfreiheit: Bündnis fordert landesweite Transparenzgesetze"
 type: post
 ---
-(Bild: <a href="https://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a>, Leif Hinrichsen via <a href="https://www.flickr.com/photos/leifhinrichsen/15084392262/">flickr</a>)
 
-<i>Berlin, 24.9.2015</i> - Zum Internationalen Tag der Informationsfreiheit am 28. September fordert ein Bündnis aus zivilgesellschaftlichen Organisationen die Einführung von Transparenzgesetzen nach dem Vorbild von Hamburg in ganz Deutschland. Um für mehr Transparenz zu sorgen, können Bürger, Journalisten und NGOs über FragDenStaat.de ab sofort 10.000 Behörden aus allen Bundesländern anfragen.
+Zum Internationalen Tag der Informationsfreiheit am 28. September fordert ein Bündnis aus zivilgesellschaftlichen Organisationen die Einführung von Transparenzgesetzen nach dem Vorbild von Hamburg in ganz Deutschland. Um für mehr Transparenz zu sorgen, können Bürger, Journalisten und NGOs über FragDenStaat.de ab sofort 10.000 Behörden aus allen Bundesländern anfragen.
 
 Arne Semsrott, Open Knowledge Foundation Deutschland: „Bürger müssen nachvollziehen können, wie der Staat arbeitet. Für eine moderne Verwaltung im 21. Jahrhundert ist Transparenz deswegen Pflicht. Bund und Länder müssen jetzt dringend die gesetzlichen Grundlagen dafür schaffen.“
 

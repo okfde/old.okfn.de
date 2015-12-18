@@ -5,7 +5,7 @@ categories:
 - Termine
 date: 2011-09-29 07:24:52
 image:
-  src: http://okfn.de/files/2011/09/OGDCamp_OKF_SiteImgDeutsch4.jpg
+  src: /files/blog/2011/09/OGDCamp_OKF_SiteImgDeutsch4.jpg
   title: ''
 layout: post
 published: true

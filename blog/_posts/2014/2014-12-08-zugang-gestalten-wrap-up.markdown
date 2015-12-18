@@ -6,7 +6,7 @@ categories:
 - offene Kultur
 date: 2014-12-08 12:36:04
 image:
-  src: http://de.okblogfarm.org/files/2014/12/IMG_1097a-415x276.jpg
+  src: /files/blog/2014/12/IMG_1097a-415x276.jpg
   title: IMG_1097a
 layout: post
 published: true
@@ -28,7 +28,7 @@ type: post
 
 Mit einem Tusch ging “[Zugang gestalten!](http://www.zugang-gestalten.de)”, die Konferenz rund um die Digitalisierung unseres Kulturerbes in die vierte Runde: Dieses Mal haben wir uns mit dem auseinandergesetzt, was unterm Strich bleibt: Erfolge, Herausforderungen und Erfahrungen aus den vergangenen großen und kleinen Digitalisierungsprojekten.
 
-![IMG_1594a](http://de.okblogfarm.org/files/2014/12/IMG_1594a-415x276.jpg) Digitalisierungsstraße, CC-BY Hansgeorg Schöner
+![IMG_1594a](/files/blog/2014/12/IMG_1594a-415x276.jpg) Digitalisierungsstraße, CC-BY Hansgeorg Schöner
 
 Neben den vielen internationalen Sprechern war die Werkschau im Naturkundemuseum ein echtes Highlight: Besucher konnten sich eine Digitalisierungsstraße ansehen und anschließend zahlreiche erfolgreiche Projekte im openGLAM-Bereich (Galerien, Libraries, Archives, Museums) kennenlernen. Darunter auch drei [Coding da Vinci-Projekte](http://codingdavinci.de/projekte/): EnthoBand, Alt-Berlin und zzZwitscherwecker.
 

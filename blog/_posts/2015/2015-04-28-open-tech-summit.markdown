@@ -5,7 +5,7 @@ categories:
 - Veranstaltung
 date: 2015-04-28 14:30:00
 image:
-  src: http://okfn.de/files/blog/2015-4/ots.png
+  src: /files/blog/2015/04/ots.png
   title: 
 layout: post
 published: true
@@ -14,7 +14,6 @@ tags: []
 title: "Open Tech Summit in Berlin am 14. Mai"
 type: post
 ---
-<br>
 <p>Wir freuen uns sehr darüber, dass es dieses Jahr zum ersten Mal einen Open Tech Summit in Berlin geben wird, der die verschiedenen Open Disziplinen zusammenbringt:</p>
 
 <ul>

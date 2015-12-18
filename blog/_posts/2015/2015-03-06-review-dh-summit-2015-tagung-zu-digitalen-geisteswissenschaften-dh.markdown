@@ -6,8 +6,9 @@ categories:
 - Open Knowledge Foundation
 date: 2015-03-06 12:41:08
 image:
-  src: http://de.okblogfarm.org/files/2015/03/dh-summit-2015-312x415.jpg
+  src: /files/blog/2015/03/dh-summit-2015-312x415.jpg
   title: Bild von @MKerzel
+  licence: "Bild von [@MKerzel](https://twitter.com/MKerzel)"
 layout: post
 published: true
 status: publish
@@ -18,9 +19,6 @@ type: post
 
 
 ---
-
- Bild von [@MKerzel](https://twitter.com/MKerzel)
-
 Digitale Geisteswissenschaften oder auch „Digital Humanities“ (DH) – dieser Begriff umfasst den systematischen Ausbau digitaler Sammlungen und Objekte sowie die Entwicklung computergestützter Auswertungs- und Nutzungsverfahren für die geistes- und kulturwissenschaftliche Forschung und Lehre.
 
 Zentrales Thema des diesjährigen [DH Summits 2015](https://de.dariah.eu/dhsummit2015) am 3. und 4. März 2015 in Berlin war die zukünftige Entwicklung von digitalen Forschungsinfrastrukturen für die Geistes- und Kulturwissenschaften. Rund 300 Experten aus Wissenschaft und Politik waren der Einladung der beiden Forschungsinfrastrukturprojekte „[Digital Research Infrastructures for the Arts and Humanities“ (DARIAH-DE)](http://de.dariah.eu) und „[TextGrid – Virtuelle Forschungsumgebung für die Geisteswissenschaften](http://textgrid.de)“ gefolgt.

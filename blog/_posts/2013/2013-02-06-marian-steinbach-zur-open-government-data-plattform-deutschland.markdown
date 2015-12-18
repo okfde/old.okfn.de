@@ -5,7 +5,7 @@ categories:
 - offene Daten
 date: 2013-02-06 15:28:38
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/01/OGDP.png
+  src: /files/blog/2013/01/OGDP.png
   title: ''
 layout: post
 published: true
@@ -28,7 +28,7 @@ In Kürze wird das Bundesinnenministerium eine Plattform eröffnen, mit der eini
 
 Diese Erwartung hat in den letzten Wochen einige Dämpfer bekommen. Im Netz wird schon an verschiedener Stelle darüber geschrieben (z. B. von Sebastian Haselbeck auf [opengovgermany.com](http://opengovgermany.com/2013/02/04/german-government-screws-up-open-data/), von Lorenz Matzat auf [Netzpolitik.org](https://netzpolitik.org/2013/konsequent-kein-open-data-portal-im-bund/) und von Jan Brennenstuhl auf [OpenEverything](http://www.openeverything.eu/unklarheiten-govdata-portal-deutschland/)) und es wird hoffentlich weiter darüber geschrieben werden. Wenn es nach mir geht, gerne auch über die unsichtbaren Grenzen des Netzes hinaus. Gerade weil mich das Thema besonders betrifft, möchte ich gerne ausführlich dazu Stellung nehmen und ein paar Argumente und Hintergründe beisteuern und zur Diskussion stellen. Auch deswegen, weil ich noch nicht recht weiß, wie ich die Situation einordnen soll.
 
-Am vergangenen Freitag, dem 1. Februar, fand der zweite (und vor dem Launch letzte) [Community-Workshop](http://open-data.fokus.fraunhofer.de/?page_id=1872) zur Plattform, die nun GovData heißen wird, bei Fraunhofer FOKUS in Berlin statt. Mit geschätzten 30 anderen Vertretern war ich, auf Einladung der [Open Knowledge Foundation](http://okfn.de/), dabei, um mir einen eigenen Eindruck vom Stand der Dinge zu machen. Das war nicht mein erster Berührungspunkt mit dem, was die Projektverantwortlichen **Beteiligung der Zivilgesellschaft** nennen. Schon am 1. und am 20. März 2012 habe ich als Gast an Treffen der "Unterarbeitsgruppe Technik" bei Fraunhofer FOKUS teilgenommen, damals auf Einladung des [Open Data Network](http://opendata-network.org/). Dort präsentierten Fraunhofer FOKUS, Lorenz-von-Stein-Institut und Partnerschaften Deutschland Teile der Inhalte, die im Sommer 2012 als Studie mit dem Titel [Open Government Data Deutschland](http://www.bmi.bund.de/SharedDocs/Pressemitteilungen/DE/2012/mitMarginalspalte/07/opengovernment.html) veröffentlicht werden würden.
+Am vergangenen Freitag, dem 1. Februar, fand der zweite (und vor dem Launch letzte) [Community-Workshop](http://open-data.fokus.fraunhofer.de/?page_id=1872) zur Plattform, die nun GovData heißen wird, bei Fraunhofer FOKUS in Berlin statt. Mit geschätzten 30 anderen Vertretern war ich, auf Einladung der [Open Knowledge Foundation](/), dabei, um mir einen eigenen Eindruck vom Stand der Dinge zu machen. Das war nicht mein erster Berührungspunkt mit dem, was die Projektverantwortlichen **Beteiligung der Zivilgesellschaft** nennen. Schon am 1. und am 20. März 2012 habe ich als Gast an Treffen der "Unterarbeitsgruppe Technik" bei Fraunhofer FOKUS teilgenommen, damals auf Einladung des [Open Data Network](http://opendata-network.org/). Dort präsentierten Fraunhofer FOKUS, Lorenz-von-Stein-Institut und Partnerschaften Deutschland Teile der Inhalte, die im Sommer 2012 als Studie mit dem Titel [Open Government Data Deutschland](http://www.bmi.bund.de/SharedDocs/Pressemitteilungen/DE/2012/mitMarginalspalte/07/opengovernment.html) veröffentlicht werden würden.
 
 Alles in allem waren das zwei durchaus interessante Veranstaltungen. Irgendwie seltsame Einblicke in eine ferne Welt, in der Open Data etwas sehr kompliziertes sein muss. Sicherlich haben diese Treffen bei mir eins bewirkt: Sie haben **Empathie für Verwaltungsmitarbeiter** geweckt. Ob das etwas Gutes ist, weiß ich nicht. Wie Tony Bowden von [mySociety](http://www.mysociety.org/) es ausdrückt:
 
@@ -83,7 +83,7 @@ Das hätte natürlich überhaupt keinen Einfluss darauf, **welche Daten** überh
 
  
 
-![Marian Steinbach](http://okfn.de/wp-content/blogs.dir/21/files/2013/02/marian_400x400.jpg)  
+![Marian Steinbach](/files/blog/2013/02/marian_400x400.jpg)  
 **Marian Steinbach** ist Interaction Designer und Open-Data-Aktivist. Er hat die Plattform [Offenes Köln](http://offeneskoeln.de/) ins Leben gerufen, die einen offenen Zugang zu Inhalten der Kölner Lokalpolitik bietet.
 
  

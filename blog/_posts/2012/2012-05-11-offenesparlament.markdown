@@ -4,7 +4,7 @@ categories:
 - Open Knowledge Foundation
 date: 2012-05-11 06:56:03
 image:
-  src: http://okfn.de/files/2012/05/Screen-Shot-2012-04-24-at-11.11.13-PM-300x182.png
+  src: /files/blog/2012/05/Screen-Shot-2012-04-24-at-11.11.13-PM-300x182.png
   title: ''
 layout: post
 published: true

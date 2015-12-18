@@ -40,4 +40,4 @@ Daniel Dietrich, Open Knowledge Foundation Deutschland e.V., info@okfn.de Tel:
 
 Lavinia Steiner, Digitale Gesellschaft e.V., presse@digitalegesellschaft.de
 
-**PDF dieser Pressemitteilung:** [Urheberrecht – PM Gemeinsames Positionspapier – Wikimedia Deutschland, Digitale Gesellschaft, Open Knowledge Foundation Deutschland](http://okfn.de/files/2011/11/Urheberrecht-Gemeinsames-Positionspapier-Wikimedia-Deutschland-Digitale-Gesellschaft-Open-Knowledge-Foundation-Deutschland.pdf)
+**PDF dieser Pressemitteilung:** [Urheberrecht – PM Gemeinsames Positionspapier – Wikimedia Deutschland, Digitale Gesellschaft, Open Knowledge Foundation Deutschland](/files/blog/2011/11/Urheberrecht-Gemeinsames-Positionspapier-Wikimedia-Deutschland-Digitale-Gesellschaft-Open-Knowledge-Foundation-Deutschland.pdf)

@@ -6,7 +6,7 @@ categories:
 - Open Knowledge Foundation
 date: 2014-02-27 10:03:27
 image:
-  src: http://de.okfn.org/wp-content/blogs.dir/21/files/2014/02/profilbild.png
+  src: /files/blog/2014/02/profilbild.png
   title: Code for Germany
 layout: post
 published: true

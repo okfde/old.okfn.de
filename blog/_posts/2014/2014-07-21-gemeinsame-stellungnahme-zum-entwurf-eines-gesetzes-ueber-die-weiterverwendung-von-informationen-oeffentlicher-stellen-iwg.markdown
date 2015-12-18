@@ -5,7 +5,7 @@ categories:
 - Positionen
 date: 2014-07-21 10:52:59
 image:
-  src: http://de.okblogfarm.org/files/2014/07/BMWI_iwg_stellungnahme-415x162.png
+  src: /files/blog/2014/07/BMWI_iwg_stellungnahme-415x162.png
   title: BMWI_iwg_stellungnahme
 layout: post
 published: true

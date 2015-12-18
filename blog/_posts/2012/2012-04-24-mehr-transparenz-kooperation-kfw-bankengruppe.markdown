@@ -4,7 +4,7 @@ categories:
 - offene Daten
 date: 2012-04-24 15:14:34
 image:
-  src: http://okfn.de/files/2012/04/kfw.png
+  src: /files/blog/2012/04/kfw.png
   title: KfW Förderreport Webseite
 layout: post
 published: true

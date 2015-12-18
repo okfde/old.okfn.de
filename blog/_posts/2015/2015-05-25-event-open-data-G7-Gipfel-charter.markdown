@@ -13,7 +13,6 @@ tags: []
 title: "Podiumsdiskussion: Der G7 Gipfel und Open Government Data"
 type: post
 ---
-<br>
 Vor fast zwei Jahren unterzeichnete Deutschland gemeinsam mit den anderen Industriestaaten der G8 die Open Data Charta. Die Bundesregierung verpflichtete sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen. Eine erste Implementierung der Prinzipien für offene Daten durch die jeweiligen G8-Staaten inklusive deren technischer Umsetzung sollte bis Ende 2015 abgeschlossen sein.
 
 Der in Deutschland stattfindende G7-Gipfel ist ein willkommener Anlass, um eine erste Bewertung des G8 Open Data Charter vorzunehmen. Dabei sollen folgende Fragen im Mittelpunkt stehen: Was wurde bisher in Deutschland erreicht? Wie schneidet die Bundesrepublik im Vergleich mit den anderen G7-Staaten ab? Welche Perspektiven tun sich mit dem Auslaufen der Charta Ende 2015 auf? Ausgangspunkt für die Diskussion wird ein im Rahmen der Abendveranstaltung vorgestelltes, gemeinsam mit der stiftung neue Verantwortung veröffentlichtes Analyse- und Positionspapier zum Stand von Open Data bilden.

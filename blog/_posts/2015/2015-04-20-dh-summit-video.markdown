@@ -6,7 +6,7 @@ categories:
 - Open Science
 date: 2015-04-20 12:42:49
 image:
-  src: http://okfn.de/files/blog/2015-4/dhsummit-2015-Slide.png
+  src: /files/blog/2015/04/dhsummit-2015-Slide.png
   title: DARIAH-DE
 layout: post
 published: true
@@ -14,8 +14,8 @@ status: publish
 tags: []
 title: "Digitale Geisteswissenschaften: Video zum DH Summit 2015"
 type: post
----
 
+---
 ### Digitale Geisteswissenschaften: Video zum DH Summit 2015
 
 Zentrales Thema des diesjährigen [DH Summits 2015](https://de.dariah.eu/dhsummit2015) am 3. und 4. März 2015 in Berlin war die zukünftige Entwicklung von digitalen Forschungsinfrastrukturen für die Geistes- und Kulturwissenschaften. Rund 300 Experten aus Wissenschaft und Politik waren der Einladung der beiden Forschungsinfrastrukturprojekte „Digital Research Infrastructures for the Arts and Humanities“ (DARIAH-DE) und „TextGrid – Virtuelle Forschungsumgebung für die Geisteswissenschaften“ gefolgt.

@@ -6,7 +6,7 @@ categories:
 - offenes Wissen
 date: 2014-09-11 11:02:39
 image:
-  src: http://de.okblogfarm.org/files/2014/09/dh-award-logo-415x231.png
+  src: /files/blog/2014/09/dh-award-logo-415x231.png
   title: dh-award-logo
 layout: post
 published: true

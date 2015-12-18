@@ -21,7 +21,7 @@ ich habe mir vorgenommen wenigstens einmal im Monat einen kurzen Bericht zu schr
 * Anfang Januar haben wir den Munich Open Government Day [MOGDy](http://www.muenchen.de/mogdy) unterstützt  
 * Workshop auf der [Transmediale](http://www.transmediale.de/content/open-zone-model-responsive-city) zu Open Government  
 * Am 18. Februar haben wir die Veranstaltung "[Open Data - Apps for everyone](http://www.epsiplus.net/news/events/opendata_apps_for_everyone)" der ePSiplatform unterstützt  
-* Am 19. Februar haben wir den Verein "[Open Knowledge Foundation Deutschland](http://okfn.de/2011/02/27/okfn-de-als-gemeinnuetzige-organisation-gegruendet/)" gegründet
+* Am 19. Februar haben wir den Verein "[Open Knowledge Foundation Deutschland](/blog/2011/02/27/okfn-de-als-gemeinnuetzige-organisation-gegruendet/)" gegründet
 
 ### März 2011  
 * im März haben wir das BMI und das BMF im Zusammenhang ihrer Open Data Strategien beraten  

@@ -5,7 +5,7 @@ categories:
 - Open Knowledge Foundation
 date: 2013-08-05 11:29:41
 image:
-  src: http://okfn.de/wp-content/blogs.dir/21/files/2013/08/StromnetzBerlin-150x150.jpg
+  src: /files/blog/2013/08/StromnetzBerlin-150x150.jpg
   title: Stromnetz Berlin
 layout: post
 published: true
@@ -30,12 +30,12 @@ type: post
  
 
 **Rückblick in den Juli**  
-Mitte Juli waren die Gewinnerteams des [Energy Hack](http://energyhack.de/) zu Besuch beim Berliner Stromnetzbetreiber und haben auf einer Netztour spannende Einblicke in die Infrastruktur bekommen. [Hier](http://okfn.de/2013/07/die-energy-hack-netztour-eine-tour-in-das-gehirn-des-stromnetzes/#sthash.BQ7QdSkQ.dpuf) gehts zu einem Überblick über die Tour in das Gehirn des Berliner Stromnetzes.  
+Mitte Juli waren die Gewinnerteams des [Energy Hack](http://energyhack.de/) zu Besuch beim Berliner Stromnetzbetreiber und haben auf einer Netztour spannende Einblicke in die Infrastruktur bekommen. [Hier](/blog/2013/07/die-energy-hack-netztour-eine-tour-in-das-gehirn-des-stromnetzes/#sthash.BQ7QdSkQ.dpuf) gehts zu einem Überblick über die Tour in das Gehirn des Berliner Stromnetzes.  
 Außerdem können wir uns nun auch über das [Video des Hack Day](http://vimeo.com/71322548) freuen.
 
  
 
-![OKF Summit](http://okfn.de/wp-content/blogs.dir/21/files/2013/08/cambridge_summit_2013-150x150.jpg)
+![OKF Summit](/files/blog/2013/08/cambridge_summit_2013-150x150.jpg)
 
 **OKF Summit in Cambridge**
 
@@ -44,7 +44,7 @@ Neben dem Programm haben wir natürlich auch einfach das Zusammensein genossen, 
 
  
 
-![www.fragdenstaat.de](http://okfn.de/wp-content/blogs.dir/21/files/2013/08/fds_twitter-150x150.jpg)
+![www.fragdenstaat.de](/files/blog/2013/08/fds_twitter-150x150.jpg)
 
 **Neues von FragDenStaat.de und „Jugend hackt”**
 
@@ -54,11 +54,11 @@ Wer die weitere Entwicklungen mitverfolgen will, kann [FragDenStaat](https://fra
  
 
 An dieser Stelle wollen wir euch ein Jurymitglied von „[Jugend hackt”](http://jugendhackt.de/) vorstellen: [Isabel Drost-Fromm](http://isabel-drost.de/) ist Mitinitiatorin der Berlin Buzzwords und Mitglied der Apache Software Foundation.  
-Apropos starke Frauen: Wir wünschen uns mehr [Anmeldungen](http://okfn.de/2013/07/jugend-hackt-neuigkeiten/) von Mädchen aus ganz Deutschland, die Spaß am Programmieren haben! 
+Apropos starke Frauen: Wir wünschen uns mehr [Anmeldungen](/blog/2013/07/jugend-hackt-neuigkeiten/) von Mädchen aus ganz Deutschland, die Spaß am Programmieren haben! 
 
  
 
-![](http://okfn.de/wp-content/blogs.dir/21/files/2013/08/21jh_forward_big.jpg) ‘[A Century Run or Bust’, deposited by Fred L. Hacking in 1900.](http://publicdomainreview.org/2013/07/02/canada-through-a-lens) (CC-BY) 
+![](/files/blog/2013/08/21jh_forward_big.jpg) ‘[A Century Run or Bust’, deposited by Fred L. Hacking in 1900.](http://publicdomainreview.org/2013/07/02/canada-through-a-lens) (CC-BY) 
 
  
 
@@ -70,7 +70,7 @@ Auch Lust auf Konferenzen und Veranstaltungen rund um offene Daten? Dann empfehl
 
  
 
-![21. Bust](http://okfn.de/wp-content/blogs.dir/21/files/2013/08/21jh_fall-150x140.jpg)
+![21. Bust](/files/blog/2013/08/21jh_fall-150x140.jpg)
 
 **Schon gesehen?**
 

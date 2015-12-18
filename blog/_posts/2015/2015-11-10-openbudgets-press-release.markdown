@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-11-10 10:00:56
 image: 
-  src : http://okfn.de/static/images/projects/openbudgets.png
+  src : /static/images/projects/openbudgets.png
 layout: post
 published: true
 status: publish
@@ -19,7 +19,6 @@ type: post
 
 
 ---
-
 [**OpenBudgets.eu**](http://openbudgets.eu/), a new project promoting transparency and accountability in the domain of public spending, is launched. The Horizon2020-funded project provides journalists, civil society organisations, NGOs, citizens and public administrations with the tools, data and stories they need to advocate and fight for fiscal transparency. 
 
 *"Democratic political life as we know it is inconceivable without public access to information about public money”* says Jonathan Gray, director of Policy and Research at Open Knowledge. 
