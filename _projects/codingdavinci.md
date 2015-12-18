@@ -1,6 +1,5 @@
 ---
 title: Coding da Vinci
-subtitle: Der Kultur-Hackathon
 type: event
 layout: project
 img: projects/codingdavinci.jpg
@@ -21,6 +20,7 @@ contact:
 de:
   stats: 325 000<br/>Kulturdaten
   teaser: wurden bei <a href="/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
+  subtitle: Der Kultur-Hackathon
   content: |-
      Coding da Vinci ist der erste Kultur-Hackathon (Entwicklertag) in Deutschland, der Entwickler/innen, Designer/innen und Gamer/innen zusammenbringt, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen.
      Ziel von Coding da Vinci ist nicht nur das Etablieren und Vernetzen einer technikaffinen und kulturbegeisterten Community, sondern insbesondere das kreative Ausschöpfen der technischen Möglichkeiten, die in unserem digitalen Kulturerbe stecken. Wir setzen uns für die freie Verfügbarkeit und Nutzbarkeit von Kulturdaten ein und stellen sicher, dass sie kreativen Menschen als Rohmaterial für ihre Ideen zur Verfügung stehen.
@@ -29,6 +29,7 @@ de:
 en:
   stats: 325,000<br/>cultural data
   teaser: have been made available and usable during <a href="/en/projekte/codingdavinci/">Coding da Vinci</a>.
+  subtitle: The cultural data hackathon
   content: |-
      Coding da Vinci is the first German open cultural data hackathon that brings together cultural heritage institutions and the hacker & designer community to develop ideas and prototypes for the cultural sector and the public. 
      More and more galleries, libraries, archives and museums (GLAMs) are digitizing their collections to make them accessible online and to preserve our heritage for future generations. But only if this cultural data is made accessible openly (according to the Open Definition), it can serve as the creative basis for innovative new applications and projects. Coding da Vinci proactively approaches GLAMs to release cultural data openly, in order to offer its participants a platform to experiment and innovate.

@@ -1,7 +1,6 @@
 ---
 title: DIGIWHIST
 url: http://digiwhist.eu/
-subtitle: "öffentliches Vergabewesen, public procurement, Vergabedaten"
 img: projects/digiwhist.jpg
 contact: Mara Mendes
 twitter: digiwhist
@@ -11,11 +10,11 @@ type: featured
 people:
   - name: Mara Mendes
     role: Projektleitung
-  
 contact:
   website: http://digiwhist.eu
   twitter: digiwhist
 de:
+  subtitle: "öffentliches Vergabewesen, public procurement, Vergabedaten"
   content: |-
      ####Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
      
@@ -35,6 +34,7 @@ de:
      Das Projekt wird finanziert durch EU Horizon 2020. 
 
 en:
+  subtitle: "Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed"
   content: |-
      ####Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
      

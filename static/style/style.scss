@@ -958,6 +958,7 @@ header {
   display: block;
   flex-grow: 1;
   margin: $grid-margin 0;
+  padding-top: 20px;
 
   &.text-only {
     display: flex;
@@ -989,14 +990,16 @@ header {
   .project-box-image-wrap {
     .project-box-image {
       height: 160px;
-      background-size: 100% auto;
-      background: no-repeat center 0;
-      //transition: 0.2s ease-in;
+      background-size: contain;
+      background-position: center center;
+      background-repeat: no-repeat;
+      transition: 0.2s ease-in;
+      -webkit-transform:translateZ(0);
     }
   }
 
   &:hover .project-box-image-wrap .project-box-image {
-    background-size: 110% auto;
+    transform: scale(1.05, 1.05)
   }
 
   .project-box-color {
@@ -1130,6 +1133,7 @@ header {
 
     .post-author {
       margin-top: 10px;
+      margin-bottom: 10px;
       line-height: 1em;
       text-align: center;
     }
@@ -1138,6 +1142,9 @@ header {
 
   .post-teaser {
     padding-bottom: 7px;
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
 
     .post-title {
       word-wrap: break-word;
