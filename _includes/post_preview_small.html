@@ -1,5 +1,5 @@
 {% assign post=include.post %}
-{% if post.image %}<div class="post-img-wrap"><img class="post-img" src="{{ post.image.src }}" alt="{{ post.title }}"></div>{% endif %}
+{% if post.image %}<div class="post-img-wrap"><a href="{{ site.baseurl }}/{{ post.url |replace_first:'/',''}}"><img class="post-img" src="{{ post.image.src }}" alt="{{ post.title }}"></a></div>{% endif %}
 <h4 class="post-title"><a href="{{ site.baseurl }}/{{ post.url |replace_first:'/',''}}">{{post.title | truncatewords: 8 }}</a></h4>
 <p class="post-excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 16 }}</p>
 <p class="post-meta">
