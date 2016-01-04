@@ -102,7 +102,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Eileen ist seit Juli Praktikantin bei der OKF DE. Gemeinsam mit Julia und Fiona arbeitet sie am Projekt „Code for Germany“. Vor allem ist sie für Kommunikation und Öffentlichkeitsarbeit zuständig. Sie hat einen Bachelor in Philosophie und bald auch einen Master in Logik."
+  bio: "Eileen ist seit Juli 2015 bei der OKF DE. Gemeinsam mit Julia und Fiona arbeitet sie am Projekt Code for Germany. Vor allem ist sie für Kommunikation und Öffentlichkeitsarbeit zuständig. Sie hat einen Bachelor in Philosophie und einen Master in Logik."
   bio_en: "Eileen is part of the team behind Code for Germany. She is in charge of public relations and communication. Her studies were in philosophy and logic."
   mail: eileen.wagner@okfn.de
   twitter: flapperleenie
@@ -211,19 +211,6 @@
   bio_en: "Johanna supports 2030-Watch since September 2015. During her studies she has accumulated experience in the field of communication for international development, e.g. with Oxfam Hong Kong and the German equivalent to the campaign 'Make Poverty History'. During her masters thesis with a focus on transparency in development cooperation she has worked at the German Federal Ministry for Economic Cooperation and Development and the World Bank in Washington, D.C. She previously was employed in the management of an organic fruit start-up and volunarily engaged at Transparency International, in particular for Hamburg's Transparency Law."
   mail: "johanna.zumfelde@okfn.de"
   twitter: "@Jzfelde"
-  website:
-  github:
-
-- name: Dominik Wurnig
-  title:
-  img:
-  staff: 1
-  board: 0
-  advisory: 0
-  position:
-  bio: "Dominik ist Journalist mit einer Vorliebe für Daten. Seit September 2015 unterstützt er für die Open Knowledge Foundation Deutschland das Projekt Openbudgets.eu. Daneben arbeitet der Wiener als Journalist für Krautreporter und das ZDF Lobbyradar. Zuvor war er Datenredakteur bei der österreichischen Nachrichtensendung Zeit im Bild beim ORF. Er hat Journalismus an der CUNY in New York studiert und ein Diplomstudium in Theater-, Film- und Medienwissenschaft abgeschlossen."
-  mail: dominik.wurnig@okfn.de
-  twitter:
   website:
   github:
 
