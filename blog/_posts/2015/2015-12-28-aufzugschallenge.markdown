@@ -6,7 +6,7 @@ categories:
 - Open Government
 date: 2015-12-28 12:37:00
 image: 
-  src : http://okfn.de/files/blog/2015-12/dbhackathon.jpg
+  src: http://okfn.de/files/blog/2015-12/dbhackathon.jpg
 layout: post
 published: true
 status: publish
