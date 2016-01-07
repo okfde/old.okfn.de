@@ -9,7 +9,7 @@ Der Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein mi
 
 Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Auf der [Projektseite](../projekte/) bekommst Du Einblick in alle Projekte.
 
-Der Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open Knowledge Foundation, eines aktiven [weltweiten Netzwerks](https://okfn.org/network/) von unterschiedlichen Menschen, die sich an den Aktivitäten und der Weiterentwicklung des Vereins beteiligen. Nur gemeinsam mit unseren Freunden und Förderern können wir unsere Ziele erreichen.
+Der Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open Knowledge Foundation, eines [weltweit aktiven Netzwerks](https://okfn.org/network/) von Aktivisten, Entwicklern, Policy-Spezialisten und Wissenschaftlern, die sich für die Förderung offenen Wissens und offener Daten einsetzen. Nur gemeinsam mit unseren Freunden und Förderern können wir unsere Ziele erreichen.
 
 Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, sind wir Unterzeichner der [Initiative Transparente Zivilgesellschaft (ITZ)](http://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html) von Transparency International Deutschland e.V..
 
@@ -92,7 +92,7 @@ In 2011 hat die OKF DE 50.155 € aus Mitgliedsbeiträgen und Zuwendungen (Ideel
 
 ## Ausgaben
 
-Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ gering zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
+Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ niedrig zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
 Mittelverwendung
 
 Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 6 Vollzeitäquivalenten.
