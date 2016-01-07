@@ -10,7 +10,9 @@
   <meta name="twitter:creator" content="@okfde">
   {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
   {% if page.url %}<meta name="twitter:url" content="http://okfn.de{{ site.url }}{{ page.url }}">{% endif %}
-  {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
+  {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | truncatewords: 50 | truncate: 199 }}">
+  {% else if page.description %}<meta name="twitter:description" content="{{ page.description }}">
+  {% else if site.description %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
   {% if page.image %}<meta name="twitter:image:src" content="{{ page.image.src }}">{% else %}<meta name="twitter:image:src" content="http://okfn.de{{ site.staticurl }}images/logo_black.png">{% endif %}
   {% endif %}
   <meta name="description" content="{{ page.description }}"/>
