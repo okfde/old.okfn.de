@@ -3,10 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {% if page.home %}
-  <title>Open Knowledge Foundation Deutschland - Offenes Wissen für die digitale Gesellschaft</title>
-  {% else %}
-  <title>{% t page.title %} &gt; Open Knowledge Foundation Deutschland</title>
+  {% if page.home %}<title>Open Knowledge Foundation Deutschland - Offenes Wissen für die digitale Gesellschaft</title>
+  {% else %}<title>{% t page.title %} &gt; Open Knowledge Foundation Deutschland</title>{% endif %}
+  {% if page.card %}<meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@okfde">
+  <meta name="twitter:creator" content="@okfde">
+  {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
+  {% if page.url %}<meta name="twitter:url" content="https://okfn.de{{ site.url }}{{ page.url }}">{% endif %}
+  {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
+  {% if page.image %}<meta name="twitter:image:src" content="https://okfn.de{{ site.url }}{{ page.image }}">{% else %}<meta name="twitter:image:src" content="https://okfn.de{{ site.staticurl }}images/logo_text.png">{% endif %}
   {% endif %}
   <meta name="description" content="{{ page.description }}"/>
   <link href="{{ site.staticurl }}style/style.css" rel='stylesheet' type='text/css'>
