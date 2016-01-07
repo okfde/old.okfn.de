@@ -20,6 +20,7 @@ menu_blog: yes
 		</ul>
 		</p>
 	</div>
+
 	<h1>{{ page.title }}</h1>
 	{% if page.image %}
 	<div class="post-image-full" style="background-image: url({{ page.image.src }});" title="{{ page.image.title }}"></div>
@@ -32,6 +33,13 @@ menu_blog: yes
 		<div class="col-md-10 col-md-offset-1">
 			<div class="post-content">{{ content }}</div>
 		</div>
+	</div>
+
+	<div class="share-post">
+		{% t blog.TeileAuf %}
+		<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=https://okfn.de{{ page.url }}&via=okfde&related=okfde" rel="nofollow" target="_blank" title="{% t blog.TeileAuf %} Twitter"><i class="icon-twitter"></i></a>
+		<a href="https://facebook.com/sharer.php?u=https://okfn.de{{ page.url }}" rel="nofollow" target="_blank" title="{% t blog.TeileAuf %} Facebook"><i class="icon-facebook"></i></a>
+		<a href="https://plus.google.com/share?url=https://okfn.de{{ page.url }}" rel="nofollow" target="_blank" title="{% t blog.TeileAuf %} Google+"><i class="icon-gplus"></i></a>
 	</div>
 </div>
 
