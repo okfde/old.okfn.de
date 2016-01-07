@@ -49,9 +49,9 @@ Free knowledge helps citizens to obtain information and enables a conscious form
 Open Knowledge Foundation Deutschland e.V.
 
 Register of Association: 
-Schlesische Str. 6 
-D-10997 Berlin 
-Register of Association Number: VR 30468 B 
+Singerstr. 109
+D-10179 Berlin
+Register of Association Number: VR 30468 B
 Tax ID: 27/674/52428 
 VAT: DE278022128
 

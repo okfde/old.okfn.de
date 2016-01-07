@@ -959,7 +959,7 @@ header {
   display: block;
   flex-grow: 1;
   margin: $grid-margin 0;
-  padding-top: 20px;
+  padding-top: 10px;
 
   &.text-only {
     display: flex;
@@ -990,6 +990,7 @@ header {
 
   .project-box-image-wrap {
     .project-box-image {
+      margin-top: 10px;
       height: 160px;
       background-size: contain;
       background-position: center center;
