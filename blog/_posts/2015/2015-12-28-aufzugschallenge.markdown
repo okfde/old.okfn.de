@@ -10,6 +10,7 @@ image:
 layout: post
 published: true
 status: publish
+card: true
 tags:
 - Deutschland
 - Nahverkehr
