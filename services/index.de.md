@@ -9,12 +9,12 @@ Heute werden mehr Daten erhoben als jemals zuvor. Viele dieser Daten sind bereit
 
 Durch die ständig wachsende Anzahl an datengetriebenen Arbeitsumfeldern gibt es einen immer größeren Bedarf an **Beratung**, **Training** und **Dienstleistungen** im **Umgang mit Daten**. Dieser Bedarf besteht bei Unternehmen und Verwaltungen ebenso so wie in Redaktionen oder bei zivilgesellschaftlichen Organisationen. Wir beraten Sie professionell und erarbeiten mit Ihnen für Ihre Organisation, Ihr Unternehmen oder Ihre Stadt eine abgestimmte Strategie, wie Sie offene Daten und entsrechende Technologien gezielt einsetzen können.
 
-Die **Open Knowledge Foundation Deutschland (OKF DE)** ist ein anerkannter Think and Do Tank und arbeitet seit Jahren mit einem internationalen Netzwerk an Expertinnen und Experten verschiedener Disziplienen. Gemeinsam helfen wir Regierungen auf nationaler wie kommunaler Ebene, zivilgesellschaftlichen Organisationen sowie Medienorganisationen und Journalistinnen mit offenen Daten zu arbeiten und diese für die Erreichung ihrer jeweiligen Ziele nutzbar zu machen.
+Die **Open Knowledge Foundation Deutschland (OKF DE)** ist ein anerkannter Think and Do Tank und arbeitet seit Jahren mit einem internationalen Netzwerk an Expertinnen und Experten verschiedener Disziplinen. Gemeinsam helfen wir Regierungen auf nationaler wie kommunaler Ebene, zivilgesellschaftlichen Organisationen sowie Medienorganisationen und Journalistinnen mit offenen Daten zu arbeiten und diese für die Erreichung ihrer jeweiligen Ziele nutzbar zu machen.
 
 Neben einer strategischen Baratung bieten wir ein weites Trainingsprogramm rund um Daten, vom Einsteiger- bis zum Expertenlevel. Die Kurse sind maßgeschneidert, Inhalte und Format wird auf Ihre Anforderungen abgestimmt. Als Partner der School of Data bieten wir etwa folgende Kurse (kleine Auswahl):
 
 * **Kompakte Einführung ins Thema (2-4 Stunden)**
-* **Kurs für Führungskräfte, Entscheidungsträger (1 Tag)**
+* **Kurs für Führungskräfte, Entscheidungsträger/innen (1 Tag)**
 * **Offene Daten für Verwaltungen (2-5 Tage)**
 
 Ausserdem bieten wir die Konzeption und Entwicklung von maßgeschneiderter datengetriebener Software als Dienstleistung an.  
