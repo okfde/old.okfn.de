@@ -4,7 +4,7 @@ date: 2015-01-08 10:37:31
 image:
   src: /files/blog/2015/01/31c3-open-science-415x311.jpg
   title: 31c3-open-science
-  licence: "CC-BY [Konrad Förstner](http://konrad.foerstner.org/)"
+  license: "CC-BY [Konrad Förstner](http://konrad.foerstner.org/)"
 layout: post
 tags:
 - offenes Wissen

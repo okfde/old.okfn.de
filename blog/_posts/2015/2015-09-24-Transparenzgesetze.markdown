@@ -3,7 +3,7 @@ author: Arne Semsrott
 date: 2015-09-24 10:20:56
 image:
   src: /files/blog/2015/09/demo-transparent.jpg
-  licence: "Bild: [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/), Leif Hinrichsen via [flickr](https://www.flickr.com/photos/leifhinrichsen/15084392262/)"
+  license: "[CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/), Leif Hinrichsen via [flickr](https://www.flickr.com/photos/leifhinrichsen/15084392262/)"
 layout: post
 tags:
 - IFG

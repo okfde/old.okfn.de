@@ -3,7 +3,7 @@ author: Fiona Krakenbuerger
 date: 2014-09-15 13:58:54
 image:
   src: /files/blog/2014/09/15041977270_2214ee6eaf_k-415x276.jpg
-  licence: Leonard Wolf
+  license: Foto von Leonard Wolf
 layout: post
 tags:
 - Jugend hackt

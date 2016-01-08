@@ -3,7 +3,7 @@ author: Fiona Krakenbuerger
 date: 2014-03-10 09:57:19
 image:
   src: /files/blog/2014/03/4323732956_7d458bcd47-415x276.jpg
-  licence: "© [Edu Martinez](www.flickr.com/photos/dukros/4323732956), Creative Commons 2.0" 
+  license: "© [Edu Martinez](www.flickr.com/photos/dukros/4323732956), Creative Commons 2.0"
 layout: post
 tags:
 - Behörden

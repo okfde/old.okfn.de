@@ -3,7 +3,7 @@ author: Helene Hahn
 date: 2013-12-03 12:34:55
 image:
   src: /files/blog/2013/12/zugang-gestalten-1-415x276.jpg
-  licence: 'Foto: David Jacob, CC-BY-SA'
+  license: 'Foto: David Jacob, CC-BY-SA'
 layout: post
 tags:
 - offene Kultur

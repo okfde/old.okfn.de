@@ -3,7 +3,7 @@ author: Stefan Kasberger
 date: 2015-01-23 16:07:19
 image:
   src: http://openscienceasap.org/wp-content/uploads/2015/01/popularscienceprocess-580x536.png
-  licence: Popular Science Process, cc by 2.0 Jer Thorp
+  license: Popular Science Process, cc by 2.0 Jer Thorp
 layout: post
 tags:
 - Open Science

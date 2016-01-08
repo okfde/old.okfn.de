@@ -3,8 +3,7 @@ author: Christian Heise
 date: 2015-03-06 12:41:08
 image:
   src: /files/blog/2015/03/dh-summit-2015-312x415.jpg
-  title: Bild von @MKerzel
-  licence: "Bild von [@MKerzel](https://twitter.com/MKerzel)"
+  license: "Bild von [@MKerzel](https://twitter.com/MKerzel)"
 layout: post
 tags:
 - DARIAH
