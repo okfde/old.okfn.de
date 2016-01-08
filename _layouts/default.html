@@ -13,7 +13,7 @@
   {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | truncatewords: 50 | truncate: 199 }}">
   {% else if page.description %}<meta name="twitter:description" content="{{ page.description }}">
   {% else if site.description %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
-  {% if page.image %}<meta name="twitter:image:src" content="{{ page.image.src }}">{% else %}<meta name="twitter:image:src" content="{{site.fullurl}}{{ site.staticurl }}images/logo_black_solid.png">{% endif %}
+  {% if page.image %}<meta name="twitter:image:src" content="{{site.fullurl}}{{ page.image.src }}">{% else %}<meta name="twitter:image:src" content="{{site.fullurl}}{{ site.staticurl }}images/logo_black_solid.png">{% endif %}
   {% endif %}
   <meta name="description" content="{{ page.description }}"/>
   <link href="{{ site.staticurl }}style/style.css" rel='stylesheet' type='text/css'>
