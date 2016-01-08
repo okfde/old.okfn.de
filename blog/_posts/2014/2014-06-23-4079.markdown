@@ -1,7 +1,5 @@
 ---
 author: Gero Nagel
-categories:
-- Monatsrückblick
 date: 2014-06-23 14:46:36
 image:
   src: /files/blog/2014/06/14159657713_b0d14ac5ec_o-150x99.jpg
@@ -10,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Monatsrückblick
 - Code for Germany
 - Coding Da Vinci
 - Jugend hackt

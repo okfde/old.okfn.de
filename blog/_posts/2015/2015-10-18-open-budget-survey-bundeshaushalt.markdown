@@ -1,9 +1,5 @@
 ---
 author: Arne Semsrott
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-10-18 08:15:56
 image: 
   src : https://netzpolitik.org/wp-upload/obenbudgetindex.jpg
@@ -12,6 +8,8 @@ published: true
 status: publish
 tags:
 - Deutschland
+- Transparency
+- Open Government
 - Transparenz
 title: "Open Budget Survey: Bundeshaushalt kann noch transparenter werden" 
 type: post

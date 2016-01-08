@@ -1,7 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Open Knowledge Foundation
 date: 2011-07-22 13:45:10
 image:
   src: /files/blog/2011/07/journal.pone_.0004803.g005.png

@@ -1,9 +1,5 @@
 ---
 author: Stefan Kaufmann und Walter Palmetshofer
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-11-02 22:14:00
 image: 
   src: /files/blog/2015/11/RK.png

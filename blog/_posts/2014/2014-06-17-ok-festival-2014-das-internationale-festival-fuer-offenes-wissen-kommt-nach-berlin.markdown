@@ -1,12 +1,5 @@
 ---
 author: Gero Nagel
-categories:
-- Deutschland
-- offene Daten
-- offene Kultur
-- offenes Wissen
-- Open Knowledge Foundation
-- Termine
 date: 2014-06-17 12:09:47
 image:
   src: /files/blog/2014/06/9501397375_cd4e1541b2_o-406x415.jpg
@@ -18,6 +11,11 @@ tags:
 - Berlin
 - Events
 - Konferenz
+- Deutschland
+- offene Daten
+- offene Kultur
+- offenes Wissen
+- Termine
 title: OK Festival 2014 – Das internationale Festival für offenes Wissen kommt nach Berlin
 type: post
 

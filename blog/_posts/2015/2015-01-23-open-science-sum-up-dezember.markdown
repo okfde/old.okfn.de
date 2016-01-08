@@ -1,16 +1,14 @@
 ---
-author: stefankasberger
-categories:
-- Featured
-- Open Science
+author: Stefan Kasberger
 date: 2015-01-23 16:07:19
 image:
   src: http://openscienceasap.org/wp-content/uploads/2015/01/popularscienceprocess-580x536.png
-  title: Popular Science Process, cc by 2.0 Jer Thorp
+  licence: Popular Science Process, cc by 2.0 Jer Thorp
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
 title: Open Science Sum-Up Dezember
 type: post
 

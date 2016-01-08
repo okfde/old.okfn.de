@@ -1,12 +1,8 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- offene Daten
 date: 2015-03-17 22:45:08
 image:
   src: /files/blog/2015/03/Screen-Shot-2015-03-17-at-22.37.36.png
-  title: Screen Shot 2015-03-17 at 22.37.36
 layout: post
 published: true
 status: publish

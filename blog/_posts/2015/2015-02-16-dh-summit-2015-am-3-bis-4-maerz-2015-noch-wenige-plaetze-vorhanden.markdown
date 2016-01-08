@@ -1,12 +1,9 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
 date: 2015-02-16 13:19:23
 image:
   src: /files/blog/2015/02/DH-Summit-SlideNEU.png
-  title: DH-Summit-SlideNEU
+  title: DH-Summit-Slide
 layout: post
 published: true
 status: publish

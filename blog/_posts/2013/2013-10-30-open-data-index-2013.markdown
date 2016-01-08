@@ -1,12 +1,8 @@
 ---
 author: Martin Koll
-categories:
-- Deutschland
-- Featured
 date: 2013-10-30 20:12:43
 image:
   src: /files/blog/2013/10/OD_Index2013-e1383161997347.jpg
-  title: OD_Index2013
 layout: post
 published: true
 status: publish

@@ -1,7 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
+author: Stefan Kasberger
 date: 2014-05-13 13:32:10
 image:
   src: http://openscienceasap.org/wp-content/uploads/2014/05/NDNAD-580x580.jpg

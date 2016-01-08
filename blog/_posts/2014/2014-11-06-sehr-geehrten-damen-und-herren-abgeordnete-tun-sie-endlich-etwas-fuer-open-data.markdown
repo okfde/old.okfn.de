@@ -1,16 +1,14 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- offene Daten
 date: 2014-11-06 15:16:45
 image:
   src: /files/blog/2014/11/sachverstaendige_schildchen-415x231.png
-  title: sachverstaendige_schildchen
+  title: sachverstaendige schildchen
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Digitale Agenda
 title: Sehr geehrte Damen und Herren Abgeordnete... tun Sie endlich etwas für Open Data!
 type: post

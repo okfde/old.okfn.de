@@ -1,18 +1,15 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
-- Positionen
 date: 2013-10-09 15:30:11
 image:
   src: /files/blog/2013/10/ogp_de_logo.jpg
-  title: ogp_de_logo
+  title: ogp de logo
 layout: post
 published: true
 status: publish
 tags:
+- Deutschland
+- Positionen
 - OGP
 - Open Government
 title: Deutschland muss endlich der Open Government Partnership beitreten

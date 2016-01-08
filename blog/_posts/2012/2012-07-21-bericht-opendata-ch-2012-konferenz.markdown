@@ -1,13 +1,12 @@
 ---
 author: Daniel Dietrich
-categories:
-- offene Daten
-- Termine
 date: 2012-07-21 08:43:23
 layout: post
 published: true
 status: publish
 tags:
+- Termine
+- offene Daten
 - Konferenz
 - Open Data
 title: Bericht von der OpenData.CH 2012 Konferenz

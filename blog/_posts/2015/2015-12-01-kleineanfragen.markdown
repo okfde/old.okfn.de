@@ -1,9 +1,5 @@
 ---
 author: Maximilian Richt
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-12-01 12:00:56
 image:
   src: /files/blog/2015/12/kleineanfragen.png
@@ -11,6 +7,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Open Government
 - Deutschland
 - Transparenz
 title: "kleineAnfragen macht Anfragen aus den Parlamenten zugänglicher"

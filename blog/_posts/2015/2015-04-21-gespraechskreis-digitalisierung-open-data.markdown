@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Veranstaltung
-- Open Data
 date: 2015-04-21 09:42:49
 image:
   src: /files/blog/2015/04/data-types.png
@@ -11,7 +7,9 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Veranstaltung
+- Open Data
 title: "Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30.4."
 type: post
 

@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- offenes Wissen
-- Termine
 date: 2014-08-19 09:16:27
 image:
   src: /files/blog/2014/08/Recht-zu-Apps-cc-by-joeran-muuss-merholz-415x300.png
@@ -12,6 +8,8 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
+- offenes Wissen
 - Creative Commons
 title: Creative-Commons Lizenztextlesung auf der alle Fragen rund um freie Lizenzen gestellt werden können
 type: post

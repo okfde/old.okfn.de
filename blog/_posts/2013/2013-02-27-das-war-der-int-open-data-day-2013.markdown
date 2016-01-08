@@ -1,15 +1,13 @@
 ---
 author: Julia Kloiber
-categories:
-- Open Knowledge Foundation
 date: 2013-02-27 14:11:42
 image:
   src: /files/blog/2013/02/Bildschirmfoto-2013-02-27-um-13.50.55.png
-  title: Bildschirmfoto 2013-02-27 um 13.50.55
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Data
 title: Das war der Int. Open Data Day 2013
 type: post
 

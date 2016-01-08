@@ -1,8 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- Workshops
 date: 2015-08-31 11:20:56
 image:
   src: /files/blog/2015/08/smarte-buerger.png
@@ -10,6 +7,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Workshops
 - Deutschland
 - Verbraucherschutz
 title: Smarte Bürger - Diskussionsrunde im Abgeordnetenhaus zu Verbraucherschutz in der digitalen Welt

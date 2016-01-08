@@ -1,13 +1,9 @@
 ---
 author: Martin Koll
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
 date: 2013-06-21 13:40:05
 image:
   src: /files/blog/2013/06/OpenRis_Moers-415x282.jpg
-  title: OpenRis_Moers
+  title: OpenRis Moers
 layout: post
 published: true
 status: publish

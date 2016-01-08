@@ -1,16 +1,14 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- offene Daten
 date: 2014-12-09 10:45:50
 image:
   src: /files/blog/2014/12/OpenDataIceberg-400-293x415.png
-  title: OpenDataIceberg-400
+  title: OpenDataIceberg
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - openindex14
 title: 'Open Data Index 2014 veröffentlicht: Mühsam ernährt sich das Eichhörnchen'
 type: post

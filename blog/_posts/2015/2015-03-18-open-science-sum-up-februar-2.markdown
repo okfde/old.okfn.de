@@ -1,8 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
-- Open Science
+author: Stefan Kasberger
 date: 2015-03-18 00:28:49
 image:
   src: http://openscienceasap.org/wp-content/uploads/2015/03/winterlandscape-580x481.jpeg
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
 title: Open Science Sum-Up Februar
 type: post
 

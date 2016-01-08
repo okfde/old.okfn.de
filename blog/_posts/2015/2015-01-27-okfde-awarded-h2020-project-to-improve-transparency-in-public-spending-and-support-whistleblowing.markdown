@@ -1,7 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Open Knowledge Foundation
 date: 2015-01-27 17:25:23
 image:
   src: /files/blog/2015/01/horizon2020_0.jpg

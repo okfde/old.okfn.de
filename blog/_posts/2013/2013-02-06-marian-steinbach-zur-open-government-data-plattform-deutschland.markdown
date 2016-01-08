@@ -1,8 +1,5 @@
 ---
-author: Gastautor
-categories:
-- Featured
-- offene Daten
+author: Marian Steinbach
 date: 2013-02-06 15:28:38
 image:
   src: /files/blog/2013/01/OGDP.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Deutschland
 - OGDP
 - Open Data

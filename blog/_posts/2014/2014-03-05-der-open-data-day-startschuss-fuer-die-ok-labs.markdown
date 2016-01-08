@@ -1,11 +1,8 @@
 ---
 author: Fiona Krakenbuerger
-categories:
-- Featured
 date: 2014-03-05 14:56:10
 image:
   src: /files/blog/2014/03/IMG_3462_crop.jpg
-  title: IMG_3462_crop
 layout: post
 published: true
 status: publish

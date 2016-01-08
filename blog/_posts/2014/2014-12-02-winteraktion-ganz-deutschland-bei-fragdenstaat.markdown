@@ -1,12 +1,8 @@
 ---
 author: Arne Semsrott
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2014-12-02 16:44:59
 image:
   src: https://fragdenstaat.de/static/img/kampagnen/2014/xmas/boehrnsen.png
-  title: ''
 layout: post
 published: true
 status: publish

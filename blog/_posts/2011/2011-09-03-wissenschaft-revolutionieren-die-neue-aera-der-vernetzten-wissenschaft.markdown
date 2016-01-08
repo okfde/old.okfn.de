@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2011-09-03 05:30:40
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Termine
 title: 'Wissenschaft revolutionieren: die neue Ära der vernetzten Wissenschaft'
 type: post
 

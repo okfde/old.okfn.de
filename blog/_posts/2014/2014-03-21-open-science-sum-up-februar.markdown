@@ -1,18 +1,15 @@
 ---
 author: Julia Kloiber
-categories:
-- Featured
-- offene Daten
-- offenes Wissen
 date: 2014-03-21 13:47:03
 image:
   src: /files/blog/2014/03/header-21.jpg
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
 - Ethik
+- offene Daten
+- offenes Wissen
 - Open Access
 - Open Data
 - Open Science

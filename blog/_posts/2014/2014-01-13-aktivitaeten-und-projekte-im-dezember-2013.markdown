@@ -1,17 +1,13 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- Monatsrückblick
-- Open Knowledge Foundation
 date: 2014-01-13 09:00:08
 image:
   src: /files/blog/2013/12/2014-01-09-09.42.15-415x311.jpg
-  title: ''
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Monatsrückblick
 title: Aktivitäten und Projekte im Dezember 2013
 type: post
 

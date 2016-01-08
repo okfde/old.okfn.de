@@ -1,12 +1,8 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2014-05-15 09:49:03
 image:
   src: /files/blog/2014/05/wepromise_cover-415x203.png
-  title: wepromise_cover
 layout: post
 published: true
 status: publish

@@ -1,8 +1,5 @@
 ---
 author: Christian Kreutz
-categories:
-- Deutschland
-- Open Knowledge Foundation
 date: 2011-08-25 12:25:54
 layout: post
 published: true

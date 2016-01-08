@@ -1,17 +1,14 @@
 ---
 author: Bela Seeger
-categories:
-- Featured
-- Open Knowledge Foundation
-- Transparenz
 date: 2015-01-15 10:50:47
 image:
   src: /files/blog/2015/01/Politik-Bei-Uns-Logo-medium.png
-  title: Politik Bei Uns Logo medium
+  title: Politik Bei Uns Logo
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Transparenz
 title: Offenes Ratsinformationssystem 2.0 macht Politik vor Ort transparenter
 type: post
 

@@ -1,12 +1,11 @@
 ---
 author: Hauke Gierow
-categories:
-- offene Daten
 date: 2012-04-02 10:06:45
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Datenkataloge
 - Infrastruktur
 - Open Data

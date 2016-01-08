@@ -1,17 +1,14 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- Open Knowledge Foundation
-- Termine
 date: 2013-10-09 05:35:10
 image:
   src: /files/blog/2013/10/OKConBanner1.png
-  title: OKConBanner
+  title: OKCon Banner
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Community
 - Europe
 - Events

@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
 date: 2015-03-06 12:41:08
 image:
   src: /files/blog/2015/03/dh-summit-2015-312x415.jpg

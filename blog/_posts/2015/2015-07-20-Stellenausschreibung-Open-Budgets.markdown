@@ -1,7 +1,5 @@
 ---
 author: Fiona Krakenbuerger
-categories:
-- Featured 
 date: 2015-07-20 12:00
 image:
   src: /files/blog/2015/07/jobs.jpg
@@ -10,7 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
-- OER
+- Jobs
 title: Junior Researcher/Journalist für OpenBudgets.EU gesucht
 type: post
 

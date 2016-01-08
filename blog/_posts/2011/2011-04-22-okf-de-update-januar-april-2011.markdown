@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Open Knowledge Foundation
 date: 2011-04-22 16:29:31
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Knowledge Foundation
 title: OKF DE Update Januar, Februar, März, April  2011
 type: post
 

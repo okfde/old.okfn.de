@@ -1,15 +1,13 @@
 ---
 author: Friedrich Lindenberg
-categories:
-- Open Knowledge Foundation
 date: 2012-05-11 06:56:03
 image:
   src: /files/blog/2012/05/Screen-Shot-2012-04-24-at-11.11.13-PM-300x182.png
-  title: ''
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Offenes Parlament
 title: OffenesParlament - was passiert im Bundestag?
 type: post
 

@@ -1,9 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- Open Knowledge Foundation
-- Transparenz
 date: 2013-06-18 13:41:00
 image:
   src: /files/blog/2013/06/census-laender-1.png

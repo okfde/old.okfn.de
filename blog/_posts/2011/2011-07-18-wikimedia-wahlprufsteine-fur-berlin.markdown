@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Deutschland
 date: 2011-07-18 08:13:18
 layout: post
 published: true
 status: publish
 tags:
+- Deutschland
 - Berlin
 title: 'Wikimedia: Wahlprüfsteine für Berlin'
 type: post

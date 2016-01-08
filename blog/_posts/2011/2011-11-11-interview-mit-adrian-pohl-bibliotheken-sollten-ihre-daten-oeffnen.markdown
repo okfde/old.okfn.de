@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- offenes Wissen
-- Open Knowledge Foundation
 date: 2011-11-11 21:37:15
 layout: post
 published: true

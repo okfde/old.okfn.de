@@ -1,7 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2011-06-18 10:31:45
 image:
   src: /files/blog/2011/06/okcon2010-1.png

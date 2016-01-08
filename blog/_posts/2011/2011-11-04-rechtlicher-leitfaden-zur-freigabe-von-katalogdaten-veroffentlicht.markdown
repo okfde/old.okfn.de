@@ -1,7 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Deutschland
 date: 2011-11-04 07:00:44
 layout: post
 published: true

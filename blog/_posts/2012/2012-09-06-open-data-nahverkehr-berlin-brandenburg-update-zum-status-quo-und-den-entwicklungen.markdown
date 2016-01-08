@@ -1,7 +1,5 @@
 ---
 author: Julia Kloiber
-categories:
-- Open Knowledge Foundation
 date: 2012-09-06 14:21:42
 layout: post
 published: true

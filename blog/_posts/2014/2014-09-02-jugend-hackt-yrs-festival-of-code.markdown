@@ -1,8 +1,5 @@
 ---
 author: Maximilian Heimstädt
-categories:
-- Deutschland
-- offene Daten
 date: 2014-09-02 10:59:31
 image:
   src: /files/blog/2014/09/Untitled1.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Festival of Code
 - Jugend hackt
 - Lets Combine

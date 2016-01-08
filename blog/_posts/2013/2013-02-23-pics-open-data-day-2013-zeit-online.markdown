@@ -1,8 +1,5 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Termine
 date: 2013-02-23 14:46:52
 image:
   src: /files/blog/2013/02/ODD1.jpg
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Hackday
 - Open Data
 - open data day

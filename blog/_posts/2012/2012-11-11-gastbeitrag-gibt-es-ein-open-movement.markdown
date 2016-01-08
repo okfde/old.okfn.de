@@ -1,12 +1,11 @@
 ---
 author: Christian Heise
-categories:
-- Positionen
 date: 2012-11-11 15:31:12
 layout: post
 published: true
 status: publish
 tags:
+- Positionen
 - Open Data
 title: 'Gastbeitrag: Gibt es ein "Open Movement"?'
 type: post

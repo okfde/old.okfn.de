@@ -1,12 +1,8 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-02-08 22:16:42
 image:
   src: /files/blog/2013/02/Screen-Shot-2013-02-13-at-10.34.50.png
-  title: Screen Shot 2013-02-13 at 10.34.50
 layout: post
 published: true
 status: publish

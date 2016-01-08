@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Veranstaltung
-- Open Science
 date: 2015-09-16 10:42:49
 image:
   src: /files/blog/2015/04/AG_Open_Science.png
@@ -11,7 +7,9 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Veranstaltung
+- Open Science
 title: "Open Science Call 9/15: Suchmaschine für Open-Access Inhalte, Opening up Science in Hamburg, Rückblick Chaos Communication Camp und vieles mehr"
 type: post
 ---

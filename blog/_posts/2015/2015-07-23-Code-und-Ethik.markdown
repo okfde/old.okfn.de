@@ -1,7 +1,5 @@
 ---
 author: Paula Glaser
-categories:
-- Featured
 date: 2015-07-23 17:00
 image:
   src: http://medialepfade.de/wp-content/uploads/2015/07/codeundethik.jpg
@@ -9,11 +7,9 @@ layout: post
 published: true
 status: publish
 tags:
-- code literacy
+- Code Literacy
 title: Code+Ethik=<3
-
 type: post
-
 ---
 "Seit zwei Jahren wissen wir, dass Geheimdienste alles über uns wissen. Seit einem Jahr sind Programmierlernbefürworter an allen Ecken anzutreffen. Und 2015? Müssen wir endlich darüber sprechen, dass Code ohne Ethik wertlos ist. Der Talk will die Motivation hinter der derzeit angesagten Forderung nach „Programmieren als Pflichtfach“ sezieren, einen Blick auf aktuelle Lehrpläne der Informatik werfen und außerschulische Orte für Programmierwillige vorstellen."
 

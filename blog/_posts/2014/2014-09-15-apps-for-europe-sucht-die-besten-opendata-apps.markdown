@@ -1,16 +1,13 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- offene Daten
 date: 2014-09-15 15:43:02
 image:
   src: /files/blog/2013/12/a4e_logo.png
-  title: a4e_logo
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Apps
 - Apps4EU
 - Europe

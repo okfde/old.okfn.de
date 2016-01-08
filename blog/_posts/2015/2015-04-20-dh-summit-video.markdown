@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- DARIAH-DE
-- Open Science
 date: 2015-04-20 12:42:49
 image:
   src: /files/blog/2015/04/dhsummit-2015-Slide.png
@@ -11,7 +7,9 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- DARIAH-DE
+- Open Science
 title: "Digitale Geisteswissenschaften: Video zum DH Summit 2015"
 type: post
 

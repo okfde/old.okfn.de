@@ -1,8 +1,5 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-08-05 11:29:41
 image:
   src: /files/blog/2013/08/StromnetzBerlin-150x150.jpg

@@ -1,7 +1,5 @@
 ---
 author: Martin Koll
-categories:
-- Open Knowledge Foundation
 date: 2013-05-14 12:01:42
 image:
   src: /files/blog/2013/05/banks-thumb-150x150.jpg
@@ -21,8 +19,6 @@ tags:
 - VBB
 title: Newsletter OKF DE April 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**

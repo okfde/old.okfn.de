@@ -1,12 +1,9 @@
 ---
 author: Maria Reimer
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-07-19 15:22:19
 image:
   src: /files/blog/2013/07/jugendhackt_banner.jpg
-  title: jugendhackt_banner
+  title: Jugendhackt Banner
 layout: post
 published: true
 status: publish

@@ -1,8 +1,5 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Termine
 date: 2013-02-19 10:37:41
 image:
   src: /files/blog/2013/02/Open-Data-Day1.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - frag den staat
 - Open Data
 - open data city

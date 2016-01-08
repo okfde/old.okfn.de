@@ -1,15 +1,14 @@
 ---
 author: Arne Semsrott
-categories:
-- Transparenz
 date: 2015-02-18 17:39:56
 image:
   src: https://fragdenstaat.de/static/img/folders.jpg?bade1f7d0bb6
-  title: DH-Summit-SlideNEU
+  title: DH-Summit-Slide
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Transparenz
 title: Gemeinsam für mehr Informationsfreiheit
 type: post
 

@@ -1,7 +1,5 @@
 ---
 author: Hauke Gierow
-categories:
-- Open Knowledge Foundation
 date: 2011-11-17 10:58:35
 layout: post
 published: true

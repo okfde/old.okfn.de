@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2012-01-04 09:45:01
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Konferenz
 - LAPSI
 - Open Data

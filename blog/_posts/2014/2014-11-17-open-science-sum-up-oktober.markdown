@@ -1,8 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
-- Open Science
+author: Stefan Kasberger
 date: 2014-11-17 16:21:40
 image:
   src: http://openscienceasap.org/wp-content/uploads/2014/11/flu-genome-data-visualizer-580x326.png
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
 title: Open Science Sum-Up Oktober
 type: post
 

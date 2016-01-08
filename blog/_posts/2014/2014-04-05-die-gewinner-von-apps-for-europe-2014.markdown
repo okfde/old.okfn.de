@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- offene Daten
 date: 2014-04-05 09:47:39
 image:
   src: /files/blog/2014/04/FE13_Overview_064_web.jpg
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Apps4EU
 - Business Lounge
 - Open Data

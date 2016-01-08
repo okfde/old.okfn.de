@@ -1,8 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
-- Open Science
+author: Stefan Kasberger
 date: 2014-06-20 15:19:22
 image:
   src: http://openscienceasap.org/wp-content/uploads/2014/06/ZomeBall-e1402654725445-580x343.jpg
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
 title: Open Science Sum-Up Mai
 type: post
 

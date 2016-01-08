@@ -1,11 +1,9 @@
 ---
 author: Arne Semsrott
-categories:
-- Featured
 date: 2015-06-03 11:42
 image:
   src: https://netzpolitik.org/wp-upload/2111661914_047d8ca339_z-300x177.jpg
-  title: CC BY 2.0 via flickr/matze_ott
+  licence: CC BY 2.0 via flickr/matze_ott
 layout: post
 published: true
 status: publish

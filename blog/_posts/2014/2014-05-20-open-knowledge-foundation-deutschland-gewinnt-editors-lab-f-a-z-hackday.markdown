@@ -1,12 +1,8 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2014-05-20 08:40:30
 image:
   src: /files/blog/2014/05/okfn_global_editors_forum_faz_JPEG.jpg
-  title: okfn_global_editors_forum_faz_JPEG
 layout: post
 published: true
 status: publish

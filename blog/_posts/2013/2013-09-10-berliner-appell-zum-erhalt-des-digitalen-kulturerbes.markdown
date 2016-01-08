@@ -1,13 +1,12 @@
 ---
 author: Daniel Dietrich
-categories:
-- offenes Wissen
 date: 2013-09-10 14:41:26
 layout: post
 published: true
 status: publish
 tags:
 - Gedächtnisorganisation
+- offenes Wissen
 - kulturelles Erbe
 - Langzeitarchivierung
 - offenes Wissen

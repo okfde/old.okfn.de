@@ -1,20 +1,16 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offene Daten
-- Positionen
 date: 2013-06-19 12:37:08
 image:
   src: /files/blog/2013/06/charta_open_data_okf.png
-  title: charta_open_data_okf
 layout: post
 published: true
 status: publish
 tags:
+- Positionen
 - G8
 - Open Data
+- offene Daten
 - Open Data Charter
 title: '"Open is the new normal": G8-Mitglieder zeichnen Open Data Charter'
 type: post

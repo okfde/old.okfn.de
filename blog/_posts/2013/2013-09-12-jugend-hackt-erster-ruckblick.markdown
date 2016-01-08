@@ -1,17 +1,13 @@
 ---
 author: Maria Reimer
-categories:
-- Featured
-- offene Daten
-- Open Knowledge Foundation
 date: 2013-09-12 14:56:28
 image:
   src: /files/blog/2013/09/jugendhackt031.jpg
-  title: jugendhackt03
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Daten
 title: Jugend hackt - erster Rückblick
 type: post
 

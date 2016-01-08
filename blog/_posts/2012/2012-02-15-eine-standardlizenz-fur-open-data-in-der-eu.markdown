@@ -1,7 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- offene Daten
 date: 2012-02-15 11:03:10
 layout: post
 published: true

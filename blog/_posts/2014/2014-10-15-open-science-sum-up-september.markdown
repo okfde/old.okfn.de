@@ -1,8 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
-- Open Science
+author: Stefan Kasberger
 date: 2014-10-15 14:37:48
 image:
   src: http://openscienceasap.org/wp-content/uploads/2014/10/DataLibrary-580x370.jpg
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
 title: Open Science Sum-Up September
 type: post
 

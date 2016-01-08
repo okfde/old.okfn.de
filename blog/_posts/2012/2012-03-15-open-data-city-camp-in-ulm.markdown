@@ -1,7 +1,5 @@
 ---
 author: Hauke Gierow
-categories:
-- offene Daten
 date: 2012-03-15 12:29:51
 layout: post
 published: true

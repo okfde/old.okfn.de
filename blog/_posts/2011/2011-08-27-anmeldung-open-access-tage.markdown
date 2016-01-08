@@ -1,13 +1,12 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2011-08-27 08:56:19
 layout: post
 published: true
 status: publish
 tags:
 - Open Access
+- Termine
 title: Anmeldung Open-Access-Tage
 type: post
 

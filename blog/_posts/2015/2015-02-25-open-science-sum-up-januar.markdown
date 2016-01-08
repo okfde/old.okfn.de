@@ -1,8 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
-- Open Science
+author: Stefan Kasberger
 date: 2015-02-25 09:03:34
 image:
   src: http://openscienceasap.org/wp-content/uploads/2015/02/MetOfficeClimateData-580x580.png
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
 title: Open Science Sum-Up Januar
 type: post
 

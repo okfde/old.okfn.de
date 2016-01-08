@@ -1,14 +1,12 @@
 ---
 author: Daniel Dietrich
-categories:
-- Deutschland
-- Open Knowledge Foundation
 date: 2011-07-15 10:39:10
 layout: post
 published: true
 status: publish
 tags:
 - Berlin
+- Deutschland
 - Open Aid
 - Open Data
 - Open Knowledge

@@ -1,13 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2010-08-28 10:18:54
 layout: post
 published: true
 status: publish
 tags:
-- OKFN
+- Termine
 - Open Data
 - Open Knowledge
 title: Open Government Data Camp 2010

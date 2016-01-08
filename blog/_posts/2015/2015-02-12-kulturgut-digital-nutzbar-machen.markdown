@@ -1,10 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- Deutschland
-- Featured
-- offene Kultur
-- Termine
 image:
   src: /static/images/projects/codingdavinci.jpg
   title: Coding da Vinci
@@ -12,7 +7,9 @@ date: 2015-02-12 19:44:45
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Kultur
+- Termine
 title: Kulturgut digital nutzbar machen
 type: post
 

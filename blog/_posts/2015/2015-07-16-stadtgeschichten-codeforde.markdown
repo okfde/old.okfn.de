@@ -1,8 +1,5 @@
 ---
 author: Eileen Wagner
-categories:
-- Featured 
-- Open Data
 date: 2015-07-16 12:00
 image:
   src: http://codefor.de/assets/blog/stadtgeschichten.png
@@ -11,11 +8,10 @@ layout: post
 published: true
 status: publish
 tags:
+- Open Data
 - OER
 title: Die neuen Stadtgeschichten bei Code for Germany
-
 type: post
-
 ---
 Code for Germany ist ein Projekt der Open Knowledge Foundation Deutschland, das seit Februar 2014 AktivistInnen zusammenbringt, die mit offenen Daten interessante und wichtige Anwendungen entwickeln. Manche Projekte ermöglichen mehr Bürgerbeteiligung, andere schaffen Transparenz, und wiederum andere helfen im Alltag. Bisher konnte man ihre Arbeit auf der <a href="http://codefor.de/projekte/">Website</a> verfolgen. Nun gibt es einen Blick hinter die Kulissen.
 

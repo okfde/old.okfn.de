@@ -1,16 +1,14 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Termine
 date: 2013-04-12 10:22:36
 image:
   src: /files/blog/2013/04/ZugangGestalten.jpg
-  title: ZugangGestalten
+  title: Zugang Gestalten
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Konferenz
 - offenes Wissen

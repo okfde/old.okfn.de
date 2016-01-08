@@ -1,7 +1,5 @@
 ---
 author: Arne Semsrott
-categories:
-- Featured
 date: 2015-09-11 16:20:56
 image:
   src: /files/blog/2015/09/fragdenstaat_square.png

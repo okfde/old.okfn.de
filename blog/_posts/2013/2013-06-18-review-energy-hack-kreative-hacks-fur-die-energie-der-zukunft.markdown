@@ -1,8 +1,5 @@
 ---
 author: Julia Kloiber
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-06-18 16:29:22
 image:
   src: /files/blog/2013/06/SSmfH3ZSR-9Vs71KVPwKEkwdj5W4RJGS9NSs6nJfqE8.jpg

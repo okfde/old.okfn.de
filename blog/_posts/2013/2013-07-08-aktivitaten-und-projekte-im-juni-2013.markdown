@@ -1,8 +1,5 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-07-08 08:16:37
 image:
   src: /files/blog/2013/07/open_data_census.jpg
@@ -28,8 +25,6 @@ tags:
 - PublicDomainRemix
 title: Aktivitäten und Projekte im Juni 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 

@@ -1,12 +1,8 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Transparenz
 date: 2015-03-06 18:20:56
 image:
   src: /files/blog/2015/03/Screen-Shot-2015-03-06-at-17.58.44.png
-  title: Screen Shot 2015-03-06 at 17.58.44
 layout: post
 published: true
 status: publish

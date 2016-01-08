@@ -1,11 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- offene Daten
-- Open Knowledge Foundation
-- Positionen
-- Transparenz
 date: 2014-04-04 13:43:04
 image:
   src: /files/blog/2014/04/effstaat.jpg
@@ -17,6 +11,9 @@ tags:
 - Behörden
 - Berlin
 - Community
+- offene Daten
+- Positionen
+- Transparenz
 - offene Daten
 - Transparenz
 title: 'Effizienter Staat 2014: Offene Daten und transparentes Regierungshandeln in der Verwaltungsrealität'

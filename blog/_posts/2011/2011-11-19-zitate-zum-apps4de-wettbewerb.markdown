@@ -1,13 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- offene Daten
-- Open Knowledge Foundation
 date: 2011-11-19 07:00:41
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Apps4DE
 - Deutschland
 - Open Data

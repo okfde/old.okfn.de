@@ -1,7 +1,5 @@
 ---
 author: Jan Brennenstuhl
-categories:
-- offene Daten
 date: 2013-06-24 09:28:41
 image:
   src: /files/blog/2013/06/interactive-cologne-2013.jpg
@@ -10,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Interactive Cologne
 - Köln
 - Nahverkehr

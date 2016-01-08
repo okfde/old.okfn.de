@@ -1,15 +1,13 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2013-03-25 11:04:12
 image:
   src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-12.00.11.png
-  title: Screen Shot 2013-03-25 at 12.00.11
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Hackidemia
 - Open Education

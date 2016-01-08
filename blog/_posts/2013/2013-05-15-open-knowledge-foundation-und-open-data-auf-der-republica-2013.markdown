@@ -1,7 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Open Knowledge Foundation
 date: 2013-05-15 11:30:00
 layout: post
 published: true

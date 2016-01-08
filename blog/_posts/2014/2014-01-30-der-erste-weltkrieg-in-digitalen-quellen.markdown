@@ -1,10 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- offene Kultur
-- offenes Wissen
-- Termine
 date: 2014-01-30 19:07:13
 image:
   src: /files/blog/2014/01/1149.8198.original-260x415.jpg
@@ -12,7 +7,10 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Kultur
+- offenes Wissen
+- Termine
 title: Der Erste Weltkrieg in digitalen Quellen
 type: post
 

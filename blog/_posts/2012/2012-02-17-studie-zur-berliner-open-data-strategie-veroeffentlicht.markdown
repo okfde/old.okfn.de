@@ -1,13 +1,12 @@
 ---
 author: Daniel Dietrich
-categories:
-- offene Daten
 date: 2012-02-17 08:00:42
 layout: post
 published: true
 status: publish
 tags:
 - Berlin
+- offene Daten
 - Deutschland
 - Open Data
 - Open Government

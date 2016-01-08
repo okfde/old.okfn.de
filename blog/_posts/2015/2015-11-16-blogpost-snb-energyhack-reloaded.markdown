@@ -1,8 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- offene Daten
-- Hackday
 date: 2015-11-16 10:00:00
 image:
   src: /files/blog/2015/11/ehr-intro.jpg
@@ -10,6 +7,8 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
+- Hackday
 - offene Energiedaten
 - Energieversorgung
 - Deutschland

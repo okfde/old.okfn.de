@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-09-09 11:07:24
 image:
   src: /files/blog/2013/09/Screen-Shot-2013-09-09-at-13.53.02.png

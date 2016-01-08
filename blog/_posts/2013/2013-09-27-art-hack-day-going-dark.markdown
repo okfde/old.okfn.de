@@ -1,15 +1,14 @@
 ---
 author: Helene Hahn
-categories:
-- Open Knowledge Foundation
 date: 2013-09-27 12:17:26
 image:
   src: /files/blog/2013/09/Art_Hack_Day_Berlin_28Spt13_GoingDark-415x415.jpg
-  title: ''
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Hackday
+- Termine
 title: Art Hack Day - "Going Dark"
 type: post
 

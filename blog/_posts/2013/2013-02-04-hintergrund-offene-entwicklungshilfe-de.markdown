@@ -1,8 +1,5 @@
 ---
 author: Christian Kreutz
-categories:
-- Featured
-- Transparenz
 date: 2013-02-04 05:36:45
 image:
   src: /files/blog/2013/02/indikatoren.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Transparenz
 - offene Entwicklungshilfe
 - OKF Deutschland
 - Open Aid

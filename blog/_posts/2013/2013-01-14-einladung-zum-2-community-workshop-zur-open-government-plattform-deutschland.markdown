@@ -1,16 +1,13 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Termine
 date: 2013-01-14 11:31:17
 image:
   src: /files/blog/2013/01/OGDP.png
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Behörden
 - Deutschland
 - offene Daten

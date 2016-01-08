@@ -1,12 +1,8 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- offenes Wissen
 date: 2013-10-04 11:46:27
 image:
   src: /files/blog/2013/10/open_access_tage_hamburg.jpg
-  title: open_access_tage_hamburg
 layout: post
 published: true
 status: publish

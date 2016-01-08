@@ -1,15 +1,13 @@
 ---
 author: Eva Panek
-categories:
-- Termine
 date: 2013-01-07 10:30:15
 image:
   src: /files/blog/2013/01/Raumschiff-Erde.png
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Events
 - Open Data
 - Open Innovation

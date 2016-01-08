@@ -1,12 +1,11 @@
 ---
 author: Friedrich Lindenberg
-categories:
-- Open Knowledge Foundation
 date: 2012-05-30 08:21:59
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Meetup
 title: 'OKF in Berlin: Meetup diesen Samstag!'
 type: post
 

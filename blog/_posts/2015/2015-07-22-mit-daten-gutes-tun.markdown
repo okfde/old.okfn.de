@@ -1,7 +1,5 @@
 ---
-author: Tobias Pfaff (Gastbeitrag)
-categories:
-- Featured
+author: Tobias Pfaff
 date: 2015-07-22 16:00
 image:
   src: /files/blog/2015/07/open-impact.png
@@ -10,11 +8,9 @@ layout: post
 published: true
 status: publish
 tags:
-- opendata
-title: "#openimpact: 10 Projekte, die mit Daten Gutes tun"
-
+- Open Data
+title: "Gastbeitrag - #openimpact: 10 Projekte, die mit Daten Gutes tun"
 type: post
-
 ---
 Lange wurden die gesellschaftlichen Vorteile der Weiter- und Wiederverwendung offener Daten beschworen – beim ersten #openimpact marathon von datalook.io habt ihr bis zum 31. August die Möglichkeit zu zeigen, wie konkrete soziale Projekte mit offenen Daten weiter genutzt und diese ihre Wirkung erneut entfalten können.
 

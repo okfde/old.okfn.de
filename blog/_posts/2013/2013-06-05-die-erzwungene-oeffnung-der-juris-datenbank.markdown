@@ -1,12 +1,8 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- Transparenz
 date: 2013-06-05 12:30:05
 image:
   src: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Verwaltungsgerichtshof_%28VGH%29_Baden-W%C3%BCrttemberg.JPG/800px-Verwaltungsgerichtshof_%28VGH%29_Baden-W%C3%BCrttemberg.JPG
-  title: ''
 layout: post
 published: true
 status: publish

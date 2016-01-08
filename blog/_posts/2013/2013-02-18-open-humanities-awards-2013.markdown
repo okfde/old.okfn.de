@@ -1,12 +1,8 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-02-18 18:27:08
 image:
   src: /files/blog/2013/02/OpenHumanitiesAwards.png
-  title: OpenHumanitiesAwards
 layout: post
 published: true
 status: publish

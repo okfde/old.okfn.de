@@ -1,13 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Deutschland
-- Termine
 date: 2011-11-03 10:51:33
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Open Education
 - P2P

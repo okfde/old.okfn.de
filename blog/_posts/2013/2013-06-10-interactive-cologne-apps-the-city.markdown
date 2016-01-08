@@ -1,8 +1,5 @@
 ---
 author: Jan Brennenstuhl
-categories:
-- Featured
-- Termine
 date: 2013-06-10 08:29:17
 image:
   src: /files/blog/2013/06/interactive-cologne.jpg
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Interactive Cologne
 - Köln
 - Nahverkehr

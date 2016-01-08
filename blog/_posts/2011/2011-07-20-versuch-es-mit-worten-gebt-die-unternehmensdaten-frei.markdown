@@ -1,12 +1,11 @@
 ---
 author: Friedrich Lindenberg
-categories:
-- Open Knowledge Foundation
 date: 2011-07-20 06:20:00
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Data
 title: 'Versuch es mit Worten: Gebt die Unternehmensdaten frei!'
 type: post
 

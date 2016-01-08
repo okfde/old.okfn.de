@@ -1,13 +1,12 @@
 ---
 author: Daniel Dietrich
-categories:
-- Open Knowledge Foundation
-- Termine
 date: 2011-08-30 06:05:25
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Knowledge Foundation
+- Termine
 title: Konferenz Netz für Alle
 type: post
 

@@ -1,17 +1,13 @@
 ---
 author: Helene Hahn
-categories:
-- Deutschland
-- Featured
-- offene Kultur
 date: 2014-07-28 12:22:50
 image:
   src: /files/blog/2014/07/IMAG0174.jpg
-  title: ''
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Kultur
 title: OpenGLAM Workshop Review
 type: post
 

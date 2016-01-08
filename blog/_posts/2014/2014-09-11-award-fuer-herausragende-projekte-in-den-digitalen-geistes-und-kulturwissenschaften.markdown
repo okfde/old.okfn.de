@@ -1,17 +1,13 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offenes Wissen
 date: 2014-09-11 11:02:39
 image:
   src: /files/blog/2014/09/dh-award-logo-415x231.png
-  title: dh-award-logo
 layout: post
 published: true
 status: publish
 tags:
+- offenes Wissen
 - DARIAH
 title: Award für herausragende Projekte in den digitalen Geistes- und Kulturwissenschaften
 type: post

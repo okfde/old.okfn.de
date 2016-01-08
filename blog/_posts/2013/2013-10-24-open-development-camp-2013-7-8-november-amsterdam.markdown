@@ -1,15 +1,14 @@
 ---
 author: Daniel Dietrich
-categories:
-- offene Daten
 date: 2013-10-24 16:57:52
 image:
   src: /files/blog/2013/10/banner_odc.png
-  title: banner_odc
+  title: odc Banner
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Community
 - Konferenz
 - OKF Deutschland

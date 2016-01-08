@@ -1,13 +1,12 @@
 ---
 author: Eva Panek
-categories:
-- Transparenz
 date: 2013-01-07 11:25:35
 layout: post
 published: true
 status: publish
 tags:
 - frag den staat
+- Transparenz
 - Informationsfreiheit
 - Open Data
 title: Neues von Frag den Staat

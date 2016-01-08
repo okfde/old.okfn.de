@@ -1,12 +1,8 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-06-07 06:28:18
 image:
   src: /files/blog/2013/06/horse_rain.jpg
-  title: banks-thumb
 layout: post
 published: true
 status: publish

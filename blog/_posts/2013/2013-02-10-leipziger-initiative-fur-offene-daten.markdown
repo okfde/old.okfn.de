@@ -1,7 +1,5 @@
 ---
 author: Hans-Gert Gräbe
-categories:
-- Open Knowledge Foundation
 date: 2013-02-10 09:12:06
 layout: post
 published: true

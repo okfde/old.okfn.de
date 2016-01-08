@@ -1,15 +1,13 @@
 ---
 author: Christian Heise
-categories:
-- Featured
 date: 2015-05-25 18:11
 image:
   src: http://farm4.staticflickr.com/3752/9075252444_43b30267fa_c.jpg
-  title: 
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Veranstaltung
 title: "Podiumsdiskussion: Der G7 Gipfel und Open Government Data"
 type: post
 ---

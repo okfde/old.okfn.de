@@ -1,8 +1,5 @@
 ---
 author: Stefan Baack
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-04-15 14:48:33
 image:
   src: /files/blog/2013/04/Mindmap_mindnode-05.04.13-415x183.png

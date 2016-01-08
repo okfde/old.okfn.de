@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Open Knowledge Foundation
 date: 2011-02-27 10:25:02
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Knowledge Foundation
 title: OKFN DE als gemeinnützige Organisation gegründet
 type: post
 

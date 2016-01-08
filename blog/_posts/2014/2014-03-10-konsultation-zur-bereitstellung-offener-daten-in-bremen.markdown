@@ -1,8 +1,5 @@
 ---
 author: Fiona Krakenbuerger
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2014-03-10 09:57:19
 image:
   src: /files/blog/2014/03/4323732956_7d458bcd47-415x276.jpg

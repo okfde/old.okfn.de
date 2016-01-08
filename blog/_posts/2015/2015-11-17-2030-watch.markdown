@@ -1,9 +1,5 @@
 ---
 author: Johanna zum Felde
-categories:
-- Featured
-- SDG
-- Open Knowledge
 date: 2015-11-17 12:00:56
 image:
   src: /files/blog/2015/11/2030-Watch.png
@@ -12,6 +8,7 @@ published: true
 status: publish
 tags:
 - Bildung
+- SDG
 - Transparenz
 title: "Klimaneutral und garantiert malariafrei: Das neue OKF DE Projekt 2030-Watch"
 type: post

@@ -1,21 +1,17 @@
 ---
 author: Helene Hahn
-categories:
-- Deutschland
-- Featured
-- offene Kultur
-- Open Knowledge Foundation
 date: 2014-05-07 08:44:20
 image:
   src: /files/blog/2014/05/Coding_da_Vinci_Kultur_Hackathon_grafic_recording3.jpg
-  title: Coding_da_Vinci_Kultur_Hackathon_grafic_recording
 layout: post
 published: true
 status: publish
 tags:
 - Berlin
 - Kultur-Hackathon
-- opendata
+- Deutschland
+- offene Kultur
+- Open Data
 - OpenGLAM
 title: Coding da Vinci - Kultur-Hackathon geht in die erste Runde
 type: post

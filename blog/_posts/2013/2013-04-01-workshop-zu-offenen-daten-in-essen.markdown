@@ -1,13 +1,12 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2013-04-01 17:17:53
 layout: post
 published: true
 status: publish
 tags:
 - Deutschland
+- Termine
 - offene Daten
 - Workshop
 title: Workshop zu offenen Daten in Essen

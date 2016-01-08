@@ -1,7 +1,5 @@
 ---
 author: Paula Glaser
-categories:
-- Featured 
 date: 2015-06-23 16:00
 image:
   src: http://jugendhackt-de.okblogfarm.org/files/2015/06/18213770873_f971c106c7_z.jpg

@@ -1,9 +1,5 @@
 ---
 author: Julia Kloiber
-categories:
-- Featured
-- offene Daten
-- Open Knowledge Foundation
 date: 2014-02-27 10:03:27
 image:
   src: /files/blog/2014/02/profilbild.png
@@ -12,12 +8,13 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - civic tech
-- deutschlandweit
+- Deutschlandweit
 - Hackday
-- labs
+- Labs
 - Open Data
-- städte
+- Städte
 title: Hallo, Code for Germany
 type: post
 

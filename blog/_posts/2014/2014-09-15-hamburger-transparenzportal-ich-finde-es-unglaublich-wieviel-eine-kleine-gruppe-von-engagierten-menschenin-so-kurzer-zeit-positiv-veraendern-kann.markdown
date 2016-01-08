@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offene Daten
 date: 2014-09-15 10:54:28
 image:
   src: /files/blog/2014/09/hackmack-transparenz-hamburg.png
@@ -12,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Hamburg
 - HmbTG
 - Transparenz

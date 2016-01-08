@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2012-08-20 10:29:13
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Konferenz
 - Kulturgut

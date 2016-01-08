@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- offene Daten
 date: 2013-05-27 11:01:45
 image:
   src: /files/blog/2013/05/Too-Many-Silos.jpg

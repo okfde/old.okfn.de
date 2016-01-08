@@ -1,15 +1,12 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offenes Wissen
-- Open Science
 date: 2014-10-21 19:19:24
 layout: post
 published: true
 status: publish
 tags:
+- offenes Wissen
+- Open Science
 - Open Access
 title: Mission Statement der deutschsprachigen Open Science AG veröffentlicht
 type: post

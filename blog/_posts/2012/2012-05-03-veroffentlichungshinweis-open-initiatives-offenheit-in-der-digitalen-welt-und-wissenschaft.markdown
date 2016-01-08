@@ -1,12 +1,11 @@
 ---
 author: Ulrich Herb
-categories:
-- Open Knowledge Foundation
 date: 2012-05-03 19:16:19
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Initiatives
 title: 'Veröffentlichungshinweis: Open Initiatives - Offenheit in der digitalen Welt und Wissenschaft'
 type: post
 

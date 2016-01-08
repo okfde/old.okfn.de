@@ -1,13 +1,11 @@
 ---
 author: Hauke Gierow
-categories:
-- Open Knowledge Foundation
-- Termine
 date: 2012-05-31 11:39:42
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - BerlinerOpenDataDay
 - BODDy

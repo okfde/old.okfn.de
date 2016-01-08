@@ -1,10 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offene Daten
-- Positionen
 date: 2014-09-24 21:22:45
 image:
   src: /files/blog/2014/09/g8-aktions-plan-open-data-415x211.png
@@ -13,6 +8,8 @@ layout: post
 published: true
 status: publish
 tags:
+- offene Daten
+- Positionen
 - G7
 - G8
 - Open Data Charter

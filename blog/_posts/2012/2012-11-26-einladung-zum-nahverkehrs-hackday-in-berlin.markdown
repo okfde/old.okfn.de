@@ -1,8 +1,5 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2012-11-26 11:26:30
 layout: post
 published: true

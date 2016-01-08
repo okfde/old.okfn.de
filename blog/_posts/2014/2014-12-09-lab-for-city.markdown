@@ -1,18 +1,14 @@
 ---
 author: Bela Seeger
-categories:
-- Featured
-- offene Daten
-- Open Knowledge Foundation
-- Open Transport
 date: 2014-12-09 14:19:53
 image:
   src: /files/blog/2014/12/1782278_426589000821411_4511975776677165218_o-415x276.jpg
-  title: 1782278_426589000821411_4511975776677165218_o
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Transport
+- offene Daten
 title: Lab for CITY
 type: post
 

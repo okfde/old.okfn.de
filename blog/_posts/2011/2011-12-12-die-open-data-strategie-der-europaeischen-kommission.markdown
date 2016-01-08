@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- offene Daten
 date: 2011-12-12 11:32:29
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Europe
 - Lizenzen
 - Open Data

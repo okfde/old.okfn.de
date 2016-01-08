@@ -1,7 +1,5 @@
 ---
 author: Fiona Krakenbuerger
-categories:
-- Featured
 date: 2015-05-12 14:25
 image:
   src: /files/blog/2015/04/codeforde.jpg
@@ -9,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Jobs
 title: "Praktikum bei Code for Germany - Bewerbungsfrist verlängert"
 type: post
 ---

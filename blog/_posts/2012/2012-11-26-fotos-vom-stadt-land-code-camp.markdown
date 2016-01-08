@@ -1,12 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- Open Knowledge Foundation
 date: 2012-11-26 10:13:56
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Fotos
 title: Fotos vom Stadt Land Code-Camp
 type: post
 

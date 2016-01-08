@@ -1,8 +1,5 @@
 ---
 author: Arne Semsrott
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2014-12-19 15:56:21
 layout: post
 published: true

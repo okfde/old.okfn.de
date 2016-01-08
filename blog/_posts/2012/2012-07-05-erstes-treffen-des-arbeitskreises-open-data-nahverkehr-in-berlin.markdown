@@ -1,12 +1,11 @@
 ---
 author: Julia Kloiber
-categories:
-- Open Knowledge Foundation
 date: 2012-07-05 15:08:44
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Termine
 title: Erstes Treffen des Arbeitskreises "Open Data Nahverkehr" in Berlin
 type: post
 

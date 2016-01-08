@@ -1,8 +1,5 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Termine
 date: 2013-01-14 11:52:33
 image:
   src: /files/blog/2013/01/ePSI-conf.png
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Termine
 title: Einladung zur ePSIplatform Konferenz, 22. Feb. 2013
 type: post
 

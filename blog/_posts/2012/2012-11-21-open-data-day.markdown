@@ -1,12 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- offene Daten
 date: 2012-11-21 15:41:59
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Community
 - Hackday
 - Open Data

@@ -1,15 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
-- Termine
 date: 2013-01-02 14:30:53
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Termine
 title: 're:publica 2013: Call for Papers'
 type: post
 

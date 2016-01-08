@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- offenes Wissen
 date: 2012-05-10 06:41:43
 layout: post
 published: true
 status: publish
 tags:
+- offenes Wissen
 - Commons
 - COMMUNIA
 - Open Knowledge

@@ -1,9 +1,5 @@
 ---
 author: Bela Seeger
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-10-15 12:15:56
 image: 
   src: /files/blog/2015/10/snv_berlin.png
@@ -11,6 +7,8 @@ layout: post
 published: true
 status: publish
 tags:
+- Transparency
+- Open Government
 - Deutschland
 - Transparenz
 title: Einladung zum Workshop 'Offene Daten als Grundlage moderner Verwaltung' - Auftakt des Projekts „Open Data & Privacy“ 

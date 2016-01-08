@@ -1,8 +1,5 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Termine
 date: 2013-02-06 09:47:37
 image:
   src: /files/blog/2013/02/ERCAS1.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - IATI
 - Offene Entwicklungszusammenarbeit
 - Open Aid Data

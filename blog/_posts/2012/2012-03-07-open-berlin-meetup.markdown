@@ -1,12 +1,11 @@
 ---
 author: Hauke Gierow
-categories:
-- Open Knowledge Foundation
 date: 2012-03-07 15:43:43
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Data
 title: Open Berlin Meetup
 type: post
 

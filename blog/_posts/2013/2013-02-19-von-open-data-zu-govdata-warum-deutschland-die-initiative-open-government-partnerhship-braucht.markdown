@@ -1,8 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Transparenz
 date: 2013-02-19 09:16:19
 image:
   src: /files/blog/2013/02/Reichstag-415x276.jpg

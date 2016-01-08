@@ -1,7 +1,5 @@
 ---
 author: Claudia Schwegmann
-categories:
-- Featured 
 date: 2015-06-09 10:00
 image:
   src: /files/blog/2015/06/wordle-ausschreibung.jpg

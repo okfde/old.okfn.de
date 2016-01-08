@@ -1,16 +1,14 @@
 ---
 author: Christian Kreutz
-categories:
-- Deutschland
-- Open Knowledge Foundation
 date: 2011-10-17 09:35:08
 image:
   src: /files/blog/2011/10/german-oda-1024x517.png
-  title: ''
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Deutschland
+- Open Knowledge Foundation
 title: Rückblick Open Aid Data Hackday
 type: post
 

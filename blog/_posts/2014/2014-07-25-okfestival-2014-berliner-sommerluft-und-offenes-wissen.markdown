@@ -1,7 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
 date: 2014-07-25 11:45:09
 image:
   src: /files/blog/2014/07/OKFestival-2014-415x311.jpg

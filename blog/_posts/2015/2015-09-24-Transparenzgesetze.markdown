@@ -1,7 +1,5 @@
 ---
 author: Arne Semsrott
-categories:
-- Featured
 date: 2015-09-24 10:20:56
 image:
   src: /files/blog/2015/09/demo-transparent.jpg
@@ -10,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- IFG
 title: "Tag der Informationsfreiheit: Bündnis fordert landesweite Transparenzgesetze"
 type: post
 ---

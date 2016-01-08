@@ -1,18 +1,14 @@
 ---
 author: Bela Seeger
-categories:
-- Featured
-- offene Daten
-- Open Knowledge Foundation
-- Transparenz
 date: 2015-01-28 12:00:13
 image:
   src: /files/blog/2015/01/Screen-Shot-2015-01-27-at-11.09.49.png
-  title: Screen Shot 2015-01-27 at 11.09.49
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Daten
+- Transparenz
 title: Code for München launcht „München Transparent"
 type: post
 

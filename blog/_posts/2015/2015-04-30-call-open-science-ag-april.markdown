@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Veranstaltung
-- Open Science
 date: 2015-04-30 12:42:49
 image:
   src: /files/blog/2015/04/AG_Open_Science.png
@@ -11,7 +7,9 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
+- Veranstaltung
 title: "Rückblick: Monatlicher Open Science AG Call im April 2015"
 type: post
 ---

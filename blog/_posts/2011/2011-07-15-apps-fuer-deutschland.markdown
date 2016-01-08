@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Deutschland
-- Open Knowledge Foundation
 date: 2011-07-15 12:53:44
 layout: post
 published: true

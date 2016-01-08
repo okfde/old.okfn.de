@@ -1,12 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- Open Knowledge Foundation
 date: 2012-11-26 09:41:25
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Freie Software
 title: Enquete-Beteiligung
 type: post
 

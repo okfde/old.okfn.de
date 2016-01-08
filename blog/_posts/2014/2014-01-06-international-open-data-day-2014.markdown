@@ -1,18 +1,15 @@
 ---
 author: Julia Kloiber
-categories:
-- Featured
-- Open Knowledge Foundation
-- Termine
 date: 2014-01-06 11:28:07
 image:
   src: /files/blog/2014/01/OpenDataHackathonDay-Kopie.png
-  title: OpenDataHackathonDay Kopie
+  title: OpenDataHackathonDay
 layout: post
 published: true
 status: publish
 tags:
 - Event
+- Termine
 - Hackday
 - Open Data
 - Veranstaltung

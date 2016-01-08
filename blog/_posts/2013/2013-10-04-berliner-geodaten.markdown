@@ -1,8 +1,5 @@
 ---
 author: Martin Koll
-categories:
-- Deutschland
-- offene Daten
 date: 2013-10-04 12:48:10
 layout: post
 published: true
@@ -10,6 +7,8 @@ status: publish
 tags:
 - Behörden
 - Berlin
+- offene Daten
+- Deutschland
 - Geodaten
 - Lizenzen
 - Open Transport

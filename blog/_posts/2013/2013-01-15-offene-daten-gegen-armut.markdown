@@ -1,8 +1,5 @@
 ---
 author: Claudia Schwegmann
-categories:
-- Featured
-- Transparenz
 date: 2013-01-15 21:30:36
 image:
   src: /files/blog/2013/01/openaid.png
@@ -12,6 +9,7 @@ published: true
 status: publish
 tags:
 - IATI
+- Transparenz
 - offene Entwicklungshilfe
 - Open Aid
 - Open Data

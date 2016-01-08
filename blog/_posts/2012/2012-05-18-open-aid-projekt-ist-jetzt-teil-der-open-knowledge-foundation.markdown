@@ -1,12 +1,11 @@
 ---
 author: Hauke Gierow
-categories:
-- Open Knowledge Foundation
 date: 2012-05-18 08:33:32
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Aid
 title: Open Aid Projekt ist jetzt teil der Open Knowledge Foundation
 type: post
 

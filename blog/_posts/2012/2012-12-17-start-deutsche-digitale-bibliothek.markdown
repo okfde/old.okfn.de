@@ -1,9 +1,5 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- offenes Wissen
-- Open Knowledge Foundation
 date: 2012-12-17 11:34:33
 image:
   src: /files/blog/2012/12/Deutsche-Digi-Bib.png
@@ -11,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offenes Wissen
 title: Start Deutsche Digitale Bibliothek
 type: post
 

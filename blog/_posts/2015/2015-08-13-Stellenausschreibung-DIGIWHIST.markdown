@@ -1,7 +1,5 @@
 ---
 author: Mara Mendes
-categories:
-- Featured 
 date: 2015-08-14 12:00
 image:
   src: /files/blog/2015/07/digiwhist.jpg
@@ -11,6 +9,7 @@ published: true
 status: publish
 tags:
 - H2020
+- Jobs
 title: Front-end Developer (w/m) für DIGIWHIST gesucht
 type: post
 

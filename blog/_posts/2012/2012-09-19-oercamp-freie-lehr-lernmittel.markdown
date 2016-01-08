@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- offenes Wissen
-- Termine
 date: 2012-09-19 07:44:46
 image:
   src: /files/blog/2012/09/OERCamp_oben-300x207.png
@@ -11,7 +7,10 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Deutschland
+- offenes Wissen
+- Termine
 title: OER(Camp) - freie Lehr-Lernmittel
 type: post
 

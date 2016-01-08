@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Positionen
 date: 2014-07-24 12:06:16
 image:
   src: /files/blog/2014/07/Screen-Shot-2014-07-24-at-14.02.32.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Positionen
 - Europe
 - OGP
 - Open Data

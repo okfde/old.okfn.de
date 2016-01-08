@@ -1,12 +1,11 @@
 ---
 author: Hauke Gierow
-categories:
-- Positionen
 date: 2012-08-29 09:14:57
 layout: post
 published: true
 status: publish
 tags:
+- Positionen
 - Anhörung
 - Bundestag
 - Open Data

@@ -1,7 +1,5 @@
 ---
 author: Christian Kreutz
-categories:
-- offene Daten
 date: 2012-04-24 15:14:34
 image:
   src: /files/blog/2012/04/kfw.png
@@ -9,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Daten
 title: 'Mehr Transparenz: Kooperation KfW-Bankengruppe'
 type: post
 

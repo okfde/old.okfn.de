@@ -1,17 +1,14 @@
 ---
 author: Christian Heise
-categories:
-- offene Kultur
-- offenes Wissen
-- Open Knowledge Foundation
 date: 2014-07-03 11:18:00
 image:
   src: /files/blog/2014/07/geisteswissenschaften-schulungsmaterialien.png
-  title: geisteswissenschaften-schulungsmaterialien
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Kultur
+- offenes Wissen
 title: Offene Lehr- und Lernmaterialien für digitale Geisteswissenschaften
 type: post
 

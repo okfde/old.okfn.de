@@ -1,8 +1,5 @@
 ---
 author: Eva Panek
-categories:
-- offene Daten
-- Open Knowledge Foundation
 date: 2012-11-21 15:45:05
 image:
   src: /files/blog/2012/11/ODD-Banner_V8-1024x189.jpg
@@ -14,6 +11,7 @@ tags:
 - Berlin
 - Deutschland
 - Events
+- offene Daten
 - Open Data
 title: 1st International Open Data Dialogue
 type: post

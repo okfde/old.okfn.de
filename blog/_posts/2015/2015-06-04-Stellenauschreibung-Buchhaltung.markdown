@@ -1,9 +1,5 @@
 ---
 author: Kristina Klein
-categories:
-- Deutschland
-- Featured
-- 
 date: 2015-06-04 14:05
 image:
   src: /files/blog/2015/06/images-people-working-office-coffee-9228.jpg

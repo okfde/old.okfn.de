@@ -1,12 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- Open Knowledge Foundation
 date: 2012-11-26 10:38:50
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Knowledge
 title: 'Call for Participation: Digital Openness Index'
 type: post
 

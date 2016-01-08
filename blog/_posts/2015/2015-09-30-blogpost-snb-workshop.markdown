@@ -1,9 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- Workshops
-- Hackday
 date: 2015-09-30 10:00:56
 image:
   src: /files/blog/2015/09/blackout-head.png
@@ -11,6 +7,8 @@ layout: post
 published: true
 status: publish
 tags:
+- Workshops
+- Hackday
 - Deutschland
 - Energieversorgung
 - offene Daten

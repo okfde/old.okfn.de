@@ -1,8 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- offene Daten
-- Positionen
 date: 2014-07-21 10:52:59
 image:
   src: /files/blog/2014/07/BMWI_iwg_stellungnahme-415x162.png
@@ -10,7 +7,9 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Daten
+- Positionen
 title: Gemeinsame Stellungnahme zum Entwurf eines Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen (IWG)
 type: post
 

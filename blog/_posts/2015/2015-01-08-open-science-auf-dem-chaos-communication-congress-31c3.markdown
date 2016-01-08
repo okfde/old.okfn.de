@@ -1,9 +1,5 @@
 ---
-author: Gastautor
-categories:
-- Featured
-- offenes Wissen
-- Open Science
+author: Markus Demleitner
 date: 2015-01-08 10:37:31
 image:
   src: /files/blog/2015/01/31c3-open-science-415x311.jpg
@@ -13,8 +9,9 @@ layout: post
 published: true
 status: publish
 tags:
-- 31c3
-title: Open Science auf dem Chaos Communication Congress (31C3)
+- offenes Wissen
+- Open Science
+title: Gastbeitrag - Open Science auf dem Chaos Communication Congress (31C3)
 type: post
 
 ---

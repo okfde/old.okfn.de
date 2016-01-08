@@ -1,12 +1,9 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-02-05 08:00:32
 image:
   src: /files/blog/2013/02/Open_data.png
-  title: Open_data
+  title: Open Data
 layout: post
 published: true
 status: publish

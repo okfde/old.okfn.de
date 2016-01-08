@@ -1,7 +1,5 @@
 ---
-author: Gastautor
-categories:
-- Transparenz
+author: Daniel Dietrich und Christian Pauschert
 date: 2012-06-15 11:01:14
 layout: post
 published: true
@@ -12,8 +10,6 @@ tags:
 - Transparenz
 title: Transparenzgesetz – Hamburg wird Vorreiter!
 type: post
-
-
 ---
 
 Der folgende Artikel ist eine Zusammenarbeit von Daniel Dietrich und Christian Pauschert, der sonst auf [tkarten.wordpress.com](http://tkarten.wordpress.com/) bloggt.

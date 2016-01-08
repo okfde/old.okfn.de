@@ -1,16 +1,13 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- offene Daten
 date: 2013-10-11 08:54:43
 image:
   src: /files/blog/2013/10/govdata1.png
-  title: govdata
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Behörden
 - Deutschland
 - offene Daten

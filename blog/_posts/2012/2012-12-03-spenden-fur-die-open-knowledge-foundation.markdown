@@ -1,8 +1,5 @@
 ---
 author: Maria Reimer
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2012-12-03 17:10:38
 image:
   src: /files/blog/2012/11/spenden.png

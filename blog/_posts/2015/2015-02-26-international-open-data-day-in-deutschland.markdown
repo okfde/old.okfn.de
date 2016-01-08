@@ -1,15 +1,13 @@
 ---
-author: khansonia
-categories:
-- Featured
+author: Sonia Khan
 date: 2015-02-26 11:07:52
 image:
   src: /files/blog/2015/02/Screen-Shot-2015-02-25-at-11.30.01-318x415.png
-  title: Screen Shot 2015-02-25 at 11.30.01
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- ODD
 title: International Open Data Day in Deutschland
 type: post
 

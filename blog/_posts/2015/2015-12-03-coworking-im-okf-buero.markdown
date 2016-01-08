@@ -1,9 +1,5 @@
 ---
 author: Bela Seeger
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-12-04 10:00:56
 image: 
   src : /files/blog/2015/12/okfdebuero.jpg

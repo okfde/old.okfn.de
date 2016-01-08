@@ -1,13 +1,8 @@
 ---
 author: Julia Kloiber
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
 date: 2012-12-14 18:27:34
 image:
   src: /files/blog/2012/12/pokal.png
-  title: ''
 layout: post
 published: true
 status: publish

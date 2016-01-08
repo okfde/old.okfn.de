@@ -1,16 +1,13 @@
 ---
 author: Christian Kreutz
-categories:
-- Featured
-- Transparenz
 date: 2013-03-07 11:12:50
 image:
   src: /files/blog/2013/03/country-kfw.png
-  title: country-kfw
 layout: post
 published: true
 status: publish
 tags:
+- Transparenz
 - kfw
 - offene Daten
 - Open Aid

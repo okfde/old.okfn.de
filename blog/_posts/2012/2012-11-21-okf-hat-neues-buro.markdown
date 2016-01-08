@@ -1,13 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- offene Daten
-- Open Knowledge Foundation
 date: 2012-11-21 15:37:07
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- OKF
 title: Die OKF hat ein neues Büro!
 type: post
 

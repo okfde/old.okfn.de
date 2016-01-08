@@ -1,12 +1,8 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
 date: 2014-08-13 10:35:38
 image:
   src: /files/blog/2014/08/digitale_agenda-415x257.png
-  title: digitale_agenda
 layout: post
 published: true
 status: publish

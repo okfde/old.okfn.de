@@ -1,17 +1,13 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offenes Wissen
 date: 2015-02-10 10:44:52
 image:
   src: /files/blog/2015/02/buendnis-freie-bildung-415x76.png
-  title: buendnis-freie-bildung
 layout: post
 published: true
 status: publish
 tags:
+- offenes Wissen
 - OER
 title: Positionspapier des Bündnis freie Bildung veröffentlicht
 type: post

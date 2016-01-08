@@ -1,18 +1,14 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- offene Kultur
-- offenes Wissen
-- Open Knowledge Foundation
 date: 2014-03-26 16:21:38
 image:
   src: /files/blog/2014/03/klein.png
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
+- offene Kultur
+- offenes Wissen
 - Deutschland
 - Kulturdaten
 - open culture

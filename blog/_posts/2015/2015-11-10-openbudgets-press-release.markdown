@@ -1,9 +1,5 @@
 ---
 author: Bela Seeger
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-11-10 10:00:56
 image: 
   src : /static/images/projects/openbudgets.png

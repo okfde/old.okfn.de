@@ -1,10 +1,5 @@
 ---
 author: Julia Kloiber
-categories:
-- Featured
-- offene Daten
-- offenes Wissen
-- Open Knowledge Foundation
 date: 2013-08-05 16:05:41
 image:
   src: /files/blog/2013/08/teampic.jpg
@@ -16,6 +11,8 @@ tags:
 - Anwendungen
 - Apps
 - code for all
+- offene Daten
+- offenes Wissen
 - code for america
 - Deutschland
 - Programm

@@ -1,7 +1,5 @@
 ---
 author: Hauke Gierow
-categories:
-- Open Knowledge Foundation
 date: 2011-09-26 16:36:27
 layout: post
 published: true
@@ -9,8 +7,6 @@ status: publish
 tags: []
 title: '"Open Data Trüffelschweine"'
 type: post
-
-
 ---
 
 Der Fluter hat uns zu unserer Arbeit und zu unserer Motivation befragt, und einen schönen Artikel zu Open Data geschrieben:  

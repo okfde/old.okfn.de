@@ -1,17 +1,15 @@
 ---
 author: Martin Koll
-categories:
-- Deutschland
-- Termine
 date: 2013-10-28 16:57:14
 image:
   src: /files/blog/2013/10/cropped-oknrw-logo_960x80-415x34.png
-  title: cropped-oknrw-logo_960x80
+  title: oknrw logo
 layout: post
 published: true
 status: publish
 tags:
 - Barcamp
+- Deutschland
 - Behörden
 - Community
 - Events

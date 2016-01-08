@@ -1,17 +1,14 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- offene Daten
-- offenes Wissen
 date: 2014-04-20 10:36:56
 image:
   src: /files/blog/2014/04/codungdavincinl.png
-  title: codingdavincinl
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Daten
+- offenes Wissen
 title: Aktivitäten und Projekte im März 2014
 type: post
 

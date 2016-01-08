@@ -1,9 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Gesetz
-- Open Data
 date: 2015-05-07 08:20:49
 image:
   src: /files/blog/2015/05/iwg-entwurf-2015.png
@@ -11,7 +7,9 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Gesetz
+- Open Data
 title: "Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen (IWG): Eine weitere vertane Chance"
 type: post
 ---

@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Termine
 date: 2013-02-05 10:31:29
 image:
   src: /files/blog/2013/02/Hive.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - offenes Wissen
 title: 'Hive Berlin: Ein Lernnetzwerk für die Stadt'

@@ -1,18 +1,14 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- offene Daten
-- Open Knowledge Foundation
 date: 2013-11-06 10:57:46
 image:
   src: http://farm3.static.flickr.com/2649/4055669711_1cd193639d_o.jpg
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
 - Geodaten
+- offene Daten
 - Informationsfreiheit
 - OER
 - OGP

@@ -1,14 +1,11 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- offene Kultur
-- Termine
 date: 2013-10-29 13:54:46
 layout: post
 published: true
 status: publish
 tags:
+- offene Kultur
 - Digitalisierung
 - Open Access
 - open culture

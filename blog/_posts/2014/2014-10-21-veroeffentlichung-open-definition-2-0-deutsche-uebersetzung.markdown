@@ -1,16 +1,13 @@
 ---
 author: Christian Heise
-categories:
-- offene Daten
-- Open Knowledge Foundation
 date: 2014-10-21 15:12:30
 image:
   src: /files/blog/2014/10/open-definition-de-415x188.png
-  title: open-definition-de
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Open Definition
 title: Veröffentlichung Open Definition 2.0 & deutsche Übersetzung
 type: post

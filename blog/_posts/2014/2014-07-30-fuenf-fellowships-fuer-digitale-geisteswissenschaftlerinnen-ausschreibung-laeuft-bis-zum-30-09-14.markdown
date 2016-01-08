@@ -1,8 +1,5 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Open Science
 date: 2014-07-30 11:41:39
 image:
   src: /files/blog/2014/07/DH-DARIAH-Fellowship_small-e1406720208783.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Open Science
 - DARIAH
 - DH
 - Fellowship

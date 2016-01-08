@@ -1,7 +1,5 @@
 ---
 author: Friedrich Lindenberg
-categories:
-- offene Daten
 date: 2012-06-15 09:05:00
 layout: post
 published: true

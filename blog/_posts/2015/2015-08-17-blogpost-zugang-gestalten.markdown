@@ -1,8 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- Featured
-- OpenGLAM
 date: 2015-08-17 13:00:00
 image:
   src: /files/blog/2015/08/zugang-gestalten-logo.png

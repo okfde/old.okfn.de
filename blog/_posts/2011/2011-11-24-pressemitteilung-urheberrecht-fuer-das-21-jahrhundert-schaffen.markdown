@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Positionen
 date: 2011-11-24 12:51:07
 layout: post
 published: true
 status: publish
 tags:
+- Positionen
 - Deutschland
 - Kulturgut
 - Open Knowledge

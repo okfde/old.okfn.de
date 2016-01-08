@@ -1,11 +1,8 @@
 ---
 author: Helene Hahn
-categories:
-- Open Knowledge Foundation
 date: 2014-08-13 13:09:36
 image:
   src: /files/blog/2014/08/fill_618x322_9732249824_28f9b493cc_b.jpg
-  title: fill_618x322_9732249824_28f9b493cc_b
 layout: post
 published: true
 status: publish

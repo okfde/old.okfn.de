@@ -1,13 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Termine
 date: 2013-01-02 16:01:02
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Termine
 title: Ideenbörse “Offene Daten” in Leipzig
 type: post
 

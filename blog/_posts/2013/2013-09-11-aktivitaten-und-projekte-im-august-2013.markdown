@@ -1,12 +1,8 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-09-11 08:47:54
 image:
   src: http://farm6.staticflickr.com/5485/9573345161_affa7ccd25_z.jpg
-  title: null
 layout: post
 published: true
 status: publish

@@ -1,16 +1,14 @@
 ---
 author: Eva Panek
-categories:
-- Termine
 date: 2013-01-08 13:33:03
 image:
   src: http://okfnlabs.org/img/projects/bundesgit_intro.png
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
 - bundesgit
+- Termine
 - Hackday
 - Open Data
 - Open Knowledge

@@ -1,7 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
+author: Stefan Kasberger
 date: 2014-04-13 13:33:50
 image:
   src: http://openscienceasap.org/wp-content/uploads/2014/04/Open-Data-Institute-Annual-Summit-580x386.jpg

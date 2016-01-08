@@ -1,21 +1,18 @@
 ---
 author: Julia Kloiber
-categories:
-- Featured
-- offene Daten
 date: 2013-01-04 17:45:55
 image:
   src: http://okfnlabs.org/img/projects/bundesgit_intro.png
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
 - bundesgit
 - Bundestag
-- gesetze
+- offene Daten
+- Gesetze
 - github
-- innovation
+- Innovation
 - Politik
 title: Bundes-Git – German Laws on GitHub
 type: post

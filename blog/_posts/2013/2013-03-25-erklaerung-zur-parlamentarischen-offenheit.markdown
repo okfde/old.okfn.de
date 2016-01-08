@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Transparenz
 date: 2013-03-25 15:06:06
 image:
   src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png

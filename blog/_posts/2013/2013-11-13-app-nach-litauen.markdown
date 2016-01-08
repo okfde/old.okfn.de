@@ -1,9 +1,5 @@
 ---
 author: Maria Reimer
-categories:
-- Featured
-- offenes Wissen
-- Open Knowledge Foundation
 date: 2013-11-13 16:43:54
 image:
   src: /files/blog/2013/11/677_fb17f7317a12e9128cff38d121059e86.jpg
@@ -11,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offenes Wissen
 title: App nach Litauen
 type: post
 

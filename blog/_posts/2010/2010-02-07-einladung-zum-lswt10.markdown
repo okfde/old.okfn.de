@@ -1,7 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2010-02-07 09:16:40
 layout: post
 published: true
@@ -10,6 +8,7 @@ tags:
 - Deutschland
 - Open Knowledge
 - Semantic Web
+- Termine
 title: Einladung zum LSWT10
 type: post
 

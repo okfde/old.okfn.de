@@ -1,13 +1,11 @@
 ---
 author: Eva Panek
-categories:
-- Featured
-- Termine
 date: 2013-02-26 10:23:02
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Creative Commons
 - Events

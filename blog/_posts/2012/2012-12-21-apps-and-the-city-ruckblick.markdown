@@ -1,10 +1,5 @@
 ---
 author: Julia Kloiber
-categories:
-- Deutschland
-- Featured
-- offene Daten
-- Open Knowledge Foundation
 date: 2012-12-21 10:47:42
 layout: post
 published: true
@@ -14,6 +9,7 @@ tags:
 - Community
 - Hackday
 - Nahverkehr
+- offene Daten
 - Open Data
 - Open Transport
 - VBB

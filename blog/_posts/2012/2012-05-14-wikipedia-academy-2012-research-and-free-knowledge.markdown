@@ -1,11 +1,8 @@
 ---
 author: Daniel Dietrich
-categories:
-- offenes Wissen
 date: 2012-05-14 08:00:22
 image:
   src: http://wikipedia-academy.de/2012/w/images/b/bc/Wiki.png
-  title: ''
 layout: post
 published: true
 status: publish

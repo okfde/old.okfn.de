@@ -1,17 +1,13 @@
 ---
 author: Maria Reimer
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
 date: 2013-04-29 12:44:41
 image:
   src: /files/blog/2013/04/Screen-Shot-2013-04-26-at-1.06.09-PM.png
-  title: Screen Shot 2013-04-26 at 1.06.09 PM
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Berlin
 title: Berliner Haushaltsvisualisierung
 type: post
 

@@ -1,17 +1,13 @@
 ---
 author: Helene Hahn
-categories:
-- Deutschland
-- Featured
-- offene Kultur
 date: 2014-12-08 12:36:04
 image:
   src: /files/blog/2014/12/IMG_1097a-415x276.jpg
-  title: IMG_1097a
 layout: post
 published: true
 status: publish
 tags:
+- offene Kultur
 - Digitalisierung
 - kulturelles Erbe
 - OpenGLAM

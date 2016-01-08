@@ -1,15 +1,12 @@
 ---
 author: Stefan Kaufmann und Walter Palmetshofer
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-10-23 15:25:00
 layout: post
 published: true
 status: publish
 tags:
 - Deutschland
+- Transparency
 - Nahverkehr
 - Open Transport
 - Deutsche Bahn

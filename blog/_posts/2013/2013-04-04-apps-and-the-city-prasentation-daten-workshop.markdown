@@ -1,12 +1,8 @@
 ---
 author: Jan Brennenstuhl
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-04-04 10:03:18
 image:
   src: /files/blog/2013/02/005.png
-  title: '005'
 layout: post
 published: true
 status: publish

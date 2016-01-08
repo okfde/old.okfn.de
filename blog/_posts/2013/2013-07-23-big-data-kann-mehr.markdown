@@ -1,7 +1,5 @@
 ---
 author: Andreas Pawelke
-categories:
-- Featured
 date: 2013-07-23 14:11:18
 image:
   src: /files/blog/2013/07/Analyse-von-Tweets-zum-Reispreis-in-Indonesien-1200x631.jpg

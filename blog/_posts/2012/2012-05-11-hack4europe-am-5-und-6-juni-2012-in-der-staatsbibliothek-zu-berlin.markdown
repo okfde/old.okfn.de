@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- offenes Wissen
 date: 2012-05-11 07:00:34
 layout: post
 published: true
 status: publish
 tags:
+- offenes Wissen
 - Berlin
 - Europe
 - Europeana

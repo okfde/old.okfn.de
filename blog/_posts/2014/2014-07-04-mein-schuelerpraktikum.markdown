@@ -1,8 +1,5 @@
 ---
-author: Maria Reimer
-categories:
-- Deutschland
-- Featured
+author: Leander Kutz
 date: 2014-07-04 14:02:24
 image:
   src: /files/blog/2014/07/2014-06-23-11.03.38.jpg
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Schülerpraktikum
 title: Mein Schülerpraktikum
 type: post
 

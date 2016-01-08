@@ -1,16 +1,13 @@
 ---
 author: Hauke Gierow
-categories:
-- Open Knowledge Foundation
-- Termine
 date: 2011-09-29 07:24:52
 image:
   src: /files/blog/2011/09/OGDCamp_OKF_SiteImgDeutsch4.jpg
-  title: ''
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Termine
 title: Open Government Data Camp
 type: post
 

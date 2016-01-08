@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Termine
 date: 2013-05-02 10:17:28
 image:
   src: /files/blog/2013/05/Logo-BerlinOpenData2013.png
@@ -11,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Events
 - offene Daten

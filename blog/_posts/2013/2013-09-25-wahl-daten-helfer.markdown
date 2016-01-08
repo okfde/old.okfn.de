@@ -1,9 +1,5 @@
 ---
 author: Julia Kloiber
-categories:
-- Featured
-- offene Daten
-- Open Knowledge Foundation
 date: 2013-09-25 13:05:47
 image:
   src: /files/blog/2013/09/wahlDatenHelfer_Banner.png

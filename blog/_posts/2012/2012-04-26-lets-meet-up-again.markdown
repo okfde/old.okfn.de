@@ -1,16 +1,13 @@
 ---
 author: Hauke Gierow
-categories:
-- Open Knowledge Foundation
-- Termine
 date: 2012-04-26 09:44:22
 image:
   src: /files/blog/2012/01/5900711788_0d33d3a8cd_b-300x199.jpg
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Open Knowledge Meetup
 - re:publica
 title: Let's Meet Up again!

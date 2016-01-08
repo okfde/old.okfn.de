@@ -1,18 +1,16 @@
 ---
 author: Christian Heise
-categories:
+date: 2014-08-23 07:21:56
+image:
+  src: /files/blog/2014/09/open_science_ag_okf_de-415x310.png
+layout: post
+published: true
+status: publish
+tags:
 - Deutschland
 - offene Daten
 - offenes Wissen
 - Open Science
-date: 2014-08-23 07:21:56
-image:
-  src: /files/blog/2014/09/open_science_ag_okf_de-415x310.png
-  title: open_science_ag_okf_de
-layout: post
-published: true
-status: publish
-tags: []
 title: 'Review: 1. Open Science Arbeitsgruppentreffen im Juli 2014'
 type: post
 

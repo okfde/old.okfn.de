@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Positionen
 date: 2011-12-19 09:00:24
 layout: post
 published: true
 status: publish
 tags:
+- Positionen
 - Deutschland
 - offener Haushalt
 - Open Data

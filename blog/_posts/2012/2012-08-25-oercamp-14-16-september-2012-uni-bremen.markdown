@@ -1,15 +1,13 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2012-08-25 15:13:19
 image:
   src: /files/blog/2012/08/OERcamp-Logo-300px.jpeg
-  title: ''
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Barcamp
 - Deutschland
 - OER

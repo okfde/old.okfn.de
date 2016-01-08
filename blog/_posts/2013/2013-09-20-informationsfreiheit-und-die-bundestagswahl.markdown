@@ -1,7 +1,5 @@
 ---
 author: Martin Koll
-categories:
-- Deutschland
 date: 2013-09-20 09:23:18
 layout: post
 published: true

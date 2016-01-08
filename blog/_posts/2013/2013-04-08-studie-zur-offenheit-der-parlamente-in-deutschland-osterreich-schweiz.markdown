@@ -1,12 +1,8 @@
 ---
-author: Gastautor
-categories:
-- Featured
-- offene Daten
+author: Markus Schmidt
 date: 2013-04-08 15:00:37
 image:
   src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png
-  title: Screen Shot 2013-03-25 at 15.35.12
 layout: post
 published: true
 status: publish

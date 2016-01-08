@@ -1,12 +1,8 @@
 ---
 author: Christian Heise
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2013-11-04 19:35:45
 image:
   src: /files/blog/2013/11/ogp_summit_heise_pawelke.png
-  title: ogp_summit_heise_pawelke
 layout: post
 published: true
 status: publish

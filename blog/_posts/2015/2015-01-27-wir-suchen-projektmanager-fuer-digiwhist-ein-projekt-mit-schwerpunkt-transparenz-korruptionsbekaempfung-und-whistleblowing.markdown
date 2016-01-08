@@ -1,12 +1,8 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Open Knowledge Foundation
 date: 2015-01-27 17:29:18
 image:
   src: /files/blog/2013/03/8210336893_c76839a169_b.jpg
-  title: 8210336893_c76839a169_b
 layout: post
 published: true
 status: publish

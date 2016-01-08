@@ -1,8 +1,5 @@
 ---
-author: stefankasberger
-categories:
-- Featured
-- Open Science
+author: Stefan Kasberger
 date: 2014-08-12 13:11:54
 image:
   src: http://openscienceasap.org/wp-content/uploads/2014/08/peerreview.jpg
@@ -10,7 +7,8 @@ image:
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Open Science
 title: Open Science Sum-Up Juli
 type: post
 

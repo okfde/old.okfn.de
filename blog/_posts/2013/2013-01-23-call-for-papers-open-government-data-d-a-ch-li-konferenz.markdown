@@ -1,8 +1,5 @@
 ---
 author: Daniel Dietrich
-categories:
-- Featured
-- Termine
 date: 2013-01-23 11:19:07
 image:
   src: /files/blog/2013/01/dachli.png
@@ -11,14 +8,13 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Behörden
 - Konferenz
 - Open Government
 - PSI
 title: 'Call for Papers: D-A-CH-LI-Konferenz'
 type: post
-
-
 ---
 
 **2\. Konferenz der OGD-D-A-CH-LI-Reihe unter dem Motto: "Open Government – Bürgernähe durch Kulturwandel"**

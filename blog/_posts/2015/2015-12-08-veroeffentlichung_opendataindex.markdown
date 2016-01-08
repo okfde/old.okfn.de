@@ -1,9 +1,5 @@
 ---
 author: OKF
-categories:
-- Featured
-- Open Data Index
-- Open Knowledge
 date: 2015-12-09 16:04:56
 image:
   src: /files/blog/2015/12/Screenshot_opendataindex.png
@@ -11,6 +7,8 @@ layout: post
 published: true
 status: publish
 tags:
+- Open Data Index
+- Open Knowledge
 - Transparenz
 title: "Deutschland im weltweiten Open Data Index nur auf Platz 26"
 type: post

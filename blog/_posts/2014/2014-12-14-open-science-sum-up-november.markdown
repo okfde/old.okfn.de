@@ -1,5 +1,5 @@
 ---
-author: stefankasberger
+author: Stefan Kasberger
 categories:
 - Featured
 - Open Science

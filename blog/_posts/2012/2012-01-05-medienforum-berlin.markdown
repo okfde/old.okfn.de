@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- Termine
 date: 2012-01-05 10:58:19
 layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Konferenz
 - Open Government

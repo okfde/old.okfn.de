@@ -1,9 +1,5 @@
 ---
 author: Helene Hahn
-categories:
-- Deutschland
-- Featured
-- Termine
 date: 2014-11-03 17:57:51
 image:
   src: /files/blog/2014/10/labforcity-415x232.jpg
@@ -12,6 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
+- Termine
 - Berlin
 - Open Transport
 - smart city

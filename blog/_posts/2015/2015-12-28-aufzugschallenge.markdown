@@ -1,9 +1,5 @@
 ---
 author: Stefan Kaufmann und Walter Palmetshofer
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-12-28 12:37:00
 image: 
   src: /files/blog/2015-12/dbhackathon.jpg
@@ -16,13 +12,11 @@ tags:
 - Nahverkehr
 - Open Transport
 - Deutsche Bahn
-- 
-title: "Aufzugschallenge: Mit offenen Daten arbeiten, BahnCard gewinnen" 
+title: "Aufzugschallenge: Mit offenen Daten arbeiten, BahnCard gewinnen"
 type: post
-
 ---
-<br>
-*Hamburg, 28.12.2015* – Wer schon immer eine Probe-BahnCard100 haben wollte, um quer durch Deutschland zu touren, hat jetzt die Gelegenheit, mit einem Open-Data-Projekt eine von dreien zu gewinnen. Noch während des 3. DB-Hackathons [lobte die Bahn eine „Aufzugs-Challenge“ aus](http://data.deutschebahn.com/blog/2015/12/22/hackathon-mindbox/): Wer Ideen hat, mit der [Echzeit-Status-API der Bahnhofsaufzüge interessante Prototypen, Experimente oder vollständige Anwendungen](https://www.mindboxberlin.com/index.php/contest.html) zu entwickeln, kann das eigene Projekt bis zum **10. Januar 2016** über das Formular [auf der zugehörigen Website](https://www.mindboxberlin.com/index.php/contest.html) einreichen. 
+
+*Hamburg, 28.12.2015* – Wer schon immer eine Probe-BahnCard100 haben wollte, um quer durch Deutschland zu touren, hat jetzt die Gelegenheit, mit einem Open-Data-Projekt eine von dreien zu gewinnen. Noch während des 3. DB-Hackathons [lobte die Bahn eine „Aufzugs-Challenge“ aus](http://data.deutschebahn.com/blog/2015/12/22/hackathon-mindbox/): Wer Ideen hat, mit der [Echzeit-Status-API der Bahnhofsaufzüge interessante Prototypen, Experimente oder vollständige Anwendungen](https://www.mindboxberlin.com/index.php/contest.html) zu entwickeln, kann das eigene Projekt bis zum **10. Januar 2016** über das Formular [auf der zugehörigen Website](https://www.mindboxberlin.com/index.php/contest.html) einreichen.
 
 Eine Jury aus DB Station&Service AG, Open Knowledge Foundation Deutschland, [OpenStreetMap](http://openstreetmap.de/)/[OpenRailwayMap](http://www.openrailwaymap.org/) und [Sozialhelden](http://sozialhelden.de/) wählt dann je ein Siegerprojekt aus den Kategorien „Open“ (bester Ansatz zur Verwendung von Open Data), „Indoornavigation“ und „bester Nutzen für Station&Service“. Der Preis sind jeweils 5 Reisegutscheine im Wert von je 250 EUR, was zusammen einer Probe-BahnCard 100 entspricht – die kann man natürlich auch aufteilen, wenn das eingereichte Projekt im Team entstand, oder man irgendeiner Gruppe mit nicht so viel Budget im eigenen Hackerspace etwas Gutes tun möchte ;)
 

@@ -1,17 +1,14 @@
 ---
 author: Christian Heise
-categories:
-- offenes Wissen
-- Open Knowledge Foundation
-- Open Science
 date: 2014-07-09 15:00:50
 image:
   src: /files/blog/2014/07/kickoff-open-science-de-2014-415x155.png
-  title: kickoff-open-science-de-2014
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offenes Wissen
+- Open Science
 title: 'OKFestival 2014 Fringe Event: Arbeitsgruppe für die Öffnung von Wissenschaft und Forschung (Open Science)'
 type: post
 

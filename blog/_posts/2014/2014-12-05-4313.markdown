@@ -1,19 +1,15 @@
 ---
 author: Helene Hahn
-categories:
-- Open Knowledge Foundation
 date: 2014-12-05 18:50:38
 image:
   src: /files/blog/2014/12/header-415x104.png
-  title: header
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- Verbraucherschutz
 title: Smarte Bürger - Verbraucherschutz in der digitalen Welt
 type: post
-
-
 ---
 
 **Kampagne gestartet!**

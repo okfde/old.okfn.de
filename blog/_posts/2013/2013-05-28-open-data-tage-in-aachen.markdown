@@ -1,12 +1,8 @@
 ---
 author: Martin Koll
-categories:
-- Featured
-- offene Daten
 date: 2013-05-28 10:51:45
 image:
   src: http://opendatadayaachen.de/img/logo.jpg
-  title: null
 layout: post
 published: true
 status: publish

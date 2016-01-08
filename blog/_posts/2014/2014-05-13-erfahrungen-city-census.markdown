@@ -1,16 +1,13 @@
 ---
-author: Marcus Dapp
-categories:
-- Deutschland
-- offene Daten
-- Open Knowledge Foundation
-- Positionen
-- Transparenz
+author: Claus Arndt
 date: 2014-05-13 13:43:23
 layout: post
 published: true
 status: publish
-tags: []
+tags:
+- offene Daten
+- Positionen
+- Transparenz
 title: 'Gastbeitrag: Erfahrungen zweier Kommunen mit dem City Census'
 type: post
 

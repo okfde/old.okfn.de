@@ -1,18 +1,13 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
-- Positionen
 date: 2014-09-17 15:51:56
 image:
   src: /files/blog/2014/09/Glow_openparliament-okf-de-415x235.png
-  title: Glow_openparliament-okf-de
 layout: post
 published: true
 status: publish
 tags:
+- Positionen
 - offene Daten
 - OpenParl2014
 title: Kampagne für offene Parlamente im Rahmen der Global Legislative Openness Week

@@ -1,7 +1,5 @@
 ---
 author: Friedrich Lindenberg
-categories:
-- Open Knowledge Foundation
 date: 2011-04-23 08:00:09
 layout: post
 published: true

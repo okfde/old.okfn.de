@@ -1,13 +1,8 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offene Daten
 date: 2014-09-22 15:57:09
 image:
   src: /files/blog/2014/09/open-definition-daten-lizenz-deutschland-415x155.png
-  title: open-definition-daten-lizenz-deutschland
 layout: post
 published: true
 status: publish

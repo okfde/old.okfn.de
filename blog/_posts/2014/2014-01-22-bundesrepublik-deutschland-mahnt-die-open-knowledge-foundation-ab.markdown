@@ -1,17 +1,13 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- Open Knowledge Foundation
 date: 2014-01-22 08:59:52
 image:
   src: /files/blog/2014/01/fds_bmi_abmahnung.png
-  title: fds_bmi_abmahnung
 layout: post
 published: true
 status: publish
 tags:
+- Deutschland
 - Abmahnung
 title: Bundesrepublik Deutschland mahnt die Open Knowledge Foundation ab
 type: post

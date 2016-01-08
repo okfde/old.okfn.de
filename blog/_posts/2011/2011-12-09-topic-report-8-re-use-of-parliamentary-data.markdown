@@ -1,12 +1,11 @@
 ---
 author: Daniel Dietrich
-categories:
-- offene Daten
 date: 2011-12-09 15:29:25
 layout: post
 published: true
 status: publish
 tags:
+- offene Daten
 - Open Data
 - Open Government
 - PSI

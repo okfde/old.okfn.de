@@ -1,11 +1,8 @@
 ---
 author: Daniel Dietrich
-categories:
-- Open Knowledge Foundation
 date: 2011-08-27 08:32:57
 image:
   src: http://farm7.static.flickr.com/6195/6070216816_e619477ae6_z.jpg
-  title: ''
 layout: post
 published: true
 status: publish

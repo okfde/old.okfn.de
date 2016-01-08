@@ -1,18 +1,14 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- Featured
-- offenes Wissen
-- Termine
 date: 2014-08-24 09:54:13
 image:
   src: /files/blog/2014/08/OERde14_grau_breit-415x294.png
-  title: OERde14_grau_breit
 layout: post
 published: true
 status: publish
 tags:
+- offenes Wissen
+- Termine
 - OER
 - OER14de
 - Wikimedia

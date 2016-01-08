@@ -1,9 +1,5 @@
 ---
 author: Stefan Kaufmann und Walter Palmetshofer
-categories:
-- Featured
-- Transparency
-- Open Government
 date: 2015-11-05 18:59:59
 image: 
   src : /files/blog/2015/11/db_launch.jpg
