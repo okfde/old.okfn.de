@@ -11,7 +11,7 @@ type: post
 ---
 "Seit zwei Jahren wissen wir, dass Geheimdienste alles über uns wissen. Seit einem Jahr sind Programmierlernbefürworter an allen Ecken anzutreffen. Und 2015? Müssen wir endlich darüber sprechen, dass Code ohne Ethik wertlos ist. Der Talk will die Motivation hinter der derzeit angesagten Forderung nach „Programmieren als Pflichtfach“ sezieren, einen Blick auf aktuelle Lehrpläne der Informatik werfen und außerschulische Orte für Programmierwillige vorstellen."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lD34A2nuWCs" frameborder="0" allowfullscreen style="width: 100%"></iframe>
+{% youtube lD34A2nuWCs 560 315 %}
 
 Das war die <a href="https://re-publica.de/session/code-ethik">Ankündigung</a> zu unserem re:publica-Talk, den wir dank <a href="https://www.voicerepublic.com/talks/code-ethik">voicerepublic </a> hier auch, angereichert mit unseren Folien, als Video zur Verfügung stellen können. Die Präsentation als PDF findet sich <a href="http://jugendhackt-de.okblogfarm.org/files/2015/07/rp15.pdf">hier.</a>
 

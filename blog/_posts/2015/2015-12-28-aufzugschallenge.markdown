@@ -21,7 +21,7 @@ Eine Jury aus DB Station&Service AG, Open Knowledge Foundation Deutschland, [Ope
 
 Seitens der OKF war ich sehr begeistert vom Hackathon in den Bögen des S-Bahnhofs Jannowitzbrücke – auch wegen der interessanten und witzigen Projekte, vor allem aber wegen der unerwartet proppevollen Seminarräume, in denen Communitymitglieder aus dem Open-Data-Umfeld, OpenStreetMap und Co. lange und intensiv mit DB-Beschäftigten aus verschiedensten Geschäftszweigen diskutierten. Ich lasse die Leute einfach mal selbst im Video sprechen:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPFe3lliA1g" frameborder="0" allowfullscreen></iframe>
+{% youtube dPFe3lliA1g %}
 
 [Die Ergebnisse](https://hackdash.org/dashboards/dbhackatho) reichten von praktisch über spannend bis spaßig: Vom ICE-Wecker, der $n Kilometer vor einem Bahnhof ein Script ausführt, über einen Streetview-Klon für's bessere OSM-Bahn-Mapping, bis zum „BatRadar“, das seheingeschränkten Fahrgästen Echzeitinformationen zur Benutzbarkeit ihres Reisebahnhofs geben kann.
 

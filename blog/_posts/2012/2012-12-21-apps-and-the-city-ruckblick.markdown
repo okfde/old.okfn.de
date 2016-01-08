@@ -30,7 +30,7 @@ Open Data Nahverkehr DE: <http://lists.okfn.org/mailman/listinfo/open-data-nahve
 Open Transport international: <http://lists.okfn.org/mailman/listinfo/open-transport>  
 OKFN Transport Infosite: <http://transport.okfn.org/>
 
-[iframe src="http://player.vimeo.com/video/55933806?byline=0" width="600" height="337" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen][/iframe]
+{% vimeo 55933806 600 337 %}
 
 Weitere Videos Vom Hackday:
 

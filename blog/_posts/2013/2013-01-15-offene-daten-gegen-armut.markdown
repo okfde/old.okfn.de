@@ -20,7 +20,7 @@ Gibt es in der Entwicklungszusammenarbeit nicht wirklich Wichtigeres als offene 
 
 Claudia Schwegmann präsentiert IATI:
 
-[iframe width="660" src="http://www.youtube.com/embed/JA3tRXkdWaI" frameborder="0" allowfullscreen][/iframe]
+{% youtube JA3tRXkdWaI %}
 
 Gegenwärtig ist es kaum möglich für ein beliebiges Entwicklungsland Daten darüber zu finden, welcher Geldgeber, mit welchem Budget Aktivitäten durchführt, mit welchen lokalen Partnerorganisationen und in welcher Region eines Landes. Weder die Steuerzahler und Spender im Norden, noch die Bürger von Entwicklungsländern im Süden sind in der Lage sich einen aktuellen Überblick über alle Projektaktivitäten zu schaffen, geschweige denn diese Projektaktivitäten nachzuverfolgen. Solche Überblick-Informationen sind unerlässlich, um Koordination und Kooperation zu ermöglichen, um Planung zu verbessern, um Korruption zu bekämpfen und um Rechenschaftslegung zu stärken.  
  

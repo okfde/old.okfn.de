@@ -17,7 +17,7 @@ Zentrales Thema des diesjährigen [DH Summits 2015](https://de.dariah.eu/dhsummi
 
 Folgendes Video fasst den DH Summit 2015 wunderbar zusammen und gibt Denkanstöße für das Thema Digital Humanities:
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/P2NTLs2IV48" frameborder="0" allowfullscreen></iframe></div>
+{% youtube P2NTLs2IV48 560 315 %}
 
 Von dem Summit wurden allein am ersten Tag weit über 1.000 Tweets abgesetzt. [Hier eine Auswahl der Tweets](http://storify.com/christianheise/dhsummit15) passend zu den jeweiligen DH Summit Tagungsprogrammpunkten.
 

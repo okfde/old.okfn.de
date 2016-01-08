@@ -13,7 +13,7 @@ type: post
 
 Stefan Wehrmeyer hat auf dem Chaos Computer Congress einen Vortrag über [Frag den Staat](https://fragdenstaat.de/) gehalten, den wir euch nicht vorenthalten wollen. Hier sein vorläufiges Resümee nach 1,5 Jahren Projektlaufzeit:
 
-[iframe width="680" src="http://www.youtube.com/embed/ulOmlQibtlo" frameborder="0" allowfullscreen][/iframe]
+{% youtube ulOmlQibtlo %}
 
 Auch im Jahr 2013 haben wir mit Frag den Staat noch einiges vor: weitere Bundesländer an Bord bringen, Kampagnen zur Veröffentlichung von Informationsfreiheitsanfragen starten, Ergebnisse von Anfragen aufbereiten und verwerten und noch einiges mehr.
 

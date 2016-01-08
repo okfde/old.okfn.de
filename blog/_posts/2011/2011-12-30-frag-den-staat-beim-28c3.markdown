@@ -15,6 +15,6 @@ type: post
 
 Unten das Video:
 
-[video type="youtube" clip_id="E9ltTJFJue0" autohide="0" autoplay="false" controls="true" hd="true"] 
+{% youtube E9ltTJFJue0 560 315 %}
 
 Es gibt auch einen [Youtube Channel ](http://www.youtube.com/playlist?list=PLE42F91D57F812DA5&feature=plcp)vom 28C3 mit vielen anderen spannenden Videos!
