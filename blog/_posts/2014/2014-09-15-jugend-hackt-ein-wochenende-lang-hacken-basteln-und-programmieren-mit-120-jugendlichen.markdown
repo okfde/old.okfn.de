@@ -18,7 +18,7 @@ type: post
 
  Foto: Leonard Wolf
 
-Berlin, 15.09.2014 - Am vergangenen Wochenende fand zum zweiten Mal “[Jugend hackt”](http://jugendhackt.de) statt, eine Veranstaltung der [Open Knowledge Foundation](http://okfn.de) in Kooperation mit “[Young Rewired State](https://youngrewiredstate.org)” aus Großbritannien und der Agentur für Medienbildung “[Mediale Pfade](http://medialepfade.de/)”. Ein Wochenende lang kamen 120 Jugendliche aus ganz Deutschland im [Jugendhaus Königstadt](http://www.jugendhaus-koenigstadt.de) in Berlin zusammen, um gemeinsam mit Gleichgesinnten an Softwareprojekten rund um die Themen Überwachung, Bildung, Gesundheit, Gesellschaft, Freizeit und Umwelt zu arbeiten.
+Berlin, 15.09.2014 - Am vergangenen Wochenende fand zum zweiten Mal “[Jugend hackt”](http://jugendhackt.de) statt, eine Veranstaltung der [Open Knowledge Foundation](//okfn.de) in Kooperation mit “[Young Rewired State](https://youngrewiredstate.org)” aus Großbritannien und der Agentur für Medienbildung “[Mediale Pfade](http://medialepfade.de/)”. Ein Wochenende lang kamen 120 Jugendliche aus ganz Deutschland im [Jugendhaus Königstadt](http://www.jugendhaus-koenigstadt.de) in Berlin zusammen, um gemeinsam mit Gleichgesinnten an Softwareprojekten rund um die Themen Überwachung, Bildung, Gesundheit, Gesellschaft, Freizeit und Umwelt zu arbeiten.
 
 In insgesamt 27 Projekten haben die 12 bis 18-Jährigen demonstriert, dass sie nicht nur gut mit Computern umgehen können, sondern auch einen wachen und kritischen Blick auf die Gesellschaft haben. Ein großer Teil der Projekte drehte sich um gesellschaftlich und politisch relevante Themen.
 

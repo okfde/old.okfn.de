@@ -33,7 +33,7 @@
       {% if person.website %}
         <dt><i class="icon-umbrella"></i></dt>
         <dd>
-          <a href="{{ person.website }}">{{ person.website|replace_first:"http://"|replace_first:"https://" }}</a>
+          <a href="{{ person.website }}">{{ person.website }}</a>
         </dd>
       {% endif %}
       {% if person.mail %}
