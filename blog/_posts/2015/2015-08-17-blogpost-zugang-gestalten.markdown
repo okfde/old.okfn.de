@@ -5,8 +5,6 @@ image:
   src: /files/blog/2015/08/zugang-gestalten-logo.png
   title: Zugang gestalten!
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Zugang gestalten
@@ -15,7 +13,6 @@ tags:
 - OpenGLAM
 title: Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, 5.-6. Nov. 2015 in Hamburg
 type: post
-
 ---
 Liebe Freunde des freien Wissens,
 

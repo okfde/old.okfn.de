@@ -4,15 +4,11 @@ date: 2014-04-20 10:36:56
 image:
   src: /files/blog/2014/04/codungdavincinl.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - offenes Wissen
 title: Aktivitäten und Projekte im März 2014
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland:**

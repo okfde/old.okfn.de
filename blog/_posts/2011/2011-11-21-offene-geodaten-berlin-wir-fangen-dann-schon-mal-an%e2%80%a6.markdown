@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-11-21 15:42:49
 layout: post
-published: true
-status: publish
 tags:
 - Apps4DE
 - Berlin
@@ -12,8 +10,6 @@ tags:
 - Open Data
 title: 'Offene Geodaten Berlin: Wir fangen dann schon mal an…'
 type: post
-
-
 ---
 
 Wir begrüßen die Initiative des neuen Berliner Senats:

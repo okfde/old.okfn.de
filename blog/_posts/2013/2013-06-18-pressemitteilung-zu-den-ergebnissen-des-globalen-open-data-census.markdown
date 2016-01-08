@@ -5,16 +5,12 @@ image:
   src: /files/blog/2013/06/census-laender-1.png
   title: census laender 1
 layout: post
-published: true
-status: publish
 tags:
 - G8-Gipfel
 - Open Data Census
 - Transparenz
 title: Die G8-Länder müssen hart arbeiten, um wichtige Daten zu öffnen
 type: post
-
-
 ---
 
 **Hier findet ihr die Pressemitteilung zu den Ergebnissen des globalen Open Data Census  

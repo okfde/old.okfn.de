@@ -4,15 +4,11 @@ date: 2014-10-21 15:12:30
 image:
   src: /files/blog/2014/10/open-definition-de-415x188.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Open Definition
 title: Veröffentlichung Open Definition 2.0 & deutsche Übersetzung
 type: post
-
-
 ---
 
 Bereits vor knapp zwei Wochen wurde die zweite Version der [Open Definition](http://opendefinition.org/) veröffentlicht. Sie definiert die Grundprinzipien für Open Data/Open Content und ist unsere Grundlage für Offenheit bei Open Data und offenen Inhalten aller Art jenseits von Open-Source-Software. Seit [7\. Oktober ist sie in der überarbeiteten Version 2.0 verfügbar](http://blog.okfn.org/2014/10/07/open-definition-v2-0-released-major-update-of-essential-standard-for-open-data-and-open-content/).

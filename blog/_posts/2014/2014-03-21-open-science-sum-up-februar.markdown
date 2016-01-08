@@ -4,8 +4,6 @@ date: 2014-03-21 13:47:03
 image:
   src: /files/blog/2014/03/header-21.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Ethik
 - offene Daten
@@ -16,8 +14,6 @@ tags:
 - Wissenschaft
 title: Open Science Sum – Up Februar
 type: post
-
-
 ---
 
   

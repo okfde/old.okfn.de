@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/11/zugang_gestalten-415x219.png
   title: Zugang gestalten
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - kulturelles Erbe

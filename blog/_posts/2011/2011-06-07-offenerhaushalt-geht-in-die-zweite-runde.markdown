@@ -2,15 +2,11 @@
 author: Friedrich Lindenberg
 date: 2011-06-07 05:40:10
 layout: post
-published: true
-status: publish
 tags:
 - offener Haushalt
 - Transparenz
 title: OffenerHaushalt geht in die zweite Runde!
 type: post
-
-
 ---
 
 Bereits am 18. Mai ist mit dem [Haushalt von Berlin](http://berlin.offenerhaushalt.de/dataset/berlin) die zweite Version unserer Seite [OffenerHaushalt](http://offenerhaushalt.de) ans Netz gegangen. Wer die alte Seite kennt, dem erscheint das neue System zunächst sehr vertraut:

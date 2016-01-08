@@ -2,14 +2,10 @@
 author: Hauke Gierow
 date: 2012-03-07 15:43:43
 layout: post
-published: true
-status: publish
 tags:
 - Open Data
 title: Open Berlin Meetup
 type: post
-
-
 ---
 
 Open Berlin - offen für deine Ideen!

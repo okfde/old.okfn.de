@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2013-09-10 14:41:26
 layout: post
-published: true
-status: publish
 tags:
 - Gedächtnisorganisation
 - offenes Wissen
@@ -13,8 +11,6 @@ tags:
 - open GLAM
 title: Berliner Appell zum Erhalt des digitalen Kulturerbes - mitzeichnen!
 type: post
-
-
 ---
 
 Der Berliner Appell zum Erhalt des digitalen Kulturerbes unsere Gesellschaft ist eine Liste mit 11 Forderungen an Politik und Gedächtnisinstitutionen. Das Wissen unserer Tage wie die Kultur unserer Gesellschaft werden zunehmend mittels elektronischer Medien gespeichert und sollen über diese überliefert werden. Die Bewahrung dieses Wissens und dieser Kultur steht auf tönernen Füßen. Die Bereitschaft, auch in der elektronischen Welt in die Bestandserhaltung zu investieren, ist nicht sehr groß. Die Einsicht in die Notwendigkeit, die Prozesse der digitalen Langzeitarchivierung nachhaltig und dauerhaft zu finanzieren, ist noch nicht ausgeprägt. Die Möglichkeiten der Informations- und Kommunikationstechnologie zur Bestandserhaltung auch von analogen Informationsträgern sind noch lange nicht ausgeschöpft. Das ist ein Appell zur Nachhaltigkeit in der elektronischen Welt.

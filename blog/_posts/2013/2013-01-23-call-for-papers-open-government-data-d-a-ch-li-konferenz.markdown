@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/01/dachli.png
   title: dachli
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Behörden

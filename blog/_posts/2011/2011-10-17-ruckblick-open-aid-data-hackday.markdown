@@ -4,15 +4,11 @@ date: 2011-10-17 09:35:08
 image:
   src: /files/blog/2011/10/german-oda-1024x517.png
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Open Knowledge Foundation
 title: Rückblick Open Aid Data Hackday
 type: post
-
-
 ---
 
 Annähernd 150 Teilnehmerinnen und Teilnehmer kamen zur **[Open Aid Data Konferenz in Berlin](http://openaiddata.de/)**. Die Veranstaltung führte zu spannenden Diskussionen, wie offene Daten für mehr Transparenz in der Entwicklungshilfe genutzt werden können. Am Vortag der Konferenz gab es ein Datenbank-Training von AidInfo und einen Hackday.

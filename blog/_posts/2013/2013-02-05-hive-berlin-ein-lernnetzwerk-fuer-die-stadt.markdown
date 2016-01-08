@@ -5,16 +5,12 @@ image:
   src: /files/blog/2013/02/Hive.png
   title: dachli
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Berlin
 - offenes Wissen
 title: 'Hive Berlin: Ein Lernnetzwerk für die Stadt'
 type: post
-
-
 ---
 
 Organisierst du Lernveranstaltungen? Bist du begeistert von Tech? Denkst du das Berlin besser vernetzt sein könnte?

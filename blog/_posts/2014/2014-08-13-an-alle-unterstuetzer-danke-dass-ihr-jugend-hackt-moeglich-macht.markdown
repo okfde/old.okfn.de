@@ -4,13 +4,9 @@ date: 2014-08-13 13:09:36
 image:
   src: /files/blog/2014/08/fill_618x322_9732249824_28f9b493cc_b.jpg
 layout: post
-published: true
-status: publish
 tags: []
 title: 'An alle Unterstützer: Danke, dass ihr Jugend hackt möglich macht!'
 type: post
-
-
 ---
 
  Eigentlich wollte ja niemand wieder weg - Abschiedfoto nach Jugend hackt 2013

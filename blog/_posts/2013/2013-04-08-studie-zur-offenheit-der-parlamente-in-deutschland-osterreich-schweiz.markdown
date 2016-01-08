@@ -4,16 +4,12 @@ date: 2013-04-08 15:00:37
 image:
   src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png
 layout: post
-published: true
-status: publish
 tags:
 - Behörden
 - offene Daten
 - Transparenz
 title: Studie zur Offenheit der Parlamente in Deutschland, Österreich und der Schweiz
 type: post
-
-
 ---
 
 Im folgenden Gastbeitrag stellt Markus Schmidt, die Studie "Opening Parlament in Deutschland, Österreich und der Schweiz" vor, im Rahmen einer Vorlesung "Digitale Nachhaltigkeit in der Wissensgesellschaft". 

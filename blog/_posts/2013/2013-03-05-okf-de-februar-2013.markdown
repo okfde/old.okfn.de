@@ -4,14 +4,10 @@ date: 2013-03-05 09:00:07
 image:
   src: /files/blog/2013/02/Open_data.png
 layout: post
-published: true
-status: publish
 tags:
 - OKF Deutschland
 title: OKF DE Tätigkeitsbericht Februar 2013
 type: post
-
-
 ---
 
 ## Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland: Zeitraum: Februar 2013

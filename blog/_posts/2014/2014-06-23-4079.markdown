@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/06/14159657713_b0d14ac5ec_o-150x99.jpg
   title: republica 2014, Tag 2
 layout: post
-published: true
-status: publish
 tags:
 - Monatsrückblick
 - Code for Germany
@@ -14,8 +12,6 @@ tags:
 - Jugend hackt
 title: Aktivitäten und Projekte im Mai 2014
 type: post
-
-
 ---
 
 #### Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland:

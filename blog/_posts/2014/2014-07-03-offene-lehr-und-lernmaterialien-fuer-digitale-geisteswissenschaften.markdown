@@ -4,15 +4,11 @@ date: 2014-07-03 11:18:00
 image:
   src: /files/blog/2014/07/geisteswissenschaften-schulungsmaterialien.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - offenes Wissen
 title: Offene Lehr- und Lernmaterialien für digitale Geisteswissenschaften
 type: post
-
-
 ---
 
 Im Rahmen von [DARIAH-DE](http://de.dariah.eu) (der deutsche Beitrag der europaweit agierenden Forschungsinfrastruktur "DARIAH-EU – Digital Research Infrastructure for the Arts and Humanities") wurde in den letzten Monaten damit begonnen Schulungsmaterial zu Verfahren, zu Methoden und zu Themen der Digital Humanities (digitale Geisteswissenschaften) unter offenen Lizenzen (CC-BY) zur Verfügung zu stellen. Die Sammlung enthält sowohl Materialien, die im Rahmen von DARIAH-DE entwickelt und zusammengestellt wurden, sowie Schulungs- und Lehrmaterial von international forschenden und lehrenden Wissenschaftlerinnen und Wissenschaftlern. 

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/07/DH-DARIAH-Fellowship_small-e1406720208783.png
   title: DH-DARIAH-Fellowship
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 - DARIAH
@@ -14,8 +12,6 @@ tags:
 - Fellowship
 title: Fünf Fellowships für (digitale) GeisteswissenschaftlerInnen. Ausschreibung läuft bis zum 30.09.14!
 type: post
-
-
 ---
 
 Im Rahmen der DH-Nachwuchsförderung sollen über die Ausschreibung von fünf [DARIAH-DE](http://de.dariah.eu/) Fellowships innovative sowie individuelle Ansätze und Projekte in den digitalen Geisteswissenschaften gefördert werden.

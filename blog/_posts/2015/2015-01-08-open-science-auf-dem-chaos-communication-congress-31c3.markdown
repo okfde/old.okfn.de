@@ -6,14 +6,11 @@ image:
   title: 31c3-open-science
   licence: "CC-BY [Konrad Förstner](http://konrad.foerstner.org/)"
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - Open Science
 title: Gastbeitrag - Open Science auf dem Chaos Communication Congress (31C3)
 type: post
-
 ---
 Ende Dezember 2014 veranstaltete der [Chaos Computer Club](http://ccc.de/) zum 31. mal die jährliche, internationale Konferenz [Chaos Communication Congress (31C3)](https://events.ccc.de/congress/2014/wiki/Static:Main_Page). An vier Tagen gab es unter dem Motto “A New Dawn” zahlreiche Aktivitäten zu unterschiedlichen technischen und gesellschaftlichen Themen. Ein Gastbeitrag von Konrad Förstner.
 

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/09/hackmack-transparenz-hamburg.png
   title: hackmack-transparenz-hamburg
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Hamburg
@@ -14,8 +12,6 @@ tags:
 - Transparenz
 title: 'Hamburger Transparenzportal: "Ich habe einen sehr positiven ersten Eindruck"'
 type: post
-
-
 ---
 
 Am 6. Oktober 2014 tritt nach zweijähriger Übergangszeit die zweite Stufe des Hamburgischen Transparenzgesetzes in Kraft. Danach müssen alle wichtigen Dokumente der Stadt, wie Verträge der Daseinsvorsorge über 100.000 EUR, Gutachten, Subventions- und Zuwendungsvergaben, Geodaten usw. von Amts wegen in einem über das Internet zugänglichen Informationsregister veröffentlich werden. Dieses Hamburger Transparenzgesetz ist in Deutschland ein bisher einmaliges Projekt.

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/02/ODD1.jpg
   title: ODD1
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Hackday
@@ -14,8 +12,6 @@ tags:
 - open data day
 title: 'Pics: Open Data Day 2013 @ Zeit ONLINE'
 type: post
-
-
 ---
 
 **Today is Open Data Day!** Find here first pictures from the **[Berlin hackathon](http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE)** which is currently taking place at the HQ of Zeit ONLINE.

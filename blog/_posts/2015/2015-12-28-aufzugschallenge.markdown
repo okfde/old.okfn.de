@@ -4,8 +4,6 @@ date: 2015-12-28 12:37:00
 image: 
   src: /files/blog/2015-12/dbhackathon.jpg
 layout: post
-published: true
-status: publish
 card: true
 tags:
 - Deutschland

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/10/cropped-oknrw-logo_960x80-415x34.png
   title: oknrw logo
 layout: post
-published: true
-status: publish
 tags:
 - Barcamp
 - Deutschland
@@ -18,8 +16,6 @@ tags:
 - Open Government
 title: Drittes Barcamp Offene Kommunen.NRW am 9. November
 type: post
-
-
 ---
 
 Am 9. November veranstaltet das Kompetenznetz Bürgerhaushalt die dritte Tagung "[Offene Kommunen.NRW - Schritte in die Praxis](http://oknrw.de/)" in Wuppertal. 

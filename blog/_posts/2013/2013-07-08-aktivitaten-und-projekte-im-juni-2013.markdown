@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/07/open_data_census.jpg
   title: Open Data Census
 layout: post
-published: true
-status: publish
 tags:
 - Apps
 - Behörden

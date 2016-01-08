@@ -4,15 +4,11 @@ date: 2014-05-20 08:40:30
 image:
   src: /files/blog/2014/05/okfn_global_editors_forum_faz_JPEG.jpg
 layout: post
-published: true
-status: publish
 tags:
 - GEN
 - Hackday
 title: Open Knowledge Foundation Deutschland gewinnt Editors Lab Hackday
 type: post
-
-
 ---
 
 Auf dem [Hackday in der Berliner F.A.Z.-Redaktion in Zusammenarbeit mit dem Global Editors Forum](http://www.globaleditorsnetwork.org/programmes/editors-lab/season-2013-2014/editors-lab-berlin/) arbeiteten Journalisten, Designer und Programmierer aus ganz Deutschland am vergangenen Wochenende an innovativen Tools und Methoden rund um den Datenschutz. Am Ende entschied eine Jury und das Publikum über den besten Hack. Sowohl Jury als auch Publikum entschieden sich für ein Projekt vom Team der Open Knowledge Foundation Deutschland.

@@ -2,15 +2,11 @@
 author: Arne Semsrott
 date: 2014-12-19 15:56:21
 layout: post
-published: true
-status: publish
 tags:
 - FragdenStaat
 - IFG
 title: '2014: Das Jahr in 12 IFG-Anfragen'
 type: post
-
-
 ---
 
 _Dieses Jahr war viel los auf FragDenStaat. In diesem Rückblick führen wir noch einmal durch die Höhen und Tiefen von 2014 mit einer Anfrage pro Monat._ **Januar**: Die Berliner Polizei hat klammheimlich eine **Vorratsdatenbank** für Veranstaltungen erstellt, in der u.a. die Daten von Demo-Anmeldern für drei Jahre gespeichert werden. Die Ausgestaltung der Datenbank wird durch eine IFG-Anfrage deutlich.  

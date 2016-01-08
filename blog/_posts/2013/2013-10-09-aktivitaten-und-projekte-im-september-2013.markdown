@@ -4,8 +4,6 @@ date: 2013-10-09 05:55:26
 image:
   src: http://farm6.staticflickr.com/5460/9722853923_4fc203e524_z.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Hackday
@@ -17,8 +15,6 @@ tags:
 - Open Access
 title: Aktivitäten und Projekte im September 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 

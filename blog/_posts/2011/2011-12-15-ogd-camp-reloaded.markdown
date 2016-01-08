@@ -2,16 +2,12 @@
 author: Hauke Gierow
 date: 2011-12-15 07:00:46
 layout: post
-published: true
-status: publish
 tags:
 - Community
 - OGDCamp
 - OKFN
 title: OGD Camp reloaded
 type: post
-
-
 ---
 
 Viele von euch waren sicherlich beim [Open Government Data Camp](http://ogdcamp.org) in Warschau dabei, einige wären gerne dagewesen, konnten aber nicht. Alle die da waren konnten sicherlich nicht alles ansehen und behalten was sie wollten.

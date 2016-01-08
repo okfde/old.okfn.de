@@ -5,16 +5,12 @@ image:
   src: /files/blog/2014/09/transparenzportal-hamburg-beta-415x277.png
   title: transparenzportal-hamburg-beta
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - HmbTG
 - Informationsfreiheit
 title: Erster Transparenztag in Hamburg
 type: post
-
-
 ---
 
 Das [OK Lab Hamburg](http://codefor.de/hamburg/index.html) lädt am kommenden Sonntag zum ersten Transparenztag Hamburg ein. Anlass ist das gerade gestartete [Transparenzportal der Stadt Hamburg](http://transparenz.hamburg.de/). Damit das Portal mit Leben gefüllt wird, wollen wir einen Tag mit dem Portal arbeiten, lernen wie es funktioniert, und kleine Geschichten generieren.

@@ -2,8 +2,6 @@
 author: Hauke Gierow
 date: 2011-09-26 16:36:27
 layout: post
-published: true
-status: publish
 tags: []
 title: '"Open Data Trüffelschweine"'
 type: post

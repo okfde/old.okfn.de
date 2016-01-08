@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-08-01 10:30:38
 layout: post
-published: true
-status: publish
 tags:
 - Informationsfreiheit
 - Open Government
@@ -11,8 +9,6 @@ tags:
 - Transparenz
 title: „Frag den Staat“ erleichtert Zugang zu Informationen aus Ministerien und Behörden
 type: post
-
-
 ---
 
 Heute startet die OKF Deutschland das neue Informationsfreiheitsportal "[Frag den Staat](http://fragdenstaat.de)". Die Seite erlaubt es Bürgern, Journalisten und Forschern bei über 830 Bundeseinrichtungen Informationen anzufragen. Alle Anfragen können auf der Seite verfolgt werden und tragen damit zu einem öffentlichen Archiv amtlicher Dokumente bei.

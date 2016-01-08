@@ -5,14 +5,11 @@ image:
   src: http://jugendhackt-de.okblogfarm.org/files/2015/06/18213770873_f971c106c7_z.jpg
   title: Hardwarebastelei
 layout: post
-published: true
-status: publish
 tags:
 - OER
 title: Im “Spiel des Lebens” wird soziale Ungleichheit verdeutlicht und durch “Paketmagie” entsteht ein dezentrales, umweltfreundliches Logistiksystem - die Jugend im Süden hat gehackt!
 
 type: post
-
 ---
 42 Stunden, 48 technikbegeisterte Jugendliche, 16 Mentorinnen und Mentoren, und ebenso viele helfende Hände – das war das Rezept für Jugend hackt Süd. Ermöglicht wurde die Veranstaltung durch den <a href="http://award.codeweek.de/">Code Week Award</a>, den Jugend hackt Süd für die Austragung des Events erhalten hatte.
 

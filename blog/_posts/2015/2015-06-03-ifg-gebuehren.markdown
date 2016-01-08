@@ -5,8 +5,6 @@ image:
   src: https://netzpolitik.org/wp-upload/2111661914_047d8ca339_z-300x177.jpg
   licence: CC BY 2.0 via flickr/matze_ott
 layout: post
-published: true
-status: publish
 tags: []
 title: "500 Euro für PDFs: Ministerien gefährden mit Gebührenzwang Informationsfreiheit"
 type: post

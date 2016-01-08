@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/10/labforcity-415x232.jpg
   title: labforcity
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Berlin
@@ -14,8 +12,6 @@ tags:
 - smart city
 title: Lab for CITY (Civic Innovation and Technology) - 21. Nov. via Live Stream verfolgen
 type: post
-
-
 ---
 
 Unsere Arbeit bei der Open Knowledge Foundation Deutschland ist stets durch die Begeisterung an Technologien und Innovationen gekennzeichnet, die es dem Bürger ermöglichen, komplexe Prozesse zu verstehen und sich an politischen Entscheidungen zu beteiligen. Je mehr Wissen wir teilen, desto mehr Innovationen können entstehen.

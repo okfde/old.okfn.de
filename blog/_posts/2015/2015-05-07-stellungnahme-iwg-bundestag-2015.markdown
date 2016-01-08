@@ -5,8 +5,6 @@ image:
   src: /files/blog/2015/05/iwg-entwurf-2015.png
   title: IWG-Entwurf 2015
 layout: post
-published: true
-status: publish
 tags:
 - Gesetz
 - Open Data

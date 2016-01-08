@@ -5,8 +5,6 @@ image:
   src: /files/blog/2015/04/codeforde.jpg
   title: 
 layout: post
-published: true
-status: publish
 tags:
 - Jobs
 title: "Praktikum bei Code for Germany - Bewerbungsfrist verlängert"

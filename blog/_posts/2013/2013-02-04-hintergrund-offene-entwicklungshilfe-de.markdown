@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/02/indikatoren.png
   title: indikatoren
 layout: post
-published: true
-status: publish
 tags:
 - Transparenz
 - offene Entwicklungshilfe
@@ -15,8 +13,6 @@ tags:
 - Transparenz
 title: Hintergrund offene-entwicklungshilfe.de
 type: post
-
-
 ---
 
 Wenn man Finanzdaten zur Entwicklungshilfe sucht, gibt es praktisch nur zwei Optionen. [Hoch aggregierte Daten beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung](http://www.bmz.de/de/ministerium/zahlen_fakten/index.html), wo nur ein paar Zahlen angeboten werden, oder [akademisch anmutende Webseiten der OECD, wo man nach Zahlen forschen muss.](http://www.aidflows.org) **[Offene-Entwicklungshilfe.de](http://www.offene-entwicklungshilfe.de)** soll anders sein. Hier werden Daten anschaulich dargestellt, so dass man einfach durch die Zahlen wandern kann, statt komplizierte Anwendungen zu bedienen. Außerdem gibt es hier detaillierte alle staatlichen Ausgaben der Entwicklungshilfe nach Ländern, Schwerpunkten und bis auf die Projektebene.

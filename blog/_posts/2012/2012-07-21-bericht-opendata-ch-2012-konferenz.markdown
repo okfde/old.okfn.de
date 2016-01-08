@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2012-07-21 08:43:23
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - offene Daten
@@ -11,8 +9,6 @@ tags:
 - Open Data
 title: Bericht von der OpenData.CH 2012 Konferenz
 type: post
-
-
 ---
 
 Die [Opendata.ch 2012](http://opendata.ch/projects/opendata-ch-konferenz-2012/) am 28. Juni 2012 in Zürich war, spannend und ein guter Gradmesser für offene Daten in der Schweiz. Die [Beiträge der Konferenz](http://opendata.ch/projects/opendata-ch-konferenz-2012/) sind umfassend dokumentiert, die Videos und Slides der Plenum-Speaker sind ab sofort komplett online verfügbar.

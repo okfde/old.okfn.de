@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/02/profilbild.png
   title: Code for Germany
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - civic tech
@@ -17,8 +15,6 @@ tags:
 - Städte
 title: Hallo, Code for Germany
 type: post
-
-
 ---
 
   

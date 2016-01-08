@@ -4,16 +4,12 @@ date: 2014-12-02 16:44:59
 image:
   src: https://fragdenstaat.de/static/img/kampagnen/2014/xmas/boehrnsen.png
 layout: post
-published: true
-status: publish
 tags:
 - Bremen
 - FragdenStaat
 - IFG
 title: 'Winteraktion: Ganz Deutschland bei FragDenStaat'
 type: post
-
-
 ---
 
 Frohe Weihnachten! Pünktlich zum Start des Weihnachtstrubels schaltet FragDenStaat.de an jedem Adventssonntag ein neues Bundesland auf der Plattform frei. Seit dem 1. Advent lassen sich die 161 Behörden Bremens über das IFG auf FragDenStaat anfragen. Und mit ein bisschen Glück haben die NutzerInnen zu Weihnachten ein paar schöne Infos unter dem Weihnachtsbaum.

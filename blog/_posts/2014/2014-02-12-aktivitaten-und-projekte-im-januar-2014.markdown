@@ -5,16 +5,12 @@ image:
   src: /files/blog/2014/02/9355803172_a499734c0b_q.jpg
   title: ''
 layout: post
-published: true
-status: publish
 tags:
 - Monatsrückblick
 - offene Daten
 - offenes Wissen
 title: Aktivitäten und Projekte im Januar 2014
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**

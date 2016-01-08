@@ -4,8 +4,6 @@ date: 2014-08-24 09:54:13
 image:
   src: /files/blog/2014/08/OERde14_grau_breit-415x294.png
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - Termine
@@ -14,8 +12,6 @@ tags:
 - Wikimedia
 title: 'Jetzt anmelden: Konferenz zu offenen Bildungsmaterialien im September 2014 in Berlin (#OER14de)'
 type: post
-
-
 ---
 
 Obwohl im Koalitionsvertrag erwähnt, wurde das Thema offene und freie Bildungsmaterialien (OER) leider ([wie vieles andere im Bereich Bildung und Wissenschaft](http://cdc.leuphana.com/news/news/blog-article/aus-einer-geschlossenen-alpha-muss-schnell-eine-offene-beta-werden/)) im Rahmen der kürzlich veröffentlichten Digitalen Agenda von der Politik [komplett ignoriert](http://buendnis-freie-bildung.de/stellungnahme-digitale-agenda-oer-lehrmittel-bildung/). Um das zu ändern und die Wirklichkeit der offenen und freien Bildungsmaterialien in Deutschland zu diskutieren, veranstaltet Wikimedia Deutschland mit der "[#OERde14 - Die Zukunft Freier Bildungsmaterialien](https://www.wikimedia.de/wiki/OERde14)" am 12\. und 13. September 2014 bereits das zweite Mal die größte Konferenz zu freien Bildungsmaterialien im deutschsprachigen Raum. Förderin der Konferenz ist die Bundeszentrale für politische Bildung. Schirmherrin ist die Deutsche UNESCO Kommission. Die Open Konwledge Foundation Deutschland e.V. unterstützt die Konferenz.

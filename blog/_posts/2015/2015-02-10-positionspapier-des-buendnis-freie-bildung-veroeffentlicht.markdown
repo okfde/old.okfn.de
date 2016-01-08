@@ -4,15 +4,11 @@ date: 2015-02-10 10:44:52
 image:
   src: /files/blog/2015/02/buendnis-freie-bildung-415x76.png
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - OER
 title: Positionspapier des Bündnis freie Bildung veröffentlicht
 type: post
-
-
 ---
 Bildungsgerechtigkeit ist ein wichtiger Indikator für die gesellschaftlichen Perspektiven in Deutschland. Das Bündnis freie Bildung (BFB) hat heute ein gemeinsames Positionspapier zum Thema freie und offene Bildungsmaterialien verabschiedet. Das Bündnis stellt dabei fest, dass die bisherigen Entwicklungen, insbesondere im Bereich der Verfügbarkeit freier und offener Bildungsmaterialien, bisher unzureichend sind und eine klare Strategie zwingend notwendig ist.
 

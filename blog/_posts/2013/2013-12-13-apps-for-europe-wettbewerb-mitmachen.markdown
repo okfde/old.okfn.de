@@ -4,8 +4,6 @@ date: 2013-12-13 11:05:24
 image:
   src: /files/blog/2013/12/a4e_logo.png
 layout: post
-published: true
-status: publish
 tags:
 - Apps
 - Apps4EU
@@ -14,8 +12,6 @@ tags:
 - Open Data
 title: Apps for Europe Wettbewerb - mitmachen!
 type: post
-
-
 ---
 
 Arbeiten Sie an einer App, die offene Daten verwendet? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:

@@ -2,8 +2,6 @@
 author: Martin Koll
 date: 2013-10-04 12:48:10
 layout: post
-published: true
-status: publish
 tags:
 - Behörden
 - Berlin
@@ -14,8 +12,6 @@ tags:
 - Open Transport
 title: Die Berliner Geodaten stehen ab sofort kostenfrei zur Verfügung
 type: post
-
-
 ---
 
 Nach längeren internen Vorbereitungen teilte die Senatsverwaltung am Anfang der Woche mit, dass ab dem 1. Oktober die [amtlichen Geodaten der Vermessungsverwaltung](http://www.stadtentwicklung.berlin.de/aktuell/pressebox/archiv_volltext.shtml?arch_1310/nachricht5075.html) angelehnt, an die die Open-Data-Prinzipien kostenfrei abgegeben werden.

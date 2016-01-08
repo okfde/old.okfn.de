@@ -4,8 +4,6 @@ date: 2014-12-05 18:50:38
 image:
   src: /files/blog/2014/12/header-415x104.png
 layout: post
-published: true
-status: publish
 tags:
 - Verbraucherschutz
 title: Smarte Bürger - Verbraucherschutz in der digitalen Welt

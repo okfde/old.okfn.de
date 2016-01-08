@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/01/OpenDataHackathonDay-Kopie.png
   title: OpenDataHackathonDay
 layout: post
-published: true
-status: publish
 tags:
 - Event
 - Termine
@@ -15,8 +13,6 @@ tags:
 - Veranstaltung
 title: International Open Data Day 2014
 type: post
-
-
 ---
 
 Es ist wieder soweit, wie in jedem Jahr wird es auch 2014 wieder einen [internationalen Open Data Hackathon ](http://opendataday.org/index_de.html) geben. Am 22. Februar wird auf Events rund um den Globus mit offenen Daten gearbeitet. Ziel ist es die Bekanntheit von Open Data zu steigern, weitere Daten zu öffnen und zu zeigen, welches Potenzial in offenen Daten steckt.

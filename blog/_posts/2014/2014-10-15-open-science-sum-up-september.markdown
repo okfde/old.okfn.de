@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2014/10/DataLibrary-580x370.jpg
   title: Collage aus Datacenter, cc by-sa 2.0 von Arthur Caranta (links) und Library, cc by 2.0 von Loughborough University Library
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up September
 type: post
-
-
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.

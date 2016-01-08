@@ -5,14 +5,10 @@ image:
   src: /files/blog/2014/07/2014-06-23-11.03.38.jpg
   title: SAMSUNG
 layout: post
-published: true
-status: publish
 tags:
 - Schülerpraktikum
 title: Mein Schülerpraktikum
 type: post
-
-
 ---
 
 _von Leander Kutz_

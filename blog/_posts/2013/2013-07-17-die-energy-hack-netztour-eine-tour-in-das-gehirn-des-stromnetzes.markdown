@@ -5,8 +5,6 @@ image:
   src: https://farm8.staticflickr.com/7364/9309009852_1985674b37_z.jpg
   title: Energy Hack "Gridtour"
 layout: post
-published: true
-status: publish
 tags:
 - Energiedaten
 - Energy
@@ -14,8 +12,6 @@ tags:
 - Hackday
 title: Die "Energy Hack" Netztour – Eine Tour in das Gehirn des Stromnetzes
 type: post
-
-
 ---
 
 Am Freitag, den 12. Juli 2013, hatten die Gewinnerteams des Energy Hack bei einer Netztour im Berliner Stromnetz die Gelegenheit einen Blick hinter die Kulissen des Stromnetzbetriebes zu werfen. 

@@ -2,8 +2,6 @@
 author: Martin Koll
 date: 2013-09-20 09:23:18
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - frag den staat
@@ -11,8 +9,6 @@ tags:
 - Transparenz
 title: Informationsfreiheit und die Bundestagswahl
 type: post
-
-
 ---
 
 **Wie stehen die großen Parteien zur Bundestagswahl zu einer möglichen Verbesserung des IFG?**

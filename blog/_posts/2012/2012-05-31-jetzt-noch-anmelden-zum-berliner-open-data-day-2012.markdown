@@ -2,8 +2,6 @@
 author: Hauke Gierow
 date: 2012-05-31 11:39:42
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Berlin
@@ -14,8 +12,6 @@ tags:
 - Verwaltung
 title: Jetzt anmelden zum Berliner Open Data Day 2012
 type: post
-
-
 ---
 
 Wie können offene Daten und Transparenz im Handeln der Verwaltung nachhaltig verankert werden? Wie kann noch mehr Vertrauen und Verständnis zwischen den Akteuren hergestellt werden? Wie können den Bürgern die Vorteile offen zugänglicher Daten noch näher gebracht werden? Unter dem Motto “Näher am Bürger - näher an den Daten” lädt die Aktionsplattform Berlin Open Data am Mittwoch, 6. Juni 2012, von 10 bis 18 Uhr zum zweiten Berlin Open Data Day (BODDy) ins Rote Rathaus in Berlin-Mitte.

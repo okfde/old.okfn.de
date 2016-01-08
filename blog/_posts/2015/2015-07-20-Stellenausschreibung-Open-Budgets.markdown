@@ -5,13 +5,10 @@ image:
   src: /files/blog/2015/07/jobs.jpg
   title: Jobs bei OKFDE
 layout: post
-published: true
-status: publish
 tags:
 - Jobs
 title: Junior Researcher/Journalist für OpenBudgets.EU gesucht
 type: post
-
 ---
 ###  Junior Researcher/Journalist with a strong technical background (Product Owner) in the H2020 EU Project: OpenBudgets.EU
 

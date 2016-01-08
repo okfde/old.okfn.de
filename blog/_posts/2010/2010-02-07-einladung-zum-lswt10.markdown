@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2010-02-07 09:16:40
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Open Knowledge
@@ -11,8 +9,6 @@ tags:
 - Termine
 title: Einladung zum LSWT10
 type: post
-
-
 ---
 
 **Wir planen am 6. Mai auf dem Leipziger Semantic Web Tag 2010 die feierliche Gründungszeremonie des deutschen Zweiges der Open Knowledge Foundation. Dazu möchten wir Sie herzlich einladen.**

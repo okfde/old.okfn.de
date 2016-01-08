@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2014/08/peerreview.jpg
   title: Peer Review, cc by-sa 2.0, flickr AJ Cann
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up Juli
 type: post
-
-
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.

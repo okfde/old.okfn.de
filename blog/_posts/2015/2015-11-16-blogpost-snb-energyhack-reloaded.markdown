@@ -4,8 +4,6 @@ date: 2015-11-16 10:00:00
 image:
   src: /files/blog/2015/11/ehr-intro.jpg
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Hackday
@@ -15,8 +13,6 @@ tags:
 - Wirtschaft
 title: So war der Energyhack Reloaded!
 type: post
-
-
 ---
 <strong> Blackout und Krisenvorsorge </strong> - mit diesen zwei zentralen Themen beschäftigten sich letzten Samstag, am 14. November 2015 in Berlin, 30 Open Data- und Energie-Expert/innen beim Energyhack Reloaded.
 

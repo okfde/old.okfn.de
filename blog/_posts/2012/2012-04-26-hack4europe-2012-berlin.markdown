@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2012-04-26 14:01:50
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - Berlin
@@ -13,8 +11,6 @@ tags:
 - Open Knowledge
 title: Hack4Europe! 2012 Berlin
 type: post
-
-
 ---
 
 [Hack4Europe!](http://pro.europeana.eu/web/guest/hackathons) is a series of hack days organised by the Europeana Foundation and its partners and provides an exciting environment to explore the potential of open cultural data for social and economic growth in Europe. To feel the atmosphere to the event you can read [a short summary of one of the events from the last year edition](http://dl.psnc.pl/2011/06/22/podsumowanie-hack4europe/lang-pref/en/). See the Video from 2011 events:

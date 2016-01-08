@@ -5,8 +5,6 @@ image:
   src: /files/blog/2015/01/horizon2020_0.jpg
   title: horizon2020_0
 layout: post
-published: true
-status: publish
 tags:
 - Anti-corruption
 - Open Data
@@ -16,8 +14,6 @@ tags:
 - Whistleblowing
 title: Open Knowledge Foundation Germany awarded H2020 project to improve transparency in public spending and support whistleblowing
 type: post
-
-
 ---
 Horizon 2020 project DIGIWHIST to build a digital whistleblowing platform and help improve transparency in public spending
 

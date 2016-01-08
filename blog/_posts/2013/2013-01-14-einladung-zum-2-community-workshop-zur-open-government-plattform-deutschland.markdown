@@ -4,8 +4,6 @@ date: 2013-01-14 11:31:17
 image:
   src: /files/blog/2013/01/OGDP.png
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Behörden
@@ -14,8 +12,6 @@ tags:
 - Open Government
 title: 2. Community Workshop zur Open Government Plattform Deutschland
 type: post
-
-
 ---
 
   

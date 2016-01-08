@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/04/effstaat.jpg
   title: effstaat
 layout: post
-published: true
-status: publish
 tags:
 - Behörden
 - Berlin
@@ -18,8 +16,6 @@ tags:
 - Transparenz
 title: 'Effizienter Staat 2014: Offene Daten und transparentes Regierungshandeln in der Verwaltungsrealität'
 type: post
-
-
 ---
 
 In dieser Zeit geht einiges durcheinander: Dr. Göttrik Wewer, Vize-Präsident E-Government bei der Deutschen Post, holt [in einem kürzlich veröffentlichten Artikel](http://www.vum.nomos.de/fileadmin/vum/doc/Aufsatz_VM_14_01.pdf) zu einem Generalschlag gegen die “Transparenzbewegung” aus. Aber ist das alles wirklich so einfach? Besteht die Entwicklung rund um offene Daten und transparentes Regierungshandeln in Deutschland aktuell nur aus "Transparenzterror", sowie aus "Konfrontation, Kontrolle und Konflikt"?

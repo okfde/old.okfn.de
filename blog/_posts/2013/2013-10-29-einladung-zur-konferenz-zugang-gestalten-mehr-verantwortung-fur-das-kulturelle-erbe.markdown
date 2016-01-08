@@ -2,8 +2,6 @@
 author: Helene Hahn
 date: 2013-10-29 13:54:46
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - Digitalisierung
@@ -12,8 +10,6 @@ tags:
 - OpenGLAM
 title: Einladung zur Konferenz "Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe"
 type: post
-
-
 ---
 
 Wir möchten Euch herzlich zur 3. Internationalen Konferenz **“[Zugang gestalten!](http://www.zugang-gestalten.de/) - Mehr Verantwortung für das kulturelle Erbe**”, am 28. und 29. November im Jüdischen Museum Berlin, einladen!

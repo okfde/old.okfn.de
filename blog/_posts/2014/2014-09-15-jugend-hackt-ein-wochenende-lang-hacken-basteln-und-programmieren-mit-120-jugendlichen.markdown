@@ -5,14 +5,10 @@ image:
   src: /files/blog/2014/09/15041977270_2214ee6eaf_k-415x276.jpg
   licence: Leonard Wolf
 layout: post
-published: true
-status: publish
 tags:
 - Jugend hackt
 title: Jugend hackt - ein Wochenende lang hacken, basteln und programmieren mit 120 Jugendlichen
 type: post
-
-
 ---
 
 Berlin, 15.09.2014 - Am vergangenen Wochenende fand zum zweiten Mal [Jugend hackt](http://jugendhackt.de) statt, eine Veranstaltung der [Open Knowledge Foundation](//okfn.de) in Kooperation mit “[Young Rewired State](https://youngrewiredstate.org)” aus Großbritannien und der Agentur für Medienbildung “[Mediale Pfade](http://medialepfade.de/)”. Ein Wochenende lang kamen 120 Jugendliche aus ganz Deutschland im [Jugendhaus Königstadt](http://www.jugendhaus-koenigstadt.de) in Berlin zusammen, um gemeinsam mit Gleichgesinnten an Softwareprojekten rund um die Themen Überwachung, Bildung, Gesundheit, Gesellschaft, Freizeit und Umwelt zu arbeiten.

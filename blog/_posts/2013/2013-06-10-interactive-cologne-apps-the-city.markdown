@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/06/interactive-cologne.jpg
   title: Interactive Cologne
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Interactive Cologne
@@ -15,8 +13,6 @@ tags:
 - Open Transport
 title: 'Interactive Cologne: Apps & the City in Köln'
 type: post
-
-
 ---
 
 **Zwischen 17. und 23. Juni wird die Domstadt Köln zur Hochburg für Hacker, Gründer und kreative Köpfe aus aller Welt, denn kommende Woche startet das Hack, Tech und Biz Festival _Interactive Cologne_! Mit dabei ist auch das _Apps & the City_ Team der Open Knowledge Foundation Deutschland...**

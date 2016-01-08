@@ -4,8 +4,6 @@ date: 2013-10-04 11:46:27
 image:
   src: /files/blog/2013/10/open_access_tage_hamburg.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Konferenz
 - offenes Wissen
@@ -13,8 +11,6 @@ tags:
 - Open Science
 title: 'Rückblick: Open Access Tage 2013 in Hamburg'
 type: post
-
-
 ---
 
 Genau zwei Wochen vor der 7. internationalen [Open Access Woche](http://www.openaccessweek.org/) und knapp 10 Jahre nach der [Berliner Erklärung](http://oa.mpg.de/lang/de/berlin-prozess/berliner-erklarung/), fanden in Hamburg die diesjährigen [Open Access Tage](http://open-access.net/de/aktivitaeten/open_access_tage/) statt.

@@ -2,15 +2,11 @@
 author: Daniel Dietrich
 date: 2011-11-04 07:00:44
 layout: post
-published: true
-status: publish
 tags:
 - Bibliotheken
 - Open Data
 title: Rechtlicher Leitfaden zur Freigabe von Katalogdaten veröffentlicht
 type: post
-
-
 ---
 
 Im Auftrag des Hochschulbibliothekszentrums des Landes Nordrhein-Westfalen (hbz) hat der auf Urheberrecht spezialisierte Rechtswissenschaftler und Rechtsanwalt Dr. Till Kreutzer, Mitglied der Redaktion von irights.info und Mitglied im wissenschaftlichen Beirat der OKF Deutschland, den rechtlichen Leitfaden "Open Data – Freigabe von Daten aus Bibliothekskatalogen" erstellt. Der Leitfaden  

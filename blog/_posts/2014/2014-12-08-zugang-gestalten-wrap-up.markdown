@@ -4,8 +4,6 @@ date: 2014-12-08 12:36:04
 image:
   src: /files/blog/2014/12/IMG_1097a-415x276.jpg
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - Digitalisierung
@@ -14,8 +12,6 @@ tags:
 - Zugang gestalten
 title: Zugang gestalten! - Wrap-up
 type: post
-
-
 ---
 
  Über 300 Besucher dieses Jahr, CC-BY Hansgeorg Schöner

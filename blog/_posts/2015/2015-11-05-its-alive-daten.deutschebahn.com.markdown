@@ -4,8 +4,6 @@ date: 2015-11-05 18:59:59
 image: 
   src : /files/blog/2015/11/db_launch.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Nahverkehr
@@ -13,7 +11,6 @@ tags:
 - Deutsche Bahn
 title: "It's alive… data.deutschebahn.com" 
 type: post
-
 ---
 *Frankfurt, 05.11.2015* 19:00 Es ist hoch offiziös. [http://data.deutschebahn.com](http://data.deutschebahn.com) ist online. Endlich. Sie bewegt sich doch. Unternehmen Zukunft. Die Bahn kommt. Und alle so: Yeah.
 

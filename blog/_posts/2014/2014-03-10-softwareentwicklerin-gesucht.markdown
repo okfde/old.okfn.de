@@ -2,16 +2,12 @@
 author: Fiona Krakenbuerger
 date: 2014-03-10 11:29:11
 layout: post
-published: true
-status: publish
 tags:
 - Community
 - Jobs
 - OKF Deutschland
 title: Softwareentwickler/in gesucht
 type: post
-
-
 ---
 
 In eigener Sache: Wir suchen einen erfahrenen Softwareentwickler oder eine erfahrene Softwareentwicklerin für die projektbezogene Zusammenarbeit auf Honorarbasis. Weitersagen, teilen oder gleich bewerben!

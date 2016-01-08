@@ -5,14 +5,10 @@ image:
   src: /files/blog/2013/11/677_fb17f7317a12e9128cff38d121059e86.jpg
   title: IMG_2294
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 title: App nach Litauen
 type: post
-
-
 ---
 
 _Dies ist ein Gastbeitrag von Finn, Daniel und Niklas, deren App PlateCollect bei [Jugend hackt](http://jugendhackt.de) gewonnen hat._

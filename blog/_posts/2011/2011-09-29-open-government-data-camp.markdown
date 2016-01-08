@@ -4,14 +4,10 @@ date: 2011-09-29 07:24:52
 image:
   src: /files/blog/2011/09/OGDCamp_OKF_SiteImgDeutsch4.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 title: Open Government Data Camp
 type: post
-
-
 ---
 
 Für alle, die nach der OKCon nach der nächsten spannenden Möglichkeit suchen, sich mit anderen engagierten Leuten über die Möglichkeiten offener Daten informieren zu können veranstaltet die Open Knwowledge Foundation in Zusammenarbeit mit über 20 Partnern und Teilnehmern aus über 50 Ländern das Open Government Data Camp in Warschau.

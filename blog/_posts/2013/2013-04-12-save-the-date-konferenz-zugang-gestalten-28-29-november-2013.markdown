@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/04/ZugangGestalten.jpg
   title: Zugang Gestalten
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Berlin
@@ -15,8 +13,6 @@ tags:
 - open GLAM
 title: 'Save the date: Konferenz Zugang gestalten! 28./29. November 2013'
 type: post
-
-
 ---
 
 Save the date: 28./29. November 2013: Konferenz „Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe“ im Jüdischen Museum in Berlin. Der Diskurs geht weiter!

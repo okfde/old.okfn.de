@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/12/zugang-gestalten-1-415x276.jpg
   licence: 'Foto: David Jacob, CC-BY-SA'
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - offenes Wissen
@@ -16,8 +14,6 @@ tags:
 - OpenGLAM
 title: Zugang gestalten - Ein Rückblick
 type: post
-
-
 ---
 **Die Konferenz geht in die dritte Runde**
 

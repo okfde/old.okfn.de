@@ -4,8 +4,6 @@ date: 2013-01-08 13:33:03
 image:
   src: http://okfnlabs.org/img/projects/bundesgit_intro.png
 layout: post
-published: true
-status: publish
 tags:
 - bundesgit
 - Termine
@@ -14,8 +12,6 @@ tags:
 - Open Knowledge
 title: BundesGit Hackday im OKFN Office
 type: post
-
-
 ---
 
   

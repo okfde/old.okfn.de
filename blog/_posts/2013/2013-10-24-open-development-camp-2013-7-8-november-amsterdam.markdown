@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/10/banner_odc.png
   title: odc Banner
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Community
@@ -16,8 +14,6 @@ tags:
 - Open Data
 title: Open Development Camp 2013, 7-8 November, Amsterdam
 type: post
-
-
 ---
 
 Am 7. und 8. November findet in Amsterdam das dritte [Open Development Camp](http://www.opendevelopmentcamp.org/) statt.

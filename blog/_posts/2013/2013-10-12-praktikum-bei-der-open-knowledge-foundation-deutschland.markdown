@@ -4,8 +4,6 @@ date: 2013-10-12 12:35:35
 image:
   src: /files/blog/2013/03/8210336893_c76839a169_b.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Community
@@ -13,8 +11,6 @@ tags:
 - OKF Deutschland
 title: Praktikum bei der Open Knowledge Foundation Deutschland
 type: post
-
-
 ---
 
 Derzeit suchen wir zwei neue Praktikanten (w/m) ab Sofort oder Anfang 2014. Genaue Beschreibungen der beiden Praktikas findest Du nachstehend. Je nach Eignung und Absprache sind auch Praktika mit weniger als 40 Wochenstunden möglich. Idealerweise hast Du min. 6 Monate Zeit oder willst länger bei uns arbeiten.

@@ -2,14 +2,10 @@
 author: Friedrich Lindenberg
 date: 2011-07-20 06:20:00
 layout: post
-published: true
-status: publish
 tags:
 - Open Data
 title: 'Versuch es mit Worten: Gebt die Unternehmensdaten frei!'
 type: post
-
-
 ---
 
 Es gibt Dinge, die beim ersten Versuch Spaß machen, beim zweiten Anlauf Mühe und beim dritten einfach Ärger. Ein Beispiel ist das Scrapen des [Unternehmensregisters](http://unternehmensregister.de). Konkreter geht es um die Trägerdaten, also Name, Registerkennung und Anschrift von Unternehmen. Diese Daten stehen - anders als etwa Geschäftsberichte - gratis im Web zur Verfügung. Nur eben nicht als Datenbank, sondern als nerviges Interface. Das heißt: es ist nicht möglich, die Daten mit anderen Quellen (bspw. Parteispenden, Forschungsförderung) zusammenzuführen um Transparenz in komplexen Zusammenhängen zu schaffen. In der Hoffnung, am anderen Ende auf einen netten Menschen zu treffen daher dieser öffentliche Aufruf (leicht gek.):

@@ -4,15 +4,11 @@ date: 2014-10-10 14:34:20
 image:
   src: /files/blog/2013/11/Bildschirmfoto-2013-11-28-um-14.00.47-415x159.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - Termine
 title: Zugang gestalten! am 13./14. Nov. 2014 im Hamburger Bahnhof in Berlin
 type: post
-
-
 ---
 
 Die Digitalisierung bietet die große Chance, den Zugang zum kulturellen Erbe erheblich zu erleichtern und damit einen wichtigen Beitrag zur Wissensgesellschaft der Zukunft zu leisten.

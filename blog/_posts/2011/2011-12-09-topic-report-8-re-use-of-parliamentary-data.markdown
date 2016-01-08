@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-12-09 15:29:25
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Open Data
@@ -12,8 +10,6 @@ tags:
 - Transparenz
 title: 'Topic Report 8: Re-use of Parliamentary Data'
 type: post
-
-
 ---
 
 Ich habe für die [ePSIplatform](http://epsiplatform.eu/) einen weiteren [Topic Report](http://epsiplatform.eu/topicreports) über die Nachnutzung von Parlamentsdaten geschrieben. Hier das [PDF](http://epsiplatform.eu/sites/default/files/Topic%20Report%20re-use%20of%20Parliamentary%20Data.pdf) und einen Auszug des 28 Seitigen Dokuments.

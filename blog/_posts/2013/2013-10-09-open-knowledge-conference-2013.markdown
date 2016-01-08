@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/10/OKConBanner1.png
   title: OKCon Banner
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Community
@@ -20,8 +18,6 @@ tags:
 - Open Science
 title: Open Knowledge Conference 2013 - Rückblick
 type: post
-
-
 ---
 
 Die [Open Knowledge Conference 2013](http://www.okcon.org) ist vorbei. Vom 16. bis zum 18. September haben wir vom Team der Open Knowledge Foundation Deutschland in Genf Experten, Designer, Forscher, Mitarbeiter von Behörden und internationalen Organisationen, Startup-Gründer und Mitgliedern der Open Knowledge Foundation aus aller Welt getroffen. Themen der Konferenz waren neue Entwicklungen u.a. rund um Open Data, Open Science, Open Aid und Open Government.

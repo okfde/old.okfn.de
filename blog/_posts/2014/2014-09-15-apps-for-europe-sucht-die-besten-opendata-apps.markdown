@@ -4,8 +4,6 @@ date: 2014-09-15 15:43:02
 image:
   src: /files/blog/2013/12/a4e_logo.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Apps
@@ -16,8 +14,6 @@ tags:
 - Wettbewerb
 title: 'Apps for Europe sucht die besten #opendata Apps'
 type: post
-
-
 ---
 
 Arbeitest Du an einer App, die offene Daten verwendet? Du möchtest Deine App in ein nachhaltiges Unternehmen weiterentwickeln? [Apps for Europe](http://www.apps4europe.eu/) hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:

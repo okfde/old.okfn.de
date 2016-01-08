@@ -2,8 +2,6 @@
 author: Friedrich Lindenberg
 date: 2011-04-23 08:00:09
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Geodaten
@@ -11,8 +9,6 @@ tags:
 - Open Data
 title: 'GeoBusiness Lizenz: Open Data und die sieben Zwerge'
 type: post
-
-
 ---
 
 **IANAL: I am not a lawyer, was folgt ist Laienmeinung vom allerübelsten.**

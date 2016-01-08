@@ -2,14 +2,10 @@
 author: Eva Panek
 date: 2012-11-26 09:41:25
 layout: post
-published: true
-status: publish
 tags:
 - Freie Software
 title: Enquete-Beteiligung
 type: post
-
-
 ---
 
 Die Arbeitsgruppe ["Interoperabilität, Standards, Freie Software"](https://standards.enquetebeteiligung.de/instance/standards) der Enquete-Kommission Internet und  

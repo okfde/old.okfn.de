@@ -2,13 +2,9 @@
 author: Hauke Gierow
 date: 2012-02-03 10:11:54
 layout: post
-published: true
-status: publish
 tags: []
 title: 'Pressemitteilung: Apps für Deutschland – Sehr gute Beteiligung am ersten nationalen Programmierwettbewerb'
 type: post
-
-
 ---
 
 Über 300 Datensätze, mehr als 100 Ideen und rund 75 fertig programmierte Anwendungen sind nach dem Einreichungsschluss beim ersten nationalen Programmierwettbewerb „Apps für Deutschland” eingegangen. “Das ist eine sehr gute Beteiligung für diesen ersten nationalen Programmierwettbewerb auf der Basis offener Daten”, erklärten die Organisatoren, die drei Nichtregierungsorganisationen Government 2.0 Netzwerk, Opendata Network und die Open Knowledge Foundation Deutschland. Der Wettbewerb wurde am 8. November 2011 durch Bundesinnenminister Dr. Hans-Peter Friedrich auf der Messe Moderner Staat in Berlin eröffnet. Bewerber konnten ihre Vorschläge in den drei Kategorien Daten, Ideen und Anwendungen einreichen.

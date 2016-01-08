@@ -4,15 +4,12 @@ date: 2015-08-31 11:20:56
 image:
   src: /files/blog/2015/08/smarte-buerger.png
 layout: post
-published: true
-status: publish
 tags:
 - Workshops
 - Deutschland
 - Verbraucherschutz
 title: Smarte Bürger - Diskussionsrunde im Abgeordnetenhaus zu Verbraucherschutz in der digitalen Welt
 type: post
-
 ---
 Mit dem Smartphone steht dir das ganze Internet jederzeit zur Verfügung. Jede Information bekommst du mit einem Fingertipp und du kannst alles von überall erledigen. 
 

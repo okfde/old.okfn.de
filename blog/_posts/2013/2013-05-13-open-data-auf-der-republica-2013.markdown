@@ -4,8 +4,6 @@ date: 2013-05-13 12:53:21
 image:
   src: /files/blog/2013/05/republica_13_blog.jpg
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Berlin
@@ -16,8 +14,6 @@ tags:
 - Open Transport
 title: Open Data auf der re:publica 2013
 type: post
-
-
 ---
 
 In der letzten Woche fand in Berlin wieder die [re:publica](https://re-publica.de/) statt. Einen guten Überblick über alle aufgezeichneten Vorträge hat Michael Kreil [hier](http://michaelkreil.github.io/republicavideos/) erstellt.

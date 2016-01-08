@@ -4,15 +4,11 @@ date: 2014-09-22 15:57:09
 image:
   src: /files/blog/2014/09/open-definition-daten-lizenz-deutschland-415x155.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - OKFN
 title: 'Erfolg für Open Data: Datenlizenz Deutschland Version 2.0 ist eine offene Lizenz  (Update)'
 type: post
-
-
 ---
 
 Die im Juli 2014 als Entwurf veröffentlichte Datenlizenz Deutschland Version 2.0 ist als "offene Lizenz" vom [Open Definition](http://www.OpenDefinition.org) [Advisory Council](http://opendefinition.org/advisory-council/) bestätigt worden und entspricht damit allen rechtlichen Anforderungen an Open Data. 

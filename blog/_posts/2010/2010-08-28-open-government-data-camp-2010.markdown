@@ -2,16 +2,12 @@
 author: Daniel Dietrich
 date: 2010-08-28 10:18:54
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Open Data
 - Open Knowledge
 title: Open Government Data Camp 2010
 type: post
-
-
 ---
 
 The Open Knowledge Foundation is organising an international workshop on open government data, which will take place in London this autumn:

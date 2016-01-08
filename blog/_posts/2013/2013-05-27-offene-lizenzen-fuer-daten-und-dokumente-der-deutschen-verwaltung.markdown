@@ -5,16 +5,12 @@ image:
   src: /files/blog/2013/05/Too-Many-Silos.jpg
   title: Too-Many-Silos
 layout: post
-published: true
-status: publish
 tags:
 - Behörden
 - Deutschland
 - offene Daten
 title: Offene Lizenzen für Daten und Dokumente der Deutschen Verwaltung
 type: post
-
-
 ---
 
 Im folgenden findet ihr die Kritik der Open Knowledge Foundation Deutschland am Datenangebot sowie der technischen und rechtlichen Ausgestaltung des gemeinsamen Datenportals von Bund und Ländern – [govdata.de](http://govdata.de).

@@ -2,14 +2,10 @@
 author: Hauke Gierow
 date: 2011-11-11 14:20:07
 layout: post
-published: true
-status: publish
 tags:
 - Knowledge Base
 title: Open Knowledge - base oder 'Warum eigentlich Open Data'
 type: post
-
-
 ---
 
 Seit unserer Gründung Anfang des Jahres haben wir schon viele spannende Projetkte gelauncht und weiterentwickelt, wir waren auf vielen Veranstaltungen präsent oder haben diese organisiert. Was bislang fehlt ist eine Übersicht über unsere Positionen und eine Dokumentation unserer Arbeitsweise.

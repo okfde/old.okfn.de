@@ -2,8 +2,6 @@
 author: Julia Kloiber
 date: 2012-09-06 14:21:42
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Brandenburg
@@ -13,8 +11,6 @@ tags:
 - Verkehrsbetriebe
 title: 'Open Data Nahverkehr Berlin/ Brandenburg: Update zum Status Quo und den Entwicklungen'
 type: post
-
-
 ---
 
 Nach dem ersten Treffen des Arbeitskreises "Open Data Nahverkehr Berlin/Brandenburg" vor zwei Monaten hat sich der vbb dazu entschlossen in Kürze einen ersten Fahrplandatensatz auf dem Datenportal [daten.berlin.de](http://daten.berlin.de/) zu veröffentlichen. Das ist ein erster kleiner Erfolg doch wir wollen gemeinsam noch mehr erreichen, unser Ziel ist eine Veröffentlichung der Echtzeitdaten und die Bereitstellung der Haltestellenpläne. Mithilfe dieser Daten und Informationen können noch bessere und nützlichere Anwendungen im Bereich des öffentlichen Nahverkehrs entstehen. Um diesem Ziel näher zu kommen und Bedenken (wie z.B. hinsichtlich des Missbrauchs von Daten) auszuräumen, wollen wir gemeinsam mit dem vbb Ende November einen Entwicklertag veranstalten.  

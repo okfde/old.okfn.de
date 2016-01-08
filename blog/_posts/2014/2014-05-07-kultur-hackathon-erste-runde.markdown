@@ -4,8 +4,6 @@ date: 2014-05-07 08:44:20
 image:
   src: /files/blog/2014/05/Coding_da_Vinci_Kultur_Hackathon_grafic_recording3.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Kultur-Hackathon
@@ -15,8 +13,6 @@ tags:
 - OpenGLAM
 title: Coding da Vinci - Kultur-Hackathon geht in die erste Runde
 type: post
-
-
 ---
 
 **“Alles so schön Kultur hier…”** schreibt Julian Kücklich an die Papierrolle, an der er den Hackathon grafisch mitverfolgt. Kein Wunder, denn mit viel Kaffee und Mate ging unser Kultur-Hackathon Coding da Vinci am 26./27. April in die erste Runde. Teilnehmer/innen stellten sich der [Challenge](http://codingdavinci.de/#challenges), aus 20 offenen Datensets Projekte für den Kulturbereich zu entwickeln.

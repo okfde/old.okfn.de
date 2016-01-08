@@ -4,16 +4,12 @@ date: 2015-12-01 12:00:56
 image:
   src: /files/blog/2015/12/kleineanfragen.png
 layout: post
-published: true
-status: publish
 tags:
 - Open Government
 - Deutschland
 - Transparenz
 title: "kleineAnfragen macht Anfragen aus den Parlamenten zugänglicher"
 type: post
-
-
 ---
 Ein riesiger Fundus an Informationen bringt nicht viel, wenn diese schlecht zugänglich sind. In Bezug auf kleine Anfragen ändert sich das jetzt: über die Plattform [kleineAnfragen.de](https://kleineanfragen.de).
 

@@ -4,15 +4,11 @@ date: 2014-12-09 14:19:53
 image:
   src: /files/blog/2014/12/1782278_426589000821411_4511975776677165218_o-415x276.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Open Transport
 - offene Daten
 title: Lab for CITY
 type: post
-
-
 ---
 
 Am 21.11. starteten OKF DE und das Startup [allryder](http://www.allryder.com/) die Eventreihe “[Lab for Civic Innovation and TechnologY](http://labforcity.org/)”. In Paneldiskussionen wurden Erfahrungen mit der Öffnung und Nutzung von Daten ausgetauscht.

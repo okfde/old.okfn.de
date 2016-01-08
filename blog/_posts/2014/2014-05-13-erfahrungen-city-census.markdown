@@ -2,16 +2,12 @@
 author: Claus Arndt
 date: 2014-05-13 13:43:23
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Positionen
 - Transparenz
 title: 'Gastbeitrag: Erfahrungen zweier Kommunen mit dem City Census'
 type: post
-
-
 ---
 
 _Der folgende, eingeladene Gastbeitrag stammt von **Claus Arndt**, Referent des Bürgermeisters für E-Government und neue Medien der Stadt Moers und **Christian Geiger**, dem Beauftragten für Grundsatzfragen ulm 2.0 der Stadt Ulm. Sie schildern darin ihre Erfahrungen mit dem **[Open Data City Census Deutschland](http://de-city.census.okfn.org/)**. Wir danken den Autoren für Ihren Debattenbeitrag, der ungekürzt wiedergegeben wird._

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2015/07/open-impact.png
   title: OpenImpact
 layout: post
-published: true
-status: publish
 tags:
 - Open Data
 title: "Gastbeitrag - #openimpact: 10 Projekte, die mit Daten Gutes tun"

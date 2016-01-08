@@ -4,14 +4,10 @@ date: 2015-02-18 12:16:46
 image:
   src: /files/blog/2015/02/odd15-karte.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 title: International Open Data Day am 21. Februar
 type: post
-
-
 ---
 Der [Open Data Day](http://opendataday.org/) jährt sich zum fünften Mal mit zahlreichen Events rund um den Globus - seid dabei!
 

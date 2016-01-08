@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2014/07/wordscapes-water-580x348.jpg
   title: Wordscapes water, cc by 2.0 Marius B
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up Juni
 type: post
-
-
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.

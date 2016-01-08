@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/04/FE13_Overview_064_web.jpg
   title: FutureEverything Summit  2013 - Image by TAPE | www.WeAreTAPE.com
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Apps4EU
@@ -15,8 +13,6 @@ tags:
 - Startup
 title: Die Gewinner von Apps for Europe 2014
 type: post
-
-
 ---
 
 Die Gewinner der ersten Runde des  Wettbewerbs **[Apps for Europe](http://appsforeurope.eu/)** wurden am 1. April auf der internationalen Konferenz [FutureEverything 2014](http://futureeverything.org/) in Manchester ausgelobt. Um Entwicklern von datengetriebene Anwendungen dabei zu helfen, ihre Prototypen in Startups und tragfähige Unternehmen zu verwandeln, ergänzt **Apps for Europe** lokale Apps-Wettbewerbe mit dem Format "[Business Lounge](http://appsforeurope.eu/business-lounge)". Hier werden die Entwickler darin unterstützt ein Geschäftsmodell für ihre Idee zu entwickeln, einen Business plan zu schreiben und diesen vor Investoren zu "pitchen". Erfolgreiche Kandidaten konnten sich dann mit ihrer App und ihrem Business Plan bei der ersten [pan-europäischen Business Lounge](http://appsforeurope.eu/competition) bewerben.

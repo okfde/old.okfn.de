@@ -4,16 +4,12 @@ date: 2014-09-17 15:51:56
 image:
   src: /files/blog/2014/09/Glow_openparliament-okf-de-415x235.png
 layout: post
-published: true
-status: publish
 tags:
 - Positionen
 - offene Daten
 - OpenParl2014
 title: Kampagne für offene Parlamente im Rahmen der Global Legislative Openness Week
 type: post
-
-
 ---
 
 Am Montag, haben wir zusammen mit einer Gruppe von 108 zivilgesellschaftlichen Organisationen aus der ganzen Welt eine weltweite Kampagne für mehr Offenheit von Parlementen und deren Arbeit gestartet. Initiiert wurde die "[Global Legislative Openness Week](http://openparl2014.org/)" von der US-amerikanischen NGO [Sunlight Foundation](http://sunlightfoundation.com/). In der Kampagne geht es vor allem darum die Bedeutung von Transparenz und Rechenschaftspflicht für die Gesetzgeber herauszustellen und um die Forderung an die Parlamente neuen Technologien zu nutzen um Informationen über ihre Arbeit offen und frei für alle Bürgerinnen und Bürger zu veröffentlichen.

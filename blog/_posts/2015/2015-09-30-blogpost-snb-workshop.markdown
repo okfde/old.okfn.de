@@ -4,8 +4,6 @@ date: 2015-09-30 10:00:56
 image:
   src: /files/blog/2015/09/blackout-head.png
 layout: post
-published: true
-status: publish
 tags:
 - Workshops
 - Hackday
@@ -15,7 +13,6 @@ tags:
 - Blackout
 title: Hackday zum Thema Energieversorgung und Blackout am 14. November 2015
 type: post
-
 ---
 Deutschland ist ein Land mit einer überdurchschnittlich guten Versorgungssicherheit. Wenig Grund – möchte man meinen – sich Gedanken um Versorgungsengpässe oder gar Blackouts zu machen. Was viele jedoch nicht wissen: In der Vergangenheit haben starke Schneestürme oder Kurzschlüsse im Stromnetz in Teilen der Bundesrepublik zu mehrtägigen Stromausfällen mit der Folge von ausfallenden Kommunikationsmöglichkeiten und kritischer Versorgungsinfrastrukturen geführt.
 

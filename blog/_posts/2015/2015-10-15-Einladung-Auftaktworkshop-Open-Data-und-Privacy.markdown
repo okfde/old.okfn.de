@@ -4,8 +4,6 @@ date: 2015-10-15 12:15:56
 image: 
   src: /files/blog/2015/10/snv_berlin.png
 layout: post
-published: true
-status: publish
 tags:
 - Transparency
 - Open Government
@@ -13,7 +11,6 @@ tags:
 - Transparenz
 title: Einladung zum Workshop 'Offene Daten als Grundlage moderner Verwaltung' - Auftakt des Projekts „Open Data & Privacy“ 
 type: post
-
 ---
 Behörden sammeln und aggregieren eine Vielzahl von Daten. Deren produktive Nutzung bietet für Wirtschaft und Zivilgesellschaft sowie für Bürgerinnen und Bürger unmittelbare Chancen. Das ist relativ unstrittig und wird breit diskutiert. Dabei gerät bisweilen das große Potenzial aus dem Blick, das ein intelligenter Umgang mit Daten für politische Entscheidungsprozesse und für das Verwaltungshandeln selbst eröffnet. Vielfach ist Behörden nicht bewusst, welche Chancen in den von ihnen verwalteten Daten stecken und wie sie nicht nur für die Allgemeinheit, sondern auch für ihre eigene Arbeit in Wert gesetzt werden können.  
 

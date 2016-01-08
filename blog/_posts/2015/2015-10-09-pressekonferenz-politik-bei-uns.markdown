@@ -4,8 +4,6 @@ date: 2015-10-09 10:00:56
 image: 
   src: /files/blog/2015/10/politik-bei-uns.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Transparency
 - Open Government
@@ -13,8 +11,6 @@ tags:
 - Transparenz
 title: Einladung zur Pressekonferenz „Politik Bei Uns“
 type: post
-
-
 ---
 Berlin wird preisgekrönt transparent! Wir laden alle Interessierten ein, an der Pressekonferenz zur Vorstellung des Transparenz- und Recherchetools „Politik Bei Uns“ für die Berliner Bezirke teilzunehmen. Außerdem wird „Politik Bei Uns“ auf der Pressekonferenz als „Ausgezeichneter Ort im Land der Ideen“ geehrt.
 

@@ -4,8 +4,6 @@ date: 2013-11-06 10:57:46
 image:
   src: http://farm3.static.flickr.com/2649/4055669711_1cd193639d_o.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Geodaten
 - offene Daten
@@ -19,8 +17,6 @@ tags:
 - Zugang gestalten
 title: Aktivitäten und Projekte im Oktober 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**

@@ -4,8 +4,6 @@ date: 2014-03-05 14:56:10
 image:
   src: /files/blog/2014/03/IMG_3462_crop.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Code for Germany
 - Community
@@ -17,8 +15,6 @@ tags:
 - Open Data
 title: Der Open Data Day - Startschuss für die OK Labs!
 type: post
-
-
 ---
 
 Der [Open Data Day 2014 ](http://opendataday.org)fand am 22. Februar in knapp 200 Städten in 46 Ländern auf 5 Kontinenten statt - allein [in Deutschland nahmen sieben Städte teil](http://de.opendataday.org).

@@ -2,13 +2,9 @@
 author: Hauke Gierow
 date: 2012-02-07 17:51:18
 layout: post
-published: true
-status: publish
 tags: []
 title: Open Knowledge Meetup Berlin
 type: post
-
-
 ---
 
 Wir laden wieder ein zum Open Knowledge Meetup Berlin!

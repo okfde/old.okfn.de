@@ -4,14 +4,10 @@ date: 2013-04-29 12:44:41
 image:
   src: /files/blog/2013/04/Screen-Shot-2013-04-26-at-1.06.09-PM.png
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 title: Berliner Haushaltsvisualisierung
 type: post
-
-
 ---
 
 Am 18. April hat die Berliner Senatsverwaltung für Finanzen ihre neue [Webseite](http://www.berlin.de/sen/finanzen/presse/nachrichten/artikel.12519.php) vorgestellt. Im Rahmen des Relaunches haben wir für die Senatsverwaltung den aktuellen Doppelhaushalt der Stadt Berlin (2012/2013) visualisiert ([Link](http://www.berlin.de/sen/finanzen/haushalt/haushaltsplan/artikel.5697.php)).

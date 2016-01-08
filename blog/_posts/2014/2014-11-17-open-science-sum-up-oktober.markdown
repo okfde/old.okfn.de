@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2014/11/flu-genome-data-visualizer-580x326.png
   title: Flu Genome Data Visualizer, cc by 2.0 Jer Thorp
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up Oktober
 type: post
-
-
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.

@@ -4,14 +4,11 @@ date: 2015-09-11 16:20:56
 image:
   src: /files/blog/2015/09/fragdenstaat_square.png
 layout: post
-published: true
-status: publish
 tags:
 - Informationsfreiheit
 - Podcast
 title: Es wäre toll, wenn ihr uns verklagt!
 type: post
-
 ---
 Im ersten [IFG-Podcast](https://soundcloud.com/fragdenstaat/ifg-podcast-1-es-ware-toll-wenn-ihr-uns-verklagt) von FragDenStaat sprechen wir mit Daniel Drepper vom gemeinnützigen Recherchebüro [CORRECT!V](http://correctiv.org/) über seine Klagen nach dem Informationsfreiheitsgesetz und warum es sich manchmal lohnt, gerichtlich gegen den Staat vorzugehen.
 

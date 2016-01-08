@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2015/03/winterlandscape-580x481.jpeg
   title: Winter Landscape, Public Domain von Barend Cornelis Koeckoek, Europeana
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up Februar
 type: post
-
-
 ---
 ### Der letzte Monat im Rückblick
 

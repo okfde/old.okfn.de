@@ -4,14 +4,11 @@ date: 2015-01-28 12:00:13
 image:
   src: /files/blog/2015/01/Screen-Shot-2015-01-27-at-11.09.49.png
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Transparenz
 title: Code for München launcht „München Transparent"
 type: post
-
 ---
 Nachdem letzte Woche [politik-bei-uns.de](http://politik-bei-uns.de/) das Licht der Welt erblickt hat, geht heute das Projekt „**[München Transparent**](http://muenchen-transparent.de)“ an den Start, welches in dem [Münchener OK Lab](http://codefor.de/muenchen/) unseres [Code for Germany](http://codefor.de/) Projektes entstand. Die unabhängige Plattform ermöglicht es Münchener BürgerInnen, schnell und einfach Einblicke in die Kommunalpolitik zu bekommen, indem normalerweise nur schwer zugängliche Daten aus dem Münchener [Ratsinformationssystem](http://de.wikipedia.org/wiki/Ratsinformationssystem) übersichtlich und ansprechend aufbereitet werden.
 

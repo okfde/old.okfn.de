@@ -4,8 +4,6 @@ date: 2015-05-18 11:25
 image:
   src: /files/blog/2015/05/digiwhist.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Veranstaltung
 title: "Event: How Open Data Tools Can be Used to Engage Citizens in Fighting Corruption"

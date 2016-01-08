@@ -5,14 +5,10 @@ image:
   src: https://fragdenstaat.de/static/img/folders.jpg?bade1f7d0bb6
   title: DH-Summit-Slide
 layout: post
-published: true
-status: publish
 tags:
 - Transparenz
 title: Gemeinsam für mehr Informationsfreiheit
 type: post
-
-
 ---
 Wer gerne Auskunft einer Behörde erhalten will, sollte sich vorher den richtigen Wohnort aussuchen.  
 Denn die Transparenz der staatlichen Verwaltung ist in Deutschland **unterschiedlich weit** fortgeschritten: Hessen hat kein Gesetz zur Informationsfreiheit, Hamburg hingegen ein Transparenzportal. In Bayern öffnen sich nur einige Kommunen, in Berlin blockiert der Senat die Bemühungen um mehr Transparenz.

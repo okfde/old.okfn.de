@@ -5,15 +5,11 @@ image:
   src: /files/blog/2014/11/sachverstaendige_schildchen-415x231.png
   title: sachverstaendige schildchen
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Digitale Agenda
 title: Sehr geehrte Damen und Herren Abgeordnete... tun Sie endlich etwas für Open Data!
 type: post
-
-
 ---
 
  Sachverständige beim kollektiven Twitterschilder umdrehen

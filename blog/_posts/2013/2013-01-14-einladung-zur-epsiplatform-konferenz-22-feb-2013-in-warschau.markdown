@@ -5,14 +5,10 @@ image:
   src: /files/blog/2013/01/ePSI-conf.png
   title: ''
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 title: Einladung zur ePSIplatform Konferenz, 22. Feb. 2013
 type: post
-
-
 ---
 
   

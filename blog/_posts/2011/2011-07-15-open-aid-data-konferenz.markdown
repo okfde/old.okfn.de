@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-07-15 10:39:10
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Deutschland
@@ -13,8 +11,6 @@ tags:
 - Transparenz
 title: Open Aid Data Konferenz
 type: post
-
-
 ---
 
 Transparenz und offene Daten für mehr Wirkung in der Entwicklungszusammenarbeit  

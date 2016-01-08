@@ -4,14 +4,10 @@ date: 2013-02-27 14:11:42
 image:
   src: /files/blog/2013/02/Bildschirmfoto-2013-02-27-um-13.50.55.png
 layout: post
-published: true
-status: publish
 tags:
 - Open Data
 title: Das war der Int. Open Data Day 2013
 type: post
-
-
 ---
 
 Auf der ganzen Welt und in vielen Städten in Deutschland wie [Köln](http://www1.wdr.de/themen/digital/opendataday120.html), Hamburg und nicht zuletzt in [Berlin](/blog/2013/02/pics-open-data-day-2013-zeit-online) wurde vergangenen Samstag der [Open Data Day 2013 gefeiert](http://opendataday.org/). Ein großes „Yeah“ geht von uns raus an Alle, die sich in die Organisation eingebracht haben, die spontan Arbeitsgruppen gegründet, Daten analysiert und Apps entwickelt haben oder einfach aus Neugierde mit dabei waren.

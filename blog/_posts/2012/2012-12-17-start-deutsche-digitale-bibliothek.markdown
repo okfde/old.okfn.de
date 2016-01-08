@@ -5,14 +5,10 @@ image:
   src: /files/blog/2012/12/Deutsche-Digi-Bib.png
   title: ''
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 title: Start Deutsche Digitale Bibliothek
 type: post
-
-
 ---
 
   

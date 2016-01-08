@@ -4,14 +4,10 @@ date: 2012-05-11 06:56:03
 image:
   src: /files/blog/2012/05/Screen-Shot-2012-04-24-at-11.11.13-PM-300x182.png
 layout: post
-published: true
-status: publish
 tags:
 - Offenes Parlament
 title: OffenesParlament - was passiert im Bundestag?
 type: post
-
-
 ---
 
 Schon seit langem wünsche ich mir eine Seite wie [TheyWorkForYou](http://theyworkforyou.com) oder [OpenCongress](http://opencongress.org) für Deutschland. Ein Portal, auf dem man einfachen Zugang zu den Plenarreden und Arbeitsabläufen des Bundestags bekommt und so deutlich macht, was gerade am Platz der Republik 1 beraten und beschlossen wird – und noch jede Menge andere W-Fragen beantwortet und kontextualisiert.

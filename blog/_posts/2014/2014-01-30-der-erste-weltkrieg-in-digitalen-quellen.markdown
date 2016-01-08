@@ -5,16 +5,12 @@ image:
   src: /files/blog/2014/01/1149.8198.original-260x415.jpg
   title: ''
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - offenes Wissen
 - Termine
 title: Der Erste Weltkrieg in digitalen Quellen
 type: post
-
-
 ---
 
 **Europa und der Erste Weltkrieg**

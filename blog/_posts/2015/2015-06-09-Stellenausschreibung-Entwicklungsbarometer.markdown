@@ -5,15 +5,11 @@ image:
   src: /files/blog/2015/06/wordle-ausschreibung.jpg
   title: Logo Entwicklungsbarometer
 layout: post
-published: true
-status: publish
 tags:
 - OER
 title: Wir suchen eine/e studentische/r Mitarbeiter/in (Projektassistent/in) für unseren Entwicklungsbarometer - ein Datenprojekt zur entwicklungspolitischen Kohärenz
 
 type: post
-
-
 ---
 **Die Organisation:** Die [Open Knowledge Foundation Deutschland](okfn.de) (OKF-DE) ist ein junger Verein in Berlin, der sich für die Bereitstellung und Nutzung öffentlicher Daten für zivilgesellschaftliche Beteiligung, Transparenz und Rechenschaftslegung einsetzt. Der Verein ist Teil des internationalen Open Knowledge Foundation Netzwerkes und steht hinter innovativen Projekten wie [Frag-den-Staat](https://fragdenstaat.de), [Jugend-hackt](http://jugendhackt.de), [Coding Da Vinci](http://codingdavinci.de) und [Code for Germany](http://codefor.de). Die OKF-DE organisiert Hackdays, unternimmt Datenanalyseprojekte, fördert Programmierer, die sich für die Gesellschaft einsetzen wollen und betreibt Lobbyarbeit für Open Data.
 

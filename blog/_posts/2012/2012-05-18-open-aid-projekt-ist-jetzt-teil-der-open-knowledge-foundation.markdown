@@ -2,14 +2,10 @@
 author: Hauke Gierow
 date: 2012-05-18 08:33:32
 layout: post
-published: true
-status: publish
 tags:
 - Open Aid
 title: Open Aid Projekt ist jetzt teil der Open Knowledge Foundation
 type: post
-
-
 ---
 
 Somebody said mergers are a sign of consolidation and maturity. We do not know if that is true, but the [Open Knowledge Foundation Germany](http://www.okfn.de/) and OpenAid will merge! As of now, OpenAid will be the “development project” of the Open Knowledge Foundation Germany. We are confident, that this is a very good development. OpenAid has been collaborating closely with OKFN in 2011 – particularly the Open Aid Data Conference was a joint effort of both organisations – supported by the Böll Foundation and the German offices of TI, Oxfam and ONE.

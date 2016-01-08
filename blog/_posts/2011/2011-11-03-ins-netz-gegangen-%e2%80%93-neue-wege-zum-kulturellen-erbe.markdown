@@ -2,16 +2,12 @@
 author: Daniel Dietrich
 date: 2011-11-03 12:36:48
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Konferenz
 - Kulturgut
 title: Ins Netz gegangen – Neue Wege zum kulturellen Erbe
 type: post
-
-
 ---
 
 Konferenz am 17. und 18. November in der Deutsche Kinemathek, Berlin

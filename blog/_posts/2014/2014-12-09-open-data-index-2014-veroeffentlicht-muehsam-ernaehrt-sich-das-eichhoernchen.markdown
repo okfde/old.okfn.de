@@ -5,15 +5,11 @@ image:
   src: /files/blog/2014/12/OpenDataIceberg-400-293x415.png
   title: OpenDataIceberg
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - openindex14
 title: 'Open Data Index 2014 veröffentlicht: Mühsam ernährt sich das Eichhörnchen'
 type: post
-
-
 ---
 
 Open Knowledge hat heute die aktuelle Ausgabe des [Open Data Index](http://index.okfn.org) veröffentlicht. Während im Bereich Open Data einiges passiert ist, teilen viele Regierungen immer noch nicht genug Daten in frei zugänglichem und nützlichem Format mit BürgerInnen und Unternehmen. Insgesamt wird das gesellschaftliche und wirtschaftliche Potential von Open Data damit nur unzureichend nutzbar gemacht.

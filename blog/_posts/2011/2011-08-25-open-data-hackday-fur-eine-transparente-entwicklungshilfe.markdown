@@ -2,13 +2,9 @@
 author: Christian Kreutz
 date: 2011-08-25 12:25:54
 layout: post
-published: true
-status: publish
 tags: []
 title: Open Data Hackday für eine transparente Entwicklungshilfe
 type: post
-
-
 ---
 
 Hilf uns innovative Lösungen für eine effektivere Entwicklungszusammenarbeit zu finden.

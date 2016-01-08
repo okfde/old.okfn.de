@@ -4,8 +4,6 @@ date: 2012-12-14 18:27:34
 image:
   src: /files/blog/2012/12/pokal.png
 layout: post
-published: true
-status: publish
 tags:
 - Apps
 - Berlin
@@ -15,8 +13,6 @@ tags:
 - Wettbewerb
 title: Die Stadt Land <Code> Stipendiaten stehen fest!
 type: post
-
-
 ---
 
 Seit letzter Woche stehen die "Stadt Land Code" Stipendiaten fest. Eine Jury aus Vertretern der Open Knowledge Foundation Deutschland, dem Open-Data-Projekt [Offenes Köln](http://offeneskoeln.de/) und der[ Bundes-Arbeitsgemeinschaft der Kommunalen IT-Dienstleister](http://www.vitako.de/aktuelles/Seiten/default.aspx) hat sich auf drei Teams geeinigt. Insgesamt wurden 59 Projekte eingereicht, was zeigt, dass es in Deutschland eine rege Community gibt, die sich mit gesellschaftlich relevanten Software Applikationen - kurz Civic Apps - beschäftigt.

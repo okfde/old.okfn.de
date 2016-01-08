@@ -4,8 +4,6 @@ date: 2015-03-06 18:20:56
 image:
   src: /files/blog/2015/03/Screen-Shot-2015-03-06-at-17.58.44.png
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - EITI
@@ -14,8 +12,6 @@ tags:
 - Transparenz
 title: Umsetzung der Extractive Industries Transparency Initiative (EITI) in Deutschland
 type: post
-
-
 ---
 Die [Extractive Industries Transparency Initiative (EITI)](https://eiti.org/) ist eine internationale freiwillige Initiative zur Förderung der Transparenz von Einnahmen und Ausgaben im Rohstoffsektor.
 

@@ -5,8 +5,6 @@ image:
   src: http://codefor.de/assets/blog/stadtgeschichten.png
   title: Stadtgeschichten
 layout: post
-published: true
-status: publish
 tags:
 - Open Data
 - OER

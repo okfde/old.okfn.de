@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/03/4323732956_7d458bcd47-415x276.jpg
   licence: "© [Edu Martinez](www.flickr.com/photos/dukros/4323732956), Creative Commons 2.0" 
 layout: post
-published: true
-status: publish
 tags:
 - Behörden
 - Bremen
@@ -16,8 +14,6 @@ tags:
 - Transparenz
 title: Konsultation zur Bereitstellung offener Daten in Bremen
 type: post
-
-
 ---
 Das [Institut für Informationsmanagement Bremen](http://www.ifib.de) (ifib) führt eine vierwöchige Online-Konsultation über die Bereitstellung Offener Daten durch die Bremische Verwaltung durch. Das Angebot soll damit um die Expertise und Wünsche der Bürger und Bürgerinnen ergänzt werden.
 

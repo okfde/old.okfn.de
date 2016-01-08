@@ -5,8 +5,6 @@ image:
   src: http://ogpde.okblogfarm.org/files/2015/03/g8-open-data-300x284.png
   title: g8-open-data
 layout: post
-published: true
-status: publish
 tags:
 - G8 Open Data Charter
 - offene Daten
@@ -14,8 +12,6 @@ tags:
 - Open Data Charter
 title: 'Kurz vor dem G7 Summit in Deutschland: Report kritisiert deutsche Implementierung von G8 (G7) Open Data Charter'
 type: post
-
-
 ---
 Im Juni 2013 unterzeichneten die G8-Mitgliedsstaaten, darunter auch Deutschland, die “[Open Data Charter](/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/)“. Die Unterzeichnerländer verpflichten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern (unsere [Empfehlungen aus 2014](/blog/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/)). Eine Implementierung der Prinzipien für offene Daten in die Politik der G8-Staaten sowie deren technischer Implikationen sollte bis 2015 abgeschlossen sein. 
 

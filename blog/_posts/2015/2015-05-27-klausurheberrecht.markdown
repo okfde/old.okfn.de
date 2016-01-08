@@ -4,8 +4,6 @@ date: 2015-05-27 18:42
 image:
   src: https://netzpolitik.org/wp-upload/pruefung-300x225.jpg
 layout: post
-published: true
-status: publish
 tags:
 - IFG
 title: "Klausurheberrecht: Bildungsmaterialien dürfen nicht veröffentlicht werden"

@@ -2,15 +2,11 @@
 author: Daniel Dietrich
 date: 2011-10-25 06:58:49
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Open Aid
 title: Open Aid Data in Berlin
 type: post
-
-
 ---
 
 Der folgende Beitrag ist von Claudia Schwegmann von [Open Aid](http://www.openaid.de/).

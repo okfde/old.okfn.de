@@ -4,14 +4,10 @@ date: 2013-09-12 14:56:28
 image:
   src: /files/blog/2013/09/jugendhackt031.jpg
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 title: Jugend hackt - erster Rückblick
 type: post
-
-
 ---
 
 Warum gibt es große Nachwuchsprogramme für junge ForscherInnen und musisch begabte Jugendliche, aber keine Förderung für gesellschaftlich interessierte Programmiertalente? Seit diesem Wochenende stellt sich diese Frage nicht mehr: Die [Open Knowledge Foundation Deutschland](http://www.okfn.de) hat zusammen mit [Young Rewired State](http://youngrewiredstate.org) aus Großbritannien das erste [Jugend hackt](http://www.jugendhackt.de) organisiert. Jugend hackt hat das Ziel, programmierbegeisterte Jugendliche mit Gleichgesinnten zu vernetzen und gemeinsam ein Wochenende lang Soft- und Hardwareanwendungen auf der Grundlage von offenen Daten zu entwickeln. (Eine ausführlichere Erklärung könnt ihr hier [nachhören](http://trackback.fritz.de/2013/08/31/trb-343-demo-hackercamp-btw13-sexismus-freiheits_liebe/).)

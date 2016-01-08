@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/09/Screen-Shot-2013-09-09-at-13.53.02.png
   title: OKCon 2013
 layout: post
-published: true
-status: publish
 tags:
 - Konferenz
 - OKCon
@@ -16,8 +14,6 @@ tags:
 - Open Knowledge
 title: Open Knowledge Conference, 16.-18. September 2013
 type: post
-
-
 ---
 
 Genf wird am 16.-18. September Schauplatz einer aussergewöhnlichen Begegnung: die **[Open Knowledge Conference](http://okcon.org/)** macht die Diplomatenstadt zum Mittelpunkt der weltweiten Open Data Bewegung und zum Treffpunkt für Vertreter der Vereinten Nationen und öffentlicher Verwaltungen mit Technologie-Aktivisten, Startup-Unternehmern, Designern und Datenjournalisten.

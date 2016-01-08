@@ -2,8 +2,6 @@
 author: Stefan Kaufmann und Walter Palmetshofer
 date: 2015-10-23 15:25:00
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Transparency
@@ -13,7 +11,6 @@ tags:
 - 
 title: "Die Bahn kommt… auf Open Data!" 
 type: post
-
 ---
 <i>Berlin, 23.10.2015</i> – Lange Zeit sah es so aus, als sei die Deutsche Bahn die letzte Bastion geschlossener Daten, aus der auf offiziellem Weg nicht auch nur ein Bit zu holen wäre. Doch was in diesem Frühjahr und Sommer mit zwei Hackathons in [Frankfurt](https://medium.com/@highsource/reliable-train-connections-app-wins-the-first-deutsche-bahn-hackathon-3419ef275bfc#.hmftwznor) und [Berlin](http://derbloggendebahner.de/2nd-db-hackathon/) anfing, soll keine Ausnahme bleiben: Auch die DB hat offenkundig die Vorteile von Open Data erkannt und bewegt sich auf eine Öffnung ihrer Daten zu.
 

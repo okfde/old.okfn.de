@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2015/02/MetOfficeClimateData-580x580.png
   title: Met Office Climate Data, cc by 2.0 Jer Thorp
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up Januar
 type: post
-
-
 ---
 
 ### Der letzte Monat im Rückblick

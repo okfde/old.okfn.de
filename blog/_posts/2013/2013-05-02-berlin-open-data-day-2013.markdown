@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/05/Logo-BerlinOpenData2013.png
   title: berlin open data day
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Berlin
@@ -15,8 +13,6 @@ tags:
 - Open Data
 title: Berlin Open Data Day 2013
 type: post
-
-
 ---
 
 **Das Aktionsbündnis "Open Data Berlin" kündigt für den 24. Juni 2013 den nächsten [Berlin Open Data Day](http://berlin.opendataday.de/) (BODDy13) an.**

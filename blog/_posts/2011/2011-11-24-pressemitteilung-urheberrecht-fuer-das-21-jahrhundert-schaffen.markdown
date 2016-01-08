@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-11-24 12:51:07
 layout: post
-published: true
-status: publish
 tags:
 - Positionen
 - Deutschland
@@ -13,8 +11,6 @@ tags:
 - Wikimedia
 title: 'Pressemitteilung: Urheberrecht für das 21. Jahrhundert schaffen!'
 type: post
-
-
 ---
 
 **In ihrem gemeinsamen Positionspapier “Was zu tun wäre: ein Urheberrecht für das 21. Jahrhundert” fordern Wikimedia Deutschland e.V., Digitale Gesellschaft e.V. und Open Knowledge Foundation Deutschland e.V. die Urheber und die Politik zu einem Dialog mit den Nutzern digitaler Werke auf. Anlass der Veröffentlichung des Positionspapiers ist eine [Rede der für die Digitale Agenda zuständigen EU-Kommissarin Neelie Kroes](http://blogs.ec.europa.eu/neelie-kroes/is-copyright-working/), die festgestellt hatte, dass “Copyright” von einem begrüßenswerten Recht zu einem Hasswort für die Nutzer geworden sei.**

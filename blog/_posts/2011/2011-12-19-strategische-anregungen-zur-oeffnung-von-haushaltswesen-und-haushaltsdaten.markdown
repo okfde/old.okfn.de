@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-12-19 09:00:24
 layout: post
-published: true
-status: publish
 tags:
 - Positionen
 - Deutschland
@@ -12,8 +10,6 @@ tags:
 - Transparenz
 title: Strategische Anregungen zur Öffnung von Haushaltswesen und Haushaltsdaten
 type: post
-
-
 ---
 
 **Der folgende Artikel ist Gastbeitrag von Prof. Dr. Jörn von Lucke, Zeppelin Universität Friedrichshafen, Mitglied des wissenschaftlichen Beitrats der Open Knowledge Foundation Deutschland. **

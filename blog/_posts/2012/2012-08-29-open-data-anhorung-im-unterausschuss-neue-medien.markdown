@@ -2,8 +2,6 @@
 author: Hauke Gierow
 date: 2012-08-29 09:14:57
 layout: post
-published: true
-status: publish
 tags:
 - Positionen
 - Anhörung
@@ -12,8 +10,6 @@ tags:
 - Open Knowledge
 title: Open Data Anhörung im Unterausschuss Neue Medien
 type: post
-
-
 ---
 
 Am 25.06.2012 hat der Unterausschuss Neue Medien im Deutschen Bundestag eine Anhörung zum Thema "Entwicklung und Stand von Open Data Projekten" veranstaltet, bei der ich für die OKFN als Experte teilgenommen habe.

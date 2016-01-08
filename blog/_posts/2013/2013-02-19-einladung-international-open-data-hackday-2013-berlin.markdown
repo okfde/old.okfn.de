@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/02/Open-Data-Day1.png
   title: open data day
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - frag den staat
@@ -15,8 +13,6 @@ tags:
 - open data day
 title: 'Einladung: International Open Data Hackathon 2013 - Berlin'
 type: post
-
-
 ---
 
   

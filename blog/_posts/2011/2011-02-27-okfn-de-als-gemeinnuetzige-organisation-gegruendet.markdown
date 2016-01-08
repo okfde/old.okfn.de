@@ -2,14 +2,10 @@
 author: Daniel Dietrich
 date: 2011-02-27 10:25:02
 layout: post
-published: true
-status: publish
 tags:
 - Open Knowledge Foundation
 title: OKFN DE als gemeinnützige Organisation gegründet
 type: post
-
-
 ---
 
 **Am 19. Februar 2011 haben wir die Open Knowledge Foundation Deutschland (OKFN DE) als gemeinnützigen Verein gegründet. Am 21. Februar wurde der Verein ins Vereinsregister eingetragen. Ein Grund zum feiern! Wir freuen uns darauf mit dieser Neuausrichtung und gemeinsam mit Euch die Ziele der OKF in Deutschland weiter voranzutreiben!**

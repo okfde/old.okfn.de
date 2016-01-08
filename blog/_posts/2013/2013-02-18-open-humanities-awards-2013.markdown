@@ -4,16 +4,12 @@ date: 2013-02-18 18:27:08
 image:
   src: /files/blog/2013/02/OpenHumanitiesAwards.png
 layout: post
-published: true
-status: publish
 tags:
 - Open Content
 - Open Data
 - Open Source
 title: Open Humanities Awards 2013
 type: post
-
-
 ---
 
 Freunde der Open Humanities aufgepasst:

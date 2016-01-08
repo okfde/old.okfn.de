@@ -5,14 +5,11 @@ image:
   src: /files/blog/2015/07/digiwhist.jpg
   title: Jobs bei OKFDE
 layout: post
-published: true
-status: publish
 tags:
 - H2020
 - Jobs
 title: Front-end Developer (w/m) für DIGIWHIST gesucht
 type: post
-
 ---
 
 ###  Front-end Developer (w/m) für DIGIWHIST - ein H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed" (DIGIWHIST).

@@ -5,15 +5,11 @@ image:
   src: http://jugendhackt-de.okblogfarm.org/files/2015/06/17987867593_a11540c288_k.jpg
   title: Logo Entwicklungsbarometer
 layout: post
-published: true
-status: publish
 tags:
 - OER
 title: Schaukeln für Freifunk und Katzenbilder für Internetschönheit - Das war Hack your City meets Jugend hackt Ost
 
 type: post
-
-
 ---
 Schaukeln für Freifunk und den Umweltschutz, Katzenbilder für Internetschönheit und gegen staatliche Zensur - bei Hack your City meets Jugend hackt Ost sind am Wochenende wieder großartige Projekte entstanden, die auch vom Publikum bei der Präsentation am Sonntag begeistert gefeiert wurden.
 

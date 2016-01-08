@@ -5,16 +5,12 @@ image:
   src: /files/blog/2014/08/Recht-zu-Apps-cc-by-joeran-muuss-merholz-415x300.png
   title: Recht-zu-Apps-cc-by-joeran-muuss-merholz
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - offenes Wissen
 - Creative Commons
 title: Creative-Commons Lizenztextlesung auf der alle Fragen rund um freie Lizenzen gestellt werden können
 type: post
-
-
 ---
 
  Foto von Jöran Muuß-Merholz unter [CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/).

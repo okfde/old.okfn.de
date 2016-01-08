@@ -2,14 +2,10 @@
 author: Julia Kloiber
 date: 2012-07-05 15:08:44
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 title: Erstes Treffen des Arbeitskreises "Open Data Nahverkehr" in Berlin
 type: post
-
-
 ---
 
 Am Montag dem 9. Juli um 18.30Uhr findet das erste Treffen des Arbeitskreises "Open Data Nahverkehr" im neuen OKF DE Office im [Supermarkt Berlin](http://www.supermarkt-berlin.net/Veranstaltungsort) statt.

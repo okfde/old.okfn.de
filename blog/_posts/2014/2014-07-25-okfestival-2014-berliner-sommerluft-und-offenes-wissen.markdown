@@ -5,15 +5,11 @@ image:
   src: /files/blog/2014/07/OKFestival-2014-415x311.jpg
   title: OKFestival-2014
 layout: post
-published: true
-status: publish
 tags:
 - OKFest14
 - OKFestival
 title: 'OKFestival 2014: Berliner Sommerluft und offenes Wissen'
 type: post
-
-
 ---
 
  Photo by [Marieke Guy](https://secure.flickr.com/photos/mariekeguy/) under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)

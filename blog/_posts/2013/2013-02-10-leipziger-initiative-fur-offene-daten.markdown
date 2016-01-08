@@ -2,13 +2,9 @@
 author: Hans-Gert Gräbe
 date: 2013-02-10 09:12:06
 layout: post
-published: true
-status: publish
 tags: []
 title: Leipziger Initiative für Offene Daten
 type: post
-
-
 ---
 
 Die ["Leipziger Initiative für Offene Daten"](http://leipzig-netz.de/index.php5/LD.LOD) ist angetreten, um die Bemühungen zur Etablierung Offener Daten als wesentlichen Teil einer sich entfaltenden Weblandschaft in der Leipziger Region voranzubringen.

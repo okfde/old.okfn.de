@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/06/9501397375_cd4e1541b2_o-406x415.jpg
   title: OKFestival Orga 2012
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Events
@@ -18,8 +16,6 @@ tags:
 - Termine
 title: OK Festival 2014 – Das internationale Festival für offenes Wissen kommt nach Berlin
 type: post
-
-
 ---
 
  OKFestival Orga 2012

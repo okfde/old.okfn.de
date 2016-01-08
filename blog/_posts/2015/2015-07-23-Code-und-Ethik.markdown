@@ -4,8 +4,6 @@ date: 2015-07-23 17:00
 image:
   src: http://medialepfade.de/wp-content/uploads/2015/07/codeundethik.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Code Literacy
 title: Code+Ethik=<3

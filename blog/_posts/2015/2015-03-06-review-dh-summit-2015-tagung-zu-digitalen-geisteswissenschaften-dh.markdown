@@ -6,14 +6,10 @@ image:
   title: Bild von @MKerzel
   licence: "Bild von [@MKerzel](https://twitter.com/MKerzel)"
 layout: post
-published: true
-status: publish
 tags:
 - DARIAH
 title: 'Review DH Summit 2015: Tagung zu Digitalen Geisteswissenschaften (DH)'
 type: post
-
-
 ---
 Digitale Geisteswissenschaften oder auch „Digital Humanities“ (DH) – dieser Begriff umfasst den systematischen Ausbau digitaler Sammlungen und Objekte sowie die Entwicklung computergestützter Auswertungs- und Nutzungsverfahren für die geistes- und kulturwissenschaftliche Forschung und Lehre.
 

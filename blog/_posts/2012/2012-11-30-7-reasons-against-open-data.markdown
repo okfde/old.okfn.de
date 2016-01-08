@@ -2,15 +2,11 @@
 author: Eva Panek
 date: 2012-11-30 15:05:05
 layout: post
-published: true
-status: publish
 tags:
 - Open Aid
 - Open Data
 title: It´s a fad! 7 Reasons against Open Data
 type: post
-
-
 ---
 
 Claudia Schwegmann - Gründerin der [OpenAid](http://www.openaid.de/de)-Initiative, die sich für Open Data und Transparenz in der Entwicklungszusammenarbeit einsetzt - hat einen Artikel für [Digital Development Debates](http://www.digital-development-debates.org/) geschrieben, in dem sie [7 oft genannte Argumente gegen Open Data](http://www.openaid.de/blog/2012/11/29/its-fad-7-reasons-agains-open-data) untersucht. Voilá:

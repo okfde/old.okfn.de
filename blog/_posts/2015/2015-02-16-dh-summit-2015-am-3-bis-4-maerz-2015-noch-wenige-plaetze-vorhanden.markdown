@@ -5,14 +5,10 @@ image:
   src: /files/blog/2015/02/DH-Summit-SlideNEU.png
   title: DH-Summit-Slide
 layout: post
-published: true
-status: publish
 tags:
 - DARIAH
 title: DH Summit 2015 am 3. bis 4. März 2015 – noch wenige Plätze vorhanden
 type: post
-
-
 ---
 In den digitalen Geisteswissenschaften entwickeln sich neue Ansätze für Forschung, Lehre und offene Forschungsdaten. Vom 03.-04. März findet im Berliner Harnack-Haus der Digital Humanities Summit 2015 statt. Das Event wird von den Forschungsinfrastrukturen [DARIAH-DE](http://de.dariah.eu) und [Textgrid](https://www.textgrid.de/) organisiert, mit Unterstützung der Open Knowledge Foundation. Die Tagung richtet sich an alle, die sich für Digital Humanities interessieren.
 

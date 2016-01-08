@@ -5,8 +5,6 @@ image:
   src: /files/blog/2011/09/Screen-Shot-2011-09-15-at-8.45.26-AM-1024x544.png
   title: ''
 layout: post
-published: true
-status: publish
 tags:
 - Open Data
 title: 'daten.berlin.de: Berlin macht sich auf zur Open Data-Hauptstadt'

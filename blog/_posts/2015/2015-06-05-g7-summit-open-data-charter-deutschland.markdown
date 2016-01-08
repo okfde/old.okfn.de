@@ -5,8 +5,6 @@ image:
   src: http://farm4.staticflickr.com/3752/9075252444_43b30267fa_c.jpg
   title:
 layout: post
-published: true
-status: publish
 tags: []
 title: "Der G7 Gipfel und Open Government Data: Deutschland bremst die G8 Open Data Charta aus"
 type: post

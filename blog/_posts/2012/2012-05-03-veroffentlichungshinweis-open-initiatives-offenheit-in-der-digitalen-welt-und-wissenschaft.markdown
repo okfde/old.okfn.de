@@ -2,14 +2,10 @@
 author: Ulrich Herb
 date: 2012-05-03 19:16:19
 layout: post
-published: true
-status: publish
 tags:
 - Open Initiatives
 title: 'Veröffentlichungshinweis: Open Initiatives - Offenheit in der digitalen Welt und Wissenschaft'
 type: post
-
-
 ---
 
 Initiativen, die Transparenz, offenen und möglichst einfachen Zugang zu Informationen, etwa in Wissenschaft und Verwaltung fordern und herstellen, gewinnen rasant an Bedeutung und beginnen sich immer weiter zu differenzieren. Die Forderungen reichen von freiem (im Sinne von kostenlosem) Zugang zu Informationen bis hin zu offenem Zugang analog den Prinzipien der Open Source Community.

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2015/04/AG_Open_Science.png
   title: Open Science AG
 layout: post
-published: true
-status: publish
 tags:
 - Veranstaltung
 - Open Science

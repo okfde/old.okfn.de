@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2012-08-20 10:29:13
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Berlin
@@ -14,8 +12,6 @@ tags:
 - Open Knowledge
 title: Zugang gestalten!
 type: post
-
-
 ---
 
 ### Mehr Verantwortung für das kulturelle Erbe

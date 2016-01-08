@@ -2,8 +2,6 @@
 author: Hauke Gierow
 date: 2012-02-13 10:00:23
 layout: post
-published: true
-status: publish
 tags:
 - Apps4DE
 - Events
@@ -11,8 +9,6 @@ tags:
 - Open Knowledge
 title: Open Data im Computerspielemuseum
 type: post
-
-
 ---
 
 Wir beschäftigen uns fast täglich mit verschiedensten Aspekten von Netzpolitik, meist mit dem Abwehrkampf gegen irgendwelche staatlichen Überwachungs- oder Zensurmechanismen und für die Öffnung von Daten und anderen staatlichen Informationen. An diesem Mittwoch bietet sich die möglichkeit, die 'Komputing-Revolution' mal ganz anders wahrzunehmen - in einer Kunstausstellung mit verschiedenen Exponaten aus der rasanten Entwicklung der Computertechnik in den letzten Jahren.

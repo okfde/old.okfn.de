@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2014/04/Open-Data-Institute-Annual-Summit-580x386.jpg
   title: Annual Summit 2013, cc by-nc-sa 2.0 UK Open Data Institute
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up März
 type: post
-
-
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie openscienceASAP.

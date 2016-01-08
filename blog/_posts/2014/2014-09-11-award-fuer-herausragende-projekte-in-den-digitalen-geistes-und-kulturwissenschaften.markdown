@@ -4,15 +4,11 @@ date: 2014-09-11 11:02:39
 image:
   src: /files/blog/2014/09/dh-award-logo-415x231.png
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - DARIAH
 title: Award für herausragende Projekte in den digitalen Geistes- und Kulturwissenschaften
 type: post
-
-
 ---
 
 Ab sofort und bis zum Einsendeschluss am 1.Dezember 2014 schreiben wir zusammen mit [DARIAH-DE](http://de.dariah.eu) einen [Digital Humanities Award](https://de.dariah.eu/dh-award-programm) aus.

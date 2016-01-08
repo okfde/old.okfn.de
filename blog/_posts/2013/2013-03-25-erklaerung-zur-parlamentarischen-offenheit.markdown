@@ -5,16 +5,12 @@ image:
   src: /files/blog/2013/03/Screen-Shot-2013-03-25-at-15.35.12.png
   title: Screen Shot 2013-03-25 at 15.35.12
 layout: post
-published: true
-status: publish
 tags:
 - Open Data
 - Parlament
 - Transparenz
 title: Erklärung zur Parlamentarischen Offenheit
 type: post
-
-
 ---
 
 Die Erklärung zur parlamentarischen Offenheit ist ein Aufruf zivilgesellschaftlicher Akteure an die nationalen Parlamente sowie die regionalen und länderübergreifenden gesetzgebenden Institutionen, stärker für Offenheit und Bürgerbeteiligung in der parlamentarischen Arbeit einzutreten. Zivilgesellschaftliche Organisationen, die Parlamente beobachten (Parliamentary Monitoring Organizations, PMO) bekommen zunehmend Anerkennung dafür, dass sie Bürgern parlamentarische Informationen besser zugänglich zu machen, dass sie es Bürgern erleichtern, an parlamentarischen Prozessen teilzuhaben und dafür, dass sie den Rechenschaftsdruck auf Parlamente erhöhen. 

@@ -2,8 +2,6 @@
 author: Daniel Dietrich und Christian Pauschert
 date: 2012-06-15 11:01:14
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Informationsfreiheit

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/01/openaid.png
   title: ''
 layout: post
-published: true
-status: publish
 tags:
 - IATI
 - Transparenz
@@ -16,8 +14,6 @@ tags:
 - Transparenz
 title: Offene Daten gegen Armut?
 type: post
-
-
 ---
 
 Gibt es in der Entwicklungszusammenarbeit nicht wirklich Wichtigeres als offene Daten? Es gibt in der Tat viele sehr wichtige Themen, um die Armut in weiten Teilen der Welt zu bekämpfen. Das [OpenAid Projekt](http://www.openaid.de/de) der Open Knowledge Foundation ist überzeugt, dass Transparenz und detaillierte, offene Daten die Voraussetzung dafür sind, um die Entwicklungszusammenarbeit in allen Sektoren (Landwirtschaft, Bildung, Gesundheit, etc.) effizienter zu gestalten. Wichtig für die Entwicklungszusammenarbeit sind beispielsweise offene Daten über soziale, wirtschaftliche Entwicklungen, Klimadaten oder zu landwirtschaftlicher Produktion und zum Handelsverkehr. Ganz zentral für die Entwicklungszusammenarbeit sind auch offene Projektdaten, insbesondere zu den Finanzflüssen.

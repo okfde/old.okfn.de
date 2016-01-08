@@ -5,14 +5,10 @@ image:
   src: /files/blog/2012/04/kfw.png
   title: KfW Förderreport Webseite
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 title: 'Mehr Transparenz: Kooperation KfW-Bankengruppe'
 type: post
-
-
 ---
 
 Wir freuen uns bekannt zu geben, dass wir gerade ein Projekt mit der KfW-Bankengruppe abgeschlossen haben.

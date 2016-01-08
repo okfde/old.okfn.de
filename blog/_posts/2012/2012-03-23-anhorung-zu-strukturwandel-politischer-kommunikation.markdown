@@ -2,16 +2,12 @@
 author: Hauke Gierow
 date: 2012-03-23 08:32:22
 layout: post
-published: true
-status: publish
 tags:
 - Anhörung
 - FragdenStaat
 - Informationsfreiheit
 title: Anhörung zu Strukturwandel politischer Kommunikation
 type: post
-
-
 ---
 
 Am Montag den 19.03. veranstaltete die Enquette-Kommission Internet und Digitale Gesellschaft eine [Anhörung [Link auf Grün Digital] ](http://gruen-digital.de/2012/03/anhoerung-strukturwandel-der-politischen-kommunikation-partizipation-der-eidg/)zum Strukturwandel politischer Kommunikation im Internet. Beim Lesen dieser Zeilen dürfte den meisten gleich Habermas in den Sin kommen, doch es ging nicht um abstrakte Fragestellungen, sondern um neue Bedürfnisse und Ansprüche von Bürgern an politische Kommunikation und Information.

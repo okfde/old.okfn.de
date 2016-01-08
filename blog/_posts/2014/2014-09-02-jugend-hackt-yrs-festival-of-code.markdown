@@ -5,8 +5,6 @@ image:
   src: /files/blog/2014/09/Untitled1.png
   title: Jugend hackt beim Festival of Code
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Festival of Code
@@ -15,8 +13,6 @@ tags:
 - YRS
 title: Jugend hackt-Teilnehmer feiern Erfolg beim Festival of Code
 type: post
-
-
 ---
 
  Jugend hackt beim Festival of Code

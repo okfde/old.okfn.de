@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2015/01/popularscienceprocess-580x536.png
   licence: Popular Science Process, cc by 2.0 Jer Thorp
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up Dezember
 type: post
-
-
 ---
 ### Der letzte Monat im Rückblick
 

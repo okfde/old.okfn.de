@@ -4,8 +4,6 @@ date: 2014-08-13 10:35:38
 image:
   src: /files/blog/2014/08/digitale_agenda-415x257.png
 layout: post
-published: true
-status: publish
 tags:
 - Digitale Agenda
 - offene Daten
@@ -13,8 +11,6 @@ tags:
 - Open Government
 title: 'Ziel (bisher) verfehlt: Digitale Agenda bleibt weit hinter den Koalitonsvereinbarungen zurück'
 type: post
-
-
 ---
 
 Mit der "Digitalen Agenda" will die Bundesregierung die Digitalisierung und den damit verbundenen "gesellschaftlichen Wandel" fördern, dafür rechtliche Rahmenbedingungen schaffen und den Prozess aktiv begleiten. Der vor kurzem veröffentlichte Entwurf dieser Agenda lässt allerdings nichts gutes ahnen: Entgegen der Ankündigung entsteht die Digitale Agenda bisher allein an ["Beamtenschreibtischen in den Ministerien"](http://www.bmwi.de/DE/Presse/reden,did=630384.html) und ohne jegliche Einbeziehung der Zivilgesellschaft oder anderer Gruppen. Darüber hinaus fällt die Sie bisher an vielen Stellen weit hinter das zurück, was der Koalitionsvertrag ursprünglich mal klar definiert hat.

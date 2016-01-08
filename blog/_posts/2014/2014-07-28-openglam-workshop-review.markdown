@@ -4,14 +4,10 @@ date: 2014-07-28 12:22:50
 image:
   src: /files/blog/2014/07/IMAG0174.jpg
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 title: OpenGLAM Workshop Review
 type: post
-
-
 ---
 
  CC-BY Open Knowledge Foundation De

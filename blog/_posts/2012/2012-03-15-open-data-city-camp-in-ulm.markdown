@@ -2,16 +2,12 @@
 author: Hauke Gierow
 date: 2012-03-15 12:29:51
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Ulm
 - Veranstaltungen
 title: Open Data City Camp in Ulm
 type: post
-
-
 ---
 
 Der folgende Text wurde verfasst von Stefan Kaufmann

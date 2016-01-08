@@ -4,16 +4,12 @@ date: 2015-11-10 10:00:56
 image: 
   src : /static/images/projects/openbudgets.png
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Transparenz
 title: "OpenBudgets - OKF DE will contribute to advance fiscal 
 transparency in Europe"
 type: post
-
-
 ---
 [**OpenBudgets.eu**](http://openbudgets.eu/), a new project promoting transparency and accountability in the domain of public spending, is launched. The Horizon2020-funded project provides journalists, civil society organisations, NGOs, citizens and public administrations with the tools, data and stories they need to advocate and fight for fiscal transparency. 
 

@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2012-09-30 15:31:48
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Bibliotheken
@@ -12,8 +10,6 @@ tags:
 - open GLAM
 title: Konferenz Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe
 type: post
-
-
 ---
 
 Öffentlich finanzierte Archive, Museen und Bibliothe- ken sind wichtige Hüter des kulturellen Erbes.

@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/08/StromnetzBerlin-150x150.jpg
   title: Stromnetz Berlin
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Energy
@@ -18,8 +16,6 @@ tags:
 - Transparenz
 title: Aktivitäten und Projekte im Juli 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 

@@ -4,8 +4,6 @@ date: 2011-08-27 08:32:57
 image:
   src: http://farm7.static.flickr.com/6195/6070216816_e619477ae6_z.jpg
 layout: post
-published: true
-status: publish
 tags:
 - OGDCamp
 - OKFN
@@ -13,8 +11,6 @@ tags:
 - Open Government
 title: Registration for Open Government Data Camp 2011 is now open!
 type: post
-
-
 ---
 
 The following is a cross post from [Jonathan Gray](http://jonathangray.org/), Community Coordinator at the [Open Knowledge Foundation](http://www.okfn.org/).

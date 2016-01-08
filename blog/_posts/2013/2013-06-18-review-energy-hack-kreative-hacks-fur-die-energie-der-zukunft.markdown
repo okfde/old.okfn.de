@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/06/SSmfH3ZSR-9Vs71KVPwKEkwdj5W4RJGS9NSs6nJfqE8.jpg
   title: Hackday Crowd
 layout: post
-published: true
-status: publish
 tags:
 - Energy
 - Entwickler
@@ -14,8 +12,6 @@ tags:
 - Open Data
 title: Review Energy Hack – Kreative Hacks für die Energie der Zukunft
 type: post
-
-
 ---
 
 (english version below)

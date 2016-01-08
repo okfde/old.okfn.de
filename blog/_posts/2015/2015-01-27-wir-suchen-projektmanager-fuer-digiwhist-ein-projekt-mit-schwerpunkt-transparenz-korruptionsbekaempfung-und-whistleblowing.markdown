@@ -4,8 +4,6 @@ date: 2015-01-27 17:29:18
 image:
   src: /files/blog/2013/03/8210336893_c76839a169_b.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Jobs
 - OKF Deutschland
@@ -13,8 +11,6 @@ tags:
 - Whistleblowing
 title: 'Wir suchen: Projektmanagerin (w/m) für DIGIWHIST - ein H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed (DIGIWHIST)"'
 type: post
-
-
 ---
 Festanstellung (50%), Gehalt nach Öffentlichem Dienst Berlin E13 Stufe 3, Projektlaufzeit drei Jahre, Bewerbungsfrist 15. Februar 2015
 

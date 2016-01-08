@@ -2,16 +2,12 @@
 author: Christian Heise
 date: 2012-10-23 08:18:50
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - Open Access
 - Open Science
 title: Freier Zugang zu staatlich finanzierter Wissenschaft
 type: post
-
-
 ---
 
 In Deutschland wird ein Großteil der Wissenschaft und Wissensproduktion durch die öffentliche Hand finanziert. Während die privatwirtschaftliche Aneignung und Nutzung des produzierten Wissens erwartet wird, sind die wissenschaftlichen Publikationen aber nur selten für den Steuerzahler frei verfügbar. Das muss sich ändern!

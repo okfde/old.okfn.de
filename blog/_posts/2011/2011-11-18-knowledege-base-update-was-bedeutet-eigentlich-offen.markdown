@@ -2,14 +2,10 @@
 author: Hauke Gierow
 date: 2011-11-18 14:50:51
 layout: post
-published: true
-status: publish
 tags:
 - Knowledge Base
 title: 'Knowledege Base Update: Was bedeutet eigentlich "offen"?'
 type: post
-
-
 ---
 
 In unserer [Knowledge Base](http://wiki.okfn.de/KnowledgeBase) im [Wiki ](http://wiki.okfn.de)steht nun der[ zweite Beitrag ](http://wiki.okfn.de/Wasmeintoffenheit)bereit zum lesen:

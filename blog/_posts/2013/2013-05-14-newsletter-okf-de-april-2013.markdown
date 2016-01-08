@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/05/banks-thumb-150x150.jpg
   title: banks-thumb
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Events

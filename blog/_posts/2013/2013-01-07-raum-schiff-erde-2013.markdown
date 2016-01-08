@@ -4,8 +4,6 @@ date: 2013-01-07 10:30:15
 image:
   src: /files/blog/2013/01/Raumschiff-Erde.png
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Events
@@ -13,8 +11,6 @@ tags:
 - Open Innovation
 title: Raum Schiff Erde 2013
 type: post
-
-
 ---
 
   

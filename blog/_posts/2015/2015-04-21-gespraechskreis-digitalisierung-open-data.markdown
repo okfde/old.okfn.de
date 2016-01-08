@@ -5,14 +5,11 @@ image:
   src: /files/blog/2015/04/data-types.png
   title: Types of Data
 layout: post
-published: true
-status: publish
 tags:
 - Veranstaltung
 - Open Data
 title: "Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30.4."
 type: post
-
 ---
 ### Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30.4.
 

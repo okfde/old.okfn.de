@@ -5,14 +5,10 @@ image:
   src: http://openscienceasap.org/wp-content/uploads/2014/09/MSWissenschaft-580x321.jpg
   title: Ausschnitt aus MS Wissenschaft, cc by-nc-sa 2.0 Simon Bierwald
 layout: post
-published: true
-status: publish
 tags:
 - Open Science
 title: Open Science Sum-Up August
 type: post
-
-
 ---
 
 Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.

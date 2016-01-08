@@ -2,14 +2,10 @@
 author: Daniel Dietrich
 date: 2012-07-15 06:50:02
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 title: Open Commons Kongress am 28. August in Linz
 type: post
-
-
 ---
 
 **OC12: Leben und Zusammenarbeiten mit Digitalen Gemeingütern  

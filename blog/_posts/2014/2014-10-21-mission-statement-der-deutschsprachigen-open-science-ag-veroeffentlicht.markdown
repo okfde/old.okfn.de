@@ -2,16 +2,12 @@
 author: Christian Heise
 date: 2014-10-21 19:19:24
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - Open Science
 - Open Access
 title: Mission Statement der deutschsprachigen Open Science AG veröffentlicht
 type: post
-
-
 ---
 
 Zur internationalen [Open Access Week 2014](http://www.openaccessweek.org/) hat die [AG Open Science ein Mission Statement veröffentlicht](/themen/offene-wissenschaft). Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open Science Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Open Science fungieren.

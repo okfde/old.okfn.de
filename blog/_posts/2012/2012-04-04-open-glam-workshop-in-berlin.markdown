@@ -4,8 +4,6 @@ date: 2012-04-04 12:08:26
 image:
   src: http://openglam.org/files/2012/04/OpenGLAM-logo-720x1024.png
 layout: post
-published: true
-status: publish
 tags:
 - Creative Commons
 - OpenGLAM
@@ -14,8 +12,6 @@ tags:
 - Workshop
 title: Open GLAM Workshop in Berlin
 type: post
-
-
 ---
 
   

@@ -5,15 +5,11 @@ image:
   src: /files/blog/2013/02/Open_data.png
   title: Open Data
 layout: post
-published: true
-status: publish
 tags:
 - OKF Deutschland
 - Tätigkeitsbericht
 title: Tätigkeitsbericht OKF DE Januar 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland: Zeitraum: Januar 2013**

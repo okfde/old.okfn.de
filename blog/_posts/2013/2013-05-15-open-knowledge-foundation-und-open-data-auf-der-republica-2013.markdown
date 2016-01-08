@@ -2,13 +2,9 @@
 author: Christian Heise
 date: 2013-05-15 11:30:00
 layout: post
-published: true
-status: publish
 tags: []
 title: Alle Videos der Open Knowledge Foundation auf der re:publica 2013
 type: post
-
-
 ---
 
 Auch in diesem Jahr fand vom 6. bis 8. Mai fand in Berlin wieder die [re:publica](http://www.re-publica.de/) statt. Die wohl größte europäische Konferenz zu den Themen digitale Politik, Gesellschaft, Medien und Technologie hatte in diesem Jahr mit Open Data einen eigenen Schwerpunkt. Folgende Sessions fanden unter Beteiligung der Open Knowledge Foundation statt und sind nun als Video verfügbar:

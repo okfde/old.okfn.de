@@ -4,8 +4,6 @@ date: 2015-11-02 22:14:00
 image: 
   src: /files/blog/2015/11/RK.png
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Nahverkehr
@@ -14,7 +12,6 @@ tags:
 - 
 title: "Ein erster Blick auf Aufzugsdaten: Erste Daten von der Bahn" 
 type: post
-
 ---
 *Berlin, 02.11.2015* – Wie [unlängst angekündigt](/blog/2015/10/die-bahn-kommt-auf-open-data/) hatte die Deutsche Bahn die Öffnung erster Datensätze als „echtes" Open Data in Aussicht gestellt, was nicht ohne Echo blieb:
 

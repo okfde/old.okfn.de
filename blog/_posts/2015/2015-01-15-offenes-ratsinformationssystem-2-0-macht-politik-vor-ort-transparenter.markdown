@@ -5,14 +5,10 @@ image:
   src: /files/blog/2015/01/Politik-Bei-Uns-Logo-medium.png
   title: Politik Bei Uns Logo
 layout: post
-published: true
-status: publish
 tags:
 - Transparenz
 title: Offenes Ratsinformationssystem 2.0 macht Politik vor Ort transparenter
 type: post
-
-
 ---
 Gibt es anstehende Baumaßnamen in meiner direkten Umgebung? Warum wird der Spielplatz geschlossen, und wohin fließen eigentlich die Gewinne der Stadttochter?
 

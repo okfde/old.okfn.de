@@ -2,13 +2,9 @@
 author: Hauke Gierow
 date: 2012-01-12 07:00:50
 layout: post
-published: true
-status: publish
 tags: []
 title: Informationsfreiheit in Rheinland-Pfalz
 type: post
-
-
 ---
 
 Der folgende Gastbeitrag wurde verfasst von [Pia Schellhammer](http://pia-schellhammer.de/), Landtagsabgeordnete für die Grünen in Rheinland Pfalz.

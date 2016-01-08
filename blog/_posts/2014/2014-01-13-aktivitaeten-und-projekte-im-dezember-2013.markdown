@@ -4,14 +4,10 @@ date: 2014-01-13 09:00:08
 image:
   src: /files/blog/2013/12/2014-01-09-09.42.15-415x311.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Monatsrückblick
 title: Aktivitäten und Projekte im Dezember 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**

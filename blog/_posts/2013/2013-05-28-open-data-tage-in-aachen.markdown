@@ -4,8 +4,6 @@ date: 2013-05-28 10:51:45
 image:
   src: http://opendatadayaachen.de/img/logo.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Aachen
 - Deutschland
@@ -17,8 +15,6 @@ tags:
 - Open Government
 title: Open Data Tage in Aachen
 type: post
-
-
 ---
 
  

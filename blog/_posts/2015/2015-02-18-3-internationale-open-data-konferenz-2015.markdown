@@ -4,8 +4,6 @@ date: 2015-02-18 12:28:05
 image:
   src: /files/blog/2015/02/image001.jpg
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Konferenz
@@ -13,8 +11,6 @@ tags:
 - Open Government
 title: 3. Internationale Open Data Konferenz – 28. - 29. Mai 2015 in Ottawa, Kanada
 type: post
-
-
 ---
 Mitmachen und das Programm gestalten!
 

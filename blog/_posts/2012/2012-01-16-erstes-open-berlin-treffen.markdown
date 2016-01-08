@@ -5,13 +5,9 @@ image:
   src: /files/blog/2012/01/IMG_0562-300x225.jpg
   title: ''
 layout: post
-published: true
-status: publish
 tags: []
 title: Erstes Open Berlin Treffen
 type: post
-
-
 ---
 
 Letzten Dienstag war es endlich soweit: Der Auftakt zu unseren regelmäßigen Open Knowledge Treffen in Berlin wurde gemacht! Wir waren ca. 20 Leute und haben über Frag den Staat und andere Projekte [diskutiert](http://wiki.okfn.de/Meeting10-01-2012)!

@@ -2,14 +2,10 @@
 author: Eva Panek
 date: 2012-11-26 10:38:50
 layout: post
-published: true
-status: publish
 tags:
 - Open Knowledge
 title: 'Call for Participation: Digital Openness Index'
 type: post
-
-
 ---
 
 Wir wollen euch auf ein interessantes Projekt aufmerksam machen, dass die Digitale Gesellschaft derzeit mit dem österreichischen Verein [Freie Netze. Freies Wissen](http://www.freienetze.at/freie-netze). und dem schweizer Verein [Digitale Allmend](http://allmend.ch/) plant. Es geht dabei um die Entwicklung eines [Digitalen Offenheitsindex](http://www.do-index.org/), der den Beitrag öffentlicher Körperschaften zu digitalen Gemeingütern (wie Daten, Informationen, Wissen, Infrastruktur) sicht- und vergleichbar machen soll. Auf Basis einer breiten Indikatorenmatrix soll ein Ranking von ausgewählten Gebietskörperschaften aus Deutschland, Österreich und der Schweiz erstellt sowie ein Softwaretool zur Selbsteinstufung nicht gelisteter Kommunen entwickelt werden.

@@ -5,15 +5,11 @@ image:
   title: Coding da Vinci
 date: 2015-02-12 19:44:45
 layout: post
-published: true
-status: publish
 tags:
 - offene Kultur
 - Termine
 title: Kulturgut digital nutzbar machen
 type: post
-
-
 ---
 **Mit Coding da Vinci bereits 325 000 Mediendateien befreit**
 

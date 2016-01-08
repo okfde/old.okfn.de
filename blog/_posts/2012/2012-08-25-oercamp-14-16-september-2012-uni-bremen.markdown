@@ -4,8 +4,6 @@ date: 2012-08-25 15:13:19
 image:
   src: /files/blog/2012/08/OERcamp-Logo-300px.jpeg
 layout: post
-published: true
-status: publish
 tags:
 - Termine
 - Barcamp
@@ -14,8 +12,6 @@ tags:
 - offenes Wissen
 title: '#OERcamp - 14.–16. September 2012, Uni Bremen'
 type: post
-
-
 ---
 
 **Einladung zum #OERcamp 2012, das Barcamp zu digitalen und offenen Lehr-Lern-Materialien, 14.–16\. September 2012 an der Uni Bremen.**

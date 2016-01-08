@@ -4,8 +4,6 @@ date: 2015-10-18 08:15:56
 image: 
   src : https://netzpolitik.org/wp-upload/obenbudgetindex.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Transparency
@@ -13,7 +11,6 @@ tags:
 - Transparenz
 title: "Open Budget Survey: Bundeshaushalt kann noch transparenter werden" 
 type: post
-
 ---
 <i>Berlin, 15.10.2015</i> - Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
 

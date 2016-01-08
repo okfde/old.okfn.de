@@ -4,8 +4,6 @@ date: 2013-01-04 17:45:55
 image:
   src: http://okfnlabs.org/img/projects/bundesgit_intro.png
 layout: post
-published: true
-status: publish
 tags:
 - bundesgit
 - Bundestag
@@ -16,8 +14,6 @@ tags:
 - Politik
 title: Bundes-Git – German Laws on GitHub
 type: post
-
-
 ---
 
 # 

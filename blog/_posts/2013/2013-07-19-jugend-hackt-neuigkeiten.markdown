@@ -5,13 +5,9 @@ image:
   src: /files/blog/2013/07/jugendhackt_banner.jpg
   title: Jugendhackt Banner
 layout: post
-published: true
-status: publish
 tags: []
 title: Jugend hackt - Neuigkeiten
 type: post
-
-
 ---
 
 In Deutschland gibt es [große, staatlich geförderte Initiativen](http://www.jugend-forscht.de), in denen begabte Jugendliche bereits früh gefördert werden und Möglichkeiten zur Vernetzung und Weiterbildung bekommen. Die Nachwuchsförderung für Talente aus dem Bereich der Softwareentwicklung ist hingegen deutlich unterrepräsentiert. 

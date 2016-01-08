@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/06/interactive-cologne-2013.jpg
   title: interactive cologne 2013
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Interactive Cologne
@@ -15,8 +13,6 @@ tags:
 - Open Transport
 title: Apps & the City Cologne
 type: post
-
-
 ---
 
 **Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _[Apps & the City_](http://appsandthecity.net/) Team der Open Knowledge Foundation Deutschland beim diesjährigen _[Interactive Cologne_](/blog/2013/06/interactive-cologne-apps-the-city/) Festival!**

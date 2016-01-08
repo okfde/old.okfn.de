@@ -2,15 +2,11 @@
 author: Daniel Dietrich
 date: 2013-02-16 17:28:47
 layout: post
-published: true
-status: publish
 tags:
 - OKF Deutschland
 - OKFN
 title: OKF DE sucht Verstärkung!
 type: post
-
-
 ---
 
 Die Open Knowledge Foundation Deutschland sucht einen wissenschaftlichen Mitarbeiter und zwei Praktikanten. Hier die Stellenbeschreibungen. Wir freuen uns geeignete Bewerbungen!

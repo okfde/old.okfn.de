@@ -4,8 +4,6 @@ date: 2013-04-04 10:03:18
 image:
   src: /files/blog/2013/02/005.png
 layout: post
-published: true
-status: publish
 tags:
 - Nahverkehr
 - Open Transport
@@ -13,8 +11,6 @@ tags:
 - Workshop
 title: 'Apps and the City: App Präsentation & Daten Workshop'
 type: post
-
-
 ---
 
 **Mit einer umfassenden Vorstellung von prototypischen Apps, die im Rahmen des von der Open Knowledge Foundation Deutschland in Kooperation mit dem [Verkehrsverbund Berlin-Brandenburg](http://www.vbb.de/de/index.html) (VBB) durchgeführten [Apps and the City](http://appsandthecity.net/) Projekts in Berlin entwickelt wurden, fand nun am 22. März 2013 die erste öffentliche Zwischenpräsentation in den Räumlichkeiten des VBB statt.**

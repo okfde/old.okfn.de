@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2012-05-10 06:41:43
 layout: post
-published: true
-status: publish
 tags:
 - offenes Wissen
 - Commons
@@ -12,8 +10,6 @@ tags:
 - Public Domain
 title: COMMUNIA Projekt veröffentlicht Abschlussbericht und Buch
 type: post
-
-
 ---
 
 Das COMMUNIA Projekt hat seinen Abschlussbericht und ein Buch veröffentlicht. Der [Abschlussbericht](http://communia-project.eu/final-report/) fasst die herausragende Arbeit des thematischen Netzwerks zusammen. Er umfasst theoretische Analysen und praktische Handlungsempfehlungen zu allen Fragen rund um die Public Domain. Auswahl der Themen:

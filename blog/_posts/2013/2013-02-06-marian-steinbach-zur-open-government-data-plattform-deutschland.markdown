@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/01/OGDP.png
   title: ''
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Deutschland
@@ -15,8 +13,6 @@ tags:
 - Open Government
 title: M. Steinbach zur Open Government Data Plattform Deutschland
 type: post
-
-
 ---
 
   

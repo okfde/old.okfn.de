@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-07-15 12:53:44
 layout: post
-published: true
-status: publish
 tags:
 - Apps4DE
 - Deutschland
@@ -11,8 +9,6 @@ tags:
 - Open Data
 title: Apps für Deutschland
 type: post
-
-
 ---
 
 Es ist soweit: Nach ein paar Wochen der Vorbereitung freue ich mich euch heute mitteilen zu dürfen, dass die Open Knowledge Foundation Deutschland gemeinsam mit dem [Open Data Network](http://opendata-network.org) und dem [Government 2.0 Netzwerk](http://gov20.de) den Wettbewerb "Apps für Deutschland ausrichten wird. Die Idee zu einem solchen bundesweiten Wettbewerb um offene Verwaltungsdaten entstand bereits vor über einem Jahr. Jetzt haben wir mit dem Bundesministerium des Innern als Schirmherr und dem BITKOM als Unterstützer zwei Partner gefunden um die Idee endlich umzusetzen. Das Statistische Bundesamt und das Bundesamt für Kartographie und Geodäsie werden Daten für den Wettbewerb bereitstellen, andere Behörden werden dem Beispiel hoffentlich folgen.

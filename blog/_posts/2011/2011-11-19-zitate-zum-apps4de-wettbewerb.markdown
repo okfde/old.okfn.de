@@ -2,8 +2,6 @@
 author: Daniel Dietrich
 date: 2011-11-19 07:00:41
 layout: post
-published: true
-status: publish
 tags:
 - offene Daten
 - Apps4DE
@@ -11,8 +9,6 @@ tags:
 - Open Data
 title: Ein paar schöne Zitate zum Apps4DE Wettbewerb
 type: post
-
-
 ---
 
 Rechtzeitig zum Apps für Deutschland Wettbewerb haben wir ein paar besonders [schöne Zitate](http://apps4deutschland.de/category/statements/) sammeln können.

@@ -4,8 +4,6 @@ date: 2013-09-11 08:47:54
 image:
   src: http://farm6.staticflickr.com/5485/9573345161_affa7ccd25_z.jpg
 layout: post
-published: true
-status: publish
 tags:
 - Berlin
 - Community
@@ -16,8 +14,6 @@ tags:
 - Open Government
 title: Aktivitäten und Projekte im August 2013
 type: post
-
-
 ---
 
 **Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 

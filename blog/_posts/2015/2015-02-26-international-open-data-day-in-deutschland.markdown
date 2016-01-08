@@ -4,14 +4,10 @@ date: 2015-02-26 11:07:52
 image:
   src: /files/blog/2015/02/Screen-Shot-2015-02-25-at-11.30.01-318x415.png
 layout: post
-published: true
-status: publish
 tags:
 - ODD
 title: International Open Data Day in Deutschland
 type: post
-
-
 ---
 
 ### ODD 2015 im [Rückblick](https://storify.com/soniaokfn/international-open-data-day-in-deutschland)

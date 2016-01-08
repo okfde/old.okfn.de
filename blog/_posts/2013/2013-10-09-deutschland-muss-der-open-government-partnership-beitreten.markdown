@@ -5,8 +5,6 @@ image:
   src: /files/blog/2013/10/ogp_de_logo.jpg
   title: ogp de logo
 layout: post
-published: true
-status: publish
 tags:
 - Deutschland
 - Positionen
@@ -14,8 +12,6 @@ tags:
 - Open Government
 title: Deutschland muss endlich der Open Government Partnership beitreten
 type: post
-
-
 ---
 
 Die Bundesrepublik Deutschland muss sich endlich in der [internationalen Initiative „Open Government Partnership“](http://opengovpartnership.org/) zur Konkretisierung eines offenen Regierungs- und Verwaltungshandelns engagieren. Das fordert der [Arbeitskreis für einen Beitritt Deutschlands zur Open Government Partnership](http://opengovpartnership.de) (in dem auch die Open Knowledge Foundation Deutschland mitwirkt) und überreichte der Bundesregierung ein Umsetzungskonzept für die neue Legislaturperiode.
