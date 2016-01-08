@@ -4,7 +4,6 @@ date: 2011-07-15 12:53:44
 layout: post
 tags:
 - Apps4DE
-- Deutschland
 - offene Daten
 - Open Data
 title: Apps für Deutschland

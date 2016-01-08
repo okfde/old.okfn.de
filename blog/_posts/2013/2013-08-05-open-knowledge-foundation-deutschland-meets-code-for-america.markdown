@@ -8,11 +8,10 @@ layout: post
 tags:
 - Anwendungen
 - Apps
-- code for all
+- Code for All
 - offene Daten
 - offenes Wissen
-- code for america
-- Deutschland
+- Code for America
 - Programm
 - Stipendiat
 - Stipendien

@@ -3,8 +3,8 @@ author: Daniel Dietrich
 date: 2011-07-18 08:13:18
 layout: post
 tags:
-- Deutschland
 - Berlin
+- Wikimedia
 title: 'Wikimedia: Wahlprüfsteine für Berlin'
 type: post
 ---

@@ -5,7 +5,7 @@ layout: post
 tags:
 - Community
 - OGDCamp
-- OKFN
+- OKFN DE
 title: OGD Camp reloaded
 type: post
 ---

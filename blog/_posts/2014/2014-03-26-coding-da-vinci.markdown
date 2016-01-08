@@ -7,9 +7,8 @@ layout: post
 tags:
 - offene Kultur
 - offenes Wissen
-- Deutschland
 - Kulturdaten
-- open culture
+- Open Culture
 - OpenGLAM
 title: Coding da Vinci - Der Kultur-Hackathon
 type: post

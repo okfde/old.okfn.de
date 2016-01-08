@@ -5,7 +5,6 @@ layout: post
 tags:
 - offene Daten
 - Apps4DE
-- Deutschland
 - Open Data
 title: Ein paar schöne Zitate zum Apps4DE Wettbewerb
 type: post

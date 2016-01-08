@@ -5,9 +5,8 @@ image:
   src: /files/blog/2013/10/OD_Index2013-e1383161997347.jpg
 layout: post
 tags:
-- Deutschland
 - offene Daten
-- OKFN
+- OKFN DE
 - Open Data Census
 - Open Data Index
 - Open Government Partnership

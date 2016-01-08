@@ -6,7 +6,6 @@ image:
 layout: post
 tags:
 - Aachen
-- Deutschland
 - Events
 - Hackday
 - Konferenz

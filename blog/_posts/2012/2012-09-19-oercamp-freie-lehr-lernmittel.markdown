@@ -6,7 +6,6 @@ image:
   title: ''
 layout: post
 tags:
-- Deutschland
 - offenes Wissen
 - Termine
 title: OER(Camp) - freie Lehr-Lernmittel

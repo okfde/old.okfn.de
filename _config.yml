@@ -15,7 +15,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - octopress-autoprefixer
-
+tag_dir: blog/tags/
 defaults:
   - scope:
       path: ""

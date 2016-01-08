@@ -6,7 +6,7 @@ tags:
 - frag den staat
 - Informationsfreiheit
 - Konferenz
-- OKF Deutschland
+- OKFN DE
 title: Frag den Staat beim 28C3
 type: post
 ---

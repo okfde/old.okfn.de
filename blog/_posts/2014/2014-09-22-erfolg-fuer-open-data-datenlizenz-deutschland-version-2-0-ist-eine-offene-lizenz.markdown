@@ -6,7 +6,7 @@ image:
 layout: post
 tags:
 - offene Daten
-- OKFN
+- OKFN DE
 title: 'Erfolg für Open Data: Datenlizenz Deutschland Version 2.0 ist eine offene Lizenz  (Update)'
 type: post
 ---

@@ -3,10 +3,9 @@ author: Friedrich Lindenberg
 date: 2012-06-15 09:05:00
 layout: post
 tags:
-- Deutschland
 - offene Daten
 - offener Haushalt
-title: Tranzparenz in Deutschland - die Chronik des geschlossenen Haushalts
+title: Transparenz in Deutschland - die Chronik des geschlossenen Haushalts
 type: post
 ---
 

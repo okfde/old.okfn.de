@@ -12,7 +12,7 @@ tags:
 - Events
 - Konferenz
 - OKCon
-- OKF Deutschland
+- OKFN DE
 - Open Data
 - Open Government
 - Open Science

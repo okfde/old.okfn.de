@@ -5,8 +5,8 @@ layout: post
 tags:
 - Bibliotheken
 - offenes Wissen
-- OKF Deutschland
-- OKFN
+- OKFN DE
+- OKFN DE
 title: 'Interview mit Adrian Pohl: Bibliotheken sollten ihre Daten öffnen'
 type: post
 ---

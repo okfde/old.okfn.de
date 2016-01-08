@@ -10,7 +10,7 @@ tags:
 - offenes Wissen
 - Digitalisierung
 - kulturelles Erbe
-- openculture
+- Open Culture
 - OpenGLAM
 title: Zugang gestalten - Ein Rückblick
 type: post

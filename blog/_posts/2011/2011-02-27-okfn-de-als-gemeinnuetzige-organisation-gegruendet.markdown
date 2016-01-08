@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2011-02-27 10:25:02
 layout: post
 tags:
-- Open Knowledge Foundation
+- OKFN DE
 title: OKFN DE als gemeinnützige Organisation gegründet
 type: post
 ---

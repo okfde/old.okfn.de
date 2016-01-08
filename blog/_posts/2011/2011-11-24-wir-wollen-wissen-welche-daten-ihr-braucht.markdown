@@ -4,7 +4,6 @@ date: 2011-11-24 16:41:00
 layout: post
 tags:
 - Apps4DE
-- Deutschland
 - offene Daten
 - Open Data
 title: Wir wollen wissen, welche Daten ihr braucht!

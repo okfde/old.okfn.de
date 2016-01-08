@@ -8,7 +8,6 @@ layout: post
 tags:
 - Apps
 - Behörden
-- Deutschland
 - Hackday
 - offene Daten
 - Open Data

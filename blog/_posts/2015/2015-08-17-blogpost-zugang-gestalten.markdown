@@ -6,7 +6,6 @@ image:
   title: Zugang gestalten!
 layout: post
 tags:
-- Deutschland
 - Zugang gestalten
 - Digitalisierung
 - Zukunftsstrategien

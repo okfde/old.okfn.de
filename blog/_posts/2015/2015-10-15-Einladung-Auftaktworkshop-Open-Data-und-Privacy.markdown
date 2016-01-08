@@ -7,7 +7,6 @@ layout: post
 tags:
 - Transparency
 - Open Government
-- Deutschland
 - Transparenz
 title: Einladung zum Workshop 'Offene Daten als Grundlage moderner Verwaltung' - Auftakt des Projekts „Open Data & Privacy“ 
 type: post

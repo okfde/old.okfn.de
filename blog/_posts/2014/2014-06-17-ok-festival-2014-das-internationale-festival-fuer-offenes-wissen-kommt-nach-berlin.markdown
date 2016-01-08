@@ -9,7 +9,6 @@ tags:
 - Berlin
 - Events
 - Konferenz
-- Deutschland
 - offene Daten
 - offene Kultur
 - offenes Wissen

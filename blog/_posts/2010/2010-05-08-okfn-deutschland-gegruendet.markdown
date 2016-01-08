@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2010-05-08 10:33:25
 layout: post
 tags:
-- OKFN
+- OKFN DE
 - Open Knowledge
 title: OKF Deutschland gegründet
 type: post

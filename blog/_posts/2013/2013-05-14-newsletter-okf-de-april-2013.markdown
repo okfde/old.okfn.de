@@ -12,7 +12,7 @@ tags:
 - Newsletter
 - offener Haushalt
 - OKCon
-- OKF Deutschland
+- OKFN DE
 - Open Transport
 - VBB
 title: Newsletter OKF DE April 2013

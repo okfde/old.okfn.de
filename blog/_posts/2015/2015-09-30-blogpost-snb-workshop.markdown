@@ -7,7 +7,6 @@ layout: post
 tags:
 - Workshops
 - Hackday
-- Deutschland
 - Energieversorgung
 - offene Daten
 - Blackout

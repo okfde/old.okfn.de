@@ -9,7 +9,7 @@ tags:
 - offene Daten
 - Community
 - Konferenz
-- OKF Deutschland
+- OKFN DE
 - Open Aid
 - Open Data
 title: Open Development Camp 2013, 7-8 November, Amsterdam

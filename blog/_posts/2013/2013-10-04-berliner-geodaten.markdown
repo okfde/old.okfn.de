@@ -6,7 +6,6 @@ tags:
 - Behörden
 - Berlin
 - offene Daten
-- Deutschland
 - Geodaten
 - Lizenzen
 - Open Transport

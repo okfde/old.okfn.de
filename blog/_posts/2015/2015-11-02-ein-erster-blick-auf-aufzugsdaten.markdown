@@ -5,7 +5,6 @@ image:
   src: /files/blog/2015/11/RK.png
 layout: post
 tags:
-- Deutschland
 - Nahverkehr
 - Open Transport
 - Deutsche Bahn

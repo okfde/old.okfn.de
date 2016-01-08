@@ -5,7 +5,6 @@ image:
   src : https://netzpolitik.org/wp-upload/obenbudgetindex.jpg
 layout: post
 tags:
-- Deutschland
 - Transparency
 - Open Government
 - Transparenz

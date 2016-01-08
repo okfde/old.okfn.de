@@ -5,7 +5,6 @@ layout: post
 tags:
 - Apps4DE
 - Berlin
-- Deutschland
 - Hackday
 - Open Data
 title: 'Offene Geodaten Berlin: Wir fangen dann schon mal an…'

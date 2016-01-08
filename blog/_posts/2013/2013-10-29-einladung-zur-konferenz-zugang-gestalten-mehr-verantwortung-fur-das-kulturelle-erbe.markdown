@@ -6,7 +6,7 @@ tags:
 - offene Kultur
 - Digitalisierung
 - Open Access
-- open culture
+- Open Culture
 - OpenGLAM
 title: Einladung zur Konferenz "Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe"
 type: post

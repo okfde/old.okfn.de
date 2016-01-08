@@ -9,7 +9,7 @@ tags:
 - Termine
 - Berlin
 - Open Transport
-- smart city
+- Smart City
 title: Lab for CITY (Civic Innovation and Technology) - 21. Nov. via Live Stream verfolgen
 type: post
 ---

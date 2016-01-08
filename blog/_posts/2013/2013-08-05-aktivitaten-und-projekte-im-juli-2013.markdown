@@ -6,9 +6,8 @@ image:
   title: Stromnetz Berlin
 layout: post
 tags:
-- Deutschland
 - Energy
-- frag den staat
+- FragDenStaat
 - Informationsfreiheit
 - Newsletter
 - OKCon

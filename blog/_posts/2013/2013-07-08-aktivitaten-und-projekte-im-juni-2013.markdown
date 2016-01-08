@@ -8,15 +8,15 @@ layout: post
 tags:
 - Apps
 - Behörden
-- BerlinOpenDataDay
+- BerlinerOpenDataDay
 - Community
 - Energyhackday
-- frag den staat
+- FragDenStaat
 - Hackday
-- interactivecologne
+- Interactive Cologne
 - Konferenz
 - Nahverkehr
-- open GLAM
+- Open GLAM
 - Open Transport
 - OpenDataCensus
 - OpenWeatherMap

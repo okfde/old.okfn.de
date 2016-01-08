@@ -3,8 +3,7 @@ author: Martin Koll
 date: 2013-09-20 09:23:18
 layout: post
 tags:
-- Deutschland
-- frag den staat
+- Frag den Staat
 - Informationsfreiheit
 - Transparenz
 title: Informationsfreiheit und die Bundestagswahl

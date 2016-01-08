@@ -8,7 +8,7 @@ layout: post
 tags:
 - Konferenz
 - OKCon
-- OKFN
+- OKFN DE
 - Open Data
 - Open Government
 - Open Knowledge

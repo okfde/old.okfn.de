@@ -4,7 +4,6 @@ date: 2011-07-15 10:39:10
 layout: post
 tags:
 - Berlin
-- Deutschland
 - Open Aid
 - Open Data
 - Open Knowledge

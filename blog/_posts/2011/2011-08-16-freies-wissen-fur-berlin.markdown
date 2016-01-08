@@ -4,7 +4,6 @@ date: 2011-08-16 16:32:00
 layout: post
 tags:
 - Berlin
-- Deutschland
 - offenes Wissen
 - Wikimedia
 title: Freies Wissen für Berlin

@@ -16,6 +16,7 @@ navig:
 titles:
   Themen: Topics
   Impressum: Contact
+  Tags: Blog Tags
 themen:
   Themen: Topics
   Mehr: learn more
@@ -45,6 +46,7 @@ blog:
   Mehr: Read full post...
   Von: by
   AmDatum: "on"
+  PostsMit: Posts with
   TeileAuf: "Share on"
   VerwandteBeitraege: Related post
   VorherigerBeitrag: Previous post

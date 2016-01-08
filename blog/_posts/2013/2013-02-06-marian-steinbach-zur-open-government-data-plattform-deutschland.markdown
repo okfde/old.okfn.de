@@ -7,7 +7,6 @@ image:
 layout: post
 tags:
 - offene Daten
-- Deutschland
 - OGDP
 - Open Data
 - Open Government

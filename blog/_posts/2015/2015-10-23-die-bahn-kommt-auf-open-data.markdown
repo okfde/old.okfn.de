@@ -3,7 +3,6 @@ author: Stefan Kaufmann und Walter Palmetshofer
 date: 2015-10-23 15:25:00
 layout: post
 tags:
-- Deutschland
 - Transparency
 - Nahverkehr
 - Open Transport

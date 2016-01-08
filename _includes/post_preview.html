@@ -12,7 +12,7 @@
 	<div class="post-teaser">
 		<ul class="post-tags">
 			{% for tag in post.tags %}
-			<li><span class="badge">{{ tag }}</span></li>
+			<li><a href="{{ site.baseurl }}/blog/tags/{{ tag }}/"><span class="badge">{{ tag }}</span></a></li>
 			{% endfor %}
 		</ul>
 		<h3 class="post-title"><a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">{{ post.title }}</a></h3>

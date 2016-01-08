@@ -6,7 +6,7 @@ image:
 layout: post
 tags:
 - Berlin
-- OKF Deutschland
+- OKFN DE
 title: Praktikum bei der OKF DE
 type: post
 ---

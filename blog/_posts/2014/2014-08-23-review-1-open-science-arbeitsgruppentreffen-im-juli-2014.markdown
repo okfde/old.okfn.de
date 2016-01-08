@@ -5,7 +5,6 @@ image:
   src: /files/blog/2014/09/open_science_ag_okf_de-415x310.png
 layout: post
 tags:
-- Deutschland
 - offene Daten
 - offenes Wissen
 - Open Science

@@ -5,8 +5,8 @@ image:
   src: /files/blog/2011/10/german-oda-1024x517.png
 layout: post
 tags:
-- Deutschland
-- Open Knowledge Foundation
+- Open Aid
+- Hackday
 title: Rückblick Open Aid Data Hackday
 type: post
 ---

@@ -7,7 +7,6 @@ image:
 layout: post
 tags:
 - Barcamp
-- Deutschland
 - Behörden
 - Community
 - Events

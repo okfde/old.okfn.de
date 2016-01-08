@@ -3,7 +3,6 @@ author: Daniel Dietrich
 date: 2011-08-30 06:05:25
 layout: post
 tags:
-- Open Knowledge Foundation
 - Termine
 title: Konferenz Netz für Alle
 type: post

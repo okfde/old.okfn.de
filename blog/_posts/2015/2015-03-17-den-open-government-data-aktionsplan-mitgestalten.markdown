@@ -6,7 +6,6 @@ image:
 layout: post
 tags:
 - Beteiligung
-- Deutschland
 - G8 Open Data Charter
 - offene Daten
 title: Den Open Government Data Aktionsplan mitgestalten!

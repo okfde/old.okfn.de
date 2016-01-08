@@ -8,7 +8,6 @@ layout: post
 tags:
 - Behörden
 - Bremen
-- Deutschland
 - offene Daten
 - Open Government
 - Transparenz

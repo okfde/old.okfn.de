@@ -5,7 +5,6 @@ layout: post
 tags:
 - Apps4DE
 - offene Daten
-- Deutschland
 - Open Data
 - Open Government
 title: Start des "Apps für Deutschland" -Wettbewerbs

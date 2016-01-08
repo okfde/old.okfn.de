@@ -5,13 +5,12 @@ image:
   src: http://farm6.staticflickr.com/5460/9722853923_4fc203e524_z.jpg
 layout: post
 tags:
-- Deutschland
 - Hackday
 - Informationsfreiheit
 - Konferenz
 - Newsletter
 - OKCon
-- OKF Deutschland
+- OKFN DE
 - Open Access
 title: Aktivitäten und Projekte im September 2013
 type: post

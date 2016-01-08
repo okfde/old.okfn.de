@@ -5,7 +5,6 @@ image:
   src : /files/blog/2015/11/db_launch.jpg
 layout: post
 tags:
-- Deutschland
 - Nahverkehr
 - Open Transport
 - Deutsche Bahn

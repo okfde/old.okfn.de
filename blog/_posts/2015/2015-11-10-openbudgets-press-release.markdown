@@ -5,7 +5,6 @@ image:
   src : /static/images/projects/openbudgets.png
 layout: post
 tags:
-- Deutschland
 - Transparenz
 title: "OpenBudgets - OKF DE will contribute to advance fiscal 
 transparency in Europe"

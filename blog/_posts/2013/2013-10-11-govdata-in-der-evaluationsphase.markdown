@@ -7,7 +7,6 @@ layout: post
 tags:
 - offene Daten
 - Behörden
-- Deutschland
 - offene Daten
 title: GovData in der Evaluationsphase
 type: post

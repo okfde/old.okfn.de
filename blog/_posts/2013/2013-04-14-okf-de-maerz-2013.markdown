@@ -5,7 +5,7 @@ image:
   src: /files/blog/2013/02/Open_data.png
 layout: post
 tags:
-- OKF Deutschland
+- OKFN DE
 title: OKF DE Tätigkeitsbericht März 2013
 type: post
 ---

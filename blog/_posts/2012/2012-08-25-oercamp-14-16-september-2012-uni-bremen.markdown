@@ -7,7 +7,6 @@ layout: post
 tags:
 - Termine
 - Barcamp
-- Deutschland
 - OER
 - offenes Wissen
 title: '#OERcamp - 14.–16. September 2012, Uni Bremen'

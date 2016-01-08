@@ -7,10 +7,9 @@ layout: post
 tags:
 - Code for Germany
 - Community
-- Deutschland
 - offene Daten
 - offenes Wissen
-- OKF Deutschland
+- OKFN DE
 - Open Access
 - Open Data
 title: Der Open Data Day - Startschuss für die OK Labs!

@@ -3,7 +3,6 @@ author: Daniel Dietrich
 date: 2013-04-01 17:17:53
 layout: post
 tags:
-- Deutschland
 - Termine
 - offene Daten
 - Workshop

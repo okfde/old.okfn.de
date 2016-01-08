@@ -15,7 +15,7 @@ menu_blog: yes
 			{% t blog.AmDatum %} {{ page.date | date:"%d.%m.%Y" }}
 		<ul class="post-tags">
 			{% for tag in page.tags %}
-			<li><span class="badge">{{ tag }}</span></li>
+			<li><a href="{{ site.baseurl }}/blog/tags/{{ tag }}/"><span class="badge">{{ tag }}</span></a></li>
 			{% endfor %}
 		</ul>
 		</p>

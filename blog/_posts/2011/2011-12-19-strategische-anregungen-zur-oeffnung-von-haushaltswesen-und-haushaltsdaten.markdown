@@ -4,7 +4,6 @@ date: 2011-12-19 09:00:24
 layout: post
 tags:
 - Positionen
-- Deutschland
 - offener Haushalt
 - Open Data
 - Transparenz

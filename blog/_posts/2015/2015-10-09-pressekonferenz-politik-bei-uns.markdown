@@ -7,7 +7,6 @@ layout: post
 tags:
 - Transparency
 - Open Government
-- Deutschland
 - Transparenz
 title: Einladung zur Pressekonferenz „Politik Bei Uns“
 type: post

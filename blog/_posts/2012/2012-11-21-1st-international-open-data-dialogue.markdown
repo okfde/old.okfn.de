@@ -7,7 +7,6 @@ image:
 layout: post
 tags:
 - Berlin
-- Deutschland
 - Events
 - offene Daten
 - Open Data

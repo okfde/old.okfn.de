@@ -4,7 +4,6 @@ date: 2011-11-24 12:51:07
 layout: post
 tags:
 - Positionen
-- Deutschland
 - Kulturgut
 - Open Knowledge
 - Urheberrecht

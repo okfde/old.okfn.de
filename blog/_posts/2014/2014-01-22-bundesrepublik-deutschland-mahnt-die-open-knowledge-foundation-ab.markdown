@@ -5,7 +5,6 @@ image:
   src: /files/blog/2014/01/fds_bmi_abmahnung.png
 layout: post
 tags:
-- Deutschland
 - Abmahnung
 title: Bundesrepublik Deutschland mahnt die Open Knowledge Foundation ab
 type: post

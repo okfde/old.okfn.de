@@ -8,7 +8,7 @@ tags:
 - Berlin
 - Community
 - offenes Wissen
-- OKF Deutschland
+- OKFN DE
 title: Praktikum bei der Open Knowledge Foundation Deutschland
 type: post
 ---

@@ -12,7 +12,7 @@ tags:
 - Hackday
 - Lizenzen
 - Nahverkehr
-- OKF Deutschland
+- OKFN DE
 - Open Government
 - Open Transport
 - Transparenz

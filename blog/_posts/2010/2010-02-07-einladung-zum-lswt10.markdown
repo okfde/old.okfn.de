@@ -3,7 +3,6 @@ author: Daniel Dietrich
 date: 2010-02-07 09:16:40
 layout: post
 tags:
-- Deutschland
 - Open Knowledge
 - Semantic Web
 - Termine

@@ -3,8 +3,7 @@ author: Daniel Dietrich
 date: 2010-05-01 10:36:59
 layout: post
 tags:
-- Deutschland
-- OKF Deutschland
+- OKFN DE
 - Open Knowledge
 title: Gründung des deutschen Zweiges der Open Knowledge Foundation (OKFN)
 type: post

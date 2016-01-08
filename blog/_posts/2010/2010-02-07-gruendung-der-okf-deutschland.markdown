@@ -3,16 +3,13 @@ author: Daniel Dietrich
 date: 2010-02-07 13:47:33
 layout: post
 tags:
-- OKF Deutschland
+- OKFN DE
 - Open Knowledge
 title: Gründung der OKF Deutschland
 type: post
 ---
 
 **Wir möchten Sie herzlich zur feierliche Gründungszeremonie des deutschen Zweiges der [Open Knowledge Foundation](http://okfn.org/) am 6. Mai auf dem Leipziger Semantic Web Tag 2010 einladen.**
-
-**  
-**
 
 ### Ziele
 

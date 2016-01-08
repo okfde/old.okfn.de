@@ -4,7 +4,6 @@ date: 2011-11-17 10:58:35
 layout: post
 tags:
 - Apps4DE
-- Deutschland
 - Hackday
 title: '#Apps4De Opendata Hackday in Bremen'
 type: post

@@ -5,7 +5,7 @@ layout: post
 tags:
 - Community
 - Jobs
-- OKF Deutschland
+- OKFN DE
 title: Softwareentwickler/in gesucht
 type: post
 ---

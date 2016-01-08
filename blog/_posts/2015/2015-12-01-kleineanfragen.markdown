@@ -6,7 +6,6 @@ image:
 layout: post
 tags:
 - Open Government
-- Deutschland
 - Transparenz
 title: "kleineAnfragen macht Anfragen aus den Parlamenten zugänglicher"
 type: post

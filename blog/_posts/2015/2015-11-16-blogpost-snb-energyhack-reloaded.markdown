@@ -9,7 +9,6 @@ tags:
 - Hackday
 - offene Energiedaten
 - Energieversorgung
-- Deutschland
 - Wirtschaft
 title: So war der Energyhack Reloaded!
 type: post

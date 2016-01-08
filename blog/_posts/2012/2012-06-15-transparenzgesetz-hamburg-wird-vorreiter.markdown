@@ -3,7 +3,6 @@ author: Daniel Dietrich und Christian Pauschert
 date: 2012-06-15 11:01:14
 layout: post
 tags:
-- Deutschland
 - Informationsfreiheit
 - Transparenz
 title: Transparenzgesetz – Hamburg wird Vorreiter!

@@ -8,7 +8,7 @@ tags:
 - Infrastruktur
 - Open Data
 - Wikimedia
-- WIkipedia
+- Wikipedia
 title: Wikidata - freie Daten für freie Nutzung
 type: post
 ---

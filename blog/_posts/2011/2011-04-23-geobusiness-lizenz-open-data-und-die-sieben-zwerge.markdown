@@ -3,7 +3,6 @@ author: Friedrich Lindenberg
 date: 2011-04-23 08:00:09
 layout: post
 tags:
-- Deutschland
 - Geodaten
 - Lizenzen
 - Open Data

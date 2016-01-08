@@ -3,7 +3,6 @@ author: Daniel Dietrich
 date: 2012-06-05 06:13:14
 layout: post
 tags:
-- Deutschland
 - offene Daten
 - Open Government
 title: Eckpunktepapier für Offenes Regierungs- und Verwaltungshandeln

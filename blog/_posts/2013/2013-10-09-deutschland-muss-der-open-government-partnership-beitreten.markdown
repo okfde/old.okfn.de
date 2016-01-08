@@ -6,7 +6,6 @@ image:
   title: ogp de logo
 layout: post
 tags:
-- Deutschland
 - Positionen
 - OGP
 - Open Government

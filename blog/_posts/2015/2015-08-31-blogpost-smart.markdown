@@ -6,7 +6,6 @@ image:
 layout: post
 tags:
 - Workshops
-- Deutschland
 - Verbraucherschutz
 title: Smarte Bürger - Diskussionsrunde im Abgeordnetenhaus zu Verbraucherschutz in der digitalen Welt
 type: post

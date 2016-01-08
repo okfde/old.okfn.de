@@ -7,7 +7,6 @@ layout: post
 tags:
 - Berlin
 - Kultur-Hackathon
-- Deutschland
 - offene Kultur
 - Open Data
 - OpenGLAM

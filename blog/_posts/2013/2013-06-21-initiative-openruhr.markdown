@@ -8,8 +8,7 @@ layout: post
 tags:
 - Behörden
 - Community
-- Deutschland
-- OKF Deutschland
+- OKFN DE
 - Open Government
 title: Initiative OpenRuhr veröffentlicht alternatives Ratsinformationssystem für Bochum und Moers
 type: post

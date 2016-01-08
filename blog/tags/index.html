@@ -1,0 +1,16 @@
+---
+layout: default
+title: titles.Tag
+---
+
+<div class="lurking-header">
+	<h1>{{page.title}}</h1>
+	<ul class="tag-list">
+		{% sorted_keys_for tag in site.tags %}
+		<li>
+			<a href="{{ site.baseurl }}/blog/tags/{{ tag }}/">{{ tag }}</a>
+			<small>Posts: {{ site.tags[tag].size }}</small>
+		</li>
+		{% endsorted_keys_for %}
+	</ul>
+</div>

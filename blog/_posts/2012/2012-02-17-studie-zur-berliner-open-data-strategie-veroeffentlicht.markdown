@@ -5,7 +5,6 @@ layout: post
 tags:
 - Berlin
 - offene Daten
-- Deutschland
 - Open Data
 - Open Government
 title: Studie zur Berliner Open Data Strategie veröffentlicht

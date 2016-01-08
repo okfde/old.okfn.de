@@ -4,9 +4,8 @@ date: 2011-07-14 17:39:15
 layout: post
 tags:
 - Berlin
-- Deutschland
 - OKCon
-- OKFN
+- OKFN DE
 - Open Knowledge
 title: OKCon Rückblick
 type: post

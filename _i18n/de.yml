@@ -12,8 +12,9 @@ navig:
   Jobs: Jobs
   Impressum: Impressum
 titles:
-    Themen: Themen
-    Impressum: Impressum
+  Themen: Themen
+  Impressum: Impressum
+  Tags: Tags im Blog
 themen:
   Themen: Themen
   Mehr: mehr erfahren
@@ -43,6 +44,7 @@ blog:
   Mehr: weiterlesen...
   Von: von
   AmDatum: am
+  PostsMit: Blogposts mit
   TeileAuf: Blogpost teilen auf
   VerwandteBeitraege: Verwandte Beiträge
   VorherigerBeitrag: Vorheriger Beitrag

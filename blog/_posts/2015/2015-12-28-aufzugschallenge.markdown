@@ -6,7 +6,6 @@ image:
 layout: post
 card: true
 tags:
-- Deutschland
 - Nahverkehr
 - Open Transport
 - Deutsche Bahn

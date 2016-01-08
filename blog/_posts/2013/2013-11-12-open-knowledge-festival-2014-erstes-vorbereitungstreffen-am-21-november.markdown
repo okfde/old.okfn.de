@@ -12,9 +12,8 @@ tags:
 - Events
 - Konferenz
 - offenes Wissen
-- OKF Deutschland
+- OKFN DE
 - OKFest
-- Open Knowledge Foundation
 title: OKFestival 2014 - erstes Vorbereitungstreffen am 21. November
 type: post
 ---

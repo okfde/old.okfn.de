@@ -5,10 +5,9 @@ image:
   src: /files/blog/2015/03/Screen-Shot-2015-03-06-at-17.58.44.png
 layout: post
 tags:
-- Deutschland
 - EITI
 - offene Daten
-- OKF Deutschland
+- OKFN DE
 - Transparenz
 title: Umsetzung der Extractive Industries Transparency Initiative (EITI) in Deutschland
 type: post

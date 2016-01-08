@@ -6,7 +6,7 @@ image:
   title: Open Data
 layout: post
 tags:
-- OKF Deutschland
+- OKFN DE
 - Tätigkeitsbericht
 title: Tätigkeitsbericht OKF DE Januar 2013
 type: post

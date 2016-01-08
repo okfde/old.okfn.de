@@ -5,7 +5,7 @@ layout: post
 tags:
 - frag den staat
 - Informationsfreiheit
-- OKF Deutschland
+- OKFN DE
 - Transparenz
 title: IFG-Portal “FragDenStaat.de” startet in Berlin und Brandenburg
 type: post
