@@ -7,6 +7,8 @@ type: tool
 people:
 - name: Daniel Dietrich
   role: Projektleiter
+- name: Christian Heise
+    role: Projektadvisor
 contact:
   website: https://offenedaten.de/
 de:
