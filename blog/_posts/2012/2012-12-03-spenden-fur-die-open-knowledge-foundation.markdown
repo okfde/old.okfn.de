@@ -18,7 +18,7 @@ Ehrenamtliches Engagement kostet aber trotzdem Geld. Wir müssen unsere Rechner 
 
 Sehr gern stellen wir euch eine Quittung aus. Damit könnt ihr eure Spende(n) dann auch steuerlich absetzen.
 
-[iframe src="https://api.spendino.de/admanager/ogones/view/754" width="520px" height="514"]
+<iframe src="https://api.spendino.de/admanager/ogones/view/754" width="520px" height="514">
 
 Wer lieber manuell spenden möchte, kann das ebenfalls gerne tun: Open Knowledge Foundation Deutschland e.V. (Empfänger); 300 96 70 (Konto); 830 944 95 (EthikBank); "Spende" (Verwendungszweck). Falls ihr eine Spendenquittung wünscht, sendet bitte eine kurze E-Mail an maria.schroeder@okfn.org
 
