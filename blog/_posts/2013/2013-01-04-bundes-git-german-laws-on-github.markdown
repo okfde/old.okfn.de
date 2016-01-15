@@ -2,7 +2,7 @@
 author: Julia Kloiber
 date: 2013-01-04 17:45:55
 image:
-  src: http://okfnlabs.org/img/projects/bundesgit_intro.png
+  src: /files/blog/2013/01/bundesgit_intro.png
 layout: post
 tags:
 - bundesgit

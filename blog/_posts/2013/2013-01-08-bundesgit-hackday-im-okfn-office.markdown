@@ -2,7 +2,7 @@
 author: Eva Panek
 date: 2013-01-08 13:33:03
 image:
-  src: http://okfnlabs.org/img/projects/bundesgit_intro.png
+  src: /files/blog/2013/01/bundesgit_intro.png
 layout: post
 tags:
 - bundesgit
