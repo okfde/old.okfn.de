@@ -4,7 +4,7 @@ date: 2016-01-15 18:00:00
 image:
   src: /files/blog/2016-01/open_data_index_germany_2016.png
   title: Deutschland im Open Data Index
-  license: 
+  license: CC0, Quelle: [Open Data Index](http://index.okfn.org/place/germany/)
 type: post
 layout: post
 card: true
@@ -53,6 +53,3 @@ Wie lässt sich Open Data in Deutschland weiter entwickeln? Wir haben die netzpo
 [Halina Wawzyniak, MdB (DIE LINKE)](http://www.wawzyniak.de/):  DIE LINKE wird sich auch 2016 dafür einsetzen, dass Deutschland der Initiative Open Government Partnership beitritt, genauso wie wir uns auch 2016 weiterhin für dein verstärktes Angebot und Nutzung von Open Data einsetzen werden. Konkret wird DIE LINKE u.a. einen Antrag für ein umfassendes Transparenz- und Informationsgesetz vorlegen.
 
 [Lars Klingbeil, MdB (SPD)](http://lars-klingbeil.de/): Die SPD-Bundestagsfraktion setzt sich weiterhin für eine Reform und Weiterentwicklung des Informationsfreiheitsgesetzes zu einem Informationsfreiheits- und Transparenzgesetz ein. Sollte dies mit unserem Koalitionspartner nicht möglich sein, werden wir entsprechend der Vereinbarungen des Koalitionsvertrages darauf drängen, dass mit einem Open-Data-Gesetz ein wirksamer Rechtsanspruch für Open Data geschaffen wird. Diese Diskussion werden wir im Jahr 2016 forcieren.
-
-
-Titelbild: Deutschland im [Open Data Index](http://index.okfn.org/place/germany/), Public Domain (CC0)
