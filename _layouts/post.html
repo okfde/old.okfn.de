@@ -26,7 +26,9 @@ menu_blog: yes
 	<div class="post-image-full" style="background-image: url({{ page.image.src }});" title="{{ page.image.title }}"></div>
 
 	{% if page.image.license %}
-	<sub>{{ page.image.license | markdownify }}</sub>
+	<div class="row post-image-license">
+		<div class="col-md-10 col-md-offset-1">{{ page.image.license | markdownify }}</div>
+	</div>
 	{% endif %}
 	{% endif %}
 	<div class="row">
