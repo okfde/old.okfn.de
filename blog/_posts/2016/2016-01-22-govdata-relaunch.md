@@ -32,3 +32,5 @@ Wirklich entscheidend für die Nutzer ist aber die <b>Qualität der Daten</b>. H
 Das neue Design und die neuen Funktionalitäten sind wichtige Schritte um govData.de nun weiter mit Daten und Leben zu füllen. Hilfreich hierfür wäre ein verpflichtendes Signal aus dem Kanzleramt, dass das einstellen von qualitativen Daten sowie deren Pflege für Bund und Länder verpflichtend macht, finanzielle sowie personelle Ressourcen bereitgestellt werden und Verwaltungsmitarbeiter in Schulungen an das Thema herangeführt werden. Das ist derzeit nur in wenigen Städten und Kommunen wie in Hamburg, Bremen und in Rheinland-Pfalz mit einem Transparenzgesetz geregelt. Für alle anderen gilt das Prinzip der Freiwilligkeit. Es ist schön dass es ein gutes Portal gibt, aber wenn nur wenige wirklich was hochladen, bringt es wenig.
 
 Vorschläge zu konkreten Datensätzen und allgemeines Feedback zum Portal können <a href="https://www.govdata.de/Kontakt">hier</a> eingebracht werden.
+
+<i>Mitarbeit: Michael Hörz</i>
