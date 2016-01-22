@@ -2,7 +2,7 @@
 author: Eileen Wagner
 date: 2015-07-16 12:00
 image:
-  src: http://codefor.de/assets/blog/stadtgeschichten.png
+  src: /files/blog/2015/07/stadtgeschichten.png
   title: Stadtgeschichten
 layout: post
 tags:
