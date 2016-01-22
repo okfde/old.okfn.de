@@ -3,10 +3,11 @@
 <h4 class="post-title"><a href="{{ site.baseurl }}/{{ post.url |replace_first:'/',''}}">{{post.title | truncatewords: 8 }}</a></h4>
 <p class="post-excerpt">{{ post.excerpt | markdownify | strip_html | truncatewords: 16 }}</p>
 <p class="post-meta">
-	{% if post.author.name %}
-	{% t blog.Von %} <a href="{{ site.baseurl }}/{% if post.author.staff %}team{% else %}vorstand{% endif %}#{{ post.author.name | slugify }}">{{ post.author.name }}</a><br/>
-	{% else %}
-	{% t blog.Von %} {{ post.author }}
-	{% endif %}
+	{% t blog.Von %}
+	{% assign authors = "" | split:"|"  %}
+	{% if post.author %}{% assign authors = authors | push: post.author %}{% endif %}
+	{% for a in post.authors %}{% assign authors = authors | push: a %}{% endfor %}
+	{% for author in authors %}{{author}}{% unless forloop.last %} und {% endunless %}{% endfor %}<br/>
+	<br/>
 	{% t blog.AmDatum %} {{ post.date | date:"%d.%m.%Y" }}
 </p>

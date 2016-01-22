@@ -6,7 +6,12 @@
 		</div>
 		<div class="post-author">
 			<p>{{ post.date | date:"%d.%m.%Y" }}</p>
-			<p>{% t blog.Von %} {{ post.author }}</p>
+			<p>{% t blog.Von %}
+				{% assign authors = "" | split:"|"  %}
+				{% if post.author %}{% assign authors = authors | push: post.author %}{% endif %}
+				{% for a in post.authors %}{% assign authors = authors | push: a %}{% endfor %}
+				{% for author in authors %}{{author}}{% unless forloop.last %} und {% endunless %}{% endfor %}<br/>
+			</p>
 		</div>
 	</div>
 	<div class="post-teaser">

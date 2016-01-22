@@ -2,16 +2,27 @@
 layout: default
 menu_blog: yes
 ---
-{% assign author = site.data.team | where:"name",page.author | first %}
+{% assign authors = "" | split:"|"  %}
+{% if page.author %}{% assign authors = authors | push: page.author %}{% endif %}
+{% for a in page.authors %}{% assign authors = authors | push: a %}{% endfor %}
+
+{% assign img_authors = "" | split:"|"  %}
+{% for author in authors %}
+	{% assign a = site.data.team | where:"name",author | first %}
+	{% if a.img %}{% assign img_authors = img_authors | push: a %}{% endif %}
+{% endfor %}
+
 <div class="lurking-header post">
-	<div {% if author.img %} class="post-author" {% else %} class="post-nonteam-author" {% endif %}>
-		{% if author.img %}<img src="{{ site.staticurl }}images/team/{{ author.img }}_square.jpg" alt="{{ author.name }}" class="img-circle">{% endif %}
+
+	<div {% if img_authors.first.img %}class="post-author"{% else %}class="post-nonteam-author"{% endif %}>
+		{% for a in img_authors %}
+			{% if a.img %}<img src="{{ site.staticurl }}images/team/{{ a.img }}_square.jpg" alt="{{ a.name }}" class="img-circle">{% endif %}
+		{% endfor %}
 		<p class="post-meta">
-			{% if author.name %}
-			{% t blog.Von %} <a href="{{ site.baseurl }}/{% if author.staff %}team{% else %}vorstand{% endif %}#{{ author.name | slugify }}">{{ author.name }}</a><br/>
-			{% else %}
-			{% t blog.Von %} {{ page.author }}
-			{% endif %}
+			{% t blog.Von %}
+			{% for author in authors %}
+				{% assign a = site.data.team | where:"name",author | first %}
+				{% if a.img %}<a href="{{ site.baseurl }}/{% if a.staff %}team{% else %}vorstand{% endif %}#{{ a.name | slugify }}">{{ a.name }}</a>{% elsif a.name %}{{ a.name }}{% else %}{{author}}{% endif %}{% unless forloop.last %} und {% endunless %}{% endfor %}<br/>
 			{% t blog.AmDatum %} {{ page.date | date:"%d.%m.%Y" }}
 		<ul class="post-tags">
 			{% for tag in page.tags %}
