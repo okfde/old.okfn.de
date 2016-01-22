@@ -1,8 +1,10 @@
 ---
-author: Johanna zum Felde
+authors:
+- Johanna zum Felde
+- Michael Hörz
 date: 2016-01-22 13:00:00
 image:
-  src: https://www.govdata.de/documents/10156/12916/logo_govdata+rgb.png/
+  src: /files/blog/2016-01/logo_govdata_rgb.png
   title: GovData
   license:
 type: post
@@ -15,7 +17,6 @@ tags:
 - Politik
 title: "GovData-Relaunch: Neues Design und Funktionalitäten statt neuer Daten"
 ---
-<i>Mitarbeit: Michael Hörz</i>
 
 Nach mehreren Jahren in der Übergangsphase ist govdata.de nun endlich überarbeitet. <a href="https://fragdenstaat.de/anfrage/kosten-govdata/#nachricht-37253">126.000 Euro wird 2016</a> in den Betrieb des Portals investiert. Das ist gut, denn die bisherige Version hatte zahlreiche Unzulänglichkeiten. Was ist nun mit dem Relaunch vom 19.01.2016 wirklich neu? 
 
