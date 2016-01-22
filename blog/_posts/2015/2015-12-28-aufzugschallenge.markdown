@@ -2,7 +2,7 @@
 author: Stefan Kaufmann und Walter Palmetshofer
 date: 2015-12-28 12:37:00
 image: 
-  src: /files/blog/2015-12/dbhackathon.jpg
+  src: /files/blog/2015/12/dbhackathon.jpg
 layout: post
 card: true
 tags:

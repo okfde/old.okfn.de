@@ -4,7 +4,7 @@ authors:
 - Michael Hörz
 date: 2016-01-22 13:00:00
 image:
-  src: /files/blog/2016-01/logo_govdata_rgb.png
+  src: /files/blog/2016/01/logo_govdata_rgb.png
   title: GovData
   license:
 type: post

@@ -2,7 +2,7 @@
 author: Markus Neusch&auml;fer
 date: 2016-01-15 18:00:00
 image:
-  src: /files/blog/2016-01/open_data_index_germany_2016.png
+  src: /files/blog/2016/01/open_data_index_germany_2016.png
   title: Deutschland im Open Data Index
   license: "CC0, Quelle: [Open Data Index](http://index.okfn.org/place/germany/)"
 type: post
