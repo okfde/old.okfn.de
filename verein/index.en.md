@@ -76,6 +76,7 @@ Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar."
 
 We have published our first annual activity report in 2011. On our blog and in our newsletter, we report on our activities on a monthly basis. Here are our annual activity reports:
 
+* [Activity report 2014](../files/verein/OKF-DE-Taetigkeitsbericht-2014.pdf)
 * [Activity report 2013](../files/verein/OKF-DE-Taetigkeitsbericht-2013.pdf)
 * [Activity report 2012](../files/verein/OKFDE-Taetigkeitsbericht-2012.pdf)
 * [Activity report 2011](../files/verein/OKFDE-Taetigkeitsbericht-2011.pdf)
@@ -98,6 +99,8 @@ Application of funds
 
 The biggest item in the application of funds were expenditures for the organisation and execution of projects and events as well as the payment of wages and remunerations. OKF DE currently employs an equivalent of roughly 6 full time staff.
 
+* [Gewinnermittlung für 2014](../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
+* [Balance Sheet 2014](../files/verein/Balance-Sheet-2014.pdf)
 * [Gewinnermittlung für 2013](../files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)
 * [Balance Sheet 2013](../files/verein/Balance-Sheet-2013.pdf)
 * [Gewinnermittlung für 2012](../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)
