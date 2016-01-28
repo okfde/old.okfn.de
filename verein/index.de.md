@@ -99,13 +99,9 @@ Mittelverwendung
 Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 6 Vollzeitäquivalenten.
 
 * [Gewinnermittlung für 2014](../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
-* [Balance Sheet 2014](../files/verein/Balance-Sheet-2014.pdf)
 * [Gewinnermittlung für 2013](../files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)
-* [Balance Sheet 2013](../files/verein/Balance-Sheet-2013.pdf)
 * [Gewinnermittlung für 2012](../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)
-* [Balance Sheet 2012](../files/verein/Balance-Sheet-2012.pdf)
 * [Gewinnermittlung für 2011](../files/verein/OKF-DE-Gewinnermittlung-kurz-2011.pdf)
-* [Balance Sheet 2011](../files/verein/Balance-Sheet-2011.pdf)
 
 # Gesellschaftliche Verbundenheit
 
