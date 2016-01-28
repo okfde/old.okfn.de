@@ -76,8 +76,8 @@ Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar."
 
 We have published our first annual activity report in 2011. On our blog and in our newsletter, we report on our activities on a monthly basis. Here are our annual activity reports:
 
-* [Activity report 2014](../files/verein/OKF-DE-Taetigkeitsbericht-2014.pdf)
-* [Activity report 2013](../files/verein/OKF-DE-Taetigkeitsbericht-2013.pdf)
+* [Activity report 2014](../files/verein/OKFDE-Taetigkeitsbericht-2014.pdf)
+* [Activity report 2013](../files/verein/OKFDE-Taetigkeitsbericht-2013.pdf)
 * [Activity report 2012](../files/verein/OKFDE-Taetigkeitsbericht-2012.pdf)
 * [Activity report 2011](../files/verein/OKFDE-Taetigkeitsbericht-2011.pdf)
 
@@ -105,7 +105,7 @@ The biggest item in the application of funds were expenditures for the organisat
 * [Balance Sheet 2013](../files/verein/Balance-Sheet-2013.pdf)
 * [Gewinnermittlung für 2012](../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)
 * [Balance Sheet 2012](../files/verein/Balance-Sheet-2012.pdf)
-* [Gewinnermittlung für 2011](../files/verein/OKF-DE-Gewinnermittlung-2011-kurz.pdf)
+* [Gewinnermittlung für 2011](../files/verein/OKF-DE-Gewinnermittlung-kurz-2011.pdf)
 * [Balance Sheet 2011](../files/verein/Balance-Sheet-2011.pdf)
 
 # Ideological ties
