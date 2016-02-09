@@ -1,6 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
 fullurl: 'https://okfn.de'
+url: 'https://okfn.de'
 staticurl: /static/
 exclude:
   - "CNAME"
