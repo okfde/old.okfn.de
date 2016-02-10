@@ -23,7 +23,7 @@ contact:
   mailinglist: https://lists.okfn.org/mailman/listinfo/codeforde
 de:
   subtitle: "Transparenz, Open Data und Civic Tech"
-  stats: 20<br/>OK Labs
+  stats: 25<br/>OK Labs
   teaser: entwickeln Tools für <a href="/projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
   content: |-
      "Code for Germany" vernetzt Entwicklerinnen, Designer und Open-Data-Interessierte in ganz Deutschland. 
