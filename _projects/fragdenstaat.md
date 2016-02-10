@@ -19,7 +19,7 @@ contact:
   mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
 de:
-  stats: 7 100+<br/>Anfragen
+  stats: 9 500+<br/>Anfragen
   teaser: wurden bei <a href="/projekte/fragdenstaat/">FragDenStaat.de</a> von Bürgen an Behörden gestellt.
   subtitle: Das Informationsfreiheitsportal
   content: |-
