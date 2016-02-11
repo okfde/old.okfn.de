@@ -21,11 +21,11 @@ Join the [Open Knowledge Foundation mailing list](https://lists.okfn.org/mailman
 
 Futher information:
 
-*[Open Government - Collaboration, Transparency, and Participation in Practice (E-Book)](http://shop.oreilly.com/product/9780596804367.do) (Paywall)
-*[Open Gov Guide](http://www.opengovguide.com/)
-*[Open Government – What’s in a Name? (TheGovLab Blog)](http://thegovlab.org/open-government-whats-in-a-name/)
-*[Government Digital Service Design Principles (gov.uk)](https://www.gov.uk/design-principles)
-*[U.S. Digital Services Playbook](https://playbook.cio.gov/)
-*[Open Government Data (The Book)](https://opengovdata.io/)
-*[OPEN DATA’S IMPACT - OPEN DATA IS CHANGING THE WORLD IN FOUR WAYS (BETA) - GovLab](http://odimpact.org/)
-*[Transparency Accountability Initiative Publications](http://www.transparency-initiative.org/publications)
+* [Open Government - Collaboration, Transparency, and Participation in Practice (E-Book)](http://shop.oreilly.com/product/9780596804367.do) (Paywall)
+* [Open Gov Guide](http://www.opengovguide.com/)
+* [Open Government – What’s in a Name? (TheGovLab Blog)](http://thegovlab.org/open-government-whats-in-a-name/)
+* [Government Digital Service Design Principles (gov.uk)](https://www.gov.uk/design-principles)
+* [U.S. Digital Services Playbook](https://playbook.cio.gov/)
+* [Open Government Data (The Book)](https://opengovdata.io/)
+* [OPEN DATA’S IMPACT - OPEN DATA IS CHANGING THE WORLD IN FOUR WAYS (BETA) - GovLab](http://odimpact.org/)
+* [Transparency Accountability Initiative Publications](http://www.transparency-initiative.org/publications)
