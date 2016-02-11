@@ -18,3 +18,13 @@ Wir unterstützen diesbezüglich u.a. internationale Bemühungen wie die [Open G
 ### Mehr erfahren oder gleich für die Open Government einsetzen?
 
 Abonniere die [Mailingliste](https://lists.okfn.org/mailman/listinfo/okfn-de) der Open Knowledge Foundation, informiere dich beim [Arbeitskreis Open Government Partnership](http://www.opengovpartnership.de/) oder [kontaktiere uns direkt](mailto:info@okfn.de).
+
+Weitere Informationen gibt es unter den folgenden Links:
+[Open Government - Collaboration, Transparency, and Participation in Practice (E-Book)](http://shop.oreilly.com/product/9780596804367.do) (Paywall)
+[Open Gov Guide](http://www.opengovguide.com/)
+[Open Government – What’s in a Name? (TheGovLab Blog)](http://thegovlab.org/open-government-whats-in-a-name/)
+[Government Digital Service Design Principles (gov.uk)](https://www.gov.uk/design-principles)
+[U.S. Digital Services Playbook](https://playbook.cio.gov/)
+[Open Government Data (The Book)](https://opengovdata.io/)
+[OPEN DATA’S IMPACT - OPEN DATA IS CHANGING THE WORLD IN FOUR WAYS (BETA) - GovLab](http://odimpact.org/)
+[Transparency Accountability Initiative Publications](http://www.transparency-initiative.org/publications)

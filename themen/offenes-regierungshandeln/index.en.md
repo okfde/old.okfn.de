@@ -17,3 +17,13 @@ We support international efforts in this area as well, such as the [Open Governm
 ### Learn more or get involved now? 
 
 Join the [Open Knowledge Foundation mailing list](https://lists.okfn.org/mailman/listinfo/okfn-de), get information from the [Open Government Parship](http://www.opengovpartnership.de/), or [contact us directly](mailto:info@okfn.de).  
+
+
+Futher information:
+[Open Government - Collaboration, Transparency, and Participation in Practice (E-Book)](http://shop.oreilly.com/product/9780596804367.do) (Paywall)
+[Open Gov Guide](http://www.opengovguide.com/)
+[Open Government – What’s in a Name? (TheGovLab Blog)](http://thegovlab.org/open-government-whats-in-a-name/)
+[Government Digital Service Design Principles (gov.uk)](https://www.gov.uk/design-principles)
+[U.S. Digital Services Playbook](https://playbook.cio.gov/)
+[Open Government Data (The Book)](https://opengovdata.io/)
+[OPEN DATA’S IMPACT - OPEN DATA IS CHANGING THE WORLD IN FOUR WAYS (BETA) - GovLab](http://odimpact.org/)
