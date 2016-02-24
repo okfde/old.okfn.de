@@ -1,6 +1,7 @@
 ---
 title: "Offener Haushalt"
 type: tool
+tool: 4
 layout: project
 url: http://offenerhaushalt.de/
 background: backgrounds/offenerhaushalt.jpg
