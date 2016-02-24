@@ -5,6 +5,7 @@ img: projects/offeneentwicklungshilfe.jpg
 contact: Claudia Schwegmann, Christian Kreutz
 layout: project
 type: tool
+tool: 5
 people:
  - name: Claudia Schwegmann
    role: Projektleitung
