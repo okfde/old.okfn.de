@@ -18,6 +18,7 @@ contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
   mailinglist: http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=47735af82e
+  website: http://jugendhackt.de
 video: "https://player.vimeo.com/video/83837106"
 de:
   subtitle: Mit Code die Welt verbessern
