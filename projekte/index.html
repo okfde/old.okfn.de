@@ -30,7 +30,7 @@ background: backgrounds/projekte.jpg
 <h3 class="subtle-section">{% t projekte.Tools %}</h3>
 <div class="row row-flex row-flex-wrap">
   {% assign projects = site.projects | where: "type","tool" | sort:"tool","last" %}
-  {% for project in projects reversed %}
+  {% for project in projects %}
   {% include project_list.html project=project %}
   {% endfor %}
 </div>
