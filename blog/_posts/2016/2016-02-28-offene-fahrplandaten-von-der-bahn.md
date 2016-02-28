@@ -5,7 +5,7 @@ authors:
 date: 2016-02-28 18:39:00
 image:
   src: /files/blog/2016/02/db-launchevent.jpg
-  title: Launchevent in der DB-Mindbox: Die erste echte freie Fahrplandaten-API der Bahn
+  title: "Launchevent in der DB-Mindbox: Die erste echte freie Fahrplandaten-API der Bahn"
   license: CC-0
 type: post
 layout: post
@@ -30,7 +30,7 @@ Interessierten stellt die Bahn einen API-Key per Email zur Verfügung. Die XML-V
 
 ## Workshopday: Praxistest und wie’s weitergeht
 
-![Einige der Prämierten der Aufzugs-Challenge](/files/blog/2016/02/db-challengewinners.jpg "Einige der Prämierten der Aufzugs-Challenge")
+![Einige der Prämierten der Aufzugs-Challenge](/files/blog/2016/02/db-challengewinner.jpg "Einige der Prämierten der Aufzugs-Challenge")
 
 Tags darauf trafen sich in der Mindbox die Entwickler\*innen der neuen API mit denen, die damit in der Praxis etwas anfangen – nämlich einer Reihe von Anwendungsentwickler\*innen und Aktivist\*innen aus der Open-Data- und Verkehrswelt. Fünf davon hatten bei der DB-Aufzugs-Challenge teilgenommen und Preise gewonnen, für die sie noch einmal gewürdigt wurden (v.l.n.r.: [yetzt](http://yetzt.me) für [Liftstream](https://github.com/yetzt/liftstream), [Alexey Valikov](https://twitter.com/orless) für den [Aufzugswächter](http://aufzugswaechter.org/), [ubahnverleih](https://twitter.com/ubahnverleih) für [Indoorvator](http://blattspinat.com/maps/indoorvator),[Roland Olbricht](http://wiki.openstreetmap.org/wiki/User:Roland.olbricht) für die [Umsteigematrix](http://olbricht.nrw/adam/bahnhof.html), [Sebastian Sooth](https://twitter.com/sebaso) und Onno Szillis von der DB,  und [KatrinS](http://twitter.com/katrins) für das Team von [Deutschlands Bahnhöfe](http://www.deutschlands-bahnhoefe.de/))
 
