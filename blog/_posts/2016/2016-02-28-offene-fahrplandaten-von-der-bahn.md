@@ -2,7 +2,7 @@
 authors:
 - Stefan Kaufmann
 - Walter Palmetshofer
-date: 2016-02-28 18:39:00
+date: 2016-02-28 16:39:00
 image:
   src: /files/blog/2016/02/db-launchevent.jpg
   title: "Launchevent in der DB-Mindbox: Die erste echte freie Fahrplandaten-API der Bahn"
