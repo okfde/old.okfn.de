@@ -2,7 +2,7 @@
 author: Paula Glaser
 date: 2015-06-23 16:00
 image:
-  src: http://jugendhackt-de.okblogfarm.org/files/2015/06/18213770873_f971c106c7_z.jpg
+  src: /files/blog/2015/06/18213770873_f971c106c7_z.jpg
   title: Hardwarebastelei
 layout: post
 tags:

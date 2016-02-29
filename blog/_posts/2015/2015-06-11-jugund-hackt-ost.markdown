@@ -2,7 +2,7 @@
 author: Paula Glaser
 date: 2015-06-09 10:00
 image:
-  src: http://jugendhackt-de.okblogfarm.org/files/2015/06/17987867593_a11540c288_k.jpg
+  src: /files/blog/2015/06/17987867593_a11540c288_k.jpg
   title: Logo Entwicklungsbarometer
 layout: post
 tags:
