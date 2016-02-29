@@ -19,4 +19,4 @@ Phone
 
 ## Logos and material
 
-Logos of Open Knowledge Foundation Deutschland [download package](../files/logos/Logos_okfde.zip). Find additional imagery on [Flickr](https://www.flickr.com/photos/okfde/sets/).
+Logos of Open Knowledge Foundation Deutschland [download package](../files/logos/Logos_okfde.zip). Find additional images on [Flickr](https://www.flickr.com/photos/okfde/sets/).
