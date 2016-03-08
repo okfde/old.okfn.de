@@ -18,6 +18,8 @@ title: "sehrgutachten: Neues OKF-Projekt mit 1.500 Bundestags-Gutachten, auch zu
 
 Nach dem <a href="https://netzpolitik.org/2016/fragdenbundestag-erfolgreich-bundestag-oeffnet-seine-aktenschraenke/">Erfolg von #FragDenBundestag</a> hat der Deutsche Bundestag inzwischen mehr als 1.500 Gutachten des Wissenschaftlichen Dienstes auf seine Webseite gestellt. 
 
+<div align"center"><img src="https://okfn.de/files/blog/2016/03/schwein-baden.jpg" width="300"></div>
+
 Da die Dokumente jedoch auf der Bundestags-Webseite nur als reine Linksammlung verfügbar sind, hat die <a href="https://sehrgutachten.de/">Plattform sehrgutachten.de</a> alle bereits veröffentlichten Gutachten in einer Datenbank abgebildet. Auf der Seite, die von der Open Knowledge Foundation Deutschland betrieben wird, sind sie im Volltext durchsuchbar, können per Feed abonniert und unter anderem von Abgeordneten selbst, Journalisten und Entwicklerinnen weitergenutzt werden. Auch eine wissenschaftliche Analyse der Gutachten ist möglich, da alle Dokumente neben der PDF-Version gleichzeitig automatisch als .txt- und .json-Version vorliegen.
 
 <h3>Missbrauch des Wissenschaftlichen Dienstes für Doktorarbeiten und Schrebergärten</h3>
