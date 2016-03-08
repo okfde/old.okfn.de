@@ -4,7 +4,7 @@ authors:
 - Maximilian Richt
 date: 2016-03-08 12:12:00
 image:
-  src: /files/blog/2016/03/badeschwein.jpg
+  src: /files/blog/2016/03/schwein-baden.jpg
   title: "Nacktbaden im Sommer"
 type: post
 layout: post
