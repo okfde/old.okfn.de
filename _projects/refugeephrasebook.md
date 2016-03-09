@@ -5,7 +5,7 @@ tool: 8
 url: https://refugeephrasebook.de
 img: projects/refugeephrasebook.jpg
 people:
-- name: Markus Neuschäfer
+- name: Markus Neusch&auml;fer
   role: Koordination
 contact:
   website: https://refugeephrasebook.de
