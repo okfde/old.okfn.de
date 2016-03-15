@@ -1,5 +1,5 @@
 ---
-title: "Kleine Anfragen"
+title: "kleineAnfragen"
 type: tool
 tool: 2
 url: https://kleineanfragen.de
