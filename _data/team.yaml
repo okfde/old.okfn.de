@@ -340,6 +340,20 @@
   twitter: rufuspollock
   website: rufuspollock.org
 
+- name: Maximilian Richt
+  title:
+  img: maximilianricht
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Maximilian hat kleineAnfragen.de und sehrgutachten.de entwickelt. Für die Open Knowledge Foundation Deutschland arbeitet er ehrenamtlich aus Süddeutschland, wo er bei der Softwarefirma headissue angestellt ist."
+  bio_en: "Maximilian created kleineAnfragen.de and sehrgutachten.de. For the Open Knowledge Foundation Germany he works on a voluntary basis from Southern Germany, where he lives and works in his day-job at headissue."
+  mail: "maximilian.richt@okfn.de"
+  twitter: robbi5
+  website: https://robbi5.de
+  github: robbi5
+
 - name: Friedrich Schumann
   img:
   staff: 0
