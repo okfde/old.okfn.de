@@ -6,4 +6,7 @@ background: backgrounds/services.jpg
 
 ---
 
-Derzeit haben wir keine offenen Stellenausschreibungen.
+* [Projektassistenz für &ldquo;Digital Refugee Labs&rdquo;](/blog/2016/03/stellenausschreibung-drl/)
+
+<!-- Derzeit haben wir keine offenen Stellenausschreibungen.
+ -->

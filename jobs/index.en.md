@@ -6,4 +6,6 @@ background: backgrounds/services.jpg
 
 ---
 
-Unfortunately there are no job offers at present. 
+* [Projektassistenz für &ldquo;Digital Refugee Labs&rdquo;](/blog/2016/03/stellenausschreibung-drl/)
+
+<!-- Unfortunately there are no job offers at present.  -->
