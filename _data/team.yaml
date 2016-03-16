@@ -354,6 +354,20 @@
   website: https://robbi5.de
   github: robbi5
 
+- name: Ernesto Ruge
+  title:
+  img: ernestoruge
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Ernesto betreut und entwickelt die Projekte Politik bei Uns und OParl und damit das weite Thema kommunale Transparenz und Ratsinfornationssysteme. Außerdem arbeitet er mit Mobilitätsdaten und regenerativer Energie auf mobil-bei-uns.de und betreut die OKF-DE Blogfarm. Er ist selbstständiger Berater und Entwickler."
+  bio_en: "Ernesto supervises and develops the projects Politik bei Uns and OParl and therefore the topic local transparency and local government information systems. Additionally, he works with mobility data and renewable energy sources at mobil-bei-uns.de and administrates the OKF-DE blogfarm. He works as a self-employed consultant and developer."
+  mail: "ernesto.ruge@okfn.de"
+  twitter: the_infinity
+  website: https://sectio-aurea.org
+  github: the-infinity
+  
 - name: Friedrich Schumann
   img:
   staff: 0
