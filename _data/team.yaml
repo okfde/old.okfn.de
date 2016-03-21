@@ -115,8 +115,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Cat ist seit September bei der OKF DE. Gemeinsam mit Helene und Arne arbeitet sie an den Projekten „Coding Da Vinci“, „Energyhack“ und „Frag den Staat“, und kümmert sich dort um Daten, Technisches und Visualisierung. Sie hat einen Abschluss in Kognitiver Neurowissenschaft und studiert seit 2013 Medieninformatik an der HTW in Berlin."
-  bio_en: "Cat is with the OKF DE since September 2015. Together with Arne and Helene, she contributes to the projects Coding da Vinci, Energyhack, and FragDenStaat with her expertise on data, technical issues and visualisations. She holds a degree in cognitive neuroscience and studies computer science for media at the HTW Berlin."
+  bio: "Cat ist seit September bei der OKF DE. Sie kümmert sich in den Projekten um Daten, Technisches und Visualisierung. Sie hat einen Abschluss in Kognitiver Neurowissenschaft und studiert seit 2013 Medieninformatik an der HTW in Berlin."
+  bio_en: "Cat is with the OKF DE since September 2015. She contributes to the projects with her expertise on data, technical issues and visualisations. She holds a degree in cognitive neuroscience and studies computer science for media at the HTW Berlin."
   mail: cat.spangehl@okfn.de
   twitter: kittycake
   website:
@@ -233,10 +233,9 @@
   staff: 1
   board: 1
   advisory: 0
-  position: Vorsitzender
-  bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Technologien einsetzen können um die Welt ein kleines bisschen besser zu machen. Für die Open Knowledge Foundation ist er als Open-Data-Evangelist, Koordinator der Open Definition und der Arbeitsgruppe zu Open Government Data tätig. Er ist Mitgründer des Open Data Network und Vorsitzender der Open Knowledge Foundation Deutschland. Bis Anfang 2013 arbeitete er als Redakteur der Platform der Europäischen Kommission für Public Sector Information www.epsiplatform.eu. Bis Ende 2011 war er wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT-Branche als Berater und Projektleiter gearbeitet. Weitere Informationen auf www.ddie.me."
-  bio_en: "Daniel Dietrich has been an advocate for digital civil rights and engages intensely in different aspects of the knowledge society and the digital domain for many years. He is driven by the question of how technology can be used to improve the world around us. Within OKF DE he acts as an Open-Data-Evangelist as well as the coordinater of the Open Definition and the Open Government  working group. He is co-founded the Open Data Network and is chairman of OKF DE. Until 2013, he was editor of the platform for public sector information of the European Comission (www.epsiplatform.eu). Before that he was a research assistant at TU Berlin in the area of Computer Science and Society. Previously, he spent several years as a consultant and projekt lead in the Information Technology sector."
-  mail: daniel.dietrich@okfn.org
+  bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Technologien einsetzen können um die Welt ein kleines bisschen besser zu machen. Für die Open Knowledge Foundation ist er als Open-Data-Evangelist, Koordinator der Open Definition und der Arbeitsgruppe zu Open Government Data tätig. Er ist Mitgründer des Open Data Network und der Open Knowledge Foundation Deutschland. Bis Anfang 2013 arbeitete er als Redakteur der Platform der Europäischen Kommission für Public Sector Information www.epsiplatform.eu. Bis Ende 2011 war er wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT-Branche als Berater und Projektleiter gearbeitet. Weitere Informationen auf www.ddie.me."
+  bio_en: "Daniel Dietrich has been an advocate for digital civil rights and engages intensely in different aspects of the knowledge society and the digital domain for many years. He is driven by the question of how technology can be used to improve the world around us. Within OKF DE he acts as an Open-Data-Evangelist as well as the coordinater of the Open Definition and the Open Government working group. He co-founded the Open Data Network and OKF DE. Until 2013, he was editor of the platform for public sector information of the European Comission (www.epsiplatform.eu). Before that he was a research assistant at TU Berlin in the area of Computer Science and Society. Previously, he spent several years as a consultant and projekt lead in the Information Technology sector."
+  mail: daniel.dietrich@okfn.de
   twitter: ddie
   website:
 
@@ -245,10 +244,9 @@
   staff: 0
   board: 1
   advisory: 0
-  position: Stellvertreter
   bio: "Friedrich Lindenberg unterstützt Journalisten bei der Auswertung öffentlicher Informationen und programmiert Software zur investigativen Datenanalyse. Als Stipendiat der Knight-Stiftung arbeitete er zuletzt für ein Netzwerk von Investigativmedien im südlichen Afrika, davor bei Spiegel Online. Zuvor unterstützte er als Entwickler bei der britischen Open Knowledge Foundation den Aufbau des OpenSpending-Projektes."
   bio_en: "Friedrich Lindenberg supports journalists in the evaluation of public information and programs software for investigative data analysis. As a stipendiary of the Knight Foundation he has recently worked for a network of investigative media in Southern Africa, and before that at SPIEGEL ONLINE. Previously, he supported the British OKF in the crertion of the OpenSpending-Project as a developer."
-  mail: friedrich.lindenberg@okfn.org
+  mail: friedrich.lindenberg@okfn.de
   twitter: pudo
   website: https://pudo.org
   github: pudo
@@ -258,10 +256,10 @@
   staff: 0
   board: 1
   advisory: 0
-  position: Beisitzer
+  position: Vorsitzender
   bio: "Christian Heise ist Politologe, promoviert zum Thema Open Science am Centre for Digital Cultures an der Leuphana Universität Lüneburg und ist Mitglied des Google Digital News Initiative (DNI) Fund Teams. Zuvor war er als Manager bei der Deutschen Presse Agentur und bei ZEIT ONLINE tätig. Neben seiner ehrenamtlichen Tätigkeit im Vorstand der Open Knowledge Foundation ist er auch Gründungs- und Vorstandsmitglied im Förderverein für freie Netzwerke e.V. (freifunk.net). Christian redet gern und schreibt viel über seine Schwerpunktthemen: Open Data, Open Government, Open Access, Open Science und offene Netzwerke."
   bio_en: "Christian Heise is political theorist / scientist and scientific assistant at Hybrid Publishing lab in the Centre for Digital Cultures at Leuphana UNiversity Lüneburg, where he does a PhD on Open Science. Previously, he was a manager at Deutsche Presse Agentur and worked at ZEIT ONLINE. Apart from his voluntary engagement in the board of OKF DE he is also founding and board member at Förderverein für Freie Netzwerke e.V. (freifunk.net). Christian likes to contribute by talking and writing on the topics Open Data, Open Government, Open Access, Open Science, and Open Networks."
-  mail: christian.heise@okfn.org
+  mail: christian.heise@okfn.de
   twitter: christianheise
   website: https://christianhei.se
 
@@ -273,7 +271,7 @@
   position: Beisitzerin
   bio: "Claudia ist Vorstandsmitglied der OKFN und Gründerin des OpenAid Projektes. Sie betreibt seit 2009 Lobbyarbeit für offene Daten in der Entwicklungszusammenarbeit, insbesondere für die International Aid Transparency Initiative. Claudia Schwegmann ist Politologin, Theologin und Organisationsberaterin und arbeitet seit 1996 in der Entwicklungszusammenarbeit, vor allem im Bereich Evaluation. Ihr Kernanliegen ist wirksame Entwicklungszusammenarbeit auf der Basis von Transparenz, Rechenschaftslegung, Bürgerbeteiligung und die Nutzung des Potentials digitaler Tools zur Erreichung dieser Ziele (open data, social media, crowdsourcing). Claudia Schwegmann arbeitet als freie Beraterin und engagiert sich ehrenamtlich in der Technical Advisory Groups von IATI, in der Technical Advisory Group des Land Portals und bei Transparency International."
   bio_en: "Claudia is founder of the OpenAid project and 2030-Watch. Since 2009, she does lobbying work for Open Data in development cooperation, especially for the International Aid Initiative. Claudia is a political and theological theorist, and an organisation consultant. She engages in the field of development cooperation since 1996, especially in the field of evaluation. Her main concern is an effective form of developement cooperation on the basis of transparency, accountability, civic participation, and the usage of the potential of digital tools in the achievement of these goals (Open Data, social media, crowdsourcing). Claudia works as a freelance consultant and is a volunteer in the Technical Advisory Groups of IATI, that of the Land Portal and at Transparency International."
-  mail: claudia.schwegmann@okfn.org
+  mail: claudia.schwegmann@okfn.de
   twitter: OpenAidGermany
   website:
 
@@ -285,7 +283,7 @@
   position: Beisitzer
   bio: "Stefan Wehrmeyer ist Datenjournalist beim gemeinnützigen Recherchebüro CORRECT!V. Seit 2009 engagiert er sich für Open Data Nahverkehr und startete 2011 das Informationsfreiheitsportal [FragDenStaat.de](https://fragdenstaat.de/)."
   bio_en: "Stefan Wehrmeyer is a data journalist at the investigative office CORRECT!V. Since 2009 he promotes Open Data Nahverkehr and started the Freedom of Information (FOI) portal FragDenStaat.de in 2009."
-  mail: stefan.wehrmeyer@okfn.org
+  mail: stefan.wehrmeyer@okfn.de
   twitter: stefanwehrmeyer
   website: http://stefanwehrmeyer.com
   github: stefanw
@@ -331,7 +329,7 @@
 - name: Rufus Pollock
   img: rufuspollock
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
   position: Beisitzer
   bio: "Rufus Pollock ist Fellow der Shuttleworth Foundation, Mitarbeiter beim Centre for Intellectual Property and Information Law der Cambridge Universität und Vorstand der Open Knowledge Foundation, die er 2004 mitbegründet hat. Er arbeitet als Wissenschaftler und Entwickler an sozialen, rechtlichen und technologischen Fragen im Zusammenhang mit der Schaffung und Weitergabe von Wissen."
