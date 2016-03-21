@@ -8,7 +8,7 @@ background: backgrounds/datenschule.jpg
 url: https://datenschule.de
 people:
   - name: Helene Hahn
-    role: Projektleiterin
+    role: Projektleitung
 contact:
   website: https://datenschule.de
   twitter: datenschule

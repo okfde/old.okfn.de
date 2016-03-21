@@ -12,8 +12,6 @@ people:
     role: Projektleitung
   - name: Paula Glaser
     role: Organisation
-  - name: Sina Pietschmann
-    role: Praktikantin
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt

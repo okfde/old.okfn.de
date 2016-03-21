@@ -10,7 +10,7 @@ layout: project
 featured: 1
 people:
 - name: Stefan Wehrmeyer
-  role: Projektleiter
+  role: Projektleitung
 contact:
   github: https://github.com/bundestag/gesetze
 de:

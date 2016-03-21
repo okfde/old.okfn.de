@@ -10,7 +10,7 @@ type: event
 layout: project
 people:
   - name: Julia Kloiber
-    role: Projektleiterin
+    role: Projektleitung
 contact:
    twitter: appsandthecity
    website: http://appsandthecity.net/

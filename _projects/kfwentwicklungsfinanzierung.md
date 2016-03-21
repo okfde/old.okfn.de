@@ -4,7 +4,7 @@ layout: project
 type: archive
 people:
   - name: Christian Kreutz
-    role: Projektleiter
+    role: Projektleitung
 contact:
   website: http://transparenz.kfw-entwicklungsbank.de
 de:

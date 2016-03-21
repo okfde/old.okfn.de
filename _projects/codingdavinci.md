@@ -9,9 +9,7 @@ url: https://codingdavinci.de
 video: "https://www.youtube.com/embed/i6bgXZH9CqY"
 people:
   - name: Helene Hahn
-    role: Projektleiter
-  - name: Bela Seeger
-    role: Projektassistenz
+    role: Projektleitung
   - name: Knut Perseke
     role: technischer Support
 contact:

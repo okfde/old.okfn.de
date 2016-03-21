@@ -6,7 +6,7 @@ layout: project
 url: http://pro.europeana.eu/web/europeana-ecloud
 people:
   - name: Anja Jentzsch
-    role: Projektleiterin
+    role: Projektleitung
 contact:
    website: http://pro.europeana.eu/web/europeana-ecloud
    twitter: europeanaeu

@@ -4,7 +4,7 @@ url: http://energyhack.de/
 img: projects/energyhack.jpg
 people:
   - name: Julia Kloiber
-    role: Projektleiterin
+    role: Projektleitung
 date: 2013-06-15
 layout: project
 type: event

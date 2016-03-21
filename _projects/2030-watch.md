@@ -5,13 +5,11 @@ type: featured
 layout: project
 people:
   - name: Claudia Schwegmann
-    role: Projektleiterin
+    role: Projektleitung
   - name: Johanna zum Felde
     role: Projektassistenz
-  - name: Christian Pape
+  - name: Knut Perseke
     role: Entwickler
-  - name: Sina Pietschmann
-    role: Praktikantin
 contact:
   website: http://2030-watch.de
   github: https://github.com/okfde/2030-watch.de

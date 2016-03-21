@@ -6,7 +6,7 @@ img: projects/dariah.jpg
 url: https://de.dariah.eu
 people:
   - name: Markus Neusch&auml;fer
-    role: Projektleiter
+    role: Projektleitung
   - name: Christian Heise
     role: Projektadvisor
 contact:

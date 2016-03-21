@@ -10,6 +10,8 @@ type: featured
 people:
   - name: Mara Mendes
     role: Projektleitung
+  - name: Andrej Sandorf
+    role: Entwicklung
 contact:
   website: http://digiwhist.eu
   twitter: digiwhist

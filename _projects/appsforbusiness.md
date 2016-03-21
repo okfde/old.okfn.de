@@ -5,7 +5,7 @@ img: projects/appsforeurope.jpg
 layout: project
 roles:
   - name: Daniel Dietrich
-    role: Projektleiter
+    role: Projektleitung
 contact:
   website: http://www.appsforeurope.eu
   twitter: apps4eu

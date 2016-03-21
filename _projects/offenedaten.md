@@ -7,7 +7,7 @@ type: tool
 tool: 7
 people:
 - name: Daniel Dietrich
-  role: Projektleiter
+  role: Projektleitung
 - name: Christian Heise
   role: Projektadvisor
 contact:
