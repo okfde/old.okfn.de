@@ -1,10 +1,10 @@
 ---
 authors:
 - Mara Mendes
-- Mihaly Fazekas 
+- Mihaly Fazekas
 date: 2016-03-30 23:33
 image:
-  
+  src: /files/blog/2016/03/FileStack_retouched.jpg
   title: "Public procurement in Europe needs to enter the digital era"
 type: post
 layout: post
@@ -48,6 +48,6 @@ is actually an EU requirement and really hard for most of the countries to compl
 and make a collection of the data nearly impossible.
 
 As next steps we will work on publishing Open Data in all 35 jurisdictions and working with existing partners to work 
-towards a more standardised procurement data landscape in Europe. If you are interested in joinung us - get in touch digiwhist@okfn.de
+towards a more standardised procurement data landscape in Europe. If you are interested in joinung us - get in touch <a href="mailto:digiwhist@okfn.de">digiwhist@okfn.de</a>
 
 
