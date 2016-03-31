@@ -24,9 +24,9 @@ en:
   subtitle: Do good with data
   content: |-
       <a href="https://datenschule.de"><img src="/static/images/backgrounds/datenschule.jpg"></a>
-      Energy data, environmental data, traffic data. More and more data is made available to us. We believe that an appropriate use of the correct datasets could help nonprofit organizations better achieve their social objectives. However, only few organizations have the required skills to work with data.
+      Energy data, environmental data, traffic data. More and more data is available to us today. We believe that the goal-oriented usage of relevant datasets could help nonprofit organizations to more effectively achieve their social objectives. However, only a few organizations have the required skills to work with data.
 
-      The Open Knowledge Foundation Germany therefore developed a training program on the subject of data. We want to assist in finding, analyzing and visualizing data, and designing data-driven campaigns. The program is a combination of workshops, strategy consulting, and technology training.
+      The Open Knowledge Foundation Germany has developed a data training program, covering everything from the finding, analyzing and visualizing of data to the design of data-driven campaigns. The program is a combination of workshops, strategy consulting, and technology training.
 
 ---
 
