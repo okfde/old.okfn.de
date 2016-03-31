@@ -28,7 +28,7 @@ publishing their procurement data. In all the countries we looked at the complet
 announcements was very low. With a few exceptions such as Italy and Estonia, no government publishes information on contract 
 implementation making it impossible to know what happens after the contract is awarded - Whether suppliers deliver on time 
 and budget?
-<iframe src="https://opentender.eu/mapping/iframe.html#?nr=5&sub=5" frameborder="0" width="800px" height="685px"></iframe>
+<iframe src="https://opentender.eu/mapping/iframe.html#?nr=5&sub=5" frameborder="0" width="600px" height="524px"></iframe>
 
 **Identifying buyers and bidders** is important to prevent collusion in public procurement. In nearly all countries unique 
 identifiers for bidders and buyers are missing which makes it difficult to identify who awarded a contract to whom and for 
@@ -36,7 +36,7 @@ instance search for the contracts a particular company won. Without unique ident
 advanced analytics for identifying suspicious bidding patterns or flag corruption risks. Without unique identifiers the 
 recent global push for registering beneficial ownership is almost meaningless as a critical piece of the chain is missing: 
 who really has won the contract at the first place.
-<iframe src="https://opentender.eu/mapping/iframe.html#?nr=14" frameborder="0" width="800px" height="685px"></iframe>
+<iframe src="https://opentender.eu/mapping/iframe.html#?nr=14" frameborder="0" width="600px" height="524px"></iframe>
 
 ###Governments need to commit to a tender publication standard.
 Procurement data in all 35 jurisdiction is so different that it
