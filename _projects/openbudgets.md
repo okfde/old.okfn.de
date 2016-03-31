@@ -21,9 +21,7 @@ de:
 
 en:
   content: |-
-     The OpenBudgets platform is meant for public administrations, citizens, NGOs, media organisations, and public service companies. In order to provide a scalable platform that is easy-to-use, flexible, and attractive for the different types of users, an open-source software framework and accompanying Software-As-A-Service (SAAS) platform around fiscal transparency and open budgets will be provided.  
-     
-     As a consortium partner, we contribute to the project in the area of communication and dissemination, as well as through a learning platform for journalists seeking to use the platform. 
+     OpenBudgets is an EU Horizon 2020 funded project that aims to make government budget data more accessible in a centralized and transparent way. On the basis of an open source framework, a Software-as-a-Service (SAAS) portal will be created through which stakeholders (e.g. journalists, members of parliament, citizens, NGOs) can find and export budget data and present it with the help of a visualization library. The project seeks to open up new possibilities for comparison and analysis in order to enable greater transparency and to more effectively fight corruption in public finance. 
      
 ---
 
