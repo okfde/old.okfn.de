@@ -21,8 +21,8 @@ that this is taxpayers’ money which could be used more efficiently. This is on
 make public procurement more efficient and transparent needs to be done. This and more is what we are doing with our project
 <a href="http://digiwhist.eu">DIGIWHIST</a>. 
 
-<h2>Transparency in procurement starts with the government proactively publishing procurement related information.</h2> We
-have done research on the tender data landscape in 35 jurisdictions (including all 28 EU member states, the European 
+###Transparency in procurement starts with the government proactively publishing procurement related information.
+We have done research on the tender data landscape in 35 jurisdictions (including all 28 EU member states, the European
 Commission, Armenia, Georgia, Iceland, Norway, Serbia and Switzerland). None of the countries is performing well at 
 publishing their procurement data. In all the countries we looked at the completeness of information in published contract 
 announcements was very low. With a few exceptions such as Italy and Estonia, no government publishes information on contract 
@@ -38,7 +38,8 @@ recent global push for registering beneficial ownership is almost meaningless as
 who really has won the contract at the first place.
 <iframe src="https://opentender.eu/mapping/iframe.html#?nr=14" frameborder="0" width="800px" height="685px"></iframe>
 
-<h2>Governments need to commit to a tender publication standard.</h2> Procurement data in all 35 jurisdiction is so different that it
+###Governments need to commit to a tender publication standard.
+Procurement data in all 35 jurisdiction is so different that it
 makes it nearly impossible to do a comprehensive and effective mapping and comparative analysis. Therefore governments should 
 agree on a standard under which tenders are announced on one single platform per country, for example by using the globally 
 emerging <a href="http://standard.open-contracting.org/latest/en/getting_started/">Open Contracting Data Standard</a>. This will make the comparison and analysis of procurement announcements 
