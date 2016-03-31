@@ -39,8 +39,8 @@ who really has won the contract at the first place.
 <iframe src="https://opentender.eu/mapping/iframe.html#?nr=14" frameborder="0" width="600px" height="524px"></iframe>
 
 ###Governments need to commit to a tender publication standard.
-Procurement data in all 35 jurisdiction is so different that it
-makes it nearly impossible to do a comprehensive and effective mapping and comparative analysis. Therefore governments should 
+Procurement data in all 35 jurisdictions is so different that it
+makes it nearly impossible to do a comprehensive and effective mapping and comparative analysis. Therefore, governments should
 agree on a standard under which tenders are announced on one single platform per country, for example by using the globally 
 emerging <a href="http://standard.open-contracting.org/latest/en/getting_started/">Open Contracting Data Standard</a>. This will make the comparison and analysis of procurement announcements 
 possible. It will also allow governments to collect reliable data on procurement activities of all authorities. The latter 
@@ -49,6 +49,6 @@ is actually an EU requirement and really hard for most of the countries to compl
 and make a collection of the data nearly impossible.
 
 As next steps we will work on publishing Open Data in all 35 jurisdictions and working with existing partners to work 
-towards a more standardised procurement data landscape in Europe. If you are interested in joinung us - get in touch <a href="mailto:digiwhist@okfn.de">digiwhist@okfn.de</a>
+towards a more standardized procurement data landscape in Europe. If you are interested in joining us - get in touch <a href="mailto:digiwhist@okfn.de">digiwhist@okfn.de</a>
 
 
