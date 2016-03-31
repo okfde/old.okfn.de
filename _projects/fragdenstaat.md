@@ -33,9 +33,9 @@ en:
   teaser: have been made by citizens at <a href="/en/projekte/fragdenstaat/">FragDenStaat.de</a>.
   subtitle: The Freedom of Information Portal
   content: |-
-     With Frag den Staat (ask the government), interested citizens can request information from a variety of public sector organisations by making a Freedom of Information (FOI) request. 
-     On the project's website, the requests, their current state, as well as the responses are transparently documented and published. 
-     With its work, Frag den Staat wants to empower citizens and hopes to further strengthen FOI as a concept. 
-     FragDenStaat.de is inspired by the British FOI-portal [What Do They Know]( https://www.whatdotheyknow.com/) and is cooperating with other FOI portals around the world.
+     The Frag den Staat ('Ask The Government') portal enables interested citizens to request information from a variety of public sector organisations by making a Freedom of Information (FOI) request. 
+     On the project's website, the requests, their current status and the responses to them are transparently documented and published. 
+     Frag den Staat wants to empower citizens and hopes to generate further interest in FOI. 
+     FragDenStaat.de is inspired by the British FOI-portal [What Do They Know]( https://www.whatdotheyknow.com/) and cooperates with other FOI portals around the world.
 
 ---
