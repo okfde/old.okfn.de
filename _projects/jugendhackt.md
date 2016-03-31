@@ -36,12 +36,12 @@ en:
   teaser: experimenting with code and friendship at <a href="/en/projekte/jugendhackt/">Jugend hackt</a>.
   content: |- 
      Jugend hackt is a program designed to support young coders. 
-     While competitions such as ‘Jugend musiziert’ (music) and ‘Jugend forscht’ (science) have been established in Germany for decades, there are very few opportunities for young talents in the area of software development. 
-     To fill this void, Open Knowledge Foundation Deutschland e.V. and the project "mediale pfade" started to organize Jugend hackt in 2013. 
-     Since then it has become a successful and well-established hackathon for young coders from all over Germany. “Improving the world, code by code” – that is the slogan of Jugend hackt. 
-     Together with like-minded peers, its participants use open data to work on prototypes, digital tools, and concepts in order to contribute to their vision of a better society. 
-     Voluntary mentors with technical expertise guide them through this process. 
-     It is the goal of Jugend hackt to empower young coders in their technical skills and to show them the creative and political opportunities for applying these skills. 
+     While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht’ (Science) have been established in Germany for decades, there are few intiatives directed towards young talent in the field of software development. 
+     To fill this gap, Open Knowledge Foundation Deutschland e.V., together with the media education agency, Mediale Pfade, organized the first Jugend hackt event in 2013. 
+     Since then, it has become a successful and well-established hackathon for young coders from all over Germany. 
+     Together with like-minded peers, participants use open data to work on prototypes, digital tools, and concepts in order to contribute to their vision of a better society. 
+     Volunteer mentors with technical expertise guide them through this process. 
+     Jugend hackt aims to empower young coders with technical skills and to familiarize them with the creative and political contexts in which these skills can be applied. 'Improving the world, code by code', that is Jugend hackt's message. 
      
 ---
 
