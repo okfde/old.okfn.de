@@ -261,7 +261,7 @@
   bio_en: "Christian Heise is political theorist / scientist and scientific assistant at Hybrid Publishing lab in the Centre for Digital Cultures at Leuphana UNiversity Lüneburg, where he does a PhD on Open Science. Previously, he was a manager at Deutsche Presse Agentur and worked at ZEIT ONLINE. Apart from his voluntary engagement in the board of OKF DE he is also founding and board member at Förderverein für Freie Netzwerke e.V. (freifunk.net). Christian likes to contribute by talking and writing on the topics Open Data, Open Government, Open Access, Open Science, and Open Networks."
   mail: christian.heise@okfn.de
   twitter: christianheise
-  website: https://christianhei.se
+  website: http://christianhei.se
 
 - name: Claudia Schwegmann
   img: claudiaschwegmann
@@ -274,6 +274,20 @@
   mail: claudia.schwegmann@okfn.de
   twitter: OpenAidGermany
   website:
+
+  - name: Lucy Chambers
+  img: lucychambers
+  staff: 0
+  board: 1
+  advisory: 0
+  position: Beisitzerin
+  bio: "Die gebürtige Britin Lucy setzt sich in viele verschiedene Rollen mit den Themen offenes Wissen und Daten auseinander. Aktuell konzipiert sie als Product Owner bei eHealth Africa Produkte, die datengetriebene Entscheidungen im öffentlichen Gesundheitswesen in West-Afrikanischen Ländern fördern. Davor leitete sie das School of Data (Datenschule) Programm bei Open Knowledge International und war Co-Autorin des Data Journalism Handbooks. Auf techtohuman.com schreibt sie über die Konsequenzen von Technologie und Daten."
+  bio_en: "Lucy is a free-range tech translator, working to find common language between technologists and domain experts across a variety of fields.
+  She is currently working as a Product Owner for eHealth Africa, where she helps design products to aid data driven decision making in public health policy. Previously she led the School of Data programme at the Open Knowledge Foundation (OKF), enabling journalistic and non-profit organisations to use data to improve their workflows, investigations and organisational decision making. While at OKF, she also co-edited the Data Journalism Handbook. Many of her copious opinions about the role of data and technology in the third sector can be found at techtohuman.com."
+  mail: lucy.chambers@okfn.de
+  twitter: lucyfedia
+  website: http://techtohuman.com/
+
 
 - name: Stefan Wehrmeyer
   img: stefanwehrmeyer
@@ -365,7 +379,7 @@
   twitter: the_infinity
   website: https://sectio-aurea.org
   github: the-infinity
-  
+
 - name: Friedrich Schumann
   img:
   staff: 0
