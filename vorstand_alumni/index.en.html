@@ -1,0 +1,17 @@
+---
+layout: default
+title: Board Alumni
+description: ''
+background: backgrounds/background.jpg
+menu_vorstand: yes
+---
+{% assign board_alumni = site.data.team | where:"board_alumni",1 | sort: "name" %}
+<div class="lurking-header">
+  <h1>Former members of the board</h1>
+  <p>The following persons were members of the board in the past</p>
+</div>
+{% for person in board_alumni %}
+{% assign order=forloop.index0|modulo:2 %}
+{% include person.html person=person order=order %}
+{% endfor %}
+
