@@ -5,44 +5,44 @@ menu_verein: yes
 background: backgrounds/services.jpg
 ---
 
-OKF DE is an independent not-for-profit organisation registered in Berlin, Germany in 2011 under VR 30468 B. OKF DE is a pioneering and award winning Civil Society Organisation engaging in different aspects of the digital age. 
+OKF DE is an independent not-for-profit organisation registered in Berlin, Germany in 2011 under VR 30468 B. OKF DE is a pioneering and award-winning Civil Society Organisation engaging in different aspects of the digital age. 
 
-Our work is independent, non-partisan, interdisciplinary and non-commercial. On our [project page](../projekte/) you can gain insights into all our projects. 
+Our work is independent, non-partisan, interdisciplinary and non-commercial. On our [project page](../projekte/) you can find out more about our projects. 
 
-The Open Knowledge Foundation Deutschland (OKF DE) the German Chapter of the international Open Knowledge Foundation Network (OKFN), a world-wide network of internationally active members that strive for its advancement. Only together with our friends and our supporters we can reach our goals.  
+The Open Knowledge Foundation Deutschland (OKF DE) is the German branch of the international Open Knowledge Foundation Network (OKFN), a world-wide network of internationally active members that campaign for the advancement of open knowledge and open data. Only together with our friends and our supporters can we reach our goals.  
 
-In order to meet our own standards in terms of transparency, we are signees of the Initiative Transparente Zivilgesellschaft (ITZ) of Transparency International Deutschland e.V..
+In order to meet our own standards in terms of transparency, we have signed the Initiative Transparente Zivilgesellschaft (ITZ) of Transparency International Deutschland e.V..
 
-Below you can find all information regarding Open Knowledge Foundation Deutschland e.V. in accordance with the voluntary agreement. 
+Below you can find all information regarding Open Knowledge Foundation Deutschland e.V. in accordance with this agreement. 
 
 ## Goals
 
-The Open Knowledge Foundation Germany considers itself an active part of German and European civil society. We promote and support civil rights as they are formulated in the German constitution and the European Convention of Human Rights. We especially advocate the prevalence of these rights online. 
+The Open Knowledge Foundation Germany considers itself an active part of German and European civil society. We promote and support civil rights as they are formulated in the German constitution and the European Convention of Human Rights. We campaign in particular for the protection of these rights online. 
 
-Free knowledge helps citizens to obtain information and enables a conscious form of opinion-making. It generates societal and economic value and is, from our point of view, indispensable for a functioning democracy. We strive for a world in which open knowledge is an integral component, online as well as offline. Open knowledge delivers far-reaching societal value. This includes: 
+Open knowledge helps citizens to obtain information and enables informed opinion-making. It generates societal and economic value and is, in our view, indispensable for a functioning democracy. We are striving to make open knowledge an integral component of the modern world, online as well as offline. Open knowledge delivers far-reaching societal change. This includes: 
 
 **Better government**: Openness improves governance through increased transparency, efficiency, and participation. We support international efforts such as the [Open Government Partnership](http://www.opengovpartnership.org/) to engage in this domain. 
 
-**Better access to culture**: Openness with regard to cultural material and activities means better access, the possibility to use the material, and the possibility to actively engage with it. We support international efforts such as the [Open Glam Initiative](http://openglam.org/) (Galleries, Libraries, Archives, and Museums) in this domain. 
+**Better access to culture**: Openness in the cultural domain means granting citizens access to cultural information and giving them the opportunity to actively engage with it. We support international efforts such as the [Open Glam Initiative](http://openglam.org/) (Galleries, Libraries, Archives, and Museums) in this area. 
 
-**Better research and science**: In order to make research more efficient and to ensure its value for society, research results and processes need to be open. We acknowledge the [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org) and the [Berlin Declaration](http://openaccess.mpg.de/Berliner-Erklaerung) and strive to encourage the role of the Internet as an instrument for the global basis for scientific discovery. 
+**Better research and science**: In order to make research more efficient and to ensure its relevance for society, research results and activities need to be open and transparent. We acknowledge the [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org) and the [Berlin Declaration](http://openaccess.mpg.de/Berliner-Erklaerung) and aim to further the Internet's role as a fundamental, global instrument for scientific discovery. 
 
 **Better economy**: Openness allows for a simplified and accelerated reutilization of open material, data, and content as the basis for the development of innovation, tools, and services. 
 
 [Here we explain](../themen/) in detail how this translates into the focus for our work. 
 
-**Based on our confiction, we pursue the following goals**:
+**Based on our conviction, we pursue the following goals**:
 
-* Advancement of unlimited access to knowledge in all societal areas (politics, culture, economics, science)
+* Advancement of unlimited access to knowledge in all branches of societies (politics, culture, economics, science)
 * Dissemination of open knowledge and open data as standards
-* Advocacy against restriction of knowledge, ie. legislative
+* Advocacy against restriction of knowledge, e.g. legislative
 
 **To reach these goals**:
 * we provide technical tools that inform citizens about the potential and chances of open data and empower citizens to become active
 * we organize educational events and projects and author publications in the domain of science, research, and public relations
 * we offer trainings on open data and related technical tools
-* we organize working groups that discuss sustainable strategies and applications for the usage and advancement of open knowledge
-* we build our community and connect relevant actors
+* we organize groups that discuss sustainable strategies and applications for the usage and advancement of open knowledge
+* we build our community and connect relevant individuals with one another
 
 ## Name, headquarters, founding year
 
