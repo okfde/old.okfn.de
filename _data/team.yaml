@@ -149,7 +149,7 @@
 
 - name: Michael Hörz
   img: michaelhoerz
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
@@ -165,7 +165,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Knut arbeitet seit Februar 2015 als studentische Aushilfe bei der OKF DE. Er studiert Informatik an der TU Berlin und unterstützt verschiedene Projekte von der technischen Seite. Knut beschäftigt sich vor allem mit mobilen Anwendungen und Webentwicklung. Außerdem arbeitet er zurzeit im Projekt Mnemosyne, das es sich zur Aufgabe gemacht hat, Museumsbesuchern die Möglichkeit zu geben, Archive von kulturellen Institutionen neu zu entdecken."
+  bio: "Knut arbeitet seit Februar 2015 als Entwickler bei der OKF DE. Er studiert Informatik an der TU Berlin und unterstützt verschiedene Projekte von der technischen Seite. Knut beschäftigt sich vor allem mit mobilen Anwendungen und Webentwicklung. Außerdem arbeitet er zurzeit im Projekt Mnemosyne, das es sich zur Aufgabe gemacht hat, Museumsbesuchern die Möglichkeit zu geben, Archive von kulturellen Institutionen neu zu entdecken."
   bio_en: "Knut works as a programmer with Open Knowledge Foundation Deutschland since February 2015. He is currently enrolled at TU Berlin (computer science) and supports our projects with his technical expertise. He focusses on mobile applications and web development, and is founding member of the project Mnemosyne, developing new forms of access to archives of cultural heritage institutions."
   mail: knut.perseke@okfn.de
   twitter: knutator
@@ -230,7 +230,7 @@
 
 - name: Daniel Dietrich
   img: danieldietrich
-  staff: 1
+  staff: 0
   board: 1
   advisory: 0
   bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Technologien einsetzen können um die Welt ein kleines bisschen besser zu machen. Für die Open Knowledge Foundation ist er als Open-Data-Evangelist, Koordinator der Open Definition und der Arbeitsgruppe zu Open Government Data tätig. Er ist Mitgründer des Open Data Network und der Open Knowledge Foundation Deutschland. Bis Anfang 2013 arbeitete er als Redakteur der Platform der Europäischen Kommission für Public Sector Information www.epsiplatform.eu. Bis Ende 2011 war er wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT-Branche als Berater und Projektleiter gearbeitet. Weitere Informationen auf www.ddie.me."
