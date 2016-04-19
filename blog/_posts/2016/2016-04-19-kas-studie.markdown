@@ -1,7 +1,7 @@
 ---
 authors:
 - OKF
-date: 2016-04-06 14:38:00
+date: 2016-04-19 10:38:00
 image:
   src: /files/blog/2016/04/kas-opendata.jpg
   title: KAS: Open Data bringt Mehrwert von 43,1 Mrd. Euro im Jahr
