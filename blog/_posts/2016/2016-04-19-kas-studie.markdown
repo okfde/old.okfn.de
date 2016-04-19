@@ -13,7 +13,7 @@ tags:
 - Open Data
 - Studie
 - Konrad-Adenauer-Stiftung
-title: "Feldversuch: Bahnhöfe und ihre Aufzüge für OpenStreetMap vermessen"
+title: "KAS: Open Data bringt Mehrwert von 43,1 Mrd. Euro im Jahr"
 ---
 
 Die Konrad-Adenauer-Stiftung hat eine neue Studie zu Open Data herausgegeben. Sie belegt, dass offene Verwaltungsdaten in Deutschland einen volkswirtschaftlichen Mehrwert von 43,1 Milliarden Euro im Jahr erzeugen und 20.000 Arbeitsplätze schaffen können. 
