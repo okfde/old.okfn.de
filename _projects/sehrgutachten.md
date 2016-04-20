@@ -13,11 +13,11 @@ contact:
   github: https://github.com/okfde/sehrgutachten
 de:
   content: |-
-    Nachdem der Bundestag entschieden hat, die Gutachten seines Wissenschaftlichen Dienstes künftig online zu veröffentlichen (<a href="http://blog.fragdenstaat.de/2016/fragdenbundestags-erfolg/">mehr dazu hier</a>), hat er Ende Februar 2016 erste Arbeiten auf seine Webseite gestellt. Die Dokumente sind allerdings nicht aufbereitet - die Aufstellung ist unübersichtlich und nicht durchsuchbar. Deswegen gibt es <em>sehrgutachten</em>: Auf dieser Seite stellen wir die Gutachten strukturiert dar und machen sie auch im Volltext durchsuchbar. Damit eröffnen sich verschiedene Möglichkeiten: Die Gutachten stehen für eine wissenschaftliche Analyse bereit, NutzerInnen können sich per Feed über neu hochgeladene Gutachten informieren und für EntwicklerInnen gibt es Daten über die Gutachten im JSON-Format.   
+    Nachdem der Bundestag entschieden hat, die Gutachten seines Wissenschaftlichen Dienstes online zu verÃ¶ffentlichen (<a href="http://blog.fragdenstaat.de/2016/fragdenbundestags-erfolg/">mehr dazu hier</a>), hat er Ende Februar 2016 erste Arbeiten auf seine Webseite gestellt. Die Dokumente sind allerdings nicht aufbereitet - die Aufstellung ist unÃ¼bersichtlich und nicht durchsuchbar. Deswegen gibt es <em>sehrgutachten</em>: Auf dieser Seite stellen wir die Gutachten strukturiert dar und machen sie auch im Volltext durchsuchbar. Damit ergeben sich verschiedene MÃ¶glichkeiten: Die Gutachten stehen fÃ¼r wissenschaftliche Analyse bereit, NutzerInnen kÃ¶nnen sich per Feed Ã¼ber hochgeladene Gutachten informieren und fÃ¼r EntwicklerInnen gibt es Daten Ã¼ber die Gutachten im JSON-Format.   
      
 en:
   content: |-
-     On February 18th 2016 German Parliament (“Bundestag”) announced the release of thousands of previously non-public reports conducted by the Research Section of Parliament in reaction to our campaign FragDenBundestag! (<a href="http://blog.fragdenstaat.de/2016/askparliament/">More here</a>). To make all of the released reports available in different machine-readable formats and categories that are fully searchable, we launched the database sehrgutachten.de. 
+     On February 18th 2016 German Parliament (Bundestag) announced the release of thousands of previously non-public reports conducted by the Research Section of Parliament in reaction to our campaign FragDenBundestag! (<a href="http://blog.fragdenstaat.de/2016/askparliament/">More here</a>). To make all of the released reports available in different machine-readable formats and categories that are fully searchable, we launched the database sehrgutachten.de. 
      
 ---
 
