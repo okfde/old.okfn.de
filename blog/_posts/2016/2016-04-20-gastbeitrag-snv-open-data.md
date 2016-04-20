@@ -2,6 +2,9 @@
 authors:
 - Gastbeitrag
 date: 2016-04-20 10:00:00
+image:
+  src: /files/blog/2016/04/digitales-strategie-2025.png
+  title: Open Data bringt Mehrwert von 43,1 Mrd. Euro im Jahr
 type: post
 layout: post
 card: true
