@@ -4,7 +4,7 @@ url: http://offenesparlament.de
 img: projects/offenesparlament.jpg
 layout: project
 type: tool
-tool: 6
+tool: 7
 people:  
   - name: Friedrich Lindenberg
     role: Projektleitung

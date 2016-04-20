@@ -4,12 +4,12 @@ url: http://offenedaten.de
 img: projects/offenedaten.jpg
 layout: project
 type: tool
-tool: 7
+tool: 9
 people:
 - name: Daniel Dietrich
   role: Projektleitung
 - name: Christian Heise
-  role: Projektadvisor
+  role: Projektberater
 contact:
   website: https://offenedaten.de/
 de:
