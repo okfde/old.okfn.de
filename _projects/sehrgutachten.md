@@ -7,6 +7,8 @@ img: projects/sehrgutachten.jpg
 people:
 - name: Maximilian Richt
   role: Projektleitung
+- name: Arne Semsrott
+  role: Projektleitung
 contact:
   website: https://sehrgutachten.de
   twitter: sehrgutachten
