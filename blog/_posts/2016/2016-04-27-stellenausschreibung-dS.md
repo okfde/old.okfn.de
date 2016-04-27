@@ -6,7 +6,10 @@ image:
   title: 
 layout: post
 tags:
-- j
+- jobs
+- Datenschule
+- Schoolofdata
+- dataliteracy
 title: Teamverstärkung für die "Datenschule"
 type: post
 ---
