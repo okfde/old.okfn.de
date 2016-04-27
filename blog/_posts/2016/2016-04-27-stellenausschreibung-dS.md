@@ -7,8 +7,8 @@ image:
 layout: post
 tags:
 - jobs
-- Datenschule
-- Schoolofdata
+- datenschule
+- schoolofdata
 - dataliteracy
 title: Teamverstärkung für die "Datenschule"
 type: post
