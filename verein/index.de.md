@@ -13,6 +13,8 @@ Der Open Knowledge Foundation Deutschland e.V. ist der deutsche Zweig der Open K
 
 Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, sind wir Unterzeichner der [Initiative Transparente Zivilgesellschaft (ITZ)](http://www.transparency.de/Initiative-Transparente-Zivilg.1612.0.html) von Transparency International Deutschland e.V..
 
+[logo]:\\files/verein/LOGO-ITZ.jpg
+
 Im Folgenden findest Du alle Informationen über den Open Knowledge Foundation Deutschland e.V. entsprechend der Selbstverpflichtung.
 
 ## Ziele
