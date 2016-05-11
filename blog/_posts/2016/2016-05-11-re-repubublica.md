@@ -19,7 +19,7 @@ title: "Bericht von der re:publica 2016"
 <h2>re:re:publica</h2>
 
 
-Die jährlich in Berlin statt findende <a href="https://re-publica.de">re:publica</a> ist die wichtigste und größte Konferenz rund um das digitale Leben und Netzpolitik im deutschsprachigen Raum. Ein großer Teil des Teams war vor Ort, um spannenden Talks zu lauschen und um sich mit anderen Leuten auszutauschen. Ein paar von uns und aus der Community haben das Programm auch aktiv mitgestaltet und unsere Themen rund um Transparenz, Open Data und offenes Wissen in Talks, Meetups und Lightning Talks aufbereitet. Hier findet ihr ein paar Links zu den Beiträgen, die aufgezeichnet wurden und ausgesuchte Empfehlungen:
+Die jährlich in Berlin statt findende <a href="https://re-publica.de">re:publica</a> ist die wichtigste und größte Konferenz rund um das digitale Leben und Netzpolitik im deutschsprachigen Raum. Ein großer Teil des Teams war vor Ort, um spannenden Talks zu lauschen und um sich mit anderen Leuten auszutauschen. Ein paar von uns und aus der Community haben das Programm auch aktiv mitgestaltet und unsere Themen rund um Transparenz, Open Data und offenes Wissen in Talks, <a href="https://https://re-publica.de/16/session/jugend-hackt-girls-civic-tech"> Meetups</a> und <a href="https://re-publica.de/16/session/refugee-phrasebook-building-open-language-tools-newcomers">Lightning Talks</a> aufbereitet. Hier findet ihr ein paar Links zu den Beiträgen, die aufgezeichnet wurden und ausgesuchte Empfehlungen:
 
 <hr>
 
