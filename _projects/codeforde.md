@@ -16,6 +16,8 @@ people:
     role: Projektassistenz
   - name: Eileen Wagner
     role: Projektassistenz
+  - name: Elisa Lindinger
+    role: Projektassistenz
 contact:
   website: http://codefor.de
   twitter: codeforde
