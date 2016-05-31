@@ -67,6 +67,8 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 * Memorandum of Understanding mit der OKFN aus Großbritannien: [hier](../files/verein/okfde-mou.pdf)
 * Mission Statement: [hier](../mission)
 * Protokoll der Gründungsversammlung: [hier](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
+* Governance Modell: [hier](../files/verein/OKFDE Governance-Modell - Stand 20.05.2016.pdf)
+* Verhaltenskodex: [hier](../files/verein/OKFDE Verhaltenskodex- Stand 20.05.2016.pdf)
 
 ## Anerkennung als gemeinnütziger Verein
 
@@ -84,6 +86,15 @@ Unseren ersten Tätigkeitsbericht haben wir im Gründungsjahr 2011 veröffentlic
 * [Tätigkeitsbericht 2011](../files/verein/OKFDE-Taetigkeitsbericht-2011.pdf)
 
 Hier gibt es mehr Informationen zu [unseren Projekten](../projekte/).
+
+## Name und Funktion der wesentlichen Entscheidungsträger
+
+Auf der letzten Mitgliederversammlung am 25.01.2016 wurde [Christian Heise]( https://okfn.de/vorstand/#christian-heise)
+zum Vorstandsvorsitzenden, [Friedrich Lindenberg]( https://okfn.de/vorstand/#friedrich-lindenberg) zum stellvertretenden Vorstandsvorsitzenden und [Andreas Pawelke](https://okfn.de/vorstand/#andreas-pawelke) zum Kassenwart gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann]( https://okfn.de/vorstand/#claudia-schwegmann), [Daniel Dietrich]( https://okfn.de/vorstand/#daniel-dietrich), [Lucy Chambers]( https://okfn.de/vorstand/#lucy-chambers),  [Stefan Wehrmeyer]( https://okfn.de/vorstand/#stefan-wehrmeyer) und [Sören Auer]( https://okfn.de/vorstand/#s-ren-auer). Seit August 2014 ist [Kristina Klein](https://okfn.de/team/#kristina-klein) Geschäftsführerin der OKF. 
+
+## Ethikbeauftragte
+Am 25.01.2016 wurde [Mara Mendes](https://okfn.de/team/#mara-mendes) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de)  gerichtet werden. 
+
 
 ## Mittelherkunft
 
