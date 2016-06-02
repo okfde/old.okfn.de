@@ -9,7 +9,7 @@
   <meta name="twitter:site" content="@okfde">
   <meta name="twitter:creator" content="@okfde">
   {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
-  {% if page.url %}<meta name="twitter:url" content="{{site.fullurl}}{{ site.url }}{{ page.url }}">{% endif %}
+  {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
   {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | truncatewords: 50 | truncate: 199 }}">
   {% else if page.description %}<meta name="twitter:description" content="{{ page.description }}">
   {% else if site.description %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
