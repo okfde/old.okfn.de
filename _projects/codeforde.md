@@ -1,14 +1,10 @@
 ---
+type: politics
 title: codefor.de
 url: http://codefor.de/
 img: projects/codeforde.jpg
 img_square: projects/codeforde_square.jpg
-contact: Julia Kloiber, Fiona Krakenbuerger
-twitter: codeforde
-g+: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
-featured: 2
 layout: project
-type: featured
 people:
   - name: Julia Kloiber
     role: Projektleitung
@@ -23,6 +19,7 @@ contact:
   twitter: codeforde
   github: https://github.com/codeforgermany
   mailinglist: https://lists.okfn.org/mailman/listinfo/codeforde
+  g+: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
 de:
   subtitle: "Transparenz, Open Data und Civic Tech"
   stats: 25<br/>OK Labs

@@ -1,6 +1,6 @@
 ---
-title: BIG
 type: research
+title: BIG
 url: http://big-project.eu/
 img: projects/big.jpg
 layout: project

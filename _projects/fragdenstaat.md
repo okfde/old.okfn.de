@@ -1,7 +1,6 @@
 ---
+type: politics
 title: FragDenStaat.de
-type: featured
-featured: 1
 layout: project
 img: projects/fragdenstaat.jpg
 img_square: projects/fragdenstaat_square.jpg

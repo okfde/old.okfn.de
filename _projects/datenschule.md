@@ -1,6 +1,6 @@
 ---
+type: education
 title: Datenschule
-type: featured
 layout: project
 img: projects/datenschule.jpg
 img_square: projects/datenschule_square.jpg

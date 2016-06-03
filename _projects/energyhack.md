@@ -1,4 +1,5 @@
 ---
+type: archive
 title: "Energyhack"
 url: http://energyhack.de/
 img: projects/energyhack.jpg
@@ -7,7 +8,6 @@ people:
     role: Projektleitung
 date: 2013-06-15
 layout: project
-type: event
 contact:
   website: http://energyhack.de/
 video: "https://player.vimeo.com/video/71322548"  

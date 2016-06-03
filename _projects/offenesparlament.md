@@ -1,11 +1,10 @@
 ---
+type: archive
 title: "Offenes Parlament"
 url: http://offenesparlament.de
 img: projects/offenesparlament.jpg
 layout: project
-type: tool
-tool: 7
-people:  
+people:
   - name: Friedrich Lindenberg
     role: Projektleitung
 contact:

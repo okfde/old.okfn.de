@@ -1,10 +1,9 @@
 ---
-title: Stadt Land Code
 type: archive
+title: Stadt Land Code
 img: projects/stadtlandcode.jpg
 url: http://stadtlandcode.de/
 layout: project
-featured: 1
 people:
   - name: Julia Kloiber
     role: Projektleitung

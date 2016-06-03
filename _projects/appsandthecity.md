@@ -1,12 +1,9 @@
 ---
+type: archive
 title: "Apps and the city"
 url: http://appsandthecity.net
 img: projects/appsandthecity.jpg
-contact: Julia Kloiber
-twitter: OpenVBB
-mailingliste: open-data-nahverkehr@lists.okfn.org
 date: 2012-11-29
-type: event
 layout: project
 people:
   - name: Julia Kloiber

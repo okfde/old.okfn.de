@@ -1,10 +1,9 @@
 ---
+type: archive
 title: "Offene Daten"
 url: http://offenedaten.de
 img: projects/offenedaten.jpg
 layout: project
-type: tool
-tool: 9
 people:
 - name: Daniel Dietrich
   role: Projektleitung

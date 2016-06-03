@@ -1,7 +1,6 @@
 ---
+type: politics
 title: "sehrgutachten"
-type: tool
-tool: 5
 url: https://sehrgutachten.de
 img: projects/sehrgutachten.jpg
 people:

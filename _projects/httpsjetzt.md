@@ -1,7 +1,6 @@
 ---
+type: politics
 title: "https.jetzt / Behörden Online Dienste"
-type: tool
-tool: 5
 url: https://https.jetzt
 img: projects/httpsjetzt.jpg
 people:

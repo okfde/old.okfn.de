@@ -1,7 +1,7 @@
 ---
+type: politics
 title: 2030-Watch
 img: projects/2030-watch.png
-type: featured
 layout: project
 people:
   - name: Claudia Schwegmann

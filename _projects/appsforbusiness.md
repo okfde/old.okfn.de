@@ -1,6 +1,6 @@
 ---
+type: archive
 title: Apps for Europe
-type: research
 img: projects/appsforeurope.jpg
 layout: project
 roles:

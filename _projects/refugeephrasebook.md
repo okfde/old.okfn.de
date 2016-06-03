@@ -1,7 +1,6 @@
 ---
+type: education
 title: "refugeephrasebook.de"
-type: tool
-tool: 6
 url: https://refugeephrasebook.de
 img: projects/refugeephrasebook.jpg
 people:

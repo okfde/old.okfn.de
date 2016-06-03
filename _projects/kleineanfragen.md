@@ -1,7 +1,6 @@
 ---
+type: politics
 title: "kleineAnfragen"
-type: tool
-tool: 2
 url: https://kleineanfragen.de
 img: projects/kleineanfragen.jpg
 people:

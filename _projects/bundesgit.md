@@ -1,18 +1,16 @@
 ---
+type: archive
 title: Bundesgit
 url: https://github.com/bundestag/gesetze
 img: projects/bundesgit.jpg
-contact: Stefan Wehrmeyer
-twitter: bundesgit
-mailingliste: bundesgit@lists.okfn.org
-type: archive
 layout: project
-featured: 1
 people:
 - name: Stefan Wehrmeyer
   role: Projektleitung
 contact:
   github: https://github.com/bundestag/gesetze
+  mailingliste: bundesgit@lists.okfn.org
+  twitter: bundesgit
 de:
   subtitle: Bundesgesetze auf GitHub
   content: |-

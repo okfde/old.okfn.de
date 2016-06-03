@@ -1,6 +1,6 @@
 ---
+type: education
 title: Coding da Vinci
-type: event
 layout: project
 img: projects/codingdavinci.jpg
 img_square: projects/codingdavinci_square.jpg

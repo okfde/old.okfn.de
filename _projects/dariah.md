@@ -1,6 +1,6 @@
 ---
-title: DARIAH-DE
 type: research
+title: DARIAH-DE
 layout: project
 img: projects/dariah.jpg
 url: https://de.dariah.eu

@@ -1,10 +1,9 @@
 ---
-title: Wahl.Daten.Helfer.
 type: archive
+title: Wahl.Daten.Helfer.
 img: projects/wahldatenhelfer.jpg
 url: http://www.wahldatenhelfer.de
 layout: project
-featured: 1
 people:
   - name: Julia Kloiber
     role: Projektleitung

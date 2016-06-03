@@ -1,11 +1,10 @@
 ---
+type: archive
 title: "Offene Entwicklungshilfe"
 url: http://offene-entwicklungshilfe.de
 img: projects/offeneentwicklungshilfe.jpg
 contact: Claudia Schwegmann, Christian Kreutz
 layout: project
-type: tool
-tool: 8
 people:
  - name: Claudia Schwegmann
    role: Projektleitung

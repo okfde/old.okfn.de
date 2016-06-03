@@ -28,10 +28,10 @@ projekte:
   Projekte: Projects
   Intro: >
     We bring together people that build digital tools for citizens, and we run an open web infrastructure for our democracy. These are our projects:
-  Forschungsprojekte: Research
-  Tools: Tools
-  Events: Events
-  Archiv: Archive
+  Forschung: Research
+  Bildung: Education
+  Politik: Politics
+  Archiv: Completed Projects
 projekt:
   Ansprechpartner: Contact
   Mailingliste: Mailing List

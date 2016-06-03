@@ -1,4 +1,5 @@
 ---
+type: archive
 title: "Energyhack Reloaded"
 url: http://energyhack.de/
 img: projects/energyhackreloaded.jpg
@@ -9,7 +10,6 @@ people:
     role: technischer Support
 date: 2013-06-15
 layout: project
-type: event
 contact:
   website: http://energyhack.de/
   twitter: energyhackB

@@ -1,7 +1,7 @@
 ---
+type: archive
 title: "KFW-Entwicklungs&shy;finanzierung"
 layout: project
-type: archive
 people:
   - name: Christian Kreutz
     role: Projektleitung

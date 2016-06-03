@@ -1,8 +1,7 @@
 ---
-title: Jugend hackt
-type: featured
+type: education
 layout: project
-featured: 3
+title: Jugend hackt
 background: backgrounds/jugendhackt.jpg
 url: http://jugendhackt.de
 img: projects/jugendhackt.jpg

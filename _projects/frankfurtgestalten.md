@@ -1,7 +1,7 @@
 ---
+type: archive
 title: "Frankfurt gestalten"
 img: projects/frankfurtgestalten.jpg
-type: archive
 layout: project
 contact:
   website: http://www.frankfurt-gestalten.de

@@ -1,10 +1,9 @@
 ---
+type: research
 title: Open Budgets
 url: http://openbudgets.eu/
 img: projects/openbudgets.png
 layout: project
-type: featured
-featured: 4
 background: backgrounds/openbudgets.png
 people:
 - name: Anna Alberts

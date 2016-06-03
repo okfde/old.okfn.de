@@ -1,10 +1,9 @@
 ---
+type: politics
 title: OParl
 url: http://oparl.org/
 img: projects/oparl.jpg
 layout: project
-type: tool
-tool: 3
 people:
 - name: Ernesto Ruge
   role: Projektleitung

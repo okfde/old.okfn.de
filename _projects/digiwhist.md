@@ -1,12 +1,9 @@
 ---
+type: research
 title: DIGIWHIST
 url: http://digiwhist.eu/
 img: projects/digiwhist.jpg
-contact: Mara Mendes
-twitter: digiwhist
 layout: project
-featured: 10
-type: featured
 people:
   - name: Mara Mendes
     role: Projektleitung

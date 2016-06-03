@@ -1,6 +1,6 @@
 ---
+type: archive
 title: Europeana Cloud
-type: research
 img: projects/europeana.jpg
 layout: project
 url: http://pro.europeana.eu/web/europeana-ecloud
