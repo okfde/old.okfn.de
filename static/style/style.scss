@@ -1007,6 +1007,9 @@ header {
   .project-box-color {
     background: rgb(59, 210, 246); /* Old browsers */
     background: linear-gradient(135deg, rgba(59, 210, 246, 1) 0%, rgba(29, 165, 197, 1) 100%);
+    margin-left:10%;
+    margin-right:10%;
+    width:80% !important;
   }
 
   &.mini {
