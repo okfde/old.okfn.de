@@ -12,7 +12,8 @@ layout: project
 type: event
 contact:
   website: http://energyhack.de/
-video: "https://youtu.be/A8QCDDAPSwI"  
+  twitter: energyhackB
+video: "https://www.youtube.com/embed/A8QCDDAPSwI"  
 de:
   content: |-
      Energyhack Reloaded war Deutschlands zweiter Hackday rund um Daten zu Energie und Stromversorgung. Der Hackday wurde in Zusammenarbeit mit der Stromnetz Berlin GmbH und der Senatsverwaltung für Wirtschaft, Technologie und Forschung organsiert. Auf der eintägigen Veranstaltung wurden Anwendungen und Visualisierungen rund um die Themen Versorgungssicherheit und Blackout entwickelt.
