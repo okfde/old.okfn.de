@@ -6,8 +6,7 @@ background: backgrounds/services.jpg
 
 ---
 
-* [Projektassistenz für &ldquo;Digital Refugee Labs&rdquo;](/blog/2016/03/stellenausschreibung-drl/)
-* [Teamverstärkung für die "Datenschule"](/blog/2016/04/stellenausschreibung-dS/)
+* [IT Support für das Projekt 2030 Watch](https://okfn.de/en/blog/2016/06/IT-Support/)
 
 <!-- Derzeit haben wir keine offenen Stellenausschreibungen.
  -->
