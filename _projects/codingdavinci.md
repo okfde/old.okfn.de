@@ -25,8 +25,8 @@ de:
      Coding da Vinci findet auch 2015 wieder statt! Alle Informationen zu Ablauf, Anmeldung, Daten etc. gibt es unter [codingdavinci.de]( http://www.codingdavinci.de/).
      Coding da Vinci ist ein Gemeinschaftsprojekt von: [Deutsche Digitale Bibliothek]( https://www.deutsche-digitale-bibliothek.de/), [Servicestelle Digitalisierung Berlin]( http://www.servicestelle-digitalisierung.de/confluence/pages/viewpage.action?pageId=917513), [Wikimedia Deutschland](https://wikimedia.de/wiki/Hauptseite).
 en:
-  stats: 325,000<br/>bits of cultural data
-  teaser: have been made available and usable during <a href="/en/projekte/codingdavinci/">Coding da Vinci</a>.
+  stats: 325,000<br/>data points 
+  teaser: relating to cultural artefacts have been made available and usable during <a href="/en/projekte/codingdavinci/">Coding da Vinci</a>.
   subtitle: The cultural data hackathon
   content: |-
      Coding da Vinci is the first cultural data hackathon in Germany bringing together cultural heritage institutions and the hacker/designer community to develop ideas and prototypes for the cultural sector and the public. 
