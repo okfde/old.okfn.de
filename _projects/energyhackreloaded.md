@@ -6,7 +6,7 @@ people:
   - name: Helene Hahn
     role: Projektleitung
   - name: Knut Perseke
-  	role: technischer Support
+    role: technischer Support
 date: 2013-06-15
 layout: project
 type: event
