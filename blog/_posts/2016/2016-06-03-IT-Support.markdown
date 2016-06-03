@@ -12,9 +12,6 @@ tags:
 title: Wir suchen IT Support für das Projekt 2030 Watch
 type: post
 ---
-
-<strong>Wir suchen IT Support für das Projekt 2030 Watch</strong>
-
 Die Open Knowledge Foundation Deutschland sucht zum nächstmöglichen Zeitpunkt  IT Support (gern Studentische Hilfskraft ) für das Projekt [2030 Watch](www.2030-watch.de).
 Du interessierst Dich für Tech-Projekte und Nachhaltigkeit? Du bist Programmierer/in und hast Lust, daran Deine eigenen Ideen in ein Datenprojekt einzubringen und ein spannendes Tool weiterzuentwickeln, dass Menschen ein komplexes Thema nahe bringt? Du möchtest gerne für eine NGO arbeiten, hast eine eigenständige Arbeitsweise, Lust viel zu lernen und dich weiterzuentwickeln. Trifft auf Dich zu? Dann freuen wir uns darauf, Dich kennenzulernen. 
 Bei 2030 Watch geht es darum, die Umsetzung der UN Agenda für Nachhaltige Entwicklung in Deutschland und anderen Industrieländern anhand von Indikatoren und Datenvisualisierungen zu überwachen und zu visualisieren. 
