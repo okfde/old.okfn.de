@@ -6,6 +6,8 @@ staticurl: /static/
 exclude:
   - "CNAME"
   - "Gemfile*"
+  - "*.sh"
+  - "browserslist"
   - "Readme.md"
   - ".idea/"
   - ".git/"
