@@ -12,7 +12,7 @@ tags:
 title: Data-Scientist mit Fokus auf Training für Projekt im Bereich finanzpolitischer Transparenz gesucht
 type: post
 ---
-Du möchtest Skills im Bereich der Datenanalyse an Journalisten, zivilgesellschaftliche Organisationen und Verwaltungen weitergeben? Du hast bereits an datengetriebenen Projekten gearbeitet, kennst dich mit offenen Daten aus und setzt dich leidenschaftlich für Transparenz ein? Trifft auf dich zu? Dann freuen wir uns darauf, dich kennenzulernen. Zum nächstmöglichen Zeitpunkt suchen wir Verstärkung im unseres Projektes ‘OpenBudgets.eu’.
+Du möchtest Skills im Bereich der Datenanalyse an Journalisten, zivilgesellschaftliche Organisationen und Verwaltungen weitergeben? Du hast bereits an datengetriebenen Projekten gearbeitet, kennst dich mit offenen Daten aus und setzt dich leidenschaftlich für Transparenz ein? Trifft auf dich zu? Dann freuen wir uns darauf, dich kennenzulernen. Zum nächstmöglichen Zeitpunkt suchen wir Verstärkung in unserem Projekt ‘OpenBudgets.eu’.
 
 **Laufzeit:** 6 Monaten (mit mögl. Verlängerung) <br />
 **Zeitlicher Aufwand:** 32 h/Woche <br />
