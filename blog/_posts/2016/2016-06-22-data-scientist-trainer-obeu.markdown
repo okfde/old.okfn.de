@@ -28,11 +28,17 @@ In den nächsten sechs Monaten werden wir für Journalisten, zivilgesellschaftli
 Konkret wirst du in folgenden Bereichen aktiv sein:  
 
 * Produktion von Online-Tutorials und -Trainings, Webinars, und Screencasts für die Transparenzplatform Open Spending / Open Budgets
+
 * Vermittlung von grundsätzlichem Wissen in der Arbeit mit (offenen) finanziellen Daten
+
 * Produktion begleitende Onlinematerialien zu dem partizipativen Haushaltsportal auf OpenBudgets.eu
+
 * Entwicklung von Hands-on Trainings zur Benutzung von Open Spending Tools für Zivilgesellschaft, Verwaltungen, und Journalisten
+
 * Arbeit an konkreten datengetriebenen Projekten für finanzpoltische Transparenz; u.a.: offene Daten Europäischer Kohäsionsfonds und Haushaltstransparenz in Deutschland
+
 * Weiterentwicklung / Ausweitung des Projekts ‘Offener Haushalt’
+
 * Arbeit am Open Spending Handbook
 
 <hr> 
