@@ -14,7 +14,9 @@ type: post
 ---
 Du möchtest Skills im Bereich der Datenanalyse an Journalisten, zivilgesellschaftliche Organisationen und Verwaltungen weitergeben? Du hast bereits an datengetriebenen Projekten gearbeitet, kennst dich mit offenen Daten aus und setzt dich leidenschaftlich für Transparenz ein?
 
-Im Rahmen unseres Projektes ‘OpenBudgets.eu’ wollen wir für Journalisten, zivilgesellschaftliche Organisationen, und Beamte Tutorials und Lernmaterialien in den Bereichen Datenanalyse und finanzielle Transparenz entwickeln. Wir suchen Verstärkung für die Konzeptualisierung und Durchführung von Datentrainings im Bereich finanzpolitischer Transparenz in Deutschland und der EU. Konkret wirst du in folgenden Bereichen aktiv sein:  
+Im Rahmen unseres Projektes ‘OpenBudgets.eu’ wollen wir für Journalisten, zivilgesellschaftliche Organisationen, und Beamte Tutorials und Lernmaterialien in den Bereichen Datenanalyse und finanzielle Transparenz entwickeln. Wir suchen Verstärkung für die Konzeptualisierung und Durchführung von Datentrainings im Bereich finanzpolitischer Transparenz in Deutschland und der EU. 
+
+Konkret wirst du in folgenden Bereichen aktiv sein:  
 
 * Produktion von Online-Tutorials und -Trainings, Webinars, und Screencasts für die Transparenzplatform Open Spending / Open Budgets
 * Vermittlung von grundsätzlichem Wissen in der Arbeit mit (offenen) finanziellen Daten
@@ -23,6 +25,8 @@ Im Rahmen unseres Projektes ‘OpenBudgets.eu’ wollen wir für Journalisten, z
 * Arbeit an konkreten datengetriebenen Projekten für finanzpoltische Transparenz; u.a.: offene Daten Europäischer Kohäsionsfonds und Haushaltstransparenz in Deutschland
 * Weiterentwicklung / Ausweitung des Projekts ‘Offener Haushalt’
 * Arbeit am Open Spending Handbook
+
+<hr> 
 
 Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bereich Open Government, Offene Daten, und Transparenz in Deutschland. Wir unterstützen die offene Daten Gemeinschaft in Deutschland, betreiben innovative Projekte wie Offener Haushalt, Code for Germany, und Jugend hackt, und stellen Nutzern und Bereitstellern offener Daten in der Regierung, Zivilgesellschaft und den Medien unsere Expertise bereit. Ein zentrales Themengebiet in dem wir mit den drei Projekten Offener Haushalt, Digiwhist, und OpenBudgets.eu tätig sind, ist finanzpolitische Transparenz. Bei letzterem Projekt, für welches diese Stelle ausgeschrieben ist, geht es um die Förderung der Transparenz staatlicher Ausgaben in Europa.
 
@@ -34,6 +38,8 @@ Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bere
 
 **Ort:** vorzugsweise Berlin 
 
+<hr> 
+
 **Voraussetzungen:**
 
 * Know-how in der Datenanalyse (Daten sammeln, scrapen, säubern, analysieren und präsentieren)
@@ -41,6 +47,8 @@ Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bere
 * Vorherige Erfahrung in der Gestaltung und Ausführung von Workshops zum Thema Data-Science und Open Data für unterschiedliche Zielgruppen
 
 * Deutsch (Muttersprache), Englisch (fließend in Wort und Schrift)
+
+<hr> 
 
 **Von Vorteil:**
 
@@ -52,7 +60,9 @@ Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bere
 
 * Erfahrung mit Storytelling von Vorteil
 
-<strong>Was wir bieten</strong>
+<hr> 
+
+**Was wir bieten:**
 
 * Ein einladendes und freundliches Team
 
