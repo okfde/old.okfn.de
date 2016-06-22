@@ -12,9 +12,14 @@ tags:
 title: Data-Scientist mit Fokus auf Training für Projekt im Bereich finanzpolitischer Transparenz gesucht
 type: post
 ---
-Du möchtest Skills im Bereich der Datenanalyse an Journalisten, zivilgesellschaftliche Organisationen und Verwaltungen weitergeben? Du hast bereits an datengetriebenen Projekten gearbeitet, kennst dich mit offenen Daten aus und setzt dich leidenschaftlich für Transparenz ein?
+Du möchtest Skills im Bereich der Datenanalyse an Journalisten, zivilgesellschaftliche Organisationen und Verwaltungen weitergeben? Du hast bereits an datengetriebenen Projekten gearbeitet, kennst dich mit offenen Daten aus und setzt dich leidenschaftlich für Transparenz ein? Trifft auf dich zu? Dann freuen wir uns darauf, dich kennenzulernen. Zum nächstmöglichen Zeitpunkt suchen wir Verstärkung im unseres Projektes ‘OpenBudgets.eu’.
 
-Im Rahmen unseres Projektes ‘OpenBudgets.eu’ wollen wir für Journalisten, zivilgesellschaftliche Organisationen, und Beamte Tutorials und Lernmaterialien in den Bereichen Datenanalyse und finanzielle Transparenz entwickeln. Wir suchen Verstärkung für die Konzeptualisierung und Durchführung von Datentrainings im Bereich finanzpolitischer Transparenz in Deutschland und der EU. 
+**Laufzeit:** 6 Monaten (mit mögl. Verlängerung) <br />
+**Zeitlicher Aufwand:** 32 h/Woche <br />
+**Gehalt:** E 13 - Stufe abhängig von Berufserfahrung <br />
+**Ort:** vorzugsweise Berlin <br />
+
+In den nächsten sechs Monaten werden wir für Journalisten, zivilgesellschaftliche Organisationen, und Beamte Tutorials und Lernmaterialien in den Bereichen Datenanalyse und finanzielle Transparenz entwickeln. Wir suchen Verstärkung für die Konzeptualisierung und Durchführung von Datentrainings im Bereich finanzpolitischer Transparenz in Deutschland und der EU. 
 
 Konkret wirst du in folgenden Bereichen aktiv sein:  
 
@@ -29,14 +34,6 @@ Konkret wirst du in folgenden Bereichen aktiv sein:
 <hr> 
 
 Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bereich Open Government, Offene Daten, und Transparenz in Deutschland. Wir unterstützen die offene Daten Gemeinschaft in Deutschland, betreiben innovative Projekte wie Offener Haushalt, Code for Germany, und Jugend hackt, und stellen Nutzern und Bereitstellern offener Daten in der Regierung, Zivilgesellschaft und den Medien unsere Expertise bereit. Ein zentrales Themengebiet in dem wir mit den drei Projekten Offener Haushalt, Digiwhist, und OpenBudgets.eu tätig sind, ist finanzpolitische Transparenz. Bei letzterem Projekt, für welches diese Stelle ausgeschrieben ist, geht es um die Förderung der Transparenz staatlicher Ausgaben in Europa.
-
-**Laufzeit:** September - Februar (mit mögl. Verlängerung) 
-
-**Zeitlicher Aufwand:** 32 h/Woche 
-
-**Gehalt:** E 13 - Stufe abhängig von Berufserfahrung 
-
-**Ort:** vorzugsweise Berlin 
 
 <hr> 
 
