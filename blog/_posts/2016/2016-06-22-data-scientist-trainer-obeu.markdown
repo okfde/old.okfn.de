@@ -2,14 +2,14 @@
 author: Anna Alberts
 date: 2016-06-22 15:00:00
 image:
-  src: /files/blog/2016/06/ScreenshotVacancyOBEU
+  src: /files/blog/2016/06/ScreenshotVacancyOBEU.png
   license:  "Front Page Report "Mapping the Open Spending Data Community" by Lucy Chambers and Anders Pedersen <a href='http://community.openspending.org/resources/mappingcommunity/</a>"
   title: Mapping the Open Spending Data Community
 layout: post
 tags:
 - jobs
 - OpenBudgets.eu
-title: Data-Scientist mit Fokus auf Training für Projekt im Bereich “finanzpolitische Transparenz” bei der Open Knowledge Foundation Deutschland e.V.
+title: Wir suchen Data-Scientist mit Fokus auf Training für Projekt im Bereich “finanzpolitische Transparenz” bei der OpenBudgets.eu
 type: post
 ---
 Du möchtest Skills im Bereich der Datenanalyse an Journalisten, zivilgesellschaftliche Organisationen und Verwaltungen weitergeben? Du hast bereits an datengetriebenen Projekten gearbeitet, kennst dich mit offenen Daten aus und setzt dich leidenschaftlich für Transparenz ein?
