@@ -48,7 +48,6 @@ Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bere
 
 * Deutsch (Muttersprache), Englisch (fließend in Wort und Schrift)
 
-<hr> 
 
 **Von Vorteil:**
 
@@ -60,7 +59,6 @@ Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bere
 
 * Erfahrung mit Storytelling von Vorteil
 
-<hr> 
 
 **Was wir bieten:**
 
@@ -75,6 +73,8 @@ Die Open Knowledge Foundation Deutschland (OKF-DE) ist die führende NGO im Bere
 * Zugang zu und enge Zusammenarbeit mit den internationalen Netzwerken im Bereich finanzpolitischer Transparenz und Civic Tech
 
 * Besuche internationaler Konferenzen
+
+<hr> 
 
 Für mehr Informationen: [www.okfn.de](www.okfn.de), [www.openbudgets.eu](www.openbudgets.eu) und [www.openspending.org](www.openspending.org).
 
