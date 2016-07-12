@@ -1,14 +1,14 @@
 ---
-author: Anna Alberts
-date: 2016-06-22 15:00:00
+author: Bela Seeger
+date: 2016-07-12 15:00:00
 image:
-  src: /files/blog/2016/06/ScreenshotVacancyOBEU.png
-  license:  "[Front Page Report 'Mapping the Open Spending Data Community' by Lucy Chambers and Anders Pedersen](http://community.openspending.org/resources/mappingcommunity/)"
-  title: Mapping the Open Spending Data Community
+  src: /files/blog/2016/07/OParl.png
+  license: 
+  title: OParl.org
 layout: post
 tags:
-- jobs
-- OpenBudgets.eu
+- OParl
+- RIS
 title: OParl Schnittstelle 1.0 veröffentlicht
 type: post
 ---
