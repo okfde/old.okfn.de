@@ -4,7 +4,7 @@ authors:
 date: 2016-07-17 09:39:00
 image:
   src: /files/blog/2016/07/Schatten.jpg
-  title: "Schatten"
+  title: Schatten
   license: <a href='https://pixabay.com/en/smile-cheerful-luck-dandelion-1374564/'>CCO</a>   
 type: post
 layout: post
