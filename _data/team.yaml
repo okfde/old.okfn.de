@@ -406,6 +406,20 @@
   website: https://sectio-aurea.org
   github: the-infinity
 
+- name: Moritz Neujeffski
+  title:
+  img: moritzneujeffski
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Moritz arbeitet im Projekt Datenschule gemeinsam mit Helene und Knut. Er gibt Workshops und unterstützt NGOs in der Datenanalyse und der datengestützten Kampagnenarbeit. Moritz hat an der Universität Maastricht European Studies und Public Policy and Human Development studiert und ist nebenher am Wissenschaftszentrum Berlin aktiv."
+  bio_en: "Moritz works at the School of Data together with Helene and Knut. He gives workshops and supports NGOs in analysing and using data for their campaigning efforts. Moritz has studied European Studies and Public Policy and Human Development at Maastricht University and is also active at the Berlin Social Science Center."
+  mail: "moritz.neujeffski@okfn.de"
+  twitter: m_neujeffski
+  website: 
+  github: mojeffski
+
 - name: Friedrich Schumann
   img:
   staff: 0
