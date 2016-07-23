@@ -2,7 +2,7 @@
 <article class="post-item">
 	<div class="post-meta">
 		<div class="post-img-wrap">
-			{% if post.image %}<a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}"><img class="post-img" src="{{ post.image.src }}" alt="{{ post.title }}"/></a>{% endif %}
+			{% if post.image %}<a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}"><img class="post-img" src="{{ post.image.src }}" alt="{{ post.title | xml_escape }}"/></a>{% endif %}
 		</div>
 		<div class="post-author">
 			<p>{{ post.date | date:"%d.%m.%Y" }}</p>

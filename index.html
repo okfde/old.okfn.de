@@ -27,7 +27,7 @@ description: Offenes Wissen für die digitale Gesellschaft
 		{% if langcontent != '' %}
 		<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
 			<div class="showcase">
-				<a href="{{ site.baseurl }}{{project.url}}"><img src="{{ site.staticurl }}images/{{project.img_square}}" alt="{{project.title}}" class="img-circle"/></a>
+				<a href="{{ site.baseurl }}{{project.url}}"><img src="{{ site.staticurl }}images/{{project.img_square}}" alt="{{project.title | xml_escape}}" class="img-circle"/></a>
 				<h4 class="kpi">{{ langcontent }}</h4>
 				<p class="detail">
 					{% capture teasercontent %}{{ project[site.lang].teaser }}{% endcapture %}

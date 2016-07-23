@@ -16,7 +16,7 @@ menu_blog: yes
 
 	<div {% if img_authors.first.img %}class="post-author"{% else %}class="post-nonteam-author"{% endif %}>
 		{% for a in img_authors %}
-			{% if a.img %}<img src="{{ site.staticurl }}images/team/{{ a.img }}_square.jpg" alt="{{ a.name }}" class="img-circle">{% endif %}
+			{% if a.img %}<img src="{{ site.staticurl }}images/team/{{ a.img }}_square.jpg" alt="{{ a.name | xml_escape }}" class="img-circle">{% endif %}
 		{% endfor %}
 		<p class="post-meta">
 			{% t blog.Von %}

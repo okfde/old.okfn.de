@@ -24,7 +24,7 @@ menu_projekte: yes
 					<div class="row avatar-row">
 						<div class="col-xs-3 avatar-col">
 							{% if person.img %}
-							<img src="{{ site.staticurl }}images/team/{{ person.img }}_square.jpg" alt="{{ person.name }}" class="img-circle avatar">
+							<img src="{{ site.staticurl }}images/team/{{ person.img }}_square.jpg" alt="{{ person.name | xml_escape }}" class="img-circle avatar">
 							{% endif %}
 						</div>
 						<div class="col-xs-9">
