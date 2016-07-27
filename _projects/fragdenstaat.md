@@ -18,14 +18,13 @@ contact:
   mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
 de:
-  stats: 9 500+<br/>Anfragen
+  stats: 11 000+<br/>Anfragen
   teaser: wurden bei <a href="/projekte/fragdenstaat/">FragDenStaat.de</a> von Bürgen an Behörden gestellt.
   subtitle: Das Informationsfreiheitsportal
   content: |-
-     Mit Frag den Staat kann jeder interessierte Bürger Anfragen nach den Informationsgesetzen (Informationsfreiheitsgesetz des Bundes, Umweltinformationsgesetz und Verbraucherinformationsgesetz) stellen. 
-     Fragen und Antworten werden auf dieser Seite öffentlich und transparent dokumentiert. 
-     Ziel ist es, durch die transparente Abbildung des ganzen Prozesses das Thema Informationsfreiheit insgesamt zu stärken. 
-     Vorbild für FragDenStaat.de ist das britische Informationsfreiheitsportal [What Do They Know]( https://www.whatdotheyknow.com/).
+     Jede Person hat das Recht auf Informationen. 
+     Mit der Online-Plattform FragDenStaat kann jede Person Anfragen an Behörden nach dem Informationsfreiheitsgesetz stellen.
+     Fragen Sie Informationen und Dokumenten an! <a href="https://fragdenstaat.de">Zu FragDenStaat</a>
 
 en:
   stats: 7,100+<br/>requests
