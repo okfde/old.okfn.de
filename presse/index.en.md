@@ -10,8 +10,6 @@ If you are looking for specific background information, have concrete questions 
 
 ## Contact
 
-Press Team
-: Julia Kloiber und Daniel Dietrich
 Email
 : <a href="mailto:presse@okfn.de">presse@okfn.de</a>
 Phone

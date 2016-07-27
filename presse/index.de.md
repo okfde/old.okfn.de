@@ -10,8 +10,6 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 ## Ansprechpartner
 
-Presse-Team
-: Julia Kloiber und Daniel Dietrich
 E-Mail
 : <a href="mailto:presse@okfn.de">presse@okfn.de</a>
 Telefon
