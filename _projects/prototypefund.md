@@ -7,12 +7,12 @@ layout: project
 people:
   - name: Julia Kloiber
     role: Projektleitung
+  - name: Cosmin Cabulea
+    role: Projektleitung
   - name: Fiona Krakenbürger
     role: Community Management
   - name: Eileen Wagner
     role: Outreach und Presse
-  - name: Cosmin Cabulea
-    role: Projektleitung
 contact:
   website: http://prototypefund.de
   twitter: prototypefund
