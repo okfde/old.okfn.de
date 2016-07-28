@@ -420,6 +420,20 @@
   website: 
   github: mojeffski
 
+- name: Cosmin Cabulea
+  title:
+  img: cosmincabulea
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Cosmin arbeitet seit Mai 2016 als Projektleiter bei der Open Knowledge Foundation. Er betreut zur Zeit den Prototype Fund, den er zuvor mitentwickelt hat. Davor war er fünf Jahre bei der Deutschen Welle als Innovation Manager tätig. Aktuell ist er noch teilweise in der Wissenschaftsredaktion aktiv. Cosmin hat Medienwissenschaften studiert und interessiert sich für die Schnittstelle zwischen Technologie und Journalismus.  Mit Hackathons, Datenanalysen und Datenjournalismus Trainings vertreibt er sich seine Freizeit."
+  bio_en: "n/a"
+  mail: "cosmin.cabulea@okfn.de"
+  twitter: pushthings4ward
+  website: 
+  github: pushthings4ward
+
 - name: Friedrich Schumann
   img:
   staff: 0
