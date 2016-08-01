@@ -30,7 +30,7 @@ Oftmals gehen Fördermaßnahmen an den Bedürfnissen potentieller FördernehmerI
 
 Zudem richten sich zahlreiche Angebote ausschließlich an Forschungseinrichtungen, Unternehmen und Universitäten – Einzelpersonen wie SoftwarentwicklerInnen, HackerInnen und Kreative mit guten Ideen und den nötigen Skills zur Umsetzung bleiben vernachlässigt.
 
-![Hello Prototype Fund!](/files/blog/2016/08/helloprototype.jpg "Hello Prototype Fund!")
+![Hello Prototype Fund!](/files/blog/2016/08/helloprototype.jpg)
 
 ###Nutzer-zentrierte Fördermaßnahmen
 
