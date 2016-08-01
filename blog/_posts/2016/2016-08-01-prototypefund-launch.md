@@ -15,10 +15,10 @@ tags:
 - BMBF
 title: Hello World! <br> Hello Prototype Fund!
 type: post
-published: false
+published: true
 ---
 
-Nach über einem Jahr Planung und Konzeption freuen wir uns sehr darüber, endlich live zu sein! Mit dem Prototype Fund haben wir ein Programm ins Leben gerufen, das wir uns seit vielen Jahren selbst wünschen. Schon lange sind wir als gemeinnützige Organisation in den Bereichen Freies Wissen, Open Data und Civic Tech unterwegs. Wir entwickeln Tools, helfen dabei Communitys aufzubauen, veranstalten Events und vieles mehr. Aus eigener Erfahrung und derer vieler engagierter Menschen aus unser Community wissen wir, wie schwierig es sein kann, finanzielle Unterstützung für gemeinnützige Vorhaben oder für Projekte in neuen Themenfeldern zu bekommen.
+Nach über einem Jahr Planung und Konzeption freuen wir uns sehr darüber, endlich live zu sein! Mit dem [Prototype Fund](http://prototypefund.de) haben wir ein Programm ins Leben gerufen, das wir uns seit vielen Jahren selbst wünschen. Schon lange sind wir als gemeinnützige Organisation in den Bereichen Freies Wissen, Open Data und Civic Tech unterwegs. Wir entwickeln Tools, helfen dabei Communitys aufzubauen, veranstalten Events und vieles mehr. Aus eigener Erfahrung und derer vieler engagierter Menschen aus unser Community wissen wir, wie schwierig es sein kann, finanzielle Unterstützung für gemeinnützige Vorhaben oder für Projekte in neuen Themenfeldern zu bekommen.
 
 **Mit dem Prototype Fund sind wir angetreten, um das zu ändern!**
 
