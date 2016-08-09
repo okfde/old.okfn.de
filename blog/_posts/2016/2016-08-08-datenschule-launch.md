@@ -5,9 +5,9 @@ authors:
 - Moritz Neujeffski
 date: 2016-08-09 13:00:00
 image:
-  src: /files/blog/2016/08/ds-head.jpg
+  src: https://datenschule.de/files/blog/2016/08/ds-head.jpg
   title: Datenschule
-  license: "(CC BY 3.0 Datenschule, Design: Montebelo)[https://creativecommons.org/licenses/by/3.0/de/]"
+  license: "[CC BY 3.0 Datenschule, Design: Montebelo](https://creativecommons.org/licenses/by/3.0/de/)"
 tags:
 - datenschule
 - data literacy
