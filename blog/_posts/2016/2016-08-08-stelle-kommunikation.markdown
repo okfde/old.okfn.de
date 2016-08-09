@@ -2,14 +2,15 @@
 authors:
 - Helene Hahn
 date: 2016-08-08 12:00:00
-picture:
+image:
   src: /files/blog/2016/08/ds-kommunikation.jpg
   title: Datenschule
-  license:  "CC-BY 3.0 Datenschule, Design: Montebelo, Martin Wunderer"
-  license_url: "https://creativecommons.org/licenses/by/3.0/de/"
+  license: "(CC-BY 3.0 Datenschule, Design: Montebelo, Martin Wunderer)[https://creativecommons.org/licenses/by/3.0/de/]"
 tags:
 - jobs
-
+type: post
+layout: post
+card: true
 title: Studentische Aushilfe für die Unterstützung der Kommunikation und Pressearbeit gesucht
 ---
 
