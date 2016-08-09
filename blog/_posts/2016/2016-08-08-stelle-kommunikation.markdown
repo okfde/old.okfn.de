@@ -65,7 +65,7 @@ Die Datenschule ist ein Bildungsangebot rund um das Thema Daten: Vom Daten finde
 
 <hr> 
 
-Wenn du Interesse hast, dann schick uns deine Bewerbung sowie einschlägige  Arbeitsnachweise bis zum **10. September** per E-Mail an [info@datenschule.de](mailto:info@datenschule.de). Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen. 
+Wenn du Interesse hast, dann schick uns deine Bewerbung sowie einschlägige  Arbeitsnachweise bis zum **10. September** per E-Mail an [jobs@datenschule.de](mailto:jobs@datenschule.de). Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen.
 
 Die Bewerbungsgespräche werden zwischen dem 19.-30. September stattfinden.
 Wir freuen uns auf dich!
