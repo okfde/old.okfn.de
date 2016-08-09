@@ -2,7 +2,7 @@
 author: Martin Koll
 date: 2013-11-06 10:57:46
 image:
-  src: http://farm3.static.flickr.com/2649/4055669711_1cd193639d_o.jpg
+  src: https://farm3.static.flickr.com/2649/4055669711_1cd193639d_o.jpg
 layout: post
 tags:
 - Geodaten
