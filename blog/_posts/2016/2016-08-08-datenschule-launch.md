@@ -25,7 +25,7 @@ In einer zunehmend digitalen Welt vermittelt die Datenschule gemeinnützigen Org
 
 Je mehr digitalisiert wird, desto mehr Daten sind vorhanden. Auch wenn in Deutschland noch Aufholbedarf bei Open Data besteht, wächst die Zahl an frei nutzbaren  Verwaltungsdaten, Verkehrsdaten und Umweltdaten stetig. 
 
-![Toy Story Meme via troll.me](/files/blog/2016/08/toystory.png "Data, Data Everywhere")
+![Toy Story Meme via troll.me](https://datenschule.de/files/blog/2016/08/toystory.png "Data, Data Everywhere")
 
 Quelle: Toy Story Meme via troll.me
 
