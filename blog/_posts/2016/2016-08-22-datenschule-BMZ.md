@@ -16,7 +16,7 @@ tags:
 - ngo
 ---
 
-Für den diesjährigen Tag der offenen Tür öffnet das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) wieder seine Pforten. Am Samstag, den 28. August, sind auch dieses Jahr zahlreiche Nichtregierungsorganisationen und Initiativen in der Stresemannstraße 94 in Berlin vertreten, um sich und ihre Projekte vorzustellen. Die Open Knowledge Foundation ist mit dabei! Die Datenschule und 2030 Watch sind mit einem Infostand vor Ort und werden über uns und unsere Arbeit berichten.
+Für den diesjährigen Tag der offenen Tür öffnet das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) wieder seine Pforten. Am Sonntag, den 28. August, sind auch dieses Jahr zahlreiche Nichtregierungsorganisationen und Initiativen in der Stresemannstraße 94 in Berlin vertreten, um sich und ihre Projekte vorzustellen. Die Open Knowledge Foundation ist mit dabei! Die Datenschule und 2030 Watch sind mit einem Infostand vor Ort und werden über uns und unsere Arbeit berichten.
 
 ##Daten für Entwicklungszusammenarbeit immer wichtiger
 Offene Daten spielen in der Entwicklungszusammenarbeit zunehmend eine wichtige Rolle. Beispielsweise stellt die International Aid Transparency Initiative (IATI) einen Standard dar, um mittels offenen Daten für mehr Transparenz in der Entwicklungspolitik zu sorgen. Mit den vereinbarten Ziele für nachhaltige Entwicklung (Sustainable Development Goals - SDGs) wird ein Schritt in Richtung Armutsbekämpfung und Klimafreundlichkeit gemacht. Auch Deutschland verpflichtet sich diese Ziele umzusetzten. Das OKF Projekt 2030-Watch überwacht und visualisiert diesen Prozess, um für mehr Transparenz zu sorgen.
