@@ -89,6 +89,8 @@ Bei Fragen bitte an **[Anna Alberts](mailto:anna.alberts@okfn.de)** wenden.
 
 Wenn du Interesse hast, dann schick uns ein Motivationsschreiben (1-2 Seiten) sowie deine Arbeitsnachweise (nur einschlägige) per E-Mail an **[Anna Alberts](mailto:anna.alberts@okfn.de)**. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen.
 
-Wir nehmen Bewerbungen entgegen bis wir eine passende Kandidatin oder einen passenden Kandidaten gefunden haben. Erste Gesprächsrunde voraussichtlich in der zweiten Juliwoche.
-
 Wir freuen uns auf deine Bewerbung!
+
+Bewerbungsfrist: geschlossen 
+
+
