@@ -24,5 +24,4 @@ Unser Engagement für offene Daten und die Visualisierung der nachhaltigen Entwi
 
 Um den Umgang mit Daten spielerisch zugänglich zu machen, visualisierten wir ganz ohne Einsatz von Computern die SDGs mit den Teilnehmern. Dabei konnten wir das Engagement für Transparenz und Nachhaltigkeit durchaus fördern. Beispielsweise überzeugten wir eine Besucherin vom Nutzen der Daten zur Umweltverschmutzung in Europa. Gemeinsam mit Ihr recherchierten wir aktuellen Daten zum Plastiktütenverbrauch in Europa. Ihrem neu gewonnenen Wissen wollte Sie gleich Taten folgen lassen und sich für mehr Nachhaltigkeit und weniger Plastiktüten einsetzen. Ein voller Erfolg! 
 
-
-Wir freuen uns aufs nächste Jahr
+Wir freuen uns aufs nächste Jahr!
