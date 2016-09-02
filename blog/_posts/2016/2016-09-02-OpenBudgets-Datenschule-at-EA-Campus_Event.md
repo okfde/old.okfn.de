@@ -14,7 +14,7 @@ tags:
 - OpenBudgets.eu
 - Datenschule
 - ngo
-title: OKF at the European Alternative Campus Event
+title: OKF beim European Alternatives Campus Event 16
 ---
 
 Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? Beim<a href="https://euroalter.com/2016/connecting-europe-at-the-ea-campus-16"> Campus Event von European Alternatives</a> vergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. <a href="http://openbudgets.eu/">OpenBudgets</a> und die <a href="https://datenschule.de/"> Datenschule</a> waren dabei und haben mitdiskutiert.
