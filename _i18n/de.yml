@@ -90,3 +90,8 @@ impressum:
   EMail: E-Mail
   Telefon: Telefon
   Fax: Fax
+  Tech: Technik
+  TechBROWSERSTACK: >
+    Für das Testen von Browserkompatibilität wird diese Seite von <a href="www.browserstack.com">BrowserStack</a> unterstützt.
+  TechJEKYLL: >
+    HTML erzeugt mit <a href="https://jekyllrb.com/">Jekyll</a> und DataLove.
