@@ -14,7 +14,7 @@ tags:
 type: post
 layout: post
 card: true
-title: Kooperation mit BildungsCent e.V. zu den Themen Schule & Bildung 
+title: Datenschule - Kooperation mit BildungsCent e.V. zu den Themen Schule & Bildung 
 ---
 
 Schule soll neben Mathe, Deutsch und Physik gesellschaftspolitische Kompetenzen aufbauen und Schüler/innen auf die Welt “da draußen” vorbereiten. Nicht immer klappt das gut - wenig Schulbudget, konservative Lernformate und (viel zu?) hohe Anforderungen an die Lehrer/innen machen den Wandel von einer konservativen Schule zu einer gesellschaftsfähigen Schule zu einer Herausforderung. Neuere Themen, bspw. das Programmieren und Medienkompetenzen, werden vor allem über neue Lernmethoden von außerschulischen Programmen vermittelt. 
@@ -41,3 +41,9 @@ Das Projekt [Wo unsere Kinder lernen](http://schulsanierung.tursics.de/) widmet 
 Bei der richtigen Schulwahl helfen die Projekte [Schulradar Ruhrgebiet](http://schulradar-ruhrgebiet.de/) und [Berliner Schulen](http://berlinerschulen.ini20.de/#/). Beide Projekte zeigen vorhandene Schulinformationen auf einer Karte, mit einem Klick kann man sich näher zu Schulart, besonderen Angeboten und Barrierefreiheit informieren.
 
 Das Projekt [Schulen in Köln](https://schuleninkoeln.github.io/) verknüpft Informationen zu Schuldaten mit Bevölkerungsstatistik einzelner Kölner Bezirke. Auf der Karte werden Altersstruktur, Anzahl der Schüler/innen und Angaben zu Schulen auf Bezirksebene dargestellt.
+
+### Mehr zur Datenschule
+
+Die Datenschule vermittelt gemeinnützigen Organisationen die nötigen Fähigkeiten, Daten und Technologien zu verstehen, um sie zielgerichtet für ihre gesellschaftlichen Aufgaben einzusetzen.
+
+Bleib über unsere Workshops, Aktivitäten und Themen auf dem Laufenden: [Newsletter abbonieren!](https://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=57affeefd3)
