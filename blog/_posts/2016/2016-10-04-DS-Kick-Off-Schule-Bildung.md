@@ -1,7 +1,7 @@
 ---
 authors: Helene Hahn
 date: 2016-10-04 14:00:00
-picture:
+image:
   src: /files/blog/2016/10/schule.jpg
   title: 
   license: "Public Domain, via pixabay"
