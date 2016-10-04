@@ -11,6 +11,9 @@ tags:
 - social change
 - workshops
 - umwelt
+type: post
+layout: post
+card: true
 title: Kooperation mit BildungsCent e.V. zu den Themen Schule & Bildung 
 ---
 
