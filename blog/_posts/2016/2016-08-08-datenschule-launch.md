@@ -54,4 +54,4 @@ Mit der Datenschule wollen wir gemeinnützige Organisationen dazu ermutigen, gez
 
 Mit unserem angewandten Datenwissen unterstützen wir Projektteams und/oder Organisationen über einen Zeitraum von ca. drei Monaten bei einer Herausforderung oder einer Fragestellung, die wir mittels Daten lösen möchten. Wir bringen gemeinnützigen Organisationen mit einer Kombination an Workshops, Beratungen und Technik-Trainings die Datenwelt näher.
 
-Wir freuen uns über interessierte NGOs und Trainer/innen, die mit uns zusammenarbeiten möchten. Schreibt uns eine Mail: [info@datenschule.de](mailto:info@datenschule.de) und tragt euch in unseren [Newsletter](http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=57affeefd3) ein. 
+Wir freuen uns über interessierte NGOs und Trainer/innen, die mit uns zusammenarbeiten möchten. Schreibt uns eine Mail: [jobs@datenschule.de](mailto:jobs@datenschule.de) und tragt euch in unseren [Newsletter](http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=57affeefd3) ein. 
