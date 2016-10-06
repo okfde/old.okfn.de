@@ -35,7 +35,11 @@ Meldet euch an und macht mit, Laptop nicht vergessen!
 
 **Wer:** Datenneulinge mit Interesse an Umweltdaten
 
+**Mit:** Input aus dem Projekt  <a href='https://2030-watch.de/'>2030 Watch</a>, das sich das Monitoring der Ziele für nachhaltige Entwicklung zur Aufgabe gemacht hat 
+
 **Anmeldung:** Um an dem Event teilzunehmen kannst du dich <a href="https://goo.gl/forms/37d3xa18UFFmcFjB3">hier eintragen</a>.
+
+<br/>
 
 Wir freuen uns auf euch!
 
