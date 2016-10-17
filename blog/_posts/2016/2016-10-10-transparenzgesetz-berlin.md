@@ -31,5 +31,7 @@ Es ist höchste Zeit, dass Berlin ein Transparenzgesetz einführt, durch das die
 
 7) <strong>Besser für soziale Gerechtigkeit</strong>: Die derzeitige Gebührenregelung für Anfragen an Berliner Behörden <a href="https://netzpolitik.org/2016/kaputte-verwaltung-warum-berlin-jetzt-ein-transparenzgesetz-braucht/">benachteiligt vor allem wenig privilegierte Gruppen</a>. Mit einem neuen Gesetz muss die Hauptstadt dafür sorgen, dass alle Menschen sich über Vorgänge des Staates informieren können - und nicht nur diejenigen, die die Gebühren dafür aufbringen können. Ein Transparenzgesetz bietet die Möglichkeit für Partizipation und Information aller BürgerInnen in der Stadt.
 
+Das bisherige Informationsfreiheitsgesetz (IFG) Berlins ist dafür nicht ausreichend. Es stammt von 1999, sieht hohe Gebühren für den Informationszugang vor, wird in der Verwaltung nur wenig genutzt und ist auf den reaktiven Informationszugang beschränkt. Daran ändert auch das neue E-Government-Gesetz des Landes nichts, das keine Veröffentlichungspflichten für die Verwaltung vorsieht.
+
 Schon <a href="https://www.change.org/p/milliardenverschwendung-am-flughafen-stoppen-transparenzgesetz-f%C3%BCr-berlin">mehr als 12.500 Menschen</a> haben unsere Kampagne für mehr Transparenz in Berlin unterschrieben. Sie sind sich einig:
 Ein Transparenzgesetz ist <strong>besser für Berlin!</strong>
