@@ -15,7 +15,7 @@ tags:
 type: post
 layout: post
 card: true
-title: "“Rohstoff der Zukunft”: Was bringt das Open-Data-Gesetz?" 
+title: "„Rohstoff der Zukunft“: Was bringt das Open-Data-Gesetz?" 
 ---
 
 Großes Treiben vor dem Wahlkampf im Bundesinnenministerium (BMI): In den nächsten Wochen will das Ministerium Eckpunkte zu einem Open-Data-Gesetz veröffentlichen, die bis zu den Wahlen im kommenden Jahr in einen Gesetzestext umgesetzt und vom Bundestag verabschiedet werden sollen - ein ambitionierter Zeitplan, nachdem die Koalition <a href="https://www.bundestag.de/blob/338564/789306eca3d6551de9c9060fd451e614/stellungnahme_heise-data.pdf">lange das Thema verschlafen hat</a>.
