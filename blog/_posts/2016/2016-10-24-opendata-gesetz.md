@@ -1,6 +1,9 @@
 ---
-authors: Arne Semsrott
-date: 2016-10-10 15:00:00
+authors: 
+- Arne Semsrott
+- Johanna zum Felde
+- Walter Palmetshofer
+date: 2016-10-24 11:00:00
 image:
   src: /files/blog/2016/10/walnuss.jpg
   title: 
