@@ -18,7 +18,7 @@ card: true
 title: "“Rohstoff der Zukunft”: Was bringt das Open-Data-Gesetz?" 
 ---
 
-Großes Treiben vor dem Wahlkampf im Bundesinnenministerium (BMI): Noch in diesem Monat will das Ministerium Eckpunkte zu einem Open-Data-Gesetz veröffentlichen, die bis zu den Wahlen im kommenden Jahr in einen Gesetzestext umgesetzt und vom Bundestag verabschiedet werden sollen - ein ambitionierter Zeitplan, nachdem die Koalition <a href="https://www.bundestag.de/blob/338564/789306eca3d6551de9c9060fd451e614/stellungnahme_heise-data.pdf">lange das Thema verschlafen hat</a>.
+Großes Treiben vor dem Wahlkampf im Bundesinnenministerium (BMI): In den nächsten Wochen will das Ministerium Eckpunkte zu einem Open-Data-Gesetz veröffentlichen, die bis zu den Wahlen im kommenden Jahr in einen Gesetzestext umgesetzt und vom Bundestag verabschiedet werden sollen - ein ambitionierter Zeitplan, nachdem die Koalition <a href="https://www.bundestag.de/blob/338564/789306eca3d6551de9c9060fd451e614/stellungnahme_heise-data.pdf">lange das Thema verschlafen hat</a>.
 
 Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste eigentlich kein eigenes Regelwerk geschaffen werden. Das <a href="https://fragdenstaat.de/hilfe/ifg/">Informationsfreiheitsgesetz</a>, das <a href="https://okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/">Informationsweiterverwendungsgesetz</a> und das Verwaltungsverfahrensgesetz wären eigentlich prädestiniert dafür, auch Open Data in der Bundesverwaltung zu regeln. Eine alternative Option wäre ein nationales Transparenzgesetz, auch um der zwanghaft technokratischen Herangehensweise der Verwaltung in Bezug auf Informationsfreiheit und Open Data zu begegnen.
 
