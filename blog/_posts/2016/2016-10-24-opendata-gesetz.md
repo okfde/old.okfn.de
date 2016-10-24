@@ -42,7 +42,7 @@ Grundsätzlich gilt es, die internationale und lokale Kompatibilität der Daten 
 
 Um ihren Namen wirklich zu verdienen, muss das Open-Data-Gesetz schon jetzt deutlich weiter reichende Regelungen treffen als bisher vorgesehen sind. Das Vertrauen auf Nachbesserungen in der kommenden Legislaturperiode alleine reicht dazu nicht. Sonst fördert das Gesetz nicht Open Data, sondern vor allem Open-Washing. Bisher läuft das Vorhaben Gefahr, nicht alle gesellschaftlichen Potentiale von Open Data zu adressieren und die Bereiche des öffentlichen Lebens außer acht zu lassen, die immense direkte Vorteile für die Bürgerinnen und Bürger bieten.
 
-Die gesammelten Forderungen der Open-Data-Community and Open-Data-Gesetz:
+Die gesammelten Forderungen der Open-Data-Community ans Open-Data-Gesetz:
 
 - <b>Open by default</b>: Gemäß des 1. Prinzips der von allen G8-Staaten ratifizierten Open Data Charter fordern wir eine automatische und proaktive Veröffentlichung offener Daten - unter Wahrung des Schutzes personenbezogener Daten - in regelmäßigen Abständen in einem übergeordneten bundesweiten Portal. Daten müssen aktuell sein Die Daten sollten einfach zu finden, maschinell suchbar, druckbar und kostenfrei sein und per Download im Internet heruntergeladen werden können.
 - <b>Einheitliche Metadatenstruktur</b>: Entsprechend der Verpflichtungen durch die G8 Open Data Charter, dem Aktionsplan zu deren Umsetzung und dem Koalitionsvertrag der 18 Legislaturperiode werden alle Daten mit einer einheitlichen Metadatenstruktur veröffentlicht, die internationalen Standards entspricht. Eigenständige nationale Regelungen werden zugunsten von internationalen Standards aufgelöst.
