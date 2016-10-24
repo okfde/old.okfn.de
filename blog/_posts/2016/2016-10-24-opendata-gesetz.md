@@ -38,6 +38,8 @@ Dabei ist es besonders sinnvoll, dass effektives Verwaltungshandeln in das Geset
 
 Grundsätzlich gilt es, die internationale und lokale Kompatibilität der Daten und Systeme zu gewährleisten. Das heißt, es sollten keine nationalen Insellösungen hinsichtlich offener Lizenzen und Metadaten festgelegt werden, wie es aktuell der Fall ist. Auch wenn das Bundesgesetz Bundesländer nicht direkt einbezieht, sollte ein Erfahrungsaustausch zum Beispiel durch (interne) Round Tables, Schulungen und Workshops stattfinden. Zusätzlich möglich sind Förderungen für Open Data-Initiativen auf Länder- und Kommunalebene.
 
+<h3>Forderungen ans Gesetz</h3>
+
 Um ihren Namen wirklich zu verdienen, muss das Open-Data-Gesetz schon jetzt deutlich weiter reichende Regelungen treffen als bisher vorgesehen sind. Das Vertrauen auf Nachbesserungen in der kommenden Legislaturperiode alleine reicht dazu nicht. Sonst fördert das Gesetz nicht Open Data, sondern vor allem Open-Washing. Bisher läuft das Vorhaben Gefahr, nicht alle gesellschaftlichen Potentiale von Open Data zu adressieren und die Bereiche des öffentlichen Lebens außer acht zu lassen, die immense direkte Vorteile für die Bürgerinnen und Bürger bieten.
 
 Die gesammelten Forderungen der Open-Data-Community and Open-Data-Gesetz:
