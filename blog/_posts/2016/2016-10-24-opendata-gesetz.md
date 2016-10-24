@@ -10,8 +10,9 @@ image:
   license: 
   license_url: 
 tags:
-- transparenzgesetz
-- berlin
+- open data
+- open-data-gesetz
+- innenministerium
 type: post
 layout: post
 card: true
