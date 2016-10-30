@@ -21,7 +21,7 @@ menu_themen: yes
       {% for thema in themen %}
       {% if thema.title != page.title %}
 
-        <div class="project-item flex-col col-md-3 col-sm-6 col-xs-12">
+        <div class="project-item flex-col col-md-6 col-sm-6 col-xs-12">
           <div class="project-box text-only mini">
             <a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
               <div class="project-box-inner">
