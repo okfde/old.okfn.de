@@ -949,6 +949,15 @@ header {
   }
 }
 
+.topic {
+  img {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+}
+
 //projekte page
 
 .project-item {
@@ -996,7 +1005,7 @@ header {
       background-position: center center;
       background-repeat: no-repeat;
       transition: 0.2s ease-in;
-      -webkit-transform:translateZ(0);
+      -webkit-transform: translateZ(0);
     }
   }
 
@@ -1007,17 +1016,17 @@ header {
   .project-box-color {
     background: rgb(59, 210, 246); /* Old browsers */
     background: linear-gradient(135deg, rgba(59, 210, 246, 1) 0%, rgba(29, 165, 197, 1) 100%);
-    margin-left:10%;
-    margin-right:10%;
-    width:80% !important;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80% !important;
   }
 
   &.mini {
 
     .project-box-image-wrap {
       .project-box-image {
-      height: 12rem;
-    }
+        height: 12rem;
+      }
     }
 
     .project-box-inner {
@@ -1370,9 +1379,9 @@ header {
         max-height: 150px;
         height: auto;
         width: auto;
-        max-width:100% !important; //important is ie fix
+        max-width: 100% !important; //important is ie fix
         display: block;
-        margin:0 auto;
+        margin: 0 auto;
       }
     }
 
