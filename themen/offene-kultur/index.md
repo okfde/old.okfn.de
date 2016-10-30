@@ -7,13 +7,13 @@ teaser: Der Wert frei nutzbarer Kulturdaten liegt vor allem darin, Kulturinstitu
 
 # Offene Kultur
 
-Viele Kulturinstitutionen nutzen bereits die Möglichkeiten, die ihnen die Digitalisierung und das Internet bieten. Bestände werden digitalisiert und digital aufbereitet, ganze Kunstgattungen gibt es bereits digital. Im heutigen 21. Jahrhundert existieren viele Kultureinrichtungen, wie Museen, Archive und Bibliotheken, bereits seit 100 Jahren oder länger. Doch was ist notwendig, um Institutionen, die vor der Erfindung des Fernsehens etabliert wurden, in der heutigen von Technologien bestimmten Welt bei ihren gesellschaftlichen Aufgaben zu unterstützen?
+Viele Kulturinstitutionen nutzen bereits die Möglichkeiten, die ihnen die Digitalisierung und das Internet bieten. Bestände werden digitalisiert und digital aufbereitet, ganze Kunstgattungen gibt es bereits digital. Im heutigen 21. Jahrhundert existieren viele Kultureinrichtungen, wie Museen, Archive und Bibliotheken, bereits seit 100 Jahren oder länger. Doch was ist notwendig, um Institutionen, die vor der Erfindung des Fernsehens etabliert wurden, in der heutigen von Technologien bestimmten Welt bei ihren gesellschaftlichen Aufgaben zu unterstützen?
 
-In einer digitalen Welt sind Daten die Grundlage von (digital) vernetztem Wissen: mit Menschen, mit Ereignissen und mit der Geschichte. Digitales Kulturerbe als Teil dieses Wissens wird heutzutage von vielen Menschen – unabhängig von Alter, Bildungsstand oder Herkunft – erlebt. 
+In einer digitalen Welt sind Daten die Grundlage von (digital) vernetztem Wissen: mit Menschen, mit Ereignissen und mit der Geschichte. Digitales Kulturerbe als Teil dieses Wissens wird heutzutage von vielen Menschen – unabhängig von Alter, Bildungsstand oder Herkunft – erlebt. 
 
-Doch es besitzt noch ein viel größeres Potenzial: Wenn digitale Kulturgüter im Sinne der Cultural Commons, der Gemeingüter, frei zugänglich und nutzbar gemacht werden, profitieren davon gleichermaßen Kulturinstitutionen und unsere Gesellschaft. 
+Doch es besitzt noch ein viel größeres Potenzial: Wenn digitale Kulturgüter im Sinne der Cultural Commons, der Gemeingüter, frei zugänglich und nutzbar gemacht werden, profitieren davon gleichermaßen Kulturinstitutionen und unsere Gesellschaft. 
 
-Kulturinstitutionen könnten mittels offener Daten die Voraussetzungen für neue Beteiligungsformen schaffen: Neues Wissen kann durch die Kombination und Kontextualisierung von vorhandenen Daten generiert und verbreitet werden. Der Wert frei nutzbarer Kulturdaten liegt vor allem darin, Kulturinstitutionen (GLAM als engl. Akronym für Galleries, Libraries, Archives, Museums) in ihrem gesellschaftlichen Auftrag zu unterstützen, sei es bei der Förderung kultureller Bildung, beim Erforschen von Sammlungsobjekten oder dem Bewahren ebendieser vor dem Zerfall.
+Kulturinstitutionen könnten mittels offener Daten die Voraussetzungen für neue Beteiligungsformen schaffen: Neues Wissen kann durch die Kombination und Kontextualisierung von vorhandenen Daten generiert und verbreitet werden. Der Wert frei nutzbarer Kulturdaten liegt vor allem darin, Kulturinstitutionen (GLAM als engl. Akronym für Galleries, Libraries, Archives, Museums) in ihrem gesellschaftlichen Auftrag zu unterstützen, sei es bei der Förderung kultureller Bildung, beim Erforschen von Sammlungsobjekten oder dem Bewahren ebendieser vor dem Zerfall.
 
 
 ### Wir unterstützen Kulturinstitutionen bei der Bereitstellung ihrer Daten und vernetzen sie mit unserer technik-affinen Community.
