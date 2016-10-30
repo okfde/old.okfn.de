@@ -17,11 +17,14 @@ Kulturinstitutionen könnten mittels offener Daten die Voraussetzungen für neue
 
 
 
+
 ### Wir unterstützen Kulturinstitutionen bei der Bereitstellung ihrer Daten und vernetzen sie mit unserer technik-affinen Community.
 
 > Man kann mit einem Computer Kunst und Schönheit schaffen. (Auszug aus der [hackerethik](https://www.ccc.de/hackerethics))
 
 Wie Projekte offene Kulturdaten nutzen, zeigt unser Kultur-Hackathon "Coding da Vinci", an dem sich seit 2014 über 60 Kultureinrichtungen aus dem gesamten Bundesgebiet beteiligt haben. Eine Auswahl der entstandenen Projekte:
+
+
 
 
 **Kulturchnologie**
@@ -32,11 +35,13 @@ Die Software des Projekts Kulturchronologie dient der anschaulichen Aufbereitung
 
 
 
+
 **Soundwall-App**
 
 ![Soundwall-App](/static/images/topics/soundwallapp.jpg "Soundwall-App")
 
 Die Soundwall-App basiert auf der Musikinstrumentensammlung des Ethnologischen Museum Berlins und möchte es dem Besucher ermöglichen, sich die Instrumente nicht nur anzusehen, sondern sie mit allen Sinnen zu erleben. Die App registriert durch die Augmented Reality-Technologie das Musikinstrument in der Ausstellungsvitrine und spielt dem Nutzer dazugehörige Sounds und Videos ab, die die Spielweise der Instrumente dokumentieren. Mehr [hier](https://codingdavinci.de/projects/2014/soundwallapp.html#project-name).
+
 
 
 
@@ -50,6 +55,8 @@ Archive werden mit steigender Komplexität spannender, aber auch schwieriger zug
 
 
 ### Mehr zu offenen Kulturdaten und unserer Arbeit erfahren?
+
+
 
 
 Eine Einführung zu offenen Kulturdaten: [Kooperativ in die digitale Zeit – wie öffentliche Kulturinstitutionen Cultural Commons fördern](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/5913) (Servicestelle Digitalisierung Berlin, Open Knowledge Foundation Deutschland, Helene Hahn)
