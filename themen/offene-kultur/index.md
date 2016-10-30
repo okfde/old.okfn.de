@@ -1,5 +1,5 @@
 ---
-title: offene kultur
+title: Offene Kultur
 layout: thema
 background: backgrounds/kultur.jpg
 teaser: Der Wert frei nutzbarer Kulturdaten liegt vor allem darin, Kulturinstitutionen in ihrem gesellschaftlichen Auftrag zu unterstützen, sei es bei der Förderung kultureller Bildung, beim Erforschen von Sammlungsobjekten oder dem Bewahren ebendieser vor dem Zerfall.
