@@ -8,9 +8,9 @@ image:
   license: CC-BY-SA 4.0
   license_url: http://creativecommons.org/licenses/by-sa/4.0
 tags:
-- open data
-- open-data-gesetz
-- innenministerium
+- ifg
+- schleswig-holstein
+- informationszugangsgesetz
 type: post
 layout: post
 card: true
