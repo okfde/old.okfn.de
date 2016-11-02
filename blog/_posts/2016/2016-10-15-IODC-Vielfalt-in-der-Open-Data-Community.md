@@ -2,7 +2,7 @@
 authors: Moritz Neujeffski
 date: 2016-10-16 15:00:00
 image:
-  src: /files/blog/2016/10/iodc16.JPG
+  src: /files/blog/2016/10/iodc16.jpg
   title: IODC2016
   license: Press Picture by IODC 
   license_url: 
@@ -22,7 +22,7 @@ Dass offene Daten Auftrieb haben, wird nicht zuletzt durch Initiativen wie die <
 
 <strong>Themen auf der IODC:</strong>
 
-Wie wichtig für viele Bereiche heutzutage die Arbeit mit  offenen Daten geworden ist, spiegelt die Vielzahl an Themen wieder, die auf der IODC im Zeichen von Open Data thematisiert wurden. Offene Daten und Wahlen, Antikorruption, Accountability und International Aid waren nur einige Panels, die die Themen offene Daten und Demokratie verknüpften. Dabei wurde immer wieder deutlich, wie offene Daten zu einem transparenteren Regierungsstil führen können, indem Verantwortlichkeiten durch die Bevölkerung eingefordert werden können.
+Wie wichtig für viele Bereiche heutzutage die Arbeit mit offenen Daten geworden ist, spiegelt die Vielzahl an Themen wieder, die auf der IODC im Zeichen von Open Data thematisiert wurden. Offene Daten und Wahlen, Antikorruption, Accountability und International Aid waren nur einige Panels, die die Themen offene Daten und Demokratie verknüpften. Dabei wurde immer wieder deutlich, wie offene Daten zu einem transparenteren Regierungsstil führen können, indem Verantwortlichkeiten durch die Bevölkerung eingefordert werden können.
 
 Aber auch auf andere Bereiche haben offene Daten längst einen Einfluss gefunden. Fragen nach der Wirtschaftlichkeit von offenen Daten und deren Innovationsgehalt, deren Einfluss auf die Landwirtschaft oder Nutzen für Katastrophenmanagement waren nur einigen von vielen Aspekten, in denen Organisationen konkrete Beispiele vorstellten. 
 Wer sich die Panel -Diskussionen anschauen möchte, <a href="http://opendatacon.org/press-area/downloads/videos/">wird hier fündig</a>.
