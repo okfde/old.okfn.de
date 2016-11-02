@@ -2,7 +2,7 @@
 author: Martin Koll
 date: 2013-05-28 10:51:45
 image:
-  src: http://opendatadayaachen.de/img/logo.jpg
+  src: /files/blog/2013/05/opendatadayaachen-logo.jpg
 layout: post
 tags:
 - Aachen
