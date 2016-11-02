@@ -2,7 +2,7 @@
 author: Daniel Dietrich
 date: 2011-08-27 08:32:57
 image:
-  src: http://farm7.static.flickr.com/6195/6070216816_e619477ae6_z.jpg
+  src: /files/blog/2011/08/6195/6070216816_e619477ae6_z.jpg
 layout: post
 tags:
 - OGDCamp
