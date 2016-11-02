@@ -2,7 +2,7 @@
 authors: Moritz Neujeffski
 date: 2016-10-16 15:00:00
 image:
-  src: /files/blog/2016/10/iodc16.jpg
+  src: /files/blog/2016/10/iodc16.png
   title: IODC2016
   license: Press Picture by IODC 
   license_url: 
