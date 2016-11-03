@@ -1,0 +1,12 @@
+---
+layout: null
+---
+[{% for post in site.posts %}
+
+
+{
+"title":"{{ post.title | escape }}","tags":"{{ post.tags | join: ', ' }}","url":"{{ site.baseurl }}{{ post.url }}","date":"{{ post.date | date:"%d.%m.%Y"}}",
+"authors":"{% assign authors = "" | split:"|"  %}{% if post.author %}{% assign authors = authors | push: post.author %}{% endif %}{% for a in post.authors %}{% assign authors = authors | push: a %}{% endfor %}{% for author in authors %}{{author}}{% unless forloop.last %} und {% endunless %}{% endfor %}",
+"content"  : {{ post.content | strip_html | strip_newlines | remove_chars | escape | replace: '  ', ' ' | jsonify}}
+} {% unless forloop.last %},{% endunless %}
+{% endfor %}]

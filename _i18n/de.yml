@@ -49,6 +49,16 @@ blog:
   VerwandteBeitraege: Verwandte Beiträge
   VorherigerBeitrag: Vorheriger Beitrag
   NaechsterBeitrag: Nächster Beitrag
+  Suche: Suche im Blog
+  SucheNach: Suche nach
+  Autorinnen: Autor*innen
+  Text: Text
+  Titel: Titel
+  Tags: Tags
+  GefundenIn: Suchbegriff gefunden in
+  SucheWirdGeladen: Suche wird geladen...
+  NichtsGefunden: Kein Ergebnis
+  ZurueckZumBlog: Zurück zum Blog
 pagination:
   Seiten: Seiten
   Aktuelle: Aktuelle

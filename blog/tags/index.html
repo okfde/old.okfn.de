@@ -8,7 +8,7 @@ title: titles.Tags
 	<ul class="tag-list">
 		{% sorted_keys_for tag in site.tags %}
 		<li>
-			<a href="{{ site.baseurl }}/blog/tags/{{ tag }}/">{{ tag }}</a>
+			<a href="{{ site.baseurl }}/blog/tags/{{ tag | downcase }}/">{{ tag }}</a>
 			<small>Posts: {{ site.tags[tag].size }}</small>
 		</li>
 		{% endsorted_keys_for %}

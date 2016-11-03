@@ -33,7 +33,7 @@ permalink: blog/:year/:month/:title/
 paginate: 8
 paginate_path: blog/page/:num/
 languages: ["de", "en"]
-exclude_from_localizations: ["static", "files", "style", "js", "fonts", "images"]
+exclude_from_localizations: ["static", "files", "style", "js", "fonts", "images", "search.json"]
 sass:
   sass_dir: static/style/_scss
   style: compressed

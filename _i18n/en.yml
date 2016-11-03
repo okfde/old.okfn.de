@@ -51,6 +51,16 @@ blog:
   VerwandteBeitraege: Related post
   VorherigerBeitrag: Previous post
   NaechsterBeitrag: Next post
+  Suche: Blog Search
+  SucheNach: Search for
+  Autorinnen: Autors
+  Text: Text
+  Titel: Title
+  Tags: Tags
+  GefundenIn: Found query in
+  SucheWirdGeladen: Search is loading...
+  NichtsGefunden: No results found
+  ZurueckZumBlog: Back to the blog
 pagination:
   Seiten: Pages
   Aktuelle: Current

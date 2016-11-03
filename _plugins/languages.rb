@@ -115,7 +115,7 @@ module Jekyll
       end
       lang = context.registers[:site].config['lang']
       unless Jekyll.langs.has_key?(lang)
-        puts "Loading translation from file #{context.registers[:site].source}/_i18n/#{lang}.yml"
+        #puts "Loading translation from file #{context.registers[:site].source}/_i18n/#{lang}.yml"
         Jekyll.langs[lang] = YAML.load_file("#{context.registers[:site].source}/_i18n/#{lang}.yml")
       end
       translation = Jekyll.langs[lang].access(key) if key.is_a?(String)

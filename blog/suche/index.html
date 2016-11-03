@@ -1,0 +1,57 @@
+---
+layout: default
+title: Blog
+menu_blog: yes
+background: backgrounds/folders.jpg
+---
+<div class="lurking-header">
+	<h1>{% t blog.Suche %}</h1>
+	<p class="text-center">
+		<a href="{{ site.baseurl }}/blog/"><i class="icon-left-open"></i> {% t blog.ZurueckZumBlog %}</a>
+	</p>
+</div>
+<div class="search-container">
+	<label>{% t blog.SucheNach %}</label>
+	<input type="text" id="search-input" placeholder="">
+</div>
+<hr>
+<div id="search-result-container">
+	<ul id="results-container" class="list-unstyled"></ul>
+</div>
+<div id="results-template" style="display:none">
+	<article class="post-item">
+		<div class="post-meta">
+			<div class="post-author">
+				<p>{date}</p>
+				<p>{% t blog.Von %} {authors}</p>
+			</div>
+		</div>
+		<div class="post-teaser">
+			<ul class="post-tags">
+				<li>{tags}</li>
+			</ul>
+			<h3 class="post-title"><a href="{url}">{title}</a></h3>
+			<small>{% t blog.GefundenIn %} {found}:</small>
+			<p class="post-excerpt">{excerpt}</p>
+		</div>
+	</article>
+</div>
+<script src="{{ site.staticurl }}/js/jekyll-search.js" type="text/javascript"></script>
+<script>
+	SimpleJekyllSearch({
+		keyNames: {
+			authors: '{% t blog.Autorinnen %}',
+			content: '{% t blog.Text %}',
+			title: '{% t blog.Titel %}',
+			tags: '{% t blog.Tags %}'
+		},
+		noResultsText: '{% t blog.NichtsGefunden %}',
+		LoadingSearchText: '{% t blog.SucheWirdGeladen %}',
+		limit: 20,
+		exclude: ['url', 'date'],
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('results-container'),
+		searchResultTemplate: document.getElementById('results-template').innerHTML,
+		json: '/search.json'
+	})
+</script>
