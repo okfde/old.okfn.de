@@ -2,7 +2,7 @@
 author: Christian Heise
 date: 2015-03-18 13:57:17
 image:
-  src: http://ogpde.okblogfarm.org/files/2015/03/g8-open-data-300x284.png
+  src: /files/2015/03/g8-open-data.png
   title: g8-open-data
 layout: post
 tags:
