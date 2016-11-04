@@ -6,7 +6,7 @@ tags:
 - Termine
 - Berlin
 - Creative Commons
-- Events
+- Event
 - Open Knowledge
 - P2PU
 - Wikimedia

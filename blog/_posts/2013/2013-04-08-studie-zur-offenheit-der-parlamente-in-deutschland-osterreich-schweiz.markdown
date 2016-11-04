@@ -6,7 +6,7 @@ image:
 layout: post
 tags:
 - Behörden
-- offene Daten
+- Offene Daten
 - Transparenz
 title: Studie zur Offenheit der Parlamente in Deutschland, Österreich und der Schweiz
 type: post

@@ -6,7 +6,7 @@ image:
   title: FutureEverything Summit  2013 - Image by TAPE | www.WeAreTAPE.com
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Apps4EU
 - Business Lounge
 - Open Data

@@ -9,7 +9,7 @@ tags:
 - Termine
 - Hackday
 - Open Data
-- open data day
+- Open Data Day
 title: 'Pics: Open Data Day 2013 @ Zeit ONLINE'
 type: post
 ---

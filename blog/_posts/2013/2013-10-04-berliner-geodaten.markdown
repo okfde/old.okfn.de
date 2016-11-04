@@ -5,7 +5,7 @@ layout: post
 tags:
 - Behörden
 - Berlin
-- offene Daten
+- Offene Daten
 - Geodaten
 - Lizenzen
 - Open Transport

@@ -53,7 +53,7 @@ Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-s
 
 **Das Programm der [re:publica](http://re-publica.de/) vom 6. - 8. Mai in Berlin ist online** und bietet wieder eine Menge an Inhalt rund um das Web und dessen gesellschaftlichen Auswirkungen an. Open Science und Open Data ist in diversen Talks enthalten, und es gibt sogar eine eigene Open Science Subconference.
 
-**Im Juni wird [Peter Murray-Rust einen Wien-Besuch absolvieren](http://de.wikipedia.org/wiki/Peter_Murray-Rust)**. Geplant sind - in Zusammenarbeit zwischen OKF-AT und FWF - Events rund um Content Mining und Open Science. Stay tuned!
+**Im Juni wird [Peter Murray-Rust einen Wien-Besuch absolvieren](http://de.wikipedia.org/wiki/Peter_Murray-Rust)**. Geplant sind - in Zusammenarbeit zwischen OKF-AT und FWF - Event rund um Content Mining und Open Science. Stay tuned!
 
 ### openscienceASAP
 

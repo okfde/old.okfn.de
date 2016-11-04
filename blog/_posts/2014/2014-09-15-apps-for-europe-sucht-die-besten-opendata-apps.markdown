@@ -5,13 +5,10 @@ image:
   src: /files/blog/2013/12/a4e_logo.png
 layout: post
 tags:
-- offene Daten
-- Apps
+- Offene Daten
 - Apps4EU
 - Europe
-- innovation
-- offene Daten
-- Wettbewerb
+- Innovation
 title: 'Apps for Europe sucht die besten #opendata Apps'
 type: post
 ---

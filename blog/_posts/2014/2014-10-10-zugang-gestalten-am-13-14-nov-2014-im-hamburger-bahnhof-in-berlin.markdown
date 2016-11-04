@@ -5,7 +5,7 @@ image:
   src: /files/blog/2013/11/Bildschirmfoto-2013-11-28-um-14.00.47-415x159.png
 layout: post
 tags:
-- offene Kultur
+- Offene Kultur
 - Termine
 title: Zugang gestalten! am 13./14. Nov. 2014 im Hamburger Bahnhof in Berlin
 type: post

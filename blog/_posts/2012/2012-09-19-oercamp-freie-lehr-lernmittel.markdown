@@ -6,7 +6,7 @@ image:
   title: ''
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Termine
 title: OER(Camp) - freie Lehr-Lernmittel
 type: post

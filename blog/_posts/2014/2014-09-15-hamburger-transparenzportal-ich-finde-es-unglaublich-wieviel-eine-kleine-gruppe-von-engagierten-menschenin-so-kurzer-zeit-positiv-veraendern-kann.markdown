@@ -6,7 +6,7 @@ image:
   title: hackmack-transparenz-hamburg
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Hamburg
 - HmbTG
 - Transparenz

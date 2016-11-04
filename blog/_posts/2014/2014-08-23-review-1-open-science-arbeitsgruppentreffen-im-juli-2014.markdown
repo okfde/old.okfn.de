@@ -5,8 +5,8 @@ image:
   src: /files/blog/2014/09/open_science_ag_okf_de-415x310.png
 layout: post
 tags:
-- offene Daten
-- offenes Wissen
+- Offene Daten
+- Offenes Wissen
 - Open Science
 title: 'Review: 1. Open Science Arbeitsgruppentreffen im Juli 2014'
 type: post

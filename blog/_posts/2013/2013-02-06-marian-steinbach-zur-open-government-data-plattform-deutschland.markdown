@@ -6,7 +6,7 @@ image:
   title: ''
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - OGDP
 - Open Data
 - Open Government

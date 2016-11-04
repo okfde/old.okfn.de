@@ -3,7 +3,7 @@ author: Eva Panek
 date: 2013-01-07 11:25:35
 layout: post
 tags:
-- frag den staat
+- FragDenStaat
 - Transparenz
 - Informationsfreiheit
 - Open Data

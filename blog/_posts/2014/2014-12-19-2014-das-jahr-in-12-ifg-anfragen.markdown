@@ -3,7 +3,7 @@ author: Arne Semsrott
 date: 2014-12-19 15:56:21
 layout: post
 tags:
-- FragdenStaat
+- FragDenStaat
 - IFG
 title: '2014: Das Jahr in 12 IFG-Anfragen'
 type: post

@@ -3,11 +3,11 @@ author: Daniel Dietrich
 date: 2012-04-26 14:01:50
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Berlin
-- Hack4Europe!
+- Hackathon
 - Open Data
-- open GLAM
+- Open GLAM
 - Open Knowledge
 title: Hack4Europe! 2012 Berlin
 type: post

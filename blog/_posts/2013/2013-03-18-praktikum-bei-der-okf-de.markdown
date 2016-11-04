@@ -5,8 +5,7 @@ image:
   src: /files/blog/2013/03/8210336893_c76839a169_b.jpg
 layout: post
 tags:
-- Berlin
-- OKFN DE
+- Jobs
 title: Praktikum bei der OKF DE
 type: post
 ---

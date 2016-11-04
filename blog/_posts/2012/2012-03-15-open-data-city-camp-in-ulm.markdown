@@ -1,16 +1,14 @@
 ---
-author: Hauke Gierow
+author: Stefan Kaufmann
 date: 2012-03-15 12:29:51
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Ulm
-- Veranstaltungen
+- Event
 title: Open Data City Camp in Ulm
 type: post
 ---
-
-Der folgende Text wurde verfasst von Stefan Kaufmann
 
 Offene Daten sind schön -- aber am wohlsten fühlen sie sich, wenn sie auch von Menschen benutzt und in neue Zusammenhänge, Mashups und praktische Anwendungen geführt werden. Deswegen lädt die [datalove-hochschulgruppe](http://ulmapi.de) am **12\. und 13. Mai** alle Interessierten zum [OpenCityCamp Ulm 2012 an die Universität Ulm.](http://occ-ulm.mixxt.de)
 

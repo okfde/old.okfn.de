@@ -5,8 +5,8 @@ image:
   src: /files/blog/2014/09/open-definition-daten-lizenz-deutschland-415x155.png
 layout: post
 tags:
-- offene Daten
-- OKFN DE
+- Offene Daten
+- Lizenzen
 title: 'Erfolg für Open Data: Datenlizenz Deutschland Version 2.0 ist eine offene Lizenz  (Update)'
 type: post
 ---

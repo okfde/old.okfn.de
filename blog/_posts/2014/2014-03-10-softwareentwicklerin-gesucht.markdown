@@ -3,9 +3,7 @@ author: Fiona Krakenbuerger
 date: 2014-03-10 11:29:11
 layout: post
 tags:
-- Community
 - Jobs
-- OKFN DE
 title: Softwareentwickler/in gesucht
 type: post
 ---

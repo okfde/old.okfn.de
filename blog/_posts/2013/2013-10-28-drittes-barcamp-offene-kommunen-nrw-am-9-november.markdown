@@ -9,7 +9,7 @@ tags:
 - Barcamp
 - Behörden
 - Community
-- Events
+- Event
 - Kommune
 - NRW
 - Open Government

@@ -7,7 +7,7 @@ layout: post
 tags:
 - Termine
 - Behörden
-- offene Daten
+- Offene Daten
 - Open Government
 title: 2. Community Workshop zur Open Government Plattform Deutschland
 type: post

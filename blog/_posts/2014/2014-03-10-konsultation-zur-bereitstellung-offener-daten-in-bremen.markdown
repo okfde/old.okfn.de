@@ -8,7 +8,7 @@ layout: post
 tags:
 - Behörden
 - Bremen
-- offene Daten
+- Offene Daten
 - Open Government
 - Transparenz
 title: Konsultation zur Bereitstellung offener Daten in Bremen

@@ -3,7 +3,7 @@ author: Hauke Gierow
 date: 2012-04-02 10:06:45
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Datenkataloge
 - Infrastruktur
 - Open Data

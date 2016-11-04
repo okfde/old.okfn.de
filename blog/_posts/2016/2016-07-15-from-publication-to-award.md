@@ -10,8 +10,8 @@ type: post
 layout: post
 card: true
 tags:
-- public procurement
-- fiscal transparency
+- Public Procurement
+- Fiscal Transparency
 - English
 title: "From Publication to Award -
 The story of the missing information in the tender cycle"

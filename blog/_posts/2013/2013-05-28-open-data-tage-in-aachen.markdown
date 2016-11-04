@@ -6,10 +6,10 @@ image:
 layout: post
 tags:
 - Aachen
-- Events
+- Event
 - Hackday
 - Konferenz
-- offene Daten
+- Offene Daten
 - Open Data
 - Open Government
 title: Open Data Tage in Aachen

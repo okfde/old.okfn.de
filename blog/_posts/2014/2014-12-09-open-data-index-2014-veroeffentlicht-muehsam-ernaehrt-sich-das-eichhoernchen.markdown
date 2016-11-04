@@ -6,8 +6,8 @@ image:
   title: OpenDataIceberg
 layout: post
 tags:
-- offene Daten
-- openindex14
+- Offene Daten
+- Open Data Index
 title: 'Open Data Index 2014 veröffentlicht: Mühsam ernährt sich das Eichhörnchen'
 type: post
 ---

@@ -7,7 +7,7 @@ layout: post
 tags:
 - Berlin
 - Konferenz
-- offenes Wissen
+- Offenes Wissen
 - Wikimedia
 title: 'Wikipedia Academy 2012: Research and Free Knowledge'
 type: post

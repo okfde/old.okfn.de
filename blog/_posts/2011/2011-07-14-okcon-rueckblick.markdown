@@ -3,10 +3,9 @@ author: Daniel Dietrich
 date: 2011-07-14 17:39:15
 layout: post
 tags:
-- Berlin
 - OKCon
-- OKFN DE
 - Open Knowledge
+- Event
 title: OKCon Rückblick
 type: post
 ---

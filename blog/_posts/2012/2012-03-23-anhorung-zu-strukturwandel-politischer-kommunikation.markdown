@@ -4,7 +4,7 @@ date: 2012-03-23 08:32:22
 layout: post
 tags:
 - Anhörung
-- FragdenStaat
+- FragDenStaat
 - Informationsfreiheit
 title: Anhörung zu Strukturwandel politischer Kommunikation
 type: post

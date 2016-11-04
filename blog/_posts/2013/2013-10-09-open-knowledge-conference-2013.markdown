@@ -6,10 +6,8 @@ image:
   title: OKCon Banner
 layout: post
 tags:
-- Termine
 - Community
 - Europe
-- Events
 - Konferenz
 - OKCon
 - OKFN DE

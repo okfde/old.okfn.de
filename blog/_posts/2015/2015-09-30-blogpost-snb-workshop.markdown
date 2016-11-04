@@ -5,11 +5,10 @@ image:
   src: /files/blog/2015/09/blackout-head.png
 layout: post
 tags:
-- Workshops
+- Workshop
 - Hackday
-- Energieversorgung
-- offene Daten
-- Blackout
+- Energie
+- Offene Daten
 title: Hackday zum Thema Energieversorgung und Blackout am 14. November 2015
 type: post
 ---

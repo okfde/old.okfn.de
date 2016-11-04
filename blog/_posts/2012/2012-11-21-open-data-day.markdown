@@ -3,7 +3,7 @@ author: Eva Panek
 date: 2012-11-21 15:41:59
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Community
 - Hackday
 - Open Data

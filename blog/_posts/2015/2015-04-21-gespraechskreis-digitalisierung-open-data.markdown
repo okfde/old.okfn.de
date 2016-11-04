@@ -6,7 +6,7 @@ image:
   title: Types of Data
 layout: post
 tags:
-- Veranstaltung
+- Event
 - Open Data
 title: "Gesprächskreis Digitalisierung in Politik & Verwaltung: Open Data am 30.4."
 type: post

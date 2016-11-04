@@ -6,7 +6,7 @@ image:
   title: BMWI_iwg_stellungnahme
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Positionen
 title: Gemeinsame Stellungnahme zum Entwurf eines Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen (IWG)
 type: post

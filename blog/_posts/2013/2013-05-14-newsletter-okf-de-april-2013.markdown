@@ -7,14 +7,13 @@ image:
 layout: post
 tags:
 - Berlin
-- Events
-- Nahverkehr
+- Event
+- Verkehr
 - Newsletter
-- offener Haushalt
+- Offener Haushalt
 - OKCon
 - OKFN DE
 - Open Transport
-- VBB
 title: Newsletter OKF DE April 2013
 type: post
 ---

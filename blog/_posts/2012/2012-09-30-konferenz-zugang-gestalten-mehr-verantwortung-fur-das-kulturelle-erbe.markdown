@@ -7,7 +7,7 @@ tags:
 - Bibliotheken
 - Konferenz
 - Kulturgut
-- open GLAM
+- Open GLAM
 title: Konferenz Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe
 type: post
 ---

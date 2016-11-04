@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2012-02-16 09:00:32
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 title: 'BpB: Online-Dossier zu Open Data'
 type: post
 ---

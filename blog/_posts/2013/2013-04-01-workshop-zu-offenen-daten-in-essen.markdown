@@ -4,7 +4,7 @@ date: 2013-04-01 17:17:53
 layout: post
 tags:
 - Termine
-- offene Daten
+- Offene Daten
 - Workshop
 title: Workshop zu offenen Daten in Essen
 type: post

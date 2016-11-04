@@ -6,14 +6,10 @@ image:
   title: Get ready!
 layout: post
 tags:
-- Berlin
-- Community
-- Europe
-- Events
+- Termine
 - Konferenz
-- offenes Wissen
-- OKFN DE
-- OKFest
+- Offenes Wissen
+- OKFestival
 title: OKFestival 2014 - erstes Vorbereitungstreffen am 21. November
 type: post
 ---

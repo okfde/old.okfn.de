@@ -6,8 +6,7 @@ image:
 layout: post
 tags:
 - Jobs
-- OKFN DE
-- Transparency
+- Transparenz
 - Whistleblowing
 title: 'Wir suchen: Projektmanagerin (w/m) für DIGIWHIST - ein H2020 EU-Forschungsprojekt "The Digital Whistleblower. Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed (DIGIWHIST)"'
 type: post

@@ -7,11 +7,11 @@ image:
 layout: post
 tags:
 - Berlin
-- Events
+- Event
 - Konferenz
-- offene Daten
-- offene Kultur
-- offenes Wissen
+- Offene Daten
+- Offene Kultur
+- Offenes Wissen
 - Termine
 title: OK Festival 2014 – Das internationale Festival für offenes Wissen kommt nach Berlin
 type: post

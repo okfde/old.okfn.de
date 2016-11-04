@@ -7,8 +7,8 @@ image:
 layout: post
 tags:
 - Berlin
-- Events
-- offene Daten
+- Event
+- Offene Daten
 - Open Data
 title: 1st International Open Data Dialogue
 type: post

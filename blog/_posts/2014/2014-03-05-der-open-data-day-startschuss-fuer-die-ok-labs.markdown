@@ -7,8 +7,8 @@ layout: post
 tags:
 - Code for Germany
 - Community
-- offene Daten
-- offenes Wissen
+- Offene Daten
+- Offenes Wissen
 - OKFN DE
 - Open Access
 - Open Data

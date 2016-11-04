@@ -6,7 +6,7 @@ image:
 layout: post
 tags:
 - Konferenz
-- offenes Wissen
+- Offenes Wissen
 - Open Access
 - Open Science
 title: 'Rückblick: Open Access Tage 2013 in Hamburg'

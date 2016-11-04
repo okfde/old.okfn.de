@@ -5,7 +5,7 @@ image:
   src: /files/blog/2015/02/image001.jpg
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Konferenz
 - Open Data
 - Open Government

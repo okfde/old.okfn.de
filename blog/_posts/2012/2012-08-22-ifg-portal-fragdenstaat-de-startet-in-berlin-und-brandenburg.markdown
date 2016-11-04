@@ -3,9 +3,8 @@ author: Daniel Dietrich
 date: 2012-08-22 17:15:30
 layout: post
 tags:
-- frag den staat
+- FragDenStaat
 - Informationsfreiheit
-- OKFN DE
 - Transparenz
 title: IFG-Portal “FragDenStaat.de” startet in Berlin und Brandenburg
 type: post

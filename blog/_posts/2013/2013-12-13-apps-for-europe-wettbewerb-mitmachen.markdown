@@ -5,10 +5,9 @@ image:
   src: /files/blog/2013/12/a4e_logo.png
 layout: post
 tags:
-- Apps
 - Apps4EU
 - Europe
-- offene Daten
+- Offene Daten
 - Open Data
 title: Apps for Europe Wettbewerb - mitmachen!
 type: post

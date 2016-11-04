@@ -7,7 +7,7 @@ image:
 layout: post
 tags:
 - Behörden
-- offene Daten
+- Offene Daten
 title: Offene Lizenzen für Daten und Dokumente der Deutschen Verwaltung
 type: post
 ---

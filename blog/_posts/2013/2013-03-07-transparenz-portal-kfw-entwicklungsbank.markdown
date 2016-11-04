@@ -6,8 +6,8 @@ image:
 layout: post
 tags:
 - Transparenz
-- kfw
-- offene Daten
+- KFW
+- Offene Daten
 - Open Aid
 title: Transparenz Portal KfW-Entwicklungsbank
 type: post

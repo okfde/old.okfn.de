@@ -5,8 +5,8 @@ image:
   src: /files/blog/2014/07/geisteswissenschaften-schulungsmaterialien.png
 layout: post
 tags:
-- offene Kultur
-- offenes Wissen
+- Offene Kultur
+- Offenes Wissen
 title: Offene Lehr- und Lernmaterialien für digitale Geisteswissenschaften
 type: post
 ---

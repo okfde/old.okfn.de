@@ -7,7 +7,7 @@ image:
   title: Datenschule
   license: "[CC-BY 3.0 Datenschule, Design: Montebelo, Martin Wunderer](https://creativecommons.org/licenses/by/3.0/de/)"
 tags:
-- jobs
+- Jobs
 type: post
 layout: post
 card: true

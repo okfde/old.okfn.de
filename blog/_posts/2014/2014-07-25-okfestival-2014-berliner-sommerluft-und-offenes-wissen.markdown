@@ -6,7 +6,6 @@ image:
   title: OKFestival-2014
 layout: post
 tags:
-- OKFest14
 - OKFestival
 title: 'OKFestival 2014: Berliner Sommerluft und offenes Wissen'
 type: post

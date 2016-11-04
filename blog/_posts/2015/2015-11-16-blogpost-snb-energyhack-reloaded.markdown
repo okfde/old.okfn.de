@@ -5,11 +5,10 @@ image:
   src: /files/blog/2015/11/ehr-intro.jpg
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Hackday
-- offene Energiedaten
-- Energieversorgung
-- Wirtschaft
+- Energie
+- Energy Hack
 title: So war der Energyhack Reloaded!
 type: post
 ---

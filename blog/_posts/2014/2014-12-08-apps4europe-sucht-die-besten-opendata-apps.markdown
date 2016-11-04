@@ -6,8 +6,7 @@ image:
   title: a4e_logo
 layout: post
 tags:
-- offene Daten
-- Apps
+- Offene Daten
 - Apps4EU
 - Community
 - Open Data

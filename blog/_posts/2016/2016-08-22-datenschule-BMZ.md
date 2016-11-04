@@ -11,9 +11,9 @@ type: post
 layout: post
 card: true
 tags:
-- civic tech
-- data literacy
-- ngo
+- Civic Tech
+- Data Literacy
+- NGO
 ---
 
 Für den diesjährigen Tag der offenen Tür öffnet das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) wieder seine Pforten. Am Sonntag, den 28. August, sind auch dieses Jahr zahlreiche Nichtregierungsorganisationen und Initiativen in der Stresemannstraße 94 in Berlin vertreten, um sich und ihre Projekte vorzustellen. Die Open Knowledge Foundation ist mit dabei! Die Datenschule und 2030 Watch sind mit einem Infostand vor Ort und werden über uns und unsere Arbeit berichten.

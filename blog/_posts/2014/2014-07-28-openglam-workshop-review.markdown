@@ -5,7 +5,7 @@ image:
   src: /files/blog/2014/07/IMAG0174.jpg
 layout: post
 tags:
-- offene Kultur
+- Offene Kultur
 title: OpenGLAM Workshop Review
 type: post
 ---

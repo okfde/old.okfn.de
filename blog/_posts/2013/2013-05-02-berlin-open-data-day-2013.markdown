@@ -8,8 +8,8 @@ layout: post
 tags:
 - Termine
 - Berlin
-- Events
-- offene Daten
+- Event
+- Offene Daten
 - Open Data
 title: Berlin Open Data Day 2013
 type: post

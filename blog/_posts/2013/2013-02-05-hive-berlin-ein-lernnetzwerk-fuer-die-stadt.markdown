@@ -8,7 +8,7 @@ layout: post
 tags:
 - Termine
 - Berlin
-- offenes Wissen
+- Offenes Wissen
 title: 'Hive Berlin: Ein Lernnetzwerk für die Stadt'
 type: post
 ---

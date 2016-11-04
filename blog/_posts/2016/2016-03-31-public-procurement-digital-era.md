@@ -10,9 +10,8 @@ type: post
 layout: post
 card: true
 tags:
-- public procurement
-- fiscal transparency
-- English
+- Public Procurement
+- Fiscal Transparency
 title: "Public procurement in Europe needs to enter the digital era"
 ---
 Approximately 20% of the EU’s GDP every year is spent on procuring public goods and some estimate that the costs added to government contracts due to corruption amount to around 20-25%. This is a striking amount and it is even more worrying considering that it compromises widely supported public goals such a building safe highways, high quality school buildings, or delivering medicine for a fair price. This is one of the main reasons why more research needs to be done to make public procurement more efficient and transparent. Addressing this gap is what this new EU-funded large-scale project, <a href="http://digiwhist.eu">DIGIWHIST</a>, does. 

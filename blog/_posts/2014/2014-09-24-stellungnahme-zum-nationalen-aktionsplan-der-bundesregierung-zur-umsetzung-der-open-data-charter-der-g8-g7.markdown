@@ -6,7 +6,7 @@ image:
   title: g8-aktions-plan - open-data
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Positionen
 - G7
 - G8

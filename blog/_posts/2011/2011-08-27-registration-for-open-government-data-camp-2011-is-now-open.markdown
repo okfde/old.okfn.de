@@ -6,7 +6,6 @@ image:
 layout: post
 tags:
 - OGDCamp
-- OKFN DE
 - Open Data
 - Open Government
 title: Registration for Open Government Data Camp 2011 is now open!

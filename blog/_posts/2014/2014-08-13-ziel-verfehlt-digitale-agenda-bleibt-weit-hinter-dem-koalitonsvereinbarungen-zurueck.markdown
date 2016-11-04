@@ -6,8 +6,7 @@ image:
 layout: post
 tags:
 - Digitale Agenda
-- offene Daten
-- OKFN DE
+- Offene Daten
 - Open Government
 title: 'Ziel (bisher) verfehlt: Digitale Agenda bleibt weit hinter den Koalitonsvereinbarungen zurück'
 type: post

@@ -6,11 +6,9 @@ image:
   title: Open Data Census
 layout: post
 tags:
-- Apps
 - Behörden
-- BerlinerOpenDataDay
-- Community
-- Energyhackday
+- Open Data Day
+- Energy Hack
 - FragDenStaat
 - Hackday
 - Interactive Cologne
@@ -18,9 +16,7 @@ tags:
 - Nahverkehr
 - Open GLAM
 - Open Transport
-- OpenDataCensus
-- OpenWeatherMap
-- PublicDomainRemix
+- Open Data Census
 title: Aktivitäten und Projekte im Juni 2013
 type: post
 ---

@@ -6,8 +6,8 @@ image:
 layout: post
 tags:
 - Positionen
-- offene Daten
-- OpenParl2014
+- Offene Daten
+- OpenParl
 title: Kampagne für offene Parlamente im Rahmen der Global Legislative Openness Week
 type: post
 ---

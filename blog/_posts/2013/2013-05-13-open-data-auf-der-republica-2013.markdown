@@ -5,12 +5,12 @@ image:
   src: /files/blog/2013/05/republica_13_blog.jpg
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Berlin
 - Konferenz
 - Open Access
 - Open Data
-- open GLAM
+- Open GLAM
 - Open Transport
 title: Open Data auf der re:publica 2013
 type: post

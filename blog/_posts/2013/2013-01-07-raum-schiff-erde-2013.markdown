@@ -6,7 +6,7 @@ image:
 layout: post
 tags:
 - Termine
-- Events
+- Event
 - Open Data
 - Open Innovation
 title: Raum Schiff Erde 2013

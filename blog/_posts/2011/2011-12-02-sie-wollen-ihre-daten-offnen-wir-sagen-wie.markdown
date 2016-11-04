@@ -5,7 +5,7 @@ layout: post
 tags:
 - Behörden
 - Knowledge Base
-- offene Daten
+- Offene Daten
 title: Sie wollen Ihre Daten öffnen? Wir sagen wie!
 type: post
 ---

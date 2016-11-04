@@ -10,7 +10,7 @@ tags:
 - Hackday
 - Konferenz
 - Open Education
-- open GLAM
+- Open GLAM
 - Open Government
 title: Aktivitäten und Projekte im August 2013
 type: post

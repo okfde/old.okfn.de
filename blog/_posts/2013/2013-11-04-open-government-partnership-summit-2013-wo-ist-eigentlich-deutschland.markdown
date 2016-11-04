@@ -5,7 +5,7 @@ image:
   src: /files/blog/2013/11/ogp_summit_heise_pawelke.png
 layout: post
 tags:
-- OGP
+- OGP Summit
 - Open Government Partnership
 title: 'Open Government Partnership Summit 2013: "Wo ist eigentlich Deutschland?"'
 type: post

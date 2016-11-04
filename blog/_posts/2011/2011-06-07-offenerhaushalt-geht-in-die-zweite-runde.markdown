@@ -3,7 +3,7 @@ author: Friedrich Lindenberg
 date: 2011-06-07 05:40:10
 layout: post
 tags:
-- offener Haushalt
+- Offener Haushalt
 - Transparenz
 title: OffenerHaushalt geht in die zweite Runde!
 type: post

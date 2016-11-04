@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2011-12-12 11:32:29
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Europe
 - Lizenzen
 - Open Data

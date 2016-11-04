@@ -7,7 +7,7 @@ image:
 layout: post
 tags:
 - Termine
-- offenes Wissen
+- Offenes Wissen
 - Creative Commons
 title: Creative-Commons Lizenztextlesung auf der alle Fragen rund um freie Lizenzen gestellt werden können
 type: post

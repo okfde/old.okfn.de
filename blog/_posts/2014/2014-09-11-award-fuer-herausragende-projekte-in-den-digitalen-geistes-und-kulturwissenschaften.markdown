@@ -5,7 +5,7 @@ image:
   src: /files/blog/2014/09/dh-award-logo-415x231.png
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - DARIAH
 title: Award für herausragende Projekte in den digitalen Geistes- und Kulturwissenschaften
 type: post

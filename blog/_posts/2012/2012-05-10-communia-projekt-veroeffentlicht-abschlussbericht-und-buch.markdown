@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2012-05-10 06:41:43
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Commons
 - COMMUNIA
 - Open Knowledge

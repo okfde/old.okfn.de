@@ -6,11 +6,11 @@ image:
   title: Zugang gestalten
 layout: post
 tags:
-- offene Kultur
-- kulturelles Erbe
+- Offene Kultur
+- Kulturelles Erbe
 - Museum
-- offenes Wissen
-- OpenGLAM
+- Offenes Wissen
+- Open GLAM
 title: Konferenz „Zugang gestalten" Livestream
 type: post
 ---

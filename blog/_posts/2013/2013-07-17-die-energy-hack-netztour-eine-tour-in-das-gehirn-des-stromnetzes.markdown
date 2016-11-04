@@ -6,8 +6,7 @@ image:
   title: Energy Hack "Gridtour"
 layout: post
 tags:
-- Energiedaten
-- Energy
+- Energie
 - Energy Hack
 - Hackday
 title: Die "Energy Hack" Netztour – Eine Tour in das Gehirn des Stromnetzes

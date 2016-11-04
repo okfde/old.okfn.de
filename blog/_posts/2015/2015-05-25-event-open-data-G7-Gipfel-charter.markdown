@@ -5,7 +5,7 @@ image:
   src: http://farm4.staticflickr.com/3752/9075252444_43b30267fa_c.jpg
 layout: post
 tags:
-- Veranstaltung
+- Event
 title: "Podiumsdiskussion: Der G7 Gipfel und Open Government Data"
 type: post
 ---

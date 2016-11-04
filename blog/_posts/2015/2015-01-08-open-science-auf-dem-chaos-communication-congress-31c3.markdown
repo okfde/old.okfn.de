@@ -7,7 +7,7 @@ image:
   license: "CC-BY [Konrad Förstner](http://konrad.foerstner.org/)"
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Open Science
 title: Gastbeitrag - Open Science auf dem Chaos Communication Congress (31C3)
 type: post

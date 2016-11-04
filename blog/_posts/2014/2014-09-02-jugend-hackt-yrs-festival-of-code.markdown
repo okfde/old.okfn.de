@@ -6,11 +6,10 @@ image:
   title: Jugend hackt beim Festival of Code
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Festival of Code
 - Jugend hackt
-- Lets Combine
-- YRS
+- Event
 title: Jugend hackt-Teilnehmer feiern Erfolg beim Festival of Code
 type: post
 ---

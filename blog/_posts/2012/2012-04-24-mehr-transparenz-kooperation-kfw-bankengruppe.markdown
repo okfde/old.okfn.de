@@ -6,7 +6,7 @@ image:
   title: KfW Förderreport Webseite
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 title: 'Mehr Transparenz: Kooperation KfW-Bankengruppe'
 type: post
 ---

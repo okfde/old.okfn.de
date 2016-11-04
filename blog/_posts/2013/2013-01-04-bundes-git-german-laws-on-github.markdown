@@ -5,11 +5,11 @@ image:
   src: /files/blog/2013/01/bundesgit_intro.png
 layout: post
 tags:
-- bundesgit
+- BundesGit
 - Bundestag
-- offene Daten
-- Gesetz
-- github
+- Offene Daten
+- Offene Gesetze
+- Github
 - Innovation
 - Politik
 title: Bundes-Git – German Laws on GitHub

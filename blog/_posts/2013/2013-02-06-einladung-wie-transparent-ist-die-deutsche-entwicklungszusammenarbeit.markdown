@@ -9,7 +9,7 @@ tags:
 - Termine
 - IATI
 - Offene Entwicklungszusammenarbeit
-- Open Aid Data
+- Open Aid
 - Transparenz
 title: 'Einladung: Wie transparent ist die deutsche Entwicklungszusammenarbeit?'
 type: post

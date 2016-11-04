@@ -5,7 +5,7 @@ image:
   src: /files/blog/2015/08/smarte-buerger.png
 layout: post
 tags:
-- Workshops
+- Workshop
 - Verbraucherschutz
 title: Smarte Bürger - Diskussionsrunde im Abgeordnetenhaus zu Verbraucherschutz in der digitalen Welt
 type: post

@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2011-12-09 15:29:25
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Open Data
 - Open Government
 - PSI

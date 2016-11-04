@@ -5,14 +5,11 @@ image:
   src: /files/blog/2013/06/horse_rain.jpg
 layout: post
 tags:
-- Behörden
-- Berlin
-- bundesgit
-- Energy
+- BundesGit
+- Energy Hack
 - Hackday
 - Lizenzen
 - Nahverkehr
-- OKFN DE
 - Open Government
 - Open Transport
 - Transparenz

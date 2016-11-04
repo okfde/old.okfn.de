@@ -5,7 +5,7 @@ image:
   src: /files/blog/2013/09/jugendhackt031.jpg
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 title: Jugend hackt - erster Rückblick
 type: post
 ---

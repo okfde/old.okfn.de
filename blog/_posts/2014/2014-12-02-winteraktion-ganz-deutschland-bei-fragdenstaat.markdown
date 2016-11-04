@@ -6,7 +6,7 @@ image:
 layout: post
 tags:
 - Bremen
-- FragdenStaat
+- FragDenStaat
 - IFG
 title: 'Winteraktion: Ganz Deutschland bei FragDenStaat'
 type: post

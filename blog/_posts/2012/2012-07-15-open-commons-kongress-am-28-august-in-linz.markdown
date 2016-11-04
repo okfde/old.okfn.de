@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2012-07-15 06:50:02
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 title: Open Commons Kongress am 28. August in Linz
 type: post
 ---

@@ -3,11 +3,10 @@ author: Daniel Dietrich
 date: 2012-05-11 07:00:34
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Berlin
-- Europe
 - Europeana
-- Hack4Europe!
+- Hack4Europe
 - Hackday
 title: Hack4Europe! am 5. und 6. Juni 2012 in der Staatsbibliothek zu Berlin
 type: post

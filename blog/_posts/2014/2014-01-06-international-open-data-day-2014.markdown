@@ -9,8 +9,7 @@ tags:
 - Event
 - Termine
 - Hackday
-- Open Data
-- Veranstaltung
+- Open Data Day
 title: International Open Data Day 2014
 type: post
 ---

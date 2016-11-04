@@ -3,8 +3,7 @@ author: Daniel Dietrich
 date: 2013-02-16 17:28:47
 layout: post
 tags:
-- OKFN DE
-- OKFN DE
+- Jobs
 title: OKF DE sucht Verstärkung!
 type: post
 ---

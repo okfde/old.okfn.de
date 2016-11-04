@@ -5,11 +5,11 @@ image:
   src: /files/blog/2014/03/klein.png
 layout: post
 tags:
-- offene Kultur
-- offenes Wissen
+- Offene Kultur
+- Offenes Wissen
 - Kulturdaten
 - Open Culture
-- OpenGLAM
+- Open GLAM
 title: Coding da Vinci - Der Kultur-Hackathon
 type: post
 ---

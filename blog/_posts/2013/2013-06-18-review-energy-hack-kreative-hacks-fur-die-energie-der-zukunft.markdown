@@ -6,8 +6,8 @@ image:
   title: Hackday Crowd
 layout: post
 tags:
-- Energy
-- Entwickler
+- Energie
+- Energy Hack
 - Hackday
 - Open Data
 title: Review Energy Hack – Kreative Hacks für die Energie der Zukunft

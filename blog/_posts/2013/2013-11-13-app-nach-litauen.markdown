@@ -6,7 +6,7 @@ image:
   title: IMG_2294
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 title: App nach Litauen
 type: post
 ---

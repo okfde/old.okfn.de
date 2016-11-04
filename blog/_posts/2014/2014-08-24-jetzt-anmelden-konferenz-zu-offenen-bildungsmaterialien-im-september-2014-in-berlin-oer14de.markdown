@@ -5,7 +5,7 @@ image:
   src: /files/blog/2014/08/OERde14_grau_breit-415x294.png
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Termine
 - OER
 - OER14de

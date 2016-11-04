@@ -6,8 +6,7 @@ image:
 layout: post
 tags:
 - EITI
-- offene Daten
-- OKFN DE
+- Offene Daten
 - Transparenz
 title: Umsetzung der Extractive Industries Transparency Initiative (EITI) in Deutschland
 type: post

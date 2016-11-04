@@ -4,11 +4,11 @@ date: 2013-09-10 14:41:26
 layout: post
 tags:
 - Gedächtnisorganisation
-- offenes Wissen
-- kulturelles Erbe
+- Offenes Wissen
+- Kulturelles Erbe
 - Langzeitarchivierung
-- offenes Wissen
-- open GLAM
+- Offenes Wissen
+- Open GLAM
 title: Berliner Appell zum Erhalt des digitalen Kulturerbes - mitzeichnen!
 type: post
 ---

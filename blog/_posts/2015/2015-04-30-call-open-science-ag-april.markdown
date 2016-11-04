@@ -7,7 +7,7 @@ image:
 layout: post
 tags:
 - Open Science
-- Veranstaltung
+- Event
 title: "Rückblick: Monatlicher Open Science AG Call im April 2015"
 type: post
 ---

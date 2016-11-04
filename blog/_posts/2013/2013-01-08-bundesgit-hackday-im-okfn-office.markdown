@@ -5,7 +5,7 @@ image:
   src: /files/blog/2013/01/bundesgit_intro.png
 layout: post
 tags:
-- bundesgit
+- BundesGit
 - Termine
 - Hackday
 - Open Data

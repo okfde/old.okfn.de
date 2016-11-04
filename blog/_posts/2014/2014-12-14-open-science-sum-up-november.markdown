@@ -1,8 +1,5 @@
 ---
 author: Stefan Kasberger
-categories:
-- Featured
-- Open Science
 date: 2014-12-14 19:27:55
 image:
   src: http://openscienceasap.org/wp-content/uploads/2014/12/MapoftheMoon-580x580.jpg
@@ -11,7 +8,7 @@ layout: post
 published: true
 status: publish
 tags:
-- openscienceASAP
+- Open Science
 title: Open Science Sum-Up November
 type: post
 

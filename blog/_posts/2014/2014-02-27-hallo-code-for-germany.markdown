@@ -6,13 +6,12 @@ image:
   title: Code for Germany
 layout: post
 tags:
-- offene Daten
-- civic tech
-- Deutschlandweit
+- Offene Daten
+- Civic Tech
 - Hackday
 - Labs
 - Open Data
-- Städte
+- Code for Germany
 title: Hallo, Code for Germany
 type: post
 ---

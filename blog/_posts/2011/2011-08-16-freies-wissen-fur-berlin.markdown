@@ -3,8 +3,8 @@ author: Daniel Dietrich
 date: 2011-08-16 16:32:00
 layout: post
 tags:
-- Berlin
-- offenes Wissen
+- Event
+- Offenes Wissen
 - Wikimedia
 title: Freies Wissen für Berlin
 type: post

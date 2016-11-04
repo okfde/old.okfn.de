@@ -5,7 +5,7 @@ image:
   src: /files/blog/2015/04/ots.png
 layout: post
 tags:
-- Veranstaltung
+- Event
 title: "Open Tech Summit in Berlin am 14. Mai"
 type: post
 ---

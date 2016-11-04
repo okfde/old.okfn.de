@@ -9,8 +9,8 @@ tags:
 - Termine
 - Berlin
 - Konferenz
-- offenes Wissen
-- open GLAM
+- Offenes Wissen
+- Open GLAM
 title: 'Save the date: Konferenz Zugang gestalten! 28./29. November 2013'
 type: post
 ---

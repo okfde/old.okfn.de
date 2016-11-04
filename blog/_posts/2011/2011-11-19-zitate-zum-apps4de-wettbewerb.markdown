@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2011-11-19 07:00:41
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Apps4DE
 - Open Data
 title: Ein paar schöne Zitate zum Apps4DE Wettbewerb

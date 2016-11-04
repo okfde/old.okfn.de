@@ -5,9 +5,7 @@ layout: post
 tags:
 - Termine
 - Berlin
-- BerlinerOpenDataDay
-- BODDy
-- BODDyII
+- Open Data Day
 - Open Data
 - Verwaltung
 title: Jetzt anmelden zum Berliner Open Data Day 2012
@@ -16,8 +14,8 @@ type: post
 
 Wie können offene Daten und Transparenz im Handeln der Verwaltung nachhaltig verankert werden? Wie kann noch mehr Vertrauen und Verständnis zwischen den Akteuren hergestellt werden? Wie können den Bürgern die Vorteile offen zugänglicher Daten noch näher gebracht werden? Unter dem Motto “Näher am Bürger - näher an den Daten” lädt die Aktionsplattform Berlin Open Data am Mittwoch, 6. Juni 2012, von 10 bis 18 Uhr zum zweiten Berlin Open Data Day (BODDy) ins Rote Rathaus in Berlin-Mitte.
 
-**Berlin setzt Maßstäbe  
-**  
+**Berlin setzt Maßstäbe**
+
 Berlin hat in Sachen Open Government und Open Data in Deutschland bereits Maßstäbe gesetzt. Noch vor den Wahlen zum Abgeordnetenhaus startete das landesweite Open-Data-Portal [www.daten.berlin.de](http://www.daten.berlin.de), im Februar 2012 veröffentlichte der Senat in Zusammenarbeit mit dem Fraunhofer Institut für offene Kommunikationssystem (FOKUS) die Open-Data-Strategie des Landes.
 
 **Berlin muss noch offener werden**

@@ -4,7 +4,7 @@ date: 2011-12-19 09:00:24
 layout: post
 tags:
 - Positionen
-- offener Haushalt
+- Offener Haushalt
 - Open Data
 - Transparenz
 title: Strategische Anregungen zur Öffnung von Haushaltswesen und Haushaltsdaten

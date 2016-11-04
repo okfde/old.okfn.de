@@ -1,23 +1,15 @@
 ---
 author: Christian Heise
-categories:
-- Deutschland
-- offene Daten
 date: 2014-01-13 13:35:03
 image:
   src: /files/blog/2013/06/charta_open_data_okf.png
   title: charta_open_data_okf
 layout: post
-published: true
-status: publish
 tags:
-- G8
 - Open Data
 - Open Data Charter
 title: Empfehlungen für den deutschen Aktionsplan zur Umsetzung der "Open Data"-Charta der G8
 type: post
-
-
 ---
 
 Im Sommer 2013 unterzeichneten die G8 Staaten, darunter auch Deutschland, ü[berraschend die “Open Data"-Charta](/blog/2013/06/open-is-the-new-normal-g8-mitglieder-zeichnen-open-data-charter/). Die Unterzeichnerländer verpflichteten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern.

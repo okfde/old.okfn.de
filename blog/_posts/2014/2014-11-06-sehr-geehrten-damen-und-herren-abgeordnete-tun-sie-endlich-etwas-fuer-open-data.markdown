@@ -6,7 +6,7 @@ image:
   title: sachverstaendige schildchen
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Digitale Agenda
 title: Sehr geehrte Damen und Herren Abgeordnete... tun Sie endlich etwas für Open Data!
 type: post

@@ -7,8 +7,7 @@ tags:
 - Berlin
 - Konferenz
 - Kulturgut
-- OKFN DE
-- open GLAM
+- Open GLAM
 - Open Knowledge
 title: Zugang gestalten!
 type: post

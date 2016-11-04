@@ -6,7 +6,7 @@ image:
   title: ''
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 title: Start Deutsche Digitale Bibliothek
 type: post
 ---

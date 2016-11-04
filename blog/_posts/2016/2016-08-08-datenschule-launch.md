@@ -9,8 +9,8 @@ image:
   title: Datenschule
   license: "[CC BY 3.0 Datenschule, Design: Montebelo](https://creativecommons.org/licenses/by/3.0/de/)"
 tags:
-- datenschule
-- data literacy
+- Datenschule
+- Data Literacy
 type: post
 layout: post
 card: true

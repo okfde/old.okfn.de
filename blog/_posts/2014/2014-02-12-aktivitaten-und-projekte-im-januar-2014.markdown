@@ -7,8 +7,8 @@ image:
 layout: post
 tags:
 - Monatsrückblick
-- offene Daten
-- offenes Wissen
+- Offene Daten
+- Offenes Wissen
 title: Aktivitäten und Projekte im Januar 2014
 type: post
 ---

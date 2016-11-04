@@ -7,10 +7,10 @@ image:
   license: "Public Domain, via pixabay"
   license_url: "https://wiki.creativecommons.org/wiki/Public_domain"
 tags:
-- data literacy
-- social change
-- workshops
-- umwelt
+- Data Literacy
+- Social Change
+- Workshop
+- Umwelt
 type: post
 layout: post
 card: true

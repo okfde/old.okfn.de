@@ -3,14 +3,13 @@ author: Julia Kloiber
 date: 2012-12-21 10:47:42
 layout: post
 tags:
-- Apps
 - Community
 - Hackday
 - Nahverkehr
-- offene Daten
+- Offene Daten
 - Open Data
 - Open Transport
-- VBB
+- Apps and the City
 title: Apps and the City Rückblick
 type: post
 ---

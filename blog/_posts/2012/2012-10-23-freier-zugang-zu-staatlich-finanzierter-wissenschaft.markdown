@@ -3,7 +3,7 @@ author: Christian Heise
 date: 2012-10-23 08:18:50
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Open Access
 - Open Science
 title: Freier Zugang zu staatlich finanzierter Wissenschaft

@@ -6,10 +6,9 @@ image:
   title: www.wahldatenhelfer.de
 layout: post
 tags:
-- Apps
 - Behörden
 - Hackday
-- offene Daten
+- Offene Daten
 - Open Data
 title: Wahl.Daten.Helfer. – ein produktives Wahlwochenende
 type: post

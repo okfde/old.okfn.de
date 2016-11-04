@@ -7,10 +7,10 @@ image:
 layout: post
 tags:
 - Termine
-- frag den staat
+- FragDenStaat
 - Open Data
-- open data city
-- open data day
+- OpenDataCity
+- Open Data Day
 title: 'Einladung: International Open Data Hackathon 2013 - Berlin'
 type: post
 ---

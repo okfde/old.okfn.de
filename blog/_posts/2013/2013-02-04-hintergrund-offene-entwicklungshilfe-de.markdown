@@ -7,10 +7,8 @@ image:
 layout: post
 tags:
 - Transparenz
-- offene Entwicklungshilfe
-- OKFN DE
+- Offene Entwicklungshilfe
 - Open Aid
-- Transparenz
 title: Hintergrund offene-entwicklungshilfe.de
 type: post
 ---

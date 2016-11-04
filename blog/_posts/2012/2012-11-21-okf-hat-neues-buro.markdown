@@ -3,7 +3,7 @@ author: Eva Panek
 date: 2012-11-21 15:37:07
 layout: post
 tags:
-- OKF
+- OKFN DE
 title: Die OKF hat ein neues Büro!
 type: post
 ---

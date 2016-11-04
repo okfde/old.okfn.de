@@ -3,7 +3,7 @@ author: Claus Arndt
 date: 2014-05-13 13:43:23
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Positionen
 - Transparenz
 title: 'Gastbeitrag: Erfahrungen zweier Kommunen mit dem City Census'

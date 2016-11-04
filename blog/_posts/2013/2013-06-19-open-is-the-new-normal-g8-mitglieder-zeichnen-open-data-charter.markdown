@@ -8,7 +8,7 @@ tags:
 - Positionen
 - G8
 - Open Data
-- offene Daten
+- Offene Daten
 - Open Data Charter
 title: '"Open is the new normal": G8-Mitglieder zeichnen Open Data Charter'
 type: post

@@ -6,7 +6,7 @@ image:
   title: Stromnetz Berlin
 layout: post
 tags:
-- Energy
+- Energy Hack
 - FragDenStaat
 - Informationsfreiheit
 - Newsletter

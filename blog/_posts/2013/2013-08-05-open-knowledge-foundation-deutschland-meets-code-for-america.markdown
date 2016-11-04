@@ -6,15 +6,10 @@ image:
   title: Code for All Team
 layout: post
 tags:
-- Anwendungen
-- Apps
 - Code for All
-- offene Daten
-- offenes Wissen
+- Offene Daten
+- Offenes Wissen
 - Code for America
-- Programm
-- Stipendiat
-- Stipendien
 title: Code for All – Open Knowledge Foundation Deutschland meets Code for America
 type: post
 ---

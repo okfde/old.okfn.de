@@ -6,7 +6,7 @@ image:
   title: 
 layout: post
 tags:
-- jobs
+- Jobs
 title: "Projektassistenz für &ldquo;Digital Refugee Labs&rdquo;"
 type: post
 ---

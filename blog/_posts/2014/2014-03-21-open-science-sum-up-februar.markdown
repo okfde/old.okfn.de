@@ -6,8 +6,8 @@ image:
 layout: post
 tags:
 - Ethik
-- offene Daten
-- offenes Wissen
+- Offene Daten
+- Offenes Wissen
 - Open Access
 - Open Data
 - Open Science

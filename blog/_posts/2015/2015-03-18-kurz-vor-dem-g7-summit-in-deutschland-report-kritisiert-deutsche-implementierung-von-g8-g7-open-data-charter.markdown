@@ -6,8 +6,8 @@ image:
   title: g8-open-data
 layout: post
 tags:
-- G8 Open Data Charter
-- offene Daten
+- G8
+- Offene Daten
 - OGP
 - Open Data Charter
 title: 'Kurz vor dem G7 Summit in Deutschland: Report kritisiert deutsche Implementierung von G8 (G7) Open Data Charter'

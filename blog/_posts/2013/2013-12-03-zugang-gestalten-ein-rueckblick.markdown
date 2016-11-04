@@ -6,12 +6,12 @@ image:
   license: 'Foto: David Jacob, CC-BY-SA'
 layout: post
 tags:
-- offene Kultur
-- offenes Wissen
+- Offene Kultur
+- Offenes Wissen
 - Digitalisierung
-- kulturelles Erbe
+- Kulturelles Erbe
 - Open Culture
-- OpenGLAM
+- Open GLAM
 title: Zugang gestalten - Ein Rückblick
 type: post
 ---

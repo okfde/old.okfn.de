@@ -6,8 +6,8 @@ image:
   title: ''
 layout: post
 tags:
-- offene Kultur
-- offenes Wissen
+- Offene Kultur
+- Offenes Wissen
 - Termine
 title: Der Erste Weltkrieg in digitalen Quellen
 type: post

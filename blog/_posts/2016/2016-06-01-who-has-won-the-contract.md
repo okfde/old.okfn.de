@@ -10,8 +10,8 @@ type: post
 layout: post
 card: true
 tags:
-- public procurement
-- fiscal transparency
+- Public Procurement
+- Fiscal Transparency
 - English
 title: "Who has won the contract? - Identifying the bidders of public procurement processes"
 ---

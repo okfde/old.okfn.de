@@ -4,7 +4,7 @@ date: 2012-07-21 08:43:23
 layout: post
 tags:
 - Termine
-- offene Daten
+- Offene Daten
 - Konferenz
 - Open Data
 title: Bericht von der OpenData.CH 2012 Konferenz

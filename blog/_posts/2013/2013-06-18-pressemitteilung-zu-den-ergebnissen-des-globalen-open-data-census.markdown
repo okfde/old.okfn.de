@@ -6,7 +6,7 @@ image:
   title: census laender 1
 layout: post
 tags:
-- G8-Gipfel
+- G8
 - Open Data Census
 - Transparenz
 title: Die G8-Länder müssen hart arbeiten, um wichtige Daten zu öffnen

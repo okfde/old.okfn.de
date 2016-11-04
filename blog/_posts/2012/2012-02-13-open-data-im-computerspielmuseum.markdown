@@ -4,7 +4,7 @@ date: 2012-02-13 10:00:23
 layout: post
 tags:
 - Apps4DE
-- Events
+- Event
 - Open Data
 - Open Knowledge
 title: Open Data im Computerspielemuseum

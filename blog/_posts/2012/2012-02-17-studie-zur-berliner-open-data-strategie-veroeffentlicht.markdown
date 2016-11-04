@@ -4,7 +4,7 @@ date: 2012-02-17 08:00:42
 layout: post
 tags:
 - Berlin
-- offene Daten
+- Offene Daten
 - Open Data
 - Open Government
 title: Studie zur Berliner Open Data Strategie veröffentlicht

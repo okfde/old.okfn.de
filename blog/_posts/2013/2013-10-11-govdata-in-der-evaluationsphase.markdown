@@ -5,9 +5,9 @@ image:
   src: /files/blog/2013/10/govdata1.png
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Behörden
-- offene Daten
+- Offene Daten
 title: GovData in der Evaluationsphase
 type: post
 ---

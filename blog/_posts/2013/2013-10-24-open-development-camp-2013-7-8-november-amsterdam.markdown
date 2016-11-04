@@ -6,10 +6,9 @@ image:
   title: odc Banner
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Community
 - Konferenz
-- OKFN DE
 - Open Aid
 - Open Data
 title: Open Development Camp 2013, 7-8 November, Amsterdam

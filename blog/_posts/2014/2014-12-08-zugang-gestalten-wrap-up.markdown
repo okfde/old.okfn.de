@@ -5,10 +5,10 @@ image:
   src: /files/blog/2014/12/IMG_1097a-415x276.jpg
 layout: post
 tags:
-- offene Kultur
+- Offene Kultur
 - Digitalisierung
-- kulturelles Erbe
-- OpenGLAM
+- Kulturelles Erbe
+- Open GLAM
 - Zugang gestalten
 title: Zugang gestalten! - Wrap-up
 type: post

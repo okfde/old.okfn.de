@@ -6,10 +6,10 @@ image:
 layout: post
 tags:
 - Geodaten
-- offene Daten
+- Offene Daten
 - Informationsfreiheit
 - OER
-- OGP
+- OGP Summit
 - Open Access
 - Open Development
 - Open Education

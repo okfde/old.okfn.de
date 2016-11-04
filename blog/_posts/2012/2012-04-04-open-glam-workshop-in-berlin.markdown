@@ -6,7 +6,7 @@ image:
 layout: post
 tags:
 - Creative Commons
-- OpenGLAM
+- Open GLAM
 - Staatsbibliothek
 - Wikimedia
 - Workshop

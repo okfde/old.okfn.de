@@ -7,11 +7,11 @@ image:
   title: Prototype Fund!
 layout: post
 tags:
-- prototype fund
-- civic tech
-- open data
-- data literacy
-- open source
+- Prototype Fund
+- Civic Tech
+- Open Data
+- Data Literacy
+- Open Source
 - BMBF
 title: Hello World! <br> Hello Prototype Fund!
 type: post

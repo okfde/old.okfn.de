@@ -5,7 +5,7 @@ image:
   src: /files/blog/2014/07/kickoff-open-science-de-2014-415x155.png
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - Open Science
 title: 'OKFestival 2014 Fringe Event: Arbeitsgruppe für die Öffnung von Wissenschaft und Forschung (Open Science)'
 type: post

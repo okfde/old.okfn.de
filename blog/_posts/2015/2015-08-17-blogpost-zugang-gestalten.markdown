@@ -9,7 +9,7 @@ tags:
 - Zugang gestalten
 - Digitalisierung
 - Zukunftsstrategien
-- OpenGLAM
+- Open GLAM
 title: Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, 5.-6. Nov. 2015 in Hamburg
 type: post
 ---

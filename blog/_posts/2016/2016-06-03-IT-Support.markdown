@@ -7,7 +7,7 @@ image:
   title: 
 layout: post
 tags:
-- jobs
+- Jobs
 - 2030 Watch
 title: Wir suchen IT Support für das Projekt 2030 Watch
 type: post

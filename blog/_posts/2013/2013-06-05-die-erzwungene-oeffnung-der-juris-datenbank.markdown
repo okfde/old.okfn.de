@@ -5,9 +5,9 @@ image:
   src: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Verwaltungsgerichtshof_%28VGH%29_Baden-W%C3%BCrttemberg.JPG/800px-Verwaltungsgerichtshof_%28VGH%29_Baden-W%C3%BCrttemberg.JPG
 layout: post
 tags:
-- bundesgit
+- BundesGit
 - Bundesverfassungsgericht
-- OffeneGesetze
+- Offene Gesetze
 title: Die erzwungene Öffnung der juris-Datenbank
 type: post
 ---

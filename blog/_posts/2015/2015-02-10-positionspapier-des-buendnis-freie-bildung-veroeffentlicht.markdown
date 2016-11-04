@@ -5,7 +5,7 @@ image:
   src: /files/blog/2015/02/buendnis-freie-bildung-415x76.png
 layout: post
 tags:
-- offenes Wissen
+- Offenes Wissen
 - OER
 title: Positionspapier des Bündnis freie Bildung veröffentlicht
 type: post

@@ -6,7 +6,7 @@ image:
   title: DARIAH-DE
 layout: post
 tags:
-- DARIAH-DE
+- DARIAH
 - Open Science
 title: "Digitale Geisteswissenschaften: Video zum DH Summit 2015"
 type: post

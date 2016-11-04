@@ -5,7 +5,6 @@ image:
   src: /files/blog/2012/12/pokal.png
 layout: post
 tags:
-- Apps
 - Berlin
 - Community
 - Hackday

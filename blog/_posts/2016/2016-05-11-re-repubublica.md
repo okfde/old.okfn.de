@@ -10,10 +10,8 @@ type: post
 layout: post
 card: true
 tags:
-- OKF
-- team
-- talks
-- republica
+- Konferenz
+- re:publica
 title: "Bericht von der re:publica 2016"
 ---
 <h2>re:re:publica</h2>

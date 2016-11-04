@@ -8,7 +8,7 @@ layout: post
 tags:
 - IATI
 - Transparenz
-- offene Entwicklungshilfe
+- Offene Entwicklungshilfe
 - Open Aid
 - Open Data
 - Transparenz

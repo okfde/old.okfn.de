@@ -5,7 +5,7 @@ image:
   src: /files/blog/2014/10/open-definition-de-415x188.png
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Open Definition
 title: Veröffentlichung Open Definition 2.0 & deutsche Übersetzung
 type: post

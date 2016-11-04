@@ -13,7 +13,7 @@ card: true
 tags:
 - OpenBudgets.eu
 - Datenschule
-- ngo
+- NGO
 title: OKF beim European Alternatives Campus Event 16
 ---
 

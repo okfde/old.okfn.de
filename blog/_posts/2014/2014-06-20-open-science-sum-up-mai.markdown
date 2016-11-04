@@ -31,7 +31,7 @@ Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-s
 
 **Der Gedanke "Apps for Everything" hält auch im Bereich Open Access Einzug.** Bei openscience.com gibt's [ein Interview mit dem Macher hinter PubChase, Matthew Davis](http://openscience.com/great-idea-app-interview-creator-pubchase/). PubChase ist eine Multiplattform-Anwendung, die es WissenschaftlerInnen (gerade im Bereich der Life Sciences) ermöglich soll, sich für sie relevante Paper empfehlen zu lassen. Das Ganze beruht auf statistischen Berechnungen und Data Mining.
 
-**Preprints - Postprints - offene Daten:** Ross Mounce fasst [in wenigen Schritten](http://rossmounce.co.uk/2013/05/20/easy-steps-towards-open-scholarship/) den nachvollziehbaren (und gangbaren) Weg zu Open Scholarship zusammen.
+**Preprints - Postprints - Offene Daten:** Ross Mounce fasst [in wenigen Schritten](http://rossmounce.co.uk/2013/05/20/easy-steps-towards-open-scholarship/) den nachvollziehbaren (und gangbaren) Weg zu Open Scholarship zusammen.
 
 **Das EuroScientist Magazin wartet [in der Mai-Ausgabe](http://euroscientist.com/2014/05/print-edition-special-issue-on-alternative-research-funding/) wieder mit einem interessanten Thema auf – der alternativen Forschungsförderung.** Es werden die zwei Ebenen von Förderungsmechanismen beleuchtet, die überdacht werden müssten: Die Makroebene, wo Forschungs- und Entwicklungspolicies beeinflussen, wohin Förderungen vergeben werden, und die Mikroebene, wo Peer Review bestimmt, wie Förderungen verteilt werden.
 

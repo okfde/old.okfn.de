@@ -3,10 +3,7 @@ author: Daniel Dietrich
 date: 2011-11-11 21:37:15
 layout: post
 tags:
-- Bibliotheken
-- offenes Wissen
-- OKFN DE
-- OKFN DE
+- Offenes Wissen
 title: 'Interview mit Adrian Pohl: Bibliotheken sollten ihre Daten öffnen'
 type: post
 ---

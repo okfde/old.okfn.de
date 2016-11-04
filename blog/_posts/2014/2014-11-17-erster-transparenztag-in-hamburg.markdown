@@ -6,7 +6,7 @@ image:
   title: transparenzportal-hamburg-beta
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - HmbTG
 - Informationsfreiheit
 title: Erster Transparenztag in Hamburg

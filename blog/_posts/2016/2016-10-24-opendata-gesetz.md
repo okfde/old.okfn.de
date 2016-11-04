@@ -10,9 +10,9 @@ image:
   license: 
   license_url: 
 tags:
-- open data
-- open-data-gesetz
-- innenministerium
+- Open Data
+- Open Data Gesetz
+- Innenministerium
 type: post
 layout: post
 card: true

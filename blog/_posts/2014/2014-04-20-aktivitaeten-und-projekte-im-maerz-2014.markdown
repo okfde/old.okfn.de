@@ -5,8 +5,8 @@ image:
   src: /files/blog/2014/04/codungdavincinl.png
 layout: post
 tags:
-- offene Daten
-- offenes Wissen
+- Offene Daten
+- Offenes Wissen
 title: Aktivitäten und Projekte im März 2014
 type: post
 ---

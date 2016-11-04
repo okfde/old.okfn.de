@@ -6,7 +6,7 @@ image:
   title: Open Science AG
 layout: post
 tags:
-- Veranstaltung
+- Event
 - Open Science
 title: "Open Science Call 9/15: Suchmaschine für Open-Access Inhalte, Opening up Science in Hamburg, Rückblick Chaos Communication Camp und vieles mehr"
 type: post

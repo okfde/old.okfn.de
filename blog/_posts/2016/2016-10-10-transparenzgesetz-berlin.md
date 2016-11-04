@@ -7,8 +7,8 @@ image:
   license: 
   license_url: 
 tags:
-- transparenzgesetz
-- berlin
+- Transparenzgesetz
+- Berlin
 type: post
 layout: post
 card: true

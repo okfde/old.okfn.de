@@ -6,7 +6,7 @@ image:
 date: 2015-02-12 19:44:45
 layout: post
 tags:
-- offene Kultur
+- Offene Kultur
 - Termine
 title: Kulturgut digital nutzbar machen
 type: post

@@ -6,7 +6,6 @@ image:
   title: Reichstag
 layout: post
 tags:
-- notyourgovdata
 - OGP
 - Open Data
 - Open Government

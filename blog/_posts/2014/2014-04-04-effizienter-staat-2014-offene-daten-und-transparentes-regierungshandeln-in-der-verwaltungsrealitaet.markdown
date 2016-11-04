@@ -9,10 +9,10 @@ tags:
 - Behörden
 - Berlin
 - Community
-- offene Daten
+- Offene Daten
 - Positionen
 - Transparenz
-- offene Daten
+- Offene Daten
 - Transparenz
 title: 'Effizienter Staat 2014: Offene Daten und transparentes Regierungshandeln in der Verwaltungsrealität'
 type: post

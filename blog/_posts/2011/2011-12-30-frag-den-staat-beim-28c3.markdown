@@ -3,10 +3,11 @@ author: Hauke Gierow
 date: 2011-12-30 13:21:42
 layout: post
 tags:
-- frag den staat
+- FragDenStaat
 - Informationsfreiheit
 - Konferenz
-- OKFN DE
+- CCC
+- Chaos Communication Congress
 title: Frag den Staat beim 28C3
 type: post
 ---

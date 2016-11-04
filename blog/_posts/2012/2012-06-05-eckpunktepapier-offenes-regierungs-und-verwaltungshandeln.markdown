@@ -3,7 +3,7 @@ author: Daniel Dietrich
 date: 2012-06-05 06:13:14
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Open Government
 title: Eckpunktepapier für Offenes Regierungs- und Verwaltungshandeln
 type: post

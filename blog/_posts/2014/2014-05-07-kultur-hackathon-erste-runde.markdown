@@ -6,10 +6,10 @@ image:
 layout: post
 tags:
 - Berlin
-- Kultur-Hackathon
-- offene Kultur
+- Hackathon
+- Offene Kultur
 - Open Data
-- OpenGLAM
+- Open GLAM
 title: Coding da Vinci - Kultur-Hackathon geht in die erste Runde
 type: post
 ---

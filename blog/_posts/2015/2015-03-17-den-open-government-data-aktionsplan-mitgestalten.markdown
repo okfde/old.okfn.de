@@ -7,7 +7,7 @@ layout: post
 tags:
 - Beteiligung
 - G8 Open Data Charter
-- offene Daten
+- Offene Daten
 title: Den Open Government Data Aktionsplan mitgestalten!
 type: post
 ---

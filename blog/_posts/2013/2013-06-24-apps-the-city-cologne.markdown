@@ -6,7 +6,7 @@ image:
   title: interactive cologne 2013
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Interactive Cologne
 - Köln
 - Nahverkehr

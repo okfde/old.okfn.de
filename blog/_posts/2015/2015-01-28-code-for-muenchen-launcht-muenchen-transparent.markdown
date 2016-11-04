@@ -5,7 +5,7 @@ image:
   src: /files/blog/2015/01/Screen-Shot-2015-01-27-at-11.09.49.png
 layout: post
 tags:
-- offene Daten
+- Offene Daten
 - Transparenz
 title: Code for München launcht „München Transparent"
 type: post

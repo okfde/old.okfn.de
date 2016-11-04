@@ -3,11 +3,11 @@ author: Helene Hahn
 date: 2013-10-29 13:54:46
 layout: post
 tags:
-- offene Kultur
+- Offene Kultur
 - Digitalisierung
 - Open Access
 - Open Culture
-- OpenGLAM
+- Open GLAM
 title: Einladung zur Konferenz "Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe"
 type: post
 ---
