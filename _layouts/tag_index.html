@@ -1,16 +1,12 @@
 ---
 layout: default
+title: {{page.tag}}
 ---
 <div class="lurking-header">
 	<h1>{% t blog.PostsMit %} &ldquo;{{page.tag}}&rdquo;</h1>
+	<p class="text-center">
+		<a href="{{ site.baseurl }}/blog/"><i class="icon-left-open"></i> {% t blog.ZurueckZumBlog %}</a>
+	</p>
 </div>
+{% for post in page.posts %}{% include post_preview.html post=post %}{% endfor %}
 
-{% capture page_tag %}{{page.tag | downcase}}{% endcapture %}
-{% for post in site.posts %}
-{% for tag in post.tags %}
-{% capture post_tag %}{{tag | downcase}}{% endcapture %}
-{% if post_tag == page_tag %}
-{% include post_preview.html post=post %}
-{% endif %}
-{% endfor %}
-{% endfor %}

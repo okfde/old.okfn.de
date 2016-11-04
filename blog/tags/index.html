@@ -5,10 +5,22 @@ title: titles.Tags
 
 <div class="lurking-header">
 	<h1>{% t titles.Tags %}</h1>
-	<ul class="tag-list">
+	<p class="text-center">
+		<a href="{{ site.baseurl }}/blog/"><i class="icon-left-open"></i> {% t blog.ZurueckZumBlog %}</a>
+	</p>
+</div>
+
+<div class="section">
+	<div id="tag-cloud">
+		{{ site | tag_cloud }}
+	</div>
+</div>
+
+<div class="section">
+	<ul class="tag-list list-unstyled">
 		{% sorted_keys_for tag in site.tags %}
 		<li>
-			<a href="{{ site.baseurl }}/blog/tags/{{ tag | downcase }}/">{{ tag }}</a>
+			<a href="{{ site.baseurl }}/blog/tags/{{ tag | tagify }}">{{ tag }}</a>
 			<small>Posts: {{ site.tags[tag].size }}</small>
 		</li>
 		{% endsorted_keys_for %}

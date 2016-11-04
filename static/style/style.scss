@@ -850,6 +850,12 @@ header {
   }
 }
 
+.section {
+  background-color: #fff;
+  margin-bottom: 40px;
+  padding: 40px;
+}
+
 //start page
 
 .start-banner {
@@ -1463,4 +1469,48 @@ header {
 
 .tag-list {
   list-style: none;
+}
+
+#tag-cloud {
+
+  text-align: justify;
+
+  .set-1 {
+    font-size: 0.7em;
+  }
+
+  .set-2 {
+    font-size: 0.9em;
+  }
+
+  .set-3 {
+    font-size: 1.2em;
+  }
+
+  .set-4 {
+    font-size: 1.5em;
+  }
+
+  .set-5 {
+    font-size: 2.0em;
+  }
+
+}
+
+// services page
+
+.services {
+  margin-top: 20px;
+  div.title {
+    font-weight: bold;
+  }
+
+  .boxes {
+    > div {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border: 1px solid #cacbb4;
+
+    }
+  }
 }

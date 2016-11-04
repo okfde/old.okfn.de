@@ -18,7 +18,6 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - octopress-autoprefixer
-tag_dir: blog/tags/
 defaults:
   - scope:
       path: ""
@@ -34,6 +33,9 @@ paginate: 8
 paginate_path: blog/page/:num/
 languages: ["de", "en"]
 exclude_from_localizations: ["static", "files", "style", "js", "fonts", "images", "search.json"]
+tag_page_layout: tag_index
+tag_page_dir: blog/tags
+tag_permalink_style: pretty
 sass:
   sass_dir: static/style/_scss
   style: compressed
