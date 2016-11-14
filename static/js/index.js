@@ -53,19 +53,16 @@
 		var lineSpeeds = setRandom(minLineSpeed, maxLineSpeed, lineSpeedDiv);
 
 		var drawAura = function () {
-
 			ctx.clearRect(0, 0, radius * 3, offset[1] - radius * 4 / 5 + 1);
-			ctx.clearRect(0, 0, offset[0] - radius * 4 / 5 + 1, radius * 3);
+			ctx.clearRect(0, 0, offset[0] - radius * 4 / 5 + 3, radius * 3);
 			ctx.clearRect(0, height - radius * 4 / 5, radius * 3, radius * 4 / 5);
 			ctx.clearRect(offset[0] + radius * 2 / 3, 0, radius, radius * 3);
-
 			for (var i = 0; i < lineCount; i += 1) {
 				var angle = Math.PI * 2 * i / lineCount;
 				angle = angle + angleOffset + (Math.PI / 180 * animAngle);
 				var x = radius * Math.cos(angle);
 				var y = radius * Math.sin(angle);
 				var lineHeight = lineHeights[i];
-
 				ctx.save();
 
 				ctx.translate(offset[0] + x, offset[1] + y);
