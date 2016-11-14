@@ -15,4 +15,9 @@ menu_vorstand: yes
 {% assign order=forloop.index0|modulo:2 %}
 {% include person.html person=person order=order %}
 {% endfor %}
-<a href="/vorstand_alumni">ehemalige Mitglieder des Vorstands</a>
+
+<div class="row person">
+  <div class="col-md-12 text-center">
+    Ehemalige Mitglieder des Vorstands sind <a href="/vorstand_alumni">hier</a> zu finden.
+  </div>
+</div>

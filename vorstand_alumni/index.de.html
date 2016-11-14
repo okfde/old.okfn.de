@@ -1,6 +1,6 @@
 ---
 layout: default
-title: vorstand_alumni
+title: Vorstand - Ehemalige
 description: ''
 background: backgrounds/background.jpg
 menu_vorstand: yes
@@ -8,7 +8,7 @@ menu_vorstand: yes
 {% assign board_alumni = site.data.team | where:"board_alumni",1 | sort: "name" %}
 <div class="lurking-header">
   <h1>Ehemalige Mitglieder des Vorstands</h1>
-  <p>Die folgenden Personen sind ausgeschiedene Mitglieder aus dem Vorstand</p>
+  <p class="text-center">Die folgenden Personen sind ausgeschiedene Mitglieder aus dem Vorstand:</p>
 </div>
 {% for person in board_alumni %}
 {% assign order=forloop.index0|modulo:2 %}

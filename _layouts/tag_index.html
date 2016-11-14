@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{page.tag}}
+title: {page.tag}
 ---
 <div class="lurking-header">
 	<h1>{% t blog.PostsMit %} &ldquo;{{page.tag}}&rdquo;</h1>
@@ -9,4 +9,3 @@ title: {{page.tag}}
 	</p>
 </div>
 {% for post in page.posts %}{% include post_preview.html post=post %}{% endfor %}
-

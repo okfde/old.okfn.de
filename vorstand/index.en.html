@@ -7,11 +7,18 @@ menu_vorstand: yes
 ---
 {% assign board = site.data.team | where:"board",1 | sort: "name" %}
 <div class="lurking-header">
-  <h1>Board</h1>
-  <p>The board of the Open Knowledge Foundation Deutschland e.V. has {{ board|size }} members.
-    It develops the strategical orientation.</p>
+	<h1>Board</h1>
+	<p>The board of the Open Knowledge Foundation Deutschland e.V. has {{ board|size }} members.
+		It develops the strategical orientation.</p>
 </div>
 {% for person in board %}
 {% assign order=forloop.index0|modulo:2 %}
 {% include person.html person=person order=order %}
 {% endfor %}
+
+
+<div class="row person">
+	<div class="col-md-12 text-center">
+		Find past board members <a href="/en/vorstand_alumni">here</a>.
+	</div>
+</div>
