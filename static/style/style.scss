@@ -1537,7 +1537,16 @@ header {
       margin-top: 20px;
       margin-bottom: 20px;
       border: 1px solid #cacbb4;
+      padding: 20px;
 
+      .reference {
+        margin-top: 10px;
+        font-size: 0.9em;
+
+        > div {
+          font-weight: bold;
+        }
+      }
     }
   }
 }
