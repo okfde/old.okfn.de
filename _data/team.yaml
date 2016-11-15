@@ -34,6 +34,18 @@
   twitter: anjeve
   website:
 
+- name: Jasmin Helm
+  img: jasminhelm
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Jasmin hat Soziologie an der Universität Potsdam studiert und unterstützt seit Oktober 2016 die Datenschule im Bereich Kommunikation. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie."
+  bio_en: "Jasmin studied sociology at Potsdam University and supports the project \"Datenschule\" since October 2016. The handling of data in a responsible way is a main concern for her."
+  mail: jasmin.helm@okfn.de
+  twitter:
+  website:
+
 - name: Julia Kloiber
   img: juliakloiber
   staff: 1
