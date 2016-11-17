@@ -164,7 +164,7 @@ h1, h2, h3, h4 {
 
 a {
   &, &:hover, &:focus {
-    color: #333;
+    color: $link-color;
     font-weight: bold;
     text-decoration: none;
   }
@@ -1526,27 +1526,30 @@ header {
 
 // services page
 
-.services {
-  margin-top: 20px;
+.services-header {
+  text-align: center;
+}
+
+.services-item {
+  background-color: #fff;
+  margin-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+  @include MQ-M() {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
   div.title {
     font-weight: bold;
   }
+  .reference {
+    margin-top: 10px;
+    font-size: 0.9em;
 
-  .boxes {
     > div {
-      margin-top: 20px;
-      margin-bottom: 20px;
-      border: 1px solid #cacbb4;
-      padding: 20px;
-
-      .reference {
-        margin-top: 10px;
-        font-size: 0.9em;
-
-        > div {
-          font-weight: bold;
-        }
-      }
+      font-weight: bold;
     }
   }
 }
