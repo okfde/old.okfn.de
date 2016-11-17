@@ -10,7 +10,11 @@ people:
   - name: Helene Hahn
     role: Projektleitung
   - name: Knut Perseke
-    role: technischer Support
+    role: Entwickler
+  - name: Moritz Neujeffski
+    role: Tech & Workshops
+  - name: Jasmin Helm
+    role: Kommunikation
 contact:
   website: https://datenschule.de
   twitter: datenschule
