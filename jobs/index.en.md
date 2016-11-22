@@ -6,6 +6,6 @@ background: backgrounds/services.jpg
 
 ---
 
-Unfortunately there are no job offers at present.
+Unfortunately there are no job offers at this time.
 
 <!-- Bitte das hide tag benutzen falls Stellen vorhanden!  -->
