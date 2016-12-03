@@ -13,7 +13,7 @@ card: true
 title: "Unsere neue Initiative Transparenzklagen.de setzt Informationsfreiheit durch"
 ---
 
-Unsere neue Initiative [Transparenzklagen.de](https://transparenzklagen.de/) unterstützt künftig die gerichtliche Durchsetzung von Auskunftsansprüchen gegen Behörden und sonstige staatliche Institutionen. Damit wollen die Initiatoren des Projektes – die [Gesellschaft für Freiheitsrechte](https://freiheitsrechte.de/) und die Open Knowledge Foundation Deutschland – den Informationsfreiheitgesetzen auf Bundes- und Landeseben zu mehr Wirksamkeit verhelfen und die demokratischen Mitwirkungsrechte der Bürger stärken.
+Unsere neue Initiative [Transparenzklagen.de](https://transparenzklagen.de/) unterstützt künftig die gerichtliche Durchsetzung von Auskunftsansprüchen gegen Behörden und sonstige staatliche Institutionen. Damit wollen die Initiatoren des Projektes – die [Gesellschaft für Freiheitsrechte](https://freiheitsrechte.org/) und die Open Knowledge Foundation Deutschland – den Informationsfreiheitgesetzen auf Bundes- und Landeseben zu mehr Wirksamkeit verhelfen und die demokratischen Mitwirkungsrechte der Bürger stärken.
 
 Auf der Plattform von [FragDenStaat.de](https://fragdenstaat.de/) können bereits seit einigen Jahren Auskunftsanfragen an Behörden gerichtet werden. Transparenzklagen.de wird nun ergänzend dazu strategisch ausgewählte Anträge, die nicht oder nicht im gebotenen Umfang beantwortet wurden, gerichtlich weiterverfolgen. Die damit verbundenen Kosten werden im Rahmen von Transparenzpatenschaften übernommen. Außerdem organisiert Transparenzklagen.de die anwaltliche Vertretung für die einzelnen Verfahren.
 
