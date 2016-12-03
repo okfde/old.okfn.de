@@ -3,7 +3,7 @@ authors:
 - Arne Semsrott
 date: 2016-12-03 08:25:00
 image:
-  src: /files/blog/2016/11/logo4.JPG
+  src: /files/blog/2016/11/logo4.jpg
   title: Transparenzklagen.de
 tags:
 - Transparenzklagen
