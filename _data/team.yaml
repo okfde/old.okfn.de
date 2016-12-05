@@ -459,18 +459,34 @@
   twitter: pushthings4ward
   website: 
   github: pushthings4ward
-
-- name: Friedrich Schumann
-  img:
+  
+  - name: Xiaowei Chen
+  title:
+  img: xiaoweichen
   staff: 0
   board: 0
   advisory: 0
-  position: Minion
-  bio: ""
-  mail:
-  twitter:
-  website:
-  github:
+  position:
+  bio: "."
+  bio_en: "n/a"
+  mail: "xiaowei.chen@okfn.de"
+  twitter: xiaoweichen
+  website: 
+  github: 
+
+  - name: Mark Brough
+  title:
+  img: markbrough
+  staff: 0
+  board: 0
+  advisory: 0
+  position:
+  bio: "."
+  bio_en: "n/a"
+  mail: "@okfn.de"
+  twitter: markbrough
+  website: 
+  github: 
 
 - name: Dr. Eberhard R. Hilf
   title: Prof.em. Dr.
