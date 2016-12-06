@@ -11,6 +11,7 @@ people:
     role:
 contact:
    website: https://opengovpartnership.de
+   twitter: OpenGovGermany
 de:
   subtitle: ""
   content: |-
