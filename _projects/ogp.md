@@ -6,9 +6,11 @@ img: projects/ogp.png
 layout: project
 people:
   - name: Johanna zum Felde
-    role: Projektleitung
+    role: Koordination
   - name: Walter Palmetshofer
-    role: Projektassistenz
+    role:
+contact:
+   website: https://opengovpartnership.de
 de:
   subtitle: ""
   content: |-
