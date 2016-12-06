@@ -4,8 +4,8 @@ authors:
 - Mara Mendes
 date: 2016-12-06 14:00:00
 image:
-  src: /files/blog/2016/12/Angela_Merkel,_Wolfgang_Schäuble_(Tobias_Koch)_2.jpg
-  title: Angela Merkel und Worlfgang Schäuble während des Wikipedia-Bundestagsprojekts 2014 
+  src: /files/blog/2016/12/Angela_Merkel_Wolfgang_Schäuble_(Tobias_Koch)_2.jpg
+  title: Angela Merkel und Wolfgang Schäuble während des Wikipedia-Bundestagsprojekts 2014 
   license: CC BY-SA 3.0 de
   license_url: 
 tags:
