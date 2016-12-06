@@ -22,18 +22,6 @@
   twitter: pluscha
   website:
 
-- name: Anja Jentzsch
-  img: anjajentzsch
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "Anja betreut derzeit für die OKF DE das EU-Forschungsprojekt Europeana Cloud (eCloud) als Projektleiterin. eCloud startete im Februar 2013. Ziel des Projektes ist es, ein cloudbasiertes System für die Europeana und ihre Aggregatoren zu entwickeln. eCloud wird neue Europeana-Inhalte und Metadaten bereitstellen, sowie ein neues Speichersystem und eine Plattform mit Methoden und Werkzeuge für Forscher (Europeana Research). Zuvor hat Anja an verschiedenen Linked Data-Projekten wie Wikidata, DBpedia und Linking Open Drug Data mitgearbeitet. Ihr Forschungsschwerpunkt ist Data Profiling auf Linked Open Data."
-  bio_en: "Anja currently runs the EU research project Europeana Cloud (eCloud), which started in February 2013. The goal of the project is the develop a cloud-based system for Europeana and its aggregators. eCloud will provide Europeana content and metadata, as well as a new storage system and a platform with methods and tools for researchers (Euopeana Research). Previously, Anja has contributed to various linked-data projects, Wikidata, DBpedia, and Linking Open Drug Data. Her research focus is Data Profiling in Linked Open Data."
-  mail: anja.jentzsch@okfn.de
-  twitter: anjeve
-  website:
-
 - name: Jasmin Helm
   img: jasminhelm
   staff: 1
@@ -134,19 +122,6 @@
   website:
   github: elisalindinger
 
-- name: Cat Spangehl
-  img: catspangehl
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "Cat ist seit September bei der OKF DE. Sie kümmert sich in den Projekten um Daten, Technisches und Visualisierung. Sie hat einen Abschluss in Kognitiver Neurowissenschaft und studiert seit 2013 Medieninformatik an der HTW in Berlin."
-  bio_en: "Cat is with the OKF DE since September 2015. She contributes to the projects with her expertise on data, technical issues and visualisations. She holds a degree in cognitive neuroscience and studies computer science for media at the HTW Berlin."
-  mail: cat.spangehl@okfn.de
-  twitter: kittycake
-  website:
-  github: catcosmo
-
 - name: Walter Palmetshofer
   img: walterpalmetshofer
   staff: 1
@@ -171,18 +146,6 @@
   twitter: arnesemsrott
   website:
   github: arnese
-
-- name: Michael Hörz
-  img: michaelhoerz
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "Michael ist Senior Trainer beim Open-Data-Trainingsprogramm der OKF DE. Er arbeitet als Datenjournalist, Trainer und Dozent. An der Hochschule für Technik und Wirtschaft Berlin war Michael von 2013 bis 2015 Lehrbeauftragter für Open Data. Er engagiert sich seit 2010 für mehr und besser nutzbare offene Daten und ist Mitorganisator des jährlichen Berlin Open Data Day. Zwischen 2004 und 2012 arbeitete Michael als Online-Redakteur bei Tagesspiegel, Rundfunk Berlin-Brandenburg und Hasso-Plattner-Institut."
-  mail: michael.hoerz@okfn.de
-  twitter: data_meining
-  website: http://www.michael-hoerz.de
-  github:
 
 - name: Knut Perseke
   img: knutperseke
@@ -378,18 +341,6 @@
   twitter:
   website:
 
-- name: Rufus Pollock
-  img: rufuspollock
-  staff: 0
-  board: 0
-  advisory: 0
-  position: Beisitzer
-  bio: "Rufus Pollock ist Fellow der Shuttleworth Foundation, Mitarbeiter beim Centre for Intellectual Property and Information Law der Cambridge Universität und Vorstand der Open Knowledge Foundation, die er 2004 mitbegründet hat. Er arbeitet als Wissenschaftler und Entwickler an sozialen, rechtlichen und technologischen Fragen im Zusammenhang mit der Schaffung und Weitergabe von Wissen."
-  bio_en: "Rufus Pollock is a fellow of the Shuttleworth Foundation, employee at the Centre for Intellectual Property and Information Law at Cambridge University and board member at OKF DE, which he co-founded in 2004. He is a scientist and developer in social, legal, and technological questions around the creation and dissemination of knowledge."
-  mail: rufus.pollock@okfn.org
-  twitter: rufuspollock
-  website: rufuspollock.org
-
 - name: Maximilian Richt
   title:
   img: maximilianricht
@@ -472,21 +423,7 @@
   mail: "xiaowei.chen@okfn.de"
   twitter: xiaowei_chen
   website: 
-  github: 
-
-  - name: Mark Brough
-  title:
-  img: markbrough
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "."
-  bio_en: "n/a"
-  mail: "@okfn.de"
-  twitter: markbrough
-  website: 
-  github: 
+  github:
 
 - name: Dr. Eberhard R. Hilf
   title: Prof.em. Dr.
