@@ -115,10 +115,10 @@
   board: 0
   advisory: 0
   position:
-  bio: "Elisa unterstützt das Codefor-Team im Projekt 'Digital Refugee Labs'. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit." 
+  bio: "Elisa unterstützt das Codefor-Team im Projekt 'Digital Refugee Labs'. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
   bio_en: "Elisa supports the Codefor team in the project 'Digital Refugee Labs'. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
   mail: elisa.lindinger@okfn.de
-  twitter: 
+  twitter:
   website:
   github: elisalindinger
 
@@ -380,7 +380,7 @@
   bio_en: "Moritz works at the School of Data together with Helene and Knut. He gives workshops and supports NGOs in analysing and using data for their campaigning efforts. Moritz has studied European Studies and Public Policy and Human Development at Maastricht University and is also active at the Berlin Social Science Center."
   mail: "moritz.neujeffski@okfn.de"
   twitter: m_neujeffski
-  website: 
+  website:
   github: mojeffski
 
 - name: Leonard Wolf
@@ -394,7 +394,7 @@
   bio_en: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Im Juli 2016 schloss er seine Schullaufbahn ab und entschied sich dann für einen Bundesfreiwilligendienst. Diesen macht er nun seit September 2016  bei der Open Knowledge Foundation Deutschland. Dabei ist er vorrangig für „Jugend hackt“ und „Frag den Staat“ tätig und unterstützt die jeweiligen Teams. Leonard ist darüber hinaus auch ehrenamtlich bei mehreren Organisationen und Vereinen, die sich mit Jugendbeteiligung und Demokratiepädagogik auseinandersetzen, engagiert. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
   mail: "leonard.wolf@okfn.de"
   twitter: woleonard
-  website: 
+  website:
   github:
 
 - name: Cosmin Cabulea
@@ -408,9 +408,13 @@
   bio_en: "n/a"
   mail: "cosmin.cabulea@okfn.de"
   twitter: pushthings4ward
-  website: 
+  website:
   github: pushthings4ward
+<<<<<<< Updated upstream
   
+=======
+
+>>>>>>> Stashed changes
 - name: Xiaowei Chen
   title:
   img: xiaoweichen
@@ -422,7 +426,25 @@
   bio_en: "Xiaowei works in the frame of German Chancellor Fellowship since November 2016 for Open Knowledge Foundation as Visiting Scholar. Her project is Freedom of Information in Germany."
   mail: "xiaowei.chen@okfn.de"
   twitter: xiaowei_chen
+<<<<<<< Updated upstream
   website: 
+=======
+  website:
+  github:
+
+  - name: Mark Brough
+  title:
+  img: markbrough
+  staff: 0
+  board: 0
+  advisory: 0
+  position:
+  bio: "."
+  bio_en: "n/a"
+  mail: "@okfn.de"
+  twitter: markbrough
+  website:
+>>>>>>> Stashed changes
   github:
 
 - name: Dr. Eberhard R. Hilf
