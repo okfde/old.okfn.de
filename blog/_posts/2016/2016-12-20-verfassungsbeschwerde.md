@@ -21,6 +21,8 @@ Damit wenden wir uns gegen zwei Regelungen, die seit Einführung des Gesetzes An
 
 Der Zwang zum Identitätsnachweis ist de facto eine **Lex FragDenStaat**: Wir ermöglichen es über unsere Plattform [FragDenStaat.de](https://fragdenstaat.de/), Anfragen an Behörden ggf. anonym oder pseudonym zu stellen. Das ist vollkommen legitim. Schließlich gilt das Recht auf Auskunft ohnehin für jede Person unabhängig von Herkunft, Alter, Staatsangehörigkeit oder Wohnort. Da die neue Regelung sachlich nicht gerechtfertigt ist, soll sie offensichtlich von Anfragen abschrecken. Sie stellt einen unzulässigen Eingriff in die informationelle Selbstbestimmung dar. 
 
+<h3>Wahrnehmung eines Grundrechts nur durch Aufgabe eines anderen Grundrechts?</h3>
+
 Es kann nicht sein, dass für die Wahrnehmung des einen Grundrechts Teile eines anderen Grundrechts aufgegeben werden müssen. Im Gegenteil ist die Möglichkeit, anonym Anträge zu stellen, ein wirksames Mittel, um gerade beim Umgang mit Behörden nicht geübten BürgerInnen Ängste vor der Wahrnehmung von Informationsrechten zu nehmen.
 
 Ein weiterer Kritikpunkt unser Verfassungsbeschwerde betrifft Hochschulen. Bis auf einzelne Informationen etwa über Namen von Drittmittelgebern müssen Wissenschaftseinrichtungen mit dem neuen Gesetz keine Auskunft mehr geben. Damit lässt sich nicht mehr überprüfen, ob zum Beispiel durch Kooperationen mit der Industrie eine Gefährdung der **Wissenschaftsfreiheit** droht. Gerade in Rheinland-Pfalz ist das ein [akutes Thema](http://www.swr.de/landesschau-aktuell/rp/umstrittene-zusammenarbeit-mit-boehringer-ingelheim-uni-mainz-will-vertraege-mit-stiftung-aendern/-/id=1682/did=17725366/nid=1682/143nl69/).
