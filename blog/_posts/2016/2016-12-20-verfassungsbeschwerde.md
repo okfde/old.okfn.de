@@ -12,7 +12,7 @@ card: true
 tags:
 - Verfassungsbeschwerde
 - Rheinland-Pfalz
-title: "Gegen eine Lex FragDenStaat: Wir reichen Verfassungsbeschwerde gegen Transparenzgesetz Rheinland-Pfalz ein"
+title: "Gegen die Lex FragDenStaat: Wir reichen Verfassungsbeschwerde gegen Transparenzgesetz Rheinland-Pfalz ein"
 ---
 
 Wir haben heute in Kooperation mit der Gesellschaft für Freiheitsrechte (GFF) [Verfassungsbeschwerde gegen das Transparenzgesetz Rheinland-Pfalz]( https://transparenzklagen.de/verfassungsbeschwerde/) eingereicht.
