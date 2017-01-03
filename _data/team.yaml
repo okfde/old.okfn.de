@@ -140,7 +140,7 @@
   board: 0
   advisory: no
   position:
-  bio: "Arne betreut für die Open Knowledge Foundation das Portal FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet nebenbei als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem für Hochschulwatch.de und im Beirat des Whistleblower-Netzwerks."
+  bio: "Arne ist bei der Open Knowledge Foundation Projektleiter des Portals FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet nebenbei als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem bei Transparency International als Leiter für die AG Wissenschaft, für Hochschulwatch.de und im Beirat des Whistleblower-Netzwerks."
   bio_en: "Arne leads FragDenStaat.de and is an expert in the domain of Freedom of Information (FOI). With a background in political science, he also works as a freelance journalist and engages with other NGOs in topics related to transparency and lobbyism, e.g. for Hochschulwatch.de and the Whistleblower Network."
   mail: arne.semsrott@okfn.de
   twitter: arnesemsrott
@@ -209,7 +209,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Mara Mendes leitet das EU-Forschungsprojekt DIGIWHIST, ein Projekt das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten will. Bevor sie zur Open Knowledge Foundation Deutschland kam hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
+  bio: "Mara Mendes leitet das EU-Forschungsprojekt DIGIWHIST, ein Projekt, das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten will. Bevor sie zur Open Knowledge Foundation Deutschland kam, hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
   bio_en: "Mara Mendes is project lead of the EU research project The Digital Whistleblower: Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed. The central objective of DIGIWHIST is to improve trust in governments and efficiency of public spending across Europe. Previously, she has worked in the area of advocacy and campaigning with Transparency International. Mara is interested in fighting against and preventing corruption. She holds a masters degree in Media, Communication and Development and a Bachelor in Sociology, Politics and Media Science."
   mail: mara.mendes@okfn.de
   twitter: maryrmendes
@@ -418,7 +418,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Xiaowei arbeitet seit November 2016 im Rahmen des Bundeskanzler-Stipendiums bei Open Knowledge Foundation als Gastwissenschaftlerin und forscht zu Informationsfreiheit in Deutschland."
+  bio: "Xiaowei arbeitet seit November 2016 im Rahmen des Bundeskanzler-Stipendiums bei der Open Knowledge Foundation Deutschland als Gastwissenschaftlerin und forscht zu Informationsfreiheit in Deutschland."
   bio_en: "Xiaowei works in the frame of German Chancellor Fellowship since November 2016 for Open Knowledge Foundation as Visiting Scholar. Her project is Freedom of Information in Germany."
   mail: "xiaowei.chen@okfn.de"
   twitter: xiaowei_chen
@@ -488,18 +488,6 @@
   website:
 
 - name: Jörn von Lucke
-  title: Prof. Dr.
-  img:
-  staff: 0
-  board: 0
-  advisory: 1
-  position:
-  bio: ""
-  mail:
-  twitter:
-  website:
-
-- name: Christian Bizer
   title: Prof. Dr.
   img:
   staff: 0
