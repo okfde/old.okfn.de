@@ -12,6 +12,7 @@ tags:
 - Open Data
 - Open GLAM
 - Open Transport
+- republica
 title: Open Data auf der re:publica 2013
 type: post
 ---

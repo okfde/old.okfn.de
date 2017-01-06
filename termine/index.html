@@ -1,0 +1,32 @@
+---
+layout: page
+title: Termine
+menu_termine: yes
+---
+
+{% for event in site.data.calendar.vcalendar[0].vevent %}
+<div class="row row-flex row-flex-wrap">
+	<div class="flex-col col-md-4 col-sm-6 col-xs-12 termin-box">
+		<div>
+			<h4>{{event.summary}}</h4>
+			<p>When: {{event.dtstart | date: "%d.%m.%Y"}}</p>
+			<p>Where: {{event.location | replace: '\,', ','}}</p>
+			{% if event.url %}
+			<p>Info: <a href="{{event.url}}">Link</a></p>
+			{% endif %}
+			<p>{{event.description}}</p>
+			<!--{{event | jsonify}}-->
+		</div>
+	</div>
+</div>
+{% endfor %}
+
+<hr>
+
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=okfn.de_jcb2bir16010snrta90clnthrg%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=Europe%2FBerlin"
+		style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!--
+
+https://www.google.com/calendar/ical/okfn.de_jcb2bir16010snrta90clnthrg@group.calendar.google.com/public/basic.ics
+
+-->

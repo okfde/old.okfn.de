@@ -58,7 +58,7 @@ menu_blog: yes
 
 {% assign relatedPosts = site.related_posts %}
 {% assign relatedArray = '' | split:':' %}
-{% for post in relatedPosts | limit: 4 %}
+{% for post in relatedPosts limit: 4 %}
 	{% assign relatedArray = relatedArray | push: post %}
 {% endfor %}
 {% capture thesize %}{{ relatedArray.size }}{% endcapture %}

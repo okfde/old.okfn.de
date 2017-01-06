@@ -7,7 +7,7 @@ layout: post
 tags:
 - Termine
 - Open Knowledge Meetup
-- re:publica
+- republica
 title: Let's Meet Up again!
 type: post
 ---

@@ -2,7 +2,8 @@
 author: Christian Heise
 date: 2013-05-15 11:30:00
 layout: post
-tags: []
+tags:
+- republica
 title: Alle Videos der Open Knowledge Foundation auf der re:publica 2013
 type: post
 ---
