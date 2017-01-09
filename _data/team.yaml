@@ -134,6 +134,19 @@
   twitter: vavoida
   website:
 
+- name: Michael Peters
+  img: 
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist bei der OKF DE in den Projekten EU Subsidy Stories, OpenBudgets.eu und OffenerHaushalt.de. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und setzt sich für Transparenz von Fiskaldaten ein. Zu seinen Hauptaufgaben zählen Data Mining und Datenanalyse."
+  bio_en: "Michael joined OKF Germany as Data Scientist for the projects: EU Subsidy Stories, OpenBudgets.eu and OffenerHaushalt.de. He studied Public Economics and advocates Transparency of Fiscal Data. His main tasks are Data Mining and Data Analysis."
+  mail: "michael.peters@okfn.de"
+  twitter: miguelitoj89
+  github: michaeljokf
+
+
 - name: Arne Semsrott
   img: arnesemsrott
   staff: 1
