@@ -3,11 +3,12 @@ type: research
 title: Prototype Fund
 url: http://prototypefund.de
 img: projects/prototypefund.jpg
+img_square: projects/prototypefund_square.jpg
 layout: project
 people:
   - name: Julia Kloiber
     role: Projektleitung
-  - name: Cosmin Cabulea
+  - name: Elisa Lindinger
     role: Projektleitung
   - name: Fiona Krakenbürger
     role: Community Management
