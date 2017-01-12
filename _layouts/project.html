@@ -85,13 +85,14 @@ menu_projekte: yes
 
 </div>
 
+<!--
 <hr/>
 
 <h3 class="subtle-section">{% t projekt.WeitereProjekte %}</h3>
 <div class="row">
 	<div class="col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10">
 		<div class="row row-flex row-flex-wrap">
-			{% assign projects = site.projects | where: "type", "featured" | sort:"featured","last" %}
+			{% assign projects = site.projects | sample: 4%}
 			{% assign count = 0 %}
 			{% for project in projects limit:4 %}
 			{% if project.title != page.title %}
@@ -104,3 +105,4 @@ menu_projekte: yes
 		</div>
 	</div>
 </div>
+-->
