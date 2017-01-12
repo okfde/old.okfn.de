@@ -19,7 +19,7 @@ contact:
 video: "https://player.vimeo.com/video/102604678"
 de:
   stats: 20 000+<br/>Anfragen
-  teaser: wurden bei <a href="/projekte/fragdenstaat/">FragDenStaat.de</a> von Bürgen an Behörden gestellt.
+  teaser: wurden bei <a href="/projekte/fragdenstaat/">FragDenStaat.de</a> von BürgerInnen an Behörden gestellt.
   subtitle: Das Informationsfreiheitsportal
   content: |-
      Jede Person hat das Recht auf Informationen. 
