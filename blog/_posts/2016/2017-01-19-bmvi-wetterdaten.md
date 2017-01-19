@@ -34,7 +34,8 @@ Das ist ein Problem für den demokratischen Diskurs, nicht nur in Hinsicht auf d
 Es ist zwar absolut begrüßenswert, wenn Ministerien zentrale Datensätze aus ihren Verwaltungen veröffentlichen. Die Öffnung der Daten muss aber auch mit einer Öffnung der zugrundeliegenden Prozesse einhergehen. Es muss möglich sein, sich kritisch mit der Arbeit der Ministerien auseinanderzusetzen. Dass Gesetzentwürfe, die von Ministerien überschwänglich gelobt werden, auch von der Öffentlichkeit überprüft werden sollen, sollte in einer Demokratie eigentlich selbstverständlich sein. 
 
 Vor einem Monat ist Deutschland feierlich der Open Government Partnership [beigetreten](http://www.opengovpartnership.org/blog/johanna-zum-felde/2016/12/09/deutschland-ist-jetzt-teil-der-open-government-partnership-ogp). Damit bekennt sich die Bundesrepublik zu offenem Regierungshandeln, zu Transparenz und Partizipation. Eine Teilhabe an politischen Prozessen kann aber nur ermöglicht werden, wenn das dazugehörige Wissen öffentlich ist. Offene Datensätze sind ein Teil davon - die gesetzlichen Grundlagen, auf denen Daten veröffentlicht werden sollen, gehören aber genauso dazu. 
-</br></br></br>
+<br><br><br>
+
 *Zur Klarstellung: Wir kritisieren die unzureichende Informationspolitik des Ministeriums und fehlende Recherche der Medien. Mit dem [irreführenden, schwammigen und auch gefährlichen](http://uebermedien.de/11899/fake-news-und-der-blinde-fleck-der-medien/) Begriff “Fake News” hat das nichts zu tun.*
 
 *Foto: How to Take Lightning Shots, David via [flickr](https://www.flickr.com/photos/davidw/490726436/)*
