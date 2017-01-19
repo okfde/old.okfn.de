@@ -1,7 +1,7 @@
 ---
 authors:
 - OKF
-date: "2017-01-19 18:00:00"
+date: "2017-01-19 14:00:00"
 image:
   src: /files/blog/2017/01/lightning.jpg
   title: How to Take Lightning Shots, David via <a href="https://www.flickr.com/photos/davidw/490726436/">flickr</a>
