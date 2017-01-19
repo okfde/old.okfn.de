@@ -4,13 +4,13 @@ authors:
 date: "2017-01-19 18:00:00"
 image:
   src: /files/blog/2017/01/lightning.jpg
-  title: How to Take Lightning Shots, David via [flickr](https://www.flickr.com/photos/davidw/490726436/)
-  license: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+  title: How to Take Lightning Shots, David via <a href="https://www.flickr.com/photos/davidw/490726436/">flickr</a>
+  license: <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
 type: post
 layout: post
 card: true
 tags:
-- "33c3"
+- "BMVI"
 title: "Pressemitteilung statt Offenheit: Open Government ist mehr als nur Open Data"
 ---
 
