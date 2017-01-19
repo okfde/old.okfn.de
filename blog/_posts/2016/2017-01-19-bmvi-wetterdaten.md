@@ -1,10 +1,10 @@
 ---
 authors:
-- OKF
+- Arne Semsrott
 date: "2017-01-19 14:00:00"
 image:
   src: /files/blog/2017/01/lightning.jpg
-  title: How to Take Lightning Shots, David via <a href="https://www.flickr.com/photos/davidw/490726436/">flickr</a>
+  title:
   license: <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
 type: post
 layout: post
@@ -36,3 +36,5 @@ Es ist zwar absolut begrüßenswert, wenn Ministerien zentrale Datensätze aus i
 Vor einem Monat ist Deutschland feierlich der Open Government Partnership [beigetreten](http://www.opengovpartnership.org/blog/johanna-zum-felde/2016/12/09/deutschland-ist-jetzt-teil-der-open-government-partnership-ogp). Damit bekennt sich die Bundesrepublik zu offenem Regierungshandeln, zu Transparenz und Partizipation. Eine Teilhabe an politischen Prozessen kann aber nur ermöglicht werden, wenn das dazugehörige Wissen öffentlich ist. Offene Datensätze sind ein Teil davon - die gesetzlichen Grundlagen, auf denen Daten veröffentlicht werden sollen, gehören aber genauso dazu. 
 
 *Zur Klarstellung: Mit dem [irreführenden, schwammigen und auch gefährlichen](http://uebermedien.de/11899/fake-news-und-der-blinde-fleck-der-medien/) Begriff “Fake News” hat das nichts zu tun.*
+
+*Foto: How to Take Lightning Shots, David via [flickr](https://www.flickr.com/photos/davidw/490726436/)*
