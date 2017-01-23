@@ -10,7 +10,7 @@
 				{% assign authors = "" | split:"|"  %}
 				{% if post.author %}{% assign authors = authors | push: post.author %}{% endif %}
 				{% for a in post.authors %}{% assign authors = authors | push: a %}{% endfor %}
-				{% for author in authors %}{{author}}{% unless forloop.last %} und {% endunless %}{% endfor %}<br/>
+				{% for author in authors %}{{author}}{% unless forloop.last %} {% t blog.Und %} {% endunless %}{% endfor %}<br/>
 			</p>
 		</div>
 	</div>
