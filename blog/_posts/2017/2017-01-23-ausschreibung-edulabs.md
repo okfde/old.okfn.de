@@ -21,7 +21,9 @@ Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Die Open Kno
 
 **Vorbehaltlich der Bewilligung durch den Projektträger suchen wir für die edulabs zum 1. März 2017 eine Projektassistenz in Teilzeit (50%). Wir bieten Euch ein tolles Arbeitsumfeld in einem jungen und sehr dynamischen Team. Die Projektlaufzeit ist vorerst bis August 2018 befristet.**
 <hr>
+
 **Projektassistenz „edulabs“ (03/2017-08/2018, 50% TVöD E13.1)**
+
 Die Rolle umfasst die folgenden Aufgaben:
 
 * Unterstützung der Entwicklung der edulabs-Community in drei Städten: Betreuung der Lab-Projekte, Aufbau und Koordination des Lab-Netzwerks
