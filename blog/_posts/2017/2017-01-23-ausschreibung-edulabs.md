@@ -29,7 +29,7 @@ Die Rolle umfasst die folgenden Aufgaben:
 * Öffentlichkeitsarbeit, Bloggen, soziale Netzwerke
 * Unterstützung im Projektmanagement nach Bedarf und Organisation von Veranstaltungen
 
-Das ist uns für die Stelle der Projektassistenz wichtig:**
+Das ist uns für die Stelle der Projektassistenz wichtig:
 
 * Freie Bildung ist Dir wichtig und Du kennst Dich mit konkreten didaktischen Themen aus
 * Du hast Spaß an digitalen Tools, html ist kein Fremdwort und du arbeitest dich schnell in neue Werkzeuge ein
