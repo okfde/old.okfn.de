@@ -36,6 +36,7 @@ Die Rolle der Projektleitung umfasst folgend Aufgaben:
 Die Stelle ist eine 75% Stelle und wird bezahlt nach TVöD E13.3. Die Stelle ist zeitlich begrenzt bis Ende 2018.
  
 **Das ist uns für die Rolle der Projektleitung wichtig**
+
 * Du brennst für Nachhaltigkeitsthemen (ökologische, soziale oder politische Nachhaltigkeit im Sinne der 2030 Agenda) und hast Dich in der Vergangenheit für aktiv für Nachhaltigkeitsthemen engagiert. In einzelnen Themen, die für die 2030Agenda relevant sind, kennst Du Dich sehr gut aus.  
 * Du bist ein/e exzellente/r NetzwerkerIn und verstehst es, unterschiedliche Menschen in einem Projekt zusammen zu bringen. Kommunikation ist Dein Ding (Deutsch und Englisch). Du telefonierst gerne, schreibst gut und gern und triffst gerne Menschen. 
 * Du kennst Dich gut aus in zivilgesellschaftlichen Netzwerken z.B. in der Umweltszene, in der Entwicklungspolitik oder im Menschenrechtsbereich
@@ -48,6 +49,7 @@ Die Stelle ist eine 75% Stelle und wird bezahlt nach TVöD E13.3. Die Stelle ist
 **Studentische Studentische Mitarbeit im 2030 Watch Projekt**
 
 Für 2030Watch suchen wir zusätzliche Unterstützung bei folgenden Aufgaben:
+
 * Unterstützung der lokalen 2030Watch Projekte in vier Städten
 * Unterstützung der Weiterentwicklung der nationalen 2030Watch Plattform: Betreuung der Datenpaten und der Indikatordaten, Aufbau und Koordination des Aktionsnetzwerks
 * Öffentlichkeitsarbeit, Bloggen, soziale Netzwerke
@@ -56,6 +58,7 @@ Für 2030Watch suchen wir zusätzliche Unterstützung bei folgenden Aufgaben:
 Die Arbeitszeit ist 19 Stunden pro Woche bei flexibler Zeiteinteilung. Die Stelle ist zeitlich begrenzt bis Ende 2018.
 
 **Das ist uns für die Stelle der Studentischen Mitarbeit wichtig**
+
 * Du brennst für Nachhaltigkeit und kennst Dich in konkreten Nachhaltigkeitsthemen aus
 * Du arbeitest gern mit Daten und hast Spaß an digitalen Tools. Du interessierst Dich für Open Data und hast Lust darauf auch andere Open Data Projekte kennen zu lernen. 
 * Du bist sehr kommunikativ (Deutsch und Englisch; emails, Blog Posts, Telefonate, persönliche Gespräche) und fühlst Dich in sozialen Medien zuhause
