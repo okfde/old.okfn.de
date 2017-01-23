@@ -1,5 +1,5 @@
 ---
-author: Markus Neuschäfer
+author: Markus Neusch&auml;fer
 date: 2017-01-23 18:00:00
 image:
   src: /files/blog/2017/01/flickr-coloured-pencils.jpg
