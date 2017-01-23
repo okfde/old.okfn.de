@@ -63,5 +63,5 @@ Die Arbeitszeit ist 19 Stunden pro Woche bei flexibler Zeiteinteilung. Die Stell
 * Idealerweise hast Du auch Erfahrung in der Organisation und Moderation von Veranstaltungen
 
 <hr> 
-Interessierst Du Dich für eine der beiden Stellen? Dann freuen wir uns auf Deine Bewerbung bis zum 20 Februar! Bitte schick Deine elektronische Bewerbung an **2030-watch@okfn.de**
+Interessierst Du Dich für eine der beiden Stellen? Dann freuen wir uns auf Deine Bewerbung bis zum 20 Februar! Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen. Bitte schick Deine elektronische Bewerbung an **2030-watch@okfn.de**
 **Wir freuen uns auf Dich!**
