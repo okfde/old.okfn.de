@@ -31,14 +31,14 @@ Die Rolle der Projektleitung umfasst folgend Aufgaben:
 * Förderung der Nutzung von 2030Watch durch den Aufbau eines Netzwerkes von Aktionspartnern, Gespräche und Veranstaltungen mit Parlamentariern und Vernetzung mit Journalisten
 * Projektmanagement und Fundraising
 * Strategische Weiterentwicklung des Projektes
-* Öffentlichkeitsarbeit in Form von Blogposts oder Vorträgen, etc.
+* Öffentlichkeitsarbeit in Form von Blogposts oder Vorträgen, etc. auf Deutsch und Englisch
 
 Die Stelle ist eine 75% Stelle und wird bezahlt nach TVöD E13.3. Die Stelle ist zeitlich begrenzt bis Ende 2018.
  
 **Das ist uns für die Rolle der Projektleitung wichtig**
 
 * Du brennst für Nachhaltigkeitsthemen (ökologische, soziale oder politische Nachhaltigkeit im Sinne der 2030 Agenda) und hast Dich in der Vergangenheit für aktiv für Nachhaltigkeitsthemen engagiert. In einzelnen Themen, die für die 2030Agenda relevant sind, kennst Du Dich sehr gut aus.  
-* Du bist ein/e exzellente/r NetzwerkerIn und verstehst es, unterschiedliche Menschen in einem Projekt zusammen zu bringen. Kommunikation ist Dein Ding (Deutsch und Englisch). Du telefonierst gerne, schreibst gut und gern und triffst gerne Menschen. 
+* Du bist ein/e exzellente/r NetzwerkerIn und verstehst es, unterschiedliche Menschen in einem Projekt zusammen zu bringen. Kommunikation ist Dein Ding (auf Deutsch und auf Englisch). Du telefonierst gerne, schreibst gut und gern und triffst gerne Menschen. 
 * Du kennst Dich gut aus in zivilgesellschaftlichen Netzwerken z.B. in der Umweltszene, in der Entwicklungspolitik oder im Menschenrechtsbereich
 * Du hast Erfahrung im Projektmanagement, inklusive Finanzmanagement
 * Du hast arbeitest gern mit Daten, hast Spaß an digitalen Tools und Lust Dich in neue Werkzeuge einzuarbeiten
