@@ -12,6 +12,7 @@ modified for OKF needs
 
 - supports autochoice index by suffix: e.g. index.en.md/index.de.md
 - less chatty in log
+- workaround for not having variables in page.title
 
 =end
 
@@ -359,10 +360,24 @@ module Jekyll
       translation = site.parsed_translations[lang].access(key) if key.is_a?(String)
 
       if translation.nil? or translation.empty?
-         translation = key # site.parsed_translations[site.config['default_lang']].access(key)
+         translation = site.parsed_translations[site.config['default_lang']].access(key)
 
-        #puts "Missing i18n key: #{lang}:#{key}"
-        #puts "Using translation '%s' from default language: %s" %[translation, site.config['default_lang']]
+         if (translation.nil? or translation.empty?) and site.config['lang_report_missing']
+            puts "Missing i18n key: #{lang}:#{key}"
+            puts "Using translation '%s' from default language: %s" %[translation, site.config['default_lang']]
+         end
+
+         if translation.nil? or translation.empty?
+             translation = key
+             if key === 'page.title'
+                 translation = context.environments.first["page"]["tag"]
+             end
+             if translation.nil? or translation.empty?
+                 translation = key
+             end
+         end
+
+
       end
 
       translation
