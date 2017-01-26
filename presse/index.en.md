@@ -8,11 +8,11 @@ background: backgrounds/services.jpg
 
 If you are looking for specific background information, have concrete questions about our projects, or need an interview partner from our organisation, please contact our press team. We will happily assist you! 
 
-## Contact
+## Contact: Eileen Wagner
 
-Eileen Wagner
 Email
 : <a href="mailto:presse@okfn.de">presse@okfn.de</a>
+
 Phone
 : <a href="tel:+49 30 57703666 2">+49 30 57703666 2</a>
 
