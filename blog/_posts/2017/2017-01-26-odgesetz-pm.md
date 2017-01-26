@@ -1,7 +1,7 @@
 ---
 authors:
 - Open Knowledge Foundation
-date: 2017-01-26 09:30:00
+date: 2017-01-26 07:30:00
 image:
   src: /files/blog/2017/01/open.jpg
   title: 
