@@ -16,7 +16,7 @@ tags:
 title: "Neues Open-Data-Gesetz: Zu schwach, zu schwammig, zu spät"
 ---
 
-Berlin, 26.01.2017 - Das Bundeskabinett hat gestern das Open-Data-Gesetz beschlossen, das zu einer Offenlegung von Daten im Bestand der Bundesbehörden führen soll. Der Gesetzentwurf ist aber unausgegoren: Anstatt in der Debatte um falsche Medienberichterstattung (“Fake News”) auf die verpflichtende Veröffentlichung harter Fakten zu setzen, hat sich die Bundesregierung auf einen Minimalkonsens geeinigt. Viele Behörden werden kaum neue Daten veröffentlichen.
+Berlin, 26.01.2017 - Das Bundeskabinett hat [gestern das Open-Data-Gesetz beschlossen](https://www.bmi.bund.de/SharedDocs/Pressemitteilungen/DE/2017/01/open-data-gesetz.html), das zu einer Offenlegung von Daten im Bestand der Bundesbehörden führen soll. Der Gesetzentwurf ist aber unausgegoren: Anstatt in der Debatte um falsche Medienberichterstattung (“Fake News”) auf die verpflichtende Veröffentlichung harter Fakten zu setzen, hat sich die Bundesregierung auf einen Minimalkonsens geeinigt. Viele Behörden werden kaum neue Daten veröffentlichen.
 
 Arne Semsrott, Projektleiter Open Knowledge Foundation: “Das Gesetz droht zum ineffektiven Bürokratiemonster zu werden. Nach der vorgesehenen Regelung müssen Behörden vor der Veröffentlichung von Datensätzen 20 verschiedene Ausnahmetatbestände prüfen. Statt der Verwaltung die Angst vor mehr Transparenz zu nehmen, wird die vorgesehene Regelung noch mehr Unsicherheit und Unklarheit erzeugen.”
 
