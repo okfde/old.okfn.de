@@ -12,6 +12,7 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 E-Mail
 : <a href="mailto:presse@okfn.de">presse@okfn.de</a>
+
 Telefon
 : <a href="tel:+49 30 57703666 2">+49 30 57703666 2</a>
 
