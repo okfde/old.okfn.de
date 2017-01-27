@@ -31,8 +31,8 @@ Diese Seite wird dann automatisch gefüllt, soll der Eintrag entfernt werden, bi
 		{% if post.jobs %}
 		{% for job in post.jobs %}
 		<li class="job-entry">
-		    <a href="{{ site.baseurl }}/{{ post.fullurl }}"><h4>{{ job }}</h4></a>
-			<a href="{{ site.baseurl }}/{{ post.fullurl }}">{% t jobs.Informationen %}</a>
+		    <a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}"><h4>{{ job }}</h4></a>
+			<a href="{{ site.baseurl }}/{{ post.url | remove_first:'/'}}">{% t jobs.Informationen %}</a>
 		</li>
 		{% endfor %}
 		{% endif %}
