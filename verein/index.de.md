@@ -19,7 +19,7 @@ Im Folgenden findest Du alle Informationen über den Open Knowledge Foundation D
 
 ## Ziele
 
-Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind. Besonders setzen wir uns dafür ein, dass Bürgerinnen und Bürger ihre Rechte auch online wahrnehmen können.
+Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Grundrechte. Besonders setzen wir uns dafür ein, dass Bürgerinnen und Bürger ihre Rechte auch online wahrnehmen können.
 
 Freies Wissen hilft Bürgerinnen und Bürgern, sich zu informieren und führt zu einer aufgeklärten Meinungsbildung. Es schafft gesellschaftlichen und ökonomischen Mehrwert und ist, aus unserer Sicht, in einem demokratischen Staat unerlässlich. Wir streben nach einer Welt, in der offenes Wissen sowohl online als auch offline im Alltag verankert ist. Offenes Wissen liefert weitreichenden gesellschaftlichen Nutzen. Unter anderem ermöglicht es:
 
