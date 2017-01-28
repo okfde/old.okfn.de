@@ -1,6 +1,6 @@
 ---
 authors:
-- Open Knowledge Foundation
+- OKF
 date: 2017-01-26 07:30:00
 image:
   src: /files/blog/2017/01/open.jpg
