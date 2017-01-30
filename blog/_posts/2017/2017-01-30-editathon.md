@@ -5,7 +5,7 @@ date: 2017-01-30 13:30:00
 image:
   src: /files/blog/2017/01/editathon.jpg
   title: 
-  license: <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> Fotograf: <a href="https://www.flickr.com/photos/ter-burg/16058331118/in/photolist-qt29nU-qt9mV6-eiTKGm-qHizj9-dPRRjF-eiViuN-qkiJWV-qKAn3t-eiVhGs-eiMMr8-qt29qE-eZdEsR-ecNVrs-eiViL5-qHizRm-nn3Pjo-6J7g22-qt9mvD-eiN2dF-qFJ7CX-eiTKty-eiVibb-eiPy76-6Jbjqw-qFJajD-eiPxYt-eiVi2J-mGrjDD-qFAnRb-eiVisb-eiPz9e-eiVibC-eiViQj-e5omic-eiTw2f-6Jbkh3-e5omBZ-eZdCn4-dkiQai-eiVioC-dPXsu7-eiTKAJ-eiViib-gJ3nJS-eiN2hV-gJ48up-eiPyrt-h4CmA7-e77xY9-eiPz3a">Sebastiaan ter Burg</a>
+  license: 
 type: post
 layout: post
 card: true
@@ -27,3 +27,5 @@ Wann und wo findet der Editathon statt? Am Samstag, den 18.02.2017, von 12 bis 1
 Was wird passieren? Zuerst gibt es noch mal einen kleinen Einführungsworkshop dazu, wie man die Wikipedia richtig bearbeitet. Und danach geht es auch schon los!
 
 Ihr habt noch Fragen? Wenn ihr noch etwas wissen wollt, kein Problem. Meldet euch einfach bei mir, Leonard Wolf per Mail (leonard.wolf@okfn.de) oder Telefon (+49 30 57703666 0).
+
+Foto: <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> Fotograf: <a href="https://www.flickr.com/photos/ter-burg/16058331118/in/photolist-qt29nU-qt9mV6-eiTKGm-qHizj9-dPRRjF-eiViuN-qkiJWV-qKAn3t-eiVhGs-eiMMr8-qt29qE-eZdEsR-ecNVrs-eiViL5-qHizRm-nn3Pjo-6J7g22-qt9mvD-eiN2dF-qFJ7CX-eiTKty-eiVibb-eiPy76-6Jbjqw-qFJajD-eiPxYt-eiVi2J-mGrjDD-qFAnRb-eiVisb-eiPz9e-eiVibC-eiViQj-e5omic-eiTw2f-6Jbkh3-e5omBZ-eZdCn4-dkiQai-eiVioC-dPXsu7-eiTKAJ-eiViib-gJ3nJS-eiN2hV-gJ48up-eiPyrt-h4CmA7-e77xY9-eiPz3a">Sebastiaan ter Burg</a>
