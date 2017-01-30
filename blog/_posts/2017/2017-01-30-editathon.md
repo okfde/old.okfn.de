@@ -22,7 +22,7 @@ title: "Freies Wissen in der Wikipedia"
 
 <p><b>Was ist ein Editathon?</b> Der Begriff “Editathon” setzt sich zusammen aus dem Begriff “editieren”, also bearbeiten, und “Marathon”. Es kommen also Leute zusammen, die sich darauf stürzen die Wikipedia gemeinsam zu unterstützen und zu bearbeiten.</p>
 
-<p><b>Wann und wo findet der Editathon statt?</b> Am Samstag, den 18.02.2017, von 12 bis 16 Uhr im Büro der Wikimedia Deutschland (Tempelhofer Ufer 23/24, 10963 Berlin). Ihr kommt von außerhalb Berlins und wollt extra anreisen? Kein Problem! Meldet euch bei uns und wir können voraussichtlich die Reisekosten übernehmen.</p>
+<p><b>Wann und wo findet der Editathon statt?</b> Am Samstag, den 18.02.2017, von 12 bis 16 Uhr im Büro der Wikimedia Deutschland (Tempelhofer Ufer 23/24, 10963 Berlin). Ihr kommt von außerhalb Berlins und wollt extra anreisen? Kein Problem! Meldet euch bei community@wikimedia.de damit die Reisekosten übernommen werden.</p>
 
 <p><b>Was wird passieren?</b> Zuerst gibt es noch mal einen kleinen Einführungsworkshop dazu, wie man die Wikipedia richtig bearbeitet. Und danach geht es auch schon los!</p>
 
