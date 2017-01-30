@@ -14,7 +14,7 @@ Gibt es anstehende Baumaßnamen in meiner direkten Umgebung? Warum wird der Spie
 
 Zwar sind die Antworten auf solche und ähnliche Fragen oftmals in lokalen Systemen der Verwaltung gespeichert, doch der Zugang für Bürger gestaltet sich äußerst schwierig. Alternative Ratssysteme bieten einen neuen Zugang zu diesen Informationen und sorgen für mehr Transparenz in Städten, machen Politik sichtbarer und Mitbestimmung leichter.
 
-![Screenshot](/files/blog/2015/01/Screen-Shot-2015-01-14-at-21.32.17.png =620x) Politik-Bei-Uns.de
+![Screenshot](/files/blog/2015/01/Screen-Shot-2015-01-14-at-21.32.17.png) Politik-Bei-Uns.de
 
 Wie das funktionieren kann, zeigen seit 2012 eindrucksvoll die Projekte "Offenes Köln" bzw. "OpenRuhr:RIS". Nun hat der gemeinnützige Verein Open Knowledge Foundation Deutschland e.V. diese Projekte zusammengeführt und gemeinsam mit ehrenamtlichen Entwicklern eine neue Plattform aufgebaut, die es allen Bürgerinnen und Bürgern ermöglichen soll, schnell und einfach auf alle kommunalpolitische Daten ihrer Städte zuzugreifen.
 
