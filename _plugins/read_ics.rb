@@ -1,5 +1,7 @@
 module Jekyll
   require 'selene'
+  require 'icalendar'
+  require 'json'
 
   class ICSDataReader < Generator
     def generate(site)
@@ -12,9 +14,28 @@ module Jekyll
         path = File.join(site.source, dir, entry)
         next if File.symlink?(path) && site.safe
         key = sanitize_filename(File.basename(entry, '.*'))
-        ical = Selene.parse(File.read(path))
+        #ical = Selene.parse(File.read(path))
+
+        event_file = File.open(path)
+        events = Icalendar::Event.parse(event_file)
+
+        eventhash = [];
+        events.each do |event|
+            e = {
+                 "dtstart" => "#{event.dtstart}",
+                 "dtend" => "#{event.dtend}",
+                 "tzid" => "#{event.dtstart.ical_params['tzid']}",
+                 "organizer" => "#{event.organizer}",
+                 "description" => "#{event.description}",
+                 "summary" => "#{event.summary}",
+                 "url" => "#{event.url}",
+                 "location" => "#{event.location}",
+                 "geo" => "#{event.geo}"
+            }
+            eventhash.push(e)
+        end
         ics_data = Hash.new
-        ics_data[key] = ical
+        ics_data[key] = eventhash;
         site.data.merge!(ics_data)
       end
     end
