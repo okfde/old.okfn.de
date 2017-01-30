@@ -14,11 +14,7 @@
                 {% if post.author.name %}
                     <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
                 {% endif %}        
-                {% if post.excerpt %}
-                    <description>{{ post.excerpt | xml_escape }}</description>
-                {% else %}
-                    <description>{{ post.content | xml_escape }}</description>
-                {% endif %}
+                <description>{{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
                 <link>{{ site.fullurl }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.fullurl }}{{ post.url }}</guid>
