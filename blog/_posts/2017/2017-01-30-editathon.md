@@ -28,4 +28,6 @@ title: "Freies Wissen in der Wikipedia"
 
 <p><b>Ihr habt noch Fragen?</b> Wenn ihr noch etwas wissen wollt, kein Problem. Meldet euch einfach bei mir, Leonard Wolf per Mail (leonard.wolf@okfn.de) oder Telefon (+49 30 57703666 0).</p>
 
+Wenn ihr dabei sein wollt, dann tragt euch gerne auf der entsprechenden Wikipediaseite dazu ein: <a href="https://de.wikipedia.org/wiki/Wikipedia:Berlin#Samstag.2C_18._Februar_2017.2C_12.E2.80.9316_Uhr:_Freies_Wissen_in_der_Wikipedia">18.02. - Freies Wissen in der Wikipedia</a>
+
 Foto: <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> Fotograf: <a href="https://www.flickr.com/photos/ter-burg/16058331118/in/photolist-qt29nU-qt9mV6-eiTKGm-qHizj9-dPRRjF-eiViuN-qkiJWV-qKAn3t-eiVhGs-eiMMr8-qt29qE-eZdEsR-ecNVrs-eiViL5-qHizRm-nn3Pjo-6J7g22-qt9mvD-eiN2dF-qFJ7CX-eiTKty-eiVibb-eiPy76-6Jbjqw-qFJajD-eiPxYt-eiVi2J-mGrjDD-qFAnRb-eiVisb-eiPz9e-eiVibC-eiViQj-e5omic-eiTw2f-6Jbkh3-e5omBZ-eZdCn4-dkiQai-eiVioC-dPXsu7-eiTKAJ-eiViib-gJ3nJS-eiN2hV-gJ48up-eiPyrt-h4CmA7-e77xY9-eiPz3a">Sebastiaan ter Burg</a>
