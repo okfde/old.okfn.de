@@ -5,17 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% if page.home %}<title>Open Knowledge Foundation Deutschland - Offenes Wissen für die digitale Gesellschaft</title>
   {% else %}<title>{% t page.title %} &gt; Open Knowledge Foundation Deutschland</title>{% endif %}
-  {% if page.card %}<meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@okfde">
-  <meta name="twitter:creator" content="@okfde">
-  {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
-  {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
-  {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | truncatewords: 50 | truncate: 199 }}">
-  {% else if page.description %}<meta name="twitter:description" content="{{ page.description }}">
-  {% else if site.description %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
-  {% if page.image %}<meta name="twitter:image:src" content="{{site.fullurl}}{{ page.image.src }}">{% else %}<meta name="twitter:image:src" content="{{site.fullurl}}{{ site.staticurl }}images/logo_black_solid.png">{% endif %}
+  {% if page.card %}
+     <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@okfde">
+    <meta name="twitter:creator" content="@okfde">
+    {% if page.title %}
+      <meta name="og:title" content="{{ page.title }}">
+      <meta name="twitter:title" content="{{ page.title }}">
+    {% else %}
+      <meta name="og:title" content="{{ site.title }}">
+      <meta name="twitter:title" content="{{ site.title }}">
+    {% endif %}
+    {% if page.url %}
+      <meta name="og:url" content="{{ site.url }}{{ page.url }}">
+      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    {% if page.excerpt %}
+        <meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | truncatewords: 50 | truncate: 199 }}">
+        <meta name="og:description" content="{{ page.excerpt | markdownify | strip_html | truncatewords: 50 | truncate: 199 }}">
+    {% else if page.description %}
+        <meta name="twitter:description" content="{{ page.description }}">
+        <meta name="og:description" content="{{ page.description }}">
+    {% else if site.description %}
+        <meta name="twitter:description" content="{{ site.description }}">
+        <meta name="og:description" content="{{ site.description }}">
+    {% endif %}
+    {% if page.image %}
+      <meta name="twitter:image:src" content="{{site.fullurl}}{{ page.image.src }}">
+      <meta name="og:image" content="{{site.fullurl}}{{ page.image.src }}">
+    {% else %}
+      <meta name="twitter:image:src" content="{{site.fullurl}}{{ site.staticurl }}images/logo_black_solid.png">
+      <meta name="og:image" content="{{site.fullurl}}{{ site.staticurl }}images/logo_black_solid.png">
+    {% endif %}
   {% endif %}
+  {% if page.description %}
   <meta name="description" content="{{ page.description }}"/>
+  {% endif %}
+  <meta property="og:type" content="website" />
   <link href="{{ site.staticurl }}style/style.css" rel='stylesheet' type='text/css'>
   <link rel="alternate" type="application/atom+xml" title="Blog der Open Knowledge Foundation Deutschland." href="{{ site.baseurl_root }}/atom.xml"/>
   <link rel="shortcut icon" href="{{ site.staticurl }}images/favicon.ico">
