@@ -49,7 +49,7 @@ Die Stelle ist eine 75% Stelle und wird bezahlt nach TVöD E13.3. Die Stelle ist
 * Du magst es große Handlungsspielräume zu haben und kannst flexibel reagieren auf Gelegenheiten, die sich bieten
 
 <hr> 
-**Studentische Studentische Mitarbeit im 2030 Watch Projekt**
+**Studentische Mitarbeit im 2030 Watch Projekt**
 
 Für 2030Watch suchen wir zusätzliche Unterstützung bei folgenden Aufgaben:
 
