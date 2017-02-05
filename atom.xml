@@ -1,6 +1,6 @@
 ---
-format: "Atom 1.0"
-docs: "http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared"
+rss_format: "Atom 1.0"
+rss_docs: "http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared"
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -8,11 +8,11 @@ docs: "http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared"
     <link href="{{site.fullurl}}/atom.xml" rel="self"/>
     <link href="{{site.fullurl}}"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>{{site.fullurl}}</id>
+    <id>{{site.fullurl}}/</id>
     <author><name>Open Knowledge Foundation Deutschland</name></author>
 {% for post in site.posts limit:20 %}{% if post.unlisted != true %}
  <entry>
-    <title>{{ post.title | xml_escape }}</title>
+    <title type="html">{{ post.title | xml_escape }}</title>
     <link href="{{site.fullurl}}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{site.baseurl}}{{ post.id }}</id>
