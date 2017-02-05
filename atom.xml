@@ -16,7 +16,7 @@ rss_docs: "http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared"
     <link href="{{site.fullurl}}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{site.fullurl}}{{ post.id }}</id>
-    <content type="html">{{ post.content | xml_escape | relative_urls_to_absolute }}</content>
+    <content type="html">{{ post.content | relative_urls_to_absolute | xml_escape }}</content>
  </entry>
 {% endif %}{% endfor %}
 </feed>
