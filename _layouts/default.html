@@ -43,7 +43,8 @@
   {% endif %}
   <meta property="og:type" content="website" />
   <link href="{{ site.staticurl }}style/style.css" rel='stylesheet' type='text/css'>
-  <link rel="alternate" type="application/atom+xml" title="Blog der Open Knowledge Foundation Deutschland." href="{{ site.baseurl_root }}/atom.xml"/>
+  <link rel="alternate" type="application/atom+xml" title="{% t blog.FeedTitle %}" href="{{ site.fullurl }}/atom.xml"/>
+  <link rel="alternate" type="application/rss+xml" title="{% t blog.FeedTitle %}" href="{{ site.fullurl }}/feed/" />
   <link rel="shortcut icon" href="{{ site.staticurl }}images/favicon.ico">
 </head>
 <body>
