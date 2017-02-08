@@ -85,11 +85,15 @@ Find more information on our projects [here](../projekte/).
 
 ## Funding
 
+In 2015 OKF DE has raised 817.283,02 € from membership payments and benefits (Ideeller Bereich) plus an additional 0,12 € from asset management. Moreover, there have been 161.989,69 € from turnover proceeds (business operations). Total revenue was 979.272,83 €. Total expenditure was 888.650,90 €. The surplus for 2015 was 90.621,93 €.
+
+In 2014 OKF DE has raised 347.344,07 € from membership payments and benefits (Ideeller Bereich). Moreover, there have been 60.525,01 € from turnover proceeds (business operations). Total revenue was 414.919,08 €. Total expenditure was 471.990,54 €. The surplus for 2014 was -57.071,46 €.
+
 In 2013 OKF DE has raised 254.897 € from membership payments and benefits (Ideeller Bereich). Moreover, there have been 58.986 € from turnover proceeds (business operations). Total revenue was 313.883 €. Total expenditure was 302.156 €. The surplus for 2013 was 11.727 €.
 
-In 2012 OKF DE has raised 98.147 € from membership payments and benefits (Ideeller Bereich). Moreover, there have been 58.986 € from turnover proceeds (business operations). Total revenue was 132.539 €. Total expenditure was 105.844 €. The surplus for 2013 was 26.695 €.
+In 2012 OKF DE has raised 98.147 € from membership payments and benefits (Ideeller Bereich). Moreover, there have been 58.986 € from turnover proceeds (business operations). Total revenue was 132.539 €. Total expenditure was 105.844 €. The surplus for 2012 was 26.695 €.
 
-In 2011 OKF DE has raised 50.155 € from membership payments and benefits (Ideeller Bereich). Moreover, there have been 22.111 € from turnover proceeds (business operations). Total revenue was 72.266 €. Total expenditure was 54.278 €. The surplus for 2013 was 17.988 €.
+In 2011 OKF DE has raised 50.155 € from membership payments and benefits (Ideeller Bereich). Moreover, there have been 22.111 € from turnover proceeds (business operations). Total revenue was 72.266 €. Total expenditure was 54.278 €. The surplus for 2011 was 17.988 €.
 
 ## Expenditure
 

@@ -98,6 +98,10 @@ Am 25.01.2016 wurde [Mara Mendes](https://okfn.de/team/#mara-mendes) zur Ethikbe
 
 ## Mittelherkunft
 
+In 2015 hat die OKF DE 817.283,02 € aus Mitgliedsbeiträgen und Zuwendungen (Ideeller Bereich) sowie 0,12 € aus der Vermögensverwaltung vereinnahmt. Darüber hinaus wurden 2.566,93 € aus Umsatzerlösen im Zweckbetrieb und 159.422,76 € im wirtschaftlichen Geschäftsbetrieb erlöst. Die Gesamteinnahmen betrugen 979.272,83 €. Dem standen Gesamtausgaben von insgesamt 888.650,90 € gegenüber. Das Vereinsergebnis für 2015 lag bei 90.621,93 €.
+
+In 2014 hat die OKF DE 347.344,07 € aus Mitgliedsbeiträgen und Zuwendungen (Ideeller Bereich) erlöst. Darüber hinaus wurden 60.525,01 € aus Umsatzerlösen (Geschäftsbetrieb) gewonnen. Die Gesamteinnahmen betrugen 414.919,08 €. Dem standen Ausgaben von insgesamt 471.990,54 € gegenüber. Das Vereinsergebnis für 2014 lag bei -57.071,46 €.
+
 In 2013 hat die OKF DE 254.897 € aus Mitgliedsbeiträgen und Zuwendungen (Ideeller Bereich) erlöst. Darüber hinaus wurden 58.986 € aus Umsatzerlösen (Geschäftsbetrieb) gewonnen. Die Gesamteinnahmen betrugen 313.883 €. Dem standen Ausgaben von insgesamt 302.156 € gegenüber. Das VEREINSERGEBNIS für 2013 lag bei 11.727 €.
 
 In 2012 hat die OKF DE 98.147 € aus Mitgliedsbeiträgen und Zuwendungen (Ideeller Bereich) erlöst. Darüber hinaus wurden 34.392 € aus Umsatzerlösen (Geschäftsbetrieb) gewonnen. Die Gesamteinnahmen betrugen 132.539 €. Dem standen Ausgaben von insgesamt 105.844 € gegenüber. Das VEREINSERGEBNIS für 2012 lag bei 26.695 €.

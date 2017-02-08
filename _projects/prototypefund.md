@@ -18,7 +18,10 @@ contact:
   twitter: prototypefund
   github: https://github.com/prototypeteam
   mailinglist: http://eepurl.com/b_rDS1
-
+  stats: 325 000<br/>Kulturdaten
+  teaser: wurden bei <a href="/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
+  subtitle: Der Kultur-Hackathon
+  content: |-
 de:
   subtitle: "1,2 Millionen für Open-Source-Projekte"
   content: |-
