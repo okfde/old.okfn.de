@@ -99,6 +99,7 @@ Application of funds
 
 The biggest item in the application of funds were expenditures for the organisation and execution of projects and events as well as the payment of wages and remunerations. OKF DE currently employs an equivalent of roughly 6 full time staff.
 
+* [Balance Sheet 2015](../files/verein/OKF-DE-Gewinnermittlung-kurz-2015.pdf)
 * [Balance Sheet 2014](../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
 * [Balance Sheet 2013](../files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)
 * [Balance Sheet 2012](../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)
