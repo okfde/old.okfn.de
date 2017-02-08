@@ -1,6 +1,6 @@
 # Website for the Open Knowledge Foundation Germany
 
-Repository of [https://okfn.de](okfn.de) – pull requests are welcome.
+Repository of [okfn.de](https://okfn.de) – pull requests are welcome.
 
 ---
 
