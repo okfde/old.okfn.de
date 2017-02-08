@@ -1,26 +1,22 @@
 ---
+rss_format: "Atom 1.0"
+rss_docs: "http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared"
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Open Knowledge Foundation Deutschland</title>
- <link href="{{site.baseurl}}/atom.xml" rel="self"/>
- <link href="{{site.baseurl}}"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{site.baseurl}}</id>
- <author>
-   <name>Open Knowledge Foundation Deutschland</name>
- </author>
-
- {% for post in site.posts %}
- {% if post.unlisted != true %}
-     <entry>
-       <title>{{ post.title | xml_escape }}</title>
-       <link href="{{site.baseurl}}{{ post.url }}"/>
-       <updated>{{ post.date | date_to_xmlschema }}</updated>
-       <id>{{site.baseurl}}{{ post.id }}</id>
-       <content type="html">{{ post.content | xml_escape }}</content>
-     </entry>
- {% endif %}
- {% endfor %}
- 
+    <title>Open Knowledge Foundation Deutschland</title>
+    <link href="{{site.fullurl}}/atom.xml" rel="self"/>
+    <link href="{{site.fullurl}}"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>{{site.fullurl}}/</id>
+    <author><name>Open Knowledge Foundation Deutschland</name></author>
+{% for post in site.posts limit:20 %}{% if post.unlisted != true %}
+ <entry>
+    <title type="html">{{ post.title | xml_escape }}</title>
+    <link href="{{site.fullurl}}{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>{{site.fullurl}}{{ post.id }}</id>
+    <content type="html">{{ post.content | relative_urls_to_absolute | xml_escape }}</content>
+ </entry>
+{% endif %}{% endfor %}
 </feed>

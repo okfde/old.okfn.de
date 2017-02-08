@@ -65,7 +65,7 @@ description: Offenes Wissen für die digitale Gesellschaft
 	</div>
 	<div class="row row-flex row-flex-wrap">
 		{% assign relatedArray = '' | split:':' %}
-		{% for post in site.posts | limit: 4 %}
+		{% for post in site.posts limit: 4 %}
 		{% assign relatedArray = relatedArray | push: post %}
 		{% endfor %}
 		{% include post_previews.html posts=relatedArray %}

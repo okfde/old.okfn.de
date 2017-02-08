@@ -1553,3 +1553,80 @@ header {
     }
   }
 }
+
+//jobs page
+
+.jobs {
+
+  .job-entry {
+    margin-bottom: 60px;
+    h4 {
+      color: $dark-text-color;
+    }
+  }
+
+}
+
+//termine page
+
+.termine {
+  @include flexbox();
+  @include flex-dir(row);
+  @include flex-wrap(wrap);
+  align-content: flex-start;
+  justify-content: space-between;
+  @include flex(0);
+
+  .termin-box {
+    //@include flexbox();
+    //@include flex(1, 100%, auto);
+    //@include flex-dir(row);
+    //@include flex-wrap(nowrap);
+    margin: 0 0 10px 10px;
+
+    width: 100%;
+    @include MQ-M() {
+      width: 48%;
+    }
+
+    padding: 10px 20px;
+    background-color: #ffffff;
+
+    .termin-box-infos {
+      float: left;
+      max-width: 75%;
+
+      i {
+        margin-left: 0;
+      }
+
+      p {
+        margin-top: 3px;
+        font-size: 0.9em;
+      }
+    }
+
+    .termin-box-title {
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+
+    .termin-box-date {
+      float: right;
+      width: 25%;
+      text-align: center;
+
+      .termin-box-date-d {
+        border: 2px solid $okf-secondary;
+        border-radius: 80px;
+        font-size: 36px;
+        height: 76px;
+        padding-top: 26px;
+        text-transform: uppercase;
+        width: 76px;
+        margin: 2px auto;
+        display: block;
+      }
+    }
+  }
+}

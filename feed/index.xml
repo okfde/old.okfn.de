@@ -1,29 +1,21 @@
 ---
+rss_format: "RSS 2.0"
+rss_docs: "http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared"
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Open Knowledge Foundation Deutschland</title>
-        <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>      
+        <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
         <link>{{site.fullurl}}</link>
         <atom:link href="{{ site.fullurl }}/feed/" rel="self" type="application/rss+xml" />
-        {% for post in site.posts limit:10 %}
-            {% if post.unlisted != true %}
-            <item>
-                <title>{{ post.title | xml_escape }}</title>
-                {% if post.author.name %}
-                    <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
-                {% endif %}        
-                {% if post.excerpt %}
-                    <description>{{ post.excerpt | xml_escape }}</description>
-                {% else %}
-                    <description>{{ post.content | xml_escape }}</description>
-                {% endif %}
-                <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-                <link>{{ site.fullurl }}{{ post.url }}</link>
-                <guid isPermaLink="true">{{ site.fullurl }}{{ post.url }}</guid>
-            </item>
-            {% endif %}
-        {% endfor %}
+        {% for post in site.posts limit:20 %}{% if post.unlisted != true %}<item>
+            <title>{{ post.title | xml_escape }}</title>
+            {% assign authors = "" | split:"|"  %}{% if post.author %}{% assign authors = authors | push: post.author %}{% endif %}{% for a in post.authors %}{% assign authors = authors | push: a %}{% endfor %}<dc:creator>{% for author in authors %}{{ author | xml_escape}}{% unless forloop.last %}, {% endunless %}{% endfor %}</dc:creator>
+            <description>{{ post.content | relative_urls_to_absolute | xml_escape }}</description>
+            <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+            <link>{{ site.fullurl }}{{ post.url }}</link>
+            <guid isPermaLink="true">{{ site.fullurl }}{{ post.url }}</guid>
+        </item>{% endif %}{% endfor %}
     </channel>
 </rss>

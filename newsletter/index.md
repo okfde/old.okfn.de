@@ -5,7 +5,7 @@ menu_newsletter: no
 background: backgrounds/science.jpg
 
 ---
-Die Open Knowledge Foundation Deutschland (OKF Deutschland) versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Die Arbeit der OKF Deutschland soll unabhängig, überparteilich, grenzüberschreitend und nicht-kommerziell sein. Die OKF Deutschland fördert und stärkt die Bürgerrechte wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind.
+Die Open Knowledge Foundation Deutschland (OKF Deutschland) versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Die Arbeit der OKF Deutschland soll unabhängig, überparteilich, grenzüberschreitend und nicht-kommerziell sein. Die OKF Deutschland fördert und stärkt die Grundrechte.
 
 
 <form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=4ed2decd59" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="text-center mc-form" target="_blank" role="form">

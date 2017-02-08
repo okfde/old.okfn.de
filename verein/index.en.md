@@ -76,10 +76,10 @@ Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar."
 
 We have published our first annual activity report in 2011. On our blog and in our newsletter, we report on our activities on a monthly basis. Here are our annual activity reports:
 
-* [Activity report 2014](../files/verein/OKFDE-Taetigkeitsbericht-2014.pdf)
-* [Activity report 2013](../files/verein/OKFDE-Taetigkeitsbericht-2013.pdf)
-* [Activity report 2012](../files/verein/OKFDE-Taetigkeitsbericht-2012.pdf)
-* [Activity report 2011](../files/verein/OKFDE-Taetigkeitsbericht-2011.pdf)
+* [Activity report 2014](../../files/verein/OKFDE-Taetigkeitsbericht-2014.pdf)
+* [Activity report 2013](../../files/verein/OKFDE-Taetigkeitsbericht-2013.pdf)
+* [Activity report 2012](../../files/verein/OKFDE-Taetigkeitsbericht-2012.pdf)
+* [Activity report 2011](../../files/verein/OKFDE-Taetigkeitsbericht-2011.pdf)
 
 Find more information on our projects [here](../projekte/).
 
@@ -103,10 +103,11 @@ Application of funds
 
 The biggest item in the application of funds were expenditures for the organisation and execution of projects and events as well as the payment of wages and remunerations. OKF DE currently employs an equivalent of roughly 6 full time staff.
 
-* [Balance Sheet 2014](../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
-* [Balance Sheet 2013](../files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)
-* [Balance Sheet 2012](../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)
-* [Balance Sheet 2011](../files/verein/OKF-DE-Gewinnermittlung-kurz-2011.pdf)
+* [Balance Sheet 2015](../../files/verein/OKF-DE-Gewinnermittlung-kurz-2015.pdf)
+* [Balance Sheet 2014](../../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
+* [Balance Sheet 2013](../../files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)
+* [Balance Sheet 2012](../../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)
+* [Balance Sheet 2011](../../files/verein/OKF-DE-Gewinnermittlung-kurz-2011.pdf)
 
 # Ideological ties
 

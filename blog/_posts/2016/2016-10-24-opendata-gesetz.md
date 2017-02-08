@@ -11,7 +11,7 @@ image:
   license_url: 
 tags:
 - Open Data
-- Open Data Gesetz
+- Open-Data-Gesetz
 - Innenministerium
 type: post
 layout: post

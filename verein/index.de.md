@@ -19,7 +19,7 @@ Im Folgenden findest Du alle Informationen über den Open Knowledge Foundation D
 
 ## Ziele
 
-Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Bürgerrechte, wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind. Besonders setzen wir uns dafür ein, dass Bürgerinnen und Bürger ihre Rechte auch online wahrnehmen können.
+Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Wir fördern und stärken die Grundrechte. Besonders setzen wir uns dafür ein, dass Bürgerinnen und Bürger ihre Rechte auch online wahrnehmen können.
 
 Freies Wissen hilft Bürgerinnen und Bürgern, sich zu informieren und führt zu einer aufgeklärten Meinungsbildung. Es schafft gesellschaftlichen und ökonomischen Mehrwert und ist, aus unserer Sicht, in einem demokratischen Staat unerlässlich. Wir streben nach einer Welt, in der offenes Wissen sowohl online als auch offline im Alltag verankert ist. Offenes Wissen liefert weitreichenden gesellschaftlichen Nutzen. Unter anderem ermöglicht es:
 
@@ -115,6 +115,7 @@ Mittelverwendung
 
 Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 6 Vollzeitäquivalenten.
 
+* [Gewinnermittlung für 2015](../files/verein/OKF-DE-Gewinnermittlung-kurz-2015.pdf)
 * [Gewinnermittlung für 2014](../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
 * [Gewinnermittlung für 2013](../files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)
 * [Gewinnermittlung für 2012](../files/verein/OKF-DE-Gewinnermittlung-kurz-2012.pdf)

@@ -23,9 +23,9 @@ Kulturinstitutionen könnten mittels offener Daten die Voraussetzungen für neue
 Wie Projekte offene Kulturdaten nutzen, zeigt unser Kultur-Hackathon "Coding da Vinci", an dem sich seit 2014 über 60 Kultureinrichtungen aus dem gesamten Bundesgebiet beteiligt haben. Eine Auswahl der entstandenen Projekte:
 <br/>
 <br/>
-**Kulturchnologie**
+**Kulturchronologie**
 
-![Kulturchnologie](/static/images/topics/kulturchronologie.jpg "Kulturchnologie")
+![Kulturchnologie](/static/images/topics/kulturchronologie.jpg "Kulturchronologie")
 
 Die Software des Projekts Kulturchronologie dient der anschaulichen Aufbereitung umfangreicher Chronologien und Historien von Ausstellungsobjekten und digitaler Bestände. Die Software kann sowohl im musealen und im schulischen Kontext eingesetzt werden, um einen schnellen, interaktiven Überblick über zeitliche Abfolgen oder Zusammenhänge verschiedener Datenbestände zu ermöglichen. Mehr [hier](https://codingdavinci.de/projects/2014/kulturchronologie.html#project-name).
 <br/>

@@ -17,6 +17,8 @@ titles:
   Themen: Topics
   Impressum: Contact
   Tags: Blog Tags
+  Jobs: Jobs
+  Spenden: Donations
 themen:
   Themen: Topics
   Mehr: learn more
@@ -42,6 +44,7 @@ person:
 thema:
   WeitereThemen: More Topics
 blog:
+  FeedTitle: Blog of Open Knowledge Foundation Germany
   FeedAbo: subscribe with your feedreeder
   Mehr: Read full post...
   Von: by
@@ -61,6 +64,7 @@ blog:
   SucheWirdGeladen: Search is loading...
   NichtsGefunden: No results found
   ZurueckZumBlog: Back to the blog
+  Und: "&"
 pagination:
   Seiten: Pages
   Aktuelle: Current
@@ -104,3 +108,5 @@ impressum:
     This site is generously supported by <a href="https://www.browserstack.com">BrowserStack</a> for cross-browser compatibility.
   TechJEKYLL: >
     Build with <a href="https://jekyllrb.com/">Jekyll</a> and Data Love.
+jobs:
+  Informationen: More Informations…

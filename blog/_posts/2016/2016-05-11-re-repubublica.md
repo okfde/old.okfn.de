@@ -11,7 +11,7 @@ layout: post
 card: true
 tags:
 - Konferenz
-- re:publica
+- republica
 title: "Bericht von der re:publica 2016"
 ---
 <h2>re:re:publica</h2>

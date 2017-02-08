@@ -1,0 +1,41 @@
+---
+layout: default
+title: Termine
+menu_termine: yes
+---
+<div class="lurking-header">
+	<h1>Termine</h1>
+	<p class="text-center">
+		<!--<a href="https://www.google.com/calendar/ical/okfn.de_jcb2bir16010snrta90clnthrg@group.calendar.google.com/public/basic.ics"><i class="icon-rss-squared"></i> Termine-Feed abonnieren (.ics)</a><br/>-->
+	</p>
+</div>
+
+<!--{{site.data.calendar | jsonify}}-->
+<div class="termine">
+	{% assign events = site.data.calendar | sort: 'dtstart' %}
+	{% for event in events %}
+	<div class="termin-box">
+		<div class="termin-box-infos">
+			<div class="termin-box-title">{{event.summary}}</div>
+			{% if event.description != blank %}
+			<p>{{event.description}}</p>
+			{% endif %}
+			{% if event.location != blank %}
+			<p><i class="icon-location"></i> {{event.location | replace: '\,', ','}}</p>
+			{% endif %}
+			{% if event.url != blank %}
+			<p><i class="icon-info-circled"></i> <a href="{{event.url}}">Mehr Info</a></p>
+			{% endif %}
+			{% assign d = event.dtstart | jsonify %}
+			{% if d.size > 12 %}<p><i class="icon-clock"></i> {{event.dtstart | date: "%R"}}</p>{% endif %}
+		</div>
+		<div class="termin-box-date">
+			<p>
+				<span class="termin-box-date-dl">{% assign d = event.dtstart | date: "%a" %}{% case d %}{% when 'Mon' %}Montag{% when 'Tue' %}Dienstag{% when 'Wed' %}Mittwoch{% when 'Thu' %}Donnerstag{% when 'Fri' %}Freitag{% when 'Sat' %}Samstag{% when 'Sun' %}Sonntag{% endcase %}</span>
+				<span class="termin-box-date-d">{{ event.dtstart | date: "%-d" }}</span>
+				<span class="termin-box-date-ml">{% assign m = event.dtstart | date: "%-m" %}{% case m %}{% when '1' %}Januar{% when '2' %}Februar{% when '3' %}M&auml;rz{% when '4' %}April{% when '5' %}Mai{% when '6' %}Juni{% when '7' %}Juli{% when '8' %}August{% when '9' %}September{% when '10' %}Oktober{% when '11' %}November{% when '12' %}Dezember{% endcase %}</span>
+				<span lass="termin-box-date-y">{{ event.dtstart | date: "%Y" }}</span>
+		</div>
+	</div>
+	{% endfor %}
+</div>

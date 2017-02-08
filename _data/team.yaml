@@ -22,18 +22,6 @@
   twitter: pluscha
   website:
 
-- name: Anja Jentzsch
-  img: anjajentzsch
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "Anja betreut derzeit für die OKF DE das EU-Forschungsprojekt Europeana Cloud (eCloud) als Projektleiterin. eCloud startete im Februar 2013. Ziel des Projektes ist es, ein cloudbasiertes System für die Europeana und ihre Aggregatoren zu entwickeln. eCloud wird neue Europeana-Inhalte und Metadaten bereitstellen, sowie ein neues Speichersystem und eine Plattform mit Methoden und Werkzeuge für Forscher (Europeana Research). Zuvor hat Anja an verschiedenen Linked Data-Projekten wie Wikidata, DBpedia und Linking Open Drug Data mitgearbeitet. Ihr Forschungsschwerpunkt ist Data Profiling auf Linked Open Data."
-  bio_en: "Anja currently runs the EU research project Europeana Cloud (eCloud), which started in February 2013. The goal of the project is the develop a cloud-based system for Europeana and its aggregators. eCloud will provide Europeana content and metadata, as well as a new storage system and a platform with methods and tools for researchers (Euopeana Research). Previously, Anja has contributed to various linked-data projects, Wikidata, DBpedia, and Linking Open Drug Data. Her research focus is Data Profiling in Linked Open Data."
-  mail: anja.jentzsch@okfn.de
-  twitter: anjeve
-  website:
-
 - name: Jasmin Helm
   img: jasminhelm
   staff: 1
@@ -114,11 +102,11 @@
   board: 0
   advisory: 0
   position:
-  bio: "Eileen ist seit Juli 2015 bei der OKF DE. Gemeinsam mit Julia und Fiona arbeitet sie am Projekt Code for Germany. Vor allem ist sie für Kommunikation und Öffentlichkeitsarbeit zuständig. Sie hat einen Bachelor in Philosophie und einen Master in Logik."
-  bio_en: "Eileen is part of the team behind Code for Germany. She is in charge of public relations and communication. Her studies were in philosophy and logic."
+  bio: "Eileen ist seit Juli 2015 bei der OKF DE und arbeitet in den Projekten Code for Germany und Prototype Fund. Sie hat einen Bachelor in Philosophie und einen Master in Logik."
+  bio_en: "Eileen is part of the team behind Code for Germany and the Prototype Fund. She studied philosophy and logic."
   mail: eileen.wagner@okfn.de
   twitter: flapperleenie
-  website: http://eileenwagner.xyz/
+  website: http://bumble.blue
   github: flapperleenie
 
 - name: Elisa Lindinger
@@ -127,25 +115,12 @@
   board: 0
   advisory: 0
   position:
-  bio: "Elisa unterstützt das Codefor-Team im Projekt 'Digital Refugee Labs'. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit." 
+  bio: "Elisa unterstützt das Codefor-Team im Projekt 'Digital Refugee Labs'. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
   bio_en: "Elisa supports the Codefor team in the project 'Digital Refugee Labs'. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
   mail: elisa.lindinger@okfn.de
-  twitter: 
+  twitter:
   website:
   github: elisalindinger
-
-- name: Cat Spangehl
-  img: catspangehl
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "Cat ist seit September bei der OKF DE. Sie kümmert sich in den Projekten um Daten, Technisches und Visualisierung. Sie hat einen Abschluss in Kognitiver Neurowissenschaft und studiert seit 2013 Medieninformatik an der HTW in Berlin."
-  bio_en: "Cat is with the OKF DE since September 2015. She contributes to the projects with her expertise on data, technical issues and visualisations. She holds a degree in cognitive neuroscience and studies computer science for media at the HTW Berlin."
-  mail: cat.spangehl@okfn.de
-  twitter: kittycake
-  website:
-  github: catcosmo
 
 - name: Walter Palmetshofer
   img: walterpalmetshofer
@@ -159,30 +134,31 @@
   twitter: vavoida
   website:
 
+- name: Michael Peters
+  img: michaelpeters
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist bei der OKF DE in den Projekten EU Subsidy Stories, OpenBudgets.eu und OffenerHaushalt.de. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und setzt sich für Transparenz von Fiskaldaten ein. Zu seinen Hauptaufgaben zählen Data Mining und Datenanalyse."
+  bio_en: "Michael joined OKF Germany as Data Scientist for the projects: EU Subsidy Stories, OpenBudgets.eu and OffenerHaushalt.de. He studied Public Economics and advocates Transparency of Fiscal Data. His main tasks are Data Mining and Data Analysis."
+  mail: michael.peters@okfn.de
+  twitter: miguelitoj89
+  github: michaeljokf
+
+
 - name: Arne Semsrott
   img: arnesemsrott
   staff: 1
   board: 0
   advisory: no
   position:
-  bio: "Arne betreut für die Open Knowledge Foundation das Portal FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet nebenbei als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem für Hochschulwatch.de und im Beirat des Whistleblower-Netzwerks."
+  bio: "Arne ist bei der Open Knowledge Foundation Projektleiter des Portals FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet nebenbei als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem bei Transparency International als Leiter für die AG Wissenschaft, für Hochschulwatch.de und im Beirat des Whistleblower-Netzwerks."
   bio_en: "Arne leads FragDenStaat.de and is an expert in the domain of Freedom of Information (FOI). With a background in political science, he also works as a freelance journalist and engages with other NGOs in topics related to transparency and lobbyism, e.g. for Hochschulwatch.de and the Whistleblower Network."
   mail: arne.semsrott@okfn.de
   twitter: arnesemsrott
   website:
   github: arnese
-
-- name: Michael Hörz
-  img: michaelhoerz
-  staff: 0
-  board: 0
-  advisory: 0
-  position:
-  bio: "Michael ist Senior Trainer beim Open-Data-Trainingsprogramm der OKF DE. Er arbeitet als Datenjournalist, Trainer und Dozent. An der Hochschule für Technik und Wirtschaft Berlin war Michael von 2013 bis 2015 Lehrbeauftragter für Open Data. Er engagiert sich seit 2010 für mehr und besser nutzbare offene Daten und ist Mitorganisator des jährlichen Berlin Open Data Day. Zwischen 2004 und 2012 arbeitete Michael als Online-Redakteur bei Tagesspiegel, Rundfunk Berlin-Brandenburg und Hasso-Plattner-Institut."
-  mail: michael.hoerz@okfn.de
-  twitter: data_meining
-  website: http://www.michael-hoerz.de
-  github:
 
 - name: Knut Perseke
   img: knutperseke
@@ -232,8 +208,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Johanna arbeitet an den Projekten OpenBudgets.eu und 2030 Watch. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
-  bio_en: "Johanna works on the projects OpenBudgets.eu and 2030 Watch. During her studies she has accumulated experience in the field of communication for international development, e.g. with Oxfam Hong Kong and the German equivalent to the campaign 'Make Poverty History'. During her masters thesis with a focus on transparency in development cooperation she has worked at the German Federal Ministry for Economic Cooperation and Development and the World Bank in Washington, D.C. She previously was employed in the management of an organic fruit start-up and volunarily engaged at Transparency International, in particular for Hamburg's Transparency Law."
+  bio: "Johanna ist Project Lead für den Datensummit und koordiniert den Arbeitskreis Open Government Partnership. Bisher hat sie außerdem an den Projekten 2030 Watch und OpenBudgets.eu mitgewirkt. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
+  bio_en: "Johanna is the project lead for Datensummit and coordinates the working group Arbeitskreis Open Government Partnership. She also contributed to the projects 2030 Watch and OpenBudgets.eu. During her studies she has accumulated experience in the field of communication for international development, e.g. with Oxfam Hong Kong and the German equivalent to the campaign 'Make Poverty History'. During her masters thesis with a focus on transparency in development cooperation she has worked at the German Federal Ministry for Economic Cooperation and Development and the World Bank in Washington, D.C. She previously was employed in the management of an organic fruit start-up and volunarily engaged at Transparency International, in particular for Hamburg's Transparency Law."
   mail: "johanna.zumfelde@okfn.de"
   twitter: "@Jzfelde"
   website:
@@ -246,7 +222,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Mara Mendes leitet das EU-Forschungsprojekt DIGIWHIST, ein Projekt das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten will. Bevor sie zur Open Knowledge Foundation Deutschland kam hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
+  bio: "Mara Mendes leitet das EU-Forschungsprojekt DIGIWHIST, ein Projekt, das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten will. Bevor sie zur Open Knowledge Foundation Deutschland kam, hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
   bio_en: "Mara Mendes is project lead of the EU research project The Digital Whistleblower: Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed. The central objective of DIGIWHIST is to improve trust in governments and efficiency of public spending across Europe. Previously, she has worked in the area of advocacy and campaigning with Transparency International. Mara is interested in fighting against and preventing corruption. She holds a masters degree in Media, Communication and Development and a Bachelor in Sociology, Politics and Media Science."
   mail: mara.mendes@okfn.de
   twitter: maryrmendes
@@ -378,18 +354,6 @@
   twitter:
   website:
 
-- name: Rufus Pollock
-  img: rufuspollock
-  staff: 0
-  board: 0
-  advisory: 0
-  position: Beisitzer
-  bio: "Rufus Pollock ist Fellow der Shuttleworth Foundation, Mitarbeiter beim Centre for Intellectual Property and Information Law der Cambridge Universität und Vorstand der Open Knowledge Foundation, die er 2004 mitbegründet hat. Er arbeitet als Wissenschaftler und Entwickler an sozialen, rechtlichen und technologischen Fragen im Zusammenhang mit der Schaffung und Weitergabe von Wissen."
-  bio_en: "Rufus Pollock is a fellow of the Shuttleworth Foundation, employee at the Centre for Intellectual Property and Information Law at Cambridge University and board member at OKF DE, which he co-founded in 2004. He is a scientist and developer in social, legal, and technological questions around the creation and dissemination of knowledge."
-  mail: rufus.pollock@okfn.org
-  twitter: rufuspollock
-  website: rufuspollock.org
-
 - name: Maximilian Richt
   title:
   img: maximilianricht
@@ -429,7 +393,7 @@
   bio_en: "Moritz works at the School of Data together with Helene and Knut. He gives workshops and supports NGOs in analysing and using data for their campaigning efforts. Moritz has studied European Studies and Public Policy and Human Development at Maastricht University and is also active at the Berlin Social Science Center."
   mail: "moritz.neujeffski@okfn.de"
   twitter: m_neujeffski
-  website: 
+  website:
   github: mojeffski
 
 - name: Leonard Wolf
@@ -443,32 +407,34 @@
   bio_en: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Im Juli 2016 schloss er seine Schullaufbahn ab und entschied sich dann für einen Bundesfreiwilligendienst. Diesen macht er nun seit September 2016  bei der Open Knowledge Foundation Deutschland. Dabei ist er vorrangig für „Jugend hackt“ und „Frag den Staat“ tätig und unterstützt die jeweiligen Teams. Leonard ist darüber hinaus auch ehrenamtlich bei mehreren Organisationen und Vereinen, die sich mit Jugendbeteiligung und Demokratiepädagogik auseinandersetzen, engagiert. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
   mail: "leonard.wolf@okfn.de"
   twitter: woleonard
-  website: 
+  website:
   github:
 
-- name: Cosmin Cabulea
+- name: Xiaowei Chen
   title:
-  img: cosmincabulea
+  img: xiaoweichen
   staff: 1
   board: 0
   advisory: 0
   position:
-  bio: "Cosmin arbeitet seit Mai 2016 als Projektleiter bei der Open Knowledge Foundation. Er betreut zur Zeit den Prototype Fund, den er zuvor mitentwickelt hat. Davor war er fünf Jahre bei der Deutschen Welle als Innovation Manager tätig. Aktuell ist er noch teilweise in der Wissenschaftsredaktion aktiv. Cosmin hat Medienwissenschaften studiert und interessiert sich für die Schnittstelle zwischen Technologie und Journalismus.  Mit Hackathons, Datenanalysen und Datenjournalismus Trainings vertreibt er sich seine Freizeit."
-  bio_en: "n/a"
-  mail: "cosmin.cabulea@okfn.de"
-  twitter: pushthings4ward
-  website: 
-  github: pushthings4ward
+  bio: "Xiaowei arbeitet seit November 2016 im Rahmen des Bundeskanzler-Stipendiums bei der Open Knowledge Foundation Deutschland als Gastwissenschaftlerin und forscht zu Informationsfreiheit in Deutschland."
+  bio_en: "Xiaowei works in the frame of German Chancellor Fellowship since November 2016 for Open Knowledge Foundation as Visiting Scholar. Her project is Freedom of Information in Germany."
+  mail: "xiaowei.chen@okfn.de"
+  twitter: xiaowei_chen
+  website:
+  github:
 
-- name: Friedrich Schumann
-  img:
+- name: Mark Brough
+  title:
+  img: markbrough
   staff: 0
   board: 0
   advisory: 0
-  position: Minion
-  bio: ""
-  mail:
-  twitter:
+  position:
+  bio: "."
+  bio_en: "n/a"
+  mail: "@okfn.de"
+  twitter: markbrough
   website:
   github:
 
@@ -521,18 +487,6 @@
   website:
 
 - name: Jörn von Lucke
-  title: Prof. Dr.
-  img:
-  staff: 0
-  board: 0
-  advisory: 1
-  position:
-  bio: ""
-  mail:
-  twitter:
-  website:
-
-- name: Christian Bizer
   title: Prof. Dr.
   img:
   staff: 0

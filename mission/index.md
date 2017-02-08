@@ -5,7 +5,7 @@ menu_mission: yes
 background: backgrounds/themen.jpg
 ---
 
-Die Open Knowledge Foundation Deutschland (OKF Deutschland) versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Die Arbeit der OKF Deutschland soll unabhängig, überparteilich, grenzüberschreitend und nicht-kommerziell sein. Die OKF Deutschland fördert und stärkt die Bürgerrechte wie sie im Grundgesetz und in der Europäischen Menschenrechtskonvention verankert sind.
+Die Open Knowledge Foundation Deutschland (OKF Deutschland) versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft. Die Arbeit der OKF Deutschland soll unabhängig, überparteilich, grenzüberschreitend und nicht-kommerziell sein. Die OKF Deutschland fördert und stärkt die Grundrechte.
 
 Der Zweck der OKF Deutschland ist die Förderung der offenen Zugänglichkeit aller Formen von Wissen, wobei Wissen so verstanden wird, dass auch Information, Daten und alle anderen, synonymen Begriffe umfasst werden. Zu den Zielen der OKF Deutschland gehören insbesondere;
 

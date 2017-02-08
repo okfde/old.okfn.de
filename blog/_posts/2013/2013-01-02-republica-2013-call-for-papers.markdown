@@ -4,6 +4,7 @@ date: 2013-01-02 14:30:53
 layout: post
 tags:
 - Termine
+- republica
 title: 're:publica 2013: Call for Papers'
 type: post
 ---

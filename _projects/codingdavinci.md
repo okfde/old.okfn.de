@@ -3,7 +3,6 @@ type: education
 title: Coding da Vinci
 layout: project
 img: projects/codingdavinci.jpg
-img_square: projects/codingdavinci_square.jpg
 background: backgrounds/codingdavinci.jpg
 url: https://codingdavinci.de
 video: "https://www.youtube.com/embed/i6bgXZH9CqY"
@@ -16,8 +15,6 @@ contact:
   website: https://codingdavinci.de
   twitter: codingdavinci
 de:
-  stats: 325 000<br/>Kulturdaten
-  teaser: wurden bei <a href="/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
   subtitle: Der Kultur-Hackathon
   content: |-
      Coding da Vinci ist der erste Kultur-Hackathon (Entwicklertag) in Deutschland, der Entwickler/innen, Designer/innen und Gamer/innen zusammenbringt, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen.
@@ -25,8 +22,6 @@ de:
      Coding da Vinci findet auch 2015 wieder statt! Alle Informationen zu Ablauf, Anmeldung, Daten etc. gibt es unter [codingdavinci.de]( http://www.codingdavinci.de/).
      Coding da Vinci ist ein Gemeinschaftsprojekt von: [Deutsche Digitale Bibliothek]( https://www.deutsche-digitale-bibliothek.de/), [Servicestelle Digitalisierung Berlin]( http://www.servicestelle-digitalisierung.de/confluence/pages/viewpage.action?pageId=917513), [Wikimedia Deutschland](https://wikimedia.de/wiki/Hauptseite).
 en:
-  stats: 325,000<br/>data points 
-  teaser: relating to cultural artefacts have been made available and usable during <a href="/en/projekte/codingdavinci/">Coding da Vinci</a>.
   subtitle: The cultural data hackathon
   content: |-
      Coding da Vinci is the first cultural data hackathon in Germany bringing together cultural heritage institutions and the hacker/designer community to develop ideas and prototypes for the cultural sector and the public. 

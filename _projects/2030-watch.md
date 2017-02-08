@@ -6,10 +6,6 @@ layout: project
 people:
   - name: Claudia Schwegmann
     role: Projektleitung
-  - name: Johanna zum Felde
-    role: Projektassistenz
-  - name: Knut Perseke
-    role: Entwickler
 contact:
   website: http://2030-watch.de
   github: https://github.com/okfde/2030-watch.de
