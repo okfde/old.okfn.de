@@ -8,13 +8,20 @@ background: backgrounds/services.jpg
 
 Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu unseren Projekten hast oder eine/n Interviewpartner/in aus dem Verein benötigst, wende Dich bitte an unser Presse-Team. Wir helfen Dir gern weiter!
 
-## Kontakt: Eileen Wagner
+## Kontakt
+
+Ansprechpartner
+: Eileen Wagner
 
 E-Mail
 : <a href="mailto:presse@okfn.de">presse@okfn.de</a>
 
 Telefon
 : <a href="tel:+49 30 57703666 2">+49 30 57703666 2</a>
+
+## Presseverteiler
+
+[Hier](http://eepurl.com/b_VPzX) kannst Du Dich für unseren Presseverteiler anmelden.
 
 ## Logos und Material
 
