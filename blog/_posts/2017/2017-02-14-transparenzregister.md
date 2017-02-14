@@ -20,7 +20,7 @@ Morgen entscheidet das Bundeskabinett über das Transparenzregister. Die Regieru
 
 Ob das Register wirksam ist, hängt allerdings entscheidend von der Offenheit der Daten ab: Anders als ursprünglich vorgesehen plant das Finanzministerium, die Daten der Eigentümer nur Personen mit “berechtigtem Interesse” zugänglich zu machen. Das würde aber eine Kontrolle erheblich erschweren. Damit auch JournalistInnen und Nichtregierungsorganisationen für Recherchen wie bei den “Panama Papers” Daten aus dem Register analysieren können, müssen sie offen zugänglich sein.
 
-###Lobbyismus gegen Offenheit
+<h3>Lobbyismus gegen Offenheit</h3>
 
 Der Verband der Familienunternehmer hat sich in den vergangenen Wochen effektiv [gegen eine Öffnung der Daten](https://www.familienunternehmer.eu/presse-news/pressemitteilungen/detail/article/familienunternehmer-fordern-augenmass-beim-transparenzregister.html) eingesetzt. Dabei führen die Lobbyisten ein angeblich erhöhtes Risiko von “Datenmissbrauch, Entführung und Erpressung” an. Belege für eine Gefährdung freilich nicht. Selbst in Großbritannien, das seit 2016 ein offenes Transparenzregister führt, werden Privatadressen und Geburtsdaten nicht veröffentlicht.
 
@@ -29,7 +29,7 @@ Aber selbst wenn eine Gefährdung vorläge, gäbe es Möglichkeiten, diese zu ad
 Zudem ist zu bedenken, dass die Daten um die es in der Debatte geht für den Großteil der Unternehmen bereits über das [Unternehmensregister](https://www.unternehmensregister.de/ureg/) und das [Handelsregister](https://www.handelsregister.de) einsehbar sind, das heißt die meisten Firmen würden gar keine zusätzlichen Daten bereitstellen. Das [Transparenzregister hat zum Ziel genau dort Licht ins Dunkle bringen](http://webfoundation.org/2017/02/the-litmus-test-how-serious-is-germany-about-corporate-transparency/), wo versucht wird durch komplexe Beteiligungsstrukturen die wahren Eigentümer von Firmen zu verschleiern. Denn diese Konstrukte sind eines der effektivsten Instrumente für die Finanzierung von Terrorismus, Geldwäsche und Steuerhinterziehung.
 
 
-###Gehen finanzielle Interessen vor?
+<h3>Gehen finanzielle Interessen vor?</h3>
 
 Der Lobbyismus der Familienunternehmer lässt vermuten, dass noch andere Motive eine Rolle spielen. Wie der Financial Secrecy Index des Tax Justice Network aufzeigt, ist Deutschland eine der [großen Steueroasen in Europa](http://www.financialsecrecyindex.com/PDF/Germany.pdf). Dass sich dies mit einem Transparenzregister ändert, käme nicht allen Unternehmern gelegen. Die europäische Kommission schätzt den jährlichen Schaden durch Steuerhinterziehung bzw. -meidung auf [50-70 Milliarden Euro pro Jahr](http://europa.eu/rapid/press-release_MEMO-16-1351_en.htm). Nachdem Deutschland lange strengere Regeln gegen Geldwäsche [blockierte](http://www.tagesspiegel.de/wirtschaft/eu-geldwaescherichtlinie-schonzeit-fuer-das-paradies/8862142.html), ist es dringend an der Zeit, fehlendes Vertrauen aufzuholen und zum europäischen Vorbild in Sachen Transparenz und Open Data zu werden.
 
