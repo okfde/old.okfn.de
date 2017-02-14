@@ -35,4 +35,7 @@ Der Lobbyismus der Familienunternehmer lässt vermuten, dass noch andere Motive 
 
 Als größte Wirtschaft der EU, jüngstes Mitglied der [Open Government Partnership](http://www.opengovpartnership.org/blog/beate-lohman/2017/01/10/open-government-means-becoming-better-governing) und Vorsitzende der G20 sollte Deutschland ein Transparenzregister beschließen, das offen und nachvollziehbar ist. Das ist auch wichtig im Rahmen der  „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI). Großbritannien zeigt, wie es geht.
 
+Weitere Links: 
+[How serious is Germany about corporate transparency?] (http://openownership.org/news/how-serious-is-germany-about-corporate-transparency/)
+
 Foto: <a href="http://www.flickr.com/people/43398414@N04">Chatham House</a>, <a href="https://commons.wikimedia.org/wiki/File:HE_Dr_Wolfgang_Schäuble_(6257468800).jpg">HE Dr Wolfgang Schäuble (6257468800)</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a> 
