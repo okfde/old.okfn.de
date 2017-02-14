@@ -38,4 +38,6 @@ Als größte Wirtschaft der EU, jüngstes Mitglied der [Open Government Partners
 Weitere Links: 
 [How serious is Germany about corporate transparency?](http://openownership.org/news/how-serious-is-germany-about-corporate-transparency/)
 
+Ansprechpartner seitens der CDU für dieses Anliegen ist [Frank Steffel](http://www.frank-steffel.de/) und sein Team, erreichbar unter dieser (Email)[mailto:frank.steffel.ma07@bundestag.de].  
+
 Foto: <a href="http://www.flickr.com/people/43398414@N04">Chatham House</a>, <a href="https://commons.wikimedia.org/wiki/File:HE_Dr_Wolfgang_Schäuble_(6257468800).jpg">HE Dr Wolfgang Schäuble (6257468800)</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode">CC BY 2.0</a> 
