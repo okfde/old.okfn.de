@@ -18,7 +18,7 @@ title: "Das Transparenzregister kommt - wird es wirklich transparent?"
 ---
 Morgen entscheidet das Bundeskabinett über das Transparenzregister. Die Regierung macht damit einen entscheidenden Schritt im Kampf gegen Korruption und Steuerhinterziehung: Nach einer [Richtlinie der Europäischen Union](http://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Referentenentwuerfe/2016-12-15-geldwaescherichtlinie.html) wird das Register die wirtschaftlichen Eigentümer aller Unternehmen und Stiftungen in Deutschland auflisten.
 
-Ob das Register wirksam ist, hängt allerdings entscheidend von der Offenheit der Daten ab: Anders als ursprünglich vorgesehen plant das Finanzministerium, die Daten der Eigentümer nur Personen mit “berechtigtem Interesse” zugänglich zu machen. Das würde aber eine Kontrolle erheblich erschweren. Damit auch JournalistInnen und Nichtregierungsorganisationen für Recherchen wie bei den “Panama Papers” Daten aus dem Register analysieren können, müssen sie offen zugänglich sein.
+Ob das Register wirksam ist, hängt allerdings entscheidend von der Offenheit der Daten ab: Anders als ursprünglich vorgesehen plant das Finanzministerium, die Daten der Eigentümer nur Personen mit “berechtigtem Interesse” zugänglich zu machen und alle Menschen zu protokollieren, die auf die Daten zugreifen. Das würde aber eine Kontrolle erheblich erschweren. Damit auch JournalistInnen und Nichtregierungsorganisationen für Recherchen wie bei den “Panama Papers” Daten aus dem Register analysieren können, müssen sie offen zugänglich sein.
 
 <h3>Lobbyismus gegen Offenheit</h3>
 
