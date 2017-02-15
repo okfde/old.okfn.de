@@ -15,7 +15,7 @@ card: true
 title: "Analyse des Open-Data-Gesetzes: Transparenz fliegt raus" 
 ---
 
-Der Prozess läuft: [In den nächsten Wochen](https://www.bundesrat.de/SharedDocs/drucksachen/2017/0001-0100/62-17.pdf?__blob=publicationFile&v=1) wird das Open-Data-Gesetz an den Bundestag geleitet. Dann werden die Parlamentarier die Möglichkeit bekommen, den [bisherigen Entwurf](https://okfn.de/blog/tags/open-data-gesetz/) zu diskutieren. Dabei wird es vor allem darum gehen, ob  
+Der Prozess läuft: [In den nächsten Wochen](https://www.bundesrat.de/SharedDocs/drucksachen/2017/0001-0100/62-17.pdf?__blob=publicationFile&v=1) wird das Open-Data-Gesetz an den Bundestag geleitet. Dann werden die Parlamentarier die Möglichkeit bekommen, den [bisherigen Entwurf](https://okfn.de/blog/tags/open-data-gesetz/) zu diskutieren. Dabei wird es vor allem darum gehen, welche Daten von dem Entwurf erfasst werden müssen - und welche nicht veröffentlicht werden sollen.  
 
 Die Bundesregierung hat ihre Interessen bereits ins Gesetz eingebracht. Nachdem das Innenministerium einen [ersten Entwurf](https://okfn.de/blog/tags/open-data-gesetz/) für das Dokument vorgelegt hatte, haben die anderen Ministerien den Gesetzestext an einigen Stellen deutlich abgeschwächt.
 
