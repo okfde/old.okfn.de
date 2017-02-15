@@ -40,3 +40,5 @@ tag_permalink_style: pretty
 sass:
   sass_dir: static/style/_scss
   style: compressed
+kramdown:
+  smart_quotes: ["ldquo", "rsquo", "bdquo", "ldquo"]
