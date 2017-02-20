@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2018-02-20 18:00:00
 image:
-  src: /files/blog/2017/02/okfn-team.png
+  src: /files/blog/2017/02/okf-team.png
   title: 
   license: CC BY 2.0
   license_url: 
