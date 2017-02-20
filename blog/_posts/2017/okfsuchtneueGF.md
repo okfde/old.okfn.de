@@ -43,33 +43,33 @@ Wir suchen eine engagierte Persönlichkeit mit Erfahrung im Bereich Team­ und O
 
 Die Geschäftsführung ist für die Unterstützung und Koordinierung von Team und Vorstand im Rahmen der Weiterentwicklung der gemeinnützigen Organisation und des Projektportfolios zuständig. Im Verantwortungsbereich liegen dabei insbesondere:
 
-● Finanzielle Führung und die damit verbundene Überwachung der Bilanzen
-● Selbständige Erledigung des Tagesgeschäfts (Unterstützung durch externes Lohnsteuerbüro und Büroassistenz auf 450-­Euro-­Basis)
-● Unterstützung bei Fundraising und Akquise von Projektmitteln
-● Strategische Weiterentwicklung der Organisation, Beratung der Projektteams sowie Schnittstellenfunktion zwischen Vorstand, Team und Beirat
-● Teamentwicklung und Mitarbeiterförderung (20­-30 Mitarbeiter/innen)
-● Bereitstellung und Sicherung der personellen Ressourcen
+* Finanzielle Führung und die damit verbundene Überwachung der Bilanzen
+* Selbständige Erledigung des Tagesgeschäfts (Unterstützung durch externes Lohnsteuerbüro und Büroassistenz auf 450-­Euro-­Basis)
+* Unterstützung bei Fundraising und Akquise von Projektmitteln
+* Strategische Weiterentwicklung der Organisation, Beratung der Projektteams sowie Schnittstellenfunktion zwischen Vorstand, Team und Beirat
+* Teamentwicklung und Mitarbeiterförderung (20­-30 Mitarbeiter/innen)
+* Bereitstellung und Sicherung der personellen Ressourcen
 
 
 <b>Anforderungen</b>
 
-● Einschlägige Erfahrung mit Förderanträgen und der Akquise von neuen Partnern und Sponsoren
-● Hohe Identifikation mit der Mission und den Zielen der OKF
-● Mehrjährige Erfahrung in Führungspositionen mit 15+ MitarbeiterInnen
-● Mehrjährige Erfahrung im Finanzcontrolling und -­monitoring
-● Entscheidungsstärke, Motivations­ und Konfliktkompetenz, exzellentes Zeitmanagement sowie kooperativer Führungsstil
-● Arbeit aus dem Berliner Büro 
-● Sehr gute Deutsch­ und Englischkenntnisse in Wort und Schrift
+* Einschlägige Erfahrung mit Förderanträgen und der Akquise von neuen Partnern und Sponsoren
+* Hohe Identifikation mit der Mission und den Zielen der OKF
+* Mehrjährige Erfahrung in Führungspositionen mit 15+ MitarbeiterInnen
+* Mehrjährige Erfahrung im Finanzcontrolling und -­monitoring
+* Entscheidungsstärke, Motivations­ und Konfliktkompetenz, exzellentes Zeitmanagement sowie kooperativer Führungsstil
+* Arbeit aus dem Berliner Büro 
+* Sehr gute Deutsch­ und Englischkenntnisse in Wort und Schrift
 
 
 <b>Was wir bieten</b>
 
-● Ein spannendes und kreatives Arbeitsumfeld 
-● Flexible und familienfreundliche Arbeitszeiten
-● Eine inspirierende Büroatmosphäre
-● Einbettung in ein internationales Netzwerk von Partnerorganisationen als Teil der Open Knowledge International
-● Einen aufgeschlossenen Vereinsvorstand, der Dich unterstützt und immer ein offenes Ohr hat
-● Ein motiviertes Team, das sich auf Dich freut
+* Ein spannendes und kreatives Arbeitsumfeld 
+* Flexible und familienfreundliche Arbeitszeiten
+* Eine inspirierende Büroatmosphäre
+* Einbettung in ein internationales Netzwerk von Partnerorganisationen als Teil der Open Knowledge International
+* Einen aufgeschlossenen Vereinsvorstand, der Dich unterstützt und immer ein offenes Ohr hat
+* Ein motiviertes Team, das sich auf Dich freut
 
 
 <b>Ist das was für dich?</b>
