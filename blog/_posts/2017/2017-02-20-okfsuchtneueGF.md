@@ -8,8 +8,8 @@ image:
   license: CC BY 2.0
   license_url: 
 tags:
-- Transparenz 
-- Super Person 
+- Ausschreibung
+- Jobs
 type: post
 layout: post
 card: true
