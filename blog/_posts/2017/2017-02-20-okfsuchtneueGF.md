@@ -17,12 +17,12 @@ published: false
 title: "OKF DE sucht neue/n Geschäftsführer/in!"
 ---
 
-<b>Liebe Freundinnen und Freunde offener Daten,</b>
+##Liebe Freundinnen und Freunde offener Daten,
 
 um die positive Entwicklung der Arbeit der Open Knowledge Foundation Deutschland e.V. fortzuführen, suchen wir spätestens zum 15. Juni 2017 eine/n neue/n Geschäftsführer/in (75% , ggf. aufstockbar) in Berlin.
 
 
-<b>Wer wir sind</b>
+##Wer wir sind
 
 Die Open Knowledge Foundation Deutschland (OKF DE) ist ein gemeinnütziger Verein, der sich für offene Daten und freies Wissen einsetzt und sich dem Aufbau einer digitalen Infrastruktur für die Zivilgesellschaft in Deutschland und Europa verschrieben hat.
 
@@ -33,12 +33,12 @@ Die OKF DE vereint eine Vielzahl von Projekten unter ihrem Dach, die konzeptione
 Mit unseren Projekten wie zum Beispiel FragDenStaat.de, Jugend hackt, Prototype Fund, Datenschule, Code for Germany oder Open Budgets ist die Open Knowledge Foundation Deutschland Pionierin in der deutschen digital getriebenen Zivilgesellschaft. Gemeinsam mit einer starken Open Data-­Community, die ehrenamtlich an verschiedenen Schnittstellen von Gesellschaft und Technologie agiert, treiben wir seit 2011 die Debatten um die zivilgesellschaftliche, staatliche, wirtschaftliche und politische Verantwortung einer bürgerInnenfreundlichen digitalen Revolution voran.
 
 
-<b>Wen wir suchen</b>
+##Wen wir suchen
 
 Wir suchen eine engagierte Persönlichkeit mit Erfahrung im Bereich Team­ und Organisationsführung sowie großem Interesse und Affinität zu digitalen Themen und dem gemeinnützigen Sektor. Aufgabe der Geschäftsführung ist es, die Organisation verantwortungsvoll zu führen und gemeinsam mit dem Team weiterzuentwickeln. Der Führungsstil soll teamorientiert, vorausschauend und unterstützend sein. Die gesuchte Person soll Spaß daran haben, sich in neue Themen einzuarbeiten und als Teil eines engagierten Teams an Lösungen für gesellschaftliche Herausforderungen im Rahmen der Digitalisierung zu arbeiten.
 
 
-<b>Aufgaben</b> 
+##Aufgaben
 
 Die Geschäftsführung ist für die Unterstützung und Koordinierung von Team und Vorstand im Rahmen der Weiterentwicklung der gemeinnützigen Organisation und des Projektportfolios zuständig. Im Verantwortungsbereich liegen dabei insbesondere:
 
@@ -50,7 +50,7 @@ Die Geschäftsführung ist für die Unterstützung und Koordinierung von Team un
 * Bereitstellung und Sicherung der personellen Ressourcen
 
 
-<b>Anforderungen</b>
+##Anforderungen
 
 * Einschlägige Erfahrung mit Förderanträgen und der Akquise von neuen Partnern und Sponsoren
 * Hohe Identifikation mit der Mission und den Zielen der OKF
@@ -61,7 +61,7 @@ Die Geschäftsführung ist für die Unterstützung und Koordinierung von Team un
 * Sehr gute Deutsch­ und Englischkenntnisse in Wort und Schrift
 
 
-<b>Was wir bieten</b>
+##Was wir bieten
 
 * Ein spannendes und kreatives Arbeitsumfeld 
 * Flexible und familienfreundliche Arbeitszeiten
@@ -71,7 +71,7 @@ Die Geschäftsführung ist für die Unterstützung und Koordinierung von Team un
 * Ein motiviertes Team, das sich auf Dich freut
 
 
-<b>Ist das was für dich?</b>
+##Ist das was für dich?
 
 Bitte schicke uns Deine Bewerbung (Lebenslauf, Motivationsschreiben und Gehaltsvorstellung) <b>bis zum 9. März</b> per E­-Mail an geschaeftsfuehrung@okfn.de. Bitte verzichte auf ein Foto sowie Angaben zum Familienstand und Geburtsdatum. Das Gehalt wird an den Tarifvertrag für den Öffentlichen Dienst der Länder (TV­L) Berlin angelehnt und ist auf ein Jahr befristet. Eine Verlängerung wird angestrebt.
 
