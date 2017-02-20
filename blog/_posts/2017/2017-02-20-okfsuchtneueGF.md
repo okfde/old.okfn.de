@@ -8,11 +8,10 @@ image:
   license: CC BY 2.0
   license_url: 
 tags:
-- OGP
 - Transparenz 
-- Korruption 
-type: 
-layout: 
+- Super Person 
+type: post
+layout: post
 card: true
 published: false
 title: "OKF DE sucht neue/n Geschäftsführer/in!"
