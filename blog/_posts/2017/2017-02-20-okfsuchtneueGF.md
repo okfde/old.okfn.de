@@ -19,7 +19,7 @@ title: "OKF DE sucht neue/n Geschäftsführer/in!"
 
 ##Liebe Freundinnen und Freunde offener Daten,
 
-um die positive Entwicklung der Arbeit der Open Knowledge Foundation Deutschland e.V. fortzuführen, suchen wir spätestens zum 15. Juni 2017 eine/n neue/n Geschäftsführer/in (75% , ggf. aufstockbar) in Berlin.
+um die positive Entwicklung der Arbeit der Open Knowledge Foundation Deutschland e.V. fortzuführen, suchen wir spätestens zum 15. Juni 2017 eine/n neue/n Geschäftsführer/in (75%, ggf. aufstockbar) in Berlin.
 
 
 ##Wer wir sind
