@@ -38,7 +38,7 @@ Als größte Wirtschaft der EU, jüngstes Mitglied der [Open Government Partners
 Weitere Links: 
 [How serious is Germany about corporate transparency?](http://openownership.org/news/how-serious-is-germany-about-corporate-transparency/)
 
-20.02.17 Interview mit Hentschel von Netzwerk Steuergerechtigkeit zu den offenen Transparenzregister und Blockierungen (https://www.jungewelt.de/2017/02-20/121.php)
+20.02.17 [Interview mit Hentschel von Netzwerk Steuergerechtigkeit zu den offenen Transparenzregister und Blockierungen](https://www.jungewelt.de/2017/02-20/121.php)
 
 Ansprechpartner seitens der CDU für dieses Anliegen ist [Frank Steffel](http://www.frank-steffel.de/) und sein Team, erreichbar unter dieser [abgeordneter-vorname.abgeordneter-nachname.ma07@bundestag.de] bzw. 030-227 72 500.  
 
