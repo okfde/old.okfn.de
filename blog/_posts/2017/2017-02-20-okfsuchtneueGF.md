@@ -73,7 +73,7 @@ Die Geschäftsführung ist für die Unterstützung und Koordinierung von Team un
 
 ##Ist das was für dich?
 
-Bitte schicke uns Deine Bewerbung (Lebenslauf, Motivationsschreiben und Gehaltsvorstellung) <b>bis zum 9. März</b> per E­-Mail an geschaeftsfuehrung@okfn.de. Bitte verzichte auf ein Foto sowie Angaben zum Familienstand und Geburtsdatum. Das Gehalt wird an den Tarifvertrag für den Öffentlichen Dienst der Länder (TV­L) Berlin angelehnt und ist auf ein Jahr befristet. Eine Verlängerung wird angestrebt.
+Bitte schicke uns Deine Bewerbung (Lebenslauf, Motivationsschreiben und Gehaltsvorstellung) <b>bis zum 9. März</b> per E­-Mail an <a href="mailto:geschaeftsfuehrung@okfn.de?subject=Awesomeness">geschaeftsfuehrung@okfn.de</a>. Bitte verzichte auf ein Foto sowie Angaben zum Familienstand und Geburtsdatum. Das Gehalt wird an den Tarifvertrag für den Öffentlichen Dienst der Länder (TV­L) Berlin angelehnt und ist auf ein Jahr befristet. Eine Verlängerung wird angestrebt.
 
 Bewerbungen von Frauen, Menschen mit Behinderung und Menschen mit Migrationshintergrund sind ausdrücklich erwünscht.
 
