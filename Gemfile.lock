@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/pattex/jekyll-tagging.git
+  revision: a981f786b161938a871195afc8d19e129f13fb49
+  specs:
+    jekyll-tagging (1.0.1)
+      ruby-nuggets
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -123,8 +130,6 @@ GEM
     jekyll-sitemap (0.12.0)
       jekyll (~> 3.3)
     jekyll-swiss (0.4.0)
-    jekyll-tagging (1.0.1)
-      ruby-nuggets
     jekyll-theme-architect (0.0.3)
       jekyll (~> 3.3)
     jekyll-theme-cayman (0.0.3)
@@ -212,7 +217,7 @@ DEPENDENCIES
   github-pages
   icalendar
   jekyll
-  jekyll-tagging
+  jekyll-tagging!
   octopress-autoprefixer
   selene
 

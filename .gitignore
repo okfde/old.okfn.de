@@ -4,7 +4,6 @@ __posts/
 *.DS_Store
 .jekyll-metadata
 *.css.map
-Gemfile.lock
 .sass-cache/
 .idea/
 .bundle/
