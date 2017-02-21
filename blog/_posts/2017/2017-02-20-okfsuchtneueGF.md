@@ -14,6 +14,8 @@ type: post
 layout: post
 card: true
 published: false
+jobs:
+    - "Geschäftsführer/in der Open Knowledge Foundation Deutschland"
 title: "OKF DE sucht neue/n Geschäftsführer/in!"
 ---
 
