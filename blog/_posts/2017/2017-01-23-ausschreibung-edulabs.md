@@ -9,12 +9,10 @@ type: post
 layout: post
 card: true
 tags:
-- edulabs
-- Ausschreibung
-- OER
-- Bildung
-jobs: 
-- "Projektassistenz „edulabs“ (03/2017-08/2018, 50% TVöD E13.1)"
+ - edulabs
+ - Ausschreibung
+ - OER
+ - Bildung
 title: "Projektassistenz für Edulabs (50%)"
 ---
 Wie lässt sich Bildung mit digital gestützten Methoden gestalten? Die Open Knowledge Foundation Deutschland (OKF DE) ist ein gemeinnütziger Verein, der sich für offene Daten und freies Wissen einsetzt. Mit unserem Projekt Education Labs (edulabs) engagieren wir uns für den Aufbau von Kompetenzen zur Erstellung, Nutzung und Verbreitung von Open Educational Resources (OER).
