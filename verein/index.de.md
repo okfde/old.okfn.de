@@ -94,7 +94,7 @@ Auf der letzten Mitgliederversammlung am 25.01.2016 wurde [Christian Heise]( htt
 zum Vorstandsvorsitzenden, [Friedrich Lindenberg]( https://okfn.de/vorstand/#friedrich-lindenberg) zum stellvertretenden Vorstandsvorsitzenden und [Andreas Pawelke](https://okfn.de/vorstand/#andreas-pawelke) zum Kassenwart gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann]( https://okfn.de/vorstand/#claudia-schwegmann), [Daniel Dietrich]( https://okfn.de/vorstand/#daniel-dietrich), [Lucy Chambers]( https://okfn.de/vorstand/#lucy-chambers),  [Stefan Wehrmeyer]( https://okfn.de/vorstand/#stefan-wehrmeyer) und [Sören Auer]( https://okfn.de/vorstand/#s-ren-auer). Seit August 2014 ist [Kristina Klein](https://okfn.de/team/#kristina-klein) Geschäftsführerin der OKF. 
 
 ## Ethikbeauftragte
-Am 25.01.2016 wurde [Mara Mendes](https://okfn.de/team/#mara-mendes) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de)  gerichtet werden. 
+Am 25.01.2016 wurde [Mara Mendes](https://okfn.de/team/#mara-mendes) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden. 
 
 
 ## Mittelherkunft
@@ -112,9 +112,10 @@ In 2011 hat die OKF DE 50.155 € aus Mitgliedsbeiträgen und Zuwendungen (Ideel
 ## Ausgaben
 
 Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ niedrig zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
-Mittelverwendung
 
-Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 6 Vollzeitäquivalenten.
+### Mittelverwendung
+
+Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 18,5 Vollzeitäquivalenten.
 
 * [Gewinnermittlung für 2015](../files/verein/OKF-DE-Gewinnermittlung-kurz-2015.pdf)
 * [Gewinnermittlung für 2014](../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)

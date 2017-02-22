@@ -100,9 +100,9 @@ In 2011 OKF DE has raised 50.155 € from membership payments and benefits (Idee
 
 The majority of the financial benefits and proceeds is earmarked to the execution of projects and the organisation of events. Apart from these types of funds, we make efforts to keep fixed costs low. These currently consist of rent and operating costs, as well as costs for running our servers. 
 
-Application of funds
+### Application of funds
 
-The biggest item in the application of funds were expenditures for the organisation and execution of projects and events as well as the payment of wages and remunerations. OKF DE currently employs an equivalent of roughly 6 full time staff.
+The biggest item in the application of funds were expenditures for the organisation and execution of projects and events as well as the payment of wages and remunerations. OKF DE currently employs an equivalent of roughly 18,5 full time staff.
 
 * [Balance Sheet 2015](../../files/verein/OKF-DE-Gewinnermittlung-kurz-2015.pdf)
 * [Balance Sheet 2014](../../files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
