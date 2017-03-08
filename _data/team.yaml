@@ -186,6 +186,19 @@
   twitter: mneuschaefer
   website:
   github:
+  
+- name: Maximilian Voigt
+  img: maximilianvoigt
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Maximilian Voigt unterstützt als Projektassistent das Projekt edulabs. Zudem engagiert er sich in offenen Werkstätten, beschäftigt sich mit physical computing und setzt sich für freie Bildung ein. Vor der Open Knowledge Foundation Deutschland mitbegründete Maximilian den FabLab Cottbus e.V., studierte Technikjournalismus, Public Relations sowie Kultur und Technik. Seine Master Arbeit schrieb er über das Bildungspotenzial offener Werkstätten."
+  bio_en: "Maximilian Voigt supports the project edulabs as an assistent. Further more he campaigns for fabrication laboratories, is engaged in physical computing and supports free education. Before his work at the OKF he co founded the FabLab Cottbus e.V., studied technical journalism, public relations and culture and technology. His master thesis was about the educational potential of open workshops."
+  mail: maximilian.voigt@okfn.de
+  twitter: maximusvoigttus
+  website:
+  github:
 
 - name: Anna Alberts
   title:
