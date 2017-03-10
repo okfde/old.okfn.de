@@ -19,6 +19,8 @@ jobs:
 title: "OKF DE sucht neue/n Geschäftsführer/in!"
 ---
 
+<b>+++ Bewerbungsfrist um eine Woche auf 16. März verlängert! +++</b>
+
 <b>Liebe Freundinnen und Freunde offener Daten,</b>
 
 um die positive Entwicklung der Arbeit der Open Knowledge Foundation Deutschland e.V. fortzuführen, suchen wir spätestens zum 15. Juni 2017 eine/n neue/n Geschäftsführer/in (75%, ggf. aufstockbar) in Berlin.
@@ -75,7 +77,7 @@ Die Geschäftsführung ist für die Unterstützung und Koordinierung von Team un
 
 <h3>Ist das was für dich?</h3>
 
-Bitte schicke uns Deine Bewerbung (Lebenslauf, Motivationsschreiben und Gehaltsvorstellung) <b>bis zum 9. März</b> per E­-Mail an <a href="mailto:geschaeftsfuehrung@okfn.de">geschaeftsfuehrung@okfn.de</a>. Bitte verzichte auf ein Foto sowie Angaben zum Familienstand und Geburtsdatum. Das Gehalt wird an den Tarifvertrag für den Öffentlichen Dienst der Länder (TV­L) Berlin angelehnt und ist auf ein Jahr befristet. Eine Verlängerung wird angestrebt.
+Bitte schicke uns Deine Bewerbung (Lebenslauf, Motivationsschreiben und Gehaltsvorstellung) <b>bis zum 16. März</b> per E­-Mail an <a href="mailto:geschaeftsfuehrung@okfn.de">geschaeftsfuehrung@okfn.de</a>. Bitte verzichte auf ein Foto sowie Angaben zum Familienstand und Geburtsdatum. Das Gehalt wird an den Tarifvertrag für den Öffentlichen Dienst der Länder (TV­L) Berlin angelehnt und ist auf ein Jahr befristet. Eine Verlängerung wird angestrebt.
 
 Bewerbungen von Frauen, Menschen mit Behinderung und Menschen mit Migrationshintergrund sind ausdrücklich erwünscht.
 
