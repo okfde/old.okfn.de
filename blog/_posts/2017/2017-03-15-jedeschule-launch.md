@@ -1,11 +1,11 @@
 ---
-authors: 
+authors:
 - Helene Hahn
 - Moritz Neujeffski
 - Knut Perseke
 - Jasmin Helm
-date: 2017-03-15 09:00:00
-picture:
+date: 2017-03-15 08:00:00
+image:
   src: /files/blog/2017/03/header-jedeschule.png
   title: JedeSchule.de
   license: CC0 Public Domain
@@ -16,8 +16,11 @@ tags:
 - data literacy
 - social change
 - open data
+type: post
+layout: post
+card: true
 title: "Datenschule und BildungsCent e.V. launchen JedeSchule.de"
---- 
+---
 Schule ist weit mehr als nur Unterricht. Potenziale, Persönlichkeit und das Engagement für die Gesellschaft entwickeln sich vorwiegend außerhalb des Stundenplans. Doch gut zugängliche Informationen zu allen Schulen in Deutschland sind oft nur spärlich vorhanden. Die [Datenschule](https://datenschule.de) der OKF DE und [BildungsCent e.V.](https://bildungscent.de) haben sich daher in den letzten vier Monaten intensiv mit Schuldaten beschäftigt.
 
 Wie können Daten besser für die Öffentlichkeit aufbereitet werden, die Schulen an Behörden kommunizieren? Welche neuen Perspektiven eröffnen sich dadurch auf die Potenziale von Schulen als Orte gesellschaftlicher Entwicklung? 
