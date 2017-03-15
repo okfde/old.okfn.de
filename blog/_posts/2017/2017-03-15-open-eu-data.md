@@ -27,6 +27,34 @@ So how do EU subsidies work anyways? The EU spends about 638 billion (59%) of it
 
 The variety in how the data is published throughout the European Union is astonishing. Some countries publish information on all three relevant ESIF Funds (ERDF, ESF, CF) in one online portal, while others have separate websites distinguished by funds. Germany provides the most severe case of scatteredness, not only is the data published by its regions (Germany’s 16 federal states), but different websites for distinct funds exist (ERDF vs. ESF) leading to a total of 27 German websites. Arguably making the German data collection just as tedious as collecting all data for the entire rest of the EU. 
 
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #65688B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th>Format 2007</th><th>#</th><th>Format 2014</th><th>#</th></tr></thead><tbody>
+ <tr><td>WEB</td><td>9</td><td>WEB</td><td>6</td></tr>
+ <tr><td>CSV</td><td>8</td><td>CSV</td><td>4</td></tr>
+ <tr><td>XLS</td><td>5</td><td>XLS</td><td>4</td></tr>
+ <tr><td>PDF</td><td>49</td><td>PDF</td><td>2</td></tr>
+ <tr><td>XLSX</td><td>4</td><td>XLSX</td><td>30</td></tr>
+ <tr><td>JSON</td><td>0</td><td>JSON</td><td>1</td></tr>
+ <tr><td>Sum</td><td>75</td><td>Sum</td><td>47</td></tr>
+</tbody></table>
+
 Once the distinct websites were located through online searches, the data collection began. Unfortunately, datasets for the 2007-2013 period were rarely available in open formats (counting csv, json or xlsx) and we had to deal with a large amount of PDFs (51) and webapps (15) out of a total of 122 files. The majority of PDF files was extracted using Tabula and OpenRefine (for cleaning misaligned data), others were rather tricky and required specifically tailored scripts by our developer. 
 
 ### Open data: political reluctance or technical ignorance?
