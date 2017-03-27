@@ -15,7 +15,6 @@ layout: post
 card: true
 published: true
 jobs:
-    - "Geschäftsführer/in der Open Knowledge Foundation Deutschland"
 title: "OKF DE sucht neue/n Geschäftsführer/in!"
 ---
 
