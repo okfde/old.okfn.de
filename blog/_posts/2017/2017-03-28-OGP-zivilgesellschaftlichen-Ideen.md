@@ -17,7 +17,7 @@ type: post
 layout: post 
 card: true
 published: true
-title: "Veröffentlichung der zivilgesellschaftlichen Ideen für den OGP Deutschland NAP - Open Government Partnership Nationalen AktionsPlan " 
+title: "Open Government Partnership: Ideen der Zivilgesellschaft für Nationalen Aktionsplan veröffentlicht" 
 ---
 
 Die OKF DE ist Teil des Arbeitskreis [Open Government Partnership](https://opengovpartnership.de/).
