@@ -19,11 +19,7 @@ card: true
 published: true
 title: "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan" 
 ---
-
-Die Open Knowledge Foundation Deutschland ist Teil des Arbeitskreis [Open Government Partnership](https://opengovpartnership.de/).
-Die [Ergebnisse der letzten Wochen](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden der Bundesregierung übergeben. 
-Wir haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
-
+Die Open Knowledge Foundation Deutschland ist Teil des [Arbeitskreis Open Government Partnership](https://opengovpartnership.de/). Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die [Ergebnisse diser zivilgesellschaftlichen Ideensammlung](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden nun der Bundesregierung übergeben. Wir haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
 
 * [Offene Daten](https://pad.okfn.de/p/NAP-offeneDaten)
 * [Informationsfreiheit und Transparenz](https://pad.okfn.de/p/NAP-Informationsfreiheit_Transparenz) 
@@ -31,16 +27,13 @@ Wir haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vor
 * [Offene Entwicklungspolitik (Open Aid)](https://pad.okfn.de/p/NAP-openaid)
 * [Offene Ernährungspolitik und offene Landwirtschaftspolitik](https://pad.okfn.de/p/NAP-offeneLandwirtschaft)
 
-Weitere von der OKF und Community bearbeitete Themen waren [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
+Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
 
-Weitere Maßnahmen können auch mit dem Twitter-Hashtag #myNAPask #Germany vorgeschlagen werden.
+Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Sie werden dann der Bundesregierung ergänzend übergeben. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
-Vielen Dank für das Feedback und Mitarbeit der Community!
 
-Ein Übersicht der weiteren Themen findet sich unter [hier](https://pad.okfn.de/p/Themencluster_OGP_NAP).
-Die nächsten Schritte sind im Zeitplan abgebildet. Der Dialogworkshop zwischen Zivilgesellschaft und Ministerien soll Ende Mai stattfinden. Das Datum wird noch bekannt gegeben.
 
-Der Arbeitskreis hat eine gemeinsame Pressemitteilung veröffentlicht:
+Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:
 
 Berlin, 28. März 2017 -  270 konkrete Vorschläge für einen Nationalen Aktionsplan Open Government Partnership (OGP) liegen jetzt auf dem Tisch der Bundesregierung. Sie sind das Ergebnis eines mehrwöchigen Partizipationsprozesses, im Laufe dessen Ideen und Expertise aus der Zivilgesellschaft gesammelt, diskutiert und priorisiert wurden. Der Prozess wurde durch einen Workshop im Bundesinnenministerium gestartet und vom zivilgesellschaftlichen Arbeitskreis Open Government Partnership Deutschland begleitet.
 
