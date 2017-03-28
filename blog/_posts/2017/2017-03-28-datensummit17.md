@@ -32,3 +32,5 @@ Kein Ticket für den Datensummit? Kein Problem. Zwar war die Anmeldeliste Anfang
 **[Zum Programm für Tag 1](https://datensummit.de/tag_eins/)**
 
 **[Zum Programm für Tag 2](https://datensummit.de/tag_zwei/)**
+
+<img src="https://datensummit.de/static/img/dance.gif">
