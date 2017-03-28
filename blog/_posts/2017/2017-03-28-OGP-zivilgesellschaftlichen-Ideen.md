@@ -31,7 +31,7 @@ Die OKF koordinierte und wird weiterhin folgende Teilbereiche vorantreiben.
 * [Offene Entwicklungspolitik (Open Aid)](https://pad.okfn.de/p/NAP-openaid)
 * [Offene Ernährungspolitik und offene Landwirtschaftspolitik](https://pad.okfn.de/p/NAP-offeneLandwirtschaft)
 
-Weitere von der OKF und Community bearbeitete Themen waren [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl] (https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik] (https://pad.okfn.de/p/NAP-offenerTransport).
+Weitere von der OKF und Community bearbeitete Themen waren [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
 
 Danke für das Feedback und Mitarbeit der Community.
 
