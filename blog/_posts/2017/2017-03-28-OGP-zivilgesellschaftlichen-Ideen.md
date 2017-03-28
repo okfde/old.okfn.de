@@ -25,11 +25,11 @@ Die [Ergebnisse der letzten Wochen](https://opengovpartnership.de/files/2017/03/
 Die OKF koordinierte und wird weiterhin folgende Teilbereiche vorantreiben.
 
 
-* [Offene Daten:] (https://pad.okfn.de/p/NAP-offeneDaten)
-* [Informationsfreiheit und Transparenz:] (https://pad.okfn.de/p/NAP-Informationsfreiheit_Transparenz) 
-* [Offene Vergabe (Open Contract)]: (https://pad.okfn.de/p/NAP-offenevergabe)
-* [Offene Entwicklungspolitik (Open Aid):] (https://pad.okfn.de/p/NAP-openaid)
-* [Offene Ernährungspolitik und offene Landwirtschaftspolitik:] (https://pad.okfn.de/p/NAP-offeneLandwirtschaft)
+* [Offene Daten](https://pad.okfn.de/p/NAP-offeneDaten)
+* [Informationsfreiheit und Transparenz](https://pad.okfn.de/p/NAP-Informationsfreiheit_Transparenz) 
+* [Offene Vergabe (Open Contract)](https://pad.okfn.de/p/NAP-offenevergabe)
+* [Offene Entwicklungspolitik (Open Aid)](https://pad.okfn.de/p/NAP-openaid)
+* [Offene Ernährungspolitik und offene Landwirtschaftspolitik](https://pad.okfn.de/p/NAP-offeneLandwirtschaft)
 
 Weitere von der OKF und Community bearbeitete Themen waren [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl] (https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik] (https://pad.okfn.de/p/NAP-offenerTransport).
 
