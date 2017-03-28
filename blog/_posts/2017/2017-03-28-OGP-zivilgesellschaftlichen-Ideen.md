@@ -4,7 +4,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-03-28 01:00:00
 image:
-  src: /files/blog/2017/02/Timeline.png
+  src: /files/blog/2017/03/Timeline2.png
   title: 
   license: "Source: BMI (Stand 21.02.2017)"
   license_url: "http://www.verwaltung-innovativ.de/DE/Internationales/OGP/zeitlicher_ablauf/zeitlicher_ablauf_node.html"
