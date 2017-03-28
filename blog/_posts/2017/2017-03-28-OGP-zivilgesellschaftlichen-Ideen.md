@@ -33,6 +33,8 @@ Die OKF koordinierte und wird weiterhin folgende Teilbereiche vorantreiben.
 
 Weitere von der OKF und Community bearbeitete Themen waren [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
 
+Weitere Maßnahmen vorschlagen ist auch mittels Tweet mit #myNAPask #Germany möglich.
+
 Danke für das Feedback und Mitarbeit der Community.
 
 Ein Übersicht der weiteren Themen findet sich unter [hier](https://pad.okfn.de/p/Themencluster_OGP_NAP).
