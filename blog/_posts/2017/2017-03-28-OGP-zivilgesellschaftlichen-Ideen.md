@@ -53,7 +53,10 @@ Im nächsten Schritt werden die in der Zivilgesellschaft gesammelten Ideen in ei
 Seit 2011 setzt sich der Arbeitskreis OGP aktiv für die Entwicklung von Open Government in Deutschland ein. Die eingereichten Empfehlungen sind das Ergebnis der Zusammenarbeit unter Einbezug eines breiten Kreises an Stakeholdern. Der Anspruch ist es, den Weg der Bundesregierung zu einem offeneren Regieren dauerhaft zu begleiten und um die Positionen der Zivilgesellschaft zu bereichern, um Open Government in Bund, Ländern und Kommunen wirkungsvoll und nachhaltig zu etablieren.
 
 Arbeitskreis Open Government Partnership Deutschland
+
 Auflistung der Mitglieder: https://opengovpartnership.de/arbeitskreis
+
 Koordination: Johanna zum Felde
+
 E-Mail: info@ogphub.de
 
