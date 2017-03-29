@@ -29,7 +29,7 @@ Die Open Knowledge Foundation Deutschland ist Teil des [Arbeitskreis Open Govern
 
 Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
 
-Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Sie werden dann der Bundesregierung ergänzend übergeben. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
+Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
 
 
