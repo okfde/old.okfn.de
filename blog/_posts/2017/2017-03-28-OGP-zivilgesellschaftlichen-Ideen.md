@@ -31,10 +31,9 @@ Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und
 
 Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
+</br> </br>
 
-
-
-Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:
+*Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:*
 
 Berlin, 28. März 2017 -  ca. 270 konkrete Vorschläge für einen Nationalen Aktionsplan Open Government Partnership (OGP) liegen jetzt auf dem Tisch der Bundesregierung. Sie sind das Ergebnis eines mehrwöchigen Partizipationsprozesses, im Laufe dessen Ideen und Expertise aus der Zivilgesellschaft gesammelt, diskutiert und priorisiert wurden. Der Prozess wurde durch einen Workshop im Bundesinnenministerium gestartet und vom zivilgesellschaftlichen Arbeitskreis Open Government Partnership Deutschland begleitet.
 
