@@ -31,7 +31,7 @@ Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und
 
 Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
-</br> </br>
+<br>
 
 *Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:*
 
