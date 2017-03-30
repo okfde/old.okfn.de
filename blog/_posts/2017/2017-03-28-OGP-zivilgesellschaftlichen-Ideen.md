@@ -19,7 +19,7 @@ card: true
 published: true
 title: "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan" 
 ---
-Die Open Knowledge Foundation Deutschland ist Teil des [Arbeitskreis Open Government Partnership](https://opengovpartnership.de/). Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die [Ergebnisse dieser zivilgesellschaftlichen Ideensammlung](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden nun der Bundesregierung übergeben. Wir haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
+Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die [Ergebnisse dieser zivilgesellschaftlichen Ideensammlung](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden nun der Bundesregierung übergeben. Wir sind Teil des[Arbeitskreis Open Government Partnership](https://opengovpartnership.de/), haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
 
 * [Offene Daten](https://pad.okfn.de/p/NAP-offeneDaten)
 * [Informationsfreiheit und Transparenz](https://pad.okfn.de/p/NAP-Informationsfreiheit_Transparenz) 
@@ -35,7 +35,7 @@ Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags
 
 *Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:*
 
-Berlin, 28. März 2017 -  ca. 270 konkrete Vorschläge für einen Nationalen Aktionsplan Open Government Partnership (OGP) liegen jetzt auf dem Tisch der Bundesregierung. Sie sind das Ergebnis eines mehrwöchigen Partizipationsprozesses, im Laufe dessen Ideen und Expertise aus der Zivilgesellschaft gesammelt, diskutiert und priorisiert wurden. Der Prozess wurde durch einen Workshop im Bundesinnenministerium gestartet und vom zivilgesellschaftlichen Arbeitskreis Open Government Partnership Deutschland begleitet.
+Berlin, 28. März 2017 - 270 konkrete Vorschläge für einen Nationalen Aktionsplan Open Government Partnership (OGP) liegen jetzt auf dem Tisch der Bundesregierung. Sie sind das Ergebnis eines mehrwöchigen Partizipationsprozesses, im Laufe dessen Ideen und Expertise aus der Zivilgesellschaft gesammelt, diskutiert und priorisiert wurden. Der Prozess wurde durch einen Workshop im Bundesinnenministerium gestartet und vom zivilgesellschaftlichen Arbeitskreis Open Government Partnership Deutschland begleitet.
 
 Seit Dezember 2016 beteiligt sich Deutschland am internationalen Zusammenschluss für ein offenes Regierungs- und Verwaltungshandeln (OGP). Konkret bedeutet das, dass auch in Deutschland bürgerschaftliche Teilhabe gestärkt werden und neue Wege für mehr Transparenz, Bürgerfreundlichkeit, offene Innovation und Effektivität von Regierungen und Verwaltungen beschritten werden sollen. Herzstück der OGP-Beteiligung sind nationale Aktionspläne, die in den einzelnen Staaten zusammen mit der Zivilgesellschaft erarbeitet werden. Eine zivilgesellschaftliche Ideensammlung für den ersten nationalen Aktionsplan liegt nun vor.
 
