@@ -1,7 +1,7 @@
 ---
 author:
 - Michael Peters
-date: 2017-03-25 10:00:00
+date: 2017-03-31 10:00:00
 image:
   src: /files/blog/2017/03/Subsidystory.png
   title: Subsidystories
@@ -15,7 +15,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 
 title: "Turning European Subsidy Data into Open Data"
 ---
@@ -35,4 +35,4 @@ Once the distinct websites were located through online searches, the data collec
 
 Even worse were webapps such as this french webapp illustrating their 2007-2013 ESIF projects. While the idea of depicting the beneficiary data on a map may seem smart, it makes the data useless. These webapps do not allow for any kind of analysis and make it very difficult to retrieve the underlying information. Data had to be scraped by our developer and was extremely tedious for these webapps. 
 
-The EU has made efforts to increase the use of open data with their new regulation in December 2013 that mandates the member states to publish their beneficiary data in an open format (CSV, XLSX). Furthermore, they are required to disclose a given list of variables ideally making beneficiary data more comparable. While publication in open data formats has increased henceforth, PDFs and webapps remain an obstacle. Detailed information on where the different member states rank regarding their Open Data can be found [here]. 
+The EU has made efforts to increase the use of open data with their new regulation in December 2013 that mandates the member states to publish their beneficiary data in an open format (CSV, XLSX). Furthermore, they are required to disclose a given list of variables ideally making beneficiary data more comparable. While publication in open data formats has increased henceforth, PDFs and webapps remain an obstacle. Detailed information on where the different member states rank regarding their Open Data can be found [here](http://openbudgets.eu/assets/resources/Report-OpenBudgets-ESIF%20Data-Quality-Index.pdf). 
