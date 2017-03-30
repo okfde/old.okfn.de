@@ -76,12 +76,13 @@ menu_projekte: yes
 			</dl>
 		</div>
 	</div>
-
+	{% if page.contact.website %}
 	<div class="row">
 	<div class="col-sm-8 col-sm-offset-2 col-xs-12">
 		<p><a href="{{ page.contact.website }}" class="highlight-link">Zur Projektwebseite</a></p>
 	</div>
 	</div>
+	{% endif %}
 
 </div>
 

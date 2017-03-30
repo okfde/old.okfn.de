@@ -29,4 +29,4 @@ The data can be compared throughout the EU enabling thorough analysis of EU spen
 
 Beneficiary data, which was previously scattered across the EU in different languages and formats, had to be opened, scraped, cleaned and standardised to allow for cross-country comparisons and detailed searches. That we are now able to run detailed searches, aggregate projects per beneficiary and across countries, is a big step for financial transparency in Europe.
 
-Subsidystories.eu is a joined cooperation between Open Knowledge Germany and Open Knowledge International, funded by Addessium and OpenBudgets.eu - an H2020 EU research and innovation programme under grant agreement No 645833.
+Subsidystories.eu is a joined cooperation between Open Knowledge Germany and Open Knowledge International, funded by Adessium and OpenBudgets.eu - an H2020 EU research and innovation programme under grant agreement No 645833.
