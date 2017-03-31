@@ -3,14 +3,14 @@ type: education
 title: edulabs
 layout: project
 img: projects/edulabs_square.jpg
-url: 
+url: https://edulabs.de/
 people:
   - name: Markus Neusch&auml;fer
     role: Projektleitung
   - name: Maximilian Voigt
     role: Projektassistenz
 contact:
-  website:
+  website: https://edulabs.de/
   twitter:
   mail: info@edulabs.de
 de:
