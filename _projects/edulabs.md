@@ -26,10 +26,10 @@ de:
       <div id="mc_embed_signup">
       <form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=9ceae2ed43" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll">
-      Edulabs sind lokale Gruppen aus Menschen, die ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen nachnutzbare Bildungsmaterialien zu entwickeln. Ein Schwerpunkt liegt dabei auf dem neuen und nachhaltigen Einsatz digital gestützer Methoden.<br><br>
+      <a href="https://www.edulabs.de">Edulabs</a> sind lokale Gruppen aus Menschen, die ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen nachnutzbare Bildungsmaterialien zu entwickeln. Ein Schwerpunkt liegt dabei auf dem neuen und nachhaltigen Einsatz digital gestützer Methoden.<br><br>
       In drei Bundesländern organisiert das Projekt regelmäßige Treffen von interdisziplinären Teams, in denen innovative Unterrichtsreihen und Methoden entwickelt werden. Die Lab-Projekte werden didaktisch und technisch begleitet, sowie bei der Vernetzung mit Bildungsträgern unterstützt.
       <h2>Mitmachen und informiert bleiben</h2>
-      Wir freuen uns über Dein Interesse an edulabs: Über unseren Newsletter informieren wir regelmäßig über aktuelle Entwicklungen und Lab-Events. Hier erfährst Du auch von unseren Planungstreffen, an denen Du aktiv teilnehmen und das Projekt mitgestalten kannst.
+      Wir freuen uns über Dein Interesse an <a href="https://www.edulabs.de">edulabs</a> : Über unseren Newsletter informieren wir regelmäßig über aktuelle Entwicklungen und Lab-Events. Hier erfährst Du auch von unseren Planungstreffen, an denen Du aktiv teilnehmen und das Projekt mitgestalten kannst.
       <div class="indicates-required"><span class="asterisk">*</span> Pflichtfelder</div>
       <div class="mc-field-group">
        <label for="mce-EMAIL">E-Mail Addresse  <span class="asterisk">*</span></label>
