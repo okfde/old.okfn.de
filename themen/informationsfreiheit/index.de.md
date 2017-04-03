@@ -7,7 +7,7 @@ teaser: Wir setzen uns für das Bürgerrecht auf freien Zugang zu Informationen 
 
 # Informations&shy;freiheit
 
-Informationsfreiheit ist ein Bürgerrecht auf freien Zugang zu Informationen und Dokumenten von Behörden.
+[Informationsfreiheit](https://fragdenstaat.de/) ist ein Bürgerrecht auf freien Zugang zu Informationen und Dokumenten von Behörden.
 
 In Deutschland ist es nach dem Informationsfreiheitsgesetz (IFG) geregelt. Dabei muss bei einer Anfrage nach dem IFG kein Grund angegeben werden, Behörden müssen in der Regel innerhalb einer Frist von einem Monat antworten.
 
@@ -17,4 +17,4 @@ Trotzdem gilt vielerorts noch die alte Amtsverschwiegenheit. In manchen Bundesl�
 
 ### Mehr erfahren oder gleich für Informationsfreiheit einsetzen?
 
-Weitere Informationen findest du auf unserem Portal zur Informationsfreiheit [FragDenStaat.de](https://fragdenstaat.de/) oder in der [Mailingliste](https://lists.okfn.org/mailman/listinfo/fragdenstaat).
+Weitere Informationen findest du auf unserem Portal zur [Informationsfreiheit](https://fragdenstaat.de/) [FragDenStaat.de](https://fragdenstaat.de/) oder in der [Mailingliste](https://lists.okfn.org/mailman/listinfo/fragdenstaat).

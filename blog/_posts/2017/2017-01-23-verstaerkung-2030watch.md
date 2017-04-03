@@ -12,7 +12,6 @@ tags:
  - 2030Watch
  - Ausschreibung
 jobs: 
- - "Studentische Mitarbeit „2030Watch“"
 title: "2030Watch sucht Verstärkung!"
 ---
 Im September 2015 haben die Vereinten Nationen siebzehn **globale Nachhaltigkeitsziele** verabschiedet, die bis 2030 erreicht sein sollen. Auch die Bundesregierung und alle OECD Staaten haben sich zur Umsetzung dieser Agenda verpflichtet. Damit es nicht bei leeren Versprechen bleibt, hat die Open Knowledge Foundation Deutschland 2030Watch,  ein datenbasiertes Monitoringtool, entwickelt, um die Erreichung der siebzehn globalen Nachhaltigkeitsziele (Sustainable Development Goals - SDGs) zu messen. 
