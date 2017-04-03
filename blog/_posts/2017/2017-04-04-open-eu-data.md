@@ -15,7 +15,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 
 title: "Turning European Subsidy Data into Open Data"
 ---
