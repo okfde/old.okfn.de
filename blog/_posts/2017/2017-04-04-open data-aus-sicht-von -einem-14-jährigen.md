@@ -52,7 +52,7 @@ Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interv
 
 {% youtube KekufUd2cf8 560 315 %}
 
-
+<br>
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
 
 <b> Snapchat
