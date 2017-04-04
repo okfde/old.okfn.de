@@ -51,10 +51,10 @@ Diese werden beide von Markus Neuschäfer geleitet und unterstützt.
 Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interviewt.
 
 {% youtube KekufUd2cf8 560 315 %}
-
+---
 <br>
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
-
+---
 <b> Snapchat
 
 <b> Warum ist Snapchat unter Jugendlichen so beliebt?
