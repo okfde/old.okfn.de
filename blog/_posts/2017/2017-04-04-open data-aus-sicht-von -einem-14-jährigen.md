@@ -3,7 +3,7 @@ authors:
 - Miles Heekeren
 date: 2017-04-04 01:00:00
 image:
-  src: /files/blog/2017/04/baby-84626-1920.jpg
+  src: /files/blog/2017/04/baby_84626_1920.jpg
   title: 
   license: 
   license_url:
