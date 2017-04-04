@@ -1,31 +1,16 @@
 ---
-
 author: Miles Heekeren
-
 date: 2017-04-04 14:44:44
-
 image:
-
 src: /files/blog/2017/04/baby-84626_1920.jpg
-
-title: 
-
-license:
-
-tags :
-
--Pratikant
-
--14 jähriger open data
-
 title: „Open Data aus Sicht von einem 14 Jährigen“
-
+license:
+tags :
+-Pratikant
+-14 jähriger open data
 layout: post
-
 type: post
-
 card: false
-
 ---
 
 
