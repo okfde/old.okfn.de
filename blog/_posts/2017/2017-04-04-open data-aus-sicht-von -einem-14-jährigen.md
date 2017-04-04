@@ -52,6 +52,12 @@ Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interv
 
 {% youtube KekufUd2cf8 560 315 %}
 ---
+<b> Nachtrag:
+Heute war ich beim 59. Netzpolitischen Abend in der C-base, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende Re:publica.
+
+---
+
+---
 <br>
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
 ---
@@ -68,7 +74,7 @@ Außerdem wäre da natürlich noch das eigentliche Konzept der App ,das Bilder u
 
 Ich persönlich benutze Snapchat nicht aktiv, heißt ich poste nicht sehr oft was(nur wenn ich verreise oder etwas Spannendes mache).
 Ich habe die App vor allen dingen um zusehen was meine Freunde  oder Celebrities machen.
-Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich deprimierend sein, wenn Freunde öfter als man selber verreisen oder coole Sachen machen
+Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich deprimierend sein, wenn Freunde öfter als man selber verreisen oder coole Sachen machen.
 
 ---
 <b> Pro                         
