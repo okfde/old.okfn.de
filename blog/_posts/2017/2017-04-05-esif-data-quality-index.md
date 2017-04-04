@@ -1,6 +1,7 @@
 ---
-author:
+authors:
 - Anna Alberts
+- Michael Peters
 date: 2017-04-04 09:00:00
 image:
   src: /files/blog/2017/03/Subsidystory.png
@@ -50,7 +51,9 @@ Slovenia ranks highest, based on high data quality and high accessibility and us
 	</tbody>
 </table>
 
-
+<p>
+<br>
+<br>
 <p>
 EU Regulation No 1303/2013 from December 2013 requires the member states to create a single website providing all viable information on their operational programmes and publishing their beneficiary data in a machine-readable format. Comparative analysis between the two funding periods showed that substantial progress was made with the introduction of this regulation.
 </p>
