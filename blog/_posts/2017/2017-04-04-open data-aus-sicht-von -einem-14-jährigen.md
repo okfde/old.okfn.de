@@ -87,3 +87,5 @@ Braucht man Snapchat wirklich?
 
 Wenn man sehen möchten was die Freunde von einem machen, scheint es halbwegs sinnvoll.
 Allerdings wird der Service von anderen Social Media Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden,auch hier ist es möglich ,dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
+
+Dies war mein erster programmierter Text mit GitHub
