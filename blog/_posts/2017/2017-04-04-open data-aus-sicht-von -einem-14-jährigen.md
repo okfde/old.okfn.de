@@ -58,10 +58,10 @@ Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/5
 ---
 
 ---
-<br>
+<br> <head>Snapchat
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
 ---
-<b> Snapchat
+
 
 <b> Warum ist Snapchat unter Jugendlichen so beliebt?
 
