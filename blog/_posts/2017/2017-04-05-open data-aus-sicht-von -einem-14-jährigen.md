@@ -101,6 +101,22 @@ Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich de
 Wenn man sehen möchten was die Freunde von einem machen, scheint es halbwegs sinnvoll.
 Allerdings wird der Service von anderen Social Media Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden,auch hier ist es möglich ,dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
 
+<h1>Social Bots im Internet</h1>
+
+<b>Was sind Social Bots?
+
+Social Bots sind fake Accounts auf Social Media Websiten, die automatisch Likes,Follower oder auch Postings generieren, dies kann zum beispiel für Meinungsverbreitung in der Politik dienen oder auch um eine bestimmte Reichweite für ein beliebiges Thema zu generieren.
+
+<b> Bekannteste Fälle:</b>
+
+<b>Trump und Clintons Wahlkampf 2016</b>: Beide führten angeblich ihren Wahlkampf mit Social Bots. Zum Beispiel: Auf die damals 11,5 Millionen Twitter Follower von Hillary Clinton sollten laut der Seite <a href="http://botornot.co/">BotorNot</a> 3,5 Millionen fake Follower kommen. Was aber warscheinlich noch wirkungsvoller sind die automatischen Postings zum Beispiel auf Twitter, die eine bestimmte Meinung vertreten. Diese sind aber schwierig auf einzelene Personen nachzuweisen.
+
+<b>Der mexikanische Präsident Enrique Peña Nieto</b>: Der Präsident spamte angeblich mit 75.000 Twitter Bots den #YaMeCanse, auf diesem Hasthag tauschten sich Aktivisten über das mysteriöse Verschwinden von 43 Studenten in Mexiko aus. Dadurch das er den Hasthag mit den Bots flutete, wurde er aus den Twitter Trends genommen.
+
+<b>Wozu können Social Bots noch dienen ?</b>
+
+Social Bots sind zudem auch sehr nützlich für Influencer, sie können durch Social Bots ihre Likes und Kommentare faken ,sodass
+Firmen denken sie haben eine weite Reichweite und so dem Influencer ein Werbeauftrag geben. Im moment ein sehr bekannter Fall bzw. Leak ,ist die Enthüllung von <a href="http://www.onlinemarketingrockstars.de/instagate-fake-influencer/">Nicki Sunderland.</a>
 
 
 <h1>Wichtige Berichte und Zeitungsartikel die ich in meinem Praktikum gelesen habe</h1>
