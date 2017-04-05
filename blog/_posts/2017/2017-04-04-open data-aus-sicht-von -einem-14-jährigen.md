@@ -58,7 +58,7 @@ Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/5
 ---
 
 ---
-<br> <head>Snapchat
+<h1>Snapchat</h1>
 ---
 
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
