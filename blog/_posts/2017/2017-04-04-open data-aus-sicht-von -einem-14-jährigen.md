@@ -53,7 +53,7 @@ Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interv
 {% youtube KekufUd2cf8 560 315 %} 
 ---
 <b> Nachtrag:
-Heute war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>.
+Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>.
 
 ---
 
