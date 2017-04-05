@@ -94,6 +94,7 @@ Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich de
    </tr>
 </table> 
 
+---
 
 <b> Braucht man Snapchat wirklich?
 
