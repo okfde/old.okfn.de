@@ -46,18 +46,17 @@ Offene Daten sind für mich Daten, die jedem Zugänglich gemacht wurden und ande
 <b> Meine zwei Lieblingsprojekte bei der OKF
 
 Nachdem ich mich schon eine Weile über Open Data informiert hatte, habe ich mir zwei Lieblingsprojekte von der OKF rausgesucht.
-Mich sprachen vorallemdingen die Projekte <a href="https://www.refugeephrasebook.de">refugeephrasebook.de</a> und <a href="https:///www.edulabs.org/">Edulabs</a> an, weil beides Themen sind die mich gerade Interessieren.
+Mich sprachen vorallen dingen die Projekte <a href="https://www.refugeephrasebook.de">refugeephrasebook.de</a> und <a href="https:///www.edulabs.org/">Edulabs</a> an, weil beides Themen sind die mich gerade Interessieren.
 Diese werden beide von <a href="https://twitter.com/mneuschaefer">Markus Neuschäfer</a> geleitet und unterstützt.
 Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interviewt.
 
 {% youtube KekufUd2cf8 560 315 %} 
 ---
 <b> Nachtrag:
-Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>
+Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und <a href="https://vimeo.com/211554947">über die Überwachung des Reiseverkehrs in Europa gesprochen</a>ü, hauptsächlich war der zweite Vortag sehr Interessant, da mir vorher nicht unbedingt klar war das so viele Daten beim Fliegen bzw. Reisen gespeichert werden. Außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>
 
 ---
 <h1>Snapchat</h1>
-
 
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
 
@@ -73,7 +72,7 @@ Außerdem wäre da natürlich noch das eigentliche Konzept der App ,das Bilder u
 Ich persönlich benutze Snapchat nicht aktiv, heißt ich poste nicht sehr oft was(nur wenn ich verreise oder etwas Spannendes mache).
 Ich habe die App vor allen dingen um zusehen was meine Freunde  oder Celebrities machen.
 Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich deprimierend sein, wenn Freunde öfter als man selber verreisen oder coole Sachen machen.
-
+---
 
 <table border="4">
    <tr>
@@ -101,4 +100,9 @@ Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich de
 Wenn man sehen möchten was die Freunde von einem machen, scheint es halbwegs sinnvoll.
 Allerdings wird der Service von anderen Social Media Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden,auch hier ist es möglich ,dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
 
+<h1>Github</h1>
+
 <b> Dies war mein erster programmierter Text mit GitHub
+Die Seite <a href="https://w3schools.com">w3schools.com</a> hilft sehr gut, wenn man zum ersten mal Html benutzt.
+Außerdem konnte ich mich an ein Raster von der Okf halten, dies half mir auch sehr gut.
+Ich habe meine Markdown Datei mit <a href="https://dillinger.io/">dillinger.io</a> geschrieben, die Website ist sehr gut, wenn man kein extra Programm zum schreiben des Html Codes runterladen möchte, außerdem ist Sie sehr überischtlich aufgebaut.
