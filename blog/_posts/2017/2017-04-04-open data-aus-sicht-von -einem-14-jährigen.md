@@ -29,7 +29,7 @@ Zurzeit mache ich ein zweiwöchiges Schülerpraktikum bei der Open Knowledge Fou
 Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien.
 
 
-<b> Meine Sicht auf Open Data nach einer Woche Praktikum bei der Okf.
+<b> Meine Sicht auf Open Data nach einer Woche Praktikum bei der <a href="https://okfn.de">Okf.</a>
 
 
 Ich denke, Open Data ist ziemlich wichtig und nützlich für die Gesellschaft.
