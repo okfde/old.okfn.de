@@ -34,7 +34,7 @@ Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien
 
 
 Ich denke, Open Data ist ziemlich wichtig und nützlich für die Gesellschaft.
-Es gibt  so viel mehr an Daten,die wir im Alltag benutzen können. Beispielsweise könnte man nachschauen, wie pünktlich der Bus im Durchschnitt ist, mit dem man gerade in die Stadt fahren möchte, oder ob das Restaurant, wo man hingehen möchte, auch einen guten Hygienestandard hat.
+Es gibt so viel mehr an Daten,die wir im Alltag benutzen können. Beispielsweise könnte man nachschauen, wie pünktlich der Bus im Durchschnitt ist, mit dem man gerade in die Stadt fahren möchte, oder ob das Restaurant, wo man hingehen möchte, auch einen guten Hygienestandard hat.
 Allerdings glaube ich auch, dass das Thema für die  breite Masse noch nicht gut genug aufbereitet ist und viele nicht wissen, was Open Data ist.
 Als ich zum Beispiel meinem Lehrer erzählte, dass ich bei der Okf mein Schülerpraktikum mache, wusste er nicht, was Open Data ist und wozu man es braucht.
 
@@ -42,19 +42,19 @@ Ich bin mir aber sicher, dass Open Data auf einem guten Weg ist und das ist auch
 
 <b> Was sind Offene Daten für mich ?
 
-Offene Daten sind für mich Daten, die jedem Zugänglich gemacht wurden und anderen Menschen helfen werden , da jede beliebige Person damit Kreative Projekte durchführen kann.
+Offene Daten sind für mich Daten, die jedem zugänglich gemacht wurden und anderen Menschen helfen werden, da jede beliebige Person damit Kreative Projekte durchführen kann.
 
 <b> Meine zwei Lieblingsprojekte bei der OKF
 
 Nachdem ich mich schon eine Weile über Open Data informiert hatte, habe ich mir zwei Lieblingsprojekte von der OKF rausgesucht.
-Mich sprachen vorallen dingen die Projekte <a href="https://www.refugeephrasebook.de">refugeephrasebook.de</a> und <a href="https:///www.edulabs.org/">Edulabs</a> an, weil beides Themen sind die mich gerade Interessieren.
+Mich sprachen vor allen Dingen die Projekte <a href="https://www.refugeephrasebook.de">refugeephrasebook.de</a> und <a href="https:///www.edulabs.org/">Edulabs</a> an, weil beides Themen sind, die mich gerade interessieren.
 Diese werden beide von <a href="https://twitter.com/mneuschaefer">Markus Neuschäfer</a> geleitet und unterstützt.
 Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interviewt.
 
 {% youtube KekufUd2cf8 560 315 %} 
 ---
 <b> Nachtrag:
-Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und <a href="https://vimeo.com/211554947">über die Überwachung des Reiseverkehrs in Europa gesprochen</a>ü, hauptsächlich war der zweite Vortag sehr Interessant, da mir vorher nicht unbedingt klar war das so viele Daten beim Fliegen bzw. Reisen gespeichert werden. Außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>
+Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und <a href="https://vimeo.com/211554947">über die Überwachung des Reiseverkehrs in Europa gesprochen.</a> Hauptsächlich war der zweite Vortag sehr interessant, da mir vorher nicht unbedingt klar war, dass so viele Daten beim Fliegen bzw. Reisen gespeichert werden. Außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>
 
 ---
 <h1>Snapchat</h1>
@@ -63,15 +63,15 @@ Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erw
 
 <b> Warum ist Snapchat unter Jugendlichen so beliebt?
 
-Fast jeder Jugendliche hat schon einmal von Snapchat gehört, dagegen ist sie bei Erwachsenen nicht so beliebt, da die App ihnen zu “BUNT” und “verrückt” ist.
-Das Erwachsene die App nicht so gut finden, ist für viele Jugendliche schonmal ein Punkt die App zu mögen, da es schon “uncool” ist wenn man zum Beispiel bei Facebook eine Freundschaftsanfrage von seiner Oma kriegt.
+Fast jeder Jugendliche hat schon einmal von Snapchat gehört, dagegen ist sie bei Erwachsenen nicht so beliebt, da die App ihnen zu “bunt” und “verrückt” ist.
+Dass Erwachsene die App nicht so gut finden, ist für viele Jugendliche schonmal ein Punkt die App zu mögen, da es schon “uncool” ist, wenn man zum Beispiel bei Facebook eine Freundschaftsanfrage von seiner Oma kriegt.
 
-Außerdem wäre da natürlich noch das eigentliche Konzept der App ,das Bilder und Videos nach einer bestimmten Zeit verschwinden, was die Jugendlichen auch sehr praktisch finden,da sie so auch ziemlich viel quatsch posten können, dieser quatsch wird aber von Snapchat gespeichert und für “Werbungs  Optimierung” ausgewertet.
+Außerdem wäre da natürlich noch das eigentliche Konzept der App, dass Bilder und Videos nach einer bestimmten Zeit verschwinden, was die Jugendlichen auch sehr praktisch finden,da sie so auch ziemlich viel quatsch posten können.Dieser Quatsch wird aber von Snapchat gespeichert und für “Werbungs-Optimierung” ausgewertet.
 
 <b> Warum benutze ich Snapchat?
 
-Ich persönlich benutze Snapchat nicht aktiv, heißt ich poste nicht sehr oft was(nur wenn ich verreise oder etwas Spannendes mache).
-Ich habe die App vor allen dingen um zusehen was meine Freunde  oder Celebrities machen.
+Ich persönlich benutze Snapchat nicht aktiv, heißt, ich poste nicht sehr oft was(nur wenn ich verreise oder etwas Spannendes mache).
+Ich habe die App vor allen Dingen, um zu sehen, was meine Freunde oder Celebrities machen.
 Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich deprimierend sein, wenn Freunde öfter als man selber verreisen oder coole Sachen machen.
 ---
 
@@ -81,12 +81,12 @@ Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich de
       <td> Contra</td>
    </tr>
    <tr>
-      <td>Man ist immer informiert über das was Freunde machen</td>
+      <td>Man ist immer informiert über das, was Freunde machen</td>
       <td>Leute werden immer selbstverliebter </td>
    </tr>
    <tr>
       <td> </td>
-      <td>Man will immer besser sein, als die Anderen</td>
+      <td>Man will immer besser sein, als die anderen</td>
    </tr>
    <tr>
    <td> </td>
@@ -98,8 +98,8 @@ Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich de
 
 <b> Braucht man Snapchat wirklich?
 
-Wenn man sehen möchten was die Freunde von einem machen, scheint es halbwegs sinnvoll.
-Allerdings wird der Service von anderen Social Media Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden,auch hier ist es möglich ,dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
+Wenn man sehen möchte, was die Freunde von einem machen, scheint es halbwegs sinnvoll.
+Allerdings wird der Service von anderen Social Media Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden.Auch hier ist es möglich, dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
 
 <h1>Social Bots im Internet</h1>
 
@@ -109,14 +109,14 @@ Social Bots sind fake Accounts auf Social Media Websiten, die automatisch Likes,
 
 <b> Bekannteste Fälle:</b>
 
-<b>Trump und Clintons Wahlkampf 2016</b>: Beide führten angeblich ihren Wahlkampf mit Social Bots. Zum Beispiel: Auf die damals 11,5 Millionen Twitter Follower von Hillary Clinton sollten laut der Seite <a href="http://botornot.co/">BotorNot</a> 3,5 Millionen fake Follower kommen. Was aber warscheinlich noch wirkungsvoller sind die automatischen Postings zum Beispiel auf Twitter, die eine bestimmte Meinung vertreten. Diese sind aber schwierig auf einzelene Personen nachzuweisen.
+<b>Trump und Clintons Wahlkampf 2016</b>: Beide führten angeblich ihren Wahlkampf mit Social Bots. Zum Beispiel: Auf die damals 11,5 Millionen Twitter Follower von Hillary Clinton sollten laut der Seite <a href="http://botornot.co/">BotorNot</a> 3,5 Millionen fake Follower kommen. Was aber warscheinlich noch wirkungsvoller sind die automatischen Postings zum Beispiel auf Twitter, die eine bestimmte Meinung vertreten. Diese sind aber schwer auf einzelene Personen nachzuweisen.
 
-<b>Der mexikanische Präsident Enrique Peña Nieto</b>: Der Präsident spamte angeblich mit 75.000 Twitter Bots den #YaMeCanse, auf diesem Hasthag tauschten sich Aktivisten über das mysteriöse Verschwinden von 43 Studenten in Mexiko aus. Dadurch das er den Hasthag mit den Bots flutete, wurde er aus den Twitter Trends genommen.
+<b>Der mexikanische Präsident Enrique Peña Nieto</b>: Der Präsident spamte angeblich mit 75.000 Twitter Bots den #YaMeCanse, auf diesem Hasthag tauschten sich Aktivisten über das mysteriöse Verschwinden von 43 Studenten in Mexiko aus. Dadurch, dass er den Hasthag mit den Bots flutete, wurde er aus den Twitter Trends genommen.
 
 <b>Wozu können Social Bots noch dienen ?</b>
 
-Social Bots sind zudem auch sehr nützlich für Influencer, sie können durch Social Bots ihre Likes und Kommentare faken ,sodass
-Firmen denken sie haben eine weite Reichweite und so dem Influencer ein Werbeauftrag geben. Im moment ein sehr bekannter Fall bzw. Leak ,ist die Enthüllung von <a href="http://www.onlinemarketingrockstars.de/instagate-fake-influencer/">Nicki Sunderland.</a>
+Social Bots sind zudem auch sehr nützlich für Influencer, sie können durch Social Bots ihre Likes und Kommentare faken, sodass
+Firmen denken sie haben eine weite Reichweite und so dem Influencer ein Werbeauftrag geben. Im Moment ein sehr bekannter Fall bzw. Leak ist die Enthüllung von <a href="http://www.onlinemarketingrockstars.de/instagate-fake-influencer/">Nicki Sunderland.</a>
 
 
 <h1>Wichtige Berichte und Zeitungsartikel die ich in meinem Praktikum gelesen habe</h1>
@@ -145,14 +145,11 @@ Gutes Video um zu verstehen wie das Internet funktioniert.
 
 Warum Pünktlichkeit wichtig ist.
 
-<h1>Github</h1>
+<h1>GitHub</h1>
 
 <b> Dies war mein erster programmierter Text mit GitHub.
 
-Die Seite <a href="https://w3schools.com">w3schools.com</a> hilft sehr gut, wenn man zum ersten mal Html benutzt.
+Die Seite <a href="https://w3schools.com">w3schools.com</a> hilft sehr gut, wenn man zum ersten Mal Html benutzt.
 Außerdem konnte ich mich an ein Raster von der Okf halten, dies half mir auch sehr gut.
 Ich habe meine Markdown Datei mit <a href="https://dillinger.io/">dillinger.io</a> geschrieben, die Website ist sehr gut, wenn man kein extra Programm zum schreiben des Html Codes runterladen möchte, außerdem ist Sie sehr überischtlich aufgebaut.
-
- 
-
 
