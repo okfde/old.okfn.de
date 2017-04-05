@@ -24,8 +24,8 @@ title: "Open Data aus Sicht eines 14 Jährigen"
 <b> Wer bin ich ?
 
 
-Ich bin Miles, ich gehe zurzeit in die 9. Klasse auf der Anna-Essinger Gemeinschaftsschule in Berlin.
-Zurzeit mache ich ein zweiwöchiges Schülerpraktikum bei der Open Knowledge Foundation.
+Ich bin Miles, ich gehe zurzeit in die 9. Klasse auf der <a href="http://www.aegs.schule.de/">Anna-Essinger Gemeinschaftsschule</a> in Berlin.
+Zurzeit mache ich ein zweiwöchiges Schülerpraktikum bei der <a href="https://okfn.de">Open Knowledge Foundation.</a> 
 Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien.
 
 
@@ -46,14 +46,14 @@ Offene Daten sind für mich Daten, die jedem Zugänglich gemacht wurden und ande
 <b> Meine zwei Lieblingsprojekte bei der OKF
 
 Nachdem ich mich schon eine Weile über Open Data informiert hatte, habe ich mir zwei Lieblingsprojekte von der OKF rausgesucht.
-Mich sprachen vorallemdingen die Projekte refugeephrasebook.de und Edulabs an, weil beides Themen sind die mich gerade Interessieren.
-Diese werden beide von Markus Neuschäfer geleitet und unterstützt.
+Mich sprachen vorallemdingen die Projekte <a href="https://www.refugeephrasebook.de">refugeephrasebook.de</a> und <a href="https:///www.edulabs.org/">Edulabs</a> an, weil beides Themen sind die mich gerade Interessieren.
+Diese werden beide von <a href="https://twitter.com/mneuschaefer">Markus Neuschäfer</a> geleitet und unterstützt.
 Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interviewt.
 
-{% youtube KekufUd2cf8 560 315 %}
+{% youtube KekufUd2cf8 560 315 %} 
 ---
 <b> Nachtrag:
-Heute war ich beim 59. Netzpolitischen Abend in der C-base, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende Re:publica.
+Heute war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>.
 
 ---
 
