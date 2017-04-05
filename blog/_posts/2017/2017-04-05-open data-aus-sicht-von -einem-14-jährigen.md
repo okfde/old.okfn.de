@@ -101,6 +101,34 @@ Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich de
 Wenn man sehen möchten was die Freunde von einem machen, scheint es halbwegs sinnvoll.
 Allerdings wird der Service von anderen Social Media Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden,auch hier ist es möglich ,dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
 
+
+
+<h1>Wichtige Berichte und Zeitungsartikel die ich in meinem Praktikum gelesen habe</h1>
+
+<a href="https://www.youtube.com/watch?v=UvEiSa6_EPA">Steve Jobs' Vision of the World</a>
+
+Inspirierendes Interview mit Steve Jobs, dem Gründer von Apple.
+
+<a href="https://www.youtube.com/watch?v=5PJZz04JGjs">Wie funktioniert ein Computer - Die Sendung mit der Maus</a>
+
+Sehr gut um zu verstehen wie ein Computer funktioniert, wenn auch ein bischen veraltet.
+
+<a href="https://www.youtube.com/watch?v=hCwjDuoJK0E">Doku über Aaron Swartz</a>
+
+Eine sehr inspirierende Doku.
+
+<a href="https://www.youtube.com/watch?v=hAtDqBJFxsc">Die Geschichte des Internets</a>
+
+Gutes Video um zu verstehen wie das Internet funktioniert.
+
+<a href="http://www.businessinsider.com/how-different-cultures-understand-time-2014-5?IR=T">Wie verschiedene Kulturen Zeit verstehen</a>
+
+
+
+<a href="https://www.forbes.com/sites/brentbeshore/2015/08/02/5-minutes-early-is-on-time-on-time-is-late-late-is-unacceptable/#91a62491b2a7">Pünktlichkeit</a>
+
+Warum Pünktlichkeit wichtig ist.
+
 <h1>Github</h1>
 
 <b> Dies war mein erster programmierter Text mit GitHub.
@@ -108,3 +136,7 @@ Allerdings wird der Service von anderen Social Media Giganten wie Instagram län
 Die Seite <a href="https://w3schools.com">w3schools.com</a> hilft sehr gut, wenn man zum ersten mal Html benutzt.
 Außerdem konnte ich mich an ein Raster von der Okf halten, dies half mir auch sehr gut.
 Ich habe meine Markdown Datei mit <a href="https://dillinger.io/">dillinger.io</a> geschrieben, die Website ist sehr gut, wenn man kein extra Programm zum schreiben des Html Codes runterladen möchte, außerdem ist Sie sehr überischtlich aufgebaut.
+
+ 
+
+
