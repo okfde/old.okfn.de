@@ -102,7 +102,8 @@ Allerdings wird der Service von anderen Social Media Giganten wie Instagram län
 
 <h1>Github</h1>
 
-<b> Dies war mein erster programmierter Text mit GitHub
+<b> Dies war mein erster programmierter Text mit GitHub.
+
 Die Seite <a href="https://w3schools.com">w3schools.com</a> hilft sehr gut, wenn man zum ersten mal Html benutzt.
 Außerdem konnte ich mich an ein Raster von der Okf halten, dies half mir auch sehr gut.
 Ich habe meine Markdown Datei mit <a href="https://dillinger.io/">dillinger.io</a> geschrieben, die Website ist sehr gut, wenn man kein extra Programm zum schreiben des Html Codes runterladen möchte, außerdem ist Sie sehr überischtlich aufgebaut.
