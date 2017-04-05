@@ -21,13 +21,14 @@ title: "Open Data aus Sicht eines 14 Jährigen"
 
 
 
-<b> Wer bin ich ?
+<h1> Wer bin ich ? </h1>
 
 
 Ich bin Miles, ich gehe zurzeit in die 9. Klasse auf der <a href="http://www.aegs.schule.de/">Anna-Essinger Gemeinschaftsschule</a> in Berlin.
 Zurzeit mache ich ein zweiwöchiges Schülerpraktikum bei der <a href="https://okfn.de">Open Knowledge Foundation.</a> 
 Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien.
 
+<h1> Open Data </h1>
 
 <b> Meine Sicht auf Open Data nach einer Woche Praktikum bei der <a href="https://okfn.de">Okf.</a>
 
