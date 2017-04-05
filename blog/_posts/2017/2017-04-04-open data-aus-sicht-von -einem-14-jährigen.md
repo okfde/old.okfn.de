@@ -53,9 +53,7 @@ Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interv
 {% youtube KekufUd2cf8 560 315 %} 
 ---
 <b> Nachtrag:
-Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>.
-
----
+Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und über die Überwachung des Reiseverkehrs in Europa gesprochen, es war beides sehr spannend und Informativ,außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>
 
 ---
 <h1>Snapchat</h1>
@@ -76,22 +74,26 @@ Ich persönlich benutze Snapchat nicht aktiv, heißt ich poste nicht sehr oft wa
 Ich habe die App vor allen dingen um zusehen was meine Freunde  oder Celebrities machen.
 Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich deprimierend sein, wenn Freunde öfter als man selber verreisen oder coole Sachen machen.
 
----
-<b> Pro                         
-Man ist immer informiert über das was Freunde machen
----
 
----
-Contra
+<table border="4">
+   <tr>
+      <td> Pro </td>
+      <td> Contra</td>
+   </tr>
+   <tr>
+      <td>Man ist immer informiert über das was Freunde machen</td>
+      <td>Leute werden immer selbstverliebter </td>
+   </tr>
+   <tr>
+      <td> </td>
+      <td>Man will immer besser sein, als die Anderen</td>
+   </tr>
+   <tr>
+   <td> </td>
+   <td> Man wird schneller neidisch auf Andere</td>
+   </tr>
+</table> 
 
-Leute werden immer selbstverliebter
-
-
-Man will immer besser sein, als die Anderen.
-
-
-Man wird schneller neidisch auf Andere.
----
 
 <b> Braucht man Snapchat wirklich?
 
