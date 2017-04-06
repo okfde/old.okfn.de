@@ -57,6 +57,18 @@ Nun hatte ich meine beiden Projekte fertig ausgesucht und ich habe Markus interv
 Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/59-npa/">59. Netzpolitischen Abend</a> in der <a href="https://c-base.org/">C-base</a>, es wurde über das Netzwerkdurchsetzungsgesetz und <a href="https://vimeo.com/211554947">über die Überwachung des Reiseverkehrs in Europa gesprochen.</a> Hauptsächlich war der zweite Vortag sehr interessant, da mir vorher nicht unbedingt klar war, dass so viele Daten beim Fliegen bzw. Reisen gespeichert werden. Außerdem gab es noch ein Ausblick auf die anstehende <a href="https://re-publica.com/de">Re:publica</a>
 
 ---
+
+<h1>Open Data im Nahverkehr </h1>
+
+<b> Warum sind offene Daten so wichtig im Nahverkehr ? </b>
+
+Offene Daten sind sehr wichtig im Nahverkehr, damit es neue innovative Apps im Nahverkehr geben kann und nicht nur Apps von den jeweiligen Verkehrsbetrieben selbst,da du bei diesen meist sehr wenig eigene Entscheidungen treffen kannst und sich diese  meist auch nur auf eine Nahverkehrmöglichkeit beschränken.
+
+<a href="http://fahrinfo.vbb.de/bin/help.exe/dn?L=vs_mobilitymap&tpl=fullmap&tabApp=show">In Berlin gibt es bereits eine Echtzeit Karte.</a>
+
+Auch sehr nützlich der <a href="https://daten.berlin.de/anwendungen/vbb-telegram-bot">VBB Telegram Bot</a>
+
+
 <h1>Snapchat</h1>
 
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
