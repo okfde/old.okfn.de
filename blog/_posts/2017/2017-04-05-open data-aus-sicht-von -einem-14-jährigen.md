@@ -71,7 +71,6 @@ Auch sehr nützlich der <a href="https://daten.berlin.de/anwendungen/vbb-telegra
 
 <h1>Snapchat</h1>
 
-<img src="http://http://cdn.starflash.de/bilder/snapchat-die-besten-tricks-405613.jpg" height="100" width="200" alt="CHIP-Logo" border="2" align="right" hspace="50" vspace="50">
 
 Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
 
