@@ -62,7 +62,7 @@ Heute (Dienstag) war ich beim <a href="https://digitalegesellschaft.de/2017/03/5
 
 <b> Warum sind offene Daten so wichtig im Nahverkehr ? </b>
 
-Offene Daten sind sehr wichtig im Nahverkehr, damit es neue innovative Apps im Nahverkehr geben kann und nicht nur Apps von den jeweiligen Verkehrsbetrieben selbst,da du bei diesen meist sehr wenig eigene Entscheidungen treffen kannst und sich diese  meist auch nur auf eine Nahverkehrmöglichkeit beschränken.
+Offene Daten sind sehr wichtig im Nahverkehr, damit es neue innovative Apps im Nahverkehr geben kann und nicht nur Apps von den jeweiligen Verkehrsbetrieben selbst, da man bei diesen meist sehr wenig eigene Entscheidungen treffen kann und sich diese  meist auch nur auf eine Nahverkehrmöglichkeit beschränken.
 
 <a href="http://fahrinfo.vbb.de/bin/help.exe/dn?L=vs_mobilitymap&tpl=fullmap&tabApp=show">In Berlin gibt es bereits eine Echtzeit Karte.</a>
 
