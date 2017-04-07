@@ -72,7 +72,7 @@ Auch sehr nützlich der <a href="https://daten.berlin.de/anwendungen/vbb-telegra
 <h1>Snapchat</h1>
 
 
-Bei meinem Praktikum ist mir aufgefallen ,dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt ,dass ich ein bisschen über Snapchat schreiben wollte.
+Bei meinem Praktikum ist mir aufgefallen, dass Snapchat nicht so beliebt bei Erwachsenen ist, das hat dazu geführt, dass ich ein bisschen über Snapchat schreiben wollte.
 
 <b> Warum ist Snapchat unter Jugendlichen so beliebt?
 
@@ -122,7 +122,7 @@ Social Bots sind fake Accounts auf Social Media Websiten, die automatisch Likes,
 
 <b> Bekannteste Fälle:</b>
 
-<b>Trump und Clintons Wahlkampf 2016</b>: Beide führten angeblich ihren Wahlkampf mit Social Bots. Zum Beispiel: Auf die damals 11,5 Millionen Twitter Follower von Hillary Clinton sollten laut der Seite <a href="http://botornot.co/">BotorNot</a> 3,5 Millionen fake Follower kommen. Was aber warscheinlich noch wirkungsvoller sind die automatischen Postings zum Beispiel auf Twitter, die eine bestimmte Meinung vertreten. Diese sind aber schwer auf einzelene Personen nachzuweisen.
+<b>Donald und Clintons Wahlkampf 2016</b>: Beide führten angeblich ihren Wahlkampf mit Social Bots. Zum Beispiel: Auf die damals 11,5 Millionen Twitter Follower von Hillary Clinton sollten laut der Seite <a href="http://botornot.co/">BotorNot</a> 3,5 Millionen fake Follower kommen. Was aber warscheinlich noch wirkungsvoller sind die automatischen Postings zum Beispiel auf Twitter, die eine bestimmte Meinung vertreten. Diese sind aber schwer auf einzelene Personen nachzuweisen.
 
 <b>Der mexikanische Präsident Enrique Peña Nieto</b>: Der Präsident spamte angeblich mit 75.000 Twitter Bots den #YaMeCanse, auf diesem Hasthag tauschten sich Aktivisten über das mysteriöse Verschwinden von 43 Studenten in Mexiko aus. Dadurch, dass er den Hasthag mit den Bots flutete, wurde er aus den Twitter Trends genommen.
 
@@ -164,5 +164,5 @@ Warum Pünktlichkeit wichtig ist.
 
 Die Seite <a href="https://w3schools.com">w3schools.com</a> hilft sehr gut, wenn man zum ersten Mal Html benutzt.
 Außerdem konnte ich mich an ein Raster von der Okf halten, dies half mir auch sehr gut.
-Ich habe meine Markdown Datei mit <a href="https://dillinger.io/">dillinger.io</a> geschrieben, die Website ist sehr gut, wenn man kein extra Programm zum schreiben des Html Codes runterladen möchte, außerdem ist Sie sehr überischtlich aufgebaut.
+Ich habe meine Markdown Datei mit <a href="http://dillinger.io/">dillinger.io</a> geschrieben, die Website ist sehr gut, wenn man kein extra Programm zum schreiben des Html Codes runterladen möchte, außerdem ist Sie sehr überischtlich aufgebaut.
 
