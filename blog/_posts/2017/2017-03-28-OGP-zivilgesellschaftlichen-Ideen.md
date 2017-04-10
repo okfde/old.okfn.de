@@ -33,7 +33,7 @@ Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und
 Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
 ### Update Termine: 
-* <a name="Termin">nächster Termin:</a>24.04.17 9:30 in Berlin - [nähere Infos](https://pad.okfn.de/p/akogpde) 
+* <a name="Termin">nächster Termin: </a>24.04.17 9:30 in Berlin - [nähere Infos](https://pad.okfn.de/p/akogpde) 
 * Ende Mai der offizielle Workshop, Termin wird noch vom Ministerium bekannt gegeben.
 * Ende Juni soll der Kabinettsbeschluss erfolgen.
 
