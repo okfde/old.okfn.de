@@ -63,12 +63,12 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ## Wichtige Dokumente
 
-* Satzung: [hier](../verein/satzung)
-* Memorandum of Understanding mit der OKFN aus Großbritannien: [hier](../files/verein/okfde-mou.pdf)
-* Mission Statement: [hier](../mission)
-* Protokoll der Gründungsversammlung: [hier](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
-* Governance Modell: [hier](../files/verein/OKFDE Governance-Modell - Stand 20.05.2016.pdf)
-* Verhaltenskodex: [hier](../files/verein/OKFDE Verhaltenskodex- Stand 20.05.2016.pdf)
+* [Satzung](../verein/satzung)
+* [Memorandum of Understanding mit der OKFN aus Großbritannien](../files/verein/okfde-mou.pdf)
+* [Mission Statement](../mission)
+* [Protokoll der Gründungsversammlung](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
+* [Governance Modell](../files/verein/OKFDE Governance-Modell - Stand 20.05.2016.pdf)
+* [Verhaltenskodex](../files/verein/OKFDE Verhaltenskodex- Stand 20.05.2016.pdf)
 
 ## Anerkennung als gemeinnütziger Verein
 
