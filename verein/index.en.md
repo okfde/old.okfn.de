@@ -59,10 +59,10 @@ Open Knowledge Foundation Deutschland e.V. was founded in 2011.
 
 ## Important documents
 
-* Club rules: [here](../verein/satzung)
-* Memorandum of Understanding with OKF Central: [here](../files/verein/okfde-mou.pdf)
-* Mission Statement: [here](../mission)
-* Protocol of the founding assembly: [here](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
+* [Organisation bylaws](../verein/satzung)
+* [Memorandum of Understanding with OKF Central](../files/verein/okfde-mou.pdf)
+* [Mission Statement](../mission)
+* [Protocol of the founding assembly](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
 
 ## Recognition as a charitable foundation
 
