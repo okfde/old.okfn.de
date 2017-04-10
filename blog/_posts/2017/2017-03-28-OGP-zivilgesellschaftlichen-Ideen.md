@@ -29,9 +29,10 @@ Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzte
 
 Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
 
+<a id="Update-Termine"></a>
 Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
-## Update Termine: <a id="Update-Termine"></a>
+### Update Termine: 
 * 24.04.17 9:30 in Berlin - [nähere Infos](https://pad.okfn.de/p/akogpde) 
 * Ende Mai der offizielle Workshop, Termin wird noch vom Ministerium bekannt gegeben.
 * Ende Juni soll der Kabinettsbeschluss erfolgen.
