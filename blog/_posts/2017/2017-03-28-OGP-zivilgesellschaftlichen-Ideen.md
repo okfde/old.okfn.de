@@ -32,6 +32,11 @@ Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und
 <a id="Update-Termine"></a>
 Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
+Termine: 
+* <a name="Termin">Zusammenkunft des Arbeitskreis OGP: </a>24.04.17 9:30 Uhr in Berlin - [weitere Informationen](https://opengovpartnership.de/2017/04/24-april-2017-der-arbeitskreis-ogp-tagt-in-berlin/) 
+* Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.
+* Ende Juni wird der Nationale Aktionsplan OGP per Kabinettsbeschluss verabschiedet.
+
 <br>
 
 *Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:*
