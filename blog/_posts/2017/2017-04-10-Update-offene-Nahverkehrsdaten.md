@@ -29,7 +29,11 @@ Youtube dingsi.
 
 <b>Nächste Termine</b>: 
 29.04 & 30.04 im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr.
-Be there, or be square, gibt es noch Tickets. 
+Be there, or be square, es gibt noch Tickets. 
+Am ersten Tag offizielles Program beim Ministerium, am zweiten Tag im Betahaus:
+* Workshop Offene Nahverkehrsdaten
+* Vortrag Open (Transport) Data in Deutschland Love, Hate, Denial, Hope von Alexey
+
 
 2 Wochen später am 12.05 und 13.05 ist  der [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) und am Vormittag gibt es endlich mal ein Treffen der zwischen Verkehrsverbünde und der Community.
 Wir halten auch am Laufenden. 
