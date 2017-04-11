@@ -24,8 +24,11 @@ Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinen
 
 Im Bundestag wurde das Thema von MdB Jarzombek an den Tag gelegt.
 
-Nächste Termine: 
-29.04 & 30.04 im Rahmen des datensummit.de beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr.
+Youtube dingsi.
+
+
+<b>Nächste Termine</b>: 
+29.04 & 30.04 im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr.
 Be there, or be square, gibt es noch Tickets. 
 
 2 Wochen später am 12.05 und 13.05 ist  der [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) und am Vormittag gibt es endlich mal ein Treffen der zwischen Verkehrsverbünde und der Community.
@@ -37,6 +40,8 @@ Lesenswert wie die Situation in [Österreich aussieht](http://derstandard.at/200
 Bzw. dieser Artikel zu ["Who Owns Transit Data?
 Most U.S. cities share their transit information freely, which helps trip-planning services and boosts ridership. But most German cities don’t. Should they?"](https://www.citylab.com/transportation/2017/04/who-owns-transit-data/522444/)
 
-Die Frage dabei 
+Die Frage dabei lautet 
 
-Antworten bitte an opentransport@okfn.de
+>"I have not found a single example of a transit agency making money from keeping their data private"
+
+Antworten gerne bitte an opentransport@okfn.de
