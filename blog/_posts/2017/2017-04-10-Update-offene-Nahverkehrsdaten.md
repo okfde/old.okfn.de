@@ -30,11 +30,16 @@ Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun ihre [Fahrplandaten als GTFS herau
 
 In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der MVV (München) Planungen für ein eigenes Open-Data-Portal an.
 
-Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/850286156587597826) einen Session über Open Data - ["Love, Hate, Denial, Hope" (Slides)](https://de.slideshare.net/orless/open-transport-data-in-deutschland-love-hate-denial-hope), die gut angenommen wurde. Wir hoffen somit auf mehr Open Data bis zum nächsten Verkehrscamp.
+Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/850286156587597826) einen Session über Open Data - ["Love, Hate, Denial, Hope" (Slides)](https://de.slideshare.net/orless/open-transport-data-in-deutschland-love-hate-denial-hope), die gut angenommen wurde. Wir hoffen somit auf mehr Open Data bis zum nächsten Verkehrscamp - bei dem wir dann auch dabei sein können:
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Gute Neuigkeiten: durch Voting wurde auf <a href="https://twitter.com/verkehrscamp">@verkehrscamp</a> entschieden das nächstes Mal auch externe Experte teilnehmen dürfen.<a href="https://twitter.com/hashtag/Verkehrscamp?src=hash">#Verkehrscamp</a></p>&mdash; Alexey Valikov (@orless) <a href="https://twitter.com/orless/status/850334094407979008">April 7, 2017</a></blockquote>
 
 ## Nächste Termine: 
 * 29.04 & 30.04 - im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr. Be there, or be square, gibt es noch Tickets. 
+  Am ersten Tag gibt es offizielles Programm beim Ministerium, am zweiten Tag Workshops & Vorträge im Betahaus:
+  * Workshop Offene Nahverkehrsdaten
+  * Vortrag _Open (Transport) Data in Deutschland - Love, Hate, Denial, Hope_ von Alexey
+
 * 12.05 & 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen der zwischen Verkehrsverbünde und der Community. Wir halten euch auf dem Laufenden. 
 
 ## Lesenswertes
