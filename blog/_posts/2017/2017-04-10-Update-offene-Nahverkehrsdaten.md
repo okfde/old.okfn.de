@@ -36,9 +36,8 @@ Am ersten Tag offizielles Program beim Ministerium, am zweiten Tag im Betahaus:
 * Vortrag Open (Transport) Data in Deutschland Love, Hate, Denial, Hope von Alexey
 
 
-2 Wochen später am 12.05 und 13.05 ist  der [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) und am Vormittag gibt es endlich mal ein Treffen der zwischen Verkehrsverbünde und der Community.
-Wir halten auch am Laufenden. 
- 
+12.05 und 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen der zwischen Verkehrsverbünde und der Community. Wir halten auch am Laufenden. 
+
 
 Lesenswert wie die Situation in [Österreich aussieht](http://derstandard.at/2000055668178/Warum-Google-Maps-die-Wiener-so-viel-zu-Fuss-gehen)
 
