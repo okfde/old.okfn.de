@@ -20,41 +20,44 @@ published: false
 
 title: "Und es bewegt sich doch was, beim öffentlichen Nahverkehr"
 ---
-Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreulichen Entwicklungen.
+Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreuliche Entwicklungen.
 
-Im Bundestag wurde das Thema von MdB Jarzombek an den Tag gelegt.
+Im Bundestag wurde das Thema von MdB Jarzombek an den Tag gelegt:
 
-Youtube dingsi.
+{% youtube pmvkwoiFwHc %}
 
+Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun ihre [Fahrplandaten als GTFS heraus](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html)
 
-<b>Nächste Termine:
+In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der MVV (München) Planungen für ein eigenes Open-Data-Portal an.
 
-29.04 & 30.04 </b> im Rahmen des [datensummit.de](https://datensummit.de) beim <i>huestel</i> BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr.
-Be there, or be square, es gibt noch Tickets. 
-Am ersten Tag offizielles Program beim Ministerium, am zweiten Tag im Betahaus:
-* Workshop Offene Nahverkehrsdaten
-* Vortrag Open (Transport) Data in Deutschland Love, Hate, Denial, Hope von Alexey
+Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/850286156587597826) einen Session über Open Data - ["Love, Hate, Denial, Hope" (Slides)](https://de.slideshare.net/orless/open-transport-data-in-deutschland-love-hate-denial-hope), die gut angenommen wurde. Wir hoffen somit auf mehr Open Data bis zum nächsten Verkehrscamp.
 
 
-12.05 und 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen der zwischen Verkehrsverbünde und der Community. Wir halten auch am Laufenden. 
+## Nächste Termine: 
+* 29.04 & 30.04 - im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr. Be there, or be square, gibt es noch Tickets. 
+* 12.05 & 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen der zwischen Verkehrsverbünde und der Community. Wir halten euch auf dem Laufenden. 
 
+## Lesenswertes
 
-Lesenswert wie die Situation in [Österreich aussieht](http://derstandard.at/2000055668178/Warum-Google-Maps-die-Wiener-so-viel-zu-Fuss-gehen)
+Lesenswert wie die Situation in Österreich aussieht: ["Warum Google Maps die Wiener so viel zu Fuß gehen lässt"](http://derstandard.at/2000055668178/Warum-Google-Maps-die-Wiener-so-viel-zu-Fuss-gehen)
 
-Bzw. dieser Artikel zu ["Who Owns Transit Data?
-Most U.S. cities share their transit information freely, which helps trip-planning services and boosts ridership. But most German cities don’t. Should they?"](https://www.citylab.com/transportation/2017/04/who-owns-transit-data/522444/)
+Dieser Artikel zu ["Who Owns Transit Data?"](https://www.citylab.com/transportation/2017/04/who-owns-transit-data/522444/) wundert sich über die Situation in DE:
+> Most U.S. cities share their transit information freely, which helps trip-planning services and boosts ridership. But most German cities don’t. Should they?
 
-Die Frage lautet wer kann hier [Andrew Stott](https://twitter.com/DirDigEng) bitte weiterhelfen. 
+Und mal wieder steht eine große Frage im Raum: 
 
->"I have not found a single example of a transit agency making money from keeping their data private"
+> I have not found a single example of a transit agency making money from keeping their data private
 
-Antworten bitte gerne auch an opentransport@okfn.de.
+Falls es so ein Beispiel doch gibt - [Andrew Stott](https://twitter.com/DirDigEng) und wir (`opentransport@okfn.de`) freuen uns auf Hinweise.
 
+---
 
 Listen von update
 orless AVV bzw. die neue Karte, links zu den slides, vortrag beim VDV
-robbi MV
-“Grundsätzlich können wir Ihnen diese zur Verfügung stellen (temporär über einen geschützten SFTP-Zugang, für die Zukunft ist die Bereitstellung über ein OpenData-Portal angedacht). Allerdings bringen GTFS-Solldaten auch gewisse Nachteile mit sich (Datenaktualität, Datenumfang etc.). ”
 
 Weitere Verkehrsverbünde updates bzw. Anfragen.
+
+RMV: http://www.fnp.de/lokales/frankfurt/RMV-Chef-Knut-Ringat-bdquo-Digitalisierung-veraendert-die-Mobilitaet-ldquo;art675,2569135
+
+Verkehrscamp möchte sich nächstes Jahr für die Open-Data-Community öffnen
 
