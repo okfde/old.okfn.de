@@ -47,3 +47,10 @@ Die Frage lautet wer kann hier [Andrew Stott](https://twitter.com/DirDigEng) bit
 Antworten bitte gerne auch an opentransport@okfn.de.
 
 
+Listen von update
+orless AVV bzw. die neue Karte, links zu den slides, vortrag beim VDV
+robbi MV
+“Grundsätzlich können wir Ihnen diese zur Verfügung stellen (temporär über einen geschützten SFTP-Zugang, für die Zukunft ist die Bereitstellung über ein OpenData-Portal angedacht). Allerdings bringen GTFS-Solldaten auch gewisse Nachteile mit sich (Datenaktualität, Datenumfang etc.). ”
+
+Weitere Verkehrsverbünde updates bzw. Anfragen.
+
