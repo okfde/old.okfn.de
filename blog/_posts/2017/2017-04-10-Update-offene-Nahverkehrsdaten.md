@@ -27,8 +27,9 @@ Im Bundestag wurde das Thema von MdB Jarzombek an den Tag gelegt.
 Youtube dingsi.
 
 
-<b>Nächste Termine</b>: 
-29.04 & 30.04 im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr.
+<b>Nächste Termine:
+
+29.04 & 30.04 </b> im Rahmen des [datensummit.de](https://datensummit.de) beim <i>huestel</i> BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr.
 Be there, or be square, es gibt noch Tickets. 
 Am ersten Tag offizielles Program beim Ministerium, am zweiten Tag im Betahaus:
 * Workshop Offene Nahverkehrsdaten
