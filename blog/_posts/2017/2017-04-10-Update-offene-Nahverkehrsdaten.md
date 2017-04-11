@@ -40,8 +40,10 @@ Lesenswert wie die Situation in [Österreich aussieht](http://derstandard.at/200
 Bzw. dieser Artikel zu ["Who Owns Transit Data?
 Most U.S. cities share their transit information freely, which helps trip-planning services and boosts ridership. But most German cities don’t. Should they?"](https://www.citylab.com/transportation/2017/04/who-owns-transit-data/522444/)
 
-Die Frage dabei lautet 
+Die Frage lautet wer kann hier [Andrew Stott](https://twitter.com/DirDigEng) bitte weiterhelfen. 
 
 >"I have not found a single example of a transit agency making money from keeping their data private"
 
-Antworten gerne bitte an opentransport@okfn.de
+Antworten bitte gerne auch an opentransport@okfn.de.
+
+
