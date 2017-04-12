@@ -1,6 +1,7 @@
 ---
 authors:
 - Walter Palmetshofer
+- Maximilian Richt
 - undefined
 date: 2017-04-10 09:00:00
 image:
@@ -18,24 +19,24 @@ layout: post
 card: true
 published: false
 
-title: "Und es bewegt sich doch was, beim öffentlichen Nahverkehr"
+title: "Und es bewegt sich doch: Beim öffentlichen Nahverkehr"
 ---
 Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreuliche Entwicklungen.
 
-Im Bundestag wurde das Thema von MdB Jarzombek an den Tag gelegt:
+Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:
 
 {% youtube pmvkwoiFwHc %}
 
-Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun ihre [Fahrplandaten als GTFS heraus](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html)
+Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine [Fahrplandaten als GTFS heraus](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html)
 
-In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der MVV (München) Planungen für ein eigenes Open-Data-Portal an.
+In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an.
 
-Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/850286156587597826) einen Session über Open Data - ["Love, Hate, Denial, Hope" (Slides)](https://de.slideshare.net/orless/open-transport-data-in-deutschland-love-hate-denial-hope), die gut angenommen wurde. Wir hoffen somit auf mehr Open Data bis zum nächsten Verkehrscamp - bei dem wir dann auch dabei sein können:
+Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/850286156587597826) einen Session über Open Data - ["Love, Hate, Denial, Hope" (Slides)](https://de.slideshare.net/orless/open-transport-data-in-deutschland-love-hate-denial-hope), die gut angenommen wurde. Wir hoffen, dass es bis zum nächsten Verkehrscamp noch mehr Open Data geben wird. Dann sind wir auch gerne dabei:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Gute Neuigkeiten: durch Voting wurde auf <a href="https://twitter.com/verkehrscamp">@verkehrscamp</a> entschieden das nächstes Mal auch externe Experte teilnehmen dürfen.<a href="https://twitter.com/hashtag/Verkehrscamp?src=hash">#Verkehrscamp</a></p>&mdash; Alexey Valikov (@orless) <a href="https://twitter.com/orless/status/850334094407979008">April 7, 2017</a></blockquote>
 
 ## Nächste Termine: 
-* 29.04 & 30.04 - im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr. Be there, or be square, gibt es noch Tickets. 
+* 29.04 & 30.04 - im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr. Eine Teilnahme ist möglich - schreibt eine kurze Mail an info@datensummit.de. 
   Am ersten Tag gibt es offizielles Programm beim Ministerium, am zweiten Tag Workshops & Vorträge im Betahaus:
   * Workshop Offene Nahverkehrsdaten
   * Vortrag _Open (Transport) Data in Deutschland - Love, Hate, Denial, Hope_ von Alexey
@@ -44,7 +45,7 @@ Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/85
 
 ## Lesenswertes
 
-Lesenswert wie die Situation in Österreich aussieht: ["Warum Google Maps die Wiener so viel zu Fuß gehen lässt"](http://derstandard.at/2000055668178/Warum-Google-Maps-die-Wiener-so-viel-zu-Fuss-gehen)
+Interessant ist auch, wie die Situation in Österreich aussieht: ["Warum Google Maps die Wiener so viel zu Fuß gehen lässt"](http://derstandard.at/2000055668178/Warum-Google-Maps-die-Wiener-so-viel-zu-Fuss-gehen)
 
 Dieser Artikel zu ["Who Owns Transit Data?"](https://www.citylab.com/transportation/2017/04/who-owns-transit-data/522444/) wundert sich über die Situation in DE:
 > Most U.S. cities share their transit information freely, which helps trip-planning services and boosts ridership. But most German cities don’t. Should they?
