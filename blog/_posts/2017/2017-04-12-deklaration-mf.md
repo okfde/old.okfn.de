@@ -56,3 +56,7 @@ FSM (Freiwillige Selbstkontrolle Multimedia-Diensteanbieter e. V.)
 ISOC.DE (Internet Society, German Chapter e. V.)
 
 LOAD e. V.
+
+Reporter ohne Grenzen e. V.
+
+Wikimedia Deutschland e. V.
