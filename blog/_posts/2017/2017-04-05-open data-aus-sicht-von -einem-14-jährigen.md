@@ -16,7 +16,7 @@ layout: post
 card: true
 published: true
 
-title: "Open Data aus Sicht eines 14 Jährigen"
+title: "Open Data aus Sicht eines 14-Jährigen"
 ---
 
 
@@ -34,9 +34,9 @@ Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien
 
 
 Ich denke, Open Data ist ziemlich wichtig und nützlich für die Gesellschaft.
-Es gibt so viel mehr an Daten,die wir im Alltag benutzen können. Beispielsweise könnte man nachschauen, wie pünktlich der Bus im Durchschnitt ist, mit dem man gerade in die Stadt fahren möchte, oder ob das Restaurant, wo man hingehen möchte, auch einen guten Hygienestandard hat.
-Allerdings glaube ich auch, dass das Thema für die  breite Masse noch nicht gut genug aufbereitet ist und viele nicht wissen, was Open Data ist.
-Als ich zum Beispiel meinem Lehrer erzählte, dass ich bei der Okf mein Schülerpraktikum mache, wusste er nicht, was Open Data ist und wozu man es braucht.
+Es gibt so viel mehr an Daten, die wir im Alltag benutzen können. Beispielsweise könnte man nachschauen, wie pünktlich der Bus im Durchschnitt ist, mit dem man gerade in die Stadt fahren möchte, oder ob das Restaurant, wo man hingehen möchte, auch einen guten Hygienestandard hat.
+Allerdings glaube ich auch, dass das Thema für die breite Masse noch nicht gut genug aufbereitet ist und viele nicht wissen, was Open Data ist.
+Als ich zum Beispiel meinem Lehrer erzählte, dass ich bei der OKF mein Schülerpraktikum mache, wusste er nicht, was Open Data ist und wozu man es braucht.
 
 Ich bin mir aber sicher, dass Open Data auf einem guten Weg ist und das ist auch gut, da ich glaube, dass offene Daten später noch wichtiger als heutzutage werden. 
 
@@ -79,11 +79,11 @@ Bei meinem Praktikum ist mir aufgefallen, dass Snapchat nicht so beliebt bei Erw
 Fast jeder Jugendliche hat schon einmal von Snapchat gehört, dagegen ist sie bei Erwachsenen nicht so beliebt, da die App ihnen zu “bunt” und “verrückt” ist.
 Dass Erwachsene die App nicht so gut finden, ist für viele Jugendliche schonmal ein Punkt die App zu mögen, da es schon “uncool” ist, wenn man zum Beispiel bei Facebook eine Freundschaftsanfrage von seiner Oma kriegt.
 
-Außerdem wäre da natürlich noch das eigentliche Konzept der App, dass Bilder und Videos nach einer bestimmten Zeit verschwinden, was die Jugendlichen auch sehr praktisch finden,da sie so auch ziemlich viel quatsch posten können.Dieser Quatsch wird aber von Snapchat gespeichert und für “Werbungs-Optimierung” ausgewertet.
+Außerdem wäre da natürlich noch das eigentliche Konzept der App, dass Bilder und Videos nach einer bestimmten Zeit verschwinden, was die Jugendlichen auch sehr praktisch finden, da sie so auch ziemlich viel Quatsch posten können. Dieser Quatsch wird aber von Snapchat gespeichert und für “Werbungs-Optimierung” ausgewertet.
 
 <b> Warum benutze ich Snapchat?
 
-Ich persönlich benutze Snapchat nicht aktiv, heißt, ich poste nicht sehr oft was(nur wenn ich verreise oder etwas Spannendes mache).
+Ich persönlich benutze Snapchat nicht aktiv, heißt, ich poste nicht sehr oft was (nur wenn ich verreise oder etwas Spannendes mache).
 Ich habe die App vor allen Dingen, um zu sehen, was meine Freunde oder Celebrities machen.
 Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich deprimierend sein, wenn Freunde öfter als man selber verreisen oder coole Sachen machen.
 ---
@@ -112,13 +112,13 @@ Diesen Zweck erfüllt die App auch sehr gut, allerdings kann es auch ziemlich de
 <b> Braucht man Snapchat wirklich?
 
 Wenn man sehen möchte, was die Freunde von einem machen, scheint es halbwegs sinnvoll.
-Allerdings wird der Service von anderen Social Media Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden.Auch hier ist es möglich, dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
+Allerdings wird der Service von anderen Social Media-Giganten wie Instagram längst übernommen, so könnte man sich zum Beispiel für eine Plattform entscheiden. Auch hier ist es möglich, dass nur ausgewählte Leute die Story sehen können. Zudem ist bei Instagram auch keine Werbung oder Sonstiges zwischen den Storys.
 
 <h1>Social Bots im Internet</h1>
 
 <b>Was sind Social Bots?
 
-Social Bots sind fake Accounts auf Social Media Websiten, die automatisch Likes,Follower oder auch Postings generieren, dies kann zum beispiel für Meinungsverbreitung in der Politik dienen oder auch um eine bestimmte Reichweite für ein beliebiges Thema zu generieren.
+Social Bots sind Fake Accounts auf Social Media Websiten, die automatisch Likes, Follower oder auch Postings generieren, dies kann zum beispiel für Meinungsverbreitung in der Politik dienen oder auch um eine bestimmte Reichweite für ein beliebiges Thema zu generieren.
 
 <b> Bekannteste Fälle:</b>
 
