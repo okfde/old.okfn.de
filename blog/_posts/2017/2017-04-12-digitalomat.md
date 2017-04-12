@@ -8,9 +8,8 @@ image:
   license: 
   license_url:
 tags:
-- Praktikant
-- Open Data
-- 14 Jähriger
+- NRW
+- Digital-O-Mat
 type: post
 layout: post
 card: true
