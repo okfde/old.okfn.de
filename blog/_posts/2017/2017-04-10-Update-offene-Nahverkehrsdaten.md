@@ -19,7 +19,7 @@ published: false
 title: "Und es bewegt sich doch: Beim öffentlichen Nahverkehr"
 ---
 
-Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreuliche Entwicklungen.		
+Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreuliche Entwicklungen:
 	
 Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:		
 	
@@ -35,11 +35,11 @@ Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/85
 	
 ## Nächste Termine: 		
 * 29.04 & 30.04 - im Rahmen des [datensummit.de](https://datensummit.de) beim *huestel* BMVI, <b>Verkehrsministerium & Innovation</b> trifft sich die Neigungsgruppe Nahverkehr. Eine Teilnahme ist möglich - schreibt eine kurze Mail an info@datensummit.de. 		
-Am ersten Tag gibt es offizielles Programm beim Ministerium, am zweiten Tag Workshops & Vorträge im Betahaus:		
-* Workshop Offene Nahverkehrsdaten		
-* Vortrag _Open (Transport) Data in Deutschland - Love, Hate, Denial, Hope_ von Alexey		
+  Am ersten Tag gibt es offizielles Programm beim Ministerium, am zweiten Tag Workshops & Vorträge im Betahaus:		
+  * Workshop Offene Nahverkehrsdaten		
+  * Vortrag _Open (Transport) Data in Deutschland - Love, Hate, Denial, Hope_ von Alexey		
 		
-* 12.05 & 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen der zwischen Verkehrsverbünde und der Community. Wir halten euch auf dem Laufenden. 		
+* 12.05 & 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen der zwischen Verkehrsverbünden und der Community. Wir halten euch auf dem Laufenden. 		
 		
 ## Lesenswertes		
 		
