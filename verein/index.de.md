@@ -74,7 +74,7 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012](../files/verein/Freistellungsbescheid-27-Dez-12.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
-Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar.
+Ein aktueller Auszug aus dem Vereinsregister von 2016 ist [hier einsehbar](../files/verein/Vereinsregisterauszug_OKFDE_2016.pdf).
 
 ## Tätigkeitsberichte
 
