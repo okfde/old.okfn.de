@@ -27,7 +27,7 @@ Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die
 	
 Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine [Fahrplandaten als GTFS heraus](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html)		
 		
-In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an.		
+In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.
 	
 Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/850286156587597826) einen Session über Open Data - ["Love, Hate, Denial, Hope" (Slides)](https://de.slideshare.net/orless/open-transport-data-in-deutschland-love-hate-denial-hope), die gut angenommen wurde. Wir hoffen, dass es bis zum nächsten Verkehrscamp noch mehr Open Data geben wird. Dann sind wir auch gerne dabei:		
 		
