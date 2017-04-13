@@ -53,7 +53,11 @@ Und mal wieder steht eine große Frage im Raum:
 > I have not found a single example of a transit agency making money from keeping their data private		
 		
 Falls es so ein Beispiel doch gibt - [Andrew Stott](https://twitter.com/DirDigEng) und wir (`opentransport@okfn.de`) freuen uns auf Hinweise.		
-	
+
+UND DIESER NOCH
+The Case for Government Investment to Incentivise Data Sharing in the UK Intelligent Mobility Sector https://ts.catapult.org.uk/intelligent-mobility/im-resources/opendata/ /v @peterkwells
+
+
 ----		
 	
 Listen von update		
