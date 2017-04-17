@@ -52,7 +52,7 @@ Zu guter Letzt [plant der RMV Livedaten als GTFS an Google zu geben](http://www.
 
 * 12.05 & 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen zwischen Verkehrsverbünden und der Community. Wir halten euch auf dem Laufenden.
 
-* 24.04 Stuttgart [Vorträge junger Verkehrswissenschaftler](Vorträge junger Verkehrswissenschaftler) 
+* 24.04 Stuttgart [Vorträge junger Verkehrswissenschaftler](http://hamburg.dvwg.de/veranstaltungen/veranstaltungskalender/veranstaltung/datum/2017/04/24/vortraege-junger-verkehrswissenschaftler-4.html) 
 
 ## Lesenswertes
 
