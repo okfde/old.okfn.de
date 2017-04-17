@@ -2,15 +2,16 @@
 authors:
 - Walter Palmetshofer
 - Maximilian Richt
-date: 2017-04-12 09:00:00
+date: 2017-04-17 12:00:00
 image:
   src: /files/blog/2017/04/xxx.jpg
   title: Nahverkehr
   license: CC BY-SA 2.0
   license_url: https://creativecommons.org/licenses/by-sa/2.0/
 tags:
-- Meinungsfreiheit
-- NetzDG
+- Open Data
+- Nahverkehr
+- Open Transport
 type: post
 layout: post
 card: true
