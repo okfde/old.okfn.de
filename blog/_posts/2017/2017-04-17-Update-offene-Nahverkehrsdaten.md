@@ -52,6 +52,8 @@ Zu guter Letzt [plant der RMV Livedaten als GTFS an Google zu geben](http://www.
 
 * 12.05 & 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen zwischen Verkehrsverbünden und der Community. Wir halten euch auf dem Laufenden.
 
+* 24.04 Stuttgart [Vorträge junger Verkehrswissenschaftler](Vorträge junger Verkehrswissenschaftler) 
+
 ## Lesenswertes
 
 Interessant ist auch, wie die Situation in Österreich aussieht: ["Warum Google Maps die Wiener so viel zu Fuß gehen lässt"](http://derstandard.at/2000055668178/Warum-Google-Maps-die-Wiener-so-viel-zu-Fuss-gehen)
