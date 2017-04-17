@@ -4,10 +4,10 @@ authors:
 - Maximilian Richt
 date: 2017-04-17 12:00:00
 image:
-  src: /files/blog/2017/04/xxx.jpg
-  title: Nahverkehr
-  license: CC BY-SA 2.0
-  license_url: https://creativecommons.org/licenses/by-sa/2.0/
+  src: /files/blog/2017/04/rdn-vrs-avv.jpg
+  title: VRS und AVV geben nun offene Fahrplandaten heraus
+  license: 
+  license_url:
 tags:
 - Open Data
 - Nahverkehr
