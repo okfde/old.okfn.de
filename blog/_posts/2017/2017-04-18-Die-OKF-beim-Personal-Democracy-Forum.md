@@ -6,7 +6,7 @@ date: 2017-04-18 11:00:00
 image:
   src: /files/blog/2017/04/_7G29466.jpg
   title: Die OKF beim Personal Democracy Forum in Danzig
-  license: 
+  license: cc Dawid Linkowski
   license_url:
 tags:
 - Open Data
@@ -40,6 +40,7 @@ An beiden Tagen der Konferenz wurde in Vorträgen, Panels und Workshops viel üb
 
 <b> The power of civil society</b>: Kann die Zivilgesellschaft dem massiven Verlust an Vertrauen in die Medien wiederherstellen? Und was sind ihre Möglichkeiten weltweit einen stärkeren Einfluss zu gewinnen? Ethan Zuckerman, Direktor am Zentrum für Civic Media am MIT, sprach in der Keynote über Herausforderungen und Strategien, denen sich Civic-Tech Projekte in naher Zukunft stellen werden müssen. 
 
+The picture was taken by Dawid Linkowski. 
 
 
 
