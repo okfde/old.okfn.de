@@ -4,8 +4,8 @@ authors:
 - Michael Peters
 date: 2017-04-18 15:00:00
 image:
-  src: 
-  title: VRS und AVV geben nun offene Fahrplandaten heraus
+  src: /files/blog/2017/04/_7G29466.jpg
+  title: Die OKF beim Personal Democracy Forum in Danzig
   license: 
   license_url:
 tags:
