@@ -2,16 +2,17 @@
 authors:
 - Moritz Neujeffski
 - Michael Peters
-date: 2017-04-17 12:00:00
+date: 2017-04-18 15:00:00
 image:
-  src: /files/blog/2017/04/rdn-vrs-avv.jpg
+  src: 
   title: VRS und AVV geben nun offene Fahrplandaten heraus
   license: 
   license_url:
 tags:
 - Open Data
-- Democracy
+- Demokratie
 - Datenschule
+- Transparenz
 type: post
 layout: post
 card: true
@@ -19,54 +20,27 @@ published: false
 
 title: "Die OKF beim Personal Democracy Forum in Danzig"
 ---
+Personal Democracy Forum in Danzig! Zwei Tage lang treffen sich hier zivilgesellschaftliche Organisationen aus Mittel- und Osteuropa, um über Transparenz, Meinungsfreiheit und Civic-Tech-Projekte in ihren Ländern zu sprechen. Wir aus den Teams OpenBudgets.eu und Datenschule waren dieses Jahr vor Ort und haben sowohl beim OpenContracting Workshop als auch bei unserer World Cafè Session fleißig mitdiskutiert.
 
-Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreuliche Entwicklungen:
+<b> Beim OpenContracting Workshop:
+Die [Open Contracting Partnership](http://www.open-contracting.org/) hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann. Dabei wurden best practice Initiativen der Offenen Vergabe vorgestellt, zum Beispiel: [Prozorro](http://www.open-contracting.org/why-open-contracting/showcase-projects/ukraine/) ein ukrainisches Portal in dem alle staatlichen Verträge nach internationalen Standards veröffentlicht werden. Außerdem konnten wir das neue OKF Policy Paper des Projekts [Digiwhist](http://digiwhist.eu/) mit Handlungsanweisungen zu “Offener Vergabe in der EU” vorstellen, welches [hier](https://opentender.eu/blog/2017-03-towards-more-transparency/) online verfügbar ist. Insgesamt halten wir fest, dass Offene Vergabe wichtig ist, weil dadurch der effiziente Einsatz von Steuermitteln garantiert werden kann.  
 
-Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:
+<b> Die OKF im World Café:
+In der World Café Session - einem Messestand ähnlichen Format - berichteten wir über unser aktuelles Projekt der Datenschule, dass wir zur kommenden Bundestagswahl mit Abgeordnetenwatch und der HAW Hamburg umsetzen werden. Einige der anwesenden NGOs haben bereits Erfahrung mit Projekten rund um Medienanalysen [K-Monitor](http://k-monitor.hu/fooldal) gesammelt, sowie tools für den Dialog zwischen Bürgern und Politikern aufgebaut [Kohovolit CentreAU](http://kohovolit.eu/). Das Feedback und die geteilten Erfahrungen werden wir in unser aktuelles Projekt einfließen lassen. 
 
-{% youtube pmvkwoiFwHc&t=85 %}
+Außerdem haben wir das jüngst veröffentlichte Datenportal [subsidystories.eu](http://subsidystories.eu/) vorgestellt, eine Webseite welche alle EU Subventionsdaten als Offene Daten bereitstellt und visualisiert. Gemeinsam mit den Teilnehmenden haben wir die Komplexität des EU Finanzsystems diskutiert und die Nutzungsmöglichkeiten der Seite für Journalisten und die Zivilgesellschaft erörtert. 
 
-Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine [Fahrplandaten als GTFS heraus](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html). Auch der [Aachener Verkehrsverbund (AVV) gibt Daten heraus](http://data.ndovloket.nl/avv/) - und [lizenziert sie als 'gemeinfrei'](http://data.ndovloket.nl/avv/lizenz_und_readme.txt).
+<b> Unsere Highlights 
+An beiden Tagen der Konferenz wurde in Vorträgen, Panels und Workshops viel über Transparenz und Offene Daten in Mittel und Osteuropa gesprochen. Hier findet ihr einige unserer Highlights: 
 
-In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.
+<b> Fake News and Fact-checking</b>: In vielen Ländern überprüfen zivilgesellschaftliche Initiativen Aussagen von Politikern auf ihren Wahrheitsgehalt. Christopher Guess von [Share The Facts](http://www.sharethefacts.org/) und Wiktor Nowak von [Demagog](http://demagog.org.pl/), einer Fact-Checking Initiative aus Polen diskutierten gemeinsam mit dem Publikum darüber was Fakten eigentlich sind, den politisch richtigen Umgang mit fälschlichen Aussagen und wie die Wahl Trumps, welche die Fact-checking Community aufgewirbelt hat.
 
-Auf dem Verkehrscamp des VDV hielt [Alexey](https://twitter.com/orless/status/850286156587597826) einen Session über Open Data - ["Love, Hate, Denial, Hope" (Slides)](https://de.slideshare.net/orless/open-transport-data-in-deutschland-love-hate-denial-hope), die gut angenommen wurde. Wir hoffen, dass es bis zum nächsten Verkehrscamp noch mehr Open Data geben wird. Dann sind wir auch gerne dabei:
+<b> Creating “the Truth”</b>: Petr Kočí, Datenjournalist bei Samizdat vom Czech Radio, sprach darüber wie tschechische Medien Charts und Diagramme nutzen, um statistische Aussagen zu verfälschen. Y-Achsen in Balkendiagrammen werden so eingeteilt, dass die Balken möglichst dramatisch wirken, beispielsweise in Berichten zur Aufnahme von Flüchtlingen in Tschechien. Kritische Reflexion von Statistiken ist ein Muss!
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Gute Neuigkeiten: durch Voting wurde auf <a href="https://twitter.com/verkehrscamp">@verkehrscamp</a> entschieden das nächstes Mal auch externe Experte teilnehmen dürfen.<a href="https://twitter.com/hashtag/Verkehrscamp?src=hash">#Verkehrscamp</a></p>&mdash; Alexey Valikov (@orless) <a href="https://twitter.com/orless/status/850334094407979008">April 7, 2017</a></blockquote>
+<b> The power of civil society</b>: Kann die Zivilgesellschaft dem massiven Verlust an Vertrauen in die Medien wiederherstellen? Und was sind ihre Möglichkeiten weltweit einen stärkeren Einfluss zu gewinnen? Ethan Zuckerman, Direktor am Zentrum für Civic Media am MIT, sprach in der Keynote über Herausforderungen und Strategien, denen sich Civic-Tech Projekte in naher Zukunft stellen werden müssen. 
 
-Für den _Nationalen Aktionsplan Open Government Partnership_ (OGP) konnten wir in den [Zivilgesellschaftlichen Empfehlungen (Seite 64 _ff._)](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf#page=64) Forderungen für mehr offene Daten unterbringen: (Auszug)
 
-  * Offene (Fahrplan-)Daten ab 2017 als zwingende Anforderung in (Neu-) Ausschreibungen für ÖPNV-Dienstleistungen
-  * Verpflichtung zur Echtzeit-Erfassung der Position von ÖPNV-Verkehrsmitteln
-  * Verpflichtung zu offenen Standards und Schnittstellen für Ticketing-Systeme
-  * Verpflichtung zur ständigen Erfassung und Übermittlung der Auslastung von einzelnen Transportgefäßen über offene Schnittstellen
-  * Förderung von F&E-Projekten, die Hard- und Software unter Freier/Offener Lizenz für den ÖPNV und NMIV entwickeln. 
 
-Zu guter Letzt [plant der RMV Livedaten als GTFS an Google zu geben](http://www.fnp.de/lokales/frankfurt/RMV-Chef-Knut-Ringat-bdquo-Digitalisierung-veraendert-die-Mobilitaet-ldquo;art675,2569135) - wir werden sehen, ob sie den GTFS-Feed nicht gleich als Open Data zur Verfügung stellen.
 
-## Nächste Termine:
-* 29.04 & 30.04 - im Rahmen des [Datensummits](https://datensummit.de) beim BMVI trifft sich die Neigungsgruppe Nahverkehr. Eine Teilnahme ist möglich - schreibt eine kurze Mail an info@datensummit.de.
-  Am ersten Tag gibt es offizielles Programm beim Ministerium, am zweiten Tag Workshops & Vorträge im Betahaus:
-  * Workshop Offene Nahverkehrsdaten
-  * Vortrag _Open (Transport) Data in Deutschland - Love, Hate, Denial, Hope_ von Alexey
 
-* 05.05. & 06.05. ist die Night of Civic Tech im [Verschwörhaus Ulm](http://verschwoerhaus.de) für Transit-Interessierte nicht nur aus Süddeutschland – Details folgen in Kürze!
 
-* 12.05 & 13.05 geht es mit dem [DB Open Data Hackathon](https://www.mindboxberlin.com/index.php/db-hackathon-may-2017.html) weiter. Am Vormittag gibt es zusätzlich ein Treffen zwischen Verkehrsverbünden und der Community. Wir halten euch auf dem Laufenden.
-
-* 24.04 Stuttgart [Vorträge junger Verkehrswissenschaftler](http://hamburg.dvwg.de/veranstaltungen/veranstaltungskalender/veranstaltung/datum/2017/04/24/vortraege-junger-verkehrswissenschaftler-4.html) 
-
-## Lesenswertes
-
-Interessant ist auch, wie die Situation in Österreich aussieht: ["Warum Google Maps die Wiener so viel zu Fuß gehen lässt"](http://derstandard.at/2000055668178/Warum-Google-Maps-die-Wiener-so-viel-zu-Fuss-gehen)
-
-Dieser Artikel zu ["Who Owns Transit Data?"](https://www.citylab.com/transportation/2017/04/who-owns-transit-data/522444/) wundert sich über die Situation in DE:
-> Most U.S. cities share their transit information freely, which helps trip-planning services and boosts ridership. But most German cities don’t. Should they?
-
-Und mal wieder steht eine große Frage im Raum:
-
-> I have not found a single example of a transit agency making money from keeping their data private
-
-Falls es so ein Beispiel doch gibt - [Andrew Stott](https://twitter.com/DirDigEng) und wir (`opentransport@okfn.de`) freuen uns auf Hinweise.
-
-Und auch in den UK werden die Forderungen nach mehr Open Data im Verkehrsbereich lauter: ["The Case for Government Investment to Incentivise Data Sharing in the UK Intelligent Mobility Sector"](https://ts.catapult.org.uk/intelligent-mobility/im-resources/opendata/) (via @peterkwells)	
