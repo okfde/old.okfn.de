@@ -2,7 +2,7 @@
 authors:
 - Moritz Neujeffski
 - Michael Peters
-date: 2017-04-18 15:00:00
+date: 2017-04-18 11:00:00
 image:
   src: /files/blog/2017/04/_7G29466.jpg
   title: Die OKF beim Personal Democracy Forum in Danzig
@@ -16,7 +16,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 
 title: "Die OKF beim Personal Democracy Forum in Danzig"
 ---
