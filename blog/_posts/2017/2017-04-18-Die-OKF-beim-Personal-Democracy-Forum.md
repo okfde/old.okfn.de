@@ -5,8 +5,8 @@ authors:
 date: 2017-04-18 12:00:00
 image:
   src: /files/blog/2017/04/PDFCEE17.jpg 
-  title: 
-  license: 
+  title: PDFCEE17
+  license: "CC BY Dawid Linkowski"
   license_url:
 tags:
 - Open Data
@@ -38,8 +38,6 @@ An beiden Tagen der Konferenz wurde in Vorträgen, Panels und Workshops viel üb
 <b> Creating “the Truth”</b>: Petr Kočí, Datenjournalist bei Samizdat vom Czech Radio, sprach darüber wie tschechische Medien Charts und Diagramme nutzen, um statistische Aussagen zu verfälschen. Y-Achsen in Balkendiagrammen werden so eingeteilt, dass die Balken möglichst dramatisch wirken, beispielsweise in Berichten zur Aufnahme von Flüchtlingen in Tschechien. Kritische Reflexion von Statistiken ist ein Muss!
 
 <b> The power of civil society</b>: Kann die Zivilgesellschaft dem massiven Verlust an Vertrauen in die Medien wiederherstellen? Und was sind ihre Möglichkeiten weltweit einen stärkeren Einfluss zu gewinnen? Ethan Zuckerman, Direktor am Zentrum für Civic Media am MIT, sprach in der Keynote über Herausforderungen und Strategien, denen sich Civic-Tech Projekte in naher Zukunft stellen werden müssen. 
-
-The picture was taken by Dawid Linkowski. 
 
 
 
