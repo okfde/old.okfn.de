@@ -30,7 +30,7 @@ In der World Café Session - einem Messestand ähnlichen Format - berichteten wi
 
 Außerdem haben wir das jüngst veröffentlichte Datenportal [subsidystories.eu](http://subsidystories.eu/) vorgestellt, eine Webseite welche alle EU Subventionsdaten als Offene Daten bereitstellt und visualisiert. Gemeinsam mit den Teilnehmenden haben wir die Komplexität des EU Finanzsystems diskutiert und die Nutzungsmöglichkeiten der Seite für Journalisten und die Zivilgesellschaft erörtert. 
 
-<b> Unsere Highlights </b>
+<h1> Unsere Highlights </h1>
 An beiden Tagen der Konferenz wurde in Vorträgen, Panels und Workshops viel über Transparenz und Offene Daten in Mittel und Osteuropa gesprochen. Hier findet ihr einige unserer Highlights: 
 
 <b> Fake News and Fact-checking</b>: In vielen Ländern überprüfen zivilgesellschaftliche Initiativen Aussagen von Politikern auf ihren Wahrheitsgehalt. Christopher Guess von [Share The Facts](http://www.sharethefacts.org/) und Wiktor Nowak von [Demagog](http://demagog.org.pl/), einer Fact-Checking Initiative aus Polen diskutierten gemeinsam mit dem Publikum darüber was Fakten eigentlich sind, den politisch richtigen Umgang mit fälschlichen Aussagen und wie die Wahl Trumps, welche die Fact-checking Community aufgewirbelt hat.
