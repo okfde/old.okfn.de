@@ -16,7 +16,6 @@ tags:
 type: post
 layout: post
 card: true
-published: true
 
 title: "Die OKF beim Personal Democracy Forum in Danzig"
 ---
