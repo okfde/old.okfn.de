@@ -6,7 +6,7 @@ date: 2017-04-18 12:00:00
 image:
   src: /files/blog/2017/04/_7G29466.jpg
   title: Die OKF beim Personal Democracy Forum in Danzig
-  license: cc Dawid Linkowski
+  license: 
   license_url:
 tags:
 - Open Data
