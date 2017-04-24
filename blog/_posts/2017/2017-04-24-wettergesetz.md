@@ -5,7 +5,7 @@ date: 2017-04-24 14:00:00
 image:
   src: /files/blog/2017/04/wetter.jpg
   title: Wetter
-  license: CC BY-NC-ND 2.0
+  license: Robert Hensley, CC BY-NC-ND 2.0
   license_url: https://creativecommons.org/licenses/by-nc-nd/2.0/
 tags:
 - Wetter
