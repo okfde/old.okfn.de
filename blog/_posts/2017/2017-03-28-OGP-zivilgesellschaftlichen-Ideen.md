@@ -37,6 +37,11 @@ Termine:
 * Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.
 * Ende Juni wird der Nationale Aktionsplan OGP per Kabinettsbeschluss verabschiedet.
 
+<a id="Update AKOGP-Treffen"></a>
+[Memorandum of Understanding](https://opengovpartnership.de/files/2017/03/MoU_AKOGPD.pdf)
+Arbeitsprozess Bilder [1](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg) [2](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg)
+
+
 <br>
 
 *Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:*
