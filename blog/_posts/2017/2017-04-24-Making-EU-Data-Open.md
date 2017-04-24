@@ -5,7 +5,7 @@ date: 2017-04-23 12:00:00
 image:
   src: /files/blog/2017/03/Subsidystory.png
   title: Subsidystories
-  license: CC 0
+  license:
   license_url:
 tags:
 - EU
