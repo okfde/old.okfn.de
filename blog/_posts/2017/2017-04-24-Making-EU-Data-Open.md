@@ -30,7 +30,7 @@ The variety in how data is published throughout the European Union is mind-boggl
 
 Once the distinct websites were located through online searches, they often needed to be translated to English to retrieve the data. As mentioned the data was rarely available in open formats (counting csv, json or xls(x) as open formats) and we had to deal with a large amount of PDFs (51) and webapps (15) out of a total of 122 files. The majority of PDF files was extracted using Tabula, which worked fine some times and required substantial work with OpenRefine - cleaning misaligned data - for other files. About a quarter of the PDFs could not be scraped using tools, but required hand tailored scripts by our developer. 
 
-![Data Formats](/files/blog/2017/04/data-formats-subsidy.png "Data Formats")<center>[CC 0]</center>
+![Data Formats](/files/blog/2017/04/data-formats-subsidy.png "Data Formats")<center>
 
 However, PDFs were not our worst nightmare, that was reserved for webapps such as this [french](http://cartobenef.asp-public.fr/cartobenef/carto.php?lang=fr&nivgeos=reg&curCodeDomSB=DS&curCodeThemeSB=benef&typindSB=R&curCodeIndSB=nb_projet_total) app illustrating their 2007-2013 ESIF projects. While the idea of depicting the beneficiary data on a map may seem smart, it often makes the data useless. These apps do not allow for any cross project analysis and make it very difficult to retrieve the underlying information. For this particular case, our developer had to decompile the flash to locate the multiple dataset and scrape the data. 
 
