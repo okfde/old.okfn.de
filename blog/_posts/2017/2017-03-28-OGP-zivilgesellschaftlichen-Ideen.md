@@ -37,7 +37,7 @@ Weitere Termine:
 * Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.
 * Ende Juni wird der Nationale Aktionsplan OGP per Kabinettsbeschluss verabschiedet.
 
-* <b>Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 in Berlin</b>: 
+# Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 in Berlin: 
 [Einladung](https://opengovpartnership.de/2017/04/24-april-2017-der-arbeitskreis-ogp-tagt-in-berlin/) 
 - Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshopplanung](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-workshopplanung.jpg). Kompakt auch die [270 Forderungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv). Bzw. hier die [neueste Version vom 24.04.2017](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
 
