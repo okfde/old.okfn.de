@@ -40,8 +40,8 @@ Weitere Termine:
 <a id="Update-AKOGP-Treffen"></a>
 * Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 9:30 Uhr in Berlin: 
 [Einladung](https://opengovpartnership.de/2017/04/24-april-2017-der-arbeitskreis-ogp-tagt-in-berlin/) 
-Das [Memorandum of Understanding](https://opengovpartnership.de/files/2017/03/MoU_AKOGPD.pdf)
-Arbeitsprozess Bilder [1](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg) [2](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg)
+- Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshopplanung](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-workshopplanung.jpg). Kompakt auch die [270 Forderungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen.xlsx).
+
 Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
 
 
