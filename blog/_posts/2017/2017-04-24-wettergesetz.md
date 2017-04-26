@@ -65,7 +65,7 @@ Eine dementsprechende Verbesserung des Gesetzentwurfes würde dazu beitragen, da
 ## Update 26/04/17:
 
 Heute Vormittag fand die öffentliche Anhörung zur Änderung des Gesetzes über den Deutschen Wetterdienst, Drucksache 18/11533 statt. 
-Arne Semsrott nahm für die OKFDE teil. (Video kommt sobald es [auf](www.bundestag.de/mediathek) bereitliegt).
+Arne Semsrott nahm für die OKFDE teil. (Video kommt sobald es [auf](http://www.bundestag.de/mediathek) bereitliegt).
 
 Vielen, vielen Dank für den immensen Input seitens der Community welcher diese Stellungsnahme die nötige Tiefe gab. 
 
