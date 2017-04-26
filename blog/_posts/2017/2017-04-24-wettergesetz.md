@@ -64,12 +64,12 @@ Eine dementsprechende Verbesserung des Gesetzentwurfes würde dazu beitragen, da
 
 ## Update 26/04/17:
 
-Heute Vormittag fand die öffentliche Anhörung zur Änderung des Gesetzes über den Deutschen Wetterdienst, Drucksache 18/11533 statt. 
-Arne Semsrott nahm für die OKFDE teil. (Video kommt sobald es [auf](http://www.bundestag.de/mediathek) bereitliegt).
+Am Vormittag fand die öffentliche Anhörung zur Änderung des Gesetzes über den Deutschen Wetterdienst, Drucksache 18/11533 statt. 
+Für uns nahm Arne Semsrott als Sachverständiger teil. (Sobald Videos und Protokoll vorliegen, werden wir sie [bereitstellen](http://www.bundestag.de/mediathek).)
 
-Vielen, vielen Dank für den immensen Input seitens der Community welcher diese Stellungsnahme die nötige Tiefe gab. 
+Vielen, vielen Dank für den großartigen Input der Community für unsere Stellungnahme! 
 
-Weitere Stellungsnahmen:
+Die weiteren Stellungnahmen:
 * [Deutscher Feuerwehrverband (DFV)](https://www.bundestag.de/blob/504010/18fa24fedb60cdc4c7c64bb344ccb33b/109_sitzung_feuerwehr-data.pdf)
 * [esri Deutschland](https://www.bundestag.de/blob/504066/04caf0944c8e3d079ac6232007f0b973/109_sitzung_esri-deutschland-data.pdf)
 * [EUMETSAT](https://www.bundestag.de/blob/504062/172666239f7c9f8331b3f3ba0e267fc8/109_sitzung_506-d-data.pdf)
@@ -77,8 +77,4 @@ Weitere Stellungsnahmen:
 * [Verband Deutscher Wetterdienstleister](https://www.bundestag.de/blob/503374/05761783feb011a3597a8cd91e1f721f/108_sitzung_dt--wetterdienst-data.pdf)
 * [ver.di](https://www.bundestag.de/blob/504064/c2eb4344b4180f464c6f32b9ab2febf8/109_sitzung_ver-di-data.pdf)
 
-Hier sind die Zusammenfassungen vom Bundestag zu den [Stellungsnahmens](https://www.bundestag.de/dokumente/textarchiv/2017/kw17-pa-verkehr-wetterdienst/503514) und der öffentlichen [Anhörung](https://www.bundestag.de/presse/hib/2017_04/-/504370).
-
-Eine kurze Zusammenfassung unserseits bzgl. Anhörung und Stellnungsnahmen sollte in Kürze erfolgen.
-Hier brummt gerade der Datensummit und die digitale Agenda ...
-
+Hier sind die Zusammenfassungen des Bundestags zu den [Stellungnahmen](https://www.bundestag.de/dokumente/textarchiv/2017/kw17-pa-verkehr-wetterdienst/503514) und der öffentlichen [Anhörung](https://www.bundestag.de/presse/hib/2017_04/-/504370).
