@@ -1,7 +1,7 @@
 ---
 authors:
 - Fiona Krakenbürger
-date: 2017-04-26 12:00:00
+date: 2017-04-27 12:00:00
 image:
   src: /files/blog/2017/04/wahlsalons.png
   title: Wahlsalons
