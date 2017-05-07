@@ -24,4 +24,6 @@ Wir glauben, dass der Entwurf eine gute Grundlage ist, um den Zugang zu amtliche
 
 Das hilft zum Beispiel MieterInnen, FahrradfahrerInnen, JournalistInnen und AktivistInnen. Ein Transparenzgesetz würde Mitbestimmung in der Stadt erleichtern, der Verschwendung von Steuergeldern wie beim Berliner Flughafen vorbeugen und Verwaltungsabläufe vereinfachen.
 
+Der Entwurf soll gleichzeitig Vorbild für ähnliche Regelungen in ganz Deutschland sein. In unserem [Transparenzranking](https://transparenzranking.de/) würde es die Höchstpunktzahl erreichen.
+
 **[Zum Gesetzentwurf](https://berlin.transparenzgesetz.de/2017/05/07/transparenzgesetz/)**
