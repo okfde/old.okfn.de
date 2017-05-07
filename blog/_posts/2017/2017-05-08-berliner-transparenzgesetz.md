@@ -20,7 +20,7 @@ Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berli
 
 Das möchten wir ändern: Die Open Knowledge Foundation Deutschland hat gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben. Es ist online zu finden auf [berlin.transparenzgesetz.de](https://berlin.transparenzgesetz.de/) und kann in den kommenden Wochen auf der Webseite von der Öffentlichkeit kommentiert werden.
 
-Wir glauben, dass der Entwurf eine gute Grundlage ist, um den Zugang zu amtlichen Informationen moderner und umfassender zu gestalten. Außerdem etabliert unser Vorschlag für das Transparenzgesetz Veröffentlichungspflichten von zentralen Daten und Dokumenten der Verwaltung, darunter Verträge, Pläne und Weisungen.
+Wir glauben, dass der Entwurf eine gute Grundlage ist, um den Zugang zu amtlichen Informationen moderner und umfassender zu gestalten. Die Erhebung von Gebühren für Behördenauskünfte wollen wir abschaffen. Außerdem etabliert unser Vorschlag für das Transparenzgesetz Veröffentlichungspflichten von zentralen Daten und Dokumenten der Verwaltung, darunter Verträge der öffentlichen Hand, (Bau-)Pläne und Weisungen. 
 
 Das hilft zum Beispiel MieterInnen, FahrradfahrerInnen, JournalistInnen und AktivistInnen. Ein Transparenzgesetz würde Mitbestimmung in der Stadt erleichtern, der Verschwendung von Steuergeldern wie beim Berliner Flughafen vorbeugen und Verwaltungsabläufe vereinfachen.
 
