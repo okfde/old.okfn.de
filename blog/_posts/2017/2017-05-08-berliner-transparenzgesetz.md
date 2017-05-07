@@ -27,3 +27,5 @@ Das hilft zum Beispiel MieterInnen, FahrradfahrerInnen, JournalistInnen und Akti
 Der Entwurf soll gleichzeitig Vorbild für ähnliche Regelungen in ganz Deutschland sein. In unserem [Transparenzranking](https://transparenzranking.de/) würde es die Höchstpunktzahl erreichen.
 
 **[Zum Gesetzentwurf](https://berlin.transparenzgesetz.de/2017/05/07/transparenzgesetz/)**
+
+**[Zu den Zielen des Entwurfs](https://volksentscheid-transparenz.de/ziele/)**
