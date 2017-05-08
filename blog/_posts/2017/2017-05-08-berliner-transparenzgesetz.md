@@ -1,18 +1,17 @@
 ---
 authors:
 - Arne Semsrott
-date: 2017-05-08 05:00:00
+date: 2017-05-08 04:00:00
 image:
   src: /files/blog/2017/05/transparenzgesetz.png
   title: 
   license:
   license_url:
 tags:
-- republica
+- transparenzgesetz
 type: post
 layout: post
 card: true
-published: false
 title: "Neu: Unser Entwurf für ein Berliner Transparenzgesetz"
 ---
 
