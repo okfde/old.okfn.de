@@ -16,11 +16,12 @@
   board: 0
   advisory: 0
   position:
-  bio: "Helene engagiert sich insbesondere in den Bereichen OpenGLAM (Galeries, Libraries, Archives, Museums) und Open Culture. Mit ihrer Arbeit möchte sie den offenen Zugang und die freie Nutzbarkeit von Kulturerbe fördern, damit unsere Kulturschätze auch im digitalen Zeitalter relevant bleiben. Bei der Open Knowledge Foundation Deutschland ist sie als Projektleiterin verantwortlich für den Kultur-Hackathon Coding Da Vinci und die Datenschule. Studiert hat sie Kulturwissenschaften und Wirtschaft im In- und Ausland."
-  bio_en: "Helene's main focus is OpenGLAM (Galleries, Libraries, Archives, and Museums) and Open Culture. Through her work, she campaigns for open access to and free usage of cultural heritage, in order to ensure the relevance of cultural artefacts in the digital world. At OKF DE, she is project lead for Coding da Vinci, a cultural hackathon. She also assists with Zugang Gestalten and Jugend hackt. She studied cultural sciences and economics in Germany and abroad."
+  bio: "Helene ist seit 2013 Projektleiterin für verschiedene Community- und Techprojekte bei der Open Knowledge Foundation Deutschland. Sie interessiert sich vor allem dafür, wie Daten und Technologien für eine positive Gestaltung unserer Gesellschaft eingesetzt werden können. In der Vergangenheit hat sie verschiedene Projekte konzipiert und umgesetzt, wie bspw.  Coding da Vinci, Zugang gestalten und Energyhack Reloaded. Aktuell arbeitet sie an der Datenschule, dem Weiterbildungsprogramm für NGOs zum Thema Daten und Technologien. Helene ist Teil der Policy Gruppe, konzipiert partizipative Workshops und spricht auf Konferenzen über digitale Themen. Zuvor hat sie Kulturwissenschaften studiert und bei diversen Medienagenturen zu (netz)politischen Themen gearbeitet."
+  bio_en: "Helene is project lead for different community and tech based projects at the Open Knowledge Foundation Germany since 2013. She is interested in how data and technology can benefit our society and forster positive social change.During the last years, she conceptualised and implemented various projects, such as Coding da Vinci, Zugang gestalten und Energyhack Reloaded. Currently she is working on Datenschule (School of Data Germany), a programm that helps non-profit organisations, civil rights defenders and activists to understand and use data and technology effectively to increase their impact on societal challenges. Helene is part of the policy group at OKF DE, runs workshops and gives talks on different topics around the knowledge society. Previously, she studied Cultural Sciences and worked for different media agencies."
   mail: helene.hahn@okfn.de
   twitter: pluscha
   website:
+  github: heleneh
 
 - name: Jasmin Helm
   img: jasminhelm
