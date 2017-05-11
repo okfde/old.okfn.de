@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2017-05-11 15:00:00
 image:
-  src: /files/blog/2017/03/artboard.png
+  src: /files/blog/2017/03/Artboard.jpg
   title: 
   license: 
   license_url:
