@@ -61,7 +61,7 @@ Reporter ohne Grenzen e. V.
 
 Wikimedia Deutschland e. V.
 
-#UPDATE 17.05.2017
+# UPDATE 17.05.2017
 
 Ein lesenswerter Kommentar von Constanz Kurz und Stefan Ullrich
 ["Netzwerkdurchsetzungsgesetz 
