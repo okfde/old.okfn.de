@@ -56,7 +56,14 @@ FSM (Freiwillige Selbstkontrolle Multimedia-Diensteanbieter e. V.)
 ISOC.DE (Internet Society, German Chapter e. V.)
 
 LOAD e. V.
-
+<a id="Update"></a>
 Reporter ohne Grenzen e. V.
 
 Wikimedia Deutschland e. V.
+
+#UPDATE 17.05.2017
+
+Ein lesenswerter Kommentar von Constanz Kurz und Stefan Ullrich
+["Netzwerkdurchsetzungsgesetz 
+Nicht einmal mehr die Simulation von Partizipation"](
+http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/netzwerkdurchsetzungsgesetz-nicht-einmal-mehr-die-simulation-von-partizipation-15015559.html) in der FAZ.
