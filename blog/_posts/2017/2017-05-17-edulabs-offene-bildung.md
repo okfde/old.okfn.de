@@ -19,7 +19,7 @@ title: "Projektstart Edulabs: Offene Bildung zusammen entwickeln"
 ---
 Nach ersten [Planungstreffen](https://edulabs.de/blog/Review-Planungstreffen-03.05) startet unser Bildungsprojekt _[edulabs](https://www.edulabs.de)_ nun mit monatlichen Public Calls (Mi. 17.5., 17:00). In den letzten Wochen ist bereits viel geschehen: Es gibt erste Kooperationen, eine vorläufige Website und vor allem: Das edulab Berlin hat bereits einen Raum.
 
-*Was sind die edulabs und was haben wir vor*
+*Was sind die edulabs und was haben wir vor?*
 
 Wir organisieren regelmäßige Workshops und Treffen in den Regionen Berlin, Baden-Württemberg und NRW. Ziel ist es, mit digital gestützten Methoden offene Bildung voranzubringen, um eine Kultur der Partizipation in Schulen zu stärken.
 
@@ -35,7 +35,7 @@ Zusammen mit Partnerschulen testen wir die Einsatzmöglichkeiten und stellen die
 
 In Berlin können die edulabs regelmäßig in den Räumen der [School of Education der TU Berlin](www.setub.tu-berlin.de) stattfinden (Fachgebiet Arbeitslehre, Technik und Partizipation). Die genauen Zeiten der Arbeitstreffen entscheiden die Lab-Leads selbständig mit den Teilnehmer*innen vor Ort. Mit einer Mailingliste und regelmäßigen [Public Calls](https://edulabs.de/blog/public-call-17052017) vernetzen sich die Labs auch überregional.
 
-*Wie kann man sich einbringen*
+*Wie kann man sich einbringen?*
 
 Wer gerne _unterrichtet / entwickelt / gestaltet / schreibt / [...]_ ist herzlich eingeladen, Teil des edulabs Berlin zu werden, eigene Projekte für neue Bildungsformate zu starten oder die Lab-Vorhaben mit der eigenen Expertise zu unterstützen und weiter zu entwickeln. Neue Projekte dokumentieren wir in einem [Hackdash](https://edulabs.de/blog/projekte-sammeln). Neben engagierten Teilnehmer*innen suchen wir auch 2-3 interessierte _Lab-Leads_, um die Aktivitäten der edulabs mit zu koordinieren. 
 
