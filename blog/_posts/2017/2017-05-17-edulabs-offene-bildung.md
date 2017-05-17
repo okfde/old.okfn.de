@@ -20,15 +20,16 @@ title: "Projektstart Edulabs: Offene Bildung zusammen entwickeln"
 Nach ersten [Planungstreffen](https://edulabs.de/blog/Review-Planungstreffen-03.05) startet unser Bildungsprojekt _[edulabs](https://www.edulabs.de)_ nun mit monatlichen Public Calls (Mi. 17.5., 17:00). In den letzten Wochen ist bereits viel geschehen: Es gibt erste Kooperationen, eine vorläufige Website und vor allem: Das edulab Berlin hat bereits einen Raum.
 
 *Was sind die edulabs und was haben wir vor*
+
 Wir organisieren regelmäßige Workshops und Treffen in den Regionen Berlin, Baden-Württemberg und NRW. Ziel ist es, mit digital gestützten Methoden offene Bildung voranzubringen, um eine Kultur der Partizipation in Schulen zu stärken.
 
 Mit der Digitalisierung bieten sich auch in der Bildung neue Möglichkeiten, allerdings geht man dabei selten über das Bekannte hinaus: Statt dem Arbeitsblatt gibt es das Arbeitsblatt nun als PDF, die Tafel wird zum Online-Whiteboard, Mitteilungen an die Eltern kommen nun per Email. Vieles lässt sich effizienter gestalten, aber ist das bereits alles? Ein partizipatives, selbstgesteuertes und entdeckendes Lernen wird schon lange gefordert, nun lassen sich diese Ziele leichter umsetzen.
 
 Ob es sich um ein Klassenblog handelt, die Analyse von Haushaltsdaten, Feinstaubmessungen, Hardwareprojekte, Videointerviews, Flipped Classrooms, gemeinsam verfasste Texte, Medienproduktion, die Anpassung von Lernspielen, ein Peer-Review von Lernenden oder Online-Abstimmungen zu Schulprozessen: Für die Umsetzung fehlt aber noch vielfach Wissen und Anregung. Besonders bei aktuellen Themen und innovativen Formaten gibt es nur wenige Angebote, die frei nachnutzbar sind und mehr als nur eine Unterrichtsstunde abdecken.
 
-Das möchten wir ändern: In den edulabs treffen sich Menschen aus verschiedenen Bereichen, um mit ihrer Expertise neue Tools und Materialien für partizipative, digital gestützte Bildungsformate zu entwickeln. Die regionalen edulabs werden von 2-3 ehrenamtlichen Lab-Leads koordiniert und durch die [Open Knowledge Foundation](https://okfn.de/) und [mediale pfade](http://www.medialepfade.de) unterstützt. 
+Das möchten wir ändern: In den edulabs treffen sich Menschen aus verschiedenen Bereichen, um mit ihrer Expertise neue Tools und Materialien für partizipative, digital gestützte Bildungsformate zu entwickeln. Die regionalen edulabs werden von 2-3 ehrenamtlichen Lab-Leads koordiniert und durch die [Open Knowledge Foundation](https://okfn.de/) und [mediale pfade](http://www.medialepfade.de) unterstützt.
 
-Zusammen mit Partnerschulen testen wir die Einsatzmöglichkeiten und stellen die Ergebnisse auf Bildungsservern und in Lehrerfortbildungen vor. Alles, was in den labs entsteht, teilen wir als Open Educational Resources (OER) mit freien Lizenzen nach der [Open Definition](http://opendefinition.org/).  
+Zusammen mit Partnerschulen testen wir die Einsatzmöglichkeiten und stellen die Ergebnisse auf Bildungsservern und in Lehrerfortbildungen vor. Alles, was in den labs entsteht, teilen wir als Open Educational Resources (OER) mit freien Lizenzen nach der [Open Definition](http://opendefinition.org/). Gefördert wird das Projekt durch das [BMBF](https://www.bmbf.de).
 
 *Wo finden die edulabs statt?*
 
