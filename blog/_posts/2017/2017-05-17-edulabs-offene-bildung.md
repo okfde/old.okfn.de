@@ -33,7 +33,7 @@ Zusammen mit Partnerschulen testen wir die Einsatzmöglichkeiten und stellen die
 
 *Wo finden die edulabs statt?*
 
-In Berlin können die edulabs regelmäßig in den Räumen der [School of Education der TU Berlin](www.setub.tu-berlin.de) stattfinden (Fachgebiet Arbeitslehre, Technik und Partizipation). Die genauen Zeiten der Arbeitstreffen entscheiden die Lab-Leads selbständig mit den Teilnehmer*innen vor Ort. Mit einer Mailingliste und regelmäßigen [Public Calls](https://edulabs.de/blog/public-call-17052017) vernetzen sich die Labs auch überregional.
+In Berlin können die edulabs regelmäßig in den Räumen der [School of Education der TU Berlin](http://setub.tu-berlin.de) stattfinden (Fachgebiet Arbeitslehre, Technik und Partizipation). Die genauen Zeiten der Arbeitstreffen entscheiden die Lab-Leads selbständig mit den Teilnehmer*innen vor Ort. Mit einer Mailingliste und regelmäßigen [Public Calls](https://edulabs.de/blog/public-call-17052017) vernetzen sich die Labs auch überregional.
 
 *Wie kann man sich einbringen?*
 

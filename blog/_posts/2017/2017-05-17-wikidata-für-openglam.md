@@ -19,7 +19,7 @@ published: true
 title: "A gentle introduction to Wikidata - für Kulturinstitutionen"
 ---
 
-Gemeinsam mit der Servicestelle Digitalisierung Berlin (digiS) und Wikimedia Deutschland bieten wir am 09. Juni einen Workshop zu Wikidata und den Potenzialen für Kulturinstitutionen an. Die Teilnahame ist kostenlos.
+Gemeinsam mit der Servicestelle Digitalisierung Berlin (digiS) und Wikimedia Deutschland bieten wir am 09. Juni einen Workshop zu Wikidata und den Potenzialen für Kulturinstitutionen an. Die Teilnahme ist kostenlos.
 
 ## Was ist Wikidata?
 
