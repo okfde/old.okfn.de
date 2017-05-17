@@ -17,13 +17,14 @@ tags:
  - Mitmachen
 title: "Projektstart Edulabs: Offene Bildung zusammen entwickeln"
 ---
-Nach ersten [Planungstreffen](https://edulabs.de/blog/Review-Planungstreffen-03.05) startet unser Bildungsprojekt _[edulabs](https://www.edulabs.de)_ nun mit monatlichen Public Calls (Mi. 17.5., 17:00). In den letzten Wochen ist bereits viel geschehen: Es gibt erste Kooperationen, eine vorläufige Website und vor allem: Das edulab Berlin hat bereits einen Raum. Wir organisieren regelmäßige Workshops und Treffen in den Regionen Berlin, Baden-Württemberg und NRW. Ziel ist es, mit digital gestützten Methoden offene Bildung voranzubringen, um eine Kultur der Partizipation in Schulen zu stärken.
+Nach ersten [Planungstreffen](https://edulabs.de/blog/Review-Planungstreffen-03.05) startet unser Bildungsprojekt _[edulabs](https://www.edulabs.de)_ nun mit monatlichen Public Calls (Mi. 17.5., 17:00). In den letzten Wochen ist bereits viel geschehen: Es gibt erste Kooperationen, eine vorläufige Website und vor allem: Das edulab Berlin hat bereits einen Raum.
 
 *Was sind die edulabs und was haben wir vor*
+Wir organisieren regelmäßige Workshops und Treffen in den Regionen Berlin, Baden-Württemberg und NRW. Ziel ist es, mit digital gestützten Methoden offene Bildung voranzubringen, um eine Kultur der Partizipation in Schulen zu stärken.
 
 Mit der Digitalisierung bieten sich auch in der Bildung neue Möglichkeiten, allerdings geht man dabei selten über das Bekannte hinaus: Statt dem Arbeitsblatt gibt es das Arbeitsblatt nun als PDF, die Tafel wird zum Online-Whiteboard, Mitteilungen an die Eltern kommen nun per Email. Vieles lässt sich effizienter gestalten, aber ist das bereits alles? Ein partizipatives, selbstgesteuertes und entdeckendes Lernen wird schon lange gefordert, nun lassen sich diese Ziele leichter umsetzen.
 
-Ob es sich um ein Klassenblog handelt, die Analyse von Haushaltsdaten, Feinstaubmessungen, Hardwareprojekte, Videointerviews, Flipped Classrooms, gemeinsam verfasste Texte, Medienproduktion, die Anpassung von Lernspielen, ein Peer-Review von Lernenden oder Online-Abstimmungen zu Schulprozessen: Für die Umsetzung fehlt aber noch vielfach Wissen und Anregung. Besonders bei aktuellen Themen und innovativen Formaten gibt es nur wenige Angebote, die frei nachnutzbar sind und mehr als nur eine Stunde abdecken.
+Ob es sich um ein Klassenblog handelt, die Analyse von Haushaltsdaten, Feinstaubmessungen, Hardwareprojekte, Videointerviews, Flipped Classrooms, gemeinsam verfasste Texte, Medienproduktion, die Anpassung von Lernspielen, ein Peer-Review von Lernenden oder Online-Abstimmungen zu Schulprozessen: Für die Umsetzung fehlt aber noch vielfach Wissen und Anregung. Besonders bei aktuellen Themen und innovativen Formaten gibt es nur wenige Angebote, die frei nachnutzbar sind und mehr als nur eine Unterrichtsstunde abdecken.
 
 Das möchten wir ändern: In den edulabs treffen sich Menschen aus verschiedenen Bereichen, um mit ihrer Expertise neue Tools und Materialien für partizipative, digital gestützte Bildungsformate zu entwickeln. Die regionalen edulabs werden von 2-3 ehrenamtlichen Lab-Leads koordiniert und durch die [Open Knowledge Foundation](https://okfn.de/) und [mediale pfade](http://www.medialepfade.de) unterstützt. 
 
@@ -34,6 +35,7 @@ Zusammen mit Partnerschulen testen wir die Einsatzmöglichkeiten und stellen die
 In Berlin können die edulabs regelmäßig in den Räumen der [School of Education der TU Berlin](www.setub.tu-berlin.de) stattfinden (Fachgebiet Arbeitslehre, Technik und Partizipation). Die genauen Zeiten der Arbeitstreffen entscheiden die Lab-Leads selbständig mit den Teilnehmer*innen vor Ort. Mit einer Mailingliste und regelmäßigen [Public Calls](https://edulabs.de/blog/public-call-17052017) vernetzen sich die Labs auch überregional.
 
 *Wie kann man sich einbringen*
+
 Wer gerne _unterrichtet / entwickelt / gestaltet / schreibt / [...]_ ist herzlich eingeladen, Teil des edulabs Berlin zu werden, eigene Projekte für neue Bildungsformate zu starten oder die Lab-Vorhaben mit der eigenen Expertise zu unterstützen und weiter zu entwickeln. Neue Projekte dokumentieren wir in einem [Hackdash](https://edulabs.de/blog/projekte-sammeln). Neben engagierten Teilnehmer*innen suchen wir auch 2-3 interessierte _Lab-Leads_, um die Aktivitäten der edulabs mit zu koordinieren. 
 
 *Public Call*
