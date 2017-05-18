@@ -64,7 +64,7 @@ Wikimedia Deutschland e. V.
 # UPDATE 17.05.2017
 <a id="Pressemitteilung"></a>
 
-Ein lesenswerter Kommentar von Constanz Kurz und Stefan Ullrich
+Ein lesenswerter Kommentar von Constanze Kurz und Stefan Ullrich
 ["Netzwerkdurchsetzungsgesetz 
 Nicht einmal mehr die Simulation von Partizipation"](
 http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/netzwerkdurchsetzungsgesetz-nicht-einmal-mehr-die-simulation-von-partizipation-15015559.html) in der FAZ.
