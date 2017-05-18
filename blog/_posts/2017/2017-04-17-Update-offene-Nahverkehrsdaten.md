@@ -26,7 +26,7 @@ Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die
 
 {% youtube pmvkwoiFwHc?t=85& %}
 
-Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine [Fahrplandaten als GTFS heraus](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html). Auch der [Aachener Verkehrsverbund (AVV) gibt Daten heraus](http://data.ndovloket.nl/avv/) - und [lizenziert sie als 'gemeinfrei'](http://data.ndovloket.nl/avv/lizenz_und_readme.txt).
+Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine [Fahrplandaten als GTFS heraus](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html). Auch der [Aachener Verkehrsverbund (AVV) gibt Daten heraus](http://opendata.avv.de/) - und [lizenziert sie als 'gemeinfrei'](https://avv.de/de/fahrplaene/angebote-fuer-webentwickler).
 
 In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.
 
