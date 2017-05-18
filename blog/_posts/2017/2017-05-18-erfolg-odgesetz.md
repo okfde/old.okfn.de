@@ -8,7 +8,7 @@ image:
   license:
   license_url: 
 tags:
-- Open-Data-Gesetz
+- "Open-Data-Gesetz"
 type: post
 layout: post
 card: true
