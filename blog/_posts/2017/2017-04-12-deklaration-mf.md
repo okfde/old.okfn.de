@@ -70,7 +70,7 @@ Nicht einmal mehr die Simulation von Partizipation"](
 http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/netzwerkdurchsetzungsgesetz-nicht-einmal-mehr-die-simulation-von-partizipation-15015559.html) in der FAZ.
 
 
-# Gemeinsame Pressemitteilung am 18.05.2017 Netzwerkdurchsetzungsgesetz: Breites Bündnis wendet sich mit Appell an
+# Gemeinsame PM am 18.05.2017 Netzwerkdurchsetzungsgesetz: Breites Bündnis wendet sich mit Appell an
 Fraktionen, Rechtsausschuss und EU-Kommission
 
 Vor gut zwei Wochen brachte eine breite Allianz von
