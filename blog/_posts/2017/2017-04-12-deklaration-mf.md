@@ -70,10 +70,8 @@ Nicht einmal mehr die Simulation von Partizipation"](
 http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/netzwerkdurchsetzungsgesetz-nicht-einmal-mehr-die-simulation-von-partizipation-15015559.html) in der FAZ.
 
 
-# Gemeinsame Pressemitteilung am 18.05.2017
-
-<b>Netzwerkdurchsetzungsgesetz: Breites Bündnis wendet sich mit Appell an
-Fraktionen, Rechtsausschuss und EU-Kommission</b>
+# Gemeinsame Pressemitteilung am 18.05.2017 Netzwerkdurchsetzungsgesetz: Breites Bündnis wendet sich mit Appell an
+Fraktionen, Rechtsausschuss und EU-Kommission
 
 Vor gut zwei Wochen brachte eine breite Allianz von
 Wirtschaftsverbänden, netzpolitischen Vereinen,
@@ -96,8 +94,13 @@ strafrechtlicher Prüfungen auf Unternehmen bemängelt die Allianz des
 Weiteren auch die Unvereinbarkeit des Gesetzes mit dem EU- und dem
 Verfassungsrecht.
 
+<a id="Letter"></a>
+
 Abschließend appellieren die Bündnispartner an die Parlamentarier, das
 Gesetzesvorhaben kritisch zu überdenken. Zugleich plädieren sie für eine
 gesamtgesellschaftliche Lösung, die von Zivilgesellschaft,
 Internetwirtschaft und Politik in einem strukturierten Prozess gemeinsam
 erarbeitet wird.
+
+# Declaration for Freedom of Expression letter to Andrus Ansip
+[This letter](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/Letter-NetzDG-Ansip.pdf) was sent to Ansip Vice President of the European Commission regarding Network Enforcement Law.
