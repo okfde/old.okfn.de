@@ -42,7 +42,7 @@ Weitere Termine:
 - Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshop-Planung](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-workshopplanung.jpg). 
 Kompakt auch die ursprünglichen [270 Forderungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv) bzw. hier die [neueste Version vom 24.04.2017 - Hinweis ist Work in Progress](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
 
-<a id="Update-Termine"></a>
+<a id="Update-Dialogworkshop"></a>
 
 Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
 
