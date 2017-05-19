@@ -46,7 +46,7 @@ Kompakt auch die ursprünglichen [270 Forderungen](https://github.com/okfde/okfn
 
 Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
 
-# Save the date - 
+# Save the date
 2. "Dialogworkshop" beim @BMI_Bund 1. Juni 2017 10:00 - 12.30 mehr Informationen folgen.
 
 
