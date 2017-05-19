@@ -34,7 +34,7 @@ Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags
 
 <a id="Update-AKOGP-Treffen"></a>
 Weitere Termine: 
-* Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.
+* ~~Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.~~
 * Ende Juni wird der Nationale Aktionsplan OGP per Kabinettsbeschluss verabschiedet.
 
 ## Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 in Berlin: 
@@ -42,14 +42,23 @@ Weitere Termine:
 - Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshop-Planung](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-workshopplanung.jpg). 
 Kompakt auch die ursprünglichen [270 Forderungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv) bzw. hier die [neueste Version vom 24.04.2017 - Hinweis ist Work in Progress](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
 
+Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
+
 <a id="Update-Dialogworkshop"></a>
 
-Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
+
 
 # Save the date
 2. "Dialogworkshop" beim @BMI_Bund 1. Juni 2017 10:00 - 12.30 mehr Informationen folgen.
 
-Die kurzfristige Ankündigung (unter 2 Wochen) ohne Terminkoordination ist leider suboptimal. 
+Am 19.05 um 10:00 erfuhren wir vom festgelegten Termin. Die kurzfristige Ankündigung (unter 2 Wochen) ohne Terminkoordination ist leider suboptimal. Einige der Kern-Mitglieder z.B. JvL sind leider verhindert.
+
+Fahrplan in Kürze: ann wird er veröffentlicht.
+Der nationale Aktionsplan soll Mitte Juni verabschiedet werden, danach erfolgt die Übersetzung, Überreichung an die OGP erfolgt bis 30. Juni. Wann die erste Veröffentlich des Plans stattfindet wird gespannt 
+
+Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Aktionsplan gestattet. 
+OGP ist nicht nur Open Data sondern ist breiter gefasst.
+
 
 
 <br>
