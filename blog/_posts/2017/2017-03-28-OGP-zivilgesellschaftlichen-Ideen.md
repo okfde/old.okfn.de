@@ -19,6 +19,8 @@ card: true
 published: true
 title: "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan" 
 ---
+[Update 19.05.17](https://okfn.de/blog/2017/03/OGP-zivilgesellschaftlichen-Ideen/#Update-Dialogworkshop)
+
 Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die [Ergebnisse dieser zivilgesellschaftlichen Ideensammlung](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden nun der Bundesregierung übergeben. Wir sind Teil des [Arbeitskreis Open Government Partnership](https://opengovpartnership.de/), haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
 
 * [Offene Daten](https://pad.okfn.de/p/NAP-offeneDaten)
@@ -40,9 +42,10 @@ Weitere Termine:
 ## Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 in Berlin: 
 - [Einladung](https://opengovpartnership.de/2017/04/24-april-2017-der-arbeitskreis-ogp-tagt-in-berlin/) 
 - Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshop-Planung](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-workshopplanung.jpg). 
-Kompakt auch die ursprünglichen [270 Forderungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv) bzw. hier die [neueste Version vom 24.04.2017 - Hinweis ist Work in Progress](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
-
+Kompakt auch die ursprünglichen [270 Forderungen]
 <a id="Update-Dialogworkshop"></a>
+(https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv) bzw. hier die [neueste Version vom 24.04.2017 - Hinweis ist Work in Progress](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
+
 
 Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
 
@@ -59,7 +62,7 @@ Fahrplan in Kürze:
 Der nationale Aktionsplan soll Mitte Juni verabschiedet werden, danach erfolgt die Übersetzung damit die Überreichung an die OGP bis 30. Juni erfolgt. Wann die erste Veröffentlich des Plans stattfindet steht noch nicht fest.
 
 Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Aktionsplan gestattet: 
-OGP ist nicht nur Open Data sondern ist breiter gefasst.
+OGP ist nicht nur Open Data, sondern ist breiter gefasst.
 
 
 
