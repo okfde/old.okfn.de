@@ -48,16 +48,17 @@ Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim B
 
 
 
-## Save the date
+## Save the date 1. Juni 2017
 2. "Dialogworkshop" beim @BMI_Bund 1. Juni 2017 10:00 - 12.30 mehr Informationen folgen.
 
-Am 19.05 um 10:00 erfuhren wir vom festgelegten Termin. Die kurzfristige Ankündigung (unter 2 Wochen) ohne Terminkoordination ist leider suboptimal. Einige der Kern-Mitglieder z.B. JvL sind leider verhindert.
+Am 19.05 um 10:00 erfuhren wir vom festgelegten Termin. Die kurzfristige Ankündigung (unter 2 Wochen) ohne Terminkoordination ist leider suboptimal. Einige der Kern-Mitglieder z.B. JvL sind dadurch leider verhindert.
 
-Fahrplan in Kürze: ann wird er veröffentlicht.
-Der nationale Aktionsplan soll Mitte Juni verabschiedet werden, danach erfolgt die Übersetzung, Überreichung an die OGP erfolgt bis 30. Juni. Wann die erste Veröffentlich des Plans stattfindet wird gespannt 
+Fahrplan in Kürze: 
+Der nationale Aktionsplan soll Mitte Juni verabschiedet werden, danach erfolgt die Übersetzung damit die Überreichung an die OGP bis 30. Juni erfolgt. Wann die erste Veröffentlich des Plans stattfindet steht noch nicht fest.
 
-Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Aktionsplan gestattet. 
+Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Aktionsplan gestattet: 
 OGP ist nicht nur Open Data sondern ist breiter gefasst.
+
 
 
 
