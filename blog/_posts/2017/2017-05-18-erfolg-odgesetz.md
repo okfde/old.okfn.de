@@ -30,3 +30,5 @@ Außerdem verkürzt sich, [wie von uns gefordert](https://okfn.de/blog/2017/01/o
 Begrüßenswert ist zudem, dass die zentrale Stelle der Bundesregierung, die künftig für Open Data verantwortlich sein wird, ausdrücklich auch Ansprechstelle für Bundesländer sein wird. Damit sie effektiv arbeiten kann, sollte sie in den kommenden Jahren mit ausreichenden finanziellen und personellen Ressourcen ausgestattet werden.
 
 **[Zum Vergleich der Gesetzentwürfe](https://github.com/arnese/odgesetz/commit/b1f14e08545927e0f2f9df64424a505423cd58c2?short_path=b81c70a#diff-b81c70af5ba72ee74460bf5e45a7b9bd)**
+
+**[Zum Gesetzestext](https://github.com/arnese/odgesetz/blob/master/Gesetz-Text.md)**
