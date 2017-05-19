@@ -49,6 +49,8 @@ Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim B
 # Save the date
 2. "Dialogworkshop" beim @BMI_Bund 1. Juni 2017 10:00 - 12.30 mehr Informationen folgen.
 
+Die kurzfristige Ankündigung (unter 2 Wochen) ohne Terminkoordination ist leider suboptimal. 
+
 
 <br>
 
