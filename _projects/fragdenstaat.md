@@ -23,8 +23,8 @@ de:
   subtitle: Das Informationsfreiheitsportal
   content: |-
      Jede Person hat das Recht auf Informationen. 
-     Mit der Online-Plattform FragDenStaat kann jede Person Anfragen an Behörden nach dem Informationsfreiheitsgesetz stellen.
-     Fragen Sie Informationen und Dokumenten an! <a href="https://fragdenstaat.de">Zu FragDenStaat</a>
+     Mit der Online-Plattform für [Informationsfreiheit](https://fragdenstaat.de/) [FragDenStaat](https://fragdenstaat.de/) kann jede Person Anfragen an Behörden stellen.
+     Fragen Sie Informationen und Dokumente an! <a href="https://fragdenstaat.de">Zu FragDenStaat</a>
 
 en:
   stats: 20,000+<br/>requests

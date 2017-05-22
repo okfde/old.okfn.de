@@ -4,9 +4,9 @@ authors:
 - Walter Palmetshofer
 date: 2017-03-28 01:00:00
 image:
-  src: /files/blog/2017/02/Timeline.png
+  src: /files/blog/2017/03/Timeline2.png
   title: 
-  license: "Source: BMI (Stand 21.02.2017)"
+  license: "Source: BMI (Stand 28.03.2017)"
   license_url: "http://www.verwaltung-innovativ.de/DE/Internationales/OGP/zeitlicher_ablauf/zeitlicher_ablauf_node.html"
 tags:
 - OGP
@@ -19,11 +19,9 @@ card: true
 published: true
 title: "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan" 
 ---
+[Update 19.05.17](https://okfn.de/blog/2017/03/OGP-zivilgesellschaftlichen-Ideen/#Update-Dialogworkshop)
 
-Die Open Knowledge Foundation Deutschland ist Teil des Arbeitskreis [Open Government Partnership](https://opengovpartnership.de/).
-Die [Ergebnisse der letzten Wochen](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden der Bundesregierung übergeben. 
-Wir haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
-
+Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die [Ergebnisse dieser zivilgesellschaftlichen Ideensammlung](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden nun der Bundesregierung übergeben. Wir sind Teil des [Arbeitskreis Open Government Partnership](https://opengovpartnership.de/), haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
 
 * [Offene Daten](https://pad.okfn.de/p/NAP-offeneDaten)
 * [Informationsfreiheit und Transparenz](https://pad.okfn.de/p/NAP-Informationsfreiheit_Transparenz) 
@@ -31,18 +29,49 @@ Wir haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vor
 * [Offene Entwicklungspolitik (Open Aid)](https://pad.okfn.de/p/NAP-openaid)
 * [Offene Ernährungspolitik und offene Landwirtschaftspolitik](https://pad.okfn.de/p/NAP-offeneLandwirtschaft)
 
-Weitere von der OKF und Community bearbeitete Themen waren [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
+Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
 
-Weitere Maßnahmen können auch mit dem Twitter-Hashtag #myNAPask #Germany vorgeschlagen werden.
+<a id="Update-Termine"></a>
+Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
-Vielen Dank für das Feedback und Mitarbeit der Community!
+<a id="Update-AKOGP-Treffen"></a>
+Weitere Termine: 
+* ~~Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.~~
+* Ende Juni wird der Nationale Aktionsplan OGP per Kabinettsbeschluss verabschiedet.
 
-Ein Übersicht der weiteren Themen findet sich unter [hier](https://pad.okfn.de/p/Themencluster_OGP_NAP).
-Die nächsten Schritte sind im Zeitplan abgebildet. Der Dialogworkshop zwischen Zivilgesellschaft und Ministerien soll Ende Mai stattfinden. Das Datum wird noch bekannt gegeben.
+## Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 in Berlin: 
+- [Einladung](https://opengovpartnership.de/2017/04/24-april-2017-der-arbeitskreis-ogp-tagt-in-berlin/) 
+- Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshop-Planung](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-workshopplanung.jpg). 
+Kompakt auch die ursprünglichen [270 Forderungen]
+<a id="Update-Dialogworkshop"></a>
+(https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv) bzw. hier die [neueste Version vom 24.04.2017 - Hinweis ist Work in Progress](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
 
-Der Arbeitskreis hat eine gemeinsame Pressemitteilung veröffentlicht:
 
-Berlin, 28. März 2017 -  270 konkrete Vorschläge für einen Nationalen Aktionsplan Open Government Partnership (OGP) liegen jetzt auf dem Tisch der Bundesregierung. Sie sind das Ergebnis eines mehrwöchigen Partizipationsprozesses, im Laufe dessen Ideen und Expertise aus der Zivilgesellschaft gesammelt, diskutiert und priorisiert wurden. Der Prozess wurde durch einen Workshop im Bundesinnenministerium gestartet und vom zivilgesellschaftlichen Arbeitskreis Open Government Partnership Deutschland begleitet.
+Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
+
+
+
+
+
+## Save the date 1. Juni 2017
+"Dialogworkshop" beim @BMI_Bund 1. Juni 2017 10:00 - 12.30 mehr Informationen folgen.
+
+Am 19.05 um 10:00 erfuhren wir vom festgelegten Termin. Die kurzfristige Ankündigung (unter 2 Wochen) ohne Terminkoordination ist leider suboptimal. Einige der Kern-Mitglieder z.B. JvL sind dadurch leider verhindert.
+
+Fahrplan in Kürze: 
+Der nationale Aktionsplan soll Mitte Juni verabschiedet werden, danach erfolgt die Übersetzung damit die Überreichung an die OGP bis 30. Juni erfolgt. Wann die erste Veröffentlich des Plans stattfindet steht noch nicht fest.
+
+Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Aktionsplan gestattet: 
+OGP ist nicht nur Open Data, sondern ist breiter gefasst.
+
+
+
+
+<br>
+
+*Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:*
+
+Berlin, 28. März 2017 - 270 konkrete Vorschläge für einen Nationalen Aktionsplan Open Government Partnership (OGP) liegen jetzt auf dem Tisch der Bundesregierung. Sie sind das Ergebnis eines mehrwöchigen Partizipationsprozesses, im Laufe dessen Ideen und Expertise aus der Zivilgesellschaft gesammelt, diskutiert und priorisiert wurden. Der Prozess wurde durch einen Workshop im Bundesinnenministerium gestartet und vom zivilgesellschaftlichen Arbeitskreis Open Government Partnership Deutschland begleitet.
 
 Seit Dezember 2016 beteiligt sich Deutschland am internationalen Zusammenschluss für ein offenes Regierungs- und Verwaltungshandeln (OGP). Konkret bedeutet das, dass auch in Deutschland bürgerschaftliche Teilhabe gestärkt werden und neue Wege für mehr Transparenz, Bürgerfreundlichkeit, offene Innovation und Effektivität von Regierungen und Verwaltungen beschritten werden sollen. Herzstück der OGP-Beteiligung sind nationale Aktionspläne, die in den einzelnen Staaten zusammen mit der Zivilgesellschaft erarbeitet werden. Eine zivilgesellschaftliche Ideensammlung für den ersten nationalen Aktionsplan liegt nun vor.
 

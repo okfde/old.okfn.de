@@ -63,18 +63,18 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ## Wichtige Dokumente
 
-* Satzung: [hier](../verein/satzung)
-* Memorandum of Understanding mit der OKFN aus Großbritannien: [hier](../files/verein/okfde-mou.pdf)
-* Mission Statement: [hier](../mission)
-* Protokoll der Gründungsversammlung: [hier](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
-* Governance Modell: [hier](../files/verein/OKFDE Governance-Modell - Stand 20.05.2016.pdf)
-* Verhaltenskodex: [hier](../files/verein/OKFDE Verhaltenskodex- Stand 20.05.2016.pdf)
+* [Satzung](../verein/satzung)
+* [Memorandum of Understanding mit der OKFN aus Großbritannien](../files/verein/okfde-mou.pdf)
+* [Mission Statement](../mission)
+* [Protokoll der Gründungsversammlung](../files/verein/OKF-DE-Protokoll-der-Gruendungsversammlung.pdf)
+* [Governance Modell](../files/verein/OKFDE Governance-Modell - Stand 20.05.2016.pdf)
+* [Verhaltenskodex](../files/verein/OKFDE Verhaltenskodex- Stand 20.05.2016.pdf)
 
 ## Anerkennung als gemeinnütziger Verein
 
 Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012](../files/verein/Freistellungsbescheid-27-Dez-12.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
-Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar.
+Ein aktueller Auszug aus dem Vereinsregister von 2016 ist [hier einsehbar](../files/verein/Vereinsregisterauszug_OKFDE_2016.pdf).
 
 ## Tätigkeitsberichte
 
