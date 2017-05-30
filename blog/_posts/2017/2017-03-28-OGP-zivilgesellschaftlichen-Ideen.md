@@ -78,12 +78,12 @@ Für die Vorbereitung die seitens des Ministeriums übermittelten PDFs vom 30.05
 
 Auflistung der Punkte (Danke an Oliver Rack)
 
-11 Die Bundesregierung veröffentlicht ab sofort alle Daten, die im Rahmen des
+11.) Die Bundesregierung veröffentlicht ab sofort alle Daten, die im Rahmen des
 Open Data Barometer (http://opendatabarometer.org/) und des Open Data Index
 (http://index.okfn.org/dataset/) evaluiert werden, um die Datenöffnung
 voranzutreiben. *****
 
-14 Systematische Bereitstellung und Erschließung von weiteren öffentlichen
+14.) Systematische Bereitstellung und Erschließung von weiteren öffentlichen
 Datenbeständen in allen Bundesministerien und im nachgeordneten Bereich bis
 Ende 2018, um über das Datenportal govdata.de auch alle offenen Datenbestände
 des Bundes ganz im Sinne des Open-Data-Gesetzes zu erschließen. *****
