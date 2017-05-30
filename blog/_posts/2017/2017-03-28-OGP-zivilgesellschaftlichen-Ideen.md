@@ -65,8 +65,8 @@ Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Akti
 OGP ist nicht nur Open Data, sondern ist breiter gefasst.
 
 Für die Vorbereitung die übermittelten PDFs vom 30.05.2017:
-[Ideen der Zivilgesellschaft](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/Antwort_Bewertungsergebnis_OGP_Ideen_ZivilG_170530.pdf)
-[Bereites existente Maßnahmen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/170529_Anlage_Existente%20Ma%C3%9Fnahmen.pdf)
+- [Ideen der Zivilgesellschaft](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/Antwort_Bewertungsergebnis_OGP_Ideen_ZivilG_170530.pdf)
+- [Bereites existente Maßnahmen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/170529_Anlage_Existente%20Ma%C3%9Fnahmen.pdf)
 
 Auflistung der einzelen Punkte erfolgt in Kürze.
 
