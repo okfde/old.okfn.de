@@ -76,7 +76,7 @@ Für die Vorbereitung die seitens des Ministeriums übermittelten PDFs vom 30.05
 > 252, 253, 256, 257, 258, 261, 264 erscheinen in der vorgeschlagenen oder in ähnlicher Form oder in Teilen für eine
 > Aufnahme in den ersten Nationalen Aktionsplan geeignet
 
-Auflisttung der Punkte (Danke an Oliver Rack)
+Auflistung der Punkte (Danke an Oliver Rack)
 
 11. Die Bundesregierung veröffentlicht ab sofort alle Daten, die im Rahmen des
 Open Data Barometer (http://opendatabarometer.org/) und des Open Data Index
