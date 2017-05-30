@@ -70,7 +70,7 @@ Für die Vorbereitung die seitens des Ministeriums übermittelten PDFs vom 30.05
 - [Ergebnis der Bewertung der Ideen von der Zivilgesellschaft](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/Antwort_Bewertungsergebnis_OGP_Ideen_ZivilG_170530.pdf)
 - [Bereites existente Maßnahmen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/170529_Anlage_Existente%20Ma%C3%9Fnahmen.pdf)
 
-Aus dem 1. Schreiben - Auflistung der geeigneten Punkte für den 1. NAP:
+# Aus dem 1. Schreiben - Auflistung der geeigneten Punkte für den 1. NAP:
 
 > Die Ideen der Ziffern 11, 14, 15, 19, 20, 21, 22, 23, 38, 46, 57, 61, 75, 115, 117, 141, 172, 175, 177,
 > 252, 253, 256, 257, 258, 261, 264 erscheinen in der vorgeschlagenen oder in ähnlicher Form oder in Teilen für eine
