@@ -88,26 +88,26 @@ Datenbeständen in allen Bundesministerien und im nachgeordneten Bereich bis
 Ende 2018, um über das Datenportal govdata.de auch alle offenen Datenbestände
 des Bundes ganz im Sinne des Open-Data-Gesetzes zu erschließen. *****
 
-- 15. Mitwirkung in der OGP-Arbeitsgruppe "Open Data Working Group"
+15.) Mitwirkung in der OGP-Arbeitsgruppe "Open Data Working Group"
 [Arbeitsgruppe Open Data der OGP:
 http://www.opengovpartnership.org/groups/opendata] *****
 
-- 19. Deutschland adaptiert die International Open Data Charter (Anmerkung: Im
+19.) Deutschland adaptiert die International Open Data Charter (Anmerkung: Im
 Open-Data-Gesetz wird bereits darauf Bezug genommen.) ***
 
-- 20. Erfassung des Umsetzungsstands des Nationalen Aktionsplans zur Umsetzung
+20.) Erfassung des Umsetzungsstands des Nationalen Aktionsplans zur Umsetzung
 der G8 Open-Data-Charta aus dem Jahr 2014 und Veröffentlichung des
 Ergebnisses. ***
 
-- 21. Durchführung eines Collaborative Design-Workshops zu offenen (Verwaltungs-)
+21.) Durchführung eines Collaborative Design-Workshops zu offenen (Verwaltungs-)
 Daten bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie weitere relevante 
 
-- 22. Mit der Fortsetzung der Standardisierung von offenen Daten erfolgt auch eine
+22.) Mit der Fortsetzung der Standardisierung von offenen Daten erfolgt auch eine
 Erarbeitung eines Datenschutzrahmenwerks (Privacy Frameworks) für die
 Veröffentlichung offener Daten bis 2018 um dem Schutz der Privatsphäre
 Rechnung tragen. (Datenschutzgruppe im Rahmen der OGP) ***
 
-- 23. Systematische Überprüfung sämtlicher 54 Handlungsempfehlungen aus der im
+23.) Systematische Überprüfung sämtlicher 54 Handlungsempfehlungen aus der im
 Jahr 2012 für das BMI erarbeitete Studie Open Government Data Deutschland
 (Klessmann/Denker et al 2012, S. 455-476) bis Dezember 2017, um sicherzustellen,
 dass die vor fünf Jahren vorgelegten Handlungsempfehlungen nun im Sinne des
@@ -115,13 +115,13 @@ Open Data Gesetzes von der Bundesverwaltung aufgegriffen und geprüft, deren
 Wirkungen reflektiert bzw. deren Ablehnung und Nichtverfolgung überzeugend
 begründet werden. **
 
-- 38. Durchführung einer breiten Beteiligung von Bürgern und Vertretern der
+38.) Durchführung einer breiten Beteiligung von Bürgern und Vertretern der
 Zivilgesellschaft bei der Erarbeitung eines zweiten Nationalen Aktionsplans
 Open Government bis zum Juni 2019, damit auch alle relevanten Einrichtungen
 der Zivilgesellschaft sich in den Prozess einbringen können und nicht zu viele
 Zufälle die Agenda bestimmen. 
 
-- 46. Durchführung von weiteren Zukunftsdialogen in den Jahren 2018-2020, um
+46.) Durchführung von weiteren Zukunftsdialogen in den Jahren 2018-2020, um
 externe Experten und Betroffene Lösungen zu den folgenden drängenden
 Herausforderungen der Zukunft erarbeiten zu lassen:
 o Digitalisierung und neue Technologien
@@ -130,24 +130,24 @@ o Energiewende und Klimawandel
 o Gesundheit und Pflege
 o Generationengerechtigkeit und Demographischer Wandel;
 
-- 57. Implementierung von Open Data-spezifischen Datenschutzmaßnahmen bei der
+57.) Implementierung von Open Data-spezifischen Datenschutzmaßnahmen bei der
 Umsetzung des Open-Data-Gesetzes (in den dadurch verpflichteten Behörden und
 in der laut Gesetz einzurichtenden zentralen Beratungsstelle) durch Aufnahme
 von Empfehlungen in entsprechende Handreichungen und durch Berücksichtigung
 beim Aufsetzen neuer, Open Data-fähiger IT-Systeme (Privacy-by-Design für
 Open Data), um hohe Datenschutzstandards bei Open Data zu garantieren.
 
-- 61. Aktiver Austausch mit anderen OGP-Ländern zu Datenschutzmaßnahmen bei
+61.) Aktiver Austausch mit anderen OGP-Ländern zu Datenschutzmaßnahmen bei
 offenen Daten, um aus Fehlern zu lernen und um hohe Datenschutzstandards
 weiterhin einzufordern.
 
-- 75. Aufbau einer nationalen Kommunikationsstrategie für Open Government in
+75.) Aufbau einer nationalen Kommunikationsstrategie für Open Government in
 enger Verzahnung mit Kompetenzaufbau, da mit der generellen Kommunikation
 zu einem Open Government Vorgehen der Bundesregierung der
 Kompetenzaufbau schon beginnt und die Kompetenz der verantwortlichen
 Kommunikateure zu Open Government ohnehin sichergestellt sein muss. *
 
-- 115. Institutionalisierung des Austausches innerhalb der Verwaltung und mit
+115.) Institutionalisierung des Austausches innerhalb der Verwaltung und mit
 der Zivilgesellschaft: Dazu wird eine Fachgruppe von Bundesbehörden zu einer
 offenen Entwicklungspolitik eingerichtet, die mindestens zweimal im Jahr einen
 verwaltungsinternen Austausch ermöglicht und das Themenfeld schrittweise
@@ -156,7 +156,7 @@ Arbeitskreis Open Government Partnership Deutschland (AK OGPD) / http://www.open
 Verwaltung Mitarbeiter als Gestalter und Thementreiber aufgebaut sowie
 Unterstützer in allen Ebenen gefunden, gefördert und eingebunden werden
 
-- 117. Prozesssteuerung mit konkreten Meilensteinen für die Weiterentwicklung
+117.) Prozesssteuerung mit konkreten Meilensteinen für die Weiterentwicklung
 von Open Aid: Beauftragung einer Studie zur wissenschaftlichen
 Grundlagenforschung zu einer offenen Entwicklungspolitik bis Dezember 2018,
 damit der nationale und der internationale Stand von Wissenschaft und Praxis
@@ -170,12 +170,12 @@ Gestaltung von offenen elektronischen Dienstangeboten sich einbringen können,
 um eine strukturierte Sammlung von Vorstellungen für künftige Umsetzungen
 vorliegen zu haben.
 
-- 141. Umsetzung des EITI-Standards (Extractive Industry Transparency
+141.) Umsetzung des EITI-Standards (Extractive Industry Transparency
 Initiative) in Deutschland bis Ende 2018. Dazu zählen Darlegung der
 Zahlungsströme im Rohstoffsektor in Deutschland und Offenlegung der
 Verträge.***
 
-- 172. Einrichtung einer Fachgruppe von Bundes-, Landes- und
+172.) Einrichtung einer Fachgruppe von Bundes-, Landes- und
 Kommunalverwaltungen zu einem offenen Transport- und Verkehrswesen
 (offene Mobilität), damit mindestens zweimal im Jahr ein verwaltungsinterner
 Austausch stattfinden kann, um das Themenfeld verwaltungsebenenübergreifend
@@ -186,14 +186,14 @@ eingebunden werden. Zusätzliche Informationsflüsse brauchen zusätzliche
 Haushaltsmittel und Planstellen (im Haushaltsentwurf 2019, zum Januar 2018).
 ****
 
-- 175. Durchführung eines Collaborative Design-Workshops zur offenen
+175.) Durchführung eines Collaborative Design-Workshops zur offenen
 Mobilität bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie weitere
 relevante Zielgruppen im Sinne einer nutzer- und mehrwertorientierten
 Gestaltung von offenen elektronischen Dienstangeboten sich einbringen können,
 um eine strukturierte Sammlung von Vorstellungen für künftige Umsetzungen
 vorliegen zu haben. ****
 
-- 177. Fortsetzung der Modernitätsfonds-Aktivitäten (MFund) des BMVI in
+177.) Fortsetzung der Modernitätsfonds-Aktivitäten (MFund) des BMVI in
 bewährter Höhe auch in den Haushaltsjahren 2018, 2019 und 2020, um Open
 Innovation in Bereich des offenen Transports- und Verkehrswesen und Mobilität
 4.0 (smarte Mobilität/Internet der Dinge) zu fördern und um mit Unterstützung
@@ -201,21 +201,21 @@ der Wirtschaftsförderung (auf Bundes-, Landes- und kommunaler Ebene) aus Ideen
 über Inkubatoren und Start-Up-Zentren erfolgreiche Unternehmensgründungen
 zu machen. *****
 
-- 252. Durchführung von Ideenwettbewerben bis Ende 2018 zur kollaborativen,
+252.) Durchführung von Ideenwettbewerben bis Ende 2018 zur kollaborativen,
 multisektoralen Entwicklung prototypischer Modelle, Methoden und Verfahren
 des Open Government in den verschiedenen politischen Handlungsfeldern.
 
-- 253. Langfristig angelegter, offener Co-Creation Prozess zum Design des
+253.) Langfristig angelegter, offener Co-Creation Prozess zum Design des
 zweiten Nationalen Open Government Aktionsplans ab Januar 2018. *****
 
-- 256. Durchführung eines Collaborative Design-Workshops zur Open
+256.) Durchführung eines Collaborative Design-Workshops zur Open
 Government Partnership bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie
 weitere relevante Zielgruppen im Sinne einer nutzer- und mehrwertorientierten
 Gestaltung von offenen elektronischen Dienstangeboten sich einbringen können,
 um eine strukturierte Sammlung von Vorstellungen für künftige Umsetzungen
 vorliegen zu haben. ***** (methodischer Anstatz für 6.5. und 6.6.)
 
-- 257. Adäquate Bereitstellung von Reise- und Finanzmitteln aller für Open
+257.) Adäquate Bereitstellung von Reise- und Finanzmitteln aller für Open
 Government zuständiger Behörden in den Haushalten für 2018, 2019 und 2020,
 um ehrenamtlich tätigen zivilgesellschaftlichen Akteuren aus der ganzen
 Bundesrepublik Deutschland die kontinuierliche Mitarbeit in zentralen und
@@ -229,11 +229,11 @@ sicherstellen, dass auch Vertreter der Zivilgesellschaft beteiligt sind, wenn
 durch gemeinwohlorganisierte Lobbyisten (in der Hauptstadt) erfolgt. Dies setzt
 die Möglichkeit zur Erstattung von Reisekosten und Bildungsurlaub voraus. *****
 
-- 258. Förderung der Entwicklung von Open Source Software zur
+258.) Förderung der Entwicklung von Open Source Software zur
 Unterstützung kollaborativer Verfahren aller Art, um den Austausch und die
 Zusammenarbeit in der Gesellschaft zu fördern. ***
 
-- 261. Einrichtung eines Arbeitskreises von Verwaltung und Zivilgesellschaft
+261.) Einrichtung eines Arbeitskreises von Verwaltung und Zivilgesellschaft
 zur transparenten KI und Algorithmenkontrolle, damit mindestens zweimal im
 Jahr mit der Zivilgesellschaft ein fachlicher Austausch stattfinden kann, um
 einander zuzuhören und um Impulse der Zivilgesellschaft zur konzeptionellen
@@ -242,7 +242,7 @@ die entsprechende Fachgruppe der Verwaltung sichert einen Wissenstransfer von
 neuen Erkenntnissen und aktuellen Entwicklungen aus Zivilgesellschaft und
 Wissenschaft in die öffentliche Verwaltung und indirekt in die Politik.
 
-- 264. Algorithmische Verfahren und smarte KI-Technologien verändern die Art
+264.) Algorithmische Verfahren und smarte KI-Technologien verändern die Art
 und Weise, wie digitale Medien produziert und konsumiert werden. Dies hat auch
 Auswirkungen auf unsere Demokratie, die im wesentlichen Sinne auch durch 
 Arbeitskreis Open Government Partnership Deutschland (AK OGPD) / http://www.opengovpartnership.de / CC-BY-DE 4.0 / Seite K92
