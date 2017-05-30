@@ -183,8 +183,8 @@ zu verstehen und schrittweise zu erschließen. Durch diese Fachgruppe sollen auf
 Seiten der öffentlichen Verwaltung Mitarbeiter als Gestalter und Thementreiber
 aufgebaut sowie Unterstützer in allen Ebenen gefunden, gefördert und
 eingebunden werden. Zusätzliche Informationsflüsse brauchen zusätzliche
-Haushaltsmittel und Planstellen (im Haushaltsentwurf 2019, zum Januar 2018).
-****
+Haushaltsmittel und Planstellen (im Haushaltsentwurf 2019, zum Januar 2018).****
+
 
 175.) Durchführung eines Collaborative Design-Workshops zur offenen
 Mobilität bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie weitere
