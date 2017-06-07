@@ -32,3 +32,6 @@ Begrüßenswert ist zudem, dass die zentrale Stelle der Bundesregierung, die kü
 **[Zum Vergleich der Gesetzentwürfe](https://github.com/arnese/odgesetz/commit/b1f14e08545927e0f2f9df64424a505423cd58c2?short_path=b81c70a#diff-b81c70af5ba72ee74460bf5e45a7b9bd)**
 
 **[Zum Gesetzestext](https://github.com/arnese/odgesetz/blob/master/Gesetz-Text.md)**
+
+
+Wurde am 2. Juni 2017 als TOP 11 394/17 Erstes Gesetz zur Änderung des E-Government-Gesetzes im Bundesrat verabschiedet.
