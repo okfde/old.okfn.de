@@ -35,4 +35,4 @@ Begrüßenswert ist zudem, dass die zentrale Stelle der Bundesregierung, die kü
 **[Zum Gesetzestext](https://github.com/arnese/odgesetz/blob/master/Gesetz-Text.md)**
 
 
-Wurde am 2. Juni 2017 als [TOP 11 394/17](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11) Erstes Gesetz zur Änderung des E-Government-Gesetzes im Bundesrat verabschiedet.
+Das Gesetz wurde am 2. Juni 2017 als [TOP 11 394/17](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11) Erstes Gesetz zur Änderung des E-Government-Gesetzes im Bundesrat verabschiedet und tritt damit in Kraft.
