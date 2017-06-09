@@ -64,7 +64,7 @@ Austausch mit internationalen Communitys und Partnern ist uns wichtig – wenn d
  
 
 Vertragsbeginn: Gerne so bald wie möglich – spätestens zum 1. September 2017
-Laufzeit: Voraussichtlich bis 31. März 2017
+Laufzeit: Voraussichtlich bis 31. März 2019
 Zeitl. Aufwand: 40h/Woche
 Gehalt: nach TV-L E13/S1
 Ort: Berlin
