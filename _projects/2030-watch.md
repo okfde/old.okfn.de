@@ -1,7 +1,7 @@
 ---
 type: politics
 title: 2030Watch
-img: projects/2030-watch.png
+img: projects/2030-Watch.jpg
 layout: project
 people:
   - name: Rebecca Varghese Buchholz
