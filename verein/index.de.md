@@ -94,7 +94,7 @@ Auf der letzten Mitgliederversammlung am 25.01.2016 wurde [Christian Heise]( htt
 zum Vorstandsvorsitzenden, [Friedrich Lindenberg]( https://okfn.de/vorstand/#friedrich-lindenberg) zum stellvertretenden Vorstandsvorsitzenden und [Andreas Pawelke](https://okfn.de/vorstand/#andreas-pawelke) zum Kassenwart gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann]( https://okfn.de/vorstand/#claudia-schwegmann), [Daniel Dietrich]( https://okfn.de/vorstand/#daniel-dietrich), [Lucy Chambers]( https://okfn.de/vorstand/#lucy-chambers),  [Stefan Wehrmeyer]( https://okfn.de/vorstand/#stefan-wehrmeyer) und [Sören Auer]( https://okfn.de/vorstand/#s-ren-auer). Seit August 2014 ist [Kristina Klein](https://okfn.de/team/#kristina-klein) Geschäftsführerin der OKF. 
 
 ## Ethikbeauftragte
-Am 25.01.2016 wurde [Mara Mendes](https://okfn.de/team/#mara-mendes) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden. 
+Am 29.03.2017 wurde [Paula Glaser](https://okfn.de/team/#paula-glaser) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden. 
 
 
 ## Mittelherkunft
