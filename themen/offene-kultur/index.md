@@ -7,7 +7,7 @@ teaser: Der Wert frei nutzbarer Kulturdaten liegt vor allem darin, Kulturinstitu
 
 # Offene Kultur
 
-Viele Kulturinstitutionen nutzen bereits die Möglichkeiten, die ihnen die Digitalisierung und das Internet bieten. Bestände werden digitalisiert und digital aufbereitet, ganze Kunstgattungen gibt es bereits digital. Im heutigen 21. Jahrhundert existieren viele Kultureinrichtungen, wie Museen, Archive und Bibliotheken, bereits seit 100 Jahren oder länger. Doch was ist notwendig, um Institutionen, die vor der Erfindung des Fernsehens etabliert wurden, in der heutigen von Technologien bestimmten Welt bei ihren gesellschaftlichen Aufgaben zu unterstützen?
+Viele Kulturinstitutionen nutzen bereits die Möglichkeiten, die ihnen die Digitalisierung und das Internet bieten. Bestände werden digitalisiert und digital aufbereitet, ganze Kunstgattungen gibt es bereits digital. Im 21. Jahrhundert existieren viele Kultureinrichtungen, wie Museen, Archive und Bibliotheken, bereits seit 100 Jahren oder länger. Doch was ist notwendig, um Institutionen, die vor der Erfindung des Fernsehens etabliert wurden, in der heutigen von Technologien bestimmten Welt bei ihren gesellschaftlichen Aufgaben zu unterstützen?
 
 In einer digitalen Welt sind Daten die Grundlage von (digital) vernetztem Wissen: mit Menschen, mit Ereignissen und mit der Geschichte. Digitales Kulturerbe als Teil dieses Wissens wird heutzutage von vielen Menschen – unabhängig von Alter, Bildungsstand oder Herkunft – erlebt. 
 
