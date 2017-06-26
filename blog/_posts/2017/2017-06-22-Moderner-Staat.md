@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-06-22 07:00:00
 image:
-  src: /files/blog/2017/05/odgesetz.jpg
+  src: /files/blog/2017/06/digitale-agenda-3.jpg
   title: 
   license:
   license_url: 
