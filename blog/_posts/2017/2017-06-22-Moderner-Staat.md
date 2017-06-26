@@ -42,7 +42,7 @@ Leistungsschutzrecht, Störerhaftung, … zu beziehen."
 
 - 1:01:00 Government as Plattform vs. Goverment as a Service - Mergel
 
-- 1:09:30 Wieso E-Gov in Österreich eher umgesetzt wurde. (Sitzung von 2003). - Ludewig
+- 1:09:30 Wieso E-Gov in Österreich eher umgesetzt wurde (Sitzung von 2003) - Ludewig
 
 - 1:11:00 Jarzombek zitierte Thorsten Dirks, CEO Bitkom:
 „Wenn sie einen Scheißprozess digitalisieren, dann haben sie einen scheiß digitalen Prozess,“ und nochmals den Koalitionsvertrag von [NRW](
