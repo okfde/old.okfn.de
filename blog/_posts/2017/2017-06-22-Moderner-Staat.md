@@ -57,8 +57,8 @@ wir die Sicherheit kritischer und sensibler IT-Prozesse weiter."
 - 1:13:39 "Juristisches Denken" in der Verwaltung und die damit einhergehenden Parameter.
 Gut analyisiert und sorgte auch für Schmunzeln.
 
-Liste der geladenen Sachverständigen und Stellungsnahmen:
+Liste der weiteren Sachverständigen und die Stellungsnahmen:
 - Dr. Johannes Ludewig, Vorsitzender des Nationalen Normenkontrollrates
-- Prof. Dr. Mario Martini, Leiter des Programmbereichs „Transformation des Staates in Zeiten der Digitalisierung“ am Deutschen Forschungsinstitut für öffentliche Verwaltung und Lehrstuhlinhaber für Verwaltungswissenschaft, Staatsrecht, Verwaltungsrecht und Europarecht an der Universität für Verwaltungswissenschaften Speyer
+- Prof. Dr. Mario [Martini](https://www.bundestag.de/blob/512252/0f4aafa9f98a3f37e6b0d74f0ccbc973/a-drs-18-24-138-data.pdf), Leiter des Programmbereichs „Transformation des Staates in Zeiten der Digitalisierung“ am Deutschen Forschungsinstitut für öffentliche Verwaltung und Lehrstuhlinhaber für Verwaltungswissenschaft, Staatsrecht, Verwaltungsrecht und Europarecht an der Universität für Verwaltungswissenschaften Speyer
 - Matthias Kammer, Direktor des Deutschen Instituts für Vertrauen und Sicherheit im Internet
 - Prof. Dr. Ines Mergel, Universität Konstanz, Fachbereich Politik- und Verwaltungswissenschaften
