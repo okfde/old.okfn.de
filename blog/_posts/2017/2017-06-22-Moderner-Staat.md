@@ -21,7 +21,7 @@ title: "Digitale Agenda Stellungnahme & Fachgespräch: Moderner Staat - Chancen 
 
 Der Ausschuss für [Digitale Agenda](https://www.bundestag.de/ada) des Bundestags befasste sich letzte Woche, am 21.06.2017, in einem öffentlichen Fachgespräch mit dem Thema ["Moderner Staat - Chancen durch Digitalisierung"](https://www.bundestag.de/presse/hib/2017_06/-/511466) und wir waren auch dabei. 
 
-Die völlständige Stellungsnahme ist [hier](https://www.bundestag.de/blob/511166/ec0c94005417fb52273a66e803e7659b/a-drs-18-24-139-data.pdf). Die tl;dr-Zusammenfassung der Stellungsnahme:
+Die völlständige Stellungsnahme ist [hier]<sup>73</sup></a>(https://www.bundestag.de/blob/511166/ec0c94005417fb52273a66e803e7659b/a-drs-18-24-139-data.pdf). Die tl;dr-Zusammenfassung der Stellungsnahme:
 
 "Es geht um eine politische Frage, nicht um eine technische", argumentierte Walter Palmetshofer von der Open Knowledge Foundation Deutschland e.V.. Der moderne Staat funktioniere als digitale Plattform und zeichne sich durch Transparenz, Anwenderfreundlichkeit sowie Datenschutz aus. Um öffentliche Daten nutzen zu können und eine offene Verwaltungskultur zu etablieren, solle der Gesetzgeber ein einheitliches Transparenzgesetz schaffen, forderte er.
 
