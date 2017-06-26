@@ -52,14 +52,13 @@ Vorallem TB, BK, GP, PP, JB, AS, TT aus dem verwaltungsnahen Umfeld.
 https://www.cdu-nrw.de/sites/default/files/media/docs/vertrag_nrw-koalition_2017.pdf)
 "Wir starten mit einem „Blockchain“-Pilotprojekt in der Verwaltung. Damit entwickeln
 wir die Sicherheit kritischer und sensibler IT-Prozesse weiter."
+- <i>Anmerkung: Kann man gerne die Blockchain drüberwerfen, wird aber dass ursprüngliche Problem nicht lösen.</i>
 
-<i>Anmerkung: Kann man gerne die Blockchain drüberwerfen, wird aber dass ursprüngliche Problem nicht lösen.</i>
-
-1:13:39 "Juristisches Denken" in der Verwaltung und die damit einhergehenden Parameter.
+- 1:13:39 "Juristisches Denken" in der Verwaltung und die damit einhergehenden Parameter.
 Gut analyisiert und sorgte auch für Schmunzeln.
 
 Liste der geladenen Sachverständigen und Stellungsnahmen:
-Dr. Johannes Ludewig, Vorsitzender des Nationalen Normenkontrollrates
-Prof. Dr. Mario Martini, Leiter des Programmbereichs „Transformation des Staates in Zeiten der Digitalisierung“ am Deutschen Forschungsinstitut für öffentliche Verwaltung und Lehrstuhlinhaber für Verwaltungswissenschaft, Staatsrecht, Verwaltungsrecht und Europarecht an der Universität für Verwaltungswissenschaften Speyer
-Matthias Kammer, Direktor des Deutschen Instituts für Vertrauen und Sicherheit im Internet
-Prof. Dr. Ines Mergel, Universität Konstanz, Fachbereich Politik- und Verwaltungswissenschaften
+- Dr. Johannes Ludewig, Vorsitzender des Nationalen Normenkontrollrates
+- Prof. Dr. Mario Martini, Leiter des Programmbereichs „Transformation des Staates in Zeiten der Digitalisierung“ am Deutschen Forschungsinstitut für öffentliche Verwaltung und Lehrstuhlinhaber für Verwaltungswissenschaft, Staatsrecht, Verwaltungsrecht und Europarecht an der Universität für Verwaltungswissenschaften Speyer
+- Matthias Kammer, Direktor des Deutschen Instituts für Vertrauen und Sicherheit im Internet
+- Prof. Dr. Ines Mergel, Universität Konstanz, Fachbereich Politik- und Verwaltungswissenschaften
