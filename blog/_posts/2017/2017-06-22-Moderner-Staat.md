@@ -43,17 +43,17 @@ Vorallem TB, BK, GP, PP, JB, AS, TT aus dem verwaltungsnahen Umfeld.
 
 [Aufzeichnung](https://dbtg.tv/cvid/7118784) des Fachgesprächs und einige spannende Punkte:
 
-1:01:00 Government as Plattform vs. Goverment as a Service - Mergel
+- 1:01:00 Government as Plattform vs. Goverment as a Service - Mergel
 
-1:09:30 Wieso E-Gov in Österreich eher umgesetzt wurde. (Sitzung von 2003). - Ludewig
+- 1:09:30 Wieso E-Gov in Österreich eher umgesetzt wurde. (Sitzung von 2003). - Ludewig
 
-1:11:00 Jarzombek zitierte Thorsten Dirks, CEO Bitkom:
+- 1:11:00 Jarzombek zitierte Thorsten Dirks, CEO Bitkom:
 „Wenn sie einen Scheißprozess digitalisieren, dann haben sie einen scheiß digitalen Prozess,“ und nochmals den Koalitionsvertrag von [NRW](
 https://www.cdu-nrw.de/sites/default/files/media/docs/vertrag_nrw-koalition_2017.pdf)
 "Wir starten mit einem „Blockchain“-Pilotprojekt in der Verwaltung. Damit entwickeln
 wir die Sicherheit kritischer und sensibler IT-Prozesse weiter."
 
-Anmerkung: Kann man gerne die Blockchain drüberwerfen, wird aber dass ursprüngliche Problem nicht lösen.
+<i>Anmerkung: Kann man gerne die Blockchain drüberwerfen, wird aber dass ursprüngliche Problem nicht lösen.</i>
 
 1:13:39 "Juristisches Denken" in der Verwaltung und die damit einhergehenden Parameter.
 Gut analyisiert und sorgte auch für Schmunzeln.
