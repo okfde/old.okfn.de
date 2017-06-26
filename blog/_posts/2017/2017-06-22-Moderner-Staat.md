@@ -48,8 +48,7 @@ Leistungsschutzrecht, Störerhaftung, … zu beziehen."
 „Wenn sie einen Scheißprozess digitalisieren, dann haben sie einen scheiß digitalen Prozess,“ und nochmals den Koalitionsvertrag von [NRW](
 https://www.cdu-nrw.de/sites/default/files/media/docs/vertrag_nrw-koalition_2017.pdf)
 "Wir starten mit einem „Blockchain“-Pilotprojekt in der Verwaltung. Damit entwickeln
-wir die Sicherheit kritischer und sensibler IT-Prozesse weiter."
-- <i>Anmerkung: Kann man gerne die Blockchain drüberwerfen, wird aber dass ursprüngliche Problem nicht lösen.</i>
+wir die Sicherheit kritischer und sensibler IT-Prozesse weiter." <i>Anmerkung: Kann man gerne die Blockchain drüberwerfen, wird aber dass ursprüngliche Problem nicht lösen.</i>
 
 - 1:13:39 "Juristisches Denken" in der Verwaltung und die damit einhergehenden Parameter.
 Gut analyisiert und sorgte auch für Schmunzeln.
