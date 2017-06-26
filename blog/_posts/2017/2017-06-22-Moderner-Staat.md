@@ -33,8 +33,9 @@ IT-Firmen (FAMGA, …). Weiters gilt es die Angst vor der Digitaliserung zu nehm
 permament Stellung bei “Digitalisierungsbremsen” wie u.a. das NetzDG,
 Leistungsschutzrecht, Störerhaftung, … zu beziehen."
 
-Vielen, vielen Dank für den großartigen Input der Community für unsere Stellungnahme.
-Vorallem TB, BK, GP, PP, JB, AS, TT aus dem verwaltungsnahen Umfeld.
+
+<i>Vielen, vielen Dank für den großartigen Input der Community für unsere Stellungnahme.
+(Vorallem TB, BK, GP, PP, JH, RB, AS & TT aus dem verwaltungsnahen Umfeld.)</i>
 
 
 [Aufzeichnung](https://dbtg.tv/cvid/7118784) des Fachgesprächs und einige spannende Punkte:
