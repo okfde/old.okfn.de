@@ -41,6 +41,7 @@ Die völlständige Stellungsnahme ist [hier](https://www.bundestag.de/blob/51116
 Vielen, vielen Dank für den großartigen Input der Community für unsere Stellungnahme.
 Vorallem TB, BK, GP, PP, JB, AS, TT aus dem verwaltungsnahen Umfeld.
 
+
 [Aufzeichnung](https://dbtg.tv/cvid/7118784) des Fachgesprächs und einige spannende Punkte:
 
 - 1:01:00 Government as Plattform vs. Goverment as a Service - Mergel
@@ -58,7 +59,7 @@ wir die Sicherheit kritischer und sensibler IT-Prozesse weiter."
 Gut analyisiert und sorgte auch für Schmunzeln.
 
 Liste der weiteren Sachverständigen und die Stellungsnahmen:
-- Dr. Johannes Ludewig, Vorsitzender des Nationalen Normenkontrollrates
+- Prof. Dr. Ines [Mergel](https://www.bundestag.de/blob/510890/35dceb07b59cb1e0c11e60904e1b2794/a-drs-18-24-136-data.pdf), Universität Konstanz, Fachbereich Politik- und Verwaltungswissenschaften
+- Dr. Johannes [Ludewig](https://www.bundestag.de/blob/511040/c5236d3952f250335f42f6b6ce97d692/a-drs-18-24-137-data.pdf), Vorsitzender des Nationalen Normenkontrollrates
 - Prof. Dr. Mario [Martini](https://www.bundestag.de/blob/512252/0f4aafa9f98a3f37e6b0d74f0ccbc973/a-drs-18-24-138-data.pdf), Leiter des Programmbereichs „Transformation des Staates in Zeiten der Digitalisierung“ am Deutschen Forschungsinstitut für öffentliche Verwaltung und Lehrstuhlinhaber für Verwaltungswissenschaft, Staatsrecht, Verwaltungsrecht und Europarecht an der Universität für Verwaltungswissenschaften Speyer
-- Matthias Kammer, Direktor des Deutschen Instituts für Vertrauen und Sicherheit im Internet
-- Prof. Dr. Ines Mergel, Universität Konstanz, Fachbereich Politik- und Verwaltungswissenschaften
+- Matthias [Kammer](https://www.bundestag.de/blob/510868/2754e63d57df1221b3c4401d57b4e55e/a-drs-18-24-135-data.pdf), Direktor des Deutschen Instituts für Vertrauen und Sicherheit im Internet
