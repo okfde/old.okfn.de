@@ -15,7 +15,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Digitale Agenda Stellungnahme & Fachgespräch: Moderner Staat - Chancen durch Digitalisierung" 
 ---
 
