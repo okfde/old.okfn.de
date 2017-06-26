@@ -8,7 +8,10 @@ image:
   license:
   license_url: 
 tags:
-- "Open-Data-Gesetz" "EITI" "OGP"
+- Open-Data-Gesetz
+- EITI
+- OGP
+- Policy
 type: post
 layout: post
 card: true
