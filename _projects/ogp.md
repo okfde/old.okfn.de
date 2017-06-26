@@ -9,6 +9,8 @@ people:
     role: Koordination
   - name: Walter Palmetshofer
     role:
+  - name: Michael Peters
+    role: 
 contact:
    website: https://opengovpartnership.de
    twitter: OpenGovGermany
