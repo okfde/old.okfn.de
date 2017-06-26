@@ -58,3 +58,5 @@ Liste der weiteren Sachverständigen und die Stellungsnahmen:
 - Dr. Johannes [Ludewig](https://www.bundestag.de/blob/511040/c5236d3952f250335f42f6b6ce97d692/a-drs-18-24-137-data.pdf), Vorsitzender des Nationalen Normenkontrollrates
 - Prof. Dr. Mario [Martini](https://www.bundestag.de/blob/512252/0f4aafa9f98a3f37e6b0d74f0ccbc973/a-drs-18-24-138-data.pdf), Leiter des Programmbereichs „Transformation des Staates in Zeiten der Digitalisierung“ am Deutschen Forschungsinstitut für öffentliche Verwaltung und Lehrstuhlinhaber für Verwaltungswissenschaft, Staatsrecht, Verwaltungsrecht und Europarecht an der Universität für Verwaltungswissenschaften Speyer
 - Matthias [Kammer](https://www.bundestag.de/blob/510868/2754e63d57df1221b3c4401d57b4e55e/a-drs-18-24-135-data.pdf), Direktor des Deutschen Instituts für Vertrauen und Sicherheit im Internet
+
+Zustand 2017: [Digitale Agenda im Bundestag: „Sie müssen für jeden dankbar sein, der da ist!"](https://netzpolitik.org/2017/digitale-agenda-im-bundestag-sie-muessen-fuer-jeden-dankbar-sein-der-da-ist/)
