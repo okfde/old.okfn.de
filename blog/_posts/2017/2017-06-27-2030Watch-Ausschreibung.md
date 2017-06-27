@@ -15,7 +15,9 @@ type: post
 layout: post
 card: true
 published: true
-title: "Entwickler/in bei 2030Watch gesucht" 
+title: "Teilzeit Entwickler/in bei 2030Watch gesucht" 
+jobs: "Teilzeit Entwickler/in bei 2030Watch gesucht"
+- 
 ---
 
 <b>Entwickler/in (Schwerpunkt Web-development) bei 2030Watch gesucht!</b>
