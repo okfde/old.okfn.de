@@ -15,7 +15,7 @@ contact:
 de:
   subtitle: "öffentliches Vergabewesen, public procurement, Vergabedaten"
   content: |-
-     ####Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
+     #### Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
      
      Die Vergabe von öffentlichen Aufträgen, also Dienstleistungen, Bauleistungen und Waren macht einen großen Anteil der Staatsausgaben aus. In der EU sind dies etwa 16% des Bruttoinlandsprodukts. Oft ist die Vergabe dieser Aufträge allerdings nicht besonders Transparent. So können 20-25% des Auftragsvolumens an Korruption verloren gehen. 
      
@@ -35,7 +35,7 @@ de:
 en:
   subtitle: "Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed"
   content: |-
-     ####Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
+     #### Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
      
      The allocation of funds through public procurement (services, bulding contracts, and goods) represents a significant share of state expenditure. In the EU, this amounts to about 16% of the GDP. In many cases, the allocation of these contracts is not conducted transparently. As a result, 20-25% of the total number of orders can be lost to corruption.
      
