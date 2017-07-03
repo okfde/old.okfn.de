@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2017-07-03 10:00:00
 image:
-  src: /files/blog/2017/stelle-demolabs.png
+  src: /files/blog/2017/stelle-demolabs.jpg
   title:
   license: "CCO"
   license_url: "https://creativecommons.org/choose/zero/"
