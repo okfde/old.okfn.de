@@ -16,6 +16,8 @@ type: post
 layout: post
 card: true
 title: "Studentische Mitarbeit für die DEM0KRATIELAB0RE gesucht"
+jobs: 
+- "Studentische Mitarbeit für die DEM0KRATIELAB0RE gesucht"
 ---
 
 ### Wartung und Verwaltung des Hardwarepools
