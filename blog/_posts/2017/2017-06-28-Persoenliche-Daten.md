@@ -17,11 +17,13 @@ published: false
 title: "Digitale Souveränität" 
 ---
 
-Am 29. Juni wurde in Berlin das Gutachten "Digitale Souveränität
-Gutachten des Sachverständigenrats für Verbraucherfragen" präsentiert.
-Unsere Anteil sieht man unter 
+Am 29. Juni wurde in Berlin das Gutachten ["Digitale Souveränität
+Gutachten des Sachverständigenrats für Verbraucherfragen"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Gutachten_Digitale_Souver%C3%A4nit%C3%A4t.pdf
+) präsentiert.
 
-Die zentralen Punkte kurz:
+Eine der Grundlagen für dieses Gutachten war unsere kleine Studie:  
+
+Die zentralen Punkte sind kurz:
 
 Zu dem vorgestellten MyData Modell gehört:
 
@@ -33,9 +35,11 @@ Zu dem vorgestellten MyData Modell gehört:
 - persönliche Informationen an Dritte zu teilen oder verkaufen
 - zu entfernen oder persönliche Daten zu löschen
 
-Die Forderungen lauten
-Verbraucherzentriertheit stärken
-Transparenz schaffen und gewährleisten
-MyData als Standard gesetzt
-dezentralen Strukturen
-Infrastruktur für Datenspenden von VerbraucherInnen.
+Unsere [Empfehlungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/03/OKF-Der-Wert-pers%C3%B6nlicher-Daten-Empfehlungen.pdf) lauten
+- Verbraucherzentriertheit stärken
+- Transparenz schaffen und gewährleisten
+- MyData als Standard gesetzt
+- dezentralen Strukturen
+- Infrastruktur für Datenspenden von VerbraucherInnen.
+
+Bzgl. Datenspenden für Projekte kommt demnächst hoffentlich ein neues Projekt. 
