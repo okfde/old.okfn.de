@@ -8,10 +8,8 @@ image:
   license:
   license_url: 
 tags:
-- Open-Data-Gesetz
-- EITI
-- OGP
-- Policy
+- Wahlen
+- Wikidata
 type: post
 layout: post
 card: true
