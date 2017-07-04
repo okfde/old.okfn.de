@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Ulm Wikidata Hackathon" 
 ---
 
@@ -29,5 +29,5 @@ PS: Zum Verschwörhaus, abgeleitet vom [Schwörhaus](https://de.wikipedia.org/wi
 und auch gleich nebenan mitten in der Stadt, sei auf den engagierten Oberbürgermeister verwiesen, der einen gelebten Kontrollverlust begrüßt: "Kontrollverlust muss man zulassen, um Innovationen mit Offenheit voranzubringen."
 Es ist schön zu sehen, dass auch ausserhalb der ganzen großen Städte neue Räume entstehen.
 
-
+ps: blog entry work in progress 040717-1600 :)
 
