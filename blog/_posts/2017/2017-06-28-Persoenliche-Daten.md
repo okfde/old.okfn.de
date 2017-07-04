@@ -27,8 +27,8 @@ Präsentation jener gibt es [hier.](https://docs.google.com/presentation/d/13eVD
 Unsere [Empfehlungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/03/OKF-Der-Wert-pers%C3%B6nlicher-Daten-Empfehlungen.pdf) lauten:
 - Verbraucherzentriertheit stärken
 - Transparenz schaffen und gewährleisten
-- MyData als Standard gesetzt
-- dezentralen Strukturen
+- MyData als Standard 
+- dezentrale Strukturen
 - Infrastruktur für Datenspenden von VerbraucherInnen.
 
 Zu dem vorgestellten [MyData Modell](https://mydata.org/) gehört:
