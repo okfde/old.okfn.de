@@ -25,7 +25,7 @@ Eine der Grundlagen für dieses Gutachten war unsere kleine Studie:
 
 Die zentralen Punkte sind kurz:
 
-Zu dem vorgestellten [MyData Modell] (https://mydata.org/) gehört:
+Zu dem vorgestellten [MyData Modell](https://mydata.org/) gehört:
 
 - Das Recht zu wissen, welche persönlichen Informationen vorliegen
 - den tatsächlichen Inhalt der persönlichen Daten zu sehen
@@ -42,10 +42,10 @@ Unsere [Empfehlungen](https://github.com/okfde/okfn.de/blob/master/files/blog/20
 - dezentralen Strukturen
 - Infrastruktur für Datenspenden von VerbraucherInnen.
 
-Bzgl. Datenspenden für Projekte kommt demnächst hoffentlich ein neues Projekt (u.a. von [AlgorithmWatch] (https://algorithmwatch.org/en/))
+Bzgl. Datenspenden für Projekte kommt demnächst hoffentlich ein neues Projekt (u.a. von [AlgorithmWatch](https://algorithmwatch.org/en/))
 
 
-Veranstaltungshinweis: [30.08 und 01.09 findet die mydata2017 Konferenz statt](https://mydata2017.org/)
+Veranstaltungshinweis: 30.08 und 01.09 findet die [mydata2017 Konferenz statt](https://mydata2017.org/)
 
 Weiter Bericht zur Thematik von Wolfie Christl
 
