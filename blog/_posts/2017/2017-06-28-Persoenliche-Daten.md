@@ -55,8 +55,8 @@ Leseempfehlung:
 By Wolfie Christl, Cracked Labs, June 2017.](http://crackedlabs.org/en/corporate-surveillance)
 
 Videos:
-[npa57 Vortrag Risiko Scoring von Volker Grassmuck](https://www.youtube.com/watch?list=PLMoiP4YfunXKBa2BFh6EKG3OZhGsm0oME&v=i_Mx3a6zlio)
+- [npa57 Vortrag Risiko Scoring von Volker Grassmuck](https://www.youtube.com/watch?list=PLMoiP4YfunXKBa2BFh6EKG3OZhGsm0oME&v=i_Mx3a6zlio)
 
-[33c3 - Technologien für und wider Digitale Souveränität](https://www.youtube.com/watch?v=-agd733eksE)
+- [33c3 - Technologien für und wider Digitale Souveränität](https://media.ccc.de/v/33c3-8097-technologien_fur_und_wider_digitale_souveranitat)
 
 fyi: blog entry work in progress 040717-1600
