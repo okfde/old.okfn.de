@@ -18,8 +18,7 @@ title: "Digitale Souveränität"
 ---
 
 Am 29. Juni wurde in Berlin das Gutachten ["Digitale Souveränität
-Gutachten des Sachverständigenrats für Verbraucherfragen"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Gutachten_Digitale_Souver%C3%A4nit%C3%A4t.pdf
-) präsentiert.
+Gutachten des Sachverständigenrats für Verbraucherfragen"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Gutachten_Digitale_Souver%C3%A4nit%C3%A4t_.pdf) präsentiert.
 
 Eine der Grundlagen für dieses Gutachten war unsere [Studie über den Wert der persönlichen Daten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/06/OKF-Der-Wert-pers%C3%B6nlicher-Daten.pdf):  
 Präsentation jener gibt es [hier.](https://docs.google.com/presentation/d/13eVDm2fAIeNyu9ClZ1oRX8dB8pDhLGdSZ3SkY6kwJX4/edit#slide=id.g20f3ba2f05_1_273)
