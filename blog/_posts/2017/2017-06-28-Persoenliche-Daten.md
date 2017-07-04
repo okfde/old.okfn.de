@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-06-29 23:59:00
 image:
-  src: /files/blog/2017/06/ulm.jpg
+  src: /files/blog/2017/06/mydata.png
   title: 
   license:
   license_url: 
