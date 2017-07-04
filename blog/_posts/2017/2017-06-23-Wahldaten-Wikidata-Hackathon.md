@@ -23,11 +23,13 @@ Ein Bericht gibt es bei [Wikimedia](https://de.wikipedia.org/wiki/Wikipedia_Disk
 Ein vorgestelltes spannendes Projekt aus Österreich ist [Offene Wahlen](http://offenewahlen.at/) für mehr Beteiligung, Transparenz und Innovation. 
 Welches wir auch gerne für Deutschland realisieren würden. Bis zur Bundestagswahl tickt die Uhr.
 
+Das [Pad zum Workshop](https://pad.okfn.de/p/wahldaten-ulm).
+
 Weiter geht’s mit Wahldaten im Wahlsalon Köln am 07.07.2017. Anmeldung unter [codefor.de/wahlsalons](codefor.de/wahlsalons).
 
 PS: Zum Verschwörhaus, abgeleitet vom [Schwörhaus](https://de.wikipedia.org/wiki/Schw%C3%B6rhaus_(Ulm)) 
 und auch gleich nebenan mitten in der Stadt, sei auf den engagierten Oberbürgermeister verwiesen, der einen gelebten Kontrollverlust begrüßt: "Kontrollverlust muss man zulassen, um Innovationen mit Offenheit voranzubringen."
 Es ist schön zu sehen, dass auch ausserhalb der ganzen großen Städte neue Räume entstehen.
 
-<i>blog entry work in progress 040717-1600 :) </i>
+<i>blog entry work in progress 040717-1600</i>
 
