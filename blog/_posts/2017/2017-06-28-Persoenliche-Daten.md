@@ -1,7 +1,7 @@
 ---
 authors: 
 - Walter Palmetshofer
-date: 2017-06-29 07:00:00
+date: 2017-06-29 23:59:00
 image:
   src: /files/blog/2017/06/ulm.jpg
   title: 
@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Digitale Souveränität" 
 ---
 
