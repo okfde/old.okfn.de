@@ -44,7 +44,7 @@ Unsere [Empfehlungen](https://github.com/okfde/okfn.de/blob/master/files/blog/20
 
 
 
-
+<br><br>
 <b>Weiterführende aktuelle Informationen:</b>
 
 Veranstaltungshinweis: 30.08 und 01.09 findet die [mydata2017 Konferenz statt](https://mydata2017.org/)
