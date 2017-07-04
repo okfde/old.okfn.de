@@ -8,8 +8,8 @@ image:
   license:
   license_url: 
 tags:
-- Wahlen
-- Wikidata
+- Persönliche Daten
+- mydata
 type: post
 layout: post
 card: true
@@ -59,4 +59,4 @@ Videos:
 
 - [33c3 - Technologien für und wider Digitale Souveränität](https://media.ccc.de/v/33c3-8097-technologien_fur_und_wider_digitale_souveranitat)
 
-fyi: blog entry work in progress 040717-1600
+<i>blog entry work in progress 040717-1600</i>
