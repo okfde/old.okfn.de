@@ -42,11 +42,15 @@ Unsere [Empfehlungen](https://github.com/okfde/okfn.de/blob/master/files/blog/20
 - dezentralen Strukturen
 - Infrastruktur für Datenspenden von VerbraucherInnen.
 
-Bzgl. Datenspenden für Projekte kommt demnächst hoffentlich ein neues Projekt (u.a. von [AlgorithmWatch](https://algorithmwatch.org/en/))
 
+Weiterführende aktuelle Informationen:
 
 Veranstaltungshinweis: 30.08 und 01.09 findet die [mydata2017 Konferenz statt](https://mydata2017.org/)
 
-Weiter Bericht zur Thematik von Wolfie Christl
+Bzgl. Datenspenden für Projekte kommt demnächst hoffentlich ein neues Projekt (u.a. von [AlgorithmWatch](https://algorithmwatch.org/en/))
+
+Leseempfehlung:
+[Corporate Surveillance in Everyday Life
+By Wolfie Christl, Cracked Labs, June 2017.](http://crackedlabs.org/en/corporate-surveillance)
 
 fyi: blog entry work in progress 040717-1600
