@@ -1,6 +1,6 @@
 ---
 authors: 
-- Walter Palmetshofer
+- OKF
 date: 2017-06-22 07:00:00
 image:
   src: /files/blog/2017/06/ulm.jpg
