@@ -18,7 +18,7 @@ title: "Ulm Wikidata Hackathon"
 ---
 
 Vom 23. bis 25. Juni fand im [Verschwörhaus in Ulm](https://verschwoerhaus.de/) der #wahldaten Hackathon mit Wikidata statt. 
-Ein Bericht gibt es bei [Wikimedia](https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Kurier#Bericht_vom_Wikidata-Wahldaten-Workshop]
+Ein Bericht gibt es bei [Wikimedia](https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Kurier#Bericht_vom_Wikidata-Wahldaten-Workshop).
 
 Ein vorgestelltes spannendes Projekt aus Österreich ist [Offene Wahlen](http://offenewahlen.at/) für mehr Beteiligung, Transparenz und Innovation. 
 Welches wir auch gerne für Deutschland realisieren würden. Bis zur Bundestagswahl tickt die Uhr.
@@ -26,8 +26,8 @@ Welches wir auch gerne für Deutschland realisieren würden. Bis zur Bundestagsw
 Weiter geht’s mit Wahldaten im Wahlsalon Köln am 07.07.2017. Anmeldung unter [codefor.de/wahlsalons](codefor.de/wahlsalons).
 
 PS: Zum Verschwörhaus, abgeleitet vom [Schwörhaus](https://de.wikipedia.org/wiki/Schw%C3%B6rhaus_(Ulm)) 
-und auch gleich nebenan mitten in der Stadt, sei auf den engagierten Oberbürgermeister verwiesen, der einen gelebten Kontrollverlust
-begrüßt: "Kontrollverlust muss man zulassen, um Innovationen mit Offenheit voranzubringen."
+und auch gleich nebenan mitten in der Stadt, sei auf den engagierten Oberbürgermeister verwiesen, der einen gelebten Kontrollverlust begrüßt: "Kontrollverlust muss man zulassen, um Innovationen mit Offenheit voranzubringen."
+Es ist schön zu sehen, dass auch ausserhalb der ganzen großen Städte neue Räume entstehen.
 
 
 
