@@ -75,11 +75,11 @@ damit in Zusammenhang stehenden Projekte
 * eine nette Büroatmosphäre
 * ein junges und motiviertes Team, das sich auf Dich freut.
  
-Vertragsbeginn: idealerweise 1. August 2017
-Laufzeit: 1 Jahr, Verlängerung möglich
-Zeitlicher Aufwand: 24h/Woche evtl. aufstockbar
-Gehalt: nach TV-L Berlin E12/S1
-Ort: Berlin
+Vertragsbeginn: idealerweise 1. August 2017<br />
+Laufzeit: 1 Jahr, Verlängerung möglich<br />
+Zeitlicher Aufwand: 24h/Woche evtl. aufstockbar<br />
+Gehalt: nach TV-L Berlin E12/S1<br />
+Ort: Berlin<br />
  
 Wenn du Interesse hast, dann schick uns deine Bewerbung bis zum **13.. Juli 2017** per E-Mail an 
 <a href="mailto:geschaeftsfuehrung@okfn.de">geschaeftsfuehrung@okfn.de</a>. Von Bewerbungsfotos und Angaben zu Geburtsdatum 
