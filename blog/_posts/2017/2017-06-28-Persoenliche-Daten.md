@@ -17,13 +17,11 @@ published: true
 title: "Digitale Souveränität" 
 ---
 
-Am 29. Juni wurde in Berlin das Gutachten ["Digitale Souveränität
-Gutachten des Sachverständigenrats für Verbraucherfragen"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Gutachten_Digitale_Souver%C3%A4nit%C3%A4t_.pdf) präsentiert. Zusammen mit den Anna Alberts und Arne Semsrott habe ich dafür eine Studie zum [Wert persönlicher Daten](http://www.svr-verbraucherfragen.de/wp-content/uploads/Open_Knowledge_Foundation_Studie.pdf) erstellt. Sie ist zusätzlich zum Beiratsgutachten veröffentlicht worden, ebenso wie eine weitere Studie von Volker Grassmuck, Rüdiger Weis und Stefan Lucks: ["Technologien für und wider Digitale Souveränität"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Weis_Lucks_Grassmuck_Studie_.pdf). 
+Am 29. Juni wurde in Berlin das Gutachten ["Digitale Souveränität: Gutachten des Sachverständigenrats für Verbraucherfragen"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Gutachten_Digitale_Souver%C3%A4nit%C3%A4t_.pdf) präsentiert. Zusammen mit Anna Alberts und Arne Semsrott habe ich dafür eine Studie zum [Wert persönlicher Daten](http://www.svr-verbraucherfragen.de/wp-content/uploads/Open_Knowledge_Foundation_Studie.pdf) erstellt. Sie ist zusätzlich zum Beiratsgutachten und einer weitere Studie von Volker Grassmuck, Rüdiger Weis und Stefan Lucks veröffentlicht worden: ["Technologien für und wider Digitale Souveränität"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Weis_Lucks_Grassmuck_Studie_.pdf). 
 
-Präsentation jener gibt es [hier.](https://docs.google.com/presentation/d/13eVDm2fAIeNyu9ClZ1oRX8dB8pDhLGdSZ3SkY6kwJX4/edit#slide=id.g20f3ba2f05_1_273)
+Die Präsentation dazu gibt es [hier.](https://docs.google.com/presentation/d/13eVDm2fAIeNyu9ClZ1oRX8dB8pDhLGdSZ3SkY6kwJX4/edit#slide=id.g20f3ba2f05_1_273)
 
-
-Unsere [Empfehlungen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/03/OKF-Der-Wert-pers%C3%B6nlicher-Daten-Empfehlungen.pdf) lauten:
+Unsere [Empfehlungen aus der Studie](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/03/OKF-Der-Wert-pers%C3%B6nlicher-Daten-Empfehlungen.pdf) lauten:
 - Verbraucherzentriertheit stärken
 - Transparenz schaffen und gewährleisten
 - MyData als Standard 
@@ -46,17 +44,12 @@ Zu dem vorgestellten [MyData Modell](https://mydata.org/) gehört:
 <br><br>
 <b>Weiterführende aktuelle Informationen:</b>
 
-Veranstaltungshinweis: 30.08 und 01.09 findet die [mydata2017 Konferenz statt](https://mydata2017.org/)
-
-Bzgl. Datenspenden für Projekte kommt demnächst hoffentlich ein neues Projekt (u.a. von [AlgorithmWatch](https://algorithmwatch.org/en/))
+Veranstaltungshinweis: Am 30. August und 1. September findet die [mydata2017-Konferenz statt](https://mydata2017.org/).
 
 Leseempfehlung:
-[Corporate Surveillance in Everyday Life
-By Wolfie Christl, Cracked Labs, June 2017.](http://crackedlabs.org/en/corporate-surveillance)
+[Corporate Surveillance in Everyday Life By Wolfie Christl, Cracked Labs, June 2017.](http://crackedlabs.org/en/corporate-surveillance)
 
 Videos:
-- [npa57 Vortrag Risiko Scoring von Volker Grassmuck](https://www.youtube.com/watch?list=PLMoiP4YfunXKBa2BFh6EKG3OZhGsm0oME&v=i_Mx3a6zlio)
+- [npa57 Vortrag: "Risiko Scoring" von Volker Grassmuck](https://www.youtube.com/watch?list=PLMoiP4YfunXKBa2BFh6EKG3OZhGsm0oME&v=i_Mx3a6zlio)
 
-- [33c3 - Technologien für und wider Digitale Souveränität](https://media.ccc.de/v/33c3-8097-technologien_fur_und_wider_digitale_souveranitat)
-
-<i>blog entry work in progress 040717-1600</i>
+- [33c3 - "Technologien für und wider Digitale Souveränität"](https://media.ccc.de/v/33c3-8097-technologien_fur_und_wider_digitale_souveranitat)
