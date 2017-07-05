@@ -17,19 +17,15 @@ published: true
 title: "Ulm Wikidata Hackathon" 
 ---
 
-Vom 23. bis 25. Juni fand im [Verschwörhaus in Ulm](https://verschwoerhaus.de/) der #wahldaten Hackathon mit Wikidata statt. 
-Ein Bericht gibt es bei [Wikimedia](https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Kurier#Bericht_vom_Wikidata-Wahldaten-Workshop).
+Vom 23. bis 25. Juni fand im [Verschwörhaus in Ulm](https://verschwoerhaus.de/) der #wahldaten-Hackathon mit Wikidata statt. 
+Ein Bericht dazu gibt es bei [Wikimedia](https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Kurier#Bericht_vom_Wikidata-Wahldaten-Workshop).
 
-Ein vorgestelltes spannendes Projekt aus Österreich ist [Offene Wahlen](http://offenewahlen.at/) für mehr Beteiligung, Transparenz und Innovation. 
-Welches wir auch gerne für Deutschland realisieren würden. Bis zur Bundestagswahl tickt die Uhr.
+Das Verschwörhaus (abgeleitet vom [Schwörhaus](https://de.wikipedia.org/wiki/Schw%C3%B6rhaus_(Ulm)) liegt mitten in der Stadt. Neben einer großartigen Community um das Haus entsteht auch dank dem engagierten Oberbürgermeister ein schöner neuer Raum abseits der größten Städte.
 
-Das [Pad zum Workshop](https://pad.okfn.de/p/wahldaten-ulm).
+Eines der beim Workshop vorgestellten Projekte ist das österreichische [Offene Wahlen](http://offenewahlen.at/), das sich für mehr Beteiligung, Transparenz und Innovation im Zusammenhang mit demokratischen Prozessen einsetzt. Wir planen ein ähnliches Projekt in Deutschland - [Mitarbeit erwünscht](https://github.com/okfde/offenewahlen.de)!
 
-Weiter geht’s mit Wahldaten im Wahlsalon Köln am 07.07.2017. Anmeldung unter [codefor.de/wahlsalons](codefor.de/wahlsalons).
+Das [Pad zum wahldaten-Workshop gibt es hier](https://pad.okfn.de/p/wahldaten-ulm).
 
-PS: Zum Verschwörhaus, abgeleitet vom [Schwörhaus](https://de.wikipedia.org/wiki/Schw%C3%B6rhaus_(Ulm)) 
-und auch gleich nebenan mitten in der Stadt, sei auf den engagierten Oberbürgermeister verwiesen, der einen gelebten Kontrollverlust begrüßt: "Kontrollverlust muss man zulassen, um Innovationen mit Offenheit voranzubringen."
-Es ist schön zu sehen, dass auch ausserhalb der ganzen großen Städte neue Räume entstehen.
+Weiter geht es mit Wahldaten im Wahlsalon Köln am 07.07.2017. Die Anmeldung ist freigeschaltet unter [codefor.de/wahlsalons](codefor.de/wahlsalons).
 
-<i>blog entry work in progress 040717-1600</i>
 
