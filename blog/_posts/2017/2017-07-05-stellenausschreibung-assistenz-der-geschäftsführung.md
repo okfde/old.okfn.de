@@ -15,7 +15,7 @@ card: true
 title: "Assistenz der Geschäftsführung (60% Arbeitszeit)"
 published: true
 jobs: 
-- Assistenz der Geschäftsführung (60% Arbeitszeit)"
+- "Assistenz der Geschäftsführung (60% Arbeitszeit)"
 ---
 
 ### Wer wir sind
@@ -23,7 +23,7 @@ jobs:
 Die Open Knowledge Foundation Deutschland (OKF DE) ist ein gemeinnütziger Verein, der sich für offene Daten und freies 
 Wissen einsetzt und sich dem Aufbau einer digitalen Infrastruktur für die Zivilgesellschaft in Deutschland verschrieben 
 hat.
-Mit unseren Projekten wie zum Beispiel FragDenStaat.de, Jugend hackt, Prototype Fund, Datenschule, Code for Germany, 
+Mit unseren Projekten wie zum Beispiel FragDenStaat.de, Jugend hackt, Prototype Fund, Datenschule, Code for Germany und 
 Open Budgets sind wir der Pionier in der deutschen Open Data-Zivilgesellschaft. Gemeinsam mit der starken 
 Open Data-Community, die ehrenamtlich an verschiedenen Schnittstellen von Gesellschaft und Technologie agiert, 
 beginnen und treiben wir seit 2011 die Debatten um die zivilgesellschaftliche, staatliche, wirtschaftliche und 
@@ -39,7 +39,7 @@ Sponsorings und privaten Spenden zusammen.
 Wir suchen eine kommunikative Person mit mehrjähriger Erfahrung in der Büroorganisation, die eine eigenständige und 
 strukturierte Arbeitsweise pflegt. Wir wünschen uns eine den Vereinszielen nahestehende Verstärkung des Teams, die sich 
 einer von viel ehrenamtlichem und persönlichem Engagement getragenen Nonprofit-Organisation (NPO) verbunden fühlen kann. 
-Du solltest Spass daran, haben mit einem technologieaffinen Team zusammenzuarbeiten. Sehr gute Deutschkenntnisse in Wort 
+Du solltest Spaß daran haben, mit einem technologieaffinen Team zusammenzuarbeiten. Sehr gute Deutschkenntnisse in Wort 
 und Schrift und angemessene Englischkenntnisse setzen wir voraus. Mitbringen solltest du
  
 * eine abgeschlossene kaufmännische Ausbildung oder vergleichbare Qualifikationen
