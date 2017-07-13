@@ -20,8 +20,8 @@ title: "Öffentliche Ankündigung: Das Open Data Gesetz ist in Kraft"
 
 13.07.2017 - Gut Ding braucht Weile. 
 Jahrelanges hinarbeiten, am Ende ging es schneller:
-- 18.05 Bundestag, 
-- 02.06 Bundesrat und 
+- 18.05 im Bundestag beschlossen, 
+- 02.06 im Bundesrat und 
 - gestern endlich im [Bundesgesetzblatt BGBl. I Nr. 45 verkündigt](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117045.pdf), 
 - <b>heute in Kraft getreten</b>:
 
