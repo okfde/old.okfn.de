@@ -33,4 +33,4 @@ Und nochmals danke an alle Beteiligten! <br>
 
 <b>PS:</b> Die Einladung zu Eierlikör oder adäquaten Ersatz im OKF-Büro steht, aufgrund von Terminkollisionen heute leider nicht möglich. 
 
-<i>Und für Interessierte der Kategorie das langsame Bohren harter Bretter. #LBDB <br> nochmals der Hinweis auf das [Gesetzgebungsverfahren](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland)).</i>
+<i>Und für Interessierte der Kategorie das langsame Bohren harter Bretter #LBHB <br> nochmals der Hinweis auf das [Gesetzgebungsverfahren](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland)).</i>
