@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-07-13 00:10:00
 image:
-  src: /files/blog/2017/07/opendata-gesetz-screen.png
+  src: /files/blog/2017/07/egov-gesetz.png
   title: 
   license:
   license_url: 
