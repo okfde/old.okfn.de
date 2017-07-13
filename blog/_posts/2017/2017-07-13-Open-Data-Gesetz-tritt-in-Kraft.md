@@ -31,6 +31,6 @@ zur Änderung des E-Government-Gesetzes](https://github.com/okfde/okfn.de/blob/m
 
 Und nochmals danke an alle Beteiligten! <br>
 
-PS: Die Einladung zu Eierlikör oder adäquaten Ersatz im OKF-Büro steht, aufgrund von Terminkollisionen heute leider nicht möglich. 
+<b>PS:</b> Die Einladung zu Eierlikör oder adäquaten Ersatz im OKF-Büro steht, aufgrund von Terminkollisionen heute leider nicht möglich. 
 
-Und für Interessierte der Kategorie das langsame Bohren harter Bretter. #LBDB <br> nochmals der Hinweis auf das [Gesetzgebungsverfahren](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland)) 
+<i>Und für Interessierte der Kategorie das langsame Bohren harter Bretter. #LBDB <br> nochmals der Hinweis auf das [Gesetzgebungsverfahren](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland)) </i>
