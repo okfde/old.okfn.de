@@ -17,13 +17,16 @@ published: false
 title: "Öffentliche Ankündigung: Das Open Data Gesetz ist in Kraft" 
 ---
 
-13.07.2017 - Gestern endlich im [Bundesgesetzblatt BGBl. I Nr. 45 verkündigt](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117045.pdf), 
-heute in Kraft getreten. Das Open-Data-Gesetz auch bekannt unter [Erstes Gesetz
+13.07.2017 - Gut Ding braucht Weile. 18.05 Bundestag, 02.06 Bundesrat und gestern endlich im [Bundesgesetzblatt BGBl. I Nr. 45 verkündigt](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117045.pdf), 
+heute in Kraft getreten:
+
+Das Open-Data-Gesetz auch bekannt als [Erstes Gesetz
 zur Änderung des E-Government-Gesetzes](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/07/bgbl117s2206_75525.pdf).
 
 
-Gut Ding braucht Weile. <br>
 Das langsame Bohren harter Bretter. <br>
 Und nochmals danke an alle Beteiligten! <br>
 
 PS: Die Einladung zu Eierlikör oder adäquaten Ersatz im OKF-Büro steht, aufgrund von Terminkollisionen heute leider nicht möglich. 
+
+Und für Interessierte nochmals der Hinweis auf [Gesetzgebungsverfahren](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland))
