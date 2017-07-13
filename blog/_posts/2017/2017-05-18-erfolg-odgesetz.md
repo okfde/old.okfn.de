@@ -39,4 +39,4 @@ Das Gesetz wurde am 2. Juni 2017 als [TOP 11 394/17](http://www.bundesrat.de/Sha
 
 Siehe Details zum [Gesetzgebungsprozess in Deutschland](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland)).
 
-Eine Einladung: An diesen ominösen finalen Tag gibt im OKFDE Büro dann Eierlikör oder adäquaten Ersatz.
+Eine Einladung: An diesen ominösen finalen Tag gibt es im OKFDE Büro dann Eierlikör oder adäquaten Ersatz.
