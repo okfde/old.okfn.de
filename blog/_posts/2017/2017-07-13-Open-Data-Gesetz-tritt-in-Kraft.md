@@ -20,7 +20,7 @@ title: "Öffentliche Ankündigung: Das Open Data Gesetz ist in Kraft"
 
 13.07.2017 - Gut Ding braucht Weile. 
 Jahrelanges hinarbeiten, am Ende ging es schneller:
-- [18.05](http://www.podcast.de/episode/332232875/234.+Sitzung+vom+18.05.2017.+TOP+28%3A+%C3%84nderung+des+E-Government-Gesetzes/) im Bundestag beschlossen, 
+- [18.05](http://www.bundestag.de/mediathek?videoid=7111207#url=L21lZGlhdGhla292ZXJsYXk=&mod=mediathek) im Bundestag beschlossen, 
 - [02.06](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11) im Bundesrat und 
 - gestern endlich im [Bundesgesetzblatt BGBl. I Nr. 45 verkündigt](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117045.pdf), 
 - <b>heute in Kraft getreten</b>:
