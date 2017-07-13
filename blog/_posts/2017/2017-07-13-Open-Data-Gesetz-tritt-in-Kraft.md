@@ -15,22 +15,11 @@ type: post
 layout: post
 card: true
 published: true
-title: "Öffentliche Ankündigung: Das Open Data Gesetz ist in Kraft" 
+title: "Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft" 
 ---
 
-13.07.2017 - Gut Ding braucht Weile. 
-Jahrelanges hinarbeiten, am Ende ging es schneller:
-- [18.05](http://www.bundestag.de/mediathek?videoid=7111207#url=L21lZGlhdGhla292ZXJsYXk=&mod=mediathek) im Bundestag in 1m39s beschlossen, 
-- [02.06](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11) im Bundesrat und 
-- gestern endlich im [Bundesgesetzblatt BGBl. I Nr. 45 verkündigt](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117045.pdf), 
-- <b>heute in Kraft getreten</b>:
+Gut Ding will Weile haben. Nachdem es im [Mai im Bundestag beschlossen wurde](http://www.bundestag.de/mediathek?videoid=7111207#url=L21lZGlhdGhla292ZXJsYXk=&mod=mediathek) und im [Juni durch den Bundesrat ging](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11), wurde das Open-Data-Gesetz gestern endlich im [Bundesgesetzblatt verkündet](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl117045.pdf). 
 
-Das Open-Data-Gesetz auch bekannt als [Erstes Gesetz
-zur Änderung des E-Government-Gesetzes](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/07/bgbl117s2206_75525.pdf). Eine kurze inhaltliche Zusammenfassung findet sich [hier](https://okfn.de/blog/2017/05/erfolg-odgesetz/). 
+Das Gesetz firmiert offiziell unter dem Titel [Erstes Gesetz zur Änderung des E-Government-Gesetzes](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/07/bgbl117s2206_75525.pdf). Eine kurze inhaltliche Zusammenfassung findet sich [hier](https://okfn.de/blog/2017/05/erfolg-odgesetz/). 
 
-
-Und nochmals danke an alle Beteiligten! <br>
-
-<b>PS:</b> Die Einladung zu Eierlikör oder adäquaten Ersatz im OKF-Büro steht, aufgrund von Terminkollisionen heute leider nicht möglich. 
-
-<i>Und für Interessierte der Kategorie das langsame Bohren harter Bretter #LBHB <br> nochmals der Hinweis auf das [Gesetzgebungsverfahren](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland)).</i>
+Nochmals vielen Dank an alle Beteiligten!
