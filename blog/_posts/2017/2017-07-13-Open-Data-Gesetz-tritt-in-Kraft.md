@@ -10,7 +10,7 @@ image:
 tags:
 - Open-Data-Gesetz
 - Policy
-- LBDB
+- LBHB
 type: post
 layout: post
 card: true
