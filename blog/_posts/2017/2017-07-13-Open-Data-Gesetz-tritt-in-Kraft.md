@@ -26,7 +26,7 @@ Jahrelanges hinarbeiten, am Ende ging es schneller:
 - <b>heute in Kraft getreten</b>:
 
 Das Open-Data-Gesetz auch bekannt als [Erstes Gesetz
-zur Änderung des E-Government-Gesetzes](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/07/bgbl117s2206_75525.pdf).
+zur Änderung des E-Government-Gesetzes](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/07/bgbl117s2206_75525.pdf). Eine kurze inhaltliche Zusammenfassung findet sich [hier](https://okfn.de/blog/2017/05/erfolg-odgesetz/). 
 
 
 Und nochmals danke an alle Beteiligten! <br>
