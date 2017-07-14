@@ -14,6 +14,7 @@ tags:
 - Policy
 - Zivilgesellschaft
 - Transparenzregister
+- EITI
 type: post
 layout: post
 card: true
@@ -21,7 +22,7 @@ published: true
 title: "Wir müssen in die Zivilgesellschaft investieren" 
 ---
 
-Hoffnung allein reicht nicht. Angesichts von Trump, Brexit und Orbán, angesichts der großen Stimmengewinne von rechtsextremen Parteien bei Wahlen in Frankreich, Österreich und den Niederlande sind die demokratischen Kräfte in Europa gefordert, die Demokratie attraktiver zu machen.
+Hoffnung allein reicht nicht. Angesichts von Donald, Brexit und Orbán, angesichts der großen Stimmengewinne von rechtsextremen Parteien bei Wahlen in Frankreich, Österreich und den Niederlande sind die demokratischen Kräfte in Europa gefordert, die Demokratie attraktiver zu machen.
 
 Ein Teil dieser Aufgabe liegt in der Stärkung von Transparenz und Kontrolle demokratischer Prozesse und Entscheidungen. Mit vielen unserer Projekte arbeiten wir daran, den Staat transparenter und öffentliche Daten fürs Gemeinwohl nutzbar zu machen. Wir wollen Teilhabe, Gerechtigkeit und Selbstermächtigung der Zivilgesellschaft voranbringen. Zum Beispiel arbeiten derzeit in den [Wahlsalons](https://codefor.de/wahlsalons/) Menschen aus unserer Community an der Aufbereitung von Daten zur Bundestagswahl und beim [Storyhunt](https://storyhunt.de/) geht es darum, Ausgaben der Europäischen Union nachzuverfolgen.
 
