@@ -31,3 +31,4 @@ Weiter geht es mit Wahldaten im Wahlsalon Köln am 07.07.2017. Die Anmeldung ist
 
 <b>Update 14.07.17</b> [Bericht von Wikimedia zur Veranstaltung](https://blog.wikimedia.de/2017/07/14/bericht-vom-wikidata-wahldaten-workshop/)
 
+<img src="/files/blog/2017/06/wikidata-Projektergebnisse.png"/>
