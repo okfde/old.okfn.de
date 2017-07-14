@@ -15,9 +15,9 @@ tags:
 type: post
 layout: post
 card: true
-title: "Studentische Mitarbeit für die DEM0KRATIELAB0RE gesucht"
+title: "Studentische Mitarbeit für die Demokratielabore gesucht"
 jobs: 
-- "Studentische Mitarbeit für die DEM0KRATIELAB0RE gesucht"
+- "Studentische Mitarbeit für die Demokratielabore gesucht"
 ---
 
 ### Wartung und Verwaltung des Hardwarepools
@@ -40,10 +40,10 @@ Die Demokratielabore sind ein bundesweites Modellprojekt des Open Knowledge Foun
 
 #### Wünschenswert:
 
-- Grundkenntnisse der Betriebswirtschaft, insbesondere im Bereich  Materialbeschaffung, -verwendung und -administration unter Berücksichtigung nachhaltiger Gesichtspunkte
 - Der Umgang mit Microcontrollern (z.B. Arduino) und Minicomputern (z.B. Raspberry Pi) stellt für dich keine Hürde da.
 - Du hast bereits mit Google Apps gearbeitet.
 - Du hast Spaß daran, dich in neue Themen einzuarbeiten und das Projekt auch über dein Tätigkeitsfeld hinaus mitzudenken.
+- Nice to have: Grundkenntnisse im Bereich Materialbeschaffung, -verwendung und -administration
 
 #### Wir bieten dir:
 - Die Mitarbeit an einem spannenden Projekt mit Modellcharakter. 
@@ -60,6 +60,6 @@ Arbeitsort: Berlin**
 
 <hr>
 
-Wenn du Interesse hast, dann schick uns deine Bewerbung als PDF bis einschließlich **16. Juli 2017** per E-Mail an Sebastian Seitz: **sebastian.seitz@okfn.de**. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen.
+Wenn du Interesse hast, dann schick uns deine Bewerbung als PDF bis einschließlich **23. Juli 2017** per E-Mail an Sebastian Seitz: **sebastian.seitz@okfn.de**. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen.
 Die Bewerbungsgespräche werden voraussichtlich in der letzten Juliwoche stattfinden.
 **Wir freuen uns auf dich!**
