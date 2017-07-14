@@ -34,9 +34,4 @@ Begrüßenswert ist zudem, dass die zentrale Stelle der Bundesregierung, die kü
 
 **[Zum Gesetzestext](https://github.com/arnese/odgesetz/blob/master/Gesetz-Text.md)**
 
-
-Das Gesetz wurde am 2. Juni 2017 als [TOP 11 394/17](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11) Erstes Gesetz zur Änderung des E-Government-Gesetzes im Bundesrat verabschiedet und tritt damit 14 Tage nach der Ankündigung im Bundesgesetzblatt in Kraft (16. Juni plus x-Tage für diverse Vorgänge).
-
-Siehe Details zum [Gesetzgebungsprozess in Deutschland](https://de.wikipedia.org/wiki/Gesetzgebungsverfahren_(Deutschland)).
-
-Eine Einladung: An diesen ominösen finalen Tag gibt es im OKFDE Büro dann Eierlikör oder adäquaten Ersatz.
+Das Gesetz wurde am 2. Juni 2017 als [TOP 11 394/17](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11) Erstes Gesetz zur Änderung des E-Government-Gesetzes im Bundesrat verabschiedet und tritt damit 14 Tage nach der Ankündigung im Bundesgesetzblatt in Kraft.
