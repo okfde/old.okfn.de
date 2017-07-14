@@ -12,7 +12,8 @@ image:
 tags:
 - Open-Data-Gesetz
 - Policy
-- LBHB
+- Zivilgesellschaft
+- Transparenzregister
 type: post
 layout: post
 card: true
