@@ -13,6 +13,7 @@ tags:
 - Transparenz 
 - Offene Daten
 - Open Government
+- EITI
 type: post 
 layout: post 
 card: true
