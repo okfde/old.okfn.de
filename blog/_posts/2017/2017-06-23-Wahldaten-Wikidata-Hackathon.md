@@ -29,3 +29,5 @@ Das [Pad zum wahldaten-Workshop gibt es hier](https://pad.okfn.de/p/wahldaten-ul
 Weiter geht es mit Wahldaten im Wahlsalon Köln am 07.07.2017. Die Anmeldung ist freigeschaltet unter [codefor.de/wahlsalons](codefor.de/wahlsalons).
 
 
+[Update 14.07.17 Bericht von Wikimedia zur Veranstaltung](https://blog.wikimedia.de/2017/07/14/bericht-vom-wikidata-wahldaten-workshop/)
+
