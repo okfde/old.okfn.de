@@ -141,8 +141,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist bei der Open Knowledge Foundation in den Projekten EU Subsidy Stories, OpenBudgets.eu und OffenerHaushalt.de. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und setzt sich für Transparenz von Fiskaldaten ein. Zu seinen Hauptaufgaben zählen Data Mining und Datenanalyse."
-  bio_en: "Michael joined OKF Germany as Data Scientist for the projects: EU Subsidy Stories, OpenBudgets.eu and OffenerHaushalt.de. He studied Public Economics and advocates Transparency of Fiscal Data. His main tasks are Data Mining and Data Analysis."
+  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist im Bereich Finanzieller Transparenz bei der Open Knowledge Foundation. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und arbeitet in den Projekten: Subsidystories.eu, OpenBudgets.eu und OffenerHaushalt.de. Außerdem koordiniert er den zivilgesellschaftlichen Arbeitskreis zur Open Government Partnership in Deutschland, welcher sich für offeneres, transparenteres und partizipativeres Regierungshandeln einsetzt." 
+  bio_en: "Michael joined OKF Germany as a Data Scientist in the field of fiscal transparency. He works for the projects: SubsidyStories.eu, OpenBudgets.eu and OffenerHaushalt.de. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the civil society working group of the Open Government Partnerhsip, which aims towards making the German government more open, accountable, and responsive to citizens." 
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
