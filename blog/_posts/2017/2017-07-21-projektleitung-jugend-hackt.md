@@ -50,8 +50,10 @@ Die Stelle ist ab sofort, spätestens aber bis zum 15.09.17, zu besetzen. Bei de
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
  
-Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang bis zum **08. August 2017** per E-Mail an href="mailto:jobs@okfn.de">jobs@okfn.de</a>. 
+Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang bis zum **08. August 2017** per E-Mail an <a href="mailto:jobs@okfn.de">jobs@okfn.de</a>. 
 
 Die Gespräche finden vom 15.-18. August in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
 
 **Wir freuen uns auf dich!**
+
+Foto: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 Jugend hackt</a> Fotograf: <a href="https://www.flickr.com/photos/okfde/30304323621/in/album-72157675154604846/">Leonard Wolf</a>
