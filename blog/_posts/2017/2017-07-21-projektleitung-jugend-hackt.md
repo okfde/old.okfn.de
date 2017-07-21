@@ -31,6 +31,7 @@ Für die Leitung von Jugend hackt bei der OKF DE sind wir auf der Suche nach ein
 * Professionalisierung der Öffentlichkeitsarbeit (v.a. gegenüber Politik, Medien, ideellen und finanziellen Partnern)
 * Etablierung neuer Fundraisingaktivitäten bzw. Aufrechterhaltung etablierter Kontakte zu Geldgebern
 * Kollegiale Leitung des Berliner Kernteams
+* Organisationsübergreifende Koordination der Projekte im Bildungsbereich
 * Aktive Mithilfe bei der Veranstaltungsorganisation unser großen Berliner Events sowie Unterstützung der Städte- und Länderevents
 
 Wir könnten noch kleinteiliger aufzählen, welche Aktivitäten als nächstes anstehen und welche, bedingt durch unser starkes Wachstum, ein bisschen zu lange liegen geblieben sind. Wir finden es aber spannender und zielführender, von dir zu hören: Mit welchen Fähigkeiten und Erfahrungen bereicherst du Jugend hackt? Wir sind bereit und in der Lage, die anfallenden Tätigkeiten so zu arrangieren, dass sie zu der Person passen, die uns am stärksten überzeugt. 
