@@ -61,5 +61,5 @@ Arbeitsort: Berlin**
 <hr>
 
 Wenn du Interesse hast, dann schick uns deine Bewerbung als PDF bis einschließlich **06. August 2017** per E-Mail an Sebastian Seitz: **sebastian.seitz@okfn.de**. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen.
-Die Bewerbungsgespräche werden voraussichtlich in der letzten Juliwoche stattfinden.
+
 **Wir freuen uns auf dich!**
