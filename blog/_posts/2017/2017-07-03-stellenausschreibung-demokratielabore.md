@@ -52,7 +52,7 @@ Die Demokratielabore sind ein bundesweites Modellprojekt des Open Knowledge Foun
 - Deine Aufgaben und deine Arbeitszeit teilst du dir frei ein. 
 - Wir unterstützen dich gerne in deiner beruflichen Weiterentwicklung.
 
- **Vertragsbeginn: 1. August 2017 <br/>
+ **Vertragsbeginn: ab sofort<br/>
 Laufzeit: bis 31. Dezember 2017 (eine Verlängerung wird angestrebt) <br/>
 Zeitlicher Aufwand: 15h/Woche <br/>
 Gehalt: 700€/Monat <br/>
@@ -60,6 +60,6 @@ Arbeitsort: Berlin**
 
 <hr>
 
-Wenn du Interesse hast, dann schick uns deine Bewerbung als PDF bis einschließlich **23. Juli 2017** per E-Mail an Sebastian Seitz: **sebastian.seitz@okfn.de**. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen.
+Wenn du Interesse hast, dann schick uns deine Bewerbung als PDF bis einschließlich **06. August 2017** per E-Mail an Sebastian Seitz: **sebastian.seitz@okfn.de**. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen.
 Die Bewerbungsgespräche werden voraussichtlich in der letzten Juliwoche stattfinden.
 **Wir freuen uns auf dich!**
