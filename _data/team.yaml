@@ -1,6 +1,6 @@
 - name: Kristina Klein
   img: kristinaklein
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
@@ -10,6 +10,17 @@
   twitter:
   website:
 
+- name: Nadine Evers
+  img: nadineevers
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Nadine ist seit Juni 2017 Geschäftsführerin bei der Open Knowledge Foundation Deutschland e.V. Davor war sie als Mitarbeiterin des Auswärtigen Amts die deutsche Stimme in der EU-Ratsarbeitsgruppe für Humanitäre Hilfe. Beim Roten Kreuz arbeitete sie im Bereich Völkerrecht und als Programmleiterin für die Auslandshilfe im Sudan und in Äthiopien. In Haiti und der Dominikanischen Republik leitete sie Projekte im nationalen Katastrophenschutz. Nadine war zuvor unter anderem Geschäftsführerin des Stiftungskollegs der Robert Bosch Stiftung, wissenschaftliche Referentin im Europäischen Parlament und Beraterin bei der Boston Consulting Group."
+  mail: nadine.evers@okfn.de
+  twitter:
+  website:
+  
 - name: Helene Hahn
   img: helenehahn
   staff: 1
