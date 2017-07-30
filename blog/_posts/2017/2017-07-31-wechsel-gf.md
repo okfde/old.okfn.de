@@ -1,9 +1,9 @@
 ---
 authors: 
 - OKF
-date: 2017-07-17 12:10:00
+date: 2017-07-30 20:10:00
 image:
-  src: /files/blog/2017/07/.jpg
+  src: /static/images/logo_text.png
   title: 
   license:
   license_url: 
@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland" 
 ---
     
