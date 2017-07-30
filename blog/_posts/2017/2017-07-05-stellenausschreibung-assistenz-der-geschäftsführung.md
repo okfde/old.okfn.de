@@ -14,8 +14,6 @@ layout: post
 card: true
 title: "Assistenz der Geschäftsführung (60% Arbeitszeit)"
 published: true
-jobs: 
-- "Assistenz der Geschäftsführung (60% Arbeitszeit)"
 ---
 
 ### Wer wir sind
