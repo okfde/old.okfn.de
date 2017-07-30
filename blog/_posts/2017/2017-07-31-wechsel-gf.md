@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2017-07-30 20:10:00
 image:
-  src: /static/images/logo_text.png
+  src: /files/blog/2017/07/OKFDE_Logo_black.png
   title: 
   license:
   license_url: 
