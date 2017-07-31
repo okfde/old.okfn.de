@@ -3,8 +3,8 @@ author: Matthias Löwe
 date: 2017-07-31 10:00:00
 image:
   src: /files/blog/2017/07/familienlabore-fez.jpg
-  title:
-  license: CC-BY-4.0 OKF DE. Foto: Leonard Wolf
+  title: 
+  license: "CC-BY-4.0 OKF DE. Foto: Leonard Wolf"
 tags: 
 - Vereinbarkeit
 - Prototypen
