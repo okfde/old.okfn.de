@@ -25,16 +25,15 @@ card: true
 
 <p>Zur Präsentation mit dem FEZ-Leiter Bernd Grospitz konnten die Teilnehmenden nicht nur die fertige Stadt bewundern, sondern unter anderem eine Lego-Fotogeschichte zum Zeitmanagement, ein Display-Würfel als Entscheidungshilfe für gemeinsame Aktivitäten und Apps für lokale Veranstaltungen. Auch dabei war eine App, die mithilfe eines sozialen Netzwerks zur besseren Motivation, das Katzenklo zu säubern verhilft. Wenn das nicht kreativ ist!</p>
 
-<p> </p>
+</br>
 
 <p><a href="https://familienlabore.de/ideen/">Alle entstandenen Ideen ansehen..</a></p>
 <p><a href="https://www.flickr.com/photos/okfde/albums/72157686432445456">Alle Fotos ansehen..</a></p>
 
-<p> </p>
+</br>
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/ia1lvL_aFLg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+<div style="position:relative;height:0; width:100%;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/ia1lvL_aFLg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100% !important;left:0" allowfullscreen></iframe></div>
 
-<p> </p>
-<p> </p>
+</br>
 
 <p>Das Projekt entstand in Zusammenarbeit mit dem <a href="http://www.design-research-lab.org/">Design Research Lab</a> und dem <a href="https://www.bmfsfj.de/">Bundesministerium für Familien, Senioren, Frauen und Jugend</a>. Die Workshopmaterialien und -Abläufe werden demnächst öffentlich zur Verfügung gestellt.</p>
