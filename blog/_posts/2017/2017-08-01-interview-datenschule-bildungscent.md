@@ -17,7 +17,7 @@ layout: post
 card: true
 published: true
 title: "Interview der Datenschule mit BildungsCent: Über Schuldaten, Digitalisierung & die gemeisame Datenarbeit"
-----
+---
 
 In den vergangenen Monaten haben wir bei der [Datenschule](https://datenschule.de) gemeinsam mit unserem Partner [BildungsCent e.V.](https://bildungscent.de) intensiv an Schuldaten gearbeitet. Mit Silke Ramelow, Vorstandsvorsitzende von BildungsCent, ließen wir die Zeit Revue passieren und sprachen in einem Interview über die Chancen der Digitalisierung für gemeinnützige Organisationen, die Zusammenarbeit an den Daten und unser gemeinsames Projekt [JedeSchule.de](https://jedeschule.de).  
 
