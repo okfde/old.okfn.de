@@ -15,6 +15,7 @@ tags:
 type: post
 layout: post
 card: true
+published: true
 title: "Interview der Datenschule mit BildungsCent: Über Schuldaten, Digitalisierung & die gemeisame Datenarbeit"
 ----
 
