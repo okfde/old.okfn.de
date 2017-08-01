@@ -18,7 +18,7 @@ people:
     role: BFD-Leistender
 contact:
   website: http://demokratielabore.de
-  twitter: https://twitter.com/demokratielabs/
+  twitter: demokratielabs
   instagram: https://www.instagram.com/demokratielabs/
   facebook:
   mail: info@demokratielabore.de
