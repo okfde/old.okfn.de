@@ -13,7 +13,7 @@ contact:
   website: https://behoerden-online-dienste.de
   github: https://github.com/robbi5/pulse
   github: https://github.com/okfde/behoerden-online-dienste.de
-  twitter: https://twitter.com/httpsjetzt/
+  twitter: httpsjetzt
 de:
   content: |-
     Wie sicher ist die Kommunikation mit meiner Behörde? Diese Frage wollten wir auf dem OpenDataDay 2016 beantworten. Herausgekommen ist <a href="https://https.jetzt">die Kampagnenseite https.jetzt</a>, welche schnell und übersichtlich den Stand der Verschlüsselung in Deutschland aufzeigt, sowie <a href="https://behoerden-online-dienste.de">die Datenbank behorden-online-dienste.de</a>, welche eine detaillierte Übersicht über eGovernment-Dienste und deren Absicherung inkl. Vergleichsmöglichkeiten und Fachinformationen bietet.
