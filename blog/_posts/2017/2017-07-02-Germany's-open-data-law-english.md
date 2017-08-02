@@ -28,11 +28,11 @@ is available to the authorities in electronical form and a structured collection
 was not collected for research purposes.
 
 (3) Divergent from paragraph 1 clause 1 the data does not need to be provided, if
-	* Item 1 the data has no or only a partial right of access exists especially following §§ 3 to 6
-	   of the freedom of information law, a right of access only exists when including third parties,
-	* the data is generated without an assignment by third parties and is provided without a   
+ 1. the data has no or only a partial right of access exists especially following §§ 3 to 6
+   of the freedom of information law, a right of access only exists when including third parties,
+ 2. the data is generated without an assignment by third parties and is provided without a   
        lawful obligation or 
-	* the data is already provided for free on a publicly accessible network. 
+ 3. the data is already provided for free on a publicly accessible network. 
 
 (4) The provision of the data following paragraph 1 clause 1 is to be carried out immediately after collection, as long as the purpose of collection is not impaired, otherwise immediately after the impairment is over. If the immediate provision is not possible due to technical or other grave reasons, the data is to be provided immediately after the impairment is over. 
 
