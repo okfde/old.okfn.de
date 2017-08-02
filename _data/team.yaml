@@ -499,7 +499,20 @@
   mail: "matthiasloewe@okfn.de"
   twitter: sp4c31nv4d3r
   website: matthiasloewe.eu
-  
+
+- name: Jessica Binsch
+  title:
+  img: jessicabinsch
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Jessica gehört zum Team des Prototype Fund. Sie kümmert sich um Kommunikation und arbeitet an der Weiterentwicklung des Projekts mit. Jessica hat zuvor mehrere Jahre lang als Journalistin gearbeitet. Sie hat für überregionale Medien in Deutschland über Digitalisierung, Netzpolitik und Netzaktivismus berichtet. Sie setzt sich dafür ein, dass mehr Menschen die Digitalisierung mitgestalten können."
+  mail: "jessica.binsch@ofkn.de"
+  twitter: jnb
+  website:
+  github:
+
 - name: Xiaowei Chen
   title:
   img: xiaoweichen
