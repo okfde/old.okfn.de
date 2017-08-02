@@ -17,9 +17,9 @@ title: "German Open Data Law in English"
 ---
 We translated the German Open Data Law to make it accessible for the international Open Data community. This is not an official legal translation, but we gave it our very best. The German version can be found below or [here](https://www.gesetze-im-internet.de/egovg/__12a.html).
 
-Law for the advancement of digital public administration 
-	(E-Government-Law - EGovG)
-§ 12a Open Data for public authorities subordinate to the federal administration
+<h2> Law for the advancement of digital public administration 
+	(E-Government-Law - EGovG) </h2>
+<h3> § 12a Open Data for public authorities subordinate to the federal administration </h3>
 
 (1) The public authorities subordinate to the federal administration will provide raw data, obtained fulfilling their public-law duties or through third parties, to be retrieved on publicly accessible networks. A claim for the provision of this data is not founded herewith. 
 
@@ -52,7 +52,7 @@ was not collected for research purposes.
 
 <h2> Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG) </h2>
 
-§ 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung
+<h3> § 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung </h3>
 
 (1) Die Behörden der unmittelbaren Bundesverwaltung stellen unbearbeitete Daten, die sie zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen, zum Datenabruf über öffentlich zugängliche Netze bereit. Ein Anspruch auf die Bereitstellung dieser Daten wird hierdurch nicht begründet.
 
