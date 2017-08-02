@@ -64,9 +64,8 @@ nicht das Ergebnis einer Bearbeitung anderer Daten durch eine Behörde der unmit
 
 (3) Abweichend von Absatz 1 Satz 1 müssen die Daten nicht bereitgestellt werden, wenn
 an den Daten kein oder nur ein eingeschränktes Zugangsrecht insbesondere gemäß den §§ 3 bis 6 des Informationsfreiheitsgesetzes besteht oder ein Zugangsrecht erst nach der Beteiligung Dritter bestünde,
-
-       2. die Daten ohne Auftrag der Behörde von Dritten erstellt und ihr ohne rechtliche Verpflichtung übermittelt werden oder
-       3. die Daten bereits über öffentlich zugängliche Netze entgeltfrei bereitgestellt werden.
+      2. die Daten ohne Auftrag der Behörde von Dritten erstellt und ihr ohne rechtliche Verpflichtung übermittelt werden oder
+      3. die Daten bereits über öffentlich zugängliche Netze entgeltfrei bereitgestellt werden.
 
 (4) Die Bereitstellung der Daten nach Absatz 1 Satz 1 erfolgt unverzüglich nach der Erhebung, sofern der Zweck der Erhebung dadurch nicht beeinträchtigt wird, andernfalls unverzüglich nach Wegfall der Beeinträchtigung. Ist aus technischen oder sonstigen gewichtigen Gründen eine unverzügliche Bereitstellung nicht möglich, sind die Daten unverzüglich nach Wegfall dieser Gründe bereitzustellen.
 
