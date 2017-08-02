@@ -50,9 +50,7 @@ was not collected for research purposes.
 
 
 
-
-
-Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG)
+<h1> Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG)
 
 § 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung
 
