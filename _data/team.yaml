@@ -20,7 +20,7 @@
   mail: nadine.evers@okfn.de
   twitter:
   website:
-  
+
 - name: Helene Hahn
   img: helenehahn
   staff: 1
@@ -164,8 +164,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist im Bereich Finanztransparenz bei der Open Knowledge Foundation. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und arbeitet in den Projekten: Subsidystories.eu, OpenBudgets.eu und OffenerHaushalt.de. Außerdem koordiniert er den zivilgesellschaftlichen Arbeitskreis zur Open Government Partnership in Deutschland, welcher sich für offeneres, transparenteres und partizipativeres Regierungshandeln einsetzt." 
-  bio_en: "Michael joined OKF Germany as a Data Scientist in the field of fiscal transparency. He works for the projects: SubsidyStories.eu, OpenBudgets.eu and OffenerHaushalt.de. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the civil society working group of the Open Government Partnerhsip, which aims towards making the German government more open, accountable, and responsive to citizens." 
+  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist im Bereich Finanztransparenz bei der Open Knowledge Foundation. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und arbeitet in den Projekten: Subsidystories.eu, OpenBudgets.eu und OffenerHaushalt.de. Außerdem koordiniert er den zivilgesellschaftlichen Arbeitskreis zur Open Government Partnership in Deutschland, welcher sich für offeneres, transparenteres und partizipativeres Regierungshandeln einsetzt."
+  bio_en: "Michael joined OKF Germany as a Data Scientist in the field of fiscal transparency. He works for the projects: SubsidyStories.eu, OpenBudgets.eu and OffenerHaushalt.de. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the civil society working group of the Open Government Partnerhsip, which aims towards making the German government more open, accountable, and responsive to citizens."
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
@@ -445,7 +445,7 @@
   twitter: m_neujeffski
   website:
   github: mojeffski
-  
+
 - name: Rebecca Varghese Buchholz
   title:
   img: rebeccabuchholz
@@ -453,13 +453,13 @@
   board: 0
   advisory: 0
   position:
-  bio: "Seit April 2017 leitet Rebecca 2030Watch, das Monitoring-Projekt zur deutschen Nachhaltigkeitsstrategie. Davor war Rebecca Referentin für Welthandel und Investitionsabkommen bei Traidcraft in London und wissenschaftliche Mitarbeiterin bei dem United Nations Research Institute (UNRISD) for Social Development in Genf. Rebecca studierte Volkswirtschaft mit Schwerpunkt Entwicklungspolitik an der School of African and Oriental Studies (University of London) und der University of Cambridge und hat ein Graduate Diploma in Law (London College of Law)." 
+  bio: "Seit April 2017 leitet Rebecca 2030Watch, das Monitoring-Projekt zur deutschen Nachhaltigkeitsstrategie. Davor war Rebecca Referentin für Welthandel und Investitionsabkommen bei Traidcraft in London und wissenschaftliche Mitarbeiterin bei dem United Nations Research Institute (UNRISD) for Social Development in Genf. Rebecca studierte Volkswirtschaft mit Schwerpunkt Entwicklungspolitik an der School of African and Oriental Studies (University of London) und der University of Cambridge und hat ein Graduate Diploma in Law (London College of Law)."
   bio_en: "Since April 2017, Rebecca manages 2030Watch, a civil society monitoring project of SDGs’ implementation in Germany. Prior to joining OKF, Rebecca worked as a Senior Policy Adviser for international trade and investment treaties at Traidcraft in London and as a Research Analyst for the United Nations Research Institute (UNRISD) for Social Development in Geneva. Rebecca graduated in Economics and Development Studies from the School of African and Oriental Studies (BA hons) and the University of Cambridge (MPhil) and holds a Graduate Diploma in Law (London College of Law)."
   mail: "rebecca.buchholz@okfn.de"
   twitter:
   website:
   github:
-  
+
 - name: John David Langlo
   title:
   img: johnlanglo
@@ -467,7 +467,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "John arbeitet als studentische Hilfskraft für 2030Watch und ist dort vornehmlich für Kommunikation zuständig. In Wien hat John internationale Entwicklungspolitik studiert und befindet sich derzeit im Master „Contemporary European Studies: politics, policy and society“ an der University of Bath und der HU Berlin. Praktika absolvierte er unter anderem bei der deutschen Vertretung im UN-Menschenrechtsrat in Genf und beim Deutschlandfunk Kultur in Berlin." 
+  bio: "John arbeitet als studentische Hilfskraft für 2030Watch und ist dort vornehmlich für Kommunikation zuständig. In Wien hat John internationale Entwicklungspolitik studiert und befindet sich derzeit im Master „Contemporary European Studies: politics, policy and society“ an der University of Bath und der HU Berlin. Praktika absolvierte er unter anderem bei der deutschen Vertretung im UN-Menschenrechtsrat in Genf und beim Deutschlandfunk Kultur in Berlin."
   bio_en: "John is a working student at 2030Watch and mainly responsible for communication and research assistance. In Vienna John majored in development studies and currently studies for his postgraduate degree in „Contemporary European Studies: politics, policy and society“ at the Humboldt University Berlin. As an intern John worked for the German permanent mission to the UN Human Rights Council in Geneva and Deutschlandfunk Kultur broadcasting in Berlin."
   mail: "john.langlo@okfn.de"
   twitter:
@@ -508,6 +508,7 @@
   advisory: 0
   position:
   bio: "Jessica gehört zum Team des Prototype Fund. Sie kümmert sich um Kommunikation und arbeitet an der Weiterentwicklung des Projekts mit. Jessica hat zuvor mehrere Jahre lang als Journalistin gearbeitet. Sie hat für überregionale Medien in Deutschland über Digitalisierung, Netzpolitik und Netzaktivismus berichtet. Sie setzt sich dafür ein, dass mehr Menschen die Digitalisierung mitgestalten können."
+  bio_en: "Jessica is part of the Prototype Fund team. She is the communications lead and contributes to strategic development of the project. Previously, Jessica has worked as a journalist for several years. She has covered technology with a focus on tech politics, activism and civil society, and has written for large German media outlets. Her goal is to contribute to making technology more open and to enable more people to contribute to this space."
   mail: "jessica.binsch@ofkn.de"
   twitter: jnb
   website:
