@@ -15,7 +15,7 @@ people:
   - name: Nadine Stammen
     role: Design Lead
   - name: Leonard Wolf
-    role: BFD-Leistender
+    role: Studentischer Mitarbeiter
 contact:
   website: http://demokratielabore.de
   twitter: demokratielabs
