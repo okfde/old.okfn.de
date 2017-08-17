@@ -22,11 +22,13 @@ Die Bundesregierung hat den ersten Aktionsplan Open Government Partnership [besc
 In den nächsten 2 Jahren sollen 15 Verpflichtungen umgesetzt werden. Aus unser Sicht erfreulich sind die Punkte Open Data, 
 Open Data für intelligente Mobilität (Unser Ziel sind offene Nahverkehrsdaten) und Finanztransparenz - Implementierung des EITI-Standards (Unser Ziel sind die dafür notwendigen offenen Register).
 
-Für den nächsten Aktionsplan bleiben noch genügend Arbeitsfelder und Themen übrig, siehe die [Vorschläge der Zivilgesellschaft](https://opengovpartnership.de/files/2017/05/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf).
+Für den nächsten Aktionsplan 2019 - 2021 bleiben noch genügend Arbeitsfelder und Themen übrig, siehe die [Vorschläge der Zivilgesellschaft](https://opengovpartnership.de/files/2017/05/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf).
 
+<i>Details:
 [Teilnahme Deutschlands an der Open Government Partnership (OGP) Erster Nationaler Aktionsplan 2017-2019]( http://www.bmi.bund.de/SharedDocs/Downloads/EN/Broschueren/2017/ogp-aktionsplan-en.pdf?__blob=publicationFile)
 
 [Germany’s participation in the Open Government Partnership (OGP) First National Action Plan 2017-2019](http://www.bmi.bund.de/SharedDocs/Downloads/EN/Broschueren/2017/ogp-aktionsplan-en.pdf?__blob=publicationFile)
+</i>
 
 Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:
 
