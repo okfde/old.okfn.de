@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-08-16 13:10:00
 image:
-  src: /files/blog/2017/07/egov-gesetz.png
+  src: /files/blog/2017/03/Timeline2.png
   title: 
   license:
   license_url: 
@@ -20,9 +20,9 @@ title: "Erster OGP Aktionsplan verabschiedet"
 
 Die Bundesregierung hat den ersten Aktionsplan Open Government Partnership beschlossen.
 In den nächsten 2 Jahren sollen 15 Verpflichtungen umgesetzt werden. Aus unser Sicht erfreulich sind die Punkte Open Data, 
-Open Data für intelligente Mobilität (offene Nahverkehrsdaten) und Finanztransparenz - Implementierung des EITI-Standards.
+Open Data für intelligente Mobilität (Unser Ziel sind offene Nahverkehrsdaten) und Finanztransparenz - Implementierung des EITI-Standards (Unser Ziel sind die dafür notwendigen offenen Register).
 
-Für den nächsten Aktionsplan bleiben noch genügend Arbeitsfelder, übrig siehe die [Vorschläge der Zivilgesellschaft](https://opengovpartnership.de/files/2017/05/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf).
+Für den nächsten Aktionsplan bleiben noch genügend Arbeitsfelder und Themen übrig, siehe die [Vorschläge der Zivilgesellschaft](https://opengovpartnership.de/files/2017/05/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf).
 
 
 Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:
