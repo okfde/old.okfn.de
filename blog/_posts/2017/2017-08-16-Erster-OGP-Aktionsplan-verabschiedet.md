@@ -19,7 +19,7 @@ title: "Erster OGP Aktionsplan verabschiedet"
 ---
 
 Die Bundesregierung hat den ersten Aktionsplan Open Government Partnership beschlossen.
-In den nächsten 2 Jahren sollen 15 Verpflichtungen umgesetzt werden. Aus unser Sicht erfreulich die Punkte Open Data, 
+In den nächsten 2 Jahren sollen 15 Verpflichtungen umgesetzt werden. Aus unser Sicht erfreulich sind die Punkte Open Data, 
 Open Data für intelligente Mobilität (offene Nahverkehrsdaten) und Finanztransparenz - Implementierung des EITI-Standards.
 
 Für den nächsten Aktionsplan bleiben noch genügend Arbeitsfelder übrig siehe die Vorschläge der Zivilgesellschaft.
