@@ -24,11 +24,31 @@ Open Data für intelligente Mobilität (Unser Ziel sind offene Nahverkehrsdaten)
 
 Für den nächsten Aktionsplan 2019 - 2021 bleiben noch genügend Arbeitsfelder und Themen übrig, siehe die [Vorschläge der Zivilgesellschaft](https://opengovpartnership.de/files/2017/05/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf).
 
-<i>Details:
+<br>
+<i>Die 15 Verpflichtungen:
+1: Schaffung von Rahmenbedingungen für die OGP-Teilnahme 
+2: Umsetzung von Open Data in die Verwaltungspraxis
+3: Förderung des Open-Data-Umfeldes
+4: Besserer Zugang und einfache Nutzung von Geoinformationen
+5: Finanztransparenz - Implementierung des EITI-Standards  6: Transparenz in der Entwicklungspolitik 
+7: Open Data für intelligente Mobilität 
+8: Stärkung der Bürgerbeteiligung bei Umwelt und Stadtentwicklung
+9: ElterngeldDigital/Digitalisierung familienbezogener Leistungen 
+10: Wissensnetz für lesbische, schwule, bisexuelle, trans- und intersexuelle bzw. geschlechtliche Menschen 
+11: Initiative Lokale Bündnisse für Familie 
+12: Monitoring der Entwicklung des Frauen- und Männeranteils an Führungsebenen, in Gremien der Privatwirtschaft und im öffentlichen Dienst 
+13: Förderung des freien Zugangs zu wissenschaftlichen Publikationen („Open Access“) 
+14: Das Wissenschaftsjahr 2018 – Arbeitswelten der Zukunft
+15: Bundeswettbewerb „Zusammenleben Hand in Hand“ 
+
+Weiterführende Details:
+
 [Teilnahme Deutschlands an der Open Government Partnership (OGP) Erster Nationaler Aktionsplan 2017-2019]( http://www.bmi.bund.de/SharedDocs/Downloads/EN/Broschueren/2017/ogp-aktionsplan-en.pdf?__blob=publicationFile)
 
 [Germany’s participation in the Open Government Partnership (OGP) First National Action Plan 2017-2019](http://www.bmi.bund.de/SharedDocs/Downloads/EN/Broschueren/2017/ogp-aktionsplan-en.pdf?__blob=publicationFile)
 </i>
+<br>
+<br>
 
 Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:
 
