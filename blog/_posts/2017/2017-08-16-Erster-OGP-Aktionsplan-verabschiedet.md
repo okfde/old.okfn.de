@@ -34,7 +34,7 @@ Die 15 Verpflichtungen:
  - 5. Finanztransparenz - Implementierung des EITI-Standards  6: Transparenz in der Entwicklungspolitik 
  - 7. Open Data für intelligente Mobilität 
  - 8. Stärkung der Bürgerbeteiligung bei Umwelt und Stadtentwicklung
- - 9. ElterngeldDigital/Digitalisierung familienbezogener Leistungen 
+ - 9. Elterngeld Digital/Digitalisierung familienbezogener Leistungen 
  - 10. Wissensnetz für lesbische, schwule, bisexuelle, trans- und intersexuelle bzw. geschlechtliche Menschen 
  - 11. Initiative Lokale Bündnisse für Familie 
  - 12. Monitoring der Entwicklung des Frauen- und Männeranteils an Führungsebenen, in Gremien der Privatwirtschaft und im öffentlichen Dienst 
