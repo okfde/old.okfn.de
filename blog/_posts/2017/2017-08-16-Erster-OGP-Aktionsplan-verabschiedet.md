@@ -26,20 +26,21 @@ Für den nächsten Aktionsplan 2019 - 2021 bleiben noch genügend Arbeitsfelder 
 
 <br>
 Die 15 Verpflichtungen:
- - 1: Schaffung von Rahmenbedingungen für die OGP-Teilnahme 
- - 2: Umsetzung von Open Data in die Verwaltungspraxis
- - 3: Förderung des Open-Data-Umfeldes
- - 4: Besserer Zugang und einfache Nutzung von Geoinformationen
- - 5: Finanztransparenz - Implementierung des EITI-Standards  6: Transparenz in der Entwicklungspolitik 
- - 7: Open Data für intelligente Mobilität 
- - 8: Stärkung der Bürgerbeteiligung bei Umwelt und Stadtentwicklung
- - 9: ElterngeldDigital/Digitalisierung familienbezogener Leistungen 
- - 10: Wissensnetz für lesbische, schwule, bisexuelle, trans- und intersexuelle bzw. geschlechtliche Menschen 
- - 11: Initiative Lokale Bündnisse für Familie 
- - 12: Monitoring der Entwicklung des Frauen- und Männeranteils an Führungsebenen, in Gremien der Privatwirtschaft und im öffentlichen Dienst 
- - 13: Förderung des freien Zugangs zu wissenschaftlichen Publikationen („Open Access“) 
- - 14: Das Wissenschaftsjahr 2018 – Arbeitswelten der Zukunft
- - 15: Bundeswettbewerb „Zusammenleben Hand in Hand“ 
+
+ - 1. Schaffung von Rahmenbedingungen für die OGP-Teilnahme 
+ - 2. Umsetzung von Open Data in die Verwaltungspraxis
+ - 3. Förderung des Open-Data-Umfeldes
+ - 4. Besserer Zugang und einfache Nutzung von Geoinformationen
+ - 5. Finanztransparenz - Implementierung des EITI-Standards  6: Transparenz in der Entwicklungspolitik 
+ - 7. Open Data für intelligente Mobilität 
+ - 8. Stärkung der Bürgerbeteiligung bei Umwelt und Stadtentwicklung
+ - 9. ElterngeldDigital/Digitalisierung familienbezogener Leistungen 
+ - 10. Wissensnetz für lesbische, schwule, bisexuelle, trans- und intersexuelle bzw. geschlechtliche Menschen 
+ - 11. Initiative Lokale Bündnisse für Familie 
+ - 12. Monitoring der Entwicklung des Frauen- und Männeranteils an Führungsebenen, in Gremien der Privatwirtschaft und im öffentlichen Dienst 
+ - 13. Förderung des freien Zugangs zu wissenschaftlichen Publikationen („Open Access“) 
+ - 14. Das Wissenschaftsjahr 2018 – Arbeitswelten der Zukunft
+ - 15. Bundeswettbewerb „Zusammenleben Hand in Hand“ 
 
 <i>
 Weiterführende Details:
