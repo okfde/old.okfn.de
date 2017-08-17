@@ -25,7 +25,7 @@ Open Data für intelligente Mobilität (Unser Ziel sind offene Nahverkehrsdaten)
 Für den nächsten Aktionsplan 2019 - 2021 bleiben noch genügend Arbeitsfelder und Themen übrig, siehe die [Vorschläge der Zivilgesellschaft](https://opengovpartnership.de/files/2017/05/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf).
 
 <br>
-<i>Die 15 Verpflichtungen:
+Die 15 Verpflichtungen:
  - 1: Schaffung von Rahmenbedingungen für die OGP-Teilnahme 
  - 2: Umsetzung von Open Data in die Verwaltungspraxis
  - 3: Förderung des Open-Data-Umfeldes
@@ -41,6 +41,7 @@ Für den nächsten Aktionsplan 2019 - 2021 bleiben noch genügend Arbeitsfelder 
  - 14: Das Wissenschaftsjahr 2018 – Arbeitswelten der Zukunft
  - 15: Bundeswettbewerb „Zusammenleben Hand in Hand“ 
 
+<i>
 Weiterführende Details:
 
 [Teilnahme Deutschlands an der Open Government Partnership (OGP) Erster Nationaler Aktionsplan 2017-2019]( http://www.bmi.bund.de/SharedDocs/Downloads/EN/Broschueren/2017/ogp-aktionsplan-en.pdf?__blob=publicationFile)
