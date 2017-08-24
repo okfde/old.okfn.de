@@ -4,7 +4,7 @@ authors:
 date: 2017-08-24 10:00:00
 image:
   src: /files/blog/2017/08/illustration.png
-  title: Illustrator: Christoph Hoppenbrock
+  title: "Illustrator: Christoph Hoppenbrock"
   license: "CC BY-NC-ND 4.0"
 type: post
 layout: post
