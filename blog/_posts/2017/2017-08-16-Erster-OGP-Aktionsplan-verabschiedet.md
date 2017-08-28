@@ -45,7 +45,7 @@ Die 15 Verpflichtungen:</i>
 
 <i>Weiterführende Details:</i>
 
-<i>[Teilnahme Deutschlands an der Open Government Partnership (OGP) Erster Nationaler Aktionsplan 2017-2019]( https://www.bmi.bund.de/SharedDocs/Downloads/DE/Broschueren/2014/aktionsplan-open-data.pdf?__blob=publicationFile)</i>
+<i>[Teilnahme Deutschlands an der Open Government Partnership (OGP) Erster Nationaler Aktionsplan 2017-2019]( https://www.bmi.bund.de/SharedDocs/Downloads/DE/Themen/ModerneVerwaltung-OeffentlicherDienst/OpenGovernment/ogp-aktionsplan.pdf?__blob=publicationFile)</i>
 
 <i>[Germany’s participation in the Open Government Partnership (OGP) First National Action Plan 2017-2019](http://www.bmi.bund.de/SharedDocs/Downloads/EN/Broschueren/2017/ogp-aktionsplan-en.pdf?__blob=publicationFile)</i>
 
