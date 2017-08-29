@@ -1,7 +1,7 @@
 ---
 authors:
 - Arne Semsrott
-date: 2017-08-30 12:00:00
+date: 2017-08-29 10:00:00
 image:
   src: /files/blog/2017/08/digitalomat.jpg
 type: post
