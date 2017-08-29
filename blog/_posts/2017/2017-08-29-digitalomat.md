@@ -7,7 +7,7 @@ image:
 type: post
 layout: post
 card: true
-published: false
+published: true
 tags:
 - Digital-O-Mat
 title: "Digital-O-Mat geht online: Entscheidungshilfe zur Bundestagswahl"
