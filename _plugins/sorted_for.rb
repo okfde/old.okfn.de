@@ -3,23 +3,9 @@ module Jekyll
     def render(context)
       sorted_collection = collection_to_sort context
       return if sorted_collection.empty?
-      sort_attr = @attributes['sort_by']
-      case_sensitive = @attributes['case_sensitive'] == 'true'
       i = sorted_collection.first
 
-      if sort_attr != nil
-        if i.to_liquid[sort_attr].instance_of? String and not case_sensitive
-          sorted_collection.sort_by! { |i| i.to_liquid[sort_attr].downcase }
-        else
-          sorted_collection.sort_by! { |i| i.to_liquid[sort_attr] }
-        end
-      else
-        if i.instance_of? String and not case_sensitive
-          sorted_collection.sort_by! { |i| i.downcase }
-        else
-          sorted_collection.sort!
-        end
-      end
+      sorted_collection.sort_by! { |i| i.downcase }
 
       original_name = @collection_name
       result = nil
@@ -38,7 +24,7 @@ module Jekyll
     include SortedForImpl
 
     def collection_to_sort(context)
-      return context[@collection_name].dup
+      return @collection_name.evaluate(context).dup
     end
 
     def end_tag
@@ -50,7 +36,7 @@ module Jekyll
     include SortedForImpl
 
     def collection_to_sort(context)
-      return context[@collection_name].keys
+      return @collection_name.evaluate(context).keys
     end
 
     def end_tag
