@@ -328,15 +328,14 @@
 
 - name: Stefan Wehrmeyer
   img: stefanwehrmeyer
-  staff: 0
-  board: 1
+  staff: 1
+  board: 0
   advisory: 0
-  position: Beisitzer
-  bio: "Stefan Wehrmeyer ist Datenjournalist beim gemeinnützigen Recherchebüro CORRECT!V. Seit 2009 engagiert er sich für Open Data Nahverkehr und startete 2011 das Informationsfreiheitsportal [FragDenStaat.de](https://fragdenstaat.de/)."
-  bio_en: "Stefan Wehrmeyer is a data journalist at the investigative office CORRECT!V. Since 2009 he promotes Open Data Nahverkehr and started the Freedom of Information (FOI) portal FragDenStaat.de in 2009."
+  bio: "Stefan Wehrmeyer engagiert sich seit 2009 für Open Data. Im Jahr 2011 startete er das Informationsfreiheitsportal [FragDenStaat.de](https://fragdenstaat.de/)."
+  bio_en: "Since 2009 Stefan Wehrmeyer promotes Open Data and he started the Freedom of Information (FOI) portal FragDenStaat.de in 2011."
   mail: stefan.wehrmeyer@okfn.de
   twitter: stefanwehrmeyer
-  website: http://stefanwehrmeyer.com
+  website: https://stefanwehrmeyer.com
   github: stefanw
 
 - name: Lucy Chambers
