@@ -3,6 +3,7 @@ highlighter: pygments
 fullurl: 'https://okfn.de'
 url: 'https://okfn.de'
 staticurl: /static/
+baseurl: /
 exclude:
   - "CNAME"
   - "Gemfile*"
