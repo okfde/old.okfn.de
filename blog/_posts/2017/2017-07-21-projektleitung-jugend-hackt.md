@@ -14,8 +14,6 @@ layout: post
 card: true
 title: "Projektleitung Jugend hackt bei der OKF DE (30-40h, ab sofort)"
 published: true
-jobs: 
-- "Projektleitung Jugend hackt bei der OKF DE (30-40h, ab sofort)"
 ---
     
 ### Wer wir sind
