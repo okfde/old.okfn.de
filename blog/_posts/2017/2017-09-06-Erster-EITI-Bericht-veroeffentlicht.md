@@ -22,12 +22,17 @@ Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der 1. 
 Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook.com/EITIDeutschland/videos/254272028419241/)
 
 Hiermit auch eine herzliche Einladung: 
+
 <b> Am 19. Oktober findet die Veranstaltung "Mehr Durchblick beim Rohstoffabbau? Der erste EITI-Transparenzbericht in Deutschland" statt</b><br>
-Im Rahmen dieser Veranstaltung erläutern die Akteure der D-EITI Zivilgesellschaft den Bericht detailierter und stehen auch gerne für Auskünfte zur Verfügung.
+Im Rahmen dieser Veranstaltung erläutern die Akteure der D-EITI Zivilgesellschaft den Bericht im Detail und stehen auch gerne für weitere Auskünfte zur Verfügung.
 19:30 Uhr bei der GIZ, Reichpietschufer 20, Berlin
 
 <br>
+
+
 Anbei die Pressemitteilung der Zivilgesellschaft.
+
+
 <br>
 
 <b> Erster deutscher EITI-Bericht veröffentlicht</b><br>
