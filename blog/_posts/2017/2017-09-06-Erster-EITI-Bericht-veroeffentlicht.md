@@ -21,6 +21,8 @@ Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der 1. 
 
 Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook.com/EITIDeutschland/videos/254272028419241/)
 
+Und das neue Datenportal: [rohstofftransparenz.de](rohstofftransparenz.de) 
+
 Hiermit auch eine herzliche Einladung: 
 
 <b> Am 19. Oktober findet die Veranstaltung "Mehr Durchblick beim Rohstoffabbau? Der erste EITI-Transparenzbericht in Deutschland" statt.</b><br>
