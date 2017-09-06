@@ -1,7 +1,7 @@
 ---
 authors: 
 - Walter Palmetshofer
-date: 2017-09-06 11:00:00
+date: 2017-09-06 01:00:00
 image:
   src: /files/blog/2017/09/EITI-abstimmung-09082017.jpg
   title: 
