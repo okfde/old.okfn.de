@@ -17,7 +17,7 @@ published: false
 title: "EITI Erster deutscher EITI-Bericht veröffentlicht " 
 ---
 
-Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der Bericht einstimmig beschlossen. Wir bedanken uns herzlichst bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelange Zusammenarbeit.
+Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der 1. EITI Bericht einstimmig beschlossen. Wir bedanken uns herzlichst bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelange Zusammenarbeit.
 
 Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook.com/EITIDeutschland/videos/254272028419241/)
 
@@ -51,8 +51,7 @@ Hintergrund
 Die globale „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI) engagiert sich seit 2003 für mehr Transparenz und Rechenschaftspflicht im Rohstoffsektor. Deutschland setzt die Initiative seit 2015 um und hat Kandidaten-Status. 
 
 Zu einer erfolgreichen Teilnahme am EITI-Prozess gehören jährliche Berichte gemäß EITI-Standard. Diese bestehen aus einem Abgleich von mit der Rohstoffförderung verknüpften Zahlungen der Rohstoffunternehmen und den entsprechenden Einnahmen der öffentlichen Hand sowie einem Kontextbericht, der Informationen zur nationalen Rohstoffgewinnung bündelt. Gesteuert wird der Umsetzungsprozess in den EITI-Ländern durch Multi-Stakeholder-Gruppen, die sich aus Mitgliedern der öffentlichen Hand, der Wirtschaft und der Zivilgesellschaft zusammensetzen. Die deutsche Multi-Stakeholder-Gruppe hat im März 2015 ihre Arbeit aufgenommen und den ersten deutschen EITI-Bericht am 09. August 2017 im Konsens verabschiedet. 
-Zum ersten deutschen EITI-Bericht: 
-www.d-eiti.de/wp-content/uploads/2017/08/1_D-EITI_Bericht_-fuer_-2016.pdf
+[Zum ersten deutschen EITI-Bericht:](www.d-eiti.de/wp-content/uploads/2017/08/1_D-EITI_Bericht_-fuer_-2016.pdf)
 Für weitere Informationen: www.d-eiti.de
 
 Kontakt
