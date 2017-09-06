@@ -17,7 +17,7 @@ published: false
 title: "EITI Erster deutscher EITI-Bericht veröffentlicht " 
 ---
 
-# Hinweis am 19. Oktober öffentliche EITI Veranstaltung in Berlin!
+<b> Hinweis am 19. Oktober öffentliche EITI Veranstaltung in Berlin! </b>
 
 
 Erster deutscher EITI-Bericht veröffentlicht 
