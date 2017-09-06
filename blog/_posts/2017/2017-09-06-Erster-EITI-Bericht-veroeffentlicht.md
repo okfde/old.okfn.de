@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "EITI Erster deutscher EITI-Bericht veröffentlicht " 
 ---
 
