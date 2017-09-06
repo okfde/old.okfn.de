@@ -14,7 +14,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "EITI Erster deutscher EITI-Bericht veröffentlicht " 
+title: "Erster deutscher EITI-Bericht veröffentlicht" 
 ---
 
 Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der 1. EITI Bericht einstimmig beschlossen. Wir bedanken uns herzlichst bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelange Zusammenarbeit. Am 23. August wurde nach Oslo verschickt, heute um 15:00 wird er in Berlin präsentiert. Hier ist der [1. Bericht](www.d-eiti.de/wp-content/uploads/2017/08/1_D-EITI_Bericht_-fuer_-2016.pdf).
