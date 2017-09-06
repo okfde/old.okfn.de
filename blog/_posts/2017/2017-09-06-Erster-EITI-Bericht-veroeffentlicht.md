@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-09-06 11:00:00
 image:
-  src: /files/blog/2017/03/Timeline2.png
+  src: /files/blog/2017/09/D-EITI-Logo.png
   title: 
   license:
   license_url: 
@@ -16,8 +16,13 @@ card: true
 published: false
 title: "EITI Erster deutscher EITI-Bericht veröffentlicht " 
 ---
+Am 9. August wurde in der MSG (Multi-Stakerholder-Group) der Bericht einstimmig beschlossen. Wir bedanken uns bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelang Zusammenarbeit.
 
-<b> Hinweis am 19. Oktober öffentliche EITI Veranstaltung in Berlin! </b>
+Erklärvideo zu EITI:
+
+<b> Hinweis am 19. Oktober findet die nächste öffentliche EITI Veranstaltung in Berlin statt! </b>
+
+Anbei die Pressemitteilung der Zivilgesellschaft.
 
 
 Erster deutscher EITI-Bericht veröffentlicht 
@@ -54,19 +59,23 @@ Industriegewerkschaft Bergbau, Chemie, Energie
 Abteilungsleiter Energiewende / Nachhaltigkeit
 Telefon: 0511 7631 417
 ralf.bartels@igbce.de
+
 Swantje Fiedler, Stellvertretende Geschäftsführerin
 Forum Ökologisch-Soziale Marktwirtschaft (FÖS)
 Tel.: 030 - 762399130
 swantje.fiedler@foes.de
+
 Jürgen Maier, Geschäftsführer 
 Forum Umwelt und Entwicklung
 Tel.: 030 - 6781 775 88 bzw. 0171-383 6135
 chef@forumue.de
+
 Prof. Dr. Edda Müller, Vorsitzende
 Sylvia Schwab, Leitung Politik und Kommunikation
 Transparency Deutschland
 Tel.: 030 - 54 98 98 0 
 presse@transparency.de
+
 Walter Palmetshofer
 Open Knowledge Foundation Deutschland e.V.
 Tel.: 030 - 57703666 0
