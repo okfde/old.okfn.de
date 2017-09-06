@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-09-06 11:00:00
 image:
-  src: /files/blog/2017/09/D-EITI-Logo.png
+  src: /files/blog/2017/09/EITI-abstimmung-09082017.jpg
   title: 
   license:
   license_url: 
@@ -16,16 +16,17 @@ card: true
 published: false
 title: "EITI Erster deutscher EITI-Bericht veröffentlicht " 
 ---
-Am 9. August wurde in der MSG (Multi-Stakerholder-Group) der Bericht einstimmig beschlossen. Wir bedanken uns bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelang Zusammenarbeit.
 
-Erklärvideo zu EITI:
+Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der Bericht einstimmig beschlossen. Wir bedanken uns herzlichst bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelange Zusammenarbeit.
 
-<b> Hinweis am 19. Oktober findet die nächste öffentliche EITI Veranstaltung in Berlin statt! </b>
+Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook.com/EITIDeutschland/videos/254272028419241/)
+
+<b> Einladung: Am 19. Oktober findet die Veranstaltung "Mehr Durchblick beim Rohstoffabbau? Der erste EITI-Transparenzbericht in Deutschland" statt </b> Im Rahmen dieser Veranstaltung erläutern die Akteure der D-EITI Zivilgesellschaft den Bericht detailierter und stehen auch gerne für Auskünfte zur Verfügung.
+19:30 Uhr bei der GIZ, Reichpietschufer 20, Berlin
 
 Anbei die Pressemitteilung der Zivilgesellschaft.
 
-
-Erster deutscher EITI-Bericht veröffentlicht 
+<b> Erster deutscher EITI-Bericht veröffentlicht</b>
 Zivilgesellschaft begrüßt mehr Transparenz im Rohstoffsektor, fordert aber ambitionierteres Vorgehen
 
 Berlin, 06.09.2017 – Die an der deutschen Transparenzinitiative im Rohstoffsektor (D-EITI) beteiligten zivilgesellschaftlichen Organisationen begrüßen die Veröffentlichung des ersten EITI-Berichts in Deutschland. Der Bericht bietet einen Überblick über den deutschen Rohstoffsektor und legt Zahlungen von rohstoffgewinnenden Unternehmen an die öffentliche Hand sowie die entsprechenden Einnahmen staatlicher Stellen offen. Er wurde von der Zivilgesellschaft gemeinsam mit Vertretern der Wirtschaft und der öffentlichen Hand erarbeitet und im Konsens verabschiedet. 
@@ -55,7 +56,7 @@ Für weitere Informationen: www.d-eiti.de
 
 Kontakt
 Dr. Ralf Bartels
-Industriegewerkschaft Bergbau, Chemie, Energie 
+Industriegewerkschaft Bergbau, Chemie, Energie
 Abteilungsleiter Energiewende / Nachhaltigkeit
 Telefon: 0511 7631 417
 ralf.bartels@igbce.de
