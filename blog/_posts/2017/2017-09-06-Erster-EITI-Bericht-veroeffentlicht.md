@@ -17,6 +17,9 @@ published: false
 title: "EITI Erster deutscher EITI-Bericht veröffentlicht " 
 ---
 
+#Hinweis am 19. Oktober öffentliche EITI Veranstaltung in Berlin!
+
+
 Erster deutscher EITI-Bericht veröffentlicht 
 Zivilgesellschaft begrüßt mehr Transparenz im Rohstoffsektor, fordert aber ambitionierteres Vorgehen
 
