@@ -21,13 +21,13 @@ Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der Ber
 
 Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook.com/EITIDeutschland/videos/254272028419241/)
 
-<b> Einladung: Am 19. Oktober findet die Veranstaltung "Mehr Durchblick beim Rohstoffabbau? Der erste EITI-Transparenzbericht in Deutschland" statt </b>
+<b> Einladung: Am 19. Oktober findet die Veranstaltung "Mehr Durchblick beim Rohstoffabbau? Der erste EITI-Transparenzbericht in Deutschland" statt</b><br>
 Im Rahmen dieser Veranstaltung erläutern die Akteure der D-EITI Zivilgesellschaft den Bericht detailierter und stehen auch gerne für Auskünfte zur Verfügung.
 19:30 Uhr bei der GIZ, Reichpietschufer 20, Berlin
 
 Anbei die Pressemitteilung der Zivilgesellschaft.
 
-<b> Erster deutscher EITI-Bericht veröffentlicht</b>
+<b> Erster deutscher EITI-Bericht veröffentlicht</b><br>
 Zivilgesellschaft begrüßt mehr Transparenz im Rohstoffsektor, fordert aber ambitionierteres Vorgehen
 
 Berlin, 06.09.2017 – Die an der deutschen Transparenzinitiative im Rohstoffsektor (D-EITI) beteiligten zivilgesellschaftlichen Organisationen begrüßen die Veröffentlichung des ersten EITI-Berichts in Deutschland. Der Bericht bietet einen Überblick über den deutschen Rohstoffsektor und legt Zahlungen von rohstoffgewinnenden Unternehmen an die öffentliche Hand sowie die entsprechenden Einnahmen staatlicher Stellen offen. Er wurde von der Zivilgesellschaft gemeinsam mit Vertretern der Wirtschaft und der öffentlichen Hand erarbeitet und im Konsens verabschiedet. 
