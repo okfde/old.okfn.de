@@ -37,6 +37,8 @@ Für den Folgebericht fordern die zivilgesellschaftlichen Organisationen eine de
 
 „Eine weltweite Initiative für Transparenz über Zahlungsströme zwischen Rohstoffsektor und Staat ist wichtig für Gewerkschaften, für Mitbestimmung in den Unternehmen und Teilhabe an der Gesellschaft. Es ist gut, dass auch Deutschland dabei ist und einen ersten Bericht über die Zahlungsströme in unserem Land vorgelegt hat. Transparenz kann helfen, die Debatte über den Bergbau und den Rohstoffsektor in Deutschland zu versachlichen. Denn das ist dringend geboten. Zahlen und Informationen über Beiträge zu Wertschöpfung und öffentlichen Haushalten tragen ihren Teil dazu bei. Daten von Unternehmen, die jetzt noch fehlen, werden hoffentlich bald nachgetragen. Im nächsten Bericht erwarten wir auch Informationen darüber, wie deutsche Unternehmen in Nicht-EITI-Ländern im Rohstoffsektor tätig sind“, so Ralf Bartels, Gewerkschaftssekretär der Industriegewerkschaft Bergbau, Chemie, Energie.
 
+"Wir begrüßen die Initiative ausdrücklich und hoffen, dass der ambitionierte Weg von EITI fortgesetzt wird - vor allem im Bereich von Open Data und einem offenen Transparenzregister für wirtschaftliche Eigentümer", so Walter Palmetshofer von der Open Knowledge Foundation.
+
 Hintergrund
 
 Die globale „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI) engagiert sich seit 2003 für mehr Transparenz und Rechenschaftspflicht im Rohstoffsektor. Deutschland setzt die Initiative seit 2015 um und hat Kandidaten-Status. 
