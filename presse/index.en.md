@@ -11,7 +11,7 @@ If you are looking for specific background information, have concrete questions 
 ## Contact us
 
 Press inquiries
-: Eileen Wagner
+: Arne Semsrott
 
 Email
 : <a href="mailto:presse@okfn.de">presse@okfn.de</a>
