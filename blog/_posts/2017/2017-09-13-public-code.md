@@ -25,7 +25,7 @@ Aktuell sind die Baupläne der öffentlichen Kern-Infrastruktur schlicht nicht f
 
 Mit dem [Prototype Fund](https://prototypefund.de/) unterstützt die Open Knowledge Foundation Deutschland die Entwicklung offener Software.
 
-* Zum offenen Brief: https://publiccode.eu/openletter/
-* Hier mit unterschreiben: https://publiccode.eu/#action
-* Zur Kampagnenseite: https://publiccode.eu
-* Zum Prototype Fund: https://prototypefund.de/
+* [Zum offenen Brief](https://publiccode.eu/openletter/)
+* [Hier mit unterschreiben](https://publiccode.eu/#action)
+* [Zur Kampagnenseite](https://publiccode.eu)
+* [Zum Prototype Fund](https://prototypefund.de/)
