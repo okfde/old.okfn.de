@@ -23,7 +23,7 @@ jobs:  "Praktikant/in für Recherche bei 2030Watch gesucht"
 
 2030Watch ist ein Projekt der Open Knowledge Foundation zum Monitoring der Umsetzung der 2030 Agenda der Vereinten Nationen in Deutschland und anderen Industrieländern. Das 2030Watch Webtool visualisiert 70+ Indikatoren zur Messung der 17 UN Nachhaltigkeitsziele (Sustainable Development Goals - SDGs) in Kooperation mit anderen zivilgesellschaftlichen Organisationen. Darüber hinaus engagiert sich 2030Watch in Öffentlichkeits- und Advocacyarbeit zur Umsetzung der 2030 Agenda.
 
-Für dieses Projekt suchen wir zum schnell möglichsten Zeitpunkt eine/n Praktikant/in um uns bei der Recherche von Indikatoren, vor allen Dingen im ökologischen Bereich, zu helfen.  Wir bieten Dir ein tolles Arbeitsumfeld in einem jungen und sehr dynamischen Team.
+Für dieses Projekt suchen wir zum schnellstmöglichen Zeitpunkt eine/n Praktikant/in, um uns bei der Recherche von Indikatoren, vor allen Dingen im ökologischen Bereich, zu helfen.  Wir bieten Dir ein tolles Arbeitsumfeld in einem jungen und sehr dynamischen Team.
 
 **Anforderungen**
 
