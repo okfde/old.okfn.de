@@ -11,7 +11,6 @@ tags:
 - Demokratie
 - Demokratielabore
 - Ausschreibung
-- Jobs
 type: post
 layout: post
 card: true
