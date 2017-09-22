@@ -1,7 +1,7 @@
 ---
 authors: 
 - OKF
-date: 2017-09-22 
+date: 2017-09-22 10:00:00
 image:
   src: /files/blog/2017/09/kanzleramt.jpg
   title: 
