@@ -3,10 +3,10 @@ authors:
 - OKF
 date: 2017-09-22 10:00:00
 image:
-  src: /files/blog/2017/09/kanzleramt.jpg
-  title: 
-  license: CC BY-NC 2.0
-  license_url: 
+  src: /files/blog/2017/09/kanzleramt-cc0.jpg
+  title: Bundeskanzleramt in Berlin
+  license: CC0
+  license_url: https://pixabay.com/de/berlin-kanzleramt-merkel-2420583/
 tags:
 - Zivilgesellschaft
 - Transparenz 
