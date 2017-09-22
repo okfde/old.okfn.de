@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2017-10-13 14:00:00
 image:
-  src: /files/blog/2017/09/kanzleramt.jpeg
+  src: /files/blog/2017/09/kanzleramt.jpg
   title: 
   license: CC BY-NC 2.0
   license_url: 
@@ -25,7 +25,7 @@ An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderu
 Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern. Das ermöglicht eine bessere Kontrolle des staatlichen Handelns und stärkt das Vertrauen in staatliche Institutionen.
 Wir fordern den Ausbau des Informationsfreiheitsgesetzes zu einem Transparenzgesetz. Ausnahmeregelungen zur Verweigerung von Auskünften müssen reduziert und Gebühren gestrichen werden. Verträge für steuerlich finanzierte Aufträge müssen öffentlich einsehbar sein und als Open Data zur Verfügung gestellt werden. Zudem muss das [Transparenzregister](https://okfn.de/blog/2017/02/transparenzregister/) 
 für wirtschaftliche Eigentümer (Beneficial Ownership) überarbeitet und zu einem frei zugänglichen Informationsportal ausgebaut werden. 
-Das neu gewählte Parlament sollte mit gutem Beispiel vorangehen und Plenarprotokolle, Dokumente und Anträge im Bundestag machinenlesbar und frei nutzbar zur Verfügung stellen. Dabei soll die Webseite Bundestag.de eine Vorbildfunktion für andere Internetseiten der Verwaltung einnehmen.
+Das neu gewählte Parlament sollte mit gutem Beispiel vorangehen und Plenarprotokolle, Dokumente und Anträge im Bundestag machinenlesbar und frei nutzbar zur Verfügung stellen. Dabei soll die Webseite Bundestag.de eine Vorbildfunktion für andere Internetseiten der Verwaltung einnehmen. [Test](https://okfn.de/blog/)
 
 <h3> 2. Digitale Zivilgesellschaft fördern </h3>
 Die Digitalisierung verändert unser Leben und durchdringt alle Bereiche der Gesellschaft. Die Zivilgesellschaft muss ein [wesentlicher Bestandteil](https://okfn.de/blog/2017/07/offenheit/) dieser Veränderung sein und die Welt mitgestalten, in der wir leben wollen. 
