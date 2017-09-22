@@ -47,7 +47,7 @@ Der offene Zugang zu Bildungsmaterialien und wissenschaftlichen Informationen f�
 
 Wir fordern, dass staatlich finanzierte Bildungsmaterialien und Forschungsdaten ohne rechtliche und technische Hürden nutzbar sind. Öffentlich geförderte Inhalte sollten grundsätzlich mit [offenen Lizenzen](http://opendefinition.org/od/2.0/de/) veröffentlicht werden.
 
-### 4. Digitalisierung der Verwaltung voranbringen </h3>
+### 4. Digitalisierung der Verwaltung voranbringen
 Bei der Digitalisierung der Verwaltung in Deutschland gibt es noch Luft nach oben, gerade die Internetauftritte sind oft nicht eingängig und wenig nahbar. Entschiedene Investitionen in digitale Angebote für Bürgerinnen und Bürger sind nötig.
 
 Wir fordern, dass digitale Schnittstellen zwischen Verwaltung und Entwicklerinnen und Entwicklern ausgebaut werden. Dies fängt bei Schnittstellen für Webseiten der Verwaltung an. Wir brauchen mehr personelle Ressourcen in Behörden, um die Digitalisierung der Verwaltung voranzubringen und eine offene Kultur gegenüber Entwicklerinnen und Entwicklern zu etablieren. 
