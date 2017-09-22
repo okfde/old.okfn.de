@@ -42,5 +42,5 @@ Wir fordern, dass staatlich finanzierte Bildungsmaterialien und Forschungsdaten 
 #### 4. Digitalisierung der Verwaltung voranbringen </h3>
 Bei der Digitalisierung der Verwaltung in Deutschland gibt es noch Luft nach oben, gerade die Internetauftritte sind oft nicht eingängig und wenig nahbar. Entschiedene Investitionen in digitale Angebote für Bürgerinnen und Bürger sind nötig.
 Wir fordern, dass digitale Schnittstellen zwischen Verwaltung und Entwicklerinnen und Entwicklern ausgebaut werden. Dies fängt bei Schnittstellen für Webseiten der Verwaltung an. Wir brauchen mehr personelle Ressourcen in Behörden, um die Digitalisierung der Verwaltung voranzubringen und eine offene Kultur gegenüber Entwicklerinnen und Entwicklern zu etablieren. 
-Dabei können eigene Innovations-Einheiten (siehe (USA)[https://18f.gsa.gov/] und (GB)[https://gds.blog.gov.uk/] ) in der Verwaltung helfen, die innerhalb der Verwaltung wirken.
+Dabei können eigene Innovations-Einheiten (siehe [USA](https://18f.gsa.gov/) und [GB](https://gds.blog.gov.uk/)) in der Verwaltung helfen, die innerhalb der Verwaltung wirken.
 Davon profitieren nicht nur Bürgerinnen und Bürger, sondern auch die Verwaltung selbst. Offene Daten, Schnittstellen und einfache Nutzung von digitalen Dienstleistungen steigern die Effizienz und fördern Nahbarkeit und Vertrauen in die Verwaltung.
