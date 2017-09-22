@@ -3,9 +3,9 @@ authors:
 - OKF
 date: 2017-10-13 14:00:00
 image:
-  src: 
+  src: /files/blog/2017/09/kanzleramt.jpeg
   title: 
-  license: CC BY 2.0
+  license: CC BY-NC 2.0
   license_url: 
 tags:
 - Zivilgesellschaft
