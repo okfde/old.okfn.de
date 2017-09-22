@@ -28,7 +28,7 @@ Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger tran
 Wir fordern den Ausbau des Informationsfreiheitsgesetzes zu einem Transparenzgesetz. Ausnahmeregelungen zur Verweigerung von Auskünften müssen reduziert und Gebühren gestrichen werden. Verträge für steuerlich finanzierte Aufträge müssen öffentlich einsehbar sein und als Open Data zur Verfügung gestellt werden. Zudem muss das [Transparenzregister](https://okfn.de/blog/2017/02/transparenzregister/) 
 für wirtschaftliche Eigentümer (Beneficial Ownership) überarbeitet und zu einem frei zugänglichen Informationsportal ausgebaut werden.
 
-Das neu gewählte Parlament sollte mit gutem Beispiel vorangehen und Plenarprotokolle, Dokumente und Anträge im Bundestag machinenlesbar und frei nutzbar zur Verfügung stellen. Dabei soll die Webseite Bundestag.de eine Vorbildfunktion für andere Internetseiten der Verwaltung einnehmen.
+Das neu gewählte Parlament sollte mit gutem Beispiel vorangehen und Plenarprotokolle, Dokumente und Anträge im Bundestag maschinenlesbar und frei nutzbar zur Verfügung stellen. Dabei soll die Webseite Bundestag.de eine Vorbildfunktion für andere Internetseiten der Verwaltung einnehmen.
 
 ### 2. Digitale Zivilgesellschaft fördern 
 Die Digitalisierung verändert unser Leben und durchdringt alle Bereiche der Gesellschaft. Die Zivilgesellschaft muss ein [wesentlicher Bestandteil](https://okfn.de/blog/2017/07/offenheit/) dieser Veränderung sein und die Welt mitgestalten, in der wir leben wollen. 
