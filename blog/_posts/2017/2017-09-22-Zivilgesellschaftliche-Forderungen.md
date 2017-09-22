@@ -23,7 +23,7 @@ An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderu
 
 <h3> 1. Transparenz vorantreiben </h3>
 Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern. Das ermöglicht eine bessere Kontrolle des staatlichen Handelns und stärkt das Vertrauen in staatliche Institutionen.
-Wir fordern den Ausbau des Informationsfreiheitsgesetzes zu einem Transparenzgesetz. Ausnahmeregelungen zur Verweigerung von Auskünften müssen reduziert und Gebühren gestrichen werden. Verträge für steuerlich finanzierte Aufträge müssen öffentlich einsehbar sein und als Open Data zur Verfügung gestellt werden. Zudem muss das [Transparenzregister](https://okfn.de/blog/2017/02/transparenzregister/) 
+Wir fordern den Ausbau des Informationsfreiheitsgesetzes zu einem Transparenzgesetz. Ausnahmeregelungen zur Verweigerung von Auskünften müssen reduziert und Gebühren gestrichen werden. Verträge für steuerlich finanzierte Aufträge müssen öffentlich einsehbar sein und als Open Data zur Verfügung gestellt werden. Zudem muss das [Transparenzregister] (https://okfn.de/blog/2017/02/transparenzregister/) 
 für wirtschaftliche Eigentümer (Beneficial Ownership) überarbeitet und zu einem frei zugänglichen Informationsportal ausgebaut werden. 
 Das neu gewählte Parlament sollte mit gutem Beispiel vorangehen und Plenarprotokolle, Dokumente und Anträge im Bundestag machinenlesbar und frei nutzbar zur Verfügung stellen. Dabei soll die Webseite Bundestag.de eine Vorbildfunktion für andere Internetseiten der Verwaltung einnehmen.
 
