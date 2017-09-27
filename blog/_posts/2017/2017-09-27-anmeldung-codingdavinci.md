@@ -66,7 +66,7 @@ Zusätzlich haben wir einige Specials für euch vorbereitet:
 
 * Workshops zur Arbeit mit offenen Kulturdaten: Wie arbeitet man mit [Wikidata](https://www.wikidata.org)? Wie nutzt man die API der [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/)?
 
-* Workshops zur Einführung in digitale Techniken: Wie nutzt man <a href=”https://unity3d.com/de”>Unity</a> für Augmented- und Virtual Reality? Was ist Physical Computing und IOT (Internet of Things) bzw. wie beginnt man damit zu arbeiten?
+* Workshops zur Einführung in digitale Techniken: Wie nutzt man [Unity](https://unity3d.com/de) für Augmented- und Virtual Reality? Was ist Physical Computing und IOT (Internet of Things) bzw. wie beginnt man damit zu arbeiten?
 
 * Führungen durch das Virtual Reality-Projekt der HTW „CAVE“ (Cave Automatic Virtual Environment).
 
