@@ -64,14 +64,12 @@ Das Unternehmen A. Wetzig baute seit 1878 Windmühlen sowie alle Arten von Müll
 Alle Infos zu dem Kick-Off und der Preisverleihung findet ihr [hier](https://codingdavinci.de/events/berlin/).
 Zusätzlich haben wir einige Specials für euch vorbereitet:  
 
-<ul>
-<li> Workshops zur Arbeit mit offenen Kulturdaten: Wie arbeitet man mit <a href=”https://www.wikidata.org”>Wikidata</a>? Wie nutzt man die API der <a href=”https://www.deutsche-digitale-bibliothek.de/”>Deutsche Digitale Bibliothek</a>? </li>
+* Workshops zur Arbeit mit offenen Kulturdaten: Wie arbeitet man mit [Wikidata](https://www.wikidata.org)? Wie nutzt man die API der [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/)?
 
-<li>Workshops zur Einführung in digitale Techniken: Wie nutzt man <a href=”https://unity3d.com/de”>Unity</a> für Augmented- und Virtual Reality? Was ist Physical Computing und IOT (Internet of Things) bzw. wie beginnt man damit zu arbeiten?</li>
+* Workshops zur Einführung in digitale Techniken: Wie nutzt man <a href=”https://unity3d.com/de”>Unity</a> für Augmented- und Virtual Reality? Was ist Physical Computing und IOT (Internet of Things) bzw. wie beginnt man damit zu arbeiten?
 
-<li>Führungen durch das Virtual Reality-Projekt der HTW „CAVE“ (Cave Automatic Virtual Environment).</li>
-</ul>
+* Führungen durch das Virtual Reality-Projekt der HTW „CAVE“ (Cave Automatic Virtual Environment).
 
 
-Wenn ihr Lust habt, an Coding da Vinci teilzunehmen, dann <a href=”https://ti.to/coding-da-vinci-berlin/2017-kick-off”>meldet euch als Teilnehmer/in an</a> und wir sehen uns am 21. Oktober in der HTW in Berlin!. 
+Wenn ihr Lust habt, an Coding da Vinci teilzunehmen, dann [meldet euch an](https://ti.to/coding-da-vinci-berlin/2017-kick-off) und wir sehen uns am 21. Oktober in der HTW in Berlin!
 
