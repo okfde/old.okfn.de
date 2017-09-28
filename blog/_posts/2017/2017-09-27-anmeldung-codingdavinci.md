@@ -3,7 +3,7 @@ authors:
 - Helene Hahn
 date: 2017-09-27 10:00:00
 image:
-  src: /files/blog/2014/03/klein.png
+  src: /files/blog/2017/09/cdv.png
   title: Coding da Vinci
   license: CC0
   license_url: https://codingdavinci.de/
