@@ -1,7 +1,7 @@
 ---
 authors: 
-- OKF
-date: 2017-09-28 07:00:00
+- Arne Semsrott
+date: 2017-09-28 06:00:00
 image:
   src: /files/blog/2017/09/000000-2.jpg
 tags:
@@ -9,7 +9,7 @@ tags:
 type: post
 layout: post
 card: true
-title: "Unsere neue Kunstedition - Jetzt für Fördermitglieder!" 
+title: "Unsere neue Kunstedition: Jetzt für Fördermitglieder!" 
 ---
 
 Pünktlich zum Internationalen Tag der Informationsfreiheit: Unsere neue Kunstedition ist da!
