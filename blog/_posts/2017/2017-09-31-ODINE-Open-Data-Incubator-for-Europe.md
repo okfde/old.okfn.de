@@ -18,7 +18,7 @@ Insgesamt gab es 5.4 Millionen Euro für Open Data Firmen in 18 Ländern.
 
 Für die kurz Übersicht gibt es diese Infografik:
 {% raw %}
-<iframe src="https://e.infogram.com/_/g1nJ9jOpBlHdpj1zRSiN?src=embed" title="ODINE Recap" width="550" height="5139" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/8f03bbc0-e819-4e13-82bd-2e606bdcb505" style="color:#989898!important;text-decoration:none!important;" target="_blank">ODINE Recap</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<iframe src="https://e.infogram.com/_/g1nJ9jOpBlHdpj1zRSiN?src=embed" title="ODINE Recap" width="550" height="5139" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe>rel="nofollow">Infogram</a></div>
 {% endraw %}
 
 Für Deutschland bedeutete dies mehr als 1 Mio. Euro für den Open Data Bereich von Februar 2015 - Juli 2017.
