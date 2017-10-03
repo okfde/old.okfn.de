@@ -37,9 +37,9 @@ Für Deutschland bedeutete dies mehr als 1 Mio. Euro im Bereich Open Data von Fe
 Das aktuelle Nachfolge Program ist [Datapitch](https://datapitch.eu/) und im Frühjahr 2018 soll es zu einem weiteren Open Data Funding Programme kommen.
 
 Eine spannende Erkenntnis gibt es aus dem aktuellen [IDC-Report zur Evaluierung des Projektes](https://opendataincubator.eu/files/2017/08/ODINE_Final-report_3.0.pdf), 
-wo speziell der wirtschaftliche Vorteil von Transparenz betont wurde (siehe Vergleich Deutschland & UK).
+wo speziell der wirtschaftliche Vorteil von Transparenz betont wurde (siehe Vergleich Deutschland & UK). Zum Beispiel läßt  ein offenes Transparenzregister herzlichst grüßen, es wird in Deutschland noch vermisst!
 
-Z.B. ein offenes Transparenzregister läßt herzlichst grüßen, es wird in Deutschland noch vermisst!
+
 
 
 
