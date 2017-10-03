@@ -33,12 +33,11 @@ Für die kurz Übersicht gibt es diese Infografik:
 von hier
 https://opendataincubator.eu/infographic/
 
-Für Deutschland bedeutete dies mehr als 1 Mio. Euro für den Open Data Bereich von Februar 2015 bis Juli 2017.
-Das Nachfolge Program ist [Datapitch](https://datapitch.eu/), im Frühjahr 2018 soll es zu einem weiteren Open Data Funding Programme kommen.
+Für Deutschland bedeutete dies mehr als 1 Mio. Euro im Bereich Open Data von Februar 2015 bis Juli 2017.
+Das aktuelle Nachfolge Program ist [Datapitch](https://datapitch.eu/) und im Frühjahr 2018 soll es zu einem weiteren Open Data Funding Programme kommen.
 
-
-Eine spannende Erkenntnis gibt es aus dem aktuellen [IDC-Report zur Evaluierung des Projektes[(https://opendataincubator.eu/files/2017/08/ODINE_Final-report_3.0.pdf), 
-wo speziell der wirtschaftliche Vorteil von Tranzparenz betont wurde (siehe Vergleich Deutschland & UK).
+Eine spannende Erkenntnis gibt es aus dem aktuellen [IDC-Report zur Evaluierung des Projektes](https://opendataincubator.eu/files/2017/08/ODINE_Final-report_3.0.pdf), 
+wo speziell der wirtschaftliche Vorteil von Transparenz betont wurde (siehe Vergleich Deutschland & UK).
 
 Z.B. ein offenes Transparenzregister läßt herzlichst grüßen, es wird in Deutschland noch vermisst!
 
