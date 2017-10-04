@@ -13,7 +13,7 @@ card: true
 title: "ODINE - Open Data Incubator for Europe erfolgreich abgeschlossen!" 
 ---
 
-[ODINE](https://opendataincubator.eu/), das mit Abstand beste und startup & SME-freundlichste Programm von H2020, ging erfolgreich zu Ende. Insgesamt gab es 5.4 Millionen Euro für 57 Open Data Projekte und Firmen in 18 Ländern.
+[ODINE](https://opendataincubator.eu/), das mit Abstand beste und startup- & SME-freundlichste Programm von H2020, ging erfolgreich zu Ende. Insgesamt gab es 5.4 Millionen Euro für 57 Open Data Projekte und Firmen in 18 Ländern.
 
 Für Deutschland bedeutete dies mehr als 1 Mio. Euro im Bereich Open Data von Februar 2015 bis Juli 2017.
 Das aktuelle Nachfolge Program ist [Datapitch](https://datapitch.eu/) und im Frühjahr 2018 soll es zu einem weiteren Open Data Funding Programme kommen.
