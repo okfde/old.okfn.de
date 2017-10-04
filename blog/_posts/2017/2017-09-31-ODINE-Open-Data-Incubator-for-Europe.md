@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-09-31 04:00:00
 image:
-  src: /files/blog/2017/09/ODINE-logo.png
+  src: /files/blog/2017/09/ODINE_Logo_RGB.png
 tags:
 - Open Data
 type: post
