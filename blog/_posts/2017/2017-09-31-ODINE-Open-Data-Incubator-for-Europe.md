@@ -1,11 +1,11 @@
 ---
 authors: 
 - Walter Palmetshofer
-date: 2017-09-31 06:00:00
+date: 2017-09-31 04:00:00
 image:
-  src: /files/blog/2017/09/ 
+  src: /files/blog/2017/09/ODINE-logo.png
 tags:
-- Kunst
+- Open Data
 type: post
 layout: post
 published: false
