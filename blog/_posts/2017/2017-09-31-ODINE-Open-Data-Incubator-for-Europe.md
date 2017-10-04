@@ -17,6 +17,8 @@ title: "ODINE - Open Data Incubator for Europe erfolgreich abgeschlossen!"
 
 Für die kurz Übersicht gibt es diese [Infografik](https://opendataincubator.eu/infographic/).
 
+<iframe src="https://e.infogram.com/_/g1nJ9jOpBlHdpj1zRSiN?src=embed" title="ODINE Recap" width="550" height="5139" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
+
 Für Deutschland bedeutete dies mehr als 1 Mio. Euro im Bereich Open Data von Februar 2015 bis Juli 2017.
 Das aktuelle Nachfolge Program ist [Datapitch](https://datapitch.eu/) und im Frühjahr 2018 soll es zu einem weiteren Open Data Funding Programme kommen.
 
