@@ -8,7 +8,7 @@ tags:
 - Open Data
 type: post
 layout: post
-published: false
+published: true
 card: true
 title: "ODINE - Open Data Incubator for Europe erfolgreich abgeschlossen!" 
 ---
