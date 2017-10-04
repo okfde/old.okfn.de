@@ -25,4 +25,4 @@ Für die kurz Übersicht gibt es diese [Infografik](https://opendataincubator.eu
 
 <iframe src="https://e.infogram.com/_/g1nJ9jOpBlHdpj1zRSiN?src=embed" title="ODINE Recap" width="550" height="5139" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe>
 
-Übersicht über die [geförderten Projekte](https://opendataincubator.eu/companies/):
+Übersicht über die [geförderten Projekte](https://opendataincubator.eu/companies/).
