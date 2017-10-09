@@ -35,4 +35,4 @@ Für dieses Projekt suchen wir zum schnellstmöglichen Zeitpunkt eine/n Praktika
 
 Das Praktikum wird vergütet. Die Arbeitszeit ist 15h/Woche in unserem Berliner Büro/eventuell ist Homeoffice möglich. Das Praktikum ist auf drei Monate befristet.
 
-Wenn Du Interesse an der Stelle hast, freuen wir uns über Deine Bewerbung bis zum 27. September! Bewerbungsgespräche sind geplant für die Woche vom 2. Oktober. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen. Deine Bewerbung sende bitte an <a href="mailto:rebecca.buchholz@okfn.de">rebecca.buchholz@okfn.de</a>.
+Wenn Du Interesse an der Stelle hast, freuen wir uns über Deine Bewerbung bis zum 23. Oktober! Bewerbungsgespräche sind geplant bis zum 27. Oktober. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen. Deine Bewerbung sende bitte an <a href="mailto:rebecca.buchholz@okfn.de">rebecca.buchholz@okfn.de</a>.
