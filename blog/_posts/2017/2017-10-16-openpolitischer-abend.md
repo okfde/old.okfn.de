@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2017-10-16 08:00:00
 image:
-  src: /files/blog/2017/07/OKFDE_Logo_black.png
+  src: /files/blog/2017/10/openpolitischerAbend_01.gif
 tags:
 - openpolitischer abend
 type: post
@@ -16,6 +16,7 @@ title: "Der erste openpolitische Abend: NSU, Verfassungsschutz und Transparenz"
 Wir freuen uns sehr, euch alle zu unserem ersten openpolitischen Abend einzuladen! 
 
 Am 13. November ab 19 Uhr begrüßen wir Katharina König und Monchi zu einem Vortrag über die NSU und den Verfassungsschutz in der c-base. Kommt vorbei! Der Eintritt ist frei. Bitte seid zeitig da wegen der begrenzten Raumkapazität. 
+
 <br> c-base e.V. // Mainhall
 <br> Rungestr. 20
 <br> 10179 Berlin
