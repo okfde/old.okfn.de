@@ -28,7 +28,7 @@ IBAN
 BIC
 : GENODEF1ETK
 
-Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem **[Vereinfachten Zuwendungsnachweis][1]
+Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten Zuwendungsnachweis][1]
 [1]:{{ site.url }}/files/verein/OKF_Zuwendungen_vereinfachte Zuwendungsbest.odt.pdf
   <br>
 
