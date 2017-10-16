@@ -15,6 +15,9 @@ title: "Der erste openpolitische Abend: NSU, Verfassungsschutz und Transparenz"
 
 Wir freuen uns sehr, euch alle zu unserem ersten openpolitischen Abend einzuladen! 
 
-Am 13. November ab 19 Uhr begrüßen wir Katharina König und Monchi zu einem Vortrag über die NSU und den Verfassungsschutz in der c-base. Kommt vorbei!
+Am 13. November ab 19 Uhr begrüßen wir Katharina König und Monchi zu einem Vortrag über die NSU und den Verfassungsschutz in der c-base. Kommt vorbei! Der Eintritt ist frei. Bitte seid zeitig da wegen der begrenzten Raumkapazität. 
+<br> c-base e.V. // Mainhall
+<br> Rungestr. 20
+<br> 10179 Berlin
 
 Der openpolitische Abend der Open Knowledge Foundation bringt künftig regelmäßig Menschen zu Themen rund um Transparenz, Offenheit und freies Wissen zusammen. 
