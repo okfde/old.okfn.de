@@ -19,12 +19,9 @@ Am 13. November ab 19 Uhr begrüßen wir Katharina König und Monchi zu einem Vo
 
 Der openpolitische Abend der Open Knowledge Foundation bringt künftig regelmäßig Menschen zu Themen rund um Transparenz, Offenheit und freies Wissen zusammen. 
 
-#Harte Fakten
-
-13.11.17. 
-
-19:00 Uhr
-
+<b>Harte Fakten</b>
+<br> 13.11.17. 
+<br> 19:00 Uhr
 <br> c-base e.V. // Mainhall
 <br> Rungestr. 20
 <br> 10179 Berlin
