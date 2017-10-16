@@ -8,7 +8,7 @@ people:
   - name: Markus Neusch&auml;fer
     role: Projektleitung
   - name: Maximilian Voigt
-    role: Projektassistenz
+    role: Projektmanager
 contact:
   website: https://edulabs.de/
   twitter:

@@ -34,13 +34,10 @@ menu_blog: yes
 
 	<h1>{{ page.title }}</h1>
 	{% if page.image %}
-	<div class="post-image-full" style="background-image: url({{ page.image.src }});" title="{{ page.image.title }}"></div>
-
-	{% if page.image.license %}
-	<div class="row post-image-license">
-		<div class="col-md-10 col-md-offset-1">{{ page.image.license | markdownify }}</div>
+	<div class="post-image-section">
+		<div class="post-image-full" style="background-image: url({{ page.image.src }});" title="{{ page.image.title }}"></div>
+		{% if page.image.license %}<div class="row post-image-license"><div class="col-md-10 col-md-offset-1">{{ page.image.license | markdownify }}</div></div>{% endif %}
 	</div>
-	{% endif %}
 	{% endif %}
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1">

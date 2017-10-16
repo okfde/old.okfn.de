@@ -74,7 +74,7 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012](../files/verein/Freistellungsbescheid-27-Dez-12.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
-Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar.
+Ein aktueller Auszug aus dem Vereinsregister von 2016 ist [hier einsehbar](../files/verein/Vereinsregisterauszug_OKFDE_2016.pdf).
 
 ## Tätigkeitsberichte
 
@@ -94,7 +94,7 @@ Auf der letzten Mitgliederversammlung am 25.01.2016 wurde [Christian Heise]( htt
 zum Vorstandsvorsitzenden, [Friedrich Lindenberg]( https://okfn.de/vorstand/#friedrich-lindenberg) zum stellvertretenden Vorstandsvorsitzenden und [Andreas Pawelke](https://okfn.de/vorstand/#andreas-pawelke) zum Kassenwart gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann]( https://okfn.de/vorstand/#claudia-schwegmann), [Daniel Dietrich]( https://okfn.de/vorstand/#daniel-dietrich), [Lucy Chambers]( https://okfn.de/vorstand/#lucy-chambers),  [Stefan Wehrmeyer]( https://okfn.de/vorstand/#stefan-wehrmeyer) und [Sören Auer]( https://okfn.de/vorstand/#s-ren-auer). Seit August 2014 ist [Kristina Klein](https://okfn.de/team/#kristina-klein) Geschäftsführerin der OKF. 
 
 ## Ethikbeauftragte
-Am 25.01.2016 wurde [Mara Mendes](https://okfn.de/team/#mara-mendes) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden. 
+Am 29.03.2017 wurde [Paula Glaser](https://okfn.de/team/#paula-glaser) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden. 
 
 
 ## Mittelherkunft

@@ -8,6 +8,8 @@ img: projects/offenerhaushalt.jpg
 people:
 - name: Friedrich Lindenberg
   role: Projektleitung
+- name: Michael Peters
+  role: Data Scientist
 contact:
   website: http://offenerhaushalt.de
   twitter: offenerhaushalt

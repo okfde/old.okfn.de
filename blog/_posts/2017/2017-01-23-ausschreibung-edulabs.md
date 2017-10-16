@@ -56,3 +56,5 @@ Die Projektassistenz wird mit TVöD-L 13/S1 vergütet. Die Projektlaufzeit ist v
 Die Gespräche finden in der dritten Februarwoche in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. Wir freuen uns darauf, Dich kennenzulernen!
 
 Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen. Bitte schicke uns Deine Bewerbung (in einer PDF) bis zum 12.2. per E-Mail an **jobs@okfn.de**
+
+*Update: Die Stelle ist bereits vergeben*

@@ -5,10 +5,10 @@ url:
 img: projects/ogp.png
 layout: project
 people:
-  - name: Johanna zum Felde
-    role: Koordination
   - name: Walter Palmetshofer
     role:
+  - name: Michael Peters
+    role: Koordination
 contact:
    website: https://opengovpartnership.de
    twitter: OpenGovGermany

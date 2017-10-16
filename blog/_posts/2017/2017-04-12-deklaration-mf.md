@@ -56,7 +56,51 @@ FSM (Freiwillige Selbstkontrolle Multimedia-Diensteanbieter e. V.)
 ISOC.DE (Internet Society, German Chapter e. V.)
 
 LOAD e. V.
-
+<a id="Update"></a>
 Reporter ohne Grenzen e. V.
 
 Wikimedia Deutschland e. V.
+
+# UPDATE 17.05.2017
+<a id="Pressemitteilung"></a>
+
+Ein lesenswerter Kommentar von Constanze Kurz und Stefan Ullrich
+["Netzwerkdurchsetzungsgesetz 
+Nicht einmal mehr die Simulation von Partizipation"](
+http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/netzwerkdurchsetzungsgesetz-nicht-einmal-mehr-die-simulation-von-partizipation-15015559.html) in der FAZ.
+
+
+# Gemeinsame PM am 18.05.2017 Netzwerkdurchsetzungsgesetz: Breites Bündnis wendet sich mit Appell an
+Fraktionen, Rechtsausschuss und EU-Kommission
+
+Vor gut zwei Wochen brachte eine breite Allianz von
+Wirtschaftsverbänden, netzpolitischen Vereinen,
+Bürgerrechtsorganisationen und Rechtsexperten mit einer Deklaration für
+Meinungsfreiheit (https://deklaration-fuer-meinungsfreiheit.de) ihre
+Sorge um die Auswirkungen des vom Bundeskabinett verabschiedeten
+Netzwerkdurchsetzungsgesetzes zum Ausdruck.
+
+Am Freitag dieser Woche wird der Bundestag in erster Lesung über den
+Gesetzentwurf beraten. Aus diesem Anlass hat sich die Allianz für
+Meinungsfreiheit heute schriftlich an die Fraktionsvorsitzenden von
+CDU/CSU und SPD, an die Mitglieder des Rechtsausschusses sowie an den
+Vizepräsidenten der EU-Kommission gewandt.
+
+In den Schreiben warnen die Bündnispartner erneut vor einem
+gesetzgeberischen Schnellschuss, der die Ursachen sztrafbarer
+menschenfeindlicher Hetze gänzlich außer Acht lässt und zugleich den
+offenen Meinungsaustausch im Netz gefährdet. Neben der Auslagerung
+strafrechtlicher Prüfungen auf Unternehmen bemängelt die Allianz des
+Weiteren auch die Unvereinbarkeit des Gesetzes mit dem EU- und dem
+Verfassungsrecht.
+
+<a id="Letter"></a>
+
+Abschließend appellieren die Bündnispartner an die Parlamentarier, das
+Gesetzesvorhaben kritisch zu überdenken. Zugleich plädieren sie für eine
+gesamtgesellschaftliche Lösung, die von Zivilgesellschaft,
+Internetwirtschaft und Politik in einem strukturierten Prozess gemeinsam
+erarbeitet wird.
+
+# Declaration for Freedom of Expression letter to Andrus Ansip
+[This letter](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/Letter-NetzDG-Ansip.pdf) was sent to Ansip Vice President of the European Commission regarding Network Enforcement Law.

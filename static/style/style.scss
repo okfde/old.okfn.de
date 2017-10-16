@@ -1285,19 +1285,22 @@ header {
     text-align: center;
   }
 
+  .post-image-section {
+    margin-bottom: 40px;
+  }
+
   .post-image-full {
     width: 100%;
     height: 100px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    margin-bottom: 10px;
   }
 
   .post-image-license {
     text-align: center;
-    margin-bottom: 30px;
     font-size: 0.8em;
+    margin-top: 10px;
   }
 
   @include MQ-S() {
