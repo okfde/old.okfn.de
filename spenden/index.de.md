@@ -7,7 +7,7 @@ background: backgrounds/services.jpg
 ---
 Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Fast alle unserer Projekte leben vom ehrenamtlichen Engagement ihrer Unterstützer. Doch auch ehrenamtliches Engagement kostet Geld. Deshalb freuen wir uns über jede Spende, damit wir den Menschen, die sich unter dem Dach der Open Knowledge Foundation Deutschland für freies Wissen, offene Daten und Beteiligung einsetzen, weiterhin eine gute Infrastruktur bieten können. Gern nehmen wir auch projektbezogene Sachspenden an.
 
-Die Open Knowledge Foundation Deutschland ist als gemeinnützig anerkannt.
+Die Open Knowledge Foundation Deutschland ist als gemeinnützig anerkannt ([Nachweis der Gemeinnützigkeit]({{ site.url }}/files/verein/Freistellungsbescheid-21-08-2017.pdf)).
 
 ## Spenden via Banküberweisung
 
@@ -29,9 +29,8 @@ BIC
 : GENODEF1ETK
 
 Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem 
-[Vereinfachten Zuwendungsnachweis.][1]
+[Vereinfachten Zuwendungsnachweis]({{ site.url }}/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
 
-[1]:{{ site.url }}/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf
   <br>
 
 ## Spenden über Betterplace
