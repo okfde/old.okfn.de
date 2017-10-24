@@ -76,7 +76,7 @@ Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar."
 
 We have published our first annual activity report in 2011. On our blog and in our newsletter, we report on our activities on a monthly basis. Here are our annual activity reports:
 
-* [Activity report 2016](/files/verein/OKFDE-Taetigkeitsbericht-2016.pdf)
+<!--* [Activity report 2016](/files/verein/OKFDE-Taetigkeitsbericht-2016.pdf)-->
 * [Activity report 2015](/files/verein/OKFDE-Taetigkeitsbericht-2015.pdf)
 * [Activity report 2014](/files/verein/OKFDE-Taetigkeitsbericht-2014.pdf)
 * [Activity report 2013](/files/verein/OKFDE-Taetigkeitsbericht-2013.pdf)
