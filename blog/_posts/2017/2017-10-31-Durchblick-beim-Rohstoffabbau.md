@@ -23,12 +23,16 @@ Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook
 
 Und das neue Datenportal: [rohstofftransparenz.de](rohstofftransparenz.de) 
 
+Videos:
 
 Einleitung Prof. Dr. Edda Müller  
 <iframe width="640" height="360" src="https://www.youtube.com/embed/EqCd3Trxiug" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 Bewertung und Hintergrundinformationen bzgl. des 1. Bericht von Swantje Fiedler
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Vv3uznhj0WI" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+Herausforderungen für die Zivilgesellschaft von Michael Reckordt
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jLZcVdJdulA" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 [Slides Reckordt](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/10/2017-10-19-Durchblick-beim-Rohstoffabbau-Reckordt.pdf)
 
