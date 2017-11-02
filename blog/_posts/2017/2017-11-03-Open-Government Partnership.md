@@ -33,7 +33,6 @@ Hier sind andere Länder bereits deutlich weiter fortgeschritten: Während das V
 
 In Deutschland wird nun der erste nationale Aktionsplan implementiert, wobei die Zivilgesellschaft im Monitoring unterstützen wird. Außerdem gilt es Open Government auch in den Bundesländern zu verbreiten. Wenn du Lust hast dich im Arbeitskreis OGP zu engagieren, melde dich [hier](https://opengovpartnership.de/arbeitskreis-beitreten/).
 
-Michael koordiniert seit Juli 2017 den Arbeitskreis Open Government Partnership, den Zusammenschluss zivilgesellschaftlicher Organisationen, die sich im deutschen OGP Prozess engagieren. 
 
 
 
