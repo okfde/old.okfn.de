@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Durchblick beim Rohstoffabbau" 
 ---
 
@@ -24,17 +24,19 @@ Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook
 Und das neue Datenportal: [rohstofftransparenz.de](rohstofftransparenz.de) 
 
 
-Videos 
+Einleitung Prof. Dr. Edda Müller  
 <iframe width="640" height="360" src="https://www.youtube.com/embed/EqCd3Trxiug" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-Mit: 
-Prof. Dr. Edda Müller, Vorstandsvorsitzende Transparency International Deutschland e. V. 
-Michael Reckordt, Koordinator AK Rohstoffe 
-Swantje Fiedler, stellvertretende Geschäftsführerin und Leiterin Energiepolitik Forum Ökologisch-Soziale Marktwirtschaft 
-Anne Miehe, Referentin Ressourceneffizienz/Rohstoffpolitik international beim Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
-Christoph Heinrich, Warth&Klein Grant Thornton AG,  Unabhängiger Verwalter D-EITI
-Matthias Wachter, Abteilungsleiter Sicherheit und Rohstoffe BDI e.V., MSG-Mitglied D-EITI
-Moderation: Cathrin Klenck, Referentin Forum Umwelt und Entwicklung, stellv. MSG-
-Mitglied D-EITI
+Bewertung und Hintergrundinformationen bzgl. des 1. Bericht von Swantje Fiedler
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Vv3uznhj0WI" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+Ausblick Prof. Dr. Edda Müller
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QOY8iW5A33g" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+
+Von der Podiumsdiskussion mit Anne Miehe (Referentin Ressourceneffizienz/Rohstoffpolitik international beim Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit), Christoph Heinrich (Warth&Klein Grant Thornton AG,  Unabhängiger Verwalter D-EITI), Matthias Wachter (Abteilungsleiter Sicherheit und Rohstoffe BDI e.V., MSG-Mitglied D-EITI) unter der Moderation von Cathrin Klenck (Referentin Forum Umwelt und Entwicklung, stellv. MSG-
+Mitglied D-EITI) gibt es leider keine Aufnahme. 
+
+
 
 
