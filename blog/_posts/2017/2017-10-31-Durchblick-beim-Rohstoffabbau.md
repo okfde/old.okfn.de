@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2017-10-31 01:00:00
 image:
-  src: /files/blog/2017/09/EITI-abstimmung-09082017.jpg
+  src: /files/blog/2017/10/EITI-20171019_ausblick-edda-mueller.jpg
   title: 
   license:
   license_url: 
@@ -29,6 +29,8 @@ Einleitung Prof. Dr. Edda Müller
 
 Bewertung und Hintergrundinformationen bzgl. des 1. Bericht von Swantje Fiedler
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Vv3uznhj0WI" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+[Slides Reckordt](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/10/2017-10-19-Durchblick-beim-Rohstoffabbau-Reckordt.pdf)
 
 Ausblick Prof. Dr. Edda Müller
 <iframe width="640" height="360" src="https://www.youtube.com/embed/QOY8iW5A33g" frameborder="0" gesture="media" allowfullscreen></iframe>
