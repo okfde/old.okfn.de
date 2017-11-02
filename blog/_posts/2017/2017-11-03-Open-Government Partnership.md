@@ -3,7 +3,7 @@ authors:
 - Michael Peters
 date: 2017-11-02 08:00:00
 image:
-  src: 
+  src: /files/blog/2017/10/ogp-civil-society.jpg
 tags:
 - Open Government Partnership
 type: post	
