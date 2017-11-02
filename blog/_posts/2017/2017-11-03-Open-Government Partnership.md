@@ -1,7 +1,7 @@
 ---
 authors: 
 - Michael Peters
-date: 2017-11-15 08:00:00
+date: 2017-11-02 08:00:00
 image:
   src: 
 tags:
@@ -9,7 +9,7 @@ tags:
 type: post	
 layout: post
 card: true
-published: false
+published: true
 title: "Was macht eigentlich die Open Government Partnership" 
 ---
 
