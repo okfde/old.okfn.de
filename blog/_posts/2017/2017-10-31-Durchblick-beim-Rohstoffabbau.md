@@ -21,7 +21,7 @@ Im Rahmen der Alternativen Rohstoffwoche luden am 19.10.2017 das Forum Ökologis
 
 Erklärvideo zu EITI: [So funktioniert Rohstofftransparenz](https://www.facebook.com/EITIDeutschland/videos/254272028419241/)
 
-Und das neue Datenportal: [rohstofftransparenz.de](rohstofftransparenz.de) 
+Und das neue Datenportal: [rohstofftransparenz.de](http://rohstofftransparenz.de) 
 
 Videos:
 
