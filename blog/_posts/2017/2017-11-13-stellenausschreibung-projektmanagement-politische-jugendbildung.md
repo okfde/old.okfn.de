@@ -1,6 +1,5 @@
 ---
-authors:
-- OKF
+authors: OKF
 date: 2017-11-13
 image:
   src: /files/blog/2017/11/demolabs.jpg
@@ -15,7 +14,6 @@ type: post
 layout: post
 card: true
 title: "Projektmanagement politische Jugendbildung im Projekt Demokratielabore" (50%)"
-published: true
 ---
 
 Die [Demokratielabore](https://demokratielabore.de) sind ein Modellprojekt der OKF, das vom [Bundesministerium für Familie, Senioren, Frauen und Jugend](http://www.bmfsfj.de/) im Rahmen des Bundesprogramms [„Demokratie leben!“](http://www.demokratie-leben.de/) gefördert wird. Wir führen Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir eng mit außerschulischen Jugendeinrichtungen und überregionalen Jugendverbände und Initiativen zusammen – deutschlandweit.
