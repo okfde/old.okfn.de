@@ -15,8 +15,6 @@ title: "Projektmanagement politische Jugendbildung im Projekt Demokratielabore g
 
 Die [Demokratielabore](https://demokratielabore.de) sind ein Modellprojekt der OKF, das vom [Bundesministerium für Familie, Senioren, Frauen und Jugend](http://www.bmfsfj.de/) im Rahmen des Bundesprogramms [„Demokratie leben!“](http://www.demokratie-leben.de/) gefördert wird. Wir führen Workshop- und Aktionsformate mit Jugendlichen im Alter von 12 bis 21 Jahren rund um Digitalisierung, Technologien und gesellschaftliches Miteinander durch. Dazu arbeiten wir eng mit außerschulischen Jugendeinrichtungen und überregionalen Jugendverbände und Initiativen zusammen – deutschlandweit.
 
-Der Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, der sich dem Aufbau einer digitalen Infrastruktur für die Zivilgesellschaft in Deutschland verschrieben hat und seit 2011 die Debatten um die zivilgesellschaftliche, staatliche, wirtschaftliche und politische Verantwortung einer bürgerinnenfreundlichen Technologierevolution vorantreibt. Der Verein ist als Dachorganisation für seine Projekte zu verstehen, die konzeptionell und finanziell mit hoher Eigenverantwortung ausgestattet sind.
-
 Für die Stärkung unseres Projekts **im Bereich der politischen Jugendbildung** sind wir auf der Suche nach einer begeisterungsfähigen, teamstarken, politik- und technikinteressierten Persönlichkeit, die den Zusammenhang zwischen Technologie, Gesellschaft, Jugendbildung und Demokratie versteht. Wir wünschen uns eine Person mit mindestens zwei Jahren Erfahrung in diesem Arbeitsfeld, die unser Team insbesondere beim Aufbau und der Betreuung von lokalen Arbeitsgemeinschaften in der Jugendarbeit verstärkt. 
 
 **Konkret fallen unter anderem folgende Aufgaben an:**
