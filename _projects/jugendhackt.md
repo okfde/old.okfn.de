@@ -9,8 +9,12 @@ img_square: projects/jugendhackt_square.jpg
 people:
   - name: Maria Reimer
     role: Projektleitung
+  - name: Tanja Zagel
+    role: Projektleitung
   - name: Paula Glaser
     role: Organisation
+  - name: Lea Schubert
+    role: Bufdine
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
