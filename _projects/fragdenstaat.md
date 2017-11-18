@@ -11,6 +11,10 @@ people:
     role: Projektleiter
   - name: Stefan Wehrmeyer
     role: Projekt-BDFL
+  - name: Nadine Stammen
+    role: Head of Design
+  - name: Lea Schubert
+    role: Bufdine
 contact:
   website: https://fragdenstaat.de
   twitter: fragdenstaat
