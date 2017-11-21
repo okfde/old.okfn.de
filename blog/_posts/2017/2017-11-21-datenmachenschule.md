@@ -13,10 +13,9 @@ tags:
 - data literacy
 - oer
 - offene daten im unterricht
-title: "Einladung "
+title: "Einladung zur Vorstellung von DatenmachenSchule in Moers"
 ---
 
-**Einladung zur Vorstellung von „DatenmachenSchule" in Moers**
 
 Am **Freitag, den 15. Dezember** stellt die Open Knowledge Foundation Deutschland zusammen mit dem Leiter der Stabsstelle Zentrales E-Government der Stadt Moers Claus Arndt und dem lokalen Chapter des OK Lab Niederrhein ‘**DatenmachenSchule’** vor, eine neue Plattform für offene Daten im Unterricht. Dazu sind Vertreter der Bildungslandschaft, Schüler, Lehrer, und Interessierte herzlich eingeladen. 
 
