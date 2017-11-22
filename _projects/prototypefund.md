@@ -42,8 +42,11 @@ en:
   teaser: for open source projects through the <a href="/projekte/prototypefund/">Protoype Fund</a>.
   subtitle: "1.2 Millions for open source projects"
   content: |-
-     The Prototype Fund is the first publicly funded program for non-profit software in civic tech, data literacy, and data security in Germany. With a grant of up to €30,000 and coaching from a network of experienced mentors, software developers, hackers, and creatives can write code and develop open source prototypes over a period of six months. The project will fund up to 40 projects in the upcoming three years. 
-     You can find the latest information surrounding the application process on the [website](http://prototypefund.de). The project is supported by the [Federal Ministry for Education and Research](https: //www.bmbf.de/en)."
+     The Prototype Fund supports ideas in civic tech, data literacy, data security, and software infrastructure. With a grant of up to 
+     €47.500, software developers, hackers, and creatives can write code and develop open source prototypes. The program will run 
+     from 2016 through 2021. Our goal is to support code for all and strengthen the open source community in Germany. In true open 
+     source spirit, we want to pave the way for further innovation and additional ideas. You can find the latest on our 
+     [website](https://prototypefund.de/en/ ). The Prototype Fund is funded by the Federal Ministry for Research and Education of Germany. 
 
 ---
 
