@@ -71,6 +71,19 @@
   website: http://juliakloiber.com/
   github: juliakloiber
 
+- name: Sarina Balkhausen
+  img: sarinabalkhausen
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Sarina leitet seit Ende 2017 das Projekt «Code for Germany» und ist Expertin für interne und externe Kommunikation. Sie arbeitete als Redakteurin und Datenanalystin beim Blog Jung & Naiv und bei der gemeinnützigen Gesellschaft Correctiv in Berlin und war Übersetzerin des Campus-Startups Junior Entreprise EPFL in Lausanne, Schweiz. Ihre Herzensthemen sind digitale Bildung, Inklusion und IT-Sicherheit."
+  bio_en: "Since the end of 2017, Sarina leads the project «Code for Germany». She is an expert for internal and external communications. As a journalist and data analyst, she has worked with the blog Jung & Naiv and with the non-profit organization Correctiv in Berlin, and has translated for the campus startup Junior Entreprise EPFL in Lausanne, Switzerland. Subjects most dear to her include digital education, inclusion and IT security."
+  mail: sarina.balkhausen@okfn.de
+  twitter: sarinabeta
+  website:
+  github: resarina
+
 - name: Maria Reimer
   img: mariareimer
   staff: 1
