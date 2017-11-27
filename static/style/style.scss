@@ -698,10 +698,8 @@ header {
   display: inline-block;
   line-height: 2em;
   border: 2px solid $okf-primary;
-  padding: 0.5em;
-  text-align: center;
+  padding: 0.5em 1em;
   color: $okf-primary;
-  width: 100%;
 
   &:hover {
     text-decoration: none;
@@ -732,7 +730,24 @@ header {
     border-color: darken(#fff, 20%);
     color: darken(#fff, 20%);
   }
+}
 
+.light-section {
+  background-color: #fff;
+  color: $okf-secondary;
+
+  h2 {
+    color: $okf-secondary;
+  }
+
+  .highlight-link {
+    background-color: $okf-secondary;
+    color: #fff;
+  }
+
+  .highlight-link:hover {
+    background-color: lighten($okf-secondary, 10%);
+  }
 }
 
 .padded-row {
