@@ -539,7 +539,7 @@ header {
   transition: transform .4s 0s, visibility 0s .4s;
 
   /* this creates the subtle slide in animation of the navigation */
-  @include transform(translateX(80px));
+  @include transform(translateX(260px));
 
   .language-toggle {
     margin-top: 10px;
