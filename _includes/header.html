@@ -1,10 +1,8 @@
 <header class="fixed">
 	<a class="header-logo" href="{{site.baseurl}}/">
 		<div class="header-logo-img">
-			<img class="logo" src="{{ site.staticurl }}images/logo_white.png" alt="Open Knowledge Foundation Deutschland" />
+			<img src="{{ site.staticurl }}images/logo_black.svg" alt="Open Knowledge Foundation Deutschland" />
 		</div>
-		<span class="header-brand-full">Open Knowledge Foundation Deutschland</span>
-		<span class="header-brand-small">OKF DE</span>
 	</a>
 	<nav class="header-nav nav-items">
 		<ul>
@@ -17,10 +15,10 @@
 				<div class="language-toggle">
 				{% if site.lang == "de" %}
 				{% capture link1 %}{{ site.baseurl_root }}/en{{ page.url |replace_first:"index.html"}}{% endcapture %}
-				<a href="{{ link1 }}" >EN</a><br/>DE
+				DE/<a href="{{ link1 }}" >EN</a>
 				{% else if site.lang == "en" %}
 				{% capture link2 %}{{ site.baseurl_root }}{{ page.url |replace_first:"index.html" }}{% endcapture %}
-				EN<br/><a href="{{ link2 }}">DE</a>
+				<a href="{{ link2 }}">DE</a>/EN
 				{% endif %}
 				</div>
 			</li>
