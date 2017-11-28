@@ -8,3 +8,4 @@ __posts/
 .idea/
 .bundle/
 .gem/
+vendor/
