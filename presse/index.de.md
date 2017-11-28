@@ -11,7 +11,7 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 ## Kontakt
 
 Ansprechpartner
-: Arne Semsrott
+: Michael Peters
 
 E-Mail
 : <a href="mailto:presse@okfn.de">presse@okfn.de</a>
