@@ -16,6 +16,8 @@ people:
     role: Program Management
   - name: Jessica Binsch
     role: Head of Communications and Outreach
+  - name: Sarina Balkhausen
+    role: Project Manager
 contact:
   website: http://prototypefund.de
   twitter: prototypefund

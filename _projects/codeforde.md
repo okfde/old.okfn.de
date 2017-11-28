@@ -6,14 +6,8 @@ img: projects/codeforde.jpg
 img_square: projects/codeforde_square.jpg
 layout: project
 people:
-  - name: Julia Kloiber
-    role: Projektleitung
-  - name: Fiona Krakenbürger
-    role: Projektassistenz
-  - name: Eileen Wagner
-    role: Projektassistenz
-  - name: Elisa Lindinger
-    role: Projektassistenz
+  - name: Sarina Balkhausen
+    role: Project Manager
 contact:
   website: http://codefor.de
   twitter: codeforde
