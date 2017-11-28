@@ -17,7 +17,7 @@ people:
   - name: Jessica Binsch
     role: Head of Communications and Outreach
   - name: Sarina Balkhausen
-    role: Project Manager, Community Manager Code for Germany
+    role: Project Manager & Community Organizer Code for Germany
 contact:
   website: http://prototypefund.de
   twitter: prototypefund
