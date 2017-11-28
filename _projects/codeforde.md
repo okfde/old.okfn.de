@@ -7,7 +7,7 @@ img_square: projects/codeforde_square.jpg
 layout: project
 people:
   - name: Sarina Balkhausen
-    role: Project Manager
+    role: Project Manager, Community Manager
 contact:
   website: http://codefor.de
   twitter: codeforde
