@@ -1,5 +1,5 @@
 ---
-authors: OKF
+authors: Jasmin Helm
 date: 2017-11-30
 image:
   src: /files/blog/2017/11/abschlussworkshop.jpg 
