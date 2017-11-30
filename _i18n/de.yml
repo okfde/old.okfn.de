@@ -73,7 +73,7 @@ pagination:
 start:
   Slogan: Offenes Wissen<br/>für die digitale Gesellschaft
   Intro: >
-    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br/>
+    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br class="hidden-xs hidden-sm"/>
     der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt.
   Willkommen: >
     Hier kannst du mehr über unsere <a href="/verein/">Organisation</a>, unsere <a href="/mission/">Ziele</a> und unsere <a href="/projekte/">Projekte</a> erfahren.
