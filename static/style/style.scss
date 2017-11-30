@@ -258,7 +258,11 @@ hr {
 
   ul > li > a.nav-link:hover:before, ul > li.active > a.nav-link:before {
     transform: scaleX(1);
-    border-bottom: 3px solid #fff;
+    border-bottom: 3px solid $okf-header-color;
+  }
+
+  ul > li > a.nav-link.nav-link-highlight:hover:before, ul > li.active > a.nav-link-highlight:before {
+    border-bottom-color: $okf-highlight;
   }
 
   &.nav-items-right {
