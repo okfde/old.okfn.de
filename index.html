@@ -40,18 +40,22 @@ description: Offenes Wissen für die digitale Gesellschaft
 	</div>
 </div>
 
-<div class="dark-section">
+<div class="light-section">
 	<div class="container padded-row">
 		<div class="row">
 			<div class="col-md-12">
 				<h2>{% t start.Spenden %}</h2>
-				<p>{% t start.SpendenText %}</p>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2 col-xs-12">
-				<p><a href="{{ site.baseurl }}/spenden/" class="highlight-link">{% t start.SpendenJa %}</a></p>
-				<p><a href="{{ site.baseurl }}/mission/" class="highlight-link">{% t start.SpendenNein %}</a></p>
+			<img class="col-md-5 col-md-offset-1" style="max-width: 100%" src="{{ site.staticurl }}images/campaign/okf_adjectives.gif" alt="unabhängig, überparteilich, gemeinnützig"/>
+		</div>
+		<div class="row">
+			<div class="col-sm-7 col-sm-offset-5 col-xs-12">
+				<p>{% t start.SpendenText %}</p>
+				<p>
+          <a href="{{ site.baseurl }}/spenden/" class="highlight-link">{% t start.SpendenJa %}</a>
+        </p>
 			</div>
 		</div>
 	</div>
@@ -99,4 +103,3 @@ description: Offenes Wissen für die digitale Gesellschaft
 		</div>
 	</div>
 </div>
-

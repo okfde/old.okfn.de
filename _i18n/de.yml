@@ -3,7 +3,7 @@ navig:
   Projekte: Projekte
   Blog: Blog
   Services: Services
-  Spenden: Spenden
+  Spenden: Unterstützen
   Mehr: Mehr
   Team: Team
   Vorstand: Vorstand
@@ -16,7 +16,7 @@ titles:
   Impressum: Impressum
   Tags: Tags im Blog
   Jobs: Stellenangebote & Praktika
-  Spenden: Spenden
+  Spenden: Unterstützen
 themen:
   Themen: Themen
   Mehr: mehr erfahren
@@ -73,16 +73,14 @@ pagination:
 start:
   Slogan: Offenes Wissen<br/>für die digitale Gesellschaft
   Intro: >
-    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br/>
+    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br class="hidden-xs hidden-sm"/>
     der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt.
   Willkommen: >
     Hier kannst du mehr über unsere <a href="/verein/">Organisation</a>, unsere <a href="/mission/">Ziele</a> und unsere <a href="/projekte/">Projekte</a> erfahren.
-  Spenden: Spenden
+  Spenden: Unsere Arbeit ist
   SpendenText: >
-    Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Fast alle unserer Projekte leben vom ehrenamtlichen Engagement ihrer Unterstützer. Doch auch ehrenamtliches Engagement kostet Geld.
-    Deshalb freuen wir uns über jede Spende, damit wir den Menschen, die sich unter dem Dach der Open Knowledge Foundation Deutschland für freies Wissen, offene Daten und Beteiligung einsetzen, weiterhin eine gute
-    Infrastruktur bieten können. Gern nehmen wir auch projektbezogene Sachspenden an!
-  SpendenJa: Find ich gut. Da will ich spenden.
+    Bitte spenden Sie uns, damit wir uns weiterhin effektiv für freies Wissen, offene Daten und Beteiligung einsetzen können.
+  SpendenJa: Die OKF unterstützen
   SpendenNein: Stop. Erstmal mehr erfahren.
   Newsletter: Newsletter
   NewsletterText: >
