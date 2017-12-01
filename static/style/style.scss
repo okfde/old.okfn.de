@@ -1268,7 +1268,8 @@ header {
   .post-meta {
     font-size: 0.8em;
     color: $light-text-color;
-    line-height: 1.3em;
+    line-height: 0.75em;
+    margin-top: 10px;
 
     > a {
       color: $light-text-color;
