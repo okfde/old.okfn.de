@@ -699,15 +699,18 @@ header {
 
 .highlight-link {
   display: inline-block;
-  line-height: 2em;
-  border: 2px solid $okf-primary;
-  padding: 0.5em 1em;
-  color: $okf-primary;
+  padding: 0.5em 0.5em;
+  color: $white;
+  background-color: $okf-primary;
+  -webkit-transition: background-color 0.5s ease-out;
+  -moz-transition: background-color 0.5s ease-out;
+  -o-transition: background-color 0.5s ease-out;
+  transition: background-color 0.5s ease-out;
 
   &:hover {
     text-decoration: none;
-    color: darken($okf-primary, 20%);
-    border-color: darken($okf-primary, 20%);
+    color: $white;
+    background-color: darken($okf-primary, 20%);
   }
 }
 
