@@ -7,7 +7,9 @@ people:
   - name: Arne Semsrott
     role: Projektleitung
   - name: Knut Perseke
-    role: Entwicklung    
+    role: Entwicklung  
+  - name: Nadine Stammen
+    role: Design
 contact:
   website: https://transparenzranking.de
   github: https://github.com/okfde/ifg-index/

@@ -15,6 +15,11 @@ menu_projekte: yes
 		<div class="col-md-10 col-md-offset-1">
 			{{ page[site.lang].content | markdownify }}
 
+			{% if page.contact.website %}
+				<p><a href="{{ page.contact.website }}" class="highlight-link">Zur Projektwebseite</a></p>
+			{% endif %}
+		</div>
+		<div class="col-md-10 col-md-offset-1 new-section">
 			{% if page.people.size > 0 %}
 			<h3>{% t projekt.Ansprechpartner %}</h3>
 			<div class="row avatar-block">
@@ -38,6 +43,8 @@ menu_projekte: yes
 				</div>
 				{% endfor %}
 			</div>
+		</div>
+		<div class="col-md-10 col-md-offset-1 new-section">
 			{% endif %}
 			<h3>{% t projekt.MehrInformationen %}</h3>
 			<dl class="icon-list big-icon-list">
@@ -76,14 +83,6 @@ menu_projekte: yes
 			</dl>
 		</div>
 	</div>
-	{% if page.contact.website %}
-	<div class="row">
-	<div class="col-sm-8 col-sm-offset-2 col-xs-12">
-		<p><a href="{{ page.contact.website }}" class="highlight-link">Zur Projektwebseite</a></p>
-	</div>
-	</div>
-	{% endif %}
-
 </div>
 
 <!--

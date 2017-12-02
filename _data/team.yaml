@@ -78,7 +78,7 @@
   advisory: 0
   position:
   bio: "Sarina leitet seit Ende 2017 das Projekt «Code for Germany» und ist Expertin für interne und externe Kommunikation. Sie arbeitete als Redakteurin und Datenanalystin beim Blog Jung & Naiv und bei der gemeinnützigen Gesellschaft Correctiv in Berlin und war Übersetzerin des Campus-Startups Junior Entreprise EPFL in Lausanne, Schweiz. Ihre Herzensthemen sind digitale Bildung, Inklusion und IT-Sicherheit."
-  bio_en: "Since the end of 2017, Sarina leads the project «Code for Germany». She is an expert for internal and external communications. As a journalist and data analyst, she has worked with the blog Jung & Naiv and with the non-profit organization Correctiv in Berlin, and has translated for the campus startup Junior Entreprise EPFL in Lausanne, Switzerland. Subjects most dear to her include digital education, inclusion and IT security."
+  bio_en: "Since the end of 2017, Sarina leads the project „Code for Germany“. She is an expert for internal and external communications. As a journalist and data analyst, she has worked with the blog Jung & Naiv and with the non-profit organization Correctiv in Berlin, and has translated for the campus startup Junior Entreprise EPFL in Lausanne, Switzerland. Subjects most dear to her include digital education, inclusion and IT security."
   mail: sarina.balkhausen@okfn.de
   twitter: sarinabeta
   website:
@@ -138,7 +138,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Fiona ist seit 2014 dabei und betreut und berät als Community Organizerin im Projekt Code for Germany über 20 Open Knowledge Labs in Deutschland. Nebenbei studiert sie Techniksoziologie an der Technischen Universität Berlin. Privat engagiert sie sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung, im Chaos Computer Club und interessiert sich für Gleichberechtigung in der IT. 2016 leitete Fiona das Projekt 'Digital Refugee Labs' im Rahmen von Code for Germany."
+  bio: "Fiona ist seit 2014 dabei und betreut und berät als Community Organizerin im Projekt Code for Germany über 20 Open Knowledge Labs in Deutschland. Nebenbei studiert sie Techniksoziologie an der Technischen Universität Berlin. Privat engagiert sie sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung, im Chaos Computer Club und interessiert sich für Gleichberechtigung in der IT. 2016 leitete Fiona das Projekt „Digital Refugee Labs“ im Rahmen von Code for Germany."
   bio_en: "Fiona has been with OKF DE since 2014 and is Code for Germany's Community Organizer. She supports 20 Open Knowledge Labs together with Julia and Eileen and studies the sociology of technology at the Technical University in Berlin. She has strong ties to a number of different NGOs that are connected to OKF DE's work and has been active in the field of digital literacy for a number of years. In 2016, Fiona will be Project Lead in the Code for Germany project 'Digital Refugee Labs'."
   mail: fiona.krakenbuerger@okfn.de
   twitter: Fotografiona
@@ -164,7 +164,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Elisa unterstützt das Codefor-Team im Projekt 'Digital Refugee Labs'. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
+  bio: "Elisa unterstützt das Codefor-Team im Projekt „Digital Refugee Labs“. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
   bio_en: "Elisa supports the Codefor team in the project 'Digital Refugee Labs'. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
   mail: elisa.lindinger@okfn.de
   twitter: elizab0t
@@ -735,3 +735,17 @@
   mail: "tanja.zagel@okfn.de"
   twitter: 
   website:
+
+- name: Nadine Stammen
+  img: nadinestammen
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
+  bio_en: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
+  mail: "nadine.stammen@okfn.de"
+  twitter: stadine
+  website:
+
+

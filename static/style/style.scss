@@ -86,7 +86,7 @@ body {
   color: $light-text-color;
   font-family: $primary-font-family;
   font-weight: 300;
-  line-height: 1.4em;
+  line-height: 1.5em;
   font-size: 18px;
   background-color: $okf-background;
 }
@@ -698,8 +698,10 @@ header {
 }
 
 .highlight-link {
+  margin-top: 10px;
+  font-size: 15px;
   display: inline-block;
-  padding: 0.5em 0.5em;
+  padding: 0.3em 0.5em;
   color: #fff;
   background-color: $okf-primary;
   -webkit-transition: background-color 0.5s ease-out;
@@ -989,6 +991,10 @@ header {
   }
 }
 
+.new-section {
+  margin-top: 40px;
+}
+
 //projekte page
 
 .project-item {
@@ -1248,6 +1254,21 @@ header {
     }
   }
 
+}
+
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #112233;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #EBEFF3;
+    border-radius: 10px;
 }
 
 // blog search page
