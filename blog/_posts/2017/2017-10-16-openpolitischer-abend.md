@@ -17,6 +17,10 @@ Wir freuen uns sehr, euch alle zu unserem ersten openpolitischen Abend einzulade
 
 Am 13. November ab 19 Uhr begrüßen wir Katharina König-Preuss und Monchi zu einem Vortrag über die NSU und den Verfassungsschutz in der c-base. Kommt vorbei! Der Eintritt ist frei. Bitte seid zeitig da wegen der begrenzten Raumkapazität. 
 
+<a href="https://www.youtube.com/watch?v=0S-OKvHm3Dg"Zum Video der Veranstaltung hier</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0S-OKvHm3Dg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 „Was hat der Staat damit zu tun? Wer steht hinter dem NSU? (…)“ heißt es im Lied „Nur Applaus“ von Feine Sahne Fischfilet, mit dem die Band den NSU-Komplex musikalisch thematisiert.
 
 Seit 2011 beschäftig(t)en sich zwölf Untersuchungsausschüsse, diverse Gremien sowie der Mammut-Prozess in München mit dem NSU-Komplex. Darüber hinaus recherchieren diverse investigative Journalist*innen und antifaschistische Gruppen zahlreiche Details, welche zur Aufklärung beitragen. Mit NSU-Watch hat sich eine bundesweite Initiative aus antifaschistischen Gruppen und Einzelpersonen gebildet, die den NSU-Prozess sowie die diversen Untersuchungsausschüsse begleiten, protokollarisch abbilden und inhaltlich mit eigenen Rechercheergebnissen ergänzen.
