@@ -544,10 +544,13 @@ header {
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
 
-  transition: transform .4s 0s, visibility 0s .4s;
+  /* only activate transition if menu-js has kicked in */
+  &.active {
+    transition: transform .4s 0s, visibility 0s .4s;
 
-  /* this creates the subtle slide in animation of the navigation */
-  @include transform(translateX(260px));
+    /* this creates the subtle slide in animation of the navigation */
+    @include transform(translateX(260px));
+  }
 
   .language-toggle {
     margin-top: 10px;
