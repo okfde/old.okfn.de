@@ -1,7 +1,9 @@
 (function () {
 	'use strict';
 
-	$('#sidebar').toggleClass('active');
+	setTimeout(function () {
+		$('#sidebar').removeClass('loading');
+	}, 0);
 	//open-close lateral menu clicking on the menu icon
 	$('#sidebar-trigger').on('click', function (event) {
 		event.preventDefault();
