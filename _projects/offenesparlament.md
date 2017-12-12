@@ -14,7 +14,7 @@ people:
   - name: Knut Perseke
     role: Entwicklung
 contact:
-  website: http://offenesparlament.de
+  website: https://offenesparlament.de
   github: https://github.com/datenschule/offenesparlament.de
 de:
   content: |-
