@@ -13,11 +13,14 @@ menu_themen: yes
 <div class="row themen-item">
 	<div class="col-md-4 themen-image" {% if thema.background.size> 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}></div>
 	<div class="col-md-8 themen-col">
-		<a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
-			<h2>{{ thema.title }}</h2>
+			<h2>
+				<a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">{{ thema.title }}</a>
+			</h2>
 			<p>{{ thema.teaser }}</p>
-			<p><span class="highlight-link">{% t themen.Mehr %}</span></p>
-		</a>
+			<p>
+				<a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}"><span class="highlight-link">{% t themen.Mehr %}</span>
+				</a>
+			</p>
 	</div>
 </div>
 {% endfor %}
