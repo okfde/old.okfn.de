@@ -1,8 +1,8 @@
 ---
 authors: Michael Peters
 date: 2017-12-21
-image: /files/blog/2017/12/offener-haushalt.png
-  src: 
+image: 
+  src: /files/blog/2017/12/offener-haushalt.png
   title: Offenerhaushalt.de 
   license: 
   license_url: 
