@@ -37,13 +37,13 @@ Die Plattform startet mit 16 Datensätzen, neben dem Bundeshaushalt und 8 Lände
 Österreich alle Kommunen seit 2012 verpflichtet sind Haushaltspläne in maschinenlesbarer Form zu veröffentlichen, ist die Datenlage in
 Deutschland verheerend. Haushaltspläne werden fast ausschließlich gedruckt oder als PDF-Dateien mit häufig über 1000 Seiten veröffentlicht.
 
-### Finanztransparenz durch Community Ansatz
+### Finanztransparenz durch Community-Ansatz
 
 Dabei ist das Recht auf Informationsfreiheit und Transparenz nirgendwo überzeugender als bei Haushaltsplänen, da diese Einsicht über
 die Verwendung der Steuereinnahmen geben. Deshalb fordert die Open Knowledge Foundation Deutschland, dass alle Haushaltsdaten 
 maschinenlesbar veröffentlicht werden.
 
-Ziel der Plattform ist es Haushalte für so viele Gemeinden wie möglich zu visualisieren. Dies ist bei über 11.000 Gemeinden in 
+Ziel der Plattform ist es, Haushalte für so viele Gemeinden wie möglich zu visualisieren. Dies ist bei über 11.000 Gemeinden in 
 Deutschland ein ambitioniertes Projekt, welches nur durch die Unterstützung der Zivilgesellschaft möglich ist. Der nächste Schritt
 ist die kooperative Erstellung eines deutschen Standards für Haushaltsdaten gemeinsam mit interessierten Verwaltungen.
 
