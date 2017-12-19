@@ -48,8 +48,6 @@ Deutschland ein ambitioniertes Projekt, welches nur durch die Unterstützung der
 ist die kooperative Erstellung eines deutschen Standards für Haushaltsdaten gemeinsam mit interessierten Verwaltungen.
 
 
-Kontakt:
-Open Knowledge Foundation Deutschland e.V.
-Michael Peters
-michael.peters@okfn.de
-Telefon: 030577036660
+Kontakt: Open Knowledge Foundation Deutschland e.V.
+
+Michael Peters: michael.peters@okfn.de Telefon: 030577036660
