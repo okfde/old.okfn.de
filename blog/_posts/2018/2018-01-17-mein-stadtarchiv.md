@@ -1,5 +1,5 @@
 ---
-authors: OKF
+authors: Ernesto Ruge
 date: 2018-01-07
 image: 
   src: /files/blog/2018/01/stadtarchiv-kerpen.jpg
@@ -16,7 +16,7 @@ tags:
 title: "Kommunale Archive für alle: Start in Kerpen"
 ---
 
-Ein Stadtarchiv besteht Unmengen an Dokumente aus vielen Jahrhunderten, die die Geschichte lebendig machen. Doch viele Bürgerinnen und Bürger wissen nicht viel davon, zudem muss man in Persona dahin, um die Dokumente einzusehen, und eine archivübergreifende Suche ist erst recht schwierig. Das geht besser - mit OpenData.
+Ein Stadtarchiv besteht aus Unmengen an Dokumente aus vielen Jahrhunderten, die die Geschichte lebendig machen. Doch viele Bürgerinnen und Bürger wissen nicht viel davon, zudem muss man in Persona dahin, um die Dokumente einzusehen, und eine archivübergreifende Suche ist erst recht schwierig. Das geht besser - mit OpenData.
 
 Ein Team aus [dem Kerpener Stadtarchiv](https://www.stadt-kerpen.de/stadtarchiv), [dem KDVZ Rhein-Erft-Rur](https://www.kdvz-frechen.de/) und der OKF haben in den vergangenen Monaten im Rahmen einer OpenNRW-Förderung die Daten aus der Archiv-Software extrahiert und diese in eine schnell und komfortabel durchsuchbare Form gebracht. Gestern wurde die Plattform nun veröffentlicht:
 
