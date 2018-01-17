@@ -8,6 +8,8 @@ people:
     role: Projektleitung
   - name: John David Langlo
     role: Projektassistenz
+  - name: Saadya Windauer
+    role: Projektmanagerin 
 contact:
   website: http://2030-watch.de
   github: https://github.com/okfde/2030-watch.de

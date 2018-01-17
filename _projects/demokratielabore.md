@@ -8,8 +8,6 @@ people:
     role: Projektleitung
   - name: Jasmin Helm
     role: Projektmanagerin 
-  - name: Saadya Windauer
-    role: Projektmanagerin 
   - name: Matthias Löwe
     role: Projektmanager 
   - name: Nadine Stammen
