@@ -25,3 +25,7 @@ startet um 9:30
 
 
 Mehr auf Twitter unter: #PSIdirective
+
+[Slides of the presentation](https://docs.google.com/presentation/d/1yaNRTRF9qaVXkdwayUacFHU4Z4P4GgbIK2SybrYtyYI/edit#slide=id.g2fcc1aca0d_0_99)
+
+Upcoming files: Open Energy Modelling Initiative, consultations.
