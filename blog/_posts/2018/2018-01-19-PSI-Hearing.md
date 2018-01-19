@@ -1,9 +1,9 @@
 ---
 authors: 
 - Walter Palmetshofer
-date: 2017-12-29 11:00:00
+date: 2019-01-19 11:00:00
 image:
-  src: /files/blog/2018/01/euflag.jpg
+  src: /files/blog/2018/01/eu-flag.jpg
 tags:
 - PSI
 - Open data
