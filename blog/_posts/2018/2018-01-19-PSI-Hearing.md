@@ -23,7 +23,7 @@ startet um 9:30
 
 [Livestream](https://webcast.ec.europa.eu/public-hearing-on-the-review-of-thedirective-on-the-reuse-of-public-sector-information#)
 
-[Pad der Community:] (https://pad.okfn.de/p/psihearing)
+[Pad der Community:](https://pad.okfn.de/p/psihearing)
 
 
 Mehr auf Twitter unter: #PSIdirective
