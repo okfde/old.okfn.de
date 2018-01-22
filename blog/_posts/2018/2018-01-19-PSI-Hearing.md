@@ -31,6 +31,19 @@ Auf Twitter war der Hashtag: [#PSIdirective](https://twitter.com/search?q=%23PSI
 [Slides of the presentation](https://docs.google.com/presentation/d/1yaNRTRF9qaVXkdwayUacFHU4Z4P4GgbIK2SybrYtyYI/edit#slide=id.g2fcc1aca0d_0_99)
 
 
+Overview of referenced studies:
+[Reconsidering the Exemption for Educational and Research Establishments Under the Directive on Re-Use of Public Sector Information (2003/98/EC; 2013/37/EU) – Possible Ways and Legal Consequences by Heiko Richter](
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3090337)
+
+[Auswirkungen der Abgabe von Daten gegen Geldleistungen in der
+Verwaltung unter besonderer Berücksichtigung der Bundesverwaltung]
+(https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2016/entgeltstudie-open-data.pdf?__blob=publicationFile&v=2)
+
+[KAS Open Data Studie](http://www.kas.de/wf/de/33.44935/)
+
+[IDC Report on ODINE](https://opendataincubator.eu/files/2017/08/ODINE_Final-report_3.0.pdf)
+
+
 Upcoming eine Zusammenfassung der Statements.
 
 At current implementation speed:
