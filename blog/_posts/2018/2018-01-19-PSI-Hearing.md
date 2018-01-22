@@ -19,7 +19,7 @@ Am 19.01.18 fand das Hearing zur neuen PSI-Richtlinie in Brüssel statt. PSI ste
 [Recording of the Public Hearing](https://webcast.ec.europa.eu/public-hearing-on-the-review-of-the-directive-on-the-reuse-of-public-sector-information)
 
 Vor dem Public Hearing gab es bis zum 12.12.18 eine öffentliche Konsultation zur Überprüfung der Richtlinie über die
-Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie). Zur Veranschaulichung hier der aufgefüllte Fragebogen von [Mathias Schindler](/files/blog/2018/01/PSI-consultations-Mathias-Schindler.pdf) bzw. eine (Stellungsnahme)(/files/blog/2018/01/reuse-PSI-openmod.pdf) von [Open energy modelling initiative](http://www.openmod-initiative.org).
+Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie). Zur Veranschaulichung hier der aufgefüllte Fragebogen von [Mathias Schindler](/files/blog/2018/01/PSI-consultations-Mathias-Schindler.pdf) bzw. eine [Stellungsnahme](/files/blog/2018/01/reuse-PSI-openmod.pdf) von [Open energy modelling initiative](http://www.openmod-initiative.org).
 
 [Ablauf des Hearings](http://ec.europa.eu/information_society/newsroom/image/document/2018-3/psi_public_hearing_19_01_2018__agenda_for_publication_online_263B5D70-9ECC-80E6-3389D2CDB575F406_49420.pdf)
 startet um 9:30
