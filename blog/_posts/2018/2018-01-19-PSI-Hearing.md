@@ -32,12 +32,12 @@ Auf Twitter war der Hashtag: [#PSIdirective](https://twitter.com/search?q=%23PSI
 
 
 Overview of referenced studies:
+
 [Reconsidering the Exemption for Educational and Research Establishments Under the Directive on Re-Use of Public Sector Information (2003/98/EC; 2013/37/EU) – Possible Ways and Legal Consequences by Heiko Richter](
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3090337)
 
 [Auswirkungen der Abgabe von Daten gegen Geldleistungen in der
-Verwaltung unter besonderer Berücksichtigung der Bundesverwaltung]
-(https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2016/entgeltstudie-open-data.pdf?__blob=publicationFile&v=2)
+Verwaltung unter besonderer Berücksichtigung der Bundesverwaltung](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/2016/entgeltstudie-open-data.pdf?__blob=publicationFile&v=2)
 
 [KAS Open Data Studie](http://www.kas.de/wf/de/33.44935/)
 
