@@ -34,5 +34,5 @@ Auf Twitter war der Hashtag: [#PSIdirective](https://twitter.com/search?q=%23PSI
 Upcoming eine Zusammenfassung der Statements.
 
 At current implementation speed:
-![Make your bets.](/files/blog/2017/18/01/marsvseu.jpg "Close call")
+![Make your bets.](/files/blog/2018/01/marsvseu.jpg "Close call")
 
