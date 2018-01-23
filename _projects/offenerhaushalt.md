@@ -6,6 +6,8 @@ url: http://offenerhaushalt.de/
 background: backgrounds/offenerhaushalt.jpg
 img: projects/offenerhaushalt.jpg
 people:
+- name: Anna Alberts
+  role: Projektleitung
 - name: Michael Peters
   role: Data Scientist
 contact:
