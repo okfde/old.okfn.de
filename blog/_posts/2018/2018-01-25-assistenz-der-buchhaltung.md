@@ -11,12 +11,12 @@ card: true
 tags:
  - OKF
  - Jobs
-jobs: "Wir suchen eine Assistenz der Buchhaltung"
-title: "Wir suchen eine Assistenz der Buchhaltung"
+jobs: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)"
+title: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)"
 published: false
 ---
 
-(Minijob oder studentische Hilfskraft, 10h, ab sofort )
+
 **Wer wir sind**
 Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in
 Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung
