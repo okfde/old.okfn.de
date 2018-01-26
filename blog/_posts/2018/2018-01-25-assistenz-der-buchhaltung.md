@@ -17,13 +17,14 @@ published: false
 ---
 
 (Minijob oder studentische Hilfskraft, 10h, ab sofort )
-Wer wir sind
+**Wer wir sind**
 Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in
 Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung
 einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Der
 Verein ist eine Dachorganisation für rund 20 Projekte mit hoher konzeptioneller und
 finanzieller Eigenverantwortung.
-Wen wir suchen
+
+**Wen wir suchen**
 Für die Assistenz der Buchhaltung bei der OKF sind wir auf der Suche nach einer teamstarken,
 sorgfältigen und zuverlässigen Persönlichkeit, die Freude daran hat, ein technikbegeistertes
 und politisch engagiertes Team zu unterstützen. Wir wünschen uns mit dir eine Person mit
@@ -31,6 +32,7 @@ ersten Erfahrungen in Projektabrechnung, Rechnungslegung oder Bilanzierung, die 
 Geschäftsführung und Buchhaltung des Berliner Kernteams verstärkt. Du solltest außerdem in
 ein von viel Herzblut getragenes, gemeinnütziges Programm einer Nonprofit-Organisation
 (NPO) passen.
+
 Konkret fallen unter anderem folgende Aufgaben an:
 ● rechnerische Belegprüfung sowie Prüfung der Belege hinsichtlich Einhaltung von
 Abrechnungsstandards (z. B. Bundesreisekostengesetz)
@@ -50,14 +52,17 @@ ehrenamtlich tätiges Netzwerk, das sich auf dich freut
 ● ein sehr spannendes Arbeitsumfeld bei der OKF DE in Berlin
 ● flexible Arbeitszeiten
 ● eine nette Büroatmosphäre
+
 Die Stelle ist ab sofort, spätestens aber bis zum 1. März 2018, zu besetzen. Es handelt sich um
 eine auf ein Jahr befristete Stelle mit Aussicht auf Verlängerung.
 Wir freuen uns insbesondere über die Bewerbungen von Menschen mit
 Migrationshintergrund. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten
 wir abzusehen.
+
 Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl.
-möglichem Beginn bis zum 18. Februar per E-Mail an juliane.krueger@okfn.de , gerne auch
-PGP-verschlüsselt .
+möglichem Beginn bis zum 18. Februar per E-Mail an juliane.krueger@okfn.de, gerne auch
+PGP-verschlüsselt.
+
 Die Gespräche finden vom 20.-22.02.2018 in Berlin statt. Die Reisekosten für die
 Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen
 werden.
