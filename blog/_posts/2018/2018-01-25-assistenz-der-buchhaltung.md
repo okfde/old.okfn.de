@@ -1,6 +1,6 @@
 ---
 author: OKF
-date: 2017-01-26 15:00:00
+date: 2017-01-26 08:00:00
 image:
   src: /files/blog/2017/01/flickr-state-library-of-queensland.jpg
   title: Flickr_State Library of Queensland
@@ -13,7 +13,7 @@ tags:
  - Jobs
 jobs: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)"
 title: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)"
-published: false
+published: true 
 ---
 
 
