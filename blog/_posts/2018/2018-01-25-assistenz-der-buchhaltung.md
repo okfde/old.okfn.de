@@ -18,6 +18,7 @@ published: false
 
 
 **Wer wir sind**
+
 Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in
 Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung
 einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Der
@@ -25,6 +26,7 @@ Verein ist eine Dachorganisation für rund 20 Projekte mit hoher konzeptioneller
 finanzieller Eigenverantwortung.
 
 **Wen wir suchen**
+
 Für die Assistenz der Buchhaltung bei der OKF sind wir auf der Suche nach einer teamstarken,
 sorgfältigen und zuverlässigen Persönlichkeit, die Freude daran hat, ein technikbegeistertes
 und politisch engagiertes Team zu unterstützen. Wir wünschen uns mit dir eine Person mit
