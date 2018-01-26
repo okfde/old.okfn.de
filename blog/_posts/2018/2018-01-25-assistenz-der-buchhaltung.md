@@ -34,7 +34,7 @@ ein von viel Herzblut getragenes, gemeinnütziges Programm einer Nonprofit-Organ
 (NPO) passen.
 
 Konkret fallen unter anderem folgende Aufgaben an:
-● rechnerische Belegprüfung sowie Prüfung der Belege hinsichtlich Einhaltung von
+- rechnerische Belegprüfung sowie Prüfung der Belege hinsichtlich Einhaltung von
 Abrechnungsstandards (z. B. Bundesreisekostengesetz)
 ● Abgleich von SOLL- und IST-Abgängen der Konten
 ● Einholen ggf. fehlender Belege zur Monatsbilanz
