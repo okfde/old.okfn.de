@@ -33,25 +33,27 @@ Geschäftsführung und Buchhaltung des Berliner Kernteams verstärkt. Du solltes
 ein von viel Herzblut getragenes, gemeinnütziges Programm einer Nonprofit-Organisation
 (NPO) passen.
 
-Konkret fallen unter anderem folgende Aufgaben an:
+**Konkret fallen unter anderem folgende Aufgaben an:**
 - rechnerische Belegprüfung sowie Prüfung der Belege hinsichtlich Einhaltung von
 Abrechnungsstandards (z. B. Bundesreisekostengesetz)
-● Abgleich von SOLL- und IST-Abgängen der Konten
-● Einholen ggf. fehlender Belege zur Monatsbilanz
-● Einpflegen von Gemeinkostenrechnungen sowie ggf. einzelne Einkäufe von
+- Abgleich von SOLL- und IST-Abgängen der Konten
+- Einholen ggf. fehlender Belege zur Monatsbilanz
+- Einpflegen von Gemeinkostenrechnungen sowie ggf. einzelne Einkäufe von
 Büromaterialien
-● Ablage und Verwaltung
-Uns ist wichtig, dass du:
-● mindestens zweimal die Woche im Büro arbeitest
-● gemeinsam mit dem Team ihre Projektfinanzen meisterst
-● Freude an der Arbeit mit Tabellen und keine Angst vor Kleingedrucktem hast
-Was wir bieten
-● die Mitarbeit in einer erfolgreichen, wachsenden, sichtbaren NGO
-● ein neugieriges, hauptamtliches Berliner Kernteam und ein motiviertes, größtenteils
+- Ablage und Verwaltung
+
+**Uns ist wichtig, dass du:**
+- mindestens zweimal die Woche im Büro arbeitest
+- gemeinsam mit dem Team ihre Projektfinanzen meisterst
+- Freude an der Arbeit mit Tabellen und keine Angst vor Kleingedrucktem hast
+
+**Was wir bieten**
+- die Mitarbeit in einer erfolgreichen, wachsenden, sichtbaren NGO
+- ein neugieriges, hauptamtliches Berliner Kernteam und ein motiviertes, größtenteils
 ehrenamtlich tätiges Netzwerk, das sich auf dich freut
-● ein sehr spannendes Arbeitsumfeld bei der OKF DE in Berlin
-● flexible Arbeitszeiten
-● eine nette Büroatmosphäre
+- ein sehr spannendes Arbeitsumfeld bei der OKF DE in Berlin
+- flexible Arbeitszeiten
+- eine nette Büroatmosphäre
 
 Die Stelle ist ab sofort, spätestens aber bis zum 1. März 2018, zu besetzen. Es handelt sich um
 eine auf ein Jahr befristete Stelle mit Aussicht auf Verlängerung.
