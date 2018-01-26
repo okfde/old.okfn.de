@@ -16,9 +16,6 @@ title: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hil
 published: true 
 ---
 
-
-**Wer wir sind**
-
 Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in
 Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung
 einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Der
