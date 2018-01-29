@@ -1,7 +1,7 @@
 ---
 authors: 
 - Mara Mendes
-date: 2018-01-29 10:00:00
+date: 2018-01-29 07:00:00
 image:
   src: /files/blog/2018/01/Opentender_logos_CMYK.pdf
 tags:
