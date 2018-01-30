@@ -14,7 +14,7 @@ title: "Open Budget Survey: Keine Verbesserung für Finanztransparenz in Deutsch
 published: false
 ---
 
-Deutschlands Haushalt ist in den vergangen Jahren nicht transpanter geworden. Das ist das Ergebnis der Open Budget Survey 2017 der [International Budget Partnership](https://www.internationalbudget.org/). 
+Deutschlands Haushalt ist in den vergangen Jahren nicht transparenter geworden. Das ist das Ergebnis der Open Budget Survey 2017 der [International Budget Partnership](https://www.internationalbudget.org/). 
 
 So mangelt es in Deutschland vor allem an Möglichkeiten der Öffentlichkeit, Teile des öffentlichen Haushalts mitzugestalten. Auch in den Bereichen Kontrolle und Transparenz gibt es Verbesserungsbedarf. So sollte Deutschland nach den Empfehlungen der Initiative vor allem Berichte des Bundesrechungshofes veröffentlichen. Dies ist nach einer Gesetzesänderung im Jahr 2013 [ausgeschlossen](https://correctiv.org/blog/auskunftsrechte/artikel/2017/12/11/bundesrechnungshof-fraktionen-transparenz/).
 
