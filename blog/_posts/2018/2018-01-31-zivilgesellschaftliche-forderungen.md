@@ -15,7 +15,7 @@ tags:
 type: post
 layout: post
 card: true
-title: "Zivilgesellschaftliche Forderungen an die zukünftige Bundesregierung" 
+title: "Zivilgesellschaftliche Forderungen des Open Government Netzwerks" 
 ---
 
 Digitalisierung ist eines der zentralen Themen der neuen Bundesregierung. Doch diese darf nicht zum Selbstzweck werden. Mit Transparenz, der Einbeziehung der im Digitalisierungsdiskurs aktiven Zivilgesellschaft und einer modernen Verwaltung kann Politik besser auf lokale, nationale und globale Herausforderungen reagieren. Politik benötigt in unserer komplexen Gegenwart die Ideen und das persönliche Engagement der Menschen, wenn sie nicht nur verwalten, sondern auch aktiv gestalten will. Eine offene und durch digitale Werkzeuge unterstützte Regierungsweise ist daher nicht nur eine zentrale Voraussetzung für Teilhabe, sondern auch eine natürliche Barriere gegen politischen Extremismus und nationale Alleingänge.
