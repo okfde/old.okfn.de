@@ -1,7 +1,7 @@
 ---
 authors: 
 - OKF
-date: 2018-01-31 07:00:00
+date: 2018-01-31 13:00:00
 image:
   src: /files/blog/2018/01/obs-germany.jpg
 tags:
@@ -11,7 +11,6 @@ layout: post
 published: true
 card: true
 title: "Open Budget Survey: Keine Verbesserung für Finanztransparenz in Deutschland" 
-published: false
 ---
 
 Deutschlands Haushalt ist in den vergangen Jahren nicht transparenter geworden. Das ist das Ergebnis der Open Budget Survey 2017 der [International Budget Partnership](https://www.internationalbudget.org/). 
