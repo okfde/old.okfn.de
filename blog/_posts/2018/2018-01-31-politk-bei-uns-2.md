@@ -2,7 +2,7 @@
 authors: Ernesto Ruge
 date: 2018-01-31
 image: 
-  src: /files/blog/2018/01/politik-bei-uns.jpg
+  src: /files/blog/2018/01/politik-bei-uns.png
   title: "Das kommunale Transparenz-Portal Politik bei uns"
   license: 
   license_url: 
