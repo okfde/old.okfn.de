@@ -1,7 +1,7 @@
 ---
 authors: 
 - Michael Peters
-date: 2018-02-10 
+date: 2018-01-31 
 image:
   src: /files/blog/2017/09/kanzleramt-cc0.jpg
   title: Bundeskanzleramt in Berlin
@@ -15,7 +15,7 @@ tags:
 type: post
 layout: post
 card: true
-title: "Zivilgesellschaftliche Forderungen des Open Government Netzwerks" 
+title: "Zivilgesellschaftliche Forderungen an die zukünftige Bundesregierung" 
 ---
 
 Digitalisierung ist eines der zentralen Themen der neuen Bundesregierung. Doch diese darf nicht zum Selbstzweck werden. Mit Transparenz, der Einbeziehung der im Digitalisierungsdiskurs aktiven Zivilgesellschaft und einer modernen Verwaltung kann Politik besser auf lokale, nationale und globale Herausforderungen reagieren. Politik benötigt in unserer komplexen Gegenwart die Ideen und das persönliche Engagement der Menschen, wenn sie nicht nur verwalten, sondern auch aktiv gestalten will. Eine offene und durch digitale Werkzeuge unterstützte Regierungsweise ist daher nicht nur eine zentrale Voraussetzung für Teilhabe, sondern auch eine natürliche Barriere gegen politischen Extremismus und nationale Alleingänge.
@@ -53,7 +53,7 @@ Dabei könnten eigene Innovations-Einheiten innerhalb der Verwaltung (siehe [USA
 
 Davon profitieren nicht nur Bürgerinnen und Bürger, sondern auch die Verwaltung selbst. Offene Daten, Schnittstellen und die einfache Nutzbarkeit von digitalen Dienstleistungen steigern die Effizienz und fördern die Nahbarkeit von und das Vertrauen in die Verwaltung.
 
-***Das Open Government Netzwerk** ist ein Zusammenschluss zivilgesellschaftlicher Organisationen und Einzelpersonen, der sich für die Förderung eines offenen Regierungs- und Verwaltungshandelns in Deutschland einsetzt sowie die deutsche Teilnahme an der Open Government Partnership unterstützt.*
+***Das Open Government Netzwerk** ist ein Zusammenschluss zivilgesellschaftlicher Organisationen und Einzelpersonen, der sich für die Förderung eines offenen Regierungs- und Verwaltungshandelns in Deutschland einsetzt sowie die deutsche Teilnahme an der Open Government Partnership unterstützt.* 
 
 **Unterzeichner**
 * Free Software Foundation Europe e.V.
