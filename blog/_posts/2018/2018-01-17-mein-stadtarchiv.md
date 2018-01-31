@@ -1,6 +1,6 @@
 ---
 authors: Ernesto Ruge
-date: 2018-01-07
+date: 2018-01-17
 image: 
   src: /files/blog/2018/01/stadtarchiv-kerpen.jpg
   title: Das Kerpener Stadtarchiv
