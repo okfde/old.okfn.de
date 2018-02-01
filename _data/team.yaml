@@ -34,6 +34,20 @@
   website:
   github: heleneh
 
+
+- name: Juliane Krüger
+  img: julianekrueger
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Juliane unterstützt die OKF als Assistenz der Geschäftsführung und hilft außerdem den Demokratielaboren bei der Zahlen- und Tabellenjonglage. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit Cybercontext, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen und des FIfF. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
+  bio_en: "Juliane works for the OKF as assistance to the management and also suppports the Demokratielabore project with their finances."
+  mail: juliane.krueger@okfn.de
+  twitter: 
+  website:
+  github: 
+
 - name: Sebastian Seitz
   img: sebastianseitz
   staff: 1
