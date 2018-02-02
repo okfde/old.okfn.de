@@ -32,9 +32,9 @@ Falls Du daran Interesse hast, dann schreibe es bitte in Deine Bewerbung.
 ## 2030 Watch
 
 Das Projekt 2030 Watch beobachtet die Umsetzung der Agenda 2030 auf nationaler und kommunaler Ebene in Deutschland. Wir 
-wollen darstellen, in welchen Bereichen Nachhaltigkeit gut umgesetzt wird und in welchen nicht. Mit Hilfe von 
+wollen darstellen, in welchen Bereichen Nachhaltigkeit gut umgesetzt wird und in welchen nicht. Mit der Darstellung von 
 datenbasierten Indikatoren aus den Themenfeldern Ökologie, Soziales und Ökonomie bewerten wir das Vorgehen der Analysen 
-und den Fortschritt der nachhaltigen Entwicklung in Deutschland. Dazu visualisieren und beschreiben wir, in welchen 
+und den Fortschritt der Nachhaltigen Entwicklung in Deutschland, die ebenfalls mit Indikatoren arbeitet. Dazu visualisieren und beschreiben wir, in welchen 
 Bereichen die deutsche Nachhaltigkeitsstrategie gut umgesetzt wird und empfehlen Erweiterungen. 2030 Watch bietet damit 
 alternative Narrative und weist auf dringende Handlungsbedarfe hin.
 
