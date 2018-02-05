@@ -22,7 +22,7 @@ contact:
   mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
 de:
-  stats: 20 000+<br/>Anfragen
+  stats: 25 000+<br/>Anfragen
   teaser: wurden bei <a href="/projekte/fragdenstaat/">FragDenStaat.de</a> von BürgerInnen an Behörden gestellt.
   subtitle: Das Informationsfreiheitsportal
   content: |-
@@ -31,7 +31,7 @@ de:
      Fragen Sie Informationen und Dokumente an! <a href="https://fragdenstaat.de">Zu FragDenStaat</a>
 
 en:
-  stats: 20,000+<br/>requests
+  stats: 25,000+<br/>requests
   teaser: have been made by citizens at <a href="/en/projekte/fragdenstaat/">FragDenStaat.de</a>.
   subtitle: The Freedom of Information Portal
   content: |-
