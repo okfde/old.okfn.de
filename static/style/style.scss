@@ -16,14 +16,17 @@ $headlines-font-family: 'LeagueSpartan-Bold', 'Helvetica', sans-serif;
 
 // colors
 
-$okf-background: #f5f4e9;
+$okf-background: rgb(244, 248, 249);
 
 $okf-primary: rgb(38, 183, 217);
 $okf-secondary: rgb(4, 92, 113);
 $okf-tertiary: rgb(29, 165, 197);
 $okf-quartinary: rgb(3, 134, 165);
+$okf-highlight: #ff2600;
 
-$okf-header-color: #045c71; // blue dark
+$okf-header-bg-color: #fff; // white
+$okf-header-color: $okf-secondary;
+$okf-header-brand-color: $okf-secondary;
 $okf-sidebar-color: #242e30; // green darker
 
 $dark-text-color: #112233;
@@ -83,7 +86,7 @@ body {
   color: $light-text-color;
   font-family: $primary-font-family;
   font-weight: 300;
-  line-height: 1.4em;
+  line-height: 1.5em;
   font-size: 18px;
   background-color: $okf-background;
 }
@@ -100,7 +103,7 @@ h1, h2, h3, h4 {
   line-height: 1.4em;
   margin-bottom: 15px;
   margin-top: 15px;
-  letter-spacing: 2px;
+  letter-spacing: 0.5px;
   font-family: $headlines-font-family;
 }
 
@@ -228,9 +231,12 @@ hr {
 
       > a.nav-link, > a.nav-link:hover, > a.nav-link:focus {
         text-align: right;
-        color: #fff;
-        border-bottom-color: #fff;
+        color: $okf-header-color;
+        border-bottom-color: $okf-header-color;
         background-color: transparent;
+        &.nav-link-highlight {
+          color: $okf-highlight;
+        }
       }
       > a.nav-link {
         display: inline-block;
@@ -252,7 +258,11 @@ hr {
 
   ul > li > a.nav-link:hover:before, ul > li.active > a.nav-link:before {
     transform: scaleX(1);
-    border-bottom: 3px solid #fff;
+    border-bottom: 3px solid $okf-header-color;
+  }
+
+  ul > li > a.nav-link.nav-link-highlight:hover:before, ul > li.active > a.nav-link-highlight:before {
+    border-bottom-color: $okf-highlight;
   }
 
   &.nav-items-right {
@@ -276,7 +286,7 @@ header {
   left: 0;
   height: $header-S;
   width: 100%;
-  background: $okf-header-color;
+  background: $okf-header-bg-color;
   z-index: $header-zindex;
 
   &.fixed {
@@ -312,27 +322,26 @@ header {
     .header-logo-img {
       display: inline-block;
       vertical-align: middle;
-      width: $header-logo-S;
-      height: $header-logo-S;
 
       img {
         display: inline;
-        height: 100%;
-        width: 100%;
+        // width: $header-logo-S;
+        height: $header-logo-S;
+
+        @include MQ-M() {
+          // width: $header-logo-M;
+          height: $header-logo-M;
+        }
       }
 
-      @include MQ-M() {
-        height: $header-logo-M;
-        width: $header-logo-M;
-      }
 
     }
 
     span {
-      color: #fff;
+      color: $okf-header-brand-color;
       display: inline-block;
       vertical-align: middle;
-      border-bottom-color: #fff;
+      border-bottom-color: $okf-header-brand-color;
     }
 
     .header-brand-full {
@@ -396,7 +405,7 @@ header {
       height: 100%;
 
       text-transform: uppercase;
-      color: #FFF;
+      color: $okf-header-bg-color;
       font-weight: 600;
 
       display: none;
@@ -462,11 +471,10 @@ header {
   font-size: 14px;
   line-height: 16px;
   margin-left: 8px;
-  color: #939393;
-  position: relative;
-  top: 7px;
+  font-weight: bold;
+  color: $okf-header-color;
   a {
-    color: #fff;
+    color: #939393;
     margin: 0;
     padding: 0;
   }
@@ -539,7 +547,12 @@ header {
   transition: transform .4s 0s, visibility 0s .4s;
 
   /* this creates the subtle slide in animation of the navigation */
-  @include transform(translateX(80px));
+  @include transform(translateX(260px));
+
+  &.loading {
+    transition: none;
+    transform: none;
+  }
 
   .language-toggle {
     margin-top: 10px;
@@ -594,7 +607,6 @@ header {
   //font-size: 16px;
   letter-spacing: 2px;
   text-align: center;
-  background-color: $okf-primary;
   border-radius: 0;
   min-height: 200px;
   padding-bottom: 0;
@@ -691,18 +703,21 @@ header {
 }
 
 .highlight-link {
+  margin-top: 10px;
+  font-size: 15px;
   display: inline-block;
-  line-height: 2em;
-  border: 2px solid $okf-primary;
-  padding: 0.5em;
-  text-align: center;
-  color: $okf-primary;
-  width: 100%;
+  padding: 0.3em 0.5em;
+  color: #fff;
+  background-color: $okf-primary;
+  -webkit-transition: background-color 0.5s ease-out;
+  -moz-transition: background-color 0.5s ease-out;
+  -o-transition: background-color 0.5s ease-out;
+  transition: background-color 0.5s ease-out;
 
   &:hover {
     text-decoration: none;
-    color: darken($okf-primary, 20%);
-    border-color: darken($okf-primary, 20%);
+    color: #fff;
+    background-color: darken($okf-primary, 20%);
   }
 }
 
@@ -728,7 +743,24 @@ header {
     border-color: darken(#fff, 20%);
     color: darken(#fff, 20%);
   }
+}
 
+.light-section {
+  background-color: #fff;
+  color: $okf-secondary;
+
+  h2 {
+    color: $okf-secondary;
+  }
+
+  .highlight-link {
+    background-color: $okf-secondary;
+    color: #fff;
+  }
+
+  .highlight-link:hover {
+    background-color: lighten($okf-secondary, 10%);
+  }
 }
 
 .padded-row {
@@ -962,6 +994,10 @@ header {
     margin: 0 auto;
     max-width: 100%;
   }
+}
+
+.new-section {
+  margin-top: 40px;
 }
 
 //projekte page
@@ -1225,6 +1261,21 @@ header {
 
 }
 
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #112233;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #EBEFF3;
+    border-radius: 10px;
+}
+
 // blog search page
 
 .search-container {
@@ -1245,7 +1296,8 @@ header {
   .post-meta {
     font-size: 0.8em;
     color: $light-text-color;
-    line-height: 1.3em;
+    line-height: 1.2em;
+    margin-top: 10px;
 
     > a {
       color: $light-text-color;
@@ -1382,7 +1434,7 @@ header {
   flex-wrap: wrap;
   padding: 0;
   margin: 0;
-  text-align: center;
+  text-align: left;
   width: 100%;
 
   .post-preview {
@@ -1433,7 +1485,7 @@ header {
     }
 
     .post-title {
-      font-size: 0.85em;
+      font-size: 1em;
       //flex: 1 0 auto;
       width: 100%;
       max-width: 320px;

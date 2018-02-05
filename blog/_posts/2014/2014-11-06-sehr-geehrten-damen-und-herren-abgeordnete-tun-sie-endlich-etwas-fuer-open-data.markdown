@@ -22,21 +22,21 @@ Bereits vor dem Gespräch wurden acht Fragen zum Thema Open Data [an die Sachver
 
 Zu den zentralen Punkte meiner Ausführungen:
 
-  * (Offene) Daten sind eine unerschöpfliche, nachwachsende Ressource, welche vor allem durch gemeinsames Nutzen dieser "aufblüht".
-  * Daten betreffen nicht nur Politik, Wissenschaft, Gesellschaft und Wirtschaft (im Allgemeinen), sondern die Bürgerinnen und Bürger (im Konkreten)
-  * Wenn nicht bald entschieden gehandelt wird und die Rahmenbedingungen für die Bereitstellung und Nutzung offener Daten geebnet werden, werden diese Rahmenbedingungen von außen oder von “höherer” Ebene diktiert
+  * (Offene) Daten sind eine unerschöpfliche, nachwachsende Ressource, welche vor allem durch gemeinsames Nutzen dieser "aufblüht".
+  * Daten betreffen nicht nur Politik, Wissenschaft, Gesellschaft und Wirtschaft (im Allgemeinen), sondern die Bürgerinnen und Bürger (im Konkreten)
+  * Wenn nicht bald entschieden gehandelt wird und die Rahmenbedingungen für die Bereitstellung und Nutzung offener Daten geebnet werden, werden diese Rahmenbedingungen von außen oder von “höherer” Ebene diktiert
   * Noch kann der Standortvorteil Datenschutz genutzt werden um der Verantwortung Deutschlands bei dem Thema national wie international gerecht zu werden.
   * Wir müssen uns auch mit den wenig vorhersehbaren sozialen Implikationen von Openness auseinandersetzen, NOCH können wir sie mitgestalten, erforschen und ggf. fördern.
   * In Deutschland fehlt es vor allem an politischem Willen (hohes politisches Commitment), Ressourcen in der Verwaltung und zentraler Steuerung
-  * Symptomatisch für die politische Behandlung des Themas Open Data ist z.B., dass die Fragen 1,2,3,4 und 6 im Jahr 2012 im Rahmen einer Anhörung des Unterausschusses Neue Medien mit einer ähnlichen Besetzung seitens der Fraktionen größtenteils schon einmal gestellt wurden und bis heute leider noch genauso beantwortet werden müssen.
+  * Symptomatisch für die politische Behandlung des Themas Open Data ist z.B., dass die Fragen 1,2,3,4 und 6 im Jahr 2012 im Rahmen einer Anhörung des Unterausschusses Neue Medien mit einer ähnlichen Besetzung seitens der Fraktionen größtenteils schon einmal gestellt wurden und bis heute leider noch genauso beantwortet werden müssen.
   * Seit 2012 hat sich m.E. zu wenig getan und auch wenn govdata.de, die GeoNutzV und der G8 Open Data Aktionsplan erste gute Schritte darstellen, gibt es noch immer ein fundamentales Defizit auf der Angebotsseite von wertvollen Open Government Data in maschinenlesbaren Formaten
-  * Ebenso wie 2012 fehlt eine gesetzliche Festlegung zur Veröffentlichung von (allen) Inhalten der Verwaltung nach Open Government Data­Prinzipien (z.B. über ein novelliertes Informationsfreiheitsgesetz, Anpassung der eGovernment­Gesetze, über ein eigenes Open Data­Gesetz oder ein nationales Transparenzgesetz).
-  * Mögliche Maßnahmen wären ein rascher Open Government Partnership ­Beitritt, gesetzliche Rahmenbedingungen für Open Data (am besten über ein nationales Transparenzgesetz), Unterzeichnung der "Erklärung zur Parlamentarischen Offenheit" und die Schaffung eines einheitlichen Zugriffs auf die Bundestagsinformationssysteme (OParl) und die Etablierung einer zentralen Anlaufstelle für das Thema im Bereich der ministerienübergreifenden Bundesverwaltung.
+  * Ebenso wie 2012 fehlt eine gesetzliche Festlegung zur Veröffentlichung von (allen) Inhalten der Verwaltung nach Open Government Data­Prinzipien (z.B. über ein novelliertes Informationsfreiheitsgesetz, Anpassung der eGovernment­Gesetze, über ein eigenes Open Data­Gesetz oder ein nationales Transparenzgesetz).
+  * Mögliche Maßnahmen wären ein rascher Open Government Partnership ­Beitritt, gesetzliche Rahmenbedingungen für Open Data (am besten über ein nationales Transparenzgesetz), Unterzeichnung der "Erklärung zur Parlamentarischen Offenheit" und die Schaffung eines einheitlichen Zugriffs auf die Bundestagsinformationssysteme (OParl) und die Etablierung einer zentralen Anlaufstelle für das Thema im Bereich der ministerienübergreifenden Bundesverwaltung.
 
 Eine weitere Aussage des Sachverständigen Schindler der ich mich als Konsens in diesem Zusammenhang auch anschließen würde:
 
 > Meine Aussage vor dem [#btADA](https://twitter.com/hashtag/btADA?src=hash) zu [#opendata](https://twitter.com/hashtag/opendata?src=hash) in der Ultrakurzfassung: Bitte Koalitionsvertrag umsetzen, das wäre ein großer Sprung nach vorne.
-> 
+>
 > — Mathias Schindler (@presroi) [5\. November 2014](https://twitter.com/presroi/status/530044731209043968)
 
 Am Ende des Gesprächs "[könnte man eigentlich voller Freude und Hoffnung sein](https://netzpolitik.org/2014/fachgespraech-zu-open-data-im-bundestag-eigentlich-wollen-alle-dasselbe/)". Nun bleibt anzuwarten, ob der Ausschuss wirklich (nach den Worten des Vorsitzenden Koeppen) die Anmerkungen und Anregungen der Experten aufgreifen und umsetzen wird.

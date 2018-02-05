@@ -1,11 +1,11 @@
 - name: Kristina Klein
   img: kristinaklein
   staff: 0
-  board: 0
+  board: 1
   advisory: 0
   position:
-  bio: "Kristina ist seit August 2014 Geschäftsführerin bei der Open Knowledge Foundation Deutschland. Davor war sie bei UNHCR in Myanmar für den Bereich Donor Relations zuständig. Kristina hat als Senior Program Manager der Carnegie Endowment for International Peace das Brüsseler Büro stellvertretend geleitet und als Programm- und Konferenz-Manager den Bereich Internationale Politik der Körber Stiftung begleitet. Weitere berufliche Stationen waren der Danish Refugee Council in Myanmar und das Wall Street Journal Europe in Berlin."
-  bio_en: "Kristina is Chief Executive Officer of OKF DE since August 2014. Previously, she worked as Peace Building Fund Coordinator with UNHCR in Myanmar. Kristina was the deputy lead of the Brussels office of Carnegie Endowment for International Peace, and part of the International Relations team of Körber Foundation. She has furthermore worked with the Danish Refugee Council in Myanmar and the Wall Street Journal Europe in Berlin."
+  bio: "Kristina ist seit 2017 im Vorstand der Open Knowledge Foundation Deutschland. Davor war sie drei Jahre lang Geschäftsführerin der Organisation. Sie war bei der UNHCR in Myanmar für den Bereich Donor Relations zuständig und hat als Senior Program Manager der Carnegie Endowment for International Peace das Brüsseler Büro stellvertretend geleitet sowie als Programm- und Konferenz-Manager den Bereich Internationale Politik der Körber Stiftung begleitet. Weitere berufliche Stationen waren der Danish Refugee Council in Myanmar und das Wall Street Journal Europe in Berlin."
+  bio_en: "Kristina is member of the board since 2017. She was Chief Executive Officer of the organization in the prior three years. Previously, she worked as Peace Building Fund Coordinator with UNHCR in Myanmar. Kristina was the deputy lead of the Brussels office of Carnegie Endowment for International Peace, and part of the International Relations team of Körber Foundation. She has furthermore worked with the Danish Refugee Council in Myanmar and the Wall Street Journal Europe in Berlin."
   mail: kristina.klein@okfn.de
   twitter:
   website:
@@ -33,6 +33,20 @@
   twitter: pluscha
   website:
   github: heleneh
+
+
+- name: Juliane Krüger
+  img: julianekrueger
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Juliane unterstützt die OKF als Assistenz der Geschäftsführung und hilft außerdem den Demokratielaboren bei der Zahlen- und Tabellenjonglage. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit Cybercontext, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen und des FIfF. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
+  bio_en: "Juliane works for the OKF as assistance to the management and also suppports the Demokratielabore project with their finances."
+  mail: juliane.krueger@okfn.de
+  twitter: 
+  website:
+  github: 
 
 - name: Sebastian Seitz
   img: sebastianseitz
@@ -71,6 +85,32 @@
   website: http://juliakloiber.com/
   github: juliakloiber
 
+- name: Sarina Balkhausen
+  img: sarinabalkhausen
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Sarina leitet seit Ende 2017 das Projekt «Code for Germany» und ist Expertin für interne und externe Kommunikation. Sie arbeitete als Redakteurin und Datenanalystin beim Blog Jung & Naiv und bei der gemeinnützigen Gesellschaft Correctiv in Berlin und war Übersetzerin des Campus-Startups Junior Entreprise EPFL in Lausanne, Schweiz. Ihre Herzensthemen sind digitale Bildung, Inklusion und IT-Sicherheit."
+  bio_en: "Since the end of 2017, Sarina leads the project „Code for Germany“. She is an expert for internal and external communications. As a journalist and data analyst, she has worked with the blog Jung & Naiv and with the non-profit organization Correctiv in Berlin, and has translated for the campus startup Junior Entreprise EPFL in Lausanne, Switzerland. Subjects most dear to her include digital education, inclusion and IT security."
+  mail: sarina.balkhausen@okfn.de
+  twitter: sarinabeta
+  website:
+  github: resarina
+
+- name: Lydia Böttcher
+  img: lydiaboettcher
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Lydia unterstützt das Team der Demokratielabore im Bereich des Projektmanagements politische Jugendbildung. Sie hat Erziehungs- und Bildungswissenschaft an der Freien Universität Berlin studiert und ist schnell in die Bildungsarbeit im Bereich der Jugendbeteiligung eingetaucht. Die Begleitung und Unterstützung von jugendlichen Freiwilligen im Programm des Freiwilligen Jahres Beteiligung sowie für den Landesjugendring Berlin e.V. haben sie einige Jahre beschäftigt und begeistert. Nebenbei gründete sie mit anderen Freiberufler_innen zusammen das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung. Neben der Arbeit in den Demokratielaboren ist sie weiterhin freiberuflich tätig und immer auf der Suche nach neuen Herausforderungen."
+  bio_en: "Lydia unterstützt das Team der Demokratielabore im Bereich des Projektmanagements politische Jugendbildung. Sie hat Erziehungs- und Bildungswissenschaft an der Freien Universität Berlin studiert und ist schnell in die Bildungsarbeit im Bereich der Jugendbeteiligung eingetaucht. Die Begleitung und Unterstützung von jugendlichen Freiwilligen im Programm des Freiwilligen Jahres Beteiligung sowie für den Landesjugendring Berlin e.V. haben sie einige Jahre beschäftigt und begeistert. Nebenbei gründete sie mit anderen Freiberufler_innen zusammen das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung. Neben der Arbeit in den Demokratielaboren ist sie weiterhin freiberuflich tätig und immer auf der Suche nach neuen Herausforderungen."
+  mail: lydia.boettcher@okfn.de
+  twitter:
+  website:
+  github: lydiaboe
+
 - name: Maria Reimer
   img: mariareimer
   staff: 1
@@ -81,6 +121,18 @@
   bio_en: "Maria Reimer is project lead for Jugend hackt. She studied Public Administration and Public Policy. Next to OKF DE, she works part-time for a member of the German parliament and actively promotes the Freedom of Information Act (FOI) as a Transparency International Germany volunteer."
   mail: maria.reimer@okfn.de
   twitter: malienamadrina
+  website:
+
+- name: Adriana Groh
+  img: adrianagroh
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Adriana ist Teil des Prototype Fund-Teams und kümmert sich um das Program Management. Zuvor hat sie Politikwissenschaft und European Public Policy and Administration in Frankfurt am Main und Maastricht studiert. Sie interessiert sich sehr für demokratische Innovationen und die Frage, wie Partizipation und gesellschaftlicher Austausch besser funktionieren könnten. 2016 hat Adriana das Projekt wepublic gestartet, das digitale Kommunikation zwischen Bürgern und Politikern verbessern soll."
+  bio_en: "Adriana is part of the Prototype Fund Team and responsible for the program management. Previously, Adriana studied Political Science and European Public Policy and Governance in Frankfurt am Main and in Maastricht. She is interested in how digital tools can improve democratic participation and communication. In 2016, Adriana started the project wepublic that aims connect societal and political interests."
+  mail: adriana.groh@okfn.de
+  twitter:
   website:
 
 - name: Paula Glaser
@@ -113,7 +165,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Fiona ist seit 2014 dabei und betreut und berät als Community Organizerin im Projekt Code for Germany über 20 Open Knowledge Labs in Deutschland. Nebenbei studiert sie Techniksoziologie an der Technischen Universität Berlin. Privat engagiert sie sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung, im Chaos Computer Club und interessiert sich für Gleichberechtigung in der IT. 2016 leitete Fiona das Projekt 'Digital Refugee Labs' im Rahmen von Code for Germany."
+  bio: "Fiona ist seit 2014 dabei und betreut und berät als Community Organizerin im Projekt Code for Germany über 20 Open Knowledge Labs in Deutschland. Nebenbei studiert sie Techniksoziologie an der Technischen Universität Berlin. Privat engagiert sie sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung, im Chaos Computer Club und interessiert sich für Gleichberechtigung in der IT. 2016 leitete Fiona das Projekt „Digital Refugee Labs“ im Rahmen von Code for Germany."
   bio_en: "Fiona has been with OKF DE since 2014 and is Code for Germany's Community Organizer. She supports 20 Open Knowledge Labs together with Julia and Eileen and studies the sociology of technology at the Technical University in Berlin. She has strong ties to a number of different NGOs that are connected to OKF DE's work and has been active in the field of digital literacy for a number of years. In 2016, Fiona will be Project Lead in the Code for Germany project 'Digital Refugee Labs'."
   mail: fiona.krakenbuerger@okfn.de
   twitter: Fotografiona
@@ -139,7 +191,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "Elisa unterstützt das Codefor-Team im Projekt 'Digital Refugee Labs'. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
+  bio: "Elisa unterstützt das Codefor-Team im Projekt „Digital Refugee Labs“. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
   bio_en: "Elisa supports the Codefor team in the project 'Digital Refugee Labs'. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
   mail: elisa.lindinger@okfn.de
   twitter: elizab0t
@@ -302,13 +354,13 @@
   website: https://pudo.org
   github: pudo
 
-- name: Christian Heise
+- name: Dr. Christian Heise
   img: christianheise
   staff: 0
   board: 1
   advisory: 0
   position: Vorsitzender
-  bio: "Christian Heise ist Vorsitzender der Open Knowledge Foundation Deutschland. Er ist Politologe und hat zum Thema Open Science am Centre for Digital Cultures an der Leuphana Universität Lüneburg promoviert. Derzeit ist er Mitglied des Google Digital News Initiative (DNI) Fund Teams. Zuvor war er als Manager bei der Deutschen Presse Agentur und bei ZEIT ONLINE tätig. Neben seiner ehrenamtlichen Tätigkeit im Vorstand der Open Knowledge Foundation ist er auch Gründungs- und Vorstandsmitglied im Förderverein für freie Netzwerke e.V. (freifunk.net)."
+  bio: "Dr. Christian Heise ist Vorsitzender der Open Knowledge Foundation Deutschland. Er ist Politologe und hat zum Thema Open Science am Centre for Digital Cultures an der Leuphana Universität Lüneburg promoviert. Derzeit ist er Mitglied des Google Digital News Initiative (DNI) Fund Teams. Zuvor war er als Manager bei der Deutschen Presse Agentur und bei ZEIT ONLINE tätig. Neben seiner ehrenamtlichen Tätigkeit im Vorstand der Open Knowledge Foundation ist er auch Gründungs- und Vorstandsmitglied im Förderverein für freie Netzwerke e.V. (freifunk.net)."
   bio_en: "Christian Heise is Manager of the Google Digital News Initiative Innovation Fund in Europe, working on stimulating innovation in the digital news ecosystem and demonstrating new thinking in the practice of digital journalism. He is also PhD Candidate at the Centre for Digital Cultures at Leuphana University Lüneburg, where he has handed in a PhD on Open Science. Previously, he was a manager at Deutsche Presse Agentur and worked at ZEIT ONLINE. Apart from his voluntary engagement in the board of OKF DE he is also founding and board member at Förderverein für Freie Netzwerke e.V. (freifunk.net)."
   mail: christian.heise@okfn.de
   twitter: christianheise
@@ -517,7 +569,7 @@
 - name: Xiaowei Chen
   title:
   img: xiaoweichen
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
@@ -680,8 +732,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei den Demokratielaboren."
-  bio_en: "Saadya has been working for the Open Knowledge Foundation since January 2017 and is a projekt manager at the Dmokratielabore."
+  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei 2030Watch."
+  bio_en: "Saadya has been working for the Open Knowledge Foundation since January 2017 and is a projekt manager at the 2030Watch."
   mail: saadya.windauer@okfn.de
   twitter:
   website:
@@ -698,3 +750,42 @@
   mail: lea.schubert@okfn.de
   twitter:
   website:
+
+- name: Tanja Zagel
+  img: tanjazagel
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Tanja ist seit 2017 Projektleitung bei Jugend hackt. Zuvor hat sie eine deutschlandweite Initiative für frühe MINT-Bildung mit aufgebaut und in verschiedenen IT-Unternehmen gearbeitet. Sie ist überzeugt, dass digitale Technologien gut für die Gesellschaft sind - wenn wir sie gut machen. Deshalb arbeitet sie sehr gern an Jugend hackt, einem Projekt, das junge Menschen ermutigt, eine positive Vision für die digitale Zukunft zu entwickeln."
+  bio_en: "Tanja is project lead of Jugend Hackt since October 2017. Before joining OKF, she has been building up a nationwide initiative supporting early-education in mathematics, tech and science. Previously, she worked for different IT-companies. Tanja is convinced that digital technology is good for our society - as long as we use it well. That’s why she loves working on Jugend Hackt, a project encouraging young people to develop a positive vision for our digital future."
+  mail: "tanja.zagel@okfn.de"
+  twitter: 
+  website:
+
+- name: Nadine Stammen
+  img: nadinestammen
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
+  bio_en: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
+  mail: "nadine.stammen@okfn.de"
+  twitter: stadine
+  website:
+
+- name: Lea Pfau
+  img: leapfau
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Lea ist seit September 2017 bei der OKF und unterstützt als studentische Mitarbeiterin die Demokratielabore. Sie studiert Politikwissenschaften an der FU Berlin und beschäftigt sich außerdem im Rahmen des Europäischen Jugendparlaments mit politischer Jugendbildung im Zusammenhang mit Medien. "
+  bio_en: "Lea has been working for the OKF since September 2017 in the project Demokratielabore. She studies Political Science at the FU Berlin and, working with the European Youth Parliament, explores the significance of media in policial youth education. "
+  mail: "lea.pfau@okfn.de"
+  twitter: 
+  website:
+
+
+

@@ -1,18 +1,31 @@
 ---
-type: archive
+type: politics
 title: "Offenes Parlament"
-url: http://offenesparlament.de
-img: projects/offenesparlament.jpg
+url: https://offenesparlament.de
+img: projects/offenesparlament.png
 layout: project
 people:
-  - name: Friedrich Lindenberg
+  - name: Helene Hahn
     role: Projektleitung
+  - name: Jasmin Helm
+    role: Kommunikation
+  - name: Moritz Neujeffski
+    role: Workshopkonzeption
+  - name: Knut Perseke
+    role: Entwicklung
 contact:
-  website: http://offenesparlament.de
-  mailinglist: https://lists.okfn.org/mailman/listinfo/offenes-parlament
+  website: https://datenschule.de
+  github: https://github.com/datenschule/offenesparlament.de
 de:
   content: |-
-     Offenes Parlament will Menschen über politische Vorgänge informieren und die Arbeit des deutschen Parlaments für Interessierte zugänglich und nachvollziehbar machen. Das Angebot bietet kompakte Fakten zu parlamentarischen Anfragen, umstrittenen Gesetzesnovellen oder spannenden Schlagabtäuschen. Es will damit eine Grundlage für die Förderung von sachlichen Debatten und konstruktiver Beteiligung sein.
+  
+    OffenesParlament existiert seit 2013 und ist ein Community-Projekt, zu dem viele ehrenamtlich Engagierte beigetragen haben. Ziel ist es, Regierungshandeln verständlicher und transparenter zu machen. 
+    
+    Wir wollen wissen, über welche Themen im Bundestag verhandelt wird und welche Positionen die einzelnen Abgeordneten beziehen.
+  
+    OffenesParlament wurde in einer Kooperation der [Datenschule](https://datenschule.de) zusammen mit [Abgeordnetenwatch](https://abgeordnetenwatch.de) mit dem Ziel alle Plenarprotokolle des Bundestages aus der 18. Wahlperiode (2013 - 2017) durchsuchbar zu machen, neu aufgesetzt.
+     
+    Die maschinenlesbaren Protokolle stehen auf [GitHub](https://github.com/Datenschule/offenesparlament-data) zur Verfügung
 
 en:
   content: |-
