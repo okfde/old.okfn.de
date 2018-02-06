@@ -26,7 +26,7 @@ de:
 en:
   subtitle: Discover the potential of open data in the classroom.
   content: |-
-      <a href="https://datenmachenschule.de"><img src="/static/images/backgrounds/datenschule-bg.png"></a>
+      <a href="https://datenmachenschule.de"><img src="/static/images/backgrounds/datenmachenschule-bg.png"></a>
       DatenmachenSchule.de is a place where the potential of using open data in the classroom is illustrated. Based on the pioneering work of the Rhein-Waal University of Applied Sciences, the Adolfinum Grammar School, the City of Moers and the Lower Rhine University of Applied Sciences OK-Lab, information and resources have been compiled that will enable teachers and schools to use applications based on open data. The OffenerHaushalt. de tool has been technically and structurally redesigned to visualize data on tax expenditure and thus make it clear and tangible.
 
 
