@@ -20,7 +20,7 @@ title: "Aktueller Koalitonsvertrag tl;dr"
 Zusammenfassung des aktuellen [Koaltionsvertrages](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf).
 
 
-1130 5. Digitalisierung [wohlwollende Prüfung durch Finanzer steht aus]
+1130 5. Digitalisierung "wohlwollende Prüfung durch Finanzer steht aus"
 
 Beteiligungsplattform begrüßen wir, daß der Vorreiter 
 
