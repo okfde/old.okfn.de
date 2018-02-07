@@ -68,21 +68,21 @@ Hinweis: [Richtline Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.e
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
 <br>
 
-Word count:
-4x Open Data
-7x Blockchain
+Word count Statistik:<br>
+4x Open Data<br>
+7x Blockchain<br>
 
 **Weitere interessante Punkte:** <i><br>
 180 Wir unterstützen eine gerechte Besteuerung großer Konzerne, gerade auch der<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
 <br>
-Dies würde, wenn erstgemeint, endlich mal das Stopfen der [Steuerlöcher](https://media.ccc.de/v/34c3-9047-taxation) für internationale Konzerne bedeuten. 
-Das wäre Ostern und Weihnachten zugleich. 
+<b>Dies würde, wenn erstgemeint, endlich mal das Stopfen der [Steuerlöcher](https://media.ccc.de/v/34c3-9047-taxation) für internationale Konzerne bedeuten. <br>
+Das wäre Ostern und Weihnachten zugleich. <b>
 <br>
 
 
 
-**Was wir vermisstn aus dem [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)**
+**Was wir vermissen aus dem [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)**
 <br>
 <i>
 Strittig sind aktuell die Punkte Transparenzgesetz & Lobbyregister:
@@ -99,10 +99,8 @@ Strittig intern: Formulierungsvorschlag SPD: Wir wollen mit einem verpflichtende
 Lobby-Register Transparenz schaffen ohne wirksames Regierungshandeln oder die<br>
 freie Ausübung des parlamentarischen Mandats einzuschränken.<br></i>
 
-Das fehlende Lobbyregister war übrigens bei [Jamaika dabei](https://twitter.com/a_watch/status/961211427926282243).
+<b>Das fehlende Lobbyregister war übrigens bei [Jamaika dabei](https://twitter.com/a_watch/status/961211427926282243).</b>
 
 
 Was wir nicht vermissen sind BEA, de-mail, ... 
-
-Weitere 
 
