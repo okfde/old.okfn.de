@@ -55,7 +55,7 @@ title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version"
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
 <br>
 <b>#Beteiligungsplattform begrüßen wir.<br></b>
-Wir freuen uns, dass unsere Kampagne [Gläserne Gesetze](https://fragdenstaat.de/gesetze) 
+Wir freuen uns, dass unsere Kampagne <a href="https://fragdenstaat.de/gesetze">"Gläserne Gesetze"</a> 
 vom Sommer 2017 solchen Anklang fand. [Grafik zur Analyse](https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg)
 <br><br>
 <i>
