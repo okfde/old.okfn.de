@@ -37,8 +37,8 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
 <br>
 <b>Beteiligungsplattform begrüßen wir.<br>
-Wir freuen uns, dass unsere Kampagne ["Gläserne Gesetze"]
-[Gläserne Gesetze](https://fragdenstaat.de/gesetze) vom Sommer 2017 solchen Anklang fand.</b>
+Wir freuen uns, dass unsere Kampagne [Gläserne Gesetze](https://fragdenstaat.de/gesetze) 
+vom Sommer 2017 solchen Anklang fand.</b>
 <br><br>
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
