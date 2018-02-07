@@ -57,12 +57,12 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 <b>"internationaler Vorreiter", "Open by default“, #ogpde Begrüßen wir. Werden wir monitoren.</b>
 <br><br>
 
-Thema Nahverkehr <i><br>
+<b>Thema Nahverkehr</b> <i><br>
 5742 Im Personenbeförderungsgesetz werden wir klarstellen, dass über die<br>
 5743 Nahverkehrspläne soziale Standards zum Schutz der Beschäftigten sowie qualitative<br>
 5744 und ökologische Standards auch für eigenwirtschaftliche Verkehre gelten. <br></i>
 <br>
-<b<Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten (Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden).</b>
+<b>Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten (Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden).</b>
 <br>
 Hinweis: [Richtline Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
@@ -72,11 +72,11 @@ Word count:
 4x Open Data
 7x Blockchain
 
-**Weitere interessante Punkte:** <i>
+**Weitere interessante Punkte:** <i><br>
 180 Wir unterstützen eine gerechte Besteuerung großer Konzerne, gerade auch der<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
 <br>
-Dies würde, wenn erstgemeint, endlich mal das Stopfen der Steuerlöcher für internationale Konzerne bedeuten.
+Dies würde, wenn erstgemeint, endlich mal das Stopfen der [Steuerlöcher](https://media.ccc.de/v/34c3-9047-taxation) für internationale Konzerne bedeuten. 
 Das wäre Ostern und Weihnachten zugleich. 
 <br>
 
