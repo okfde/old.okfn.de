@@ -71,10 +71,9 @@ vom Sommer 2017 solchen Anklang fand.</b>
 2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. <br></i>
 <br>
 <b>Zweites #Open Data Gesetzes, wunderbar.<br>
-Die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ein ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de)<br>. 
-Mit besten Grüßen nach Bayern! <br>
-Dem zukünftigen infrastrukturellen Transparenzvorbild für das ganze Land.</b>
-Im Entwurf vom 05.02 war es noch strittig, ob es nur ein zweites #OpenData-Gesetz oder ein #Transparenzgesetz geben soll. 
+Die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ein ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de).<br> 
+Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für das ganze Land.</b><br>
+Im [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf) war es noch strittig, ob es nur ein zweites #OpenData-Gesetz oder ein #Transparenzgesetz geben soll. 
 <i><br>
 1568 Strittig intern: Formulierungsvorschlag SPD: Um den Open Data-Gedanken zu stärken werden wir die gegenwärtig nebeneinander bestehenden Informationsfreiheitsgesetze (Informationsfreiheitsgesetz, Umweltinformationsgesetz, Verbraucherinformationsgesetz) werden wir zusammenführen in einem Transparenzgesetz. Der Bürger soll einen Rechtsanspruch auf Open Data haben.<br></i>
 
@@ -82,7 +81,7 @@ Wir schliessen uns der Begeisterung in der Forderung von Andreas Scheuer zu Agen
 <i><br>
 Scheuer: „Die neue Bundesregierung hat eine zentrale Aufgabe: das Großprojekt „Deutschland digital“! Dazu braucht es den Willen aller, die Bundesregierung muss initialisieren und koordinieren, die Kompetenzen der Länder müssen voll gewahrt bleiben und alle müssen an einem Strang ziehen. Wir brauchen die Begeisterung für die neuen Chancen in unserem Land. Für ein dynamisches Deutschland.“</i><br>
 
-Ein dynamisches Deutschland und internationaler Vorreiter - siehe 6097 - kann nur ein Transparenzgesetz bedeuten. 
+<b>Ein dynamisches Deutschland und internationaler Vorreiter - siehe 6097 - kann nur ein Transparenzgesetz bedeuten.</b> 
 Wir sehen diesen Willen, und copy und paste Ausrutscher passieren natürlich in solch langen, nächtlichen Sitzungen. Dafür haben wir Verständnis.
 <br><br>
 
