@@ -56,7 +56,7 @@ title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version"
 <br>
 <b>#Beteiligungsplattform begrüßen wir.<br></b>
 Wir freuen uns, dass unsere Kampagne <a href="https://fragdenstaat.de/gesetze">"Gläserne Gesetze"</a> 
-vom Sommer 2017 solchen Anklang fand. [Grafik zur Analyse](https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg)
+vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg">Grafik zur Analyse</a>.
 <br><br>
 <i>
 2049 IT-Kompetenzen sollen eine stärkere Gewichtung in den Anforderungsprofilen und <br>
