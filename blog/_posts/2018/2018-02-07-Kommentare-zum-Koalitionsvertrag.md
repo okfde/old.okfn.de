@@ -57,7 +57,7 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 "internationaler Vorreiter", "Open by default“, #ogpde Begrüßen wir. Werden wir monitoren.
 <br><br>
 
-Thema Nahverkehr <i>
+Thema Nahverkehr <i><br>
 5742 Im Personenbeförderungsgesetz werden wir klarstellen, dass über die<br>
 5743 Nahverkehrspläne soziale Standards zum Schutz der Beschäftigten sowie qualitative<br>
 5744 und ökologische Standards auch für eigenwirtschaftliche Verkehre gelten. <br></i>
