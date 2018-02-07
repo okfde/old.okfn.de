@@ -25,33 +25,41 @@ title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version"
 <br>
 <i>
 1484 Wir wollen den Dialog von<br>
-1485 Wirtschaft, Politik, Wissenschaft und Gesellschaft intensivieren, neue Beteiligungs<br>
+1485 Wirtschaft, Politik, Wissenschaft und Gesellschaft intensivieren, neue Beteiligungs-<br>
 1486 formen unter Einbeziehung der Zivilgesellschaft erproben und die Wissenschafts<br>
 1487 kommunikation stärken.<br><br></i>
 <b>Einbeziehung der Zivilgesellschaft, klingt mal gut.</b>
 <br><br>
 <i>
+1707 ... Durch die An-<br>
+1708 erkennung der Gemeinnützigkeit des Betriebs und der Unterhaltung offener WLAN-<br>
+1709 Netze stärken wir Freifunk-Initiativen und verbessern die Netzabdeckung.<br><br></i>
+<b>Anerkennung von Freifunk, klingt mal gut.</b>
+<br><br>
+
+
+<i>
 1728 ... Im Rahmen einer umfassenden Open Edu<br>
-1729 cational Resources-Strategie wollen wir die Entstehung und Verfügbarkeit, die Wei<br>
-1730 terverbreitung und den didaktisch fundierten Einsatz offen lizenzierter, frei zugängli<br>
-1731 cher Lehr- und Lernmaterialien fördern und eine geeignete Qualitätssicherung etab<br>
+1729 cational Resources-Strategie wollen wir die Entstehung und Verfügbarkeit, die Wei-<br>
+1730 terverbreitung und den didaktisch fundierten Einsatz offen lizenzierter, frei zugängli-<br>
+1731 cher Lehr- und Lernmaterialien fördern und eine geeignete Qualitätssicherung etab-<br>
 1732 lieren. <br></i>
 <br>
 <b>#OER-Strategie, klingt mal gut.</b>
 <br><br>
 <i>
 2014 Wir errichten eine E-Government-Agentur, die gemeinsam schneller als bisher für <br>
-2015 alle föderalen Ebenen Standards sowie Pilotlösungen entwickelt. Die Initiative För <br>
-2016 derale IT-Kooperationen (FITKO) kann damit verbunden werden. Mit der Agentur <br>
-2017 wollen wir einen Think Tank einrichten, regionale Open Government Labore ermögli- <br>
-2018 chen und einen Incubator/Accelerator für innovative E-Goverment-Lösungen ansie <br>
-2019 deln.  <br></i>
+2015 alle föderalen Ebenen Standards sowie Pilotlösungen entwickelt. Die Initiative För-<br>
+2016 derale IT-Kooperationen (FITKO) kann damit verbunden werden. Mit der Agentur-<br>
+2017 wollen wir einen Think Tank einrichten, regionale Open Government Labore ermögli-<br>
+2018 chen und einen Incubator/Accelerator für innovative E-Goverment-Lösungen ansie-<br>
+2019 deln. <br></i>
 <br>
 <b>#Regionale Open Government Labore, wunderbar.</b>
 <br><br>
 <i>
 2036 Wir werden eine Beteiligungsplattform für alle veröffentlichten Gesetzentwürfe der<br>
-2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver<br>
+2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver-<br>
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
 <br>
 <b>#Beteiligungsplattform begrüßen wir.<br></b>
@@ -154,7 +162,7 @@ Das wäre Ostern und Weihnachten zugleich. </b>
 
 Zu #Breitbandausbau verweisen wir auf ['Schnelles Internet für alle: Große Koalition will Rechtsanspruch, Industrie warnt vor „Planwirtschaft“'](https://netzpolitik.org/2018/schnelles-internet-fuer-alle-grosse-koalition-will-rechtsanspruch-industrie-warnt-vor-planwirtschaft/)
 
-<b>Word count Statistik:</b><br>
+<b>Word Count Statistik:</b><br>
 4x Open Data<br>
 7x Blockchain<br>
 
@@ -166,13 +174,13 @@ Zu #Breitbandausbau verweisen wir auf ['Schnelles Internet für alle: Große Koa
 Lobby-Register Transparenz schaffen ohne wirksames Regierungshandeln oder die<br>
 freie Ausübung des parlamentarischen Mandats einzuschränken.<br></i>
 
-<b>Das fehlende Lobbyregister war übrigens bei den [Jamaika Verhandlungen schon durch](https://twitter.com/a_watch/status/961211427926282243), daher sprechen der Regierung das vollste Vertrauen aus eine Mehrheit zur Umsetzung, auch ohne Verschriftlichung, zu finden.</b>
+<b>Das fehlende Lobbyregister war übrigens bei den [Jamaika Verhandlungen schon durch](https://twitter.com/a_watch/status/961211427926282243), daher sprechen wir der Regierung das vollste Vertrauen aus eine Mehrheit zur Umsetzung, auch ohne Verschriftlichung im Koalitionsvertrag, zu finden.</b>
 
 
 <br>
-Was wir nicht vermissen sind BEA, de-mail, ... 
+Was wir nicht vermissen sind BEA, de-mail, ... <br>
 
 Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserklärungen im Koalitionsvertrag auch positive, konkrete Umsetzungen (Opendatagesetz2.0 aka Transparenzgesetzfolgen) werden. Und zwar vor 2050.
 
 <br>
-ps: Eine der Autoren ist Österreicher, sieht Deutschland punkto Rechtspopulismus noch als Fels in der Brandung und hofft der Schuss aus Österreich wurde gehört und die notwendigen Schritte (Transparenzgesetz, Lobbyregister, ...) werden gesetzt.
+ps: Einer der Autoren ist Österreicher, sieht Deutschland punkto Rechtspopulismus noch als Fels in der Brandung und hofft der Schuss aus Österreich wurde gehört und die notwendigen Schritte (Transparenzgesetz, Lobbyregister, ...) werden gesetzt.
