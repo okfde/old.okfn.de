@@ -21,7 +21,7 @@ title: "Aktueller Koalitonsvertrag 07.02 tl;dr Version"
 
 Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
 
-2014 Wir errichten eine E-Government-Agentur, die gemeinsam schneller als bisher für
+2014 Wir errichten eine E-Government-Agentur, die gemeinsam schneller als bisher für <br>
 2015 alle föderalen Ebenen Standards sowie Pilotlösungen entwickelt. Die Initiative För
 2016 derale IT-Kooperationen (FITKO) kann damit verbunden werden. Mit der Agentur
 2017 wollen wir einen Think Tank einrichten, regionale Open Government Labore ermögli-
@@ -67,7 +67,7 @@ Hinweis: [Richtline Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.e
 
 Word count:
 7x Open Data
-6x Blockchain
+7x Blockchain
 
 
 Was wir vermissten aus dem [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)
@@ -85,4 +85,8 @@ ger soll einen Rechtsanspruch auf Open Data haben.
 Strittig intern: Formulierungsvorschlag SPD: Wir wollen mit einem verpflichtenden
 Lobby-Register Transparenz schaffen ohne wirksames Regierungshandeln oder die
 freie Ausübung des parlamentarischen Mandats einzuschränken.
+
+Was nicht vermisst wurde sind BEA, de-mail, 
+
+Weitere 
 
