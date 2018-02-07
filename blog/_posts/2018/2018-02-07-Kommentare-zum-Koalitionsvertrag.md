@@ -19,7 +19,7 @@ title: "Aktueller Koalitonsvertrag 07.02 tl;dr Version"
 ---
 
 
-Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
+# Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
 
 <i>
 2014 Wir errichten eine E-Government-Agentur, die gemeinsam schneller als bisher für <br>
@@ -36,7 +36,7 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver<br>
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
 <br>
-**Beteiligungsplattform begrüßen wir. Wir freuen uns, dass unsere Kampagne [Gläserne Gesetze}(https://fragdenstaat.de/gesetze/) vom Sommer 2017 solchen Anklang fand.
+**Beteiligungsplattform begrüßen wir. Wir freuen uns, dass unsere Kampagne [Gläserne Gesetze}(https://fragdenstaat.de/gesetze/) vom Sommer 2017 solchen Anklang fand.**
 <br><br>
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
