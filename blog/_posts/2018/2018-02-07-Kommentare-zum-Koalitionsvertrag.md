@@ -36,8 +36,9 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver<br>
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
 <br>
-<b>Beteiligungsplattform begrüßen wir. Wir freuen uns, dass unsere Kampagne 
-[Gläserne Gesetze](https://fragdenstaat.de/gesetze/)  vom Sommer 2017 solchen Anklang fand.</b>
+<b>Beteiligungsplattform begrüßen wir.<br>
+Wir freuen uns, dass unsere Kampagne ["Gläserne Gesetze"]
+[Gläserne Gesetze](https://fragdenstaat.de/gesetze) vom Sommer 2017 solchen Anklang fand.</b>
 <br><br>
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
@@ -47,11 +48,12 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 <b>Zweites Open Data Gesetzes - die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de) 
 Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für die ganze Land.</b>
 <br><br>
+
 <i>
 2097 Diskriminierungsverbote der analogen Welt müssen auch in der digitalen Welt der<br>
 2098 Algorithmen gelten. Wir setzen uns für Transparenz bei Online-Vergleichs- und Bera<br>
 2099 tungsportalen ein.<br></i>
-<b>Ja, zu Transparenz und Kontrollmechanismen für Algorithmen. </b><br>
+<b>Ja, zu Transparenz und Kontrollmechanismen für Algorithmen. </b><br><br>
 
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
@@ -64,6 +66,15 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 <b>"internationaler Vorreiter", "Open by default“, #ogpde
 <br>Begrüßen wir. Werden wir monitoren.</b>
 <br><br>
+
+<i>
+6107 Die Frage, ob und wie ein Eigentum an Daten ausgestaltet sein kann, müssen wir<br>
+6108 zügig angehen.<br></i>
+
+<b>Sportliche Ambitionen. Ob man dieses Faß aufmachen musst, stellt sich die Frage.</b><br>
+[Neue SNV-Studie zum Thema](https://www.stiftung-nv.de/de/publikation/dateneigentum-eine-gute-idee-fuer-die-datenoekonomie)
+
+
 
 <b>Thema Nahverkehr</b> <i><br>
 5742 Im Personenbeförderungsgesetz werden wir klarstellen, dass über die<br>
