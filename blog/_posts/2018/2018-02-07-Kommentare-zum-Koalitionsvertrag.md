@@ -88,16 +88,16 @@ Wir sehen diesen Willen, und copy und paste Ausrutscher passieren natürlich in 
 <i>
 2097 Diskriminierungsverbote der analogen Welt müssen auch in der digitalen Welt der<br>
 2098 Algorithmen gelten. Wir setzen uns für Transparenz bei Online-Vergleichs- und Bera<br>
-2099 tungsportalen ein.<br></i>
-<b>#Transparenz und Kontrollmechanismen für Algorithmen, klingt mal gut </b><br><br>
+2099 tungsportalen ein.<br></i><br>
+<b>#Transparenz und Kontrollmechanismen für Algorithmen, klingt mal gut.</b><br><br>
 <i>
 2101 Wir werden zeitnah eine Daten-Ethikkommission einsetzen, die Regierung und Par<br>
 2102 lament innerhalb eines Jahres einen Entwicklungsrahmen für Datenpolitik, den Um<br>
 2103 gang mit Algorithmen, künstlicher Intelligenz und digitalen Innovationen vorschlägt.<br>
 2104 Die Klärung datenethischer Fragen kann Geschwindigkeit in die digitale Entwicklung<br>
 2105 bringen und auch einen Weg definieren, der gesellschaftliche Konflikte im Bereich<br>
-2106 der Datenpolitik auflöst.<br></i>
-<b>#Daten-Ethikkommission, klingt mal gut. Upcoming.</b>br><br>
+2106 der Datenpolitik auflöst.<br></i><br>
+<b>#Daten-Ethikkommission, klingt mal gut. Upcoming.</b><br><br>
 
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
@@ -115,7 +115,7 @@ Wir sehen diesen Willen, und copy und paste Ausrutscher passieren natürlich in 
 6107 Die Frage, ob und wie ein Eigentum an Daten ausgestaltet sein kann, müssen wir<br>
 6108 zügig angehen.<br></i><br>
 
-<b>Sportliche Ambitionen. Stellt sich die Frage, ob man dieses Faß aufmachen muss.</b><br>
+<b>Sportliche Ambitionen. Stellt sich die Frage, ob man dieses Faß aufmachen will bzw. muss.</b><br>
 [Neue SNV-Studie zum Thema](https://www.stiftung-nv.de/de/publikation/dateneigentum-eine-gute-idee-fuer-die-datenoekonomie)
 
 
@@ -147,15 +147,16 @@ Das wäre Ostern und Weihnachten zugleich. </b>
 **Wir vermissen aus dem [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)**
 <br>
 <i>
-1601 
-Strittig intern: Formulierungsvorschlag SPD: Wir wollen mit einem verpflichtenden<br>
+1601 Strittig intern: Formulierungsvorschlag SPD: Wir wollen mit einem verpflichtenden<br>
 Lobby-Register Transparenz schaffen ohne wirksames Regierungshandeln oder die<br>
 freie Ausübung des parlamentarischen Mandats einzuschränken.<br></i>
 
-<b>Das fehlende Lobbyregister war übrigens bei [Jamaika dabei](https://twitter.com/a_watch/status/961211427926282243).</b>
+<b>Das fehlende Lobbyregister war übrigens bei den [Jamaika Verhandlungen schon durch](https://twitter.com/a_watch/status/961211427926282243), daher haben wir vollste Hoffnung diese Mehrheit zur Umsetzung wird sich auch ohne Verschriftlichung finden.</b>
 
 
 Was wir nicht vermissen sind BEA, de-mail, ... 
 
 Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserklärungen im Koalitionsvertrag auch positive, konkrete Umsetzungen (Opendatagesetz2.0 aka Transparenzgesetzfolgen) werden. Und zwar vor 2050.
 
+<br>
+ps: Eine der Autoren ist Österreicher, sieht Deutschland punkto Rechtspopulismus noch als Fels in der Brandung und hofft der Schuss aus Österreich wurde gehört und die notwendigen Schritte (Transparenzgesetz, Lobbyregister, ...) werden gesetzt.
