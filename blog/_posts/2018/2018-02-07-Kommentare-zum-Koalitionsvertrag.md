@@ -71,7 +71,7 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 6107 Die Frage, ob und wie ein Eigentum an Daten ausgestaltet sein kann, müssen wir<br>
 6108 zügig angehen.<br></i>
 
-<b>Sportliche Ambitionen. Ob man dieses Faß aufmachen musst, stellt sich die Frage.</b><br>
+<b>Sportliche Ambitionen. Ob man dieses Faß aufmachen musst, stellt sich die Frage.</b><br><br>
 [Neue SNV-Studie zum Thema](https://www.stiftung-nv.de/de/publikation/dateneigentum-eine-gute-idee-fuer-die-datenoekonomie)
 
 
