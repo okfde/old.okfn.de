@@ -71,8 +71,8 @@ vom Sommer 2017 solchen Anklang fand. [Grafik zur Analyse](https://pbs.twimg.com
 2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. <br></i>
 <br>
 <b>Zweites #Open Data Gesetzes, wunderbar.<br>
-Die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ein ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de).<br> 
-Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für das ganze Land.</b><br>
+Die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes.</b> [Ein ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de).<br> 
+<b>Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für das ganze Land.</b><br>
 Im [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf) war es noch strittig, ob es nur ein zweites #OpenData-Gesetz oder ein #Transparenzgesetz geben soll. 
 <i><br>
 1568 Strittig intern: Formulierungsvorschlag SPD: Um den Open Data-Gedanken zu stärken werden wir die gegenwärtig nebeneinander bestehenden Informationsfreiheitsgesetze (Informationsfreiheitsgesetz, Umweltinformationsgesetz, Verbraucherinformationsgesetz) werden wir zusammenführen in einem Transparenzgesetz. Der Bürger soll einen Rechtsanspruch auf Open Data haben.<br></i>
@@ -109,7 +109,7 @@ Wir sehen diesen Willen, und copy und paste Ausrutscher passieren natürlich in 
 2209 lierungsbehörde eng mit den Medienanstalten der Länder zusammenarbeiten und<br>
 2210 diese in die Aufsicht über die Medienvielfalt einbeziehen.<br></i><br>
 <b>#Netzneutralität, klingt mal gut. Aber mit Ausnahmen. Nicht so gut.</b><br>
-Mittlerweile erklärt schon eine [Burgerbude die Netzneutraliät auf verständliche Weise.](https://www.youtube.com/watch?v=ltzy5vRmN8Q). Für lokale Anpassungen und Präferenzen die Burger gerne mit Curry- oder Weißwürsten austauschen.<br><br>
+Mittlerweile erklärt schon eine [Burgerbude die Netzneutraliät auf verständliche Weise](https://www.youtube.com/watch?v=ltzy5vRmN8Q). Für lokale Anpassungen und Präferenzen die Burger gerne mit Curry- oder Weißwürsten austauschen.<br><br>
 
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
@@ -142,19 +142,22 @@ Hinweis: [Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/l
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
 <br>
 
-Zu #Breitbandausbau verweisen wir auf ['Schnelles Internet für alle: Große Koalition will Rechtsanspruch, Industrie warnt vor „Planwirtschaft“'](https://netzpolitik.org/2018/schnelles-internet-fuer-alle-grosse-koalition-will-rechtsanspruch-industrie-warnt-vor-planwirtschaft/)
+**Weitere interessante Punkte:** 
 
-Word count Statistik:<br>
-4x Open Data<br>
-7x Blockchain<br>
-
-**Weitere interessante Punkte:** <i><br>
+<i><br>
 180 Wir unterstützen eine gerechte Besteuerung großer Konzerne, gerade auch der<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
 <br>
 <b>Dies würde, wenn erstgemeint, endlich mal das Stopfen der [Steuerlöcher](https://media.ccc.de/v/34c3-9047-taxation) für internationale Konzerne bedeuten. <br>
 Das wäre Ostern und Weihnachten zugleich. </b>
 <br>
+
+Zu #Breitbandausbau verweisen wir auf ['Schnelles Internet für alle: Große Koalition will Rechtsanspruch, Industrie warnt vor „Planwirtschaft“'](https://netzpolitik.org/2018/schnelles-internet-fuer-alle-grosse-koalition-will-rechtsanspruch-industrie-warnt-vor-planwirtschaft/)
+
+<b>Word count Statistik:</b><br>
+4x Open Data<br>
+7x Blockchain<br>
+
 
 **Wir vermissen aus dem [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)**
 <br>
@@ -163,9 +166,10 @@ Das wäre Ostern und Weihnachten zugleich. </b>
 Lobby-Register Transparenz schaffen ohne wirksames Regierungshandeln oder die<br>
 freie Ausübung des parlamentarischen Mandats einzuschränken.<br></i>
 
-<b>Das fehlende Lobbyregister war übrigens bei den [Jamaika Verhandlungen schon durch](https://twitter.com/a_watch/status/961211427926282243), daher haben wir vollste Hoffnung diese Mehrheit zur Umsetzung wird sich auch ohne Verschriftlichung finden.</b>
+<b>Das fehlende Lobbyregister war übrigens bei den [Jamaika Verhandlungen schon durch](https://twitter.com/a_watch/status/961211427926282243), daher sprechen der Regierung das vollste Vertrauen aus eine Mehrheit zur Umsetzung, auch ohne Verschriftlichung, zu finden.</b>
 
 
+<br>
 Was wir nicht vermissen sind BEA, de-mail, ... 
 
 Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserklärungen im Koalitionsvertrag auch positive, konkrete Umsetzungen (Opendatagesetz2.0 aka Transparenzgesetzfolgen) werden. Und zwar vor 2050.
