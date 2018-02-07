@@ -28,25 +28,24 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 2017 wollen wir einen Think Tank einrichten, regionale Open Government Labore ermögli- <br>
 2018 chen und einen Incubator/Accelerator für innovative E-Goverment-Lösungen ansie <br>
 2019 deln.  <br></i>
-
-
+<br>
 Regionale Open Government Labore, wunderbar.
 
 <i>
 2036 Wir werden eine Beteiligungsplattform für alle veröffentlichten Gesetzentwürfe der<br>
 2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver<br>
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
-
+<br>
 Beteiligungsplattform begrüßen wir. Wir freuen uns, dass unsere Kampagne ["Gläserne Gesetze"](https://fragdenstaat.de/gesetze/) vom Sommer 2017 solchen Anklang fand.
 
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
 2074 Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines <br>
 2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. <br></i>
-
+<br>
 Zweiten Open Data Gesetzes - die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de)
 Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für die ganze Land.
-
+<br>
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
 6096 Partnership. Im Bereich „Open Data“ wollen wir erreichen, dass die Bundesregierung<br>
@@ -54,19 +53,19 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 6098 sprechend dem Prinzip „Open by default“ Teil des täglichen Verwaltungshandelns<br>
 6099 werden. Der digitale Wandel der öffentlichen Verwaltung wird auch in der Aus- und<br>
 6100 Fortbildung und der Organisationsentwicklung vorangetrieben. <br></i>
-
+<br>
 "internationaler Vorreiter", "Open by default“, #ogpde Begrüßen wir. Werden wir monitoren.
-
+<br>
 
 Thema Nahverkehr <i>
 5742 Im Personenbeförderungsgesetz werden wir klarstellen, dass über die<br>
 5743 Nahverkehrspläne soziale Standards zum Schutz der Beschäftigten sowie qualitative<br>
 5744 und ökologische Standards auch für eigenwirtschaftliche Verkehre gelten. <br></i>
-
+<br>
 Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten (ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden)
 Hinweis: [Richtline Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
-
+<br>
 
 Word count:
 4x Open Data
@@ -75,6 +74,10 @@ Word count:
 Weitere interessante Punkte: <i>
 180 Wir unterstützen eine gerechte Besteuerung großer Konzerne, gerade auch der<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
+<br>
+Dies würde, wenn erstgemeint, endlich mal das Stopfen der Steuerlöcher für internationale Konzerne bedeuten.
+Das wäre Ostern und Weihnachten zugleich. 
+<br>
 
 
 
