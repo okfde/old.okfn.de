@@ -29,7 +29,9 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 2018 chen und einen Incubator/Accelerator für innovative E-Goverment-Lösungen ansie <br>
 2019 deln.  <br></i>
 
+
 Regionale Open Government Labore, wunderbar.
+
 <i>
 2036 Wir werden eine Beteiligungsplattform für alle veröffentlichten Gesetzentwürfe der<br>
 2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver<br>
@@ -73,7 +75,6 @@ Word count:
 Weitere interessante Punkte: <i>
 180 Wir unterstützen eine gerechte Besteuerung großer Konzerne, gerade auch der<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
-
 
 
 
