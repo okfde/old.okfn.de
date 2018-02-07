@@ -28,13 +28,13 @@ title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version"
 1485 Wirtschaft, Politik, Wissenschaft und Gesellschaft intensivieren, neue Beteiligungs-<br>
 1486 formen unter Einbeziehung der Zivilgesellschaft erproben und die Wissenschafts<br>
 1487 kommunikation stärken.<br><br></i>
-<b>Einbeziehung der Zivilgesellschaft, klingt mal gut.</b>
+<b>Einbeziehung der #Zivilgesellschaft, klingt mal gut.</b>
 <br><br>
 <i>
 1707 ... Durch die An-<br>
 1708 erkennung der Gemeinnützigkeit des Betriebs und der Unterhaltung offener WLAN-<br>
 1709 Netze stärken wir Freifunk-Initiativen und verbessern die Netzabdeckung.<br><br></i>
-<b>Anerkennung von Freifunk, klingt mal gut.</b>
+<b>Anerkennung von #Freifunk, klingt mal gut.</b>
 <br><br>
 
 
@@ -70,7 +70,7 @@ vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6
 2049 IT-Kompetenzen sollen eine stärkere Gewichtung in den Anforderungsprofilen und <br>
 2050 damit bei der Einstellung und bei der Auswahl von Führungskräften bekommen. <br></i>
 <br>
-<b>Für <i>zukünftige</i> Digitalposten besteht also Hoffnung.</b>
+<b>Für <i>zukünftige</i> Digitalposten besteht also #Hoffnung.</b>
 
 <br><br>
 <i>
@@ -78,10 +78,10 @@ vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6
 2074 Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines <br>
 2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. <br></i>
 <br>
-<b>Zweites #Open Data Gesetzes, wunderbar.<br>
+<b>Zweites #Open Data Gesetz, wunderbar.<br>
 Die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes.</b> [Ein ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de).<br> 
 <b>Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für das ganze Land.</b><br>
-Im [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf) war es noch strittig, ob es nur ein zweites #OpenData-Gesetz oder ein #Transparenzgesetz geben soll. 
+Im [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf) war es noch strittig, ob es nur ein zweites #OpenData-Gesetz oder ein #Transparenzgesetz geben soll: 
 <i><br>
 1568 Strittig intern: Formulierungsvorschlag SPD: Um den Open Data-Gedanken zu stärken werden wir die gegenwärtig nebeneinander bestehenden Informationsfreiheitsgesetze (Informationsfreiheitsgesetz, Umweltinformationsgesetz, Verbraucherinformationsgesetz) werden wir zusammenführen in einem Transparenzgesetz. Der Bürger soll einen Rechtsanspruch auf Open Data haben.<br></i>
 
@@ -90,7 +90,7 @@ Wir schliessen uns der Begeisterung in der Forderung von Andreas Scheuer zu Agen
 Scheuer: „Die neue Bundesregierung hat eine zentrale Aufgabe: das Großprojekt „Deutschland digital“! Dazu braucht es den Willen aller, die Bundesregierung muss initialisieren und koordinieren, die Kompetenzen der Länder müssen voll gewahrt bleiben und alle müssen an einem Strang ziehen. Wir brauchen die Begeisterung für die neuen Chancen in unserem Land. Für ein dynamisches Deutschland.“</i><br>
 
 <b>Ein dynamisches Deutschland und internationaler Vorreiter - siehe 6097 - kann nur ein Transparenzgesetz bedeuten.</b> 
-Wir sehen diesen Willen, und copy und paste Ausrutscher passieren natürlich in solch langen, nächtlichen Sitzungen. Dafür haben wir Verständnis.
+Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in solch langen, nächtlichen Sitzungen. Dafür haben wir Verständnis.
 <br><br>
 
 <i>
@@ -105,7 +105,7 @@ Wir sehen diesen Willen, und copy und paste Ausrutscher passieren natürlich in 
 2104 Die Klärung datenethischer Fragen kann Geschwindigkeit in die digitale Entwicklung<br>
 2105 bringen und auch einen Weg definieren, der gesellschaftliche Konflikte im Bereich<br>
 2106 der Datenpolitik auflöst.<br></i><br>
-<b>#Daten-Ethikkommission, klingt mal gut. Upcoming.</b><br><br>
+<b>#Daten-Ethikkommission, klingt mal gut. Upcoming Projekt.</b><br><br>
 
 <i>
 2203 An der gesetzlichen Verankerung der Netzneutralität halten wir fest. Netzneutralität<br>
