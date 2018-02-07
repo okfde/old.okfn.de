@@ -54,7 +54,8 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 6099 werden. Der digitale Wandel der öffentlichen Verwaltung wird auch in der Aus- und<br>
 6100 Fortbildung und der Organisationsentwicklung vorangetrieben. <br></i>
 <br>
-<b>"internationaler Vorreiter", "Open by default“, #ogpde Begrüßen wir. Werden wir monitoren.</b>
+<b>"internationaler Vorreiter", "Open by default“, #ogpde
+<br>Begrüßen wir. Werden wir monitoren.</b>
 <br><br>
 
 <b>Thema Nahverkehr</b> <i><br>
@@ -64,7 +65,7 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 <br>
 <b>Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten (Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden).</b>
 <br>
-Hinweis: [Richtline Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)
+Hinweis: [Richtline Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)<br>
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
 <br>
 
@@ -77,7 +78,7 @@ Word count Statistik:<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
 <br>
 <b>Dies würde, wenn erstgemeint, endlich mal das Stopfen der [Steuerlöcher](https://media.ccc.de/v/34c3-9047-taxation) für internationale Konzerne bedeuten. <br>
-Das wäre Ostern und Weihnachten zugleich. <b>
+Das wäre Ostern und Weihnachten zugleich. </b>
 <br>
 
 
