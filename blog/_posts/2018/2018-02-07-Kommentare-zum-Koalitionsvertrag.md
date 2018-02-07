@@ -48,6 +48,12 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für die ganze Land.</b>
 <br><br>
 <i>
+2097 Diskriminierungsverbote der analogen Welt müssen auch in der digitalen Welt der<br>
+2098 Algorithmen gelten. Wir setzen uns für Transparenz bei Online-Vergleichs- und Bera<br>
+2099 tungsportalen ein.<br></i>
+<b>Ja, zu Transparenz und Kontrollmechanismen für Algorithmen. </b><br>
+
+<i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
 6096 Partnership. Im Bereich „Open Data“ wollen wir erreichen, dass die Bundesregierung<br>
 6097 internationaler Vorreiter wird. Die entsprechende Veröffentlichung von Daten soll ent-<br>
