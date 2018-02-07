@@ -46,7 +46,7 @@ vom Sommer 2017 solchen Anklang fand.</b>
 2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. <br></i>
 <br>
 <b>Zweites Open Data Gesetzes - die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de) 
-Mit besten Grüßen nach Bayern! </b>
+Mit besten Grüßen nach Bayern! <br>
 Dem zukünftigen infrastrukturellen Transparenzvorbild für das ganze Land.</b>
 <br><br>
 
