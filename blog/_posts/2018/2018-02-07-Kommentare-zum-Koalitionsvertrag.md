@@ -54,9 +54,9 @@ title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version"
 2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver<br>
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
 <br>
-<b>#Beteiligungsplattform begrüßen wir.<br>
+<b>#Beteiligungsplattform begrüßen wir.<br></b>
 Wir freuen uns, dass unsere Kampagne [Gläserne Gesetze](https://fragdenstaat.de/gesetze) 
-vom Sommer 2017 solchen Anklang fand.</b>
+vom Sommer 2017 solchen Anklang fand. [Grafik zur Analyse](https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg)
 <br><br>
 <i>
 2049 IT-Kompetenzen sollen eine stärkere Gewichtung in den Anforderungsprofilen und <br>
@@ -98,6 +98,18 @@ Wir sehen diesen Willen, und copy und paste Ausrutscher passieren natürlich in 
 2105 bringen und auch einen Weg definieren, der gesellschaftliche Konflikte im Bereich<br>
 2106 der Datenpolitik auflöst.<br></i><br>
 <b>#Daten-Ethikkommission, klingt mal gut. Upcoming.</b><br><br>
+
+<i>
+2203 An der gesetzlichen Verankerung der Netzneutralität halten wir fest. Netzneutralität<br>
+2204 und diskriminierungsfreier Netzzugang sind entscheidend für das offene und freie<br>
+2205 Internet sowie für Teilhabe, Innovation und fairen Wettbewerb. Die nach europarecht<br>
+2206 lichen Vorgaben möglichen Ausnahmen vom Prinzip der Netzneutralität müssen eng<br>
+2207 begrenzt bleiben. Sie müssen streng beaufsichtigt werden. Die Einschränkung der<br>
+2208 Netzneutralität kann auch die inhaltliche Vielfalt beeinträchtigen. Daher soll die Regu<br>
+2209 lierungsbehörde eng mit den Medienanstalten der Länder zusammenarbeiten und<br>
+2210 diese in die Aufsicht über die Medienvielfalt einbeziehen.<br></i><br>
+<b>#Netzneutralität, klingt mal gut. Aber mit Ausnahmen. Nicht so gut.</b><br>
+Mittlerweile erklärt schon eine [Burgerbude die Netzneutraliät auf verständliche Weise.](https://www.youtube.com/watch?v=ltzy5vRmN8Q). Für lokale Anpassungen und Präferenzen die Burger gerne mit Curry- oder Weißwürsten austauschen.<br><br>
 
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
