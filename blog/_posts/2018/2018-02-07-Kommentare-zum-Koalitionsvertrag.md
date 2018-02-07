@@ -36,15 +36,15 @@ Aktuelle Zusammenfassung der wichtigsten Punkte des [Koaltionsvertrages](https:/
 2037 Bundesregierung schaffen, die der transparenten Beteiligung von Bürgern und Ver<br>
 2038 bänden dient und zu denen die Bundesregierung dann Stellung nimmt. <br></i>
 <br>
-**Beteiligungsplattform begrüßen wir. Wir freuen uns, dass unsere Kampagne [Gläserne Gesetze}(https://fragdenstaat.de/gesetze/) vom Sommer 2017 solchen Anklang fand.
+<b>Beteiligungsplattform begrüßen wir. Wir freuen uns, dass unsere Kampagne [Gläserne Gesetze}(https://fragdenstaat.de/gesetze/) vom Sommer 2017 solchen Anklang fand.</b>
 <br><br>
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
 2074 Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines <br>
 2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. <br></i>
 <br>
-**Zweites Open Data Gesetzes - die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de)
-Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für die ganze Land.**
+<b>Zweites Open Data Gesetzes - die logische Schlussfolgerung ist hier die Einbettung eines Transparenzgesetzes / Informationsfreiheitsgesetzes. [Ähnlicher Vorschlag zur Güte](https://berlin.transparenzgesetz.de)
+Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenzvorbild für die ganze Land.</b>
 <br><br>
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
@@ -54,7 +54,7 @@ Mit besten Grüßen nach Bayern! Dem zukünftigen infrastrukturellen Transparenz
 6099 werden. Der digitale Wandel der öffentlichen Verwaltung wird auch in der Aus- und<br>
 6100 Fortbildung und der Organisationsentwicklung vorangetrieben. <br></i>
 <br>
-**"internationaler Vorreiter", "Open by default“, #ogpde Begrüßen wir. Werden wir monitoren.**
+<b>"internationaler Vorreiter", "Open by default“, #ogpde Begrüßen wir. Werden wir monitoren.</b>
 <br><br>
 
 Thema Nahverkehr <i><br>
@@ -62,7 +62,7 @@ Thema Nahverkehr <i><br>
 5743 Nahverkehrspläne soziale Standards zum Schutz der Beschäftigten sowie qualitative<br>
 5744 und ökologische Standards auch für eigenwirtschaftliche Verkehre gelten. <br></i>
 <br>
-**Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten (ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden)**
+<b<Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten (Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden).</b>
 <br>
 Hinweis: [Richtline Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
