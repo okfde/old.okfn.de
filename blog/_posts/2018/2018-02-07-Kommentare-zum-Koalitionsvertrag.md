@@ -22,7 +22,7 @@ title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version"
 
 # OKFDE-relevante Punkte des [Koalitionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
 
-Eine kurze Kommentierung der wichtigsten OKFDE-relevantischen und digitalpolitschen Punkte im Koalitionsvertrag. 
+Eine kurze Kommentierung der wichtigsten OKFDE-relevanten und digitalpolitschen Punkte im Koalitionsvertrag. 
 
 <br>
 <i>
@@ -198,3 +198,8 @@ Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserkl
 
 <br>
 ps: Einer der Autoren ist Österreicher, sieht Deutschland punkto Rechtspopulismus noch als Fels in der Brandung und hofft der Schuss aus Österreich wurde gehört und die notwendigen Schritte (Transparenzgesetz, Lobbyregister, ...) werden gesetzt.
+<br>
+Weitere Einschätzungen:
+[JoernPL](https://www.gruen-digital.de/2018/02/erste-digitalpolitische-bewertung-des-koalitionsvertrags/)
+
+
