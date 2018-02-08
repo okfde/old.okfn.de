@@ -20,7 +20,9 @@ published: false
 title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version" 
 ---
 
-# Kurze Kommentierung der wichtigsten Punkte des [Koalitionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
+# OKFDE-relavante Punkte des [Koalitionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
+
+Eine kurze Kommentierung der wichtigsten digitalpolitschen Punkte im Koalitionsvertrag. 
 
 <br>
 <i>
@@ -34,7 +36,7 @@ title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version"
 1707 ... Durch die An-<br>
 1708 erkennung der Gemeinnützigkeit des Betriebs und der Unterhaltung offener WLAN-<br>
 1709 Netze stärken wir Freifunk-Initiativen und verbessern die Netzabdeckung.<br><br></i>
-<b>Anerkennung von #Freifunk, klingt mal gut.</b>
+<b>Anerkennung von #Freifunk, ist gut.</b>
 <br><br>
 
 
@@ -117,7 +119,7 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 2209 lierungsbehörde eng mit den Medienanstalten der Länder zusammenarbeiten und<br>
 2210 diese in die Aufsicht über die Medienvielfalt einbeziehen.<br></i><br>
 <b>#Netzneutralität, klingt mal gut. Aber mit Ausnahmen. Nicht so gut.</b><br>
-Mittlerweile erklärt schon eine [Burgerbude die Netzneutraliät auf verständliche Weise](https://www.youtube.com/watch?v=ltzy5vRmN8Q). Für lokale Anpassungen und Präferenzen die Burger gerne mit Curry- oder Weißwürsten austauschen.<br><br>
+Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5vRmN8Q">Burgerbude die Netzneutraliät auf verständliche Weise</a>. Für lokale Anpassungen und Präferenzen die Burger gerne mit Curry- oder Weißwürsten austauschen.<br><br>
 
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
@@ -149,9 +151,8 @@ Mittlerweile erklärt schon eine [Burgerbude die Netzneutraliät auf verständli
 Hinweis: [Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)<br>
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
 <br>
-
+<br>
 **Weitere interessante Punkte:** 
-
 <i><br>
 180 Wir unterstützen eine gerechte Besteuerung großer Konzerne, gerade auch der<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
