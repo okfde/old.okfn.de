@@ -20,9 +20,9 @@ published: false
 title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version" 
 ---
 
-# OKFDE-relavante Punkte des [Koalitionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
+# OKFDE-relevante Punkte des [Koalitionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
 
-Eine kurze Kommentierung der wichtigsten digitalpolitschen Punkte im Koalitionsvertrag. 
+Eine kurze Kommentierung der wichtigsten OKFDE-relevantischen und digitalpolitschen Punkte im Koalitionsvertrag. 
 
 <br>
 <i>
@@ -70,7 +70,7 @@ Eine kurze Kommentierung der wichtigsten digitalpolitschen Punkte im Koalitionsv
 <b>#Beteiligungsplattform begrüßen wir.<br></b>
 Wir freuen uns, dass unsere Kampagne <a href="https://fragdenstaat.de/gesetze">"Gläserne Gesetze"</a> 
 vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg">Grafik zur Analyse</a>. Eine solche Beteiligungsplattform ist jedoch nur mit einem Transparenzregisters vollständig.
-<b>Wir vermissen aus dem <a href="http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf">Entwurf Stand 11:30 05.02.2017</a></b>
+<br><b>Wir vermissen aus dem <a href="http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf">Entwurf Stand 11:30 05.02.2017</a></b>
 <br>
 <i>
 1601 Strittig intern: Formulierungsvorschlag SPD: Wir wollen mit einem verpflichtenden<br>
@@ -106,6 +106,13 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 <br><br>
 
 <i>
+2086 Wir wollen uns für eine Stärkung der Kompetenz der Nutzerinnen und Nutzer sowie<br>
+2087 für mehr Transparenz und „Privacy by Default“ und „Privacy by Design“ auf Seiten<br>
+2088 der Anbieter einsetzen und die Entwicklung von innovativem Einwilligungsmanage-<br>
+2089 ment fördern und unterstützen.<br></i><br>
+<b>#Privacy by Default & Design, klingt mal gut. Wir sind auf die konkrete Umsetzung gespannt.</b><br><br>
+
+<i>
 2097 Diskriminierungsverbote der analogen Welt müssen auch in der digitalen Welt der<br>
 2098 Algorithmen gelten. Wir setzen uns für Transparenz bei Online-Vergleichs- und Bera<br>
 2099 tungsportalen ein.<br></i><br>
@@ -130,6 +137,12 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 2210 diese in die Aufsicht über die Medienvielfalt einbeziehen.<br></i><br>
 <b>#Netzneutralität, klingt mal gut. Aber mit Ausnahmen. Nicht so gut.</b><br>
 Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5vRmN8Q">Burgerbude die Netzneutraliät auf verständliche Weise</a>. Für lokale Anpassungen und Präferenzen die Burger gerne mit <a href="https://www.youtube.com/watch?v=sqJRCoYaIDk">Pizza</a> Curry- oder Weißwürsten austauschen.<br><br>
+
+<i>
+2217 Eine Verpflichtung von Plattformen zum Einsatz von Upload-Filtern, um von Nutzern
+2218 hochgeladene Inhalte nach urheberrechtsverletzenden Inhalten zu „filtern“, lehnen
+2219 wir als unverhältnismäßig ab. <br></i><br>
+<b>#Upload-Filter Ablehung, klingt mal gut. Wir warten auf die Abstimmung im EP-Parlament ab.</b><br><br>
 
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
