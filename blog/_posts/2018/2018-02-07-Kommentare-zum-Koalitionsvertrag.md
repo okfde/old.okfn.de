@@ -195,7 +195,7 @@ Zu #Breitbandausbau verweisen wir auf ['Schnelles Internet für alle: Große Koa
 Des weiteren vermissen wir die Abkehr von der anlasslosen Massenüberwachung (siehe Jamaika Sondierungen). <br>
 Die Ausdehnung des Leistungsschutzrecht auf EU-Ebene fällt in die Kategorie De-Mail, beA, NetzDG, ... 
 
-Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserklärungen im Koalitionsvertrag auch positive, konkrete Umsetzungen (Opendatagesetz2.0 aka Transparenzgesetzfolgen) werden. Und zwar vor 2050.
+Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserklärungen im Koalitionsvertrag auch positive, konkrete Umsetzungen (Opendatagesetz2.0 aka Transparenzgesetz) folgen werden. Und zwar vor 2050.
 
 <b>Word Count Statistik:</b><br>
 4x Open Data<br>
