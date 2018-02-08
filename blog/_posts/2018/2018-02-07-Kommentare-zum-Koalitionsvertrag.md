@@ -41,7 +41,7 @@ Eine kurze Kommentierung der wichtigsten digitalpolitschen Punkte im Koalitionsv
 <i>
 1711 Wir werden die Einrichtung einer Digitalagentur prüfen, die die Bundesregierung als <br>
 1712 nachgeordnete Behörde in der Umsetzung der Maßnahmen unterstützt.<br><br></i>
-<b>Digitalagentur, <a href"https://okfn.de/blog/2017/09/Zivilgesellschaftliche-Forderungen/">wie gefordert</a> klingt mal gut.</b>
+<b>Digitalagentur, <a href=https://okfn.de/blog/2017/09/Zivilgesellschaftliche-Forderungen/">wie gefordert</a>, klingt mal gut.</b>
 <br><br>
 <i>
 1728 ... Im Rahmen einer umfassenden Open Edu<br>
