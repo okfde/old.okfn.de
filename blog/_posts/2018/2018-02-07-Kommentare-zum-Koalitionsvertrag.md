@@ -110,7 +110,7 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 2087 für mehr Transparenz und „Privacy by Default“ und „Privacy by Design“ auf Seiten<br>
 2088 der Anbieter einsetzen und die Entwicklung von innovativem Einwilligungsmanage-<br>
 2089 ment fördern und unterstützen.<br></i><br>
-<b>#Privacy by Default & Design, klingt mal gut. </b><b>Wir sind auf die konkrete Umsetzung gespannt.<br><br>
+<b>#Privacy by Default & Design, klingt mal gut. </b><br>Wir sind auf die konkrete Umsetzung gespannt.<br><br>
 
 <i>
 2097 Diskriminierungsverbote der analogen Welt müssen auch in der digitalen Welt der<br>
