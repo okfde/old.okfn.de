@@ -185,19 +185,16 @@ Hinweis: [Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/l
 Das wäre Ostern und Weihnachten zugleich. </b>
 <br>
 
-Zu #Breitbandausbau verweisen wir auf ['Schnelles Internet für alle: Große Koalition will Rechtsanspruch, Industrie warnt vor „Planwirtschaft“'](https://netzpolitik.org/2018/schnelles-internet-fuer-alle-grosse-koalition-will-rechtsanspruch-industrie-warnt-vor-planwirtschaft/)
+Zu #Breitbandausbau verweisen wir auf ['Schnelles Internet für alle: Große Koalition will Rechtsanspruch, Industrie warnt vor „Planwirtschaft“'](https://netzpolitik.org/2018/schnelles-internet-fuer-alle-grosse-koalition-will-rechtsanspruch-industrie-warnt-vor-planwirtschaft/)<br><br>
+Des weiteren vermissen wir die Abkehr von der anlasslosen Massenüberwachung (siehe Jamaika Sondierungen). Die Ausdehnung des Leistungsschutzrecht auf EU-Ebene fällt in die Kategorie BEA, de-mail, ... . 
+
+Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserklärungen im Koalitionsvertrag auch positive, konkrete Umsetzungen (Opendatagesetz2.0 aka Transparenzgesetzfolgen) werden. Und zwar vor 2050.
 
 <b>Word Count Statistik:</b><br>
 4x Open Data<br>
 7x Blockchain<br>
 18x Cyber <br>
 
-
-
-<br>
-Was wir nicht vermissen sind BEA, de-mail, ... <br>
-
-Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserklärungen im Koalitionsvertrag auch positive, konkrete Umsetzungen (Opendatagesetz2.0 aka Transparenzgesetzfolgen) werden. Und zwar vor 2050.
 
 <br>
 ps: Einer der Autoren ist Österreicher, sieht Deutschland punkto Rechtspopulismus noch als Fels in der Brandung und hofft der Schuss aus Österreich wurde gehört und die notwendigen Schritte (Transparenzgesetz, Lobbyregister, ...) werden gesetzt.
