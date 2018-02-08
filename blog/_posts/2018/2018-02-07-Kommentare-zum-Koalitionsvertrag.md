@@ -175,8 +175,8 @@ Wir warten mal die Entwicklungen <a href="https://juliareda.eu/eu-copyright-refo
 5743 Nahverkehrspläne soziale Standards zum Schutz der Beschäftigten sowie qualitative<br>
 5744 und ökologische Standards auch für eigenwirtschaftliche Verkehre gelten. <br></i>
 <br>
-<b>Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten
-<br>(Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden.)</b>
+<b>Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten</b>
+<br>(Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden.)
 <br>
 Hinweis: [Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)<br>
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
