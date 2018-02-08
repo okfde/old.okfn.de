@@ -70,14 +70,14 @@ Eine kurze Kommentierung der wichtigsten digitalpolitschen Punkte im Koalitionsv
 <b>#Beteiligungsplattform begrüßen wir.<br></b>
 Wir freuen uns, dass unsere Kampagne <a href="https://fragdenstaat.de/gesetze">"Gläserne Gesetze"</a> 
 vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg">Grafik zur Analyse</a>. Eine solche Beteiligungsplattform ist jedoch nur mit einem Transparenzregisters vollständig.
-**Wir vermissen aus dem [Entwurf Stand 11:30 05.02.2017](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)**
+<b>Wir vermissen aus dem <a href="http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf">Entwurf Stand 11:30 05.02.2017</a></b>
 <br>
 <i>
 1601 Strittig intern: Formulierungsvorschlag SPD: Wir wollen mit einem verpflichtenden<br>
 Lobby-Register Transparenz schaffen ohne wirksames Regierungshandeln oder die<br>
 freie Ausübung des parlamentarischen Mandats einzuschränken.<br></i>
 
-<b>Das fehlende Lobbyregister war übrigens bei den [Jamaika Verhandlungen schon durch](https://twitter.com/a_watch/status/961211427926282243), daher sprechen wir der Regierung das vollste Vertrauen aus eine Mehrheit zur Umsetzung, auch ohne Verschriftlichung im Koalitionsvertrag, zu finden.</b>
+<b>Das fehlende Lobbyregister war übrigens bei den [Jamaika Sondierungen schon durch](https://twitter.com/a_watch/status/961211427926282243), daher sprechen wir der Regierung das vollste Vertrauen aus eine Mehrheit zur Umsetzung, auch ohne Verschriftlichung im Koalitionsvertrag, zu finden.</b>
 <br><br>
 <i>
 2049 IT-Kompetenzen sollen eine stärkere Gewichtung in den Anforderungsprofilen und <br>
