@@ -84,7 +84,7 @@ freie Ausübung des parlamentarischen Mandats einzuschränken.<br></i>
 2050 damit bei der Einstellung und bei der Auswahl von Führungskräften bekommen. <br></i>
 <br>
 <b>Für <i>zukünftige</i> Digitalposten besteht also #Hoffnung.</b>
-<br>
+<br><br>
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
 2074 Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines <br>
@@ -129,7 +129,7 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 2209 lierungsbehörde eng mit den Medienanstalten der Länder zusammenarbeiten und<br>
 2210 diese in die Aufsicht über die Medienvielfalt einbeziehen.<br></i><br>
 <b>#Netzneutralität, klingt mal gut. Aber mit Ausnahmen. Nicht so gut.</b><br>
-Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5vRmN8Q">Burgerbude die Netzneutraliät auf verständliche Weise</a>. Für lokale Anpassungen und Präferenzen die Burger gerne mit Curry- oder Weißwürsten austauschen.<br><br>
+Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5vRmN8Q">Burgerbude die Netzneutraliät auf verständliche Weise</a>. Für lokale Anpassungen und Präferenzen die Burger gerne mit <a href="https://www.youtube.com/watch?v=sqJRCoYaIDk">Pizza</a> Curry- oder Weißwürsten austauschen.<br><br>
 
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
