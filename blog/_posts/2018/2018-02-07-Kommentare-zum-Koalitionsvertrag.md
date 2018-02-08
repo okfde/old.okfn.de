@@ -186,7 +186,7 @@ Hinweis: [Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/l
 180 Wir unterstützen eine gerechte Besteuerung großer Konzerne, gerade auch der<br>
 181 Internetkonzerne wie Google, Apple, Facebook und Amazon.  <br></i>
 <br>
-<b>Dies würde, wenn erstgemeint, endlich mal das Stopfen der [Steuerlöcher](https://media.ccc.de/v/34c3-9047-taxation) für internationale Konzerne bedeuten. <br>
+<b>Dies würde, wenn erstgemeint, endlich mal das Stopfen der [Steuerlöcher](https://okfn.de/blog/2017/12/Steuern/) für internationale Konzerne bedeuten. <br>
 Das wäre Ostern und Weihnachten zugleich. </b>
 <br>
 
