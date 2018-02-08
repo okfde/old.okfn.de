@@ -127,6 +127,11 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 <b>#Daten-Ethikkommission, klingt mal gut. Upcoming Projekt.</b><br><br>
 
 <i>
+2182 ... Wir streben an, die Freizügigkeit von Daten als<br>
+2183 fünfte Dimension der Freizügigkeit zu verankern.<br></i><br>
+<b>#Fünfte Dimension.</b>
+Manche haben ja schon mit 4 Dimensionen (freier Verkehr von Waren, Personen, Dienstleistungen und Kapital) massive Probleme.<br> Schönen Gruß an die GroKo-Kollegen in Brüssel welche in dieser Woche Geo-Blocking für digitale Güter (aka Daten) unterstützt haben.<br><br>
+<i>
 2203 An der gesetzlichen Verankerung der Netzneutralität halten wir fest. Netzneutralität<br>
 2204 und diskriminierungsfreier Netzzugang sind entscheidend für das offene und freie<br>
 2205 Internet sowie für Teilhabe, Innovation und fairen Wettbewerb. Die nach europarecht<br>
