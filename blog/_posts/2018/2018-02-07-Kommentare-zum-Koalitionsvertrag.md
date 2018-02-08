@@ -142,8 +142,9 @@ Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5v
 2217 Eine Verpflichtung von Plattformen zum Einsatz von Upload-Filtern, um von Nutzern
 2218 hochgeladene Inhalte nach urheberrechtsverletzenden Inhalten zu „filtern“, lehnen
 2219 wir als unverhältnismäßig ab. <br></i><br>
-<b>#Upload-Filter Ablehung, klingt mal gut. Wir warten auf die Abstimmung im EP-Parlament ab.</b><br><br>
-
+<b>#Upload-Filter Ablehung, klingt mal gut.</b><br>
+Wir warten mal die Entwicklungen <a href="https://juliareda.eu/eu-copyright-reform/">der MEPs der Groko im März ab</a>.
+<br><br>
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
 6096 Partnership. Im Bereich „Open Data“ wollen wir erreichen, dass die Bundesregierung<br>
