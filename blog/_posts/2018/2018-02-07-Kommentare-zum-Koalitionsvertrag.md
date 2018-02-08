@@ -129,7 +129,7 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 <i>
 2182 ... Wir streben an, die Freizügigkeit von Daten als<br>
 2183 fünfte Dimension der Freizügigkeit zu verankern.<br></i><br>
-<b>#Fünfte Dimension.</b>
+<b>#Fünfte Dimension.</b><br>
 Manche haben ja schon mit 4 Dimensionen (freier Verkehr von Waren, Personen, Dienstleistungen und Kapital) massive Probleme.<br> Schönen Gruß an die GroKo-Kollegen in Brüssel welche in dieser Woche Geo-Blocking für digitale Güter (aka Daten) unterstützt haben.<br><br>
 <i>
 2203 An der gesetzlichen Verankerung der Netzneutralität halten wir fest. Netzneutralität<br>
