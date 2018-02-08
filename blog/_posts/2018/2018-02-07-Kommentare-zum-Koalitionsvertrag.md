@@ -38,8 +38,11 @@ Eine kurze Kommentierung der wichtigsten digitalpolitschen Punkte im Koalitionsv
 1709 Netze stärken wir Freifunk-Initiativen und verbessern die Netzabdeckung.<br><br></i>
 <b>Anerkennung von #Freifunk, ist gut.</b>
 <br><br>
-
-
+<i>
+1711 Wir werden die Einrichtung einer Digitalagentur prüfen, die die Bundesregierung als <br>
+1712 nachgeordnete Behörde in der Umsetzung der Maßnahmen unterstützt.<br><br></i>
+<b>Digitalagentur, wie gefordert klingt mal gut.</b>
+<br><br>
 <i>
 1728 ... Im Rahmen einer umfassenden Open Edu<br>
 1729 cational Resources-Strategie wollen wir die Entstehung und Verfügbarkeit, die Wei-<br>
@@ -73,8 +76,7 @@ vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6
 2050 damit bei der Einstellung und bei der Auswahl von Führungskräften bekommen. <br></i>
 <br>
 <b>Für <i>zukünftige</i> Digitalposten besteht also #Hoffnung.</b>
-
-<br><br>
+<br>
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
 2074 Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines <br>
