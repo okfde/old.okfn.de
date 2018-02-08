@@ -1,8 +1,7 @@
 ---
 authors: 
 - Walter Palmetshofer
-- Arne Semsrott
-date: 2018-02-06
+date: 2018-02-08
 image:
   src: /files/blog/2017/06/digitale-agenda-3.jpg
   title: Koalitionsvertrag
@@ -69,7 +68,7 @@ Eine kurze Kommentierung der wichtigsten OKFDE-relevanten und digitalpolitschen 
 <br>
 <b>#Beteiligungsplattform begrüßen wir.<br></b>
 Wir freuen uns, dass unsere Kampagne <a href="https://fragdenstaat.de/gesetze">"Gläserne Gesetze"</a> 
-vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg">Grafik zur Analyse</a>. Eine solche Beteiligungsplattform ist jedoch nur mit einem Transparenzregisters vollständig.
+vom Sommer 2017 solchen Anklang fand. <a href="https://pbs.twimg.com/media/DI3_6vmW4AEFXQf.jpg">Grafik zur Analyse</a>. Eine solche Beteiligungsplattform ist jedoch nur mit einem Transparenzregister vollständig.
 <br><b>Wir vermissen aus dem <a href="http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf">Entwurf Stand 11:30 05.02.2017</a></b>
 <br>
 <i>
@@ -83,7 +82,8 @@ freie Ausübung des parlamentarischen Mandats einzuschränken.<br></i>
 2049 IT-Kompetenzen sollen eine stärkere Gewichtung in den Anforderungsprofilen und <br>
 2050 damit bei der Einstellung und bei der Auswahl von Führungskräften bekommen. <br></i>
 <br>
-<b>Für <i>zukünftige</i> Digitalposten besteht also #Hoffnung.</b>
+<b>Für <i>zukünftige</i> Digitalposten besteht also #Hoffnung.</b><br>
+Es sei der Vergleich gestattet, zu anderen sogenannten Vorreiter-Länder, wo die digitale Führungspersonen "Digitalität" nicht nur proklamieren sondern auch leben.
 <br><br>
 <i>
 2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
@@ -110,7 +110,7 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 2087 für mehr Transparenz und „Privacy by Default“ und „Privacy by Design“ auf Seiten<br>
 2088 der Anbieter einsetzen und die Entwicklung von innovativem Einwilligungsmanage-<br>
 2089 ment fördern und unterstützen.<br></i><br>
-<b>#Privacy by Default & Design, klingt mal gut. Wir sind auf die konkrete Umsetzung gespannt.</b><br><br>
+<b>#Privacy by Default & Design, klingt mal gut. </b><b>Wir sind auf die konkrete Umsetzung gespannt.<br><br>
 
 <i>
 2097 Diskriminierungsverbote der analogen Welt müssen auch in der digitalen Welt der<br>
@@ -124,7 +124,7 @@ Wir sehen diesen Willen, und copy & paste Ausrutscher passieren natürlich in so
 2104 Die Klärung datenethischer Fragen kann Geschwindigkeit in die digitale Entwicklung<br>
 2105 bringen und auch einen Weg definieren, der gesellschaftliche Konflikte im Bereich<br>
 2106 der Datenpolitik auflöst.<br></i><br>
-<b>#Daten-Ethikkommission, klingt mal gut. Upcoming Projekt.</b><br><br>
+<b>#Daten-Ethikkommission, klingt mal gut.</b><br> Upcoming Projekt.<br><br>
 
 <i>
 2182 ... Wir streben an, die Freizügigkeit von Daten als<br>
@@ -141,14 +141,14 @@ Manche haben ja schon mit 4 Dimensionen (freier Verkehr von Waren, Personen, Die
 2209 lierungsbehörde eng mit den Medienanstalten der Länder zusammenarbeiten und<br>
 2210 diese in die Aufsicht über die Medienvielfalt einbeziehen.<br></i><br>
 <b>#Netzneutralität, klingt mal gut. Aber mit Ausnahmen. Nicht so gut.</b><br>
-Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5vRmN8Q">Burgerbude die Netzneutraliät auf verständliche Weise</a>. Für lokale Anpassungen und Präferenzen die Burger gerne mit <a href="https://www.youtube.com/watch?v=sqJRCoYaIDk">Pizza</a> Curry- oder Weißwürsten austauschen.<br><br>
+Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5vRmN8Q">Burgerbude die Netzneutraliät auf verständliche Weise</a>. Für lokale Anpassungen und Präferenzen die Burger gerne mit <a href="https://www.youtube.com/watch?v=sqJRCoYaIDk">Pizza</a>, Curry- oder Weißwürsten austauschen.<br><br>
 
 <i>
 2217 Eine Verpflichtung von Plattformen zum Einsatz von Upload-Filtern, um von Nutzern
 2218 hochgeladene Inhalte nach urheberrechtsverletzenden Inhalten zu „filtern“, lehnen
 2219 wir als unverhältnismäßig ab. <br></i><br>
 <b>#Upload-Filter Ablehung, klingt mal gut.</b><br>
-Wir warten mal die Entwicklungen <a href="https://juliareda.eu/eu-copyright-reform/">der MEPs der Groko im März ab</a>.
+Wir warten mal die Entwicklungen <a href="https://juliareda.eu/eu-copyright-reform/">der MEPs der Groko im März in Brüssel ab</a>.
 <br><br>
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>
@@ -175,7 +175,8 @@ Wir warten mal die Entwicklungen <a href="https://juliareda.eu/eu-copyright-refo
 5743 Nahverkehrspläne soziale Standards zum Schutz der Beschäftigten sowie qualitative<br>
 5744 und ökologische Standards auch für eigenwirtschaftliche Verkehre gelten. <br></i>
 <br>
-<b>Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten (Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden).</b>
+<b>Wir fordern Offene Nahverkehrspläne -> Open Data bei Soll-Fahrplandaten
+<br>(Ja, läuft auf lokaler Ebene, aber eine Ausschreibungsbedingung für offene Daten würde nicht schaden.)</b>
 <br>
 Hinweis: [Delegierte Verordnung (EU) 2017/1926 kommt](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)<br>
 [Zusammenfassung für die Neigungsgruppe Eisenbahner](https://pad.okfn.de/p/koalitionsvertrag-bahn) 
