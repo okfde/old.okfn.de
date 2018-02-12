@@ -18,6 +18,10 @@ jobs: "Entwickler*in bei der Open Knowledge Foundation Deutschland (50% E13/3, a
 title: "Entwickler*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort) für 2030 Watch und Demokratielabore"
 ---
 
+<p style="background-color: #fffaed; padding: 50px;">
+   <strong>Update</strong>: <i>Wir haben die Bewerbungsfrist für beide Stellenangebote noch einmal bis zum 02.03.2018 verlängert</i>
+</p>
+
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes 
 Wissen, offene Daten, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und 
 interdisziplinär. Der Verein ist eine Dachorganisation für rund 20 Projekte mit hoher konzeptioneller und finanzieller 
@@ -134,8 +138,11 @@ Es gibt die Möglichkeit, die beiden Stellen zu kombinieren und auf Vollzeitbasi
 Falls Du daran Interesse hast, dann schreibe es bitte in Deine Bewerbung.
 
 Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem 
-Stundenumfang 15. Februar per E-Mail an [jobs@okfn.de]("mailto:jobs@okfn.de"). 
+Stundenumfang bis zum **2. März** per E-Mail an [jobs@okfn.de]("mailto:jobs@okfn.de"). 
 
-Die Gespräche finden vom 20. - 28.02.2018 in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche 
+Die Gespräche finden vom 12. - 16.03.2018 in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche 
 übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
 
+<p style="background-color: #fffaed; padding: 50px;">
+   <strong>Update</strong>: <i>Wir haben die Bewerbungsfrist für beide Stellenangebote noch einmal bis zum 02.03.2018 verlängert</i>
+</p>
