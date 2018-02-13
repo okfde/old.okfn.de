@@ -30,13 +30,13 @@ Das ist erfreulich, da zumindest für Soll-Daten ein Zeitraum vorgegeben wird.
 - Fahrpläne bis 2019 (Sollfahrpläne, keine Verpflichtung für dynamische aka Echtzeit-Daten, <i><b>nicht kostenfrei, sondern angemessene Kosten</i></b>)
 - Einrichtung eines Nationaler Zugangspunkt (NAP)
 
-Details:
-Artikel 3: Einrichtung eines Nationalen Zugangspunktes (NAP)
-Artikel 4: Austauschformate + Zeithorizonte für statische Daten
-Artikel 5: dynamische Daten,a falls vom MS gewünscht) Verweis auf Art. 4 der del. VO 2015/962, [NeTEx](https://en.wikipedia.org/wiki/NeTEx)
-Artikel 6: Datenaktualisierung
-Artikel 7: Verknüpfung v. Reiseinformationsdiensten (Routen-infos von Dienstleister an Dienstleister) 
-Artikel 8: Weiterverwendung von Reiseverkehrsdaten (Lizenzen) 
+Details:<br>
+Artikel 3: Einrichtung eines Nationalen Zugangspunktes (NAP)<br>
+Artikel 4: Austauschformate + Zeithorizonte für statische Daten<br>
+Artikel 5: dynamische Daten,a falls vom MS gewünscht) Verweis auf Art. 4 der del. VO 2015/962, [NeTEx](https://en.wikipedia.org/wiki/NeTEx)<br>
+Artikel 6: Datenaktualisierung<br>
+Artikel 7: Verknüpfung v. Reiseinformationsdiensten (Routen-infos von Dienstleister an Dienstleister) <br>
+Artikel 8: Weiterverwendung von Reiseverkehrsdaten (Lizenzen)<br> 
 
 Bis zum Jahresende sollen diese Punkte in einem Forum mit allen beteiligten Stakeholder geklärt werden.
 
