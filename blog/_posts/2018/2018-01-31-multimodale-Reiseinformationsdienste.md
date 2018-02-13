@@ -46,12 +46,12 @@ Reiseinformationsdienste](/files/blog/2018/01/BMVI_Dialogforum_am_31-01-18.pdf)
 Unser Ziel ist: 
 ![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
 
-Dazu gehört mittelfristig auch der kostenlose Zugang Solldaten bzw. ideallerweise auch Echtzeitdaten.
+Dazu gehört mittelfristig auch der kostenlose Zugang Solldaten bzw. ideallerweise auch Echtzeitdaten.<br>
 Diese Berücksichtigung der Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
 Verkehrsverträge befinden.
 
 
-Weitere Präsentationen:
+<b>Weitere Präsentationen:</b>
 Mario Sela – Referent Mobility des Digitalverbands Bitkom
 [Daten: der Treibstoff für ein digitales Mobilitäts-Ökosystem](/files/blog/2018/01/Bitkom_Impulsvortrag.pdf)
 
