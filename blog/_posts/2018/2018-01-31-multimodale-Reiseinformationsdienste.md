@@ -52,12 +52,12 @@ Verkehrsverträge befinden.
 
 
 <b>Weitere Präsentationen:</b><br>
-Mario Sela – Referent Mobility des Digitalverbands Bitkom
+- Mario Sela – Referent Mobility des Digitalverbands Bitkom
 [Daten: der Treibstoff für ein digitales Mobilitäts-Ökosystem](/files/blog/2018/01/Bitkom_Impulsvortrag.pdf)
 Hinweis: [Roadmap intelligente Mobilität](http://roadmap-intelligente-mobilitaet.de)
 72% wünschen sich durchgehendes Ticket, 58% monatliche Pauschale
 
-Jürgen Roß – 
+- Jürgen Roß – 
 [Nationale und internationale ÖV-Information mit DELFI – ein Überblick](/files/blog/2018/01/DELFI_Impulsvortrag.pdf)
 Bereichsleiter Planung und Fahrgastinforma-
 tionen im VBB und Vorstand im [Delfi e.V.](www.delfi.de)<br>
