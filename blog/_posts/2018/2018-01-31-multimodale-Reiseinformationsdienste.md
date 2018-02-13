@@ -59,10 +59,9 @@ Hinweis: [Roadmap intelligente Mobilität](http://roadmap-intelligente-mobilitae
 
 - Jürgen Roß – 
 [Nationale und internationale ÖV-Information mit DELFI – ein Überblick](/files/blog/2018/01/DELFI_Impulsvortrag.pdf)
-Bereichsleiter Planung und Fahrgastinforma-
-tionen im VBB und Vorstand im [Delfi e.V.](www.delfi.de)<br>
+Bereichsleiter Planung und Fahrgastinformationen im VBB und Vorstand im [Delfi e.V.](www.delfi.de)<br>
 DELFI Durchgängige ELektronische Fahrgastinformation Integrationsplatform:<br>
-März 2018 schrittweise Betrieb, Auskunftssysteme angepasst und vernetzt <br>
-Ende 2018 Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vorbereiten<br>
-2018/2019 Solldaten im europäischen Standardformat<br>
+März 2018: schrittweise Betrieb, Auskunftssysteme angepasst und vernetzt <br>
+Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vorbereiten<br>
+2018/2019: Solldaten im europäischen Standardformat<br>
 2018-2021: Internationale Vernetzung bestehender Auskunftssysteme über Europäisches Standardformat<br>
