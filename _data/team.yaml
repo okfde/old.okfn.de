@@ -290,19 +290,6 @@
   website:
   github: annafralberts
 
-- name: ​Andrej Sandorf
-  title:
-  staff: 1
-  board: 0
-  advisory: 0
-  position:
-  bio: "Andrej ist Softwareentwickler mit Schwerpunkt auf Web- & Serveranwendungen sowie Datenvisualisierungen. Er arbeitete ein Jahrzehnt als Projektleiter und freier Entwickler von Software für öffentliche Verwaltung, große Industriebetriebe, Krankenhäuser und Bibliotheken. Bevor er zur Open Knowledge Foundation Deutschland kam, war er ein Mitglied der ehemaligen Datenjournalismus- und Aktivistengruppe OpenDataCity."
-  bio_en: "Andrej is software developer with focus on web apps, server apps & data visualisations. He worked for a decade as a project manager and freelance developer of software for government administrations, major industrial enterprises, hospitals & libraries. Before joining Open Knowledge Foundation Germany he was a team member of former data journalist & activist group OpenDataCity."
-  mail: andrej.sandorf@okfn.de
-  twitter:
-  website:
-  github:
-
 - name: Johanna zum Felde
   title:
   img: johannazumfelde
