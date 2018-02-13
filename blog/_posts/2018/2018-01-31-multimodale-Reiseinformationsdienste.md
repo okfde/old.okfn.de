@@ -40,15 +40,15 @@ Artikel 8: Weiterverwendung von Reiseverkehrsdaten (Lizenzen)<br>
 
 Bis zum Jahresende sollen diese Punkte in einem Forum mit allen beteiligten Stakeholder geklärt werden.
 
-Details siehe [Zentrale Bereitstellung EU-weiter multimodaler
-Reiseinformationsdienste](/files/blog/2018/01/BMVI_Dialogforum_am_31-01-18.pdf)
+Weitere interesssante Details zur geplanten Umsetzung und Vorgangsweise finden sich in der Präsentation [Zentrale Bereitstellung EU-weiter multimodaler
+Reiseinformationsdienste](/files/blog/2018/01/BMVI_Dialogforum_am_31-01-18.pdf) des BMVI.
 
 Unser Ziel ist: 
 ![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
 
-Dazu gehört mittelfristig auch der kostenlose Zugang Solldaten bzw. ideallerweise auch Echtzeitdaten.<br>
-Diese Berücksichtigung der Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
-Verkehrsverträge befinden.
+Dazu gehört mittelfristig auch der kostenlose Zugang zu Sollfahrplandaten bzw. ideallerweise auch zu Echtzeitdaten.<br>
+Die Berücksichtigung dieser Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
+Verkehrsverträge wiederfinden.
 
 
 <b>Weitere Präsentationen:</b><br>
