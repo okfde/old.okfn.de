@@ -28,7 +28,7 @@ Der Wirkungsbereich bezieht das gesamte Streckennetz einschließlich urbaner Kno
 Das ist erfreulich, da zumindest für Soll-Daten ein Zeitraum vorgegeben wird.
 
 - Fahrpläne bis 2019 (Sollfahrpläne, keine Verpflichtung für dynamische aka Echtzeit-Daten, <i><b>nicht kostenfrei, sondern angemessene Kosten</i></b>)
-- Einrichtung eines Nationaler Zugangspunkt (NAP)
+- Einrichtung eines Nationaler Zugangspunkt (NAP), angesiedelt bei der [Bundesanstalt für Straßenwesen](http://www.bast.de). (Diese betreibt aktuell bereits den MDM [MobilitätsDatenMarkt](http://www.mdm-portal.de))
 
 Details:<br>
 Artikel 3: Einrichtung eines Nationalen Zugangspunktes (NAP)<br>
@@ -61,7 +61,7 @@ Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vor
 2018-2021: Internationale Vernetzung bestehender Auskunftssysteme über Europäisches Standardformat<br>
 
 
-Unser Ziel ist: 
+<b>Unser Ziel ist:</b> 
 ![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
 
 Dazu gehört mittelfristig auch der kostenlose Zugang zu Sollfahrplandaten bzw. ideallerweise auch zu Echtzeitdaten.<br>
