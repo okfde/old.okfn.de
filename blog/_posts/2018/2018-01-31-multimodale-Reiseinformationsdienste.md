@@ -33,7 +33,7 @@ Das ist erfreulich, da zumindest für Soll-Daten ein Zeitraum vorgegeben wird.
 Details:<br>
 Artikel 3: Einrichtung eines Nationalen Zugangspunktes (NAP)<br>
 Artikel 4: Austauschformate + Zeithorizonte für statische Daten<br>
-Artikel 5: dynamische Daten,a falls vom MS gewünscht) Verweis auf Art. 4 der del. VO 2015/962, [NeTEx](https://en.wikipedia.org/wiki/NeTEx)<br>
+Artikel 5: dynamische Daten (falls gewünscht) Verweis auf Art. 4 der del. VO 2015/962, [NeTEx](https://en.wikipedia.org/wiki/NeTEx)<br>
 Artikel 6: Datenaktualisierung<br>
 Artikel 7: Verknüpfung v. Reiseinformationsdiensten (Routen-infos von Dienstleister an Dienstleister) <br>
 Artikel 8: Weiterverwendung von Reiseverkehrsdaten (Lizenzen)<br> 
@@ -54,8 +54,15 @@ Verkehrsverträge befinden.
 <b>Weitere Präsentationen:</b><br>
 Mario Sela – Referent Mobility des Digitalverbands Bitkom
 [Daten: der Treibstoff für ein digitales Mobilitäts-Ökosystem](/files/blog/2018/01/Bitkom_Impulsvortrag.pdf)
+Hinweis: [Roadmap intelligente Mobilität](http://roadmap-intelligente-mobilitaet.de)
+72% wünschen sich durchgehendes Ticket, 58% monatliche Pauschale
 
 Jürgen Roß – 
 [Nationale und internationale ÖV-Information mit DELFI – ein Überblick](/files/blog/2018/01/DELFI_Impulsvortrag.pdf)
 Bereichsleiter Planung und Fahrgastinforma-
 tionen im VBB und Vorstand im [Delfi e.V.](www.delfi.de)
+DELFI Durchgängige ELektronische Fahrgastinformation Integrationsplatform:
+März 2018 schrittweise Betrieb, Auskunftssysteme angepasst und vernetzt 
+Ende 2018 Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vorbereiten
+2018/2019 Solldaten im europäischen Standardformat
+2018-2021: Internationale Vernetzung bestehender Auskunftssysteme über Europäisches Standardformat
