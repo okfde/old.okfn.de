@@ -41,8 +41,7 @@ Artikel 8: Weiterverwendung von Reiseverkehrsdaten (Lizenzen)
 Bis zum Jahresende sollen diese Punkte in einem Forum mit allen beteiligten Stakeholder geklärt werden.
 
 Details siehe [Zentrale Bereitstellung EU-weiter multimodaler
-Reiseinformationsdienste]
-(/files/blog/2018/01/BMVI_Dialogforum_am_31-01-18.pdf)
+Reiseinformationsdienste](/files/blog/2018/01/BMVI_Dialogforum_am_31-01-18.pdf)
 
 Unser Ziel ist: 
 ![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
