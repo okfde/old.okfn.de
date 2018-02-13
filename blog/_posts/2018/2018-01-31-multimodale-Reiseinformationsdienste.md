@@ -51,7 +51,7 @@ Diese Berücksichtigung der Forderung nach offenen Daten sollte sich auch in den
 Verkehrsverträge befinden.
 
 
-<b>Weitere Präsentationen:</b>
+<b>Weitere Präsentationen:</b><br>
 Mario Sela – Referent Mobility des Digitalverbands Bitkom
 [Daten: der Treibstoff für ein digitales Mobilitäts-Ökosystem](/files/blog/2018/01/Bitkom_Impulsvortrag.pdf)
 
