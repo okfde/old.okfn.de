@@ -43,12 +43,6 @@ Bis zum Jahresende sollen diese Punkte in einem Forum mit allen beteiligten Stak
 Weitere interesssante Details zur geplanten Umsetzung und Vorgangsweise finden sich in der Präsentation [Zentrale Bereitstellung EU-weiter multimodaler
 Reiseinformationsdienste](/files/blog/2018/01/BMVI_Dialogforum_am_31-01-18.pdf) des BMVI.
 
-Unser Ziel ist: 
-![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
-
-Dazu gehört mittelfristig auch der kostenlose Zugang zu Sollfahrplandaten bzw. ideallerweise auch zu Echtzeitdaten.<br>
-Die Berücksichtigung dieser Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
-Verkehrsverträge wiederfinden.
 
 
 <b>Weitere Präsentationen:</b><br>
@@ -65,3 +59,12 @@ März 2018: schrittweise Betrieb, Auskunftssysteme angepasst und vernetzt <br>
 Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vorbereiten<br>
 2018/2019: Solldaten im europäischen Standardformat<br>
 2018-2021: Internationale Vernetzung bestehender Auskunftssysteme über Europäisches Standardformat<br>
+
+
+Unser Ziel ist: 
+![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
+
+Dazu gehört mittelfristig auch der kostenlose Zugang zu Sollfahrplandaten bzw. ideallerweise auch zu Echtzeitdaten.<br>
+Die Berücksichtigung dieser Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
+Verkehrsverträge wiederfinden.
+
