@@ -60,11 +60,11 @@ Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vor
 2018/2019: Solldaten im europäischen Standardformat<br>
 2018-2021: Internationale Vernetzung bestehender Auskunftssysteme über Europäisches Standardformat<br>
 
-
+<!--
 <b>Unser Ziel ist:</b> 
 ![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
 
 Dazu gehört mittelfristig auch der kostenlose Zugang zu Sollfahrplandaten bzw. ideallerweise auch zu Echtzeitdaten.<br>
 Die Berücksichtigung dieser Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
-Verkehrsverträge wiederfinden. Weitere Details, Status und Updates siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de).
+Verkehrsverträge wiederfinden. Weitere Details, Status und Updates siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de). -->
 
