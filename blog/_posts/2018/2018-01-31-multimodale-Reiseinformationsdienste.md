@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2018-01-31
 image:
-  src: /files/blog/2018/scaling-okfde-nahverkehr.png
+  src: /files/blog/2018/01/scaling-okfde-nahverkehr.png
   title: Verkehrsdings
 tags:
 - Open Data
