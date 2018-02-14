@@ -60,5 +60,5 @@ Down the road a comparison with other consumer credit scoring agencies (like  Bo
 
 <strong>[Get your Schufa data - make a data request!](https://selbstauskunft.net/schufa)
 
-[More information on the project](http://openschufa.de/)</strong>
+[More information on the project](http://www.openschufa.de/)</strong>
 
