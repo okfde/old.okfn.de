@@ -26,7 +26,7 @@ Kommen ausreichend Datenspenden zusammen, können wir möglicherweise nachweisen
 
 Etwa zehn Prozent der 70 Millionen Personen, die laut eigenen Angaben der Schufa dort ein Profil haben, haben einen oder mehre negative Einträge. Überprüft werden diese bisher kaum. Zu möglichen Fehlern im Schufa-Algorithmus kommen noch fehleranfällige Schnittstellen zu etwa 9.000 Vertragspartnern in Banken, Telekommunikationsanbietern und anderen. 
 
-Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. Bis zum 15. März sammeln wir 50.000 Euro, um ein möglichst einfaches Interface zu entwickeln, in dem Menschen ihre Schufa-Auskunft per Smartphone einscannen und zusätzliche Daten einpflegen können.
+Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. Bis zum 15. März sammeln wir 50.000 Euro, um ein möglichst einfaches Interface zu entwickeln, in dem Menschen ihre Schufa-Auskunft per Smartphone einscannen und zusätzliche Daten einpflegen können. Dabei wollen wir vor allem darauf achten, dass die neue Software datenschutzfreundlich ist - also Übertragung und Speicherung der Daten sicher ist. Die Datenspende soll anonymisiert ablaufen, soweit dies im Rahmen der Schufa-Daten möglich ist.
 
 <strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a>
 
