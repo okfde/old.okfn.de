@@ -28,7 +28,7 @@ Etwa zehn Prozent der 70 Millionen Personen, die laut eigenen Angaben der Schufa
 
 Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. Bis zum 15. März sammeln wir 50.000 Euro, um ein möglichst einfaches Interface zu entwickeln, in dem Menschen ihre Schufa-Auskunft per Smartphone einscannen und zusätzliche Daten einpflegen können. Dabei wollen wir vor allem darauf achten, dass die neue Software datenschutzfreundlich ist - also Übertragung und Speicherung der Daten sicher ist. Die Datenspende soll anonymisiert ablaufen, soweit dies im Rahmen der Schufa-Daten möglich ist.
 
-<strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a>
+<strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a><br>
 <a id="english"></a>
 <a href="http://openschufa.de">weitere Infos und jetzt spenden</a></strong>
 
