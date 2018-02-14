@@ -35,7 +35,7 @@ Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. 
 
 # English version:
 
-Whether it's loans, mobile phone contracts or apartment rental applications - the Schufa score plays a central role for consumers in Germany. If you have a few points too less, you often end up with nothing. (Computer says ["No"](https://youtu.be/AJQ3TM-p2QI?t=45) to your new smartphone or apartment.) However, the scoring process of the private company Schufa is highly intransparent. As a trade secret, it is not open to the public.
+Whether it's loans, mobile phone contracts or apartment rental applications - the [Schufa](https://en.wikipedia.org/wiki/Schufa) score plays a central role for consumers in Germany. If you have a few points too less, you often end up with nothing. (Computer says ["No"](https://youtu.be/AJQ3TM-p2QI?t=45) to your new smartphone or apartment.) However, the scoring process of the private company Schufa is highly intransparent. As a trade secret, it is not open to the public.
 
 We want to change this intransparency with the project [OpenSCHUFA](http://openschufa.de/).  Together with [AlgorithmWatch](https://algorithmwatch.org/de/) we want to reconstruct the Schufa algorithm with "reverse engineering".
 
