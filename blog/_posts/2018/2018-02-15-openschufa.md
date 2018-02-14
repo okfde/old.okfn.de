@@ -31,3 +31,30 @@ Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. 
 <strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a>
 
 <a href="http://openschufa.de">weitere Infos und jetzt spenden</a></strong>
+
+
+<a id="English"></a>
+# English version:
+
+Whether it's loans, mobile phone contracts or apartment rental applications - the Schufa score plays a central role for consumers in Germany. If you have a few points too less, you often end up with nothing. (Computer says ["No"](https://youtu.be/AJQ3TM-p2QI?t=45) to your new smartphone or apartment.) However, the scoring process of the private company Schufa is highly intransparent. As a trade secret, it is not open to the public.
+
+We want to change this intransparency with the project [OpenSCHUFA](http://openschufa.de/).  Together with [AlgorithmWatch](https://algorithmwatch.org/de/) we want to reconstruct the Schufa algorithm with "reverse engineering".
+
+For this purpose we call for data donations:  
+All people can request their free SCHUFA-Score from Schufa under [selbsauskunft.net/schufa](https://selbsauskunft.net/schufa) and then donate the data to this project.
+
+If we gather sufficient data donations we may be able to prove whether the SCHUFA score discriminates:
+What effects does a person's gender or place of residence have on the score? Is the algorithm even reliable? Does it reinforce injustice?
+
+# Crowdfunding for the evaluation software
+
+Of the 70 million people who have a scoring profile (a claim by Schufa) about ten percent of them have one or more negative entries. So far, these entries have hardly been checked.
+
+In addition to possible errors in the Schufa algorithm itself there are about 9,000 contractual partners like banks or telecommunications providers which are prone to errors (classic case: a bank is not reporting that a loan was fully repaid on time).
+
+In order to be able to develop such an evaluation software we start a crowdfunding campaign. Until March 15th we will try to collect 50,000 Euros to develop the simplest possible interface in which people can scan their Schufa information via smartphone and enter additional data, while providing as much data privacy as possible.
+
+[Get your Schufa data - make a data request!](https://selbstauskunft.net/schufa)
+
+[More information on the project](http://openschufa.de/)
+
