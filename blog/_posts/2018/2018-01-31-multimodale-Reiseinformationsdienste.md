@@ -27,7 +27,7 @@ Der Wirkungsbereich bezieht das gesamte Streckennetz einschließlich urbaner Kno
 
 Das ist erfreulich, da zumindest für Soll-Daten ein Zeitraum vorgegeben wird.
 
-- Fahrpläne bis 2019 (Sollfahrpläne, keine Verpflichtung für dynamische aka Echtzeit-Daten, <i><b>nicht kostenfrei, sondern angemessene Kosten</i></b>)
+- Fahrpläne bis 2019 (Sollfahrpläne, keine Verpflichtung für dynamische aka Echtzeit-Daten, <i><b>nicht kostenfrei, sondern angemessene Kosten</i></b>[Ten-T](https://de.wikipedia.org/wiki/Transeuropäische_Netze) inkl. urbaner Stadtknoten, der Rest 2023)
 - Einrichtung eines Nationaler Zugangspunkt (NAP), angesiedelt bei der [Bundesanstalt für Straßenwesen](http://www.bast.de). (Diese betreibt aktuell bereits den MDM [MobilitätsDatenMarkt](http://www.mdm-portal.de))
 
 Details:<br>
@@ -66,5 +66,5 @@ Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vor
 
 Dazu gehört mittelfristig auch der kostenlose Zugang zu Sollfahrplandaten bzw. ideallerweise auch zu Echtzeitdaten.<br>
 Die Berücksichtigung dieser Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
-Verkehrsverträge wiederfinden.
+Verkehrsverträge wiederfinden. Weitere Details, Status und Updates siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de).
 
