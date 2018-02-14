@@ -27,7 +27,7 @@ Der Wirkungsbereich bezieht das gesamte Streckennetz einschließlich urbaner Kno
 
 Das ist erfreulich, da zumindest für Soll-Daten ein Zeitraum vorgegeben wird.
 
-- Fahrpläne bis 2019 (Sollfahrpläne, keine Verpflichtung für dynamische aka Echtzeit-Daten, <i><b>nicht kostenfrei, sondern angemessene Kosten </i></b>, [Ten-T](https://de.wikipedia.org/wiki/Transeuropäische_Netze) inkl. urbaner Stadtknoten, der Rest 2023)
+- Fahrpläne bis 2019 (Sollfahrpläne, keine Verpflichtung für dynamische aka Echtzeit-Daten, <i><b>nicht kostenfrei, sondern angemessene Kosten</i></b>, [Ten-T](https://de.wikipedia.org/wiki/Transeuropäische_Netze) inkl. urbaner Stadtknoten, der Rest 2023)
 - Einrichtung eines Nationaler Zugangspunkt (NAP), angesiedelt bei der [Bundesanstalt für Straßenwesen](http://www.bast.de). (Diese betreibt aktuell bereits den MDM [MobilitätsDatenMarkt](http://www.mdm-portal.de))
 
 Details:<br>
