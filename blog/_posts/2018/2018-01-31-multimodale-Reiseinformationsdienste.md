@@ -25,7 +25,7 @@ welche am 10.11.2017 in Kraft getreten ist. Das Ziel dieser Verordnung ist die V
 Dies betrifft Personenverkehrdienste im Luft-, Schienen- und Straßenverkehr, in der Binnenschifffahrt oder Kombinationen davon.
 Der Wirkungsbereich bezieht das gesamte Streckennetz einschließlich urbaner Knoten ein. Ferner werden mit der delegierten Verordnung Nr. 2017/1926 neben den Infrastrukturbetreibern und Verkehrsbehörden auch Verkehrsbetreiber und Anbieter nachfrageorientierter Verkehrsangebote angesprochen.
 
-Das ist erfreulich, da zumindest für Soll-Daten ein Zeitraum vorgegeben wird.
+Das ist mal erfreulich, da zumindest für Soll-Daten ein Zeitraum vorgegeben wird.
 
 - Fahrpläne bis 2019 (Sollfahrpläne, keine Verpflichtung für dynamische aka Echtzeit-Daten, <i><b>nicht kostenfrei, sondern angemessene Kosten</b></i>, [Ten-T](https://de.wikipedia.org/wiki/Transeuropäische_Netze) inkl. urbaner Stadtknoten, der Rest 2023)
 - Einrichtung eines Nationaler Zugangspunkt (NAP), angesiedelt bei der [Bundesanstalt für Straßenwesen](http://www.bast.de). (Diese betreibt aktuell bereits den MDM [MobilitätsDatenMarkt](http://www.mdm-portal.de))
@@ -40,12 +40,11 @@ Artikel 8: Weiterverwendung von Reiseverkehrsdaten (Lizenzen)<br>
 
 Bis zum Jahresende sollen diese Punkte in einem Forum mit allen beteiligten Stakeholder geklärt werden.
 
-Weitere interesssante Details zur geplanten Umsetzung und Vorgangsweise finden sich in der Präsentation [Zentrale Bereitstellung EU-weiter multimodaler
+Für weitere interesssante Details zur geplanten Umsetzung und Vorgangsweise empfehle ich die Präsentation [Zentrale Bereitstellung EU-weiter multimodaler
 Reiseinformationsdienste](/files/blog/2018/01/BMVI_Dialogforum_am_31-01-18.pdf) des BMVI.
 
 
-
-<b>Weitere Präsentationen:</b><br>
+<b>Weitere Präsentationen des Dialogforums:</b><br>
 - Mario Sela – Referent Mobility des Digitalverbands Bitkom
 [Daten: der Treibstoff für ein digitales Mobilitäts-Ökosystem](/files/blog/2018/01/Bitkom_Impulsvortrag.pdf)
 Hinweis: [Roadmap intelligente Mobilität](http://roadmap-intelligente-mobilitaet.de)
@@ -62,9 +61,9 @@ Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vor
 
 <!--
 <b>Unser Ziel ist:</b> 
-![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")
+![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")-->
+<br>
+Mit dieser delegierten Verordnung gibt es nun mal einen Zeitrahmen. Wir hoffen und fordern eine vorzeitige Erfüllung inkl. Echtzeitdaten. Dazu sollte sich eine Berücksichtigung nach offenen Daten unserer Meinung nach auch in den Ausschreibungen für neue Verkehrsverträge wiederfinden. Weitere Details, Status und Updates siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de).  
+<br><a href="https://pad.okfn.de/p/koalitionsvertrag-bahn">Zusammenfassung des Koalitionsvertrags für die Neigungsgruppe Eisenbahner</a>.
 
-Dazu gehört mittelfristig auch der kostenlose Zugang zu Sollfahrplandaten bzw. ideallerweise auch zu Echtzeitdaten.<br>
-Die Berücksichtigung dieser Forderung nach offenen Daten sollte sich auch in den Ausschreibungen für neue
-Verkehrsverträge wiederfinden. Weitere Details, Status und Updates siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de). -->
 
