@@ -47,17 +47,17 @@ Down the road a comparison with other consumer credit scoring agencies like  Bon
 <h3>Update as of 15.02.2018 16:00</h3>
 <br>
 #openschufa statistics (hint: in alphabetical order, before someone complains again) as of 15.02.2018 16:00
-
-number of requests per company - link to livestats
-
-936 [Bürgel Wirtschaftsinformationen GmbH & Co. KG]( https://selbstauskunft.net/unternehmen/4-buergel/statistiken)
-945 [Creditreform Boniversum GmbH](https://selbstauskunft.net/unternehmen/2-creditreform)
-821 [Deltavista GmbH]( https://selbstauskunft.net/unternehmen/5/statistiken)
-819 [IHD Service GmbH](https://selbstauskunft.net/unternehmen/36/statistiken)
-936 [infoscore Consumer Data GmbH](https://selbstauskunft.net/unternehmen/1194/statistiken)
-3132 [SCHUFA Holding AG](https://selbstauskunft.net/unternehmen/1-schufa/statistiken)
-827 [UNIVERSUM Business GmbH ehem. Producta Daten-Service GmbH](https://selbstauskunft.net/unternehmen/61-producta/)
-
-And that's Ladies and Gentlemen is what you might call a hockeystick:
-
+<br>
+number of requests per company - link to livestats<br>
+<br>
+936 [Bürgel Wirtschaftsinformationen GmbH & Co. KG]( https://selbstauskunft.net/unternehmen/4-buergel/statistiken)<br>
+945 [Creditreform Boniversum GmbH](https://selbstauskunft.net/unternehmen/2-creditreform)<br>
+821 [Deltavista GmbH]( https://selbstauskunft.net/unternehmen/5/statistiken)<br>
+819 [IHD Service GmbH](https://selbstauskunft.net/unternehmen/36/statistiken)<br>
+936 [infoscore Consumer Data GmbH](https://selbstauskunft.net/unternehmen/1194/statistiken)<br>
+3132 [SCHUFA Holding AG](https://selbstauskunft.net/unternehmen/1-schufa/statistiken)<br>
+827 [UNIVERSUM Business GmbH ehem. Producta Daten-Service GmbH](https://selbstauskunft.net/unternehmen/61-producta/)<br>
+<br>
+And that's Ladies and Gentlemen is what you might call a hockeystick:<br>
+<br>
 ![A good start](/files/blog/2018/02/hockeystick.png "upward trend")
