@@ -14,6 +14,8 @@ card: true
 title: "Jetzt mitmachen: Wir knacken die Schufa!" 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HBsD8BdXSCY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Ob Kredite, Handyverträge oder Wohnungsbewerbungen - bei wichtigen Verbraucherfragen spielt der Schufa-Score eine zentrale Rolle. Wer zu wenige Punkte hat, geht oft leer aus. Das Scoring-Verfahren des Privatunternehmens Schufa ist allerdings höchst intransparent. Als Geschäftsgeheimnis ist es der Öffentlichkeit nicht zugänglich.
 
 Das wollen wir ab heute mit dem Projekt <a href="http://openschufa.de">OpenSCHUFA</a> ändern. Gemeinsam mit <a href="https://algorithmwatch.org/de/">AlgorithmWatch</a> wollen wir den Algorithmus der Schufa mit Reverse Engineering rekonstruieren. 
@@ -30,5 +32,3 @@ Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. 
 
 <strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a><br>
 <a href="http://openschufa.de">weitere Infos und jetzt spenden</a></strong>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HBsD8BdXSCY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
