@@ -62,5 +62,5 @@ number of requests per company:<br>
 936 [infoscore Consumer Data GmbH](https://selbstauskunft.net/unternehmen/1194/statistiken)<br>
 3132 [SCHUFA Holding AG](https://selbstauskunft.net/unternehmen/1-schufa/statistiken)<br>
 827 [UNIVERSUM Business GmbH ehem. Producta Daten-Service GmbH](https://selbstauskunft.net/unternehmen/61-producta/)<br>
-
+7678 total (~24% Schufa)<br>
 For more data take a look at [selbstauskunft.net](https://selbstauskunft.net/statistiken)!
