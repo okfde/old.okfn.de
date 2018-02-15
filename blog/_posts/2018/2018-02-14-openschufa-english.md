@@ -50,9 +50,9 @@ Down the road a comparison with other consumer credit scoring agencies like  Bon
 <br>
 number of requests per company - link to livestats<br>
 <br>
-936 [Bürgel Wirtschaftsinformationen GmbH & Co. KG]( https://selbstauskunft.net/unternehmen/4-buergel/statistiken)<br>
+936 [Bürgel Wirtschaftsinformationen GmbH & Co. KG](https://selbstauskunft.net/unternehmen/4-buergel/statistiken)<br>
 945 [Creditreform Boniversum GmbH](https://selbstauskunft.net/unternehmen/2-creditreform)<br>
-821 [Deltavista GmbH]( https://selbstauskunft.net/unternehmen/5/statistiken)<br>
+821 [Deltavista GmbH](https://selbstauskunft.net/unternehmen/5/statistiken)<br>
 819 [IHD Service GmbH](https://selbstauskunft.net/unternehmen/36/statistiken)<br>
 936 [infoscore Consumer Data GmbH](https://selbstauskunft.net/unternehmen/1194/statistiken)<br>
 3132 [SCHUFA Holding AG](https://selbstauskunft.net/unternehmen/1-schufa/statistiken)<br>
