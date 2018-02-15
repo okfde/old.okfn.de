@@ -32,3 +32,5 @@ Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. 
 
 <strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a><br>
 <a href="http://openschufa.de">weitere Infos und jetzt spenden</a></strong>
+
+<i>Pressekontakt: Arne Semsrott, arne.semsrott@okfn.de, 030 57703666 0</i>
