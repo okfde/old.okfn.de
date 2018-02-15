@@ -2,7 +2,7 @@
 authors: 
 - Walter Palmetshofer
 - Arne Semsrott
-date: 2018-02-15
+date: 2018-02-15 00:00:01
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSCHUFA
@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Get involved: We crack the Schufa!" 
 ---
 
