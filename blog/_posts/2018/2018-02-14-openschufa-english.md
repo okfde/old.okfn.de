@@ -33,11 +33,10 @@ Of the 70 million people who have a credit rating (a claim by Schufa) about ten 
 
 In order to be able to develop such an evaluation software we are starting a crowdfunding campaign. Until March 15th we aim to collect 50,000 Euros to develop an easy-to-use interface in which people can scan their Schufa information via a smartphone and enter additional data. It has the hightest priority that this software respects data protection considerations - meaning that the transfer and storage of the data will be secure. Within the constraints of the Schufa-Data, we aim to anonymise the data-donation wherever possible. 
 
-
-We are excited to launch Openschufa as our first ["mydata"](https://mydata.org) OKFDE project and we are curious,
+We are excited to launch OpenSCHUFA as our first ["mydata"](https://mydata.org) OKFDE project and we are curious
 if the personal data donations will be sufficient to answer the above questions and to achive more transparency in this sector.
-Down the road a comparison with other consumer credit scoring agencies (like  Boniversum, Bürgel, Deltavista, Infoscore, ...) would be really interesting.
+Down the road a comparison with other consumer credit scoring agencies like  Boniversum, Bürgel, Deltavista or Infoscore would be really interesting as well.
 
-<strong>[Get your Schufa data - make a data request!](https://selbstauskunft.net/schufa)
+<strong>[Get your Schufa data - make a data request in Germany!](https://selbstauskunft.net/schufa)
 
 [More information on the project](http://www.openschufa.de/)</strong>
