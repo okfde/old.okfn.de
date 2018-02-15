@@ -2,7 +2,7 @@
 authors: 
 - Walter Palmetshofer
 - Arne Semsrott
-date: 2018-02-15 00:00:01
+date: 2018-02-14 23:59:59
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSCHUFA
