@@ -20,7 +20,7 @@ When applying for a loan, mobile phone contract, or even trying to rent an apart
 We want to change this intransparency with the project [OpenSCHUFA](http://openschufa.de/).  Together with [AlgorithmWatch](https://algorithmwatch.org/de/) we want to reconstruct the Schufa algorithm with "reverse engineering".
 
 For this purpose we call for data donations:  
-Everybody can request their free SCHUFA-Score from Schufa under [selbsauskunft.net/schufa](https://selbsauskunft.net/schufa) and donate the data to our project.
+Everybody can request their free SCHUFA-Score from Schufa under [selbstauskunft.net/schufa](https://selbstauskunft.net/schufa) and donate the data to our project.
 
 If we gather enough data donations, we might be able to prove whether and how the SCHUFA score discriminates:
 - What effects does a person's gender or place of residence have on the score? 
