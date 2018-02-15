@@ -44,10 +44,11 @@ Down the road a comparison with other consumer credit scoring agencies like  Bon
 
 
 <a id="update"></a>
+<h3>Update as of 15.02.2018 16:00</h3>
+<br>
+#openschufa statistics (hint: in alphabetical order, before someone complains again) as of 15.02.2018 16:00
 
-#openschufa Statistics (hint: in alphabetical order, before someone complains again)
-as of 15.02.2018 16:00
-company - link to livestats
+number of requests per company - link to livestats
 
 936 [Bürgel Wirtschaftsinformationen GmbH & Co. KG]( https://selbstauskunft.net/unternehmen/4-buergel/statistiken)
 945 [Creditreform Boniversum GmbH](https://selbstauskunft.net/unternehmen/2-creditreform)
