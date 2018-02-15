@@ -1,7 +1,8 @@
 ---
 authors: 
+- Arne Semsrott
 - Walter Palmetshofer
-date: 2018-02-08
+date: 2018-02-15
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSCHUFA
@@ -10,7 +11,6 @@ tags:
 type: post
 layout: post
 card: true
-published: false
 title: "Jetzt mitmachen: Wir knacken die Schufa!" 
 ---
 
