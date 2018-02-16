@@ -54,8 +54,7 @@ ehrenamtlich tätiges Netzwerk, das sich auf dich freut
 - flexible Arbeitszeiten
 - eine nette Büroatmosphäre
 
-Die Stelle ist ab sofort, spätestens aber bis zum 1. März 2018, zu besetzen. Es handelt sich um
-eine auf ein Jahr befristete Stelle mit Aussicht auf Verlängerung.
+Die Stelle ist ab sofort zu besetzen. Es handelt sich um eine auf ein Jahr befristete Stelle mit Aussicht auf Verlängerung.
 Wir freuen uns insbesondere über die Bewerbungen von Menschen mit
 Migrationshintergrund. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten
 wir abzusehen.
