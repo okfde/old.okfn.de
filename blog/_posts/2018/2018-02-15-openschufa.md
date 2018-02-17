@@ -33,6 +33,6 @@ Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. 
 <strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a><br>
 <a href="http://openschufa.de">weitere Infos und jetzt spenden</a></strong>
 
-<i>Update, 16.02., 17:00 Uhr:</i> Bisher haben mehr als 5.800 Menschen ihre Schufa-Selbstauskunft beantragt. Es kamen mehr als 20.000 Euro im Crowdfunding zusammen. Das freut uns sehr - weiter so! Wir brauchen insgesamt 50.000 Euro und 10.000 Anfragen!
+<i>Update, 17.02., 10:00 Uhr:</i> Bisher haben mehr als 6.200 Menschen ihre Schufa-Selbstauskunft beantragt. Es kamen mehr als 22.000 Euro im Crowdfunding zusammen. Das freut uns sehr - weiter so! Wir brauchen insgesamt 50.000 Euro und 10.000 Anfragen!
 
 <i>Pressekontakt: Arne Semsrott, arne.semsrott@okfn.de, 030 57703666 0</i>
