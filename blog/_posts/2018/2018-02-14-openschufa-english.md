@@ -36,13 +36,14 @@ In order to be able to develop such an evaluation software we are starting a cro
 We are excited to launch OpenSCHUFA as our first ["mydata"](https://mydata.org) OKFDE project and we are curious
 if the personal data donations will be sufficient to answer the above questions and to achive more transparency in this sector.
 Down the road a comparison with other consumer credit scoring agencies like  Boniversum, Bürgel, Deltavista or Infoscore would be really interesting as well.<br><br>
-<a id="update"></a>
+<a id="video"></a>
 [Get your Schufa data - make a data request in Germany!](https://selbstauskunft.net/schufa)<br>
 
 [More information on the project](http://www.openschufa.de/)
 <br>
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HBsD8BdXSCY?cc_lang_pref=en&cc_load_policy=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a id="update"></a>
 
 <h3>Update as of 15.02.2018 16:00</h3>
 <br>
