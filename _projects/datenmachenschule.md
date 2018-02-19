@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Daten machen Schule
 layout: project
 img: projects/datenmachenschule.png
