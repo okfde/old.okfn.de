@@ -2,7 +2,7 @@
 authors: 
 - Walter Palmetshofer
 - Arne Semsrott
-date: 2018-02-22
+date: 2018-02-22 08:00
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSCHUFA
@@ -15,7 +15,7 @@ published: false
 title: "1 week openschufa - we crack the Schufa!" 
 ---
 
-Last week we launched together with [AlgorithmWatch](https://algorithmwatch.org/de/) our newest project [OpenSCHUFA](http://openschufa.de). 
+Last week we launched together with [AlgorithmWatch](https://algorithmwatch.org/de/) our newest project [OpenSCHUFA](http://openschufa.de).<br>
 Inspired by [OKF Finland](http://www.okf.fi) and the [„mydata“](http://mydata.org) project, OpenSCHUFA is the first mydata project by OKFDE.
 
 Over the last 7 days, the campaign generated Germany-wide media attention [see](#media) , 
@@ -53,12 +53,15 @@ In addition, the algorithm used by SCHUFA to calculate credit scores is protecte
 
 So basically, if you are an adult living in Germany, there is a good chance your life is affected by a credit score produced by a multimillion euro private company using an automatic process that they do not have to explain and an algorithm based on data that nobody checks for inaccuracies. And this is not just the case in Germany, but everywhere were credit scores determine everyday life. 
 
-#### How can you help?
+### How can you help?
 
-Not living in Germany? Money makes the world go round. 
-Please donate some money – 5 EUR, we also do take the GBP or USD –  to enable us to develop a data-donation software (that is open source and re-usable also in your country). Get in touch, if you interested in a similar campaign on the credit bureau in your country: openschufa@okfn.de
+Not living in Germany? Money makes the world go round.
 
-And now some of the famous ze German fun, our campaign video:
+Please [donate](https://www.startnext.com/en/openschufa) some money – 5 EUR, we also do take the GBP or USD –  to enable us to develop a data-donation software (that is open source and re-usable also in your country). Get in touch, if you interested in a similar campaign on the credit bureau in your country: openschufa@okfn.de
+
+Living in Germany? [Request your data](http://selbstauskunft.de/schufa) and donate it later.
+
+And now some of ze famous German fun, our campaign video:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HBsD8BdXSCY?cc_lang_pref=en&amp;cc_load_policy=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
@@ -92,30 +95,29 @@ The data you donate to OpenSCHUFA will only used to analyze the SCHUFA scoring p
 #### Press
 (in random order)
 
-[Tagesschau](http://www.tagesschau.de/inland/schufa-101.html)
-[WDR](https://www1.wdr.de/mediathek/video/sendungen/wdr-aktuell/video-schufa-score-transparent-machen--100.html) 
-[n-tv](https://www.n-tv.de/ratgeber/Aktivisten-wollen-Schufa-Code-knacken-article20288673.html) 
-[Spiegel](http://www.spiegel.de/wirtschaft/service/kreditwuerdigkeit-wie-die-schufa-formel-zu-knacken-ist-a-1193522.html) 
-[BR](https://www.br.de/nachrichten/blackbox-schufa-eine-initiative-will-transparenz-schaffen-100.html)
-[Golem](https://www.golem.de/news/openschufa-reverse-engineering-der-schufa-geplant-1802-132791.html)
-[heise](https://www.heise.de/newsticker/meldung/OpenSCHUFA-Projekt-will-Scoring-Methoden-rekonstruieren-3970425.html) 
-[Gruenderszene](https://www.gruenderszene.de/allgemein/openschufa-algorithmus-bonitaet-auskunft) 
-[futurzone](https://www.futurezone.de/netzpolitik/article213448091/OpenSCHUFA-will-mit-Crowdfunding-die-Schufa-Formel-knacken.html)
-[wired](https://www.wired.de/collection/life/openschufa-macht-bonitaets-scoring-ueberpruefbar)
-[netzpolitik](https://netzpolitik.org/2018/jetzt-mitmachen-wir-knacken-die-schufa/)
-[wiwo](http://www.wiwo.de/videos/news/initiative-open-schufa-fordert-mehr-transparenz/20970138.html)
-[hackernews](https://news.ycombinator.com/item?id=16391260#16392311)
-[BR video](https://www.br.de/mediathek/video/verbraucher-tipp-ohne-schufa-kein-kredit-av:5a86d5bae4b2ba0018d49993)
-[Deutschlandfunk](https://www.deutschlandfunknova.de/nachrichten/initiative-datenjournalisten-wollen-schufa-bewertung-offen-legen)
-[piqd](
-https://www.piqd.de/technologie-gesellschaft/openschufa-wie-deine-daten-helfen-das-schufa-scoring-zu-hacken)
-[rbb](https://www.rbb24.de/wirtschaft/beitrag/2018/02/open-schufa-aufruf-datenspenden-ngo-berlin.html)
-[Handelsblatt](http://www.handelsblatt.com/finanzen/steuern-recht/recht/initiative-will-algorithmus-knacken-so-greift-open-schufa-die-auskunftei-an/20973246.html)
-[Wirtschaftswoche](http://www.wiwo.de/finanzen/steuern-recht/initiative-will-algorithmus-knacken-so-greift-open-schufa-die-auskunftei-an/20973728.html)
-[detektor.fm](https://detektor.fm/wirtschaft/frag-den-staat-open-schufa)
-[neues deutschland](https://www.neues-deutschland.de/artikel/1079929.openschufa-initiative-will-algorithmus-knacken.html)
-[Morgenpost](https://www.morgenpost.de/wirtschaft/article213506955/Initiative-Open-Schufa-will-den-Credit-Score-offenlegen.html)
-[telepolis](https://www.heise.de/tp/features/OpenSchufa-will-Bonitaetsauskunft-Algorithmus-herausfinden-3975166.html)
-[Abendblatt](https://www.abendblatt.de/wirtschaft/article213506955/Initiative-Open-Schufa-will-den-Credit-Score-offenlegen.html)
-[DerWesten](https://www.derwesten.de/wirtschaft/initiative-open-schufa-will-den-credit-score-offenlegen-id213506955.html)
-[Handelsblatt global](https://global.handelsblatt.com/politics/germany-mass-surveillance-social-credit-china-big-data-886786)
+* [Tagesschau](http://www.tagesschau.de/inland/schufa-101.html)
+* [WDR](https://www1.wdr.de/mediathek/video/sendungen/wdr-aktuell/video-schufa-score-transparent-machen--100.html) 
+* [n-tv](https://www.n-tv.de/ratgeber/Aktivisten-wollen-Schufa-Code-knacken-article20288673.html) 
+* [Spiegel](http://www.spiegel.de/wirtschaft/service/kreditwuerdigkeit-wie-die-schufa-formel-zu-knacken-ist-a-1193522.html) 
+* [BR](https://www.br.de/nachrichten/blackbox-schufa-eine-initiative-will-transparenz-schaffen-100.html)
+* [Golem](https://www.golem.de/news/openschufa-reverse-engineering-der-schufa-geplant-1802-132791.html)
+* [heise](https://www.heise.de/newsticker/meldung/OpenSCHUFA-Projekt-will-Scoring-Methoden-rekonstruieren-3970425.html) 
+* [Gruenderszene](https://www.gruenderszene.de/allgemein/openschufa-algorithmus-bonitaet-auskunft) 
+* [futurzone](https://www.futurezone.de/netzpolitik/article213448091/OpenSCHUFA-will-mit-Crowdfunding-die-Schufa-Formel-knacken.html)
+* [wired](https://www.wired.de/collection/life/openschufa-macht-bonitaets-scoring-ueberpruefbar)
+* [netzpolitik](https://netzpolitik.org/2018/jetzt-mitmachen-wir-knacken-die-schufa/)
+* [wiwo](http://www.wiwo.de/videos/news/initiative-open-schufa-fordert-mehr-transparenz/20970138.html)
+* [hackernews](https://news.ycombinator.com/item?id=16391260#16392311)
+* [BR video](https://www.br.de/mediathek/video/verbraucher-tipp-ohne-schufa-kein-kredit-av:5a86d5bae4b2ba0018d49993)
+* [Deutschlandfunk](https://www.deutschlandfunknova.de/nachrichten/initiative-datenjournalisten-wollen-schufa-bewertung-offen-legen)
+* [piqd](https://www.piqd.de/technologie-gesellschaft/openschufa-wie-deine-daten-helfen-das-schufa-scoring-zu-hacken)
+* [rbb](https://www.rbb24.de/wirtschaft/beitrag/2018/02/open-schufa-aufruf-datenspenden-ngo-berlin.html)
+* [Handelsblatt](http://www.handelsblatt.com/finanzen/steuern-recht/recht/initiative-will-algorithmus-knacken-so-greift-open-schufa-die-auskunftei-an/20973246.html)
+* [Wirtschaftswoche](http://www.wiwo.de/finanzen/steuern-recht/initiative-will-algorithmus-knacken-so-greift-open-schufa-die-auskunftei-an/20973728.html)
+* [detektor.fm](https://detektor.fm/wirtschaft/frag-den-staat-open-schufa)
+* [neues deutschland](https://www.neues-deutschland.de/artikel/1079929.openschufa-initiative-will-algorithmus-knacken.html)
+* [Morgenpost](https://www.morgenpost.de/wirtschaft/article213506955/Initiative-Open-Schufa-will-den-Credit-Score-offenlegen.html)
+* [telepolis](https://www.heise.de/tp/features/OpenSchufa-will-Bonitaetsauskunft-Algorithmus-herausfinden-3975166.html)
+* [Abendblatt](https://www.abendblatt.de/wirtschaft/article213506955/Initiative-Open-Schufa-will-den-Credit-Score-offenlegen.html)
+* [DerWesten](https://www.derwesten.de/wirtschaft/initiative-open-schufa-will-den-credit-score-offenlegen-id213506955.html)
+* [Handelsblatt global](https://global.handelsblatt.com/politics/germany-mass-surveillance-social-credit-china-big-data-886786)
