@@ -18,7 +18,7 @@ title: "1 week openschufa - we crack the Schufa!"
 Last week we launched together with [AlgorithmWatch](https://algorithmwatch.org/de/) our newest project [OpenSCHUFA](http://openschufa.de).<br>
 Inspired by [OKF Finland](http://www.okf.fi) and the [„mydata“](http://mydata.org) project, OpenSCHUFA is the first mydata project by OKFDE.
 
-Over the last 7 days, the campaign generated Germany-wide media attention [see](#media) , 
+Over the last 7 days, the campaign generated Germany-wide media attention [(see press listing)](#media), 
 and already over 8.000 individual Schufa data request (30.000 personal data requests in total).
 
 Congrats btw. to [selbstauskunft.net](http://selbstauskunft.net) for serving **1 million** personal data requests!
@@ -26,11 +26,11 @@ Congrats btw. to [selbstauskunft.net](http://selbstauskunft.net) for serving **1
 
 ### Why we started OpenSCHUFA and why you should care about credit scoring 
 
-Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives. A low SCHUFA score means landlords will refuse to rent you an apartment, banks will reject your credit card application and network providers will say ‘computer says no’ to a new Internet contract. But what if your SCHUFA score is low because there are mistakes in your credit history? Or if the score is calculated by a mathematical model that is biased?
+Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives. A low SCHUFA score means landlords will refuse to rent you an apartment, banks will reject your credit card application and network providers will say ‘[computer says no](https://youtu.be/AJQ3TM-p2QI?t=45)’ to a new Internet contract. But what if your SCHUFA score is low because there are mistakes in your credit history? Or if the score is calculated by a mathematical model that is biased?
 
 The big problem is, we simply don’t know how accurate SCHUFA’s or any other credit scoring data is and how it computes its scores. OpenSCHUFA wants to change this by analyzing thousands of credit records.
 
-This is not just happening in Germany, or just with credit scoring, for example the Chinese government has decided to introduce a scoring system by 2020 that assigns a "social value" to all residents. Or think about the Nosedive episode of the Black Mirror series. 
+This is not just happening in Germany, or just with credit scoring, for example the Chinese government has decided to introduce a scoring system by 2020 that assigns a "social value" to all residents. Or think about the [Nosedive episode](https://en.wikipedia.org/wiki/Nosedive) of the Black Mirror series. 
 
 **We want to**
 - start a discussion on that topic 
@@ -71,19 +71,23 @@ And now some of ze famous German fun, our campaign video:
 
 We need as many people living in Germany as possible to order their SCHUFA credit record and donate the record to OpenSCHUFA . The more records we can evaluate, the more accurate our findings will be, and the more transparent SCHUFA’s scoring process will become for everyone. You can immediately request for your free SCHUFA credit record by going to selbstauskunft.net. It will take some weeks to arrive by postal mail. Once the data donation platform is ready in May 2018 (financed by your donation) you’ll be able to upload your credit record together with some demographic information we need to make sense of the data. 
 ##### STEP ONE: Request your SCHUFA record
-Everyone in Germany is entitled to obtain a free copy of their credit record once a year (you can apply more often, but you have to pay a fee after the first application).
-The easiest way to apply is to use the site selbstauskunft.net (currently only in German).
-After a few weeks, you will receive a copy of your SCHUFA credit record in the post.
+* Everyone in Germany is entitled to obtain a free copy of their credit record once a year (you can apply more often, but you have to pay a fee after the first application).
+* The easiest way to apply is to use the site selbstauskunft.net (currently only in German).
+* After a few weeks, you will receive a copy of your SCHUFA credit record in the post.
 ##### STEP TWO: Upload your SCHUFA record to OpenSCHUFA
-Go to our site OpenSCHUFA.de, which will offer the upload functionality in May 2018.
-Scan or take a photo of your credit record (the main table, no personal data)
-Upload it to the site
-We will ask a few questions about you, such as your age, gender, country of birth, income, postcode, number of children, number of mobile phone contracts, how often you have moved in the past two years, how many lines of credit you open and how often you have missed credit payments. Providing this data will be completely voluntary but the more you provide, the more it will help us analyze SCHUFA’s algorithm for discrimination.
-What will OpenSCHUFA do with my data?
+* Go to our site OpenSCHUFA.de, which will offer the upload functionality in May 2018.
+* Scan or take a photo of your credit record (the main table, no personal data)
+* Upload it to the site
+* We will ask a few questions about you, such as your age, gender, country of birth, income, postcode, number of children, number of mobile phone contracts, how often you have moved in the past two years, how many lines of credit you open and how often you have missed credit payments. Providing this data will be completely voluntary but the more you provide, the more it will help us analyze SCHUFA’s algorithm for discrimination.
+
+##### What will OpenSCHUFA do with my data?
 OpenSCHUFA has gathered a group of data scientists, including data journalists from Bayerischer Rundkfunk, a state broadcaster, and Spiegel Online, the German news site, who will analyze the credit data together with us.
+
 We start publishing the first findings around July, with the final evaluation in November 2018. We will also try to make as much of the data as possible available as open data for other researchers to use – but only data that cannot be traced back to an individual.
-How will you protect my data and make it anonymous?
+
+##### How will you protect my data and make it anonymous?
 We are only interested in the main table of your SCHUFA record. We are not interested in your name, your birth date or your address. We will ask for additional demographic information to be able to analyse the data of the SCHUFA record more exact, to ascertain how different profiles are treated differently by the SCHUFA. Your identity is not relevant for us.
+
 The data you donate to OpenSCHUFA will only used to analyze the SCHUFA scoring process. It will neither be forwarded to third parties nor sold. The data will be transferred with an end-to-end encryption and stored on our server.
 
 
@@ -103,8 +107,8 @@ The data you donate to OpenSCHUFA will only used to analyze the SCHUFA scoring p
 * [Golem](https://www.golem.de/news/openschufa-reverse-engineering-der-schufa-geplant-1802-132791.html)
 * [heise](https://www.heise.de/newsticker/meldung/OpenSCHUFA-Projekt-will-Scoring-Methoden-rekonstruieren-3970425.html) 
 * [Gruenderszene](https://www.gruenderszene.de/allgemein/openschufa-algorithmus-bonitaet-auskunft) 
-* [futurzone](https://www.futurezone.de/netzpolitik/article213448091/OpenSCHUFA-will-mit-Crowdfunding-die-Schufa-Formel-knacken.html)
-* [wired](https://www.wired.de/collection/life/openschufa-macht-bonitaets-scoring-ueberpruefbar)
+* [futurezone](https://www.futurezone.de/netzpolitik/article213448091/OpenSCHUFA-will-mit-Crowdfunding-die-Schufa-Formel-knacken.html)
+* [Wired](https://www.wired.de/collection/life/openschufa-macht-bonitaets-scoring-ueberpruefbar)
 * [netzpolitik](https://netzpolitik.org/2018/jetzt-mitmachen-wir-knacken-die-schufa/)
 * [wiwo](http://www.wiwo.de/videos/news/initiative-open-schufa-fordert-mehr-transparenz/20970138.html)
 * [hackernews](https://news.ycombinator.com/item?id=16391260#16392311)
