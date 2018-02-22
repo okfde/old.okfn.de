@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "1 week openschufa - we crack the Schufa!" 
 ---
 
