@@ -33,6 +33,7 @@ Leider beschränkt sich das proaktive Bereitstellen der Daten auf Kommunen, die 
 Wir setzen uns mit OffenerHaushalt.de dafür ein, das öffentliche Daten offen genutzt werden können und die Verwendung von Steuergeldern transparent nachvollziehbar ist. Deswegen fordern wir, dass sämtliche Haushaltsdaten maschinenlesbar veröffentlicht werden. An technischen Hürden sollte dies übrigens nicht scheitern, da fast jede Buchhaltungssoftware schon eine Exportfunktion enthält. Über Unterstützung freuen wir uns in Form [Spenden](https://offenerhaushalt.de/page/spenden.html), neuen Daten und der Mitarbeit an Webseite und Datenstandard. 
 
 [Mailingliste](https://lists.okfn.org/mailman/listinfo/offener-haushalt)
+
 [Twitter](https://twitter.com/offenerhaushalt)
 
 
