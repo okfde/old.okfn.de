@@ -87,13 +87,8 @@ We start publishing the first findings around July, with the final evaluation in
 
 ##### How will you protect my data and make it anonymous?
 We are only interested in the main table of your SCHUFA record. We are not interested in your name, your birth date or your address. We will ask for additional demographic information to be able to analyse the data of the SCHUFA record more exact, to ascertain how different profiles are treated differently by the SCHUFA. Your identity is not relevant for us.
-
+<a id="media"></a>
 The data you donate to OpenSCHUFA will only used to analyze the SCHUFA scoring process. It will neither be forwarded to third parties nor sold. The data will be transferred with an end-to-end encryption and stored on our server.
-
-
-
-
-
 
 <a id="media"></a>
 #### Press
