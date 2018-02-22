@@ -13,7 +13,7 @@ tags:
 - open data
 - transparenz
 - offenerhaushalt
-title: "Zur Finanztransparenz in Deutschland"
+title: "Finanztransparenz: Informationsfreiheit bleibt ein Problem"
 ---
 
 Auf [OffenerHaushalt.de](https://offenerhaushalt.de/) können Bürger die Verwendung von Steuergeldern transparent nachvollziehen. Das Open-Source Projekt ermöglicht der Zivilgesellschaft Haushaltsdaten selbständig zu visualisieren und für öffentliche Rechenschaftslegung zu nutzen. 
