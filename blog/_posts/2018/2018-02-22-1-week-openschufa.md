@@ -12,16 +12,16 @@ type: post
 layout: post
 card: true
 published: true
-title: "1 week openschufa - we crack the Schufa!" 
+title: "One week of OpenSchufa - we crack the Schufa!" 
 ---
 
-Last week we launched together with [AlgorithmWatch](https://algorithmwatch.org/de/) our newest project [OpenSCHUFA](http://openschufa.de).<br>
-Inspired by [OKF Finland](http://www.okf.fi) and the [„mydata“](http://mydata.org) project, OpenSCHUFA is the first mydata project by OKFDE.
+Last week we launched our newest project [OpenSCHUFA](http://openschufa.de) together with [AlgorithmWatch](https://algorithmwatch.org/de/).<br> 
+Inspired by [OKF Finland](http://www.okf.fi) and the [„mydata“](http://mydata.org) project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.
 
-Over the last 7 days, the campaign generated Germany-wide media attention [(see press listing)](#media), 
+Over the last 7 days, the campaign generated Germany-wide media attention [(see press listing)](#media) 
 and already over 8.000 individual Schufa data request (30.000 personal data requests in total).
 
-Congrats btw. to [selbstauskunft.net](http://selbstauskunft.net) for serving **1 million** personal data requests!
+Congrats to [selbstauskunft.net](http://selbstauskunft.net) for serving **1 million** personal data requests!
 
 
 ### Why we started OpenSCHUFA and why you should care about credit scoring 
@@ -57,7 +57,7 @@ So basically, if you are an adult living in Germany, there is a good chance your
 
 Not living in Germany? Money makes the world go round.
 
-Please [donate](https://www.startnext.com/en/openschufa) some money – 5 EUR, we also do take the GBP or USD –  to enable us to develop a data-donation software (that is open source and re-usable also in your country). Get in touch, if you interested in a similar campaign on the credit bureau in your country: openschufa@okfn.de
+Please [donate](https://www.startnext.com/en/openschufa) some money – 10 EUR, we also do take the GBP or USD –  to enable us to develop a data-donation software (that is open source and re-usable also in your country). Get in touch, if you interested in a similar campaign on the credit bureau in your country: openschufa@okfn.de
 
 Living in Germany? [Request your data](http://selbstauskunft.de/schufa) and donate it later.
 
