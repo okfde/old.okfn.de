@@ -12,7 +12,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "Upload Filters" 
+title: "Upload-Filter: Wir brauchen deine Hilfe" 
 ---
 
 ## Europäischer Internet-Filter wird dein Recht auf Informationsfreiheit und auf freie Meinungsäußerung einschränken: Deine Hilfe wird benötigt!
