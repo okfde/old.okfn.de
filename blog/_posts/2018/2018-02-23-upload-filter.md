@@ -51,3 +51,9 @@ Tiemo Wölken, [@woelken](http://twitter.com/woelken) (stellvertretend, SPD / S&
 Die österreichische EU-Abgeordnete im JURI-Komitee ist:
 Evelyn Regner, [@Evelyn_Regner](http://twitter.com/Evelyn_Regner), (SPÖ / S&D)
 
+
+Weitere Links:
+[EDRI](https://edri.org)
+[Netzpolitik](https://netzpolitik.org/2018/eu-kommission-immer-mehr-plattformen-sollen-uploads-filtern/)
+
+
