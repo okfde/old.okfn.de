@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2018-02-23
 image:
-  src: /files/blog/2017/06/digitale-agenda-3.jpg
+  src: /files/blog/2018/02/filter-article13.png
   title: Koalitionsvertrag
 tags:
 - Policy
@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Upload Filters" 
 ---
 
@@ -41,19 +41,19 @@ Die folgenden Wochen werden entscheidend! Tweete oder schreibe eine E‑Mail an 
 Deutsche EU-Abgeordnete im JURI-Kommittee sind:
 
 
-Sylvia-Yvonne Kaufmann, [@KaufmannSylvia](http://twitter.com/KaufmanSylvia) (SPD / S&D)	
-Julia Reda, [@Senficon](http://twitter.com/Senficon) (Piraten / Grüne/EFA)
-Axel Voss, [@AxelVossMdEP](http://twitter.com/AxelVossMdEP) (CDU / EVP)
-Evelyne Gebhardt (stellvertretend, SPD / S&D)
-Angelika Niebler, [@ANiebler](http://twitter.com/ANiebler) (stellvertretend, CSU / EVP)
-Rainer Wieland (stellvertretend, CDU / EVP)
-Tiemo Wölken, [@woelken](http://twitter.com/woelken) (stellvertretend, SPD / S&D)
-Die österreichische EU-Abgeordnete im JURI-Komitee ist:
-Evelyn Regner, [@Evelyn_Regner](http://twitter.com/Evelyn_Regner), (SPÖ / S&D)
+Sylvia-Yvonne Kaufmann, [@KaufmannSylvia](http://twitter.com/KaufmanSylvia) (SPD / S&D)	<br>
+Julia Reda, [@Senficon](http://twitter.com/Senficon) (Piraten / Grüne/EFA)<br>
+Axel Voss, [@AxelVossMdEP](http://twitter.com/AxelVossMdEP) (CDU / EVP)<br>
+Evelyne Gebhardt (stellvertretend, SPD / S&D)<br>
+Angelika Niebler, [@ANiebler](http://twitter.com/ANiebler) (stellvertretend, CSU / EVP)<br>
+Rainer Wieland (stellvertretend, CDU / EVP)<br>
+Tiemo Wölken, [@woelken](http://twitter.com/woelken) (stellvertretend, SPD / S&D)<br>
+Die österreichische EU-Abgeordnete im JURI-Komitee ist:<br>
+Evelyn Regner, [@Evelyn_Regner](http://twitter.com/Evelyn_Regner), (SPÖ / S&D)<br>
+<br>
 
-
-Weitere Links:
-[EDRI](https://edri.org)
-[Netzpolitik](https://netzpolitik.org/2018/eu-kommission-immer-mehr-plattformen-sollen-uploads-filtern/)
-
+Weitere Links:<br>
+[EDRI](https://edri.org)<br>
+[Netzpolitik](https://netzpolitik.org/2018/eu-kommission-immer-mehr-plattformen-sollen-uploads-filtern/)<br>
+[copybuzz](http://copybuzz.com/pl/copyright/mep-voss-proposal-on-the-censorship-machine-art-13-not-die-beste-idee-either/)
 
