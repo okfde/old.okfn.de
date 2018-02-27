@@ -17,7 +17,7 @@ Wir freuen uns sehr, euch alle zu unserem zweiten openpolitischen Abend einzulad
 
 Am 7 März ab 19 Uhr begrüßen wir Antti Jogi Poikola. Antti Poikola von Open Knowledge Finland und der Aalto University wird über “MyData” sprechen.
 
-Kommt vorbei! Gastgeberin ist die Mozilla Foundation. Der Eintritt ist frei. Es gibt Wein. Bitte hier anmelden: https://www.meetup.com/MyData-Global/events/248091585/
+Kommt vorbei! Gastgeberin ist die Mozilla Foundation. Der Eintritt ist frei. Es gibt Wein. Bitte hier anmelden: [MeetUp Anmeldung](https://www.meetup.com/MyData-Global/events/248091585/)
 
 MyData ist ein auf den Menschen ausgerichteter Ansatz im Bereich der Verwaltung personenbezogener Daten, der den Bedarf der Industrie an Daten mit den digitalen Menschenrechten verbindet. Antti Jogi Poikola wird über die MyData-Bewegung und Netzwerke in Europa sprechen. Seit 2014 wird die MyData Konferenz in Finnland organisiert, wo das Denken über die Markt der Persönliche Daten, Datensouveränität und mit welchen Werkzeugen und Rechten wir wieder Kontrolle über die Verwendung unsere eigenen Daten zurückgewinnen können gestaltet wird. 
 
@@ -30,4 +30,4 @@ MyData ist ein auf den Menschen ausgerichteter Ansatz im Bereich der Verwaltung 
 <br> Mozilla Office
 <br> Schlesische Str. 27
 <br> 10997 Berlin
-<br> Anmelden: https://www.meetup.com/MyData-Global/events/248091585/
+<br> Anmelden: [MeetUp Anmeldung](https://www.meetup.com/MyData-Global/events/248091585/)
