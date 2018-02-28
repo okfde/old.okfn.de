@@ -9,3 +9,4 @@ __posts/
 .bundle/
 .gem/
 vendor/
+Thumbs.db

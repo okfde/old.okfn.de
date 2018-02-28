@@ -153,10 +153,10 @@
   board: 0
   advisory: 0
   position:
-  bio: "Bela setzt sich zusammen mit Anna bei [OpenBudgets](https://okfn.de/projekte/openbudgets/) für mehr Transparenz und Rechenschaft im Bereich der Haushaltsgestaltung in Europa ein. Er ist spezialisiert auf Öffentlichkeitsarbeit, Kommunikation und Designaufgaben. Er hat einen Master in „European Studies on Society, Science & Technology“ und arbeitet seit November 2014 bei der Open Knowledge Foundation."
-  bio_en: "Bela works alongside Anna to bring more transparency to budget data in Europe with [OpenBudgets](https://okfn.de/projekte/openbudgets/). He specializes in public relations, communication, and graphic design and compiles the monthly OKF newsletter. He holds a degree in European Studies on Society, Science and Technology and joined OKF DE in 2014."
+  bio: "Bela ist Projektleiter von DatenmachenSchule und dem Turing-Bus. Er ist spezialisiert auf Öffentlichkeitsarbeit, Kommunikation und Designaufgaben. Er hat einen Master in „European Studies on Society, Science & Technology“ und arbeitet seit November 2014 bei der Open Knowledge Foundation."
+  bio_en: "Bela project lead of DatenmachenSchule and the Turing-Bus. He specializes in public relations, communication, and graphic design and compiles the monthly OKF newsletter. He holds a degree in European Studies on Society, Science and Technology and joined OKF DE in 2014."
   mail: bela.seeger@okfn.de
-  twitter: belaseeger
+  twitter: bela_data
   website:
 
 - name: Fiona Krakenbürger
@@ -191,8 +191,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Elisa unterstützt das Codefor-Team im Projekt „Digital Refugee Labs“. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
-  bio_en: "Elisa supports the Codefor team in the project 'Digital Refugee Labs'. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
+  bio: "Elisa ist Projektleiterin des Prototype Funds. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
+  bio_en: "Elisa ist project lead of the Prototype Fund. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
   mail: elisa.lindinger@okfn.de
   twitter: elizab0t
   website:
@@ -216,8 +216,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist im Bereich Finanztransparenz bei der Open Knowledge Foundation. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und arbeitet in den Projekten: Subsidystories.eu, OpenBudgets.eu und OffenerHaushalt.de. Außerdem koordiniert er den zivilgesellschaftlichen Arbeitskreis zur Open Government Partnership in Deutschland, welcher sich für offeneres, transparenteres und partizipativeres Regierungshandeln einsetzt."
-  bio_en: "Michael works as a Data Analyst in the field of Open Government mostly focused on financial transparency. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the civil society working group of the Open Government Partnership, which aims towards making the German government more open, accountable, and responsive to citizens."
+  bio: "Michael arbeitet seit Oktober 2016 als Datenanalyst bei der Open Knowledge Foundation im Bereich Finanztransparenz. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und betreut insbesondere das Projekt OffenerHaushalt.de. Zudem koordiniert er den zivilgesellschaftliche Open Government Netzwerk, welches sich für offenes Regierungs- und Verwaltungshandeln im Rahmen der deutschen Teilnahme an der Open Government Partnership."
+  bio_en: "Michael works as a Data Analyst in the field of Open Government mostly focused on financial transparency. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the Open Government Netzwerk, the German civil society network, which advocates making the German government more open, accountable, and responsive to citizens."
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
@@ -289,19 +289,6 @@
   twitter: Anna_Alberts
   website:
   github: annafralberts
-
-- name: ​Andrej Sandorf
-  title:
-  staff: 1
-  board: 0
-  advisory: 0
-  position:
-  bio: "Andrej ist Softwareentwickler mit Schwerpunkt auf Web- & Serveranwendungen sowie Datenvisualisierungen. Er arbeitete ein Jahrzehnt als Projektleiter und freier Entwickler von Software für öffentliche Verwaltung, große Industriebetriebe, Krankenhäuser und Bibliotheken. Bevor er zur Open Knowledge Foundation Deutschland kam, war er ein Mitglied der ehemaligen Datenjournalismus- und Aktivistengruppe OpenDataCity."
-  bio_en: "Andrej is software developer with focus on web apps, server apps & data visualisations. He worked for a decade as a project manager and freelance developer of software for government administrations, major industrial enterprises, hospitals & libraries. Before joining Open Knowledge Foundation Germany he was a team member of former data journalist & activist group OpenDataCity."
-  mail: andrej.sandorf@okfn.de
-  twitter:
-  website:
-  github:
 
 - name: Johanna zum Felde
   title:
@@ -745,8 +732,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Lea unterstützt die OKF seit September 2017 im Rahmen ihres Freiwilligendienstes beim FJ Beteiligung und arbeitet aktuell bei Jugend hackt und Frag den Staat mit."
-  bio_en: "Lea has been working for the Open Knowledge Foundation since September 2017 and joined the projects Jugend hackt and Frag den Staat."
+  bio: "Lea unterstützt die OKF seit September 2017 im Rahmen ihres Freiwilligendienstes beim FJ Beteiligung und arbeitet aktuell bei Jugend hackt und FragDenStaat mit."
+  bio_en: "Lea has been working for the Open Knowledge Foundation since September 2017 and joined the projects Jugend hackt and FragDenStaat."
   mail: lea.schubert@okfn.de
   twitter:
   website:

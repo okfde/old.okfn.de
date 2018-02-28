@@ -54,16 +54,15 @@ ehrenamtlich tätiges Netzwerk, das sich auf dich freut
 - flexible Arbeitszeiten
 - eine nette Büroatmosphäre
 
-Die Stelle ist ab sofort, spätestens aber bis zum 1. März 2018, zu besetzen. Es handelt sich um
-eine auf ein Jahr befristete Stelle mit Aussicht auf Verlängerung.
+Die Stelle ist ab sofort zu besetzen. Es handelt sich um eine auf ein Jahr befristete Stelle mit Aussicht auf Verlängerung.
 Wir freuen uns insbesondere über die Bewerbungen von Menschen mit
 Migrationshintergrund. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten
 wir abzusehen.
 
 Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl.
-möglichem Beginn bis zum 18. Februar per E-Mail an juliane.krueger@okfn.de, gerne auch
+möglichem Beginn bis zum 04. März per E-Mail an juliane.krueger@okfn.de, gerne auch
 PGP-verschlüsselt.
 
-Die Gespräche finden vom 20.-22.02.2018 in Berlin statt. Die Reisekosten für die
+Die Gespräche finden vom 06.-08.03.2018 in Berlin statt. Die Reisekosten für die
 Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen
 werden.
