@@ -53,7 +53,7 @@ OK Lab Stuttgart, 11 Uhr, Stadtbibliothek Stuttgart, Mailänder Platz 1, [Link](
 
 OK Lab Ulm/Verschwoerhaus, 14 Uhr, Verschwoerhaus, Weinhof 9, 89073 Ulm, [Link](https://verschwoerhaus.de/feinstaubsensoren-im-eigenbau-am-3-3/)
 
-3. und 4. März, OK Lab Wuppertal, 10 Uhr, Utopiastadt, Mirker Straße 48, 42105 Wuppertal, [Link](https://www.clownfisch.eu/02/26/smart-city-wuppertal-open-data-day-2018/)
+OK Lab Wuppertal, 3. und 4. März, 10 Uhr, Utopiastadt, Mirker Straße 48, 42105 Wuppertal, [Link](https://www.clownfisch.eu/02/26/smart-city-wuppertal-open-data-day-2018/)
 
 Außerdem gibt es einen Open Data Day-Ableger am 17. und 18. März OK Lab Niederrhein, Hackday 2018, Rathaus Moers, Rathausplatz 1, 47441 Moers, [Link](https://www.codeforniederrhein.de/hackday-2018/)
 
