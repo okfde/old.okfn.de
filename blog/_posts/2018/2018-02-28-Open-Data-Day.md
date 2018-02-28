@@ -15,7 +15,7 @@ tags:
 title: "Zieht am kommenden Samstag in eure Städte, denn es ist wieder Open Data Day!"
 ---
 
-Am jetzigen Samstag, 3. März 2018, findet weltweit der Open Data Day statt. 
+Am Samstag, 3. März 2018, findet weltweit der Open Data Day statt. 
 Er ist das Ereignis, das von Aktivistinnen und Aktivisten auf der ganzen Welt dazu genutzt wird, um auf die Bedeutung offener Daten hinzuweisen.
 
 Natürlich sind auch in seiner fünften Ausgabe ganz viele Ehrenamtliche in den Open Knowledge Labs des Netzwerks Code for Germany zugange. Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe offener Daten gemeinsam etwas gestalten.
