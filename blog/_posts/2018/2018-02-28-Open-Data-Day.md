@@ -29,7 +29,7 @@ OK Lab Berlin, 10 Uhr, Wikimedia e.V Tempelhofer Ufer 23/24, 10963 Berlin, [Link
 
 OK Lab Bonn 10 Uhr, BonnLAB, Zingsheimstraße 2, 53225 Bonn, [Link](https://codeforbonn.de/open-data-day-bonn-2018/)
 
-OK Lab Düsseldorf, 11 Uhr, Haus der Universität, Schadowplatz 14, 40212 Düsseldorf, [Link](https://codefordus.nrw/event/open-data-day-2018/ 
+OK Lab Düsseldorf, 11 Uhr, Haus der Universität, Schadowplatz 14, 40212 Düsseldorf, [Link](https://codefordus.nrw/event/open-data-day-2018/) 
 
 OK Lab Frankfurt, 10 Uhr, Die Zentrale, Berger Straße 175, 60385 Frankfurt am Main, [Link](https://codeforfrankfurt.github.io/hackathon2018/index.html)
 
