@@ -57,17 +57,31 @@ Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 Mit freundlichen Grüßen
 
 Open Knowledge Foundation Deutschland e. V.
+
 Bitkom e. V.
+
 Verbraucherzentrale Bundesverband
+
 Wikimedia Deutschland e. V.
+
 Bundesverband Deutsche Startups e. V.
+
 Bundesverband Digitale Wirtschaft (BVDW)
+
 Bundesverband IT-Mittelstand e. V. (BITMi)
+
 Bundesverband mittelständische Wirtschaft Unternehmerverband Deutschland e. V.
+
 Chaos Computer Club
+
 D64 – Zentrum für digitalen Fortschritt e. V.
+
 Der Arbeitskreis gegen Internetsperren und Zensur
+
 Deutscher Gründerverband
+
 Digitale Gesellschaft
+
 eco – Verband der Internetwirtschaft e. V.
+
 Jugendpresse Deutschland
