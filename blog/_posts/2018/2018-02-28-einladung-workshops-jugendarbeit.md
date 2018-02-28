@@ -3,7 +3,7 @@ authors:
 - Jasmin Helm
 date: 2018-02-28 10:00:00
 image:
-  src: /files/blog/2018/02/workshop-dl.png
+  src: /files/blog/2018/02/workshop-dl.jpg
   title: 
   license: "CC BY 4.0, Open Knowledge Foundation Deutschland e.V., Foto: Thomas Nitz, tnt-fotoart.de"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
