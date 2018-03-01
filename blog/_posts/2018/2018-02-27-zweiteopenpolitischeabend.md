@@ -10,7 +10,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "Der zweite openpolitische Abend: MyData in Berlin mit Antti \"Jogi\" Poikola und Nicola Jentztsch "
+title: "Der zweite openpolitische Abend: MyData in Berlin mit Antti \"Jogi\" Poikola und Nicola Jentzsch "
 ---
 
 Wir freuen uns sehr, euch alle zu unserem zweiten openpolitischen Abend einzuladen!
