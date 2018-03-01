@@ -1,8 +1,8 @@
 ---
 authors: Sarina Balkhausen
-date: 2018-03-02
+date: 2018-03-01
 image: 
-  src: /files/blog/2018/02/img1.jpg
+  src: /files/blog/2018/02/image1.jpg
   title: Open Data Day 
   license: 
   license_url: 
