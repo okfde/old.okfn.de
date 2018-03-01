@@ -18,6 +18,7 @@ Wir freuen uns sehr, euch alle zu unserem zweiten openpolitischen Abend einzulad
 Am 7.März ab 19 Uhr begrüßen wir
 * [Antti Jogi Poikola](https://twitter.com/apoikola) von [Open Knowledge Finland](http://okf.fi) und der Aalto University. Er wird über “[MyData](mydata.org)” sprechen. 
 * [Nicola Jentzsch](https://www.stiftung-nv.de/de/person/dr-nicola-jentzsch) wird das Projekt "Datenökonomie” von der [Stiftung Neue Verantwortung](https://www.stiftung-nv.de/) und Ihre neue Studie zum Thema [Dateneigentum](https://www.stiftung-nv.de/sites/default/files/nicola_jentzsch_dateneigentum.pdf) vorstellen. 
+* Kurze Vorstellung & Updates zu [Openschufa](http://openschufa.de)
 
 Kommt vorbei! Gastgeberin ist die Mozilla Foundation. Der Eintritt ist frei. Es gibt Wein. [Bitte hier anmelden](https://www.meetup.com/MyData-Global/events/248091585/)!
 
