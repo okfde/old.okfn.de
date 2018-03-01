@@ -18,7 +18,7 @@ Wir freuen uns sehr, euch alle zu unserem zweiten openpolitischen Abend einzulad
 Am 7.März ab 19 Uhr begrüßen wir
 * [Antti Jogi Poikola](https://twitter.com/apoikola) von [Open Knowledge Finland](http://okf.fi) und der Aalto University. Er wird über “[MyData](mydata.org)” sprechen. 
 * [Nicola Jentzsch](https://www.stiftung-nv.de/de/person/dr-nicola-jentzsch) wird das Projekt "Datenökonomie” von der [Stiftung Neue Verantwortung](https://www.stiftung-nv.de/) und Ihre neue Studie zum Thema [Dateneigentum](https://www.stiftung-nv.de/sites/default/files/nicola_jentzsch_dateneigentum.pdf) vorstellen. 
-* Kurze Vorstellung & Updates zu [Openschufa](http://openschufa.de)
+
 
 Kommt vorbei! Gastgeberin ist die Mozilla Foundation. Der Eintritt ist frei. Es gibt Wein. [Bitte hier anmelden](https://www.meetup.com/MyData-Global/events/248091585/)!
 
@@ -27,6 +27,10 @@ MyData ist ein auf den Menschen ausgerichteter Ansatz im Bereich der Verwaltung 
 Über die letzten drei Jahren hat sich daraus die MyData-Bewegung weiterentwickelt, wobei in vielen Städten Europas neuen Hubs und Treffen organisiert. Beim Openpolitischen Abend veranstalten wir das erste Treffen zum MyData in Deutschland, besprechen das MyData manifesto und der erste MyData Projekt der Open Knowledge Foundation Deutschland: OpenSchufa. 
 
 Im Anschluss spricht Nicola Jentsch über das Datenökonomie-Projekt der SNV. In diesem Projekt werden ökonomische, technische und juristische Aspekte analysiert, um innovative datenpolitische Ansätze zu entwickeln. Nicola forscht seit mehr als 15 Jahren zu verschiedenen Themen der Datenökonomie. Derzeit arbeitet sie an Themen des Wettbewerbs in digitalen Märkten (Personalisierung), Datenschutz sowie Big Data Analytics (Machine Learning, Privacy-Kriterien und Privacy-Garantien).
+
+Zum Abschluss gibt es eine kurze Vorstellung & Updates zu [Openschufa](http://openschufa.de).
+
+Wir freuen uns auf euer Kommen!
 
 **Harte Fakten**
 
