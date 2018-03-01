@@ -26,7 +26,7 @@ Kommt vorbei! Gastgeberin ist die Mozilla Foundation. Der Eintritt ist frei. Es 
 
 Über die letzten drei Jahren hat sich daraus die MyData-Bewegung weiterentwickelt, wobei in vielen Städten Europas neuen Hubs und Treffen organisiert. Beim Openpolitischen Abend veranstalten wir das erste Treffen zum MyData in Deutschland, besprechen das MyData manifesto und der erste MyData Projekt der Open Knowledge Foundation Deutschland: OpenSchufa. 
 
-Im Anschluss spricht **Nicola Jentsch** über das Datenökonomie-Projekt der SNV. In diesem Projekt werden ökonomische, technische und juristische Aspekte analysiert, um innovative datenpolitische Ansätze zu entwickeln. Nicola forscht seit mehr als 15 Jahren zu verschiedenen Themen der Datenökonomie. Derzeit arbeitet sie an Themen des Wettbewerbs in digitalen Märkten (Personalisierung), Datenschutz sowie Big Data Analytics (Machine Learning, Privacy-Kriterien und Privacy-Garantien).
+Im Anschluss spricht **Nicola Jentzsch** über das Datenökonomie-Projekt der SNV. In diesem Projekt werden ökonomische, technische und juristische Aspekte analysiert, um innovative datenpolitische Ansätze zu entwickeln. Nicola forscht seit mehr als 15 Jahren zu verschiedenen Themen der Datenökonomie. Derzeit arbeitet sie an Themen des Wettbewerbs in digitalen Märkten (Personalisierung), Datenschutz sowie Big Data Analytics (Machine Learning, Privacy-Kriterien und Privacy-Garantien).
 
 Zum Abschluss gibt es eine kurze **Vorstellung & Updates zu [Openschufa](http://openschufa.de)**.
 
