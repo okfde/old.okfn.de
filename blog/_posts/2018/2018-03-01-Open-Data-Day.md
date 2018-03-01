@@ -21,7 +21,7 @@ Er ist das Ereignis, das von Aktivistinnen und Aktivisten auf der ganzen Welt da
 Natürlich sind auch in seiner fünften Ausgabe ganz viele Ehrenamtliche in den Open Knowledge Labs des Netzwerks Code for Germany zugange. Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe offener Daten gemeinsam etwas gestalten.
 
 Willst du allein, mit deinen Freunden oder mit deiner Familie bei einem der 17 teilnehmenden OK Labs vorbeischauen und dort zum Beispiel Feinstaubsensoren bauen, mit dem Calliope Mini programmieren lernen oder dich mit öffentlichen Haushaltsdaten beschäftigen? 
-In der folgenden Übersicht siehst du wo etwas stattfindet, mit einem Link zu den weiteren Infos :)
+In der folgenden Übersicht siehst du wo etwas stattfindet, mit einem Link zu den weiteren Infos!
 
 Am [Open Data Day](http://opendataday.org/de/) veranstalten am Samstag, 3. März:
 
