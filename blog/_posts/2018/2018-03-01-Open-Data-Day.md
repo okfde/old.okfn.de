@@ -1,5 +1,7 @@
 ---
-authors: Sarina Balkhausen, Michael Peters
+authors: 
+- Sarina Balkhausen
+- Michael Peters
 date: 2018-03-01
 image: 
   src: /files/blog/2018/02/image1.jpg
