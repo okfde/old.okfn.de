@@ -34,7 +34,7 @@ Fazit: Mit dem Koalitionsvertrag spricht die künftige Bundesregierung also wich
 
 
 
-Der Autor koordiniert das Open Government Netzwerk, ein zivilgesellschaftlicher Zusammenschluss der sich für offenes Regierungs- und Verwaltungshandeln in Deutschland einsetzt.
+Der Autor koordiniert das [Open Government Netzwerk](http://opengovpartnership.de/), ein zivilgesellschaftlicher Zusammenschluss der sich für offenes Regierungs- und Verwaltungshandeln in Deutschland einsetzt.
 
 
 
