@@ -32,6 +32,8 @@ Außerdem soll eine Beteiligungsplattform für alle veröffentlichten Gesetzesen
 
 Fazit: Mit dem Koalitionsvertrag spricht die künftige Regierung wichtige Themen an, muss diese Vorhaben aber auch zielgerichtet umsetzen. Dabei wäre eine zentrale Koordinierung von Open Government im Kanzleramt von elementarer Bedeutung.
 
+
+
 Der Autor koordiniert das Open Government Netzwerk, ein zivilgesellschaftlicher Zusammenschluss der sich für offenes Regierungs- und Verwaltungshandeln in Deutschland einsetzt.
 
 Quellen:
