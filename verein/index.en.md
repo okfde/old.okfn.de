@@ -87,6 +87,8 @@ Find more information on our projects [here](/projekte/).
 
 ## Funding
 
+In 2016 OKF DE has raised 1.060.168,40 € from membership payments and benefits. Moreover, there have been 235.885,75 € from turnover proceeds (business operations). Total revenue was 1.296.054,15 €. Total expenditure was 1.243.415,95 €. The surplus for 2016 was 52.638,20 €.
+
 In 2015 OKF DE has raised 817.283,02 € from membership payments and benefits (Ideeller Bereich) plus an additional 0,12 € from asset management. Moreover, there have been 161.989,69 € from turnover proceeds (business operations). Total revenue was 979.272,83 €. Total expenditure was 888.650,90 €. The surplus for 2015 was 90.621,93 €.
 
 In 2014 OKF DE has raised 347.344,07 € from membership payments and benefits (Ideeller Bereich). Moreover, there have been 60.525,01 € from turnover proceeds (business operations). Total revenue was 414.919,08 €. Total expenditure was 471.990,54 €. The surplus for 2014 was -57.071,46 €.

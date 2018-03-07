@@ -32,7 +32,11 @@ Zur Entwicklung der Auswertungs-Software machen wir außerdem ein Crowdfunding. 
 
 <strong><a href="https://selbstauskunft.net/schufa">zur Selbstauskunft bei der Schufa</a><br>
 <a href="http://openschufa.de">weitere Infos und jetzt spenden</a></strong>
-
+<a name="npa070"></a>
 <i>Update, 19.02., 0:00 Uhr:</i> Bisher haben mehr als 7.500 Menschen ihre Schufa-Selbstauskunft beantragt. Es kamen mehr als 24.000 Euro im Crowdfunding zusammen. Das freut uns sehr - weiter so! Wir brauchen insgesamt 50.000 Euro und 10.000 Anfragen!
 
 <i>Pressekontakt: Arne Semsrott, arne.semsrott@okfn.de, 030 57703666 0</i>
+
+<i> Update 06.03 Video Netzpolitischen Abend</i>
+<iframe src="https://player.vimeo.com/video/258859578" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/258859578">#npa070 Arne Semsrott &ndash; Open Schufa</a> from <a href="https://vimeo.com/cbase">c-base</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

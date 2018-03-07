@@ -7,20 +7,16 @@ image:
   title: Uploadfilter
 tags:
 - Policy
-- OGP
+- Uploadfilter
 type: post
 layout: post
 card: true
-published: false
-title: "Offener Brief an Europa-Abgeordnete: Europäische Upload-Filter müssen verhindert werden" 
+title: "Offener Brief an Europa-Abgeordnete - Europäische Upload-Filter müssen verhindert werden" 
 ---
 
-Bundesminister der Justiz und für Verbraucherschutz
+Upload-Filter sind eine [Bedrohung für die Meinungsfreiheit und Informationsfreiheit](https://okfn.de/blog/2018/02/upload-filter/). In einem breiten Bündnis engagieren wir uns deswegen gegen entsprechende Initiativen auf europäischer Ebene. Nachfolgend dokumentieren wir unseren [offenen Brief](https://www.vzbv.de/sites/default/files/downloads/2018/02/27/20180228_offenerbrief_uploadfilter.pdf) an Abgeordnete im Europäischen Parlament.
 
-27. Februar 2018
-
-
-Sehr geehrte,
+### Sehr geehrte Damen und Herren,
 
 wir Unterzeichnende, Vertreter der Zivilgesellschaft, der Wirtschaft und der Internetkultur, bitten Sie, die
 Aufweichung des Haftungsprivilegs und die verpflichtende Einführung von Upload-Filtern zu verhindern.
@@ -61,17 +57,31 @@ Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 Mit freundlichen Grüßen
 
 Open Knowledge Foundation Deutschland e. V.
+
 Bitkom e. V.
+
 Verbraucherzentrale Bundesverband
+
 Wikimedia Deutschland e. V.
+
 Bundesverband Deutsche Startups e. V.
+
 Bundesverband Digitale Wirtschaft (BVDW)
+
 Bundesverband IT-Mittelstand e. V. (BITMi)
+
 Bundesverband mittelständische Wirtschaft Unternehmerverband Deutschland e. V.
+
 Chaos Computer Club
+
 D64 – Zentrum für digitalen Fortschritt e. V.
+
 Der Arbeitskreis gegen Internetsperren und Zensur
+
 Deutscher Gründerverband
+
 Digitale Gesellschaft
+
 eco – Verband der Internetwirtschaft e. V.
+
 Jugendpresse Deutschland
