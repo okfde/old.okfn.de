@@ -4,8 +4,8 @@ date: 2018-03-08 09:00
 image: 
   src: /files/blog/2018/02/blog-linus.jpg
   title: 
-  license: CC-BY-4.0, Demokratielabore, Foto: Leonard Wolf
-  license_url: https://creativecommons.org/licenses/by/4.0/
+  license: "CC-BY-4.0, Demokratielabore, Foto: Leonard Wolf"
+  license_url: "https://creativecommons.org/licenses/by/4.0/"
 type: post
 layout: post
 card: true
