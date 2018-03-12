@@ -21,6 +21,7 @@ Damit wir die anonymisierten Daten daraus gut auswerten können, brauchen wir je
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HBsD8BdXSCY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Präsentation beim netzpolitschen Abend 06.03.2018
-<iframe width="640" height="360" src="https://www.youtube.com/embed/OdDPK2EVITc?start=70" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OdDPK2EVITc?start=70&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Bonus Videosuchbildrätsel: In einem der beiden Videos ist das Alter Ego Semsrott Erster beim Humor.
