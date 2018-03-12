@@ -23,4 +23,4 @@ Damit wir die anonymisierten Daten daraus gut auswerten können, brauchen wir je
 ## Präsentation beim netzpolitschen Abend 06.03.2018
 <iframe width="640" height="360" src="https://www.youtube.com/embed/OdDPK2EVITc?start=80" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Bonus Videosuchbildrätsel: In einem der beiden Videos ist das Alter Ego Semsrott erster beim Humor.
+Bonus Videosuchbildrätsel: In einem der beiden Videos ist das Alter Ego Semsrott Erster beim Humor.
