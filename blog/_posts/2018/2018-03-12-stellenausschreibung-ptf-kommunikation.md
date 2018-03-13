@@ -14,8 +14,8 @@ type: post
 layout: post
 card: true
 published: true
-jobs: "Kommunikation und Projektmanagement(*/w/m) in Krankheitsvertretung"
-title: "Kommunikation und Projektmanagement(*/w/m) in Krankheitsvertretung"
+jobs: "Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung"
+title: "Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung"
 ---
 
 Der Prototype Fund ist ein Förderprogramm, das Softwareentwickler*innen, Hacker*innen und Kreative dabei unterstützt, ihre Ideen vom Konzept bis zur ersten Demo zu entwickeln und als Open-Source-Prototypen zu veröffentlichen. Seit 2016 arbeiten wir (Adriana, Elisa, Fiona und Julia) daran, bestehende Strukturen und Narrative im Bereich der Innovation und Innovationsförderung aufzubrechen und mehr digitale Innovationen für die Gesellschaft möglich zu machen. Jetzt suchen wir dabei Verstärkung.
@@ -23,7 +23,7 @@ Der Prototype Fund ist ein Förderprogramm, das Softwareentwickler*innen, Hacker
 Du arbeitest eigenständig und hast Lust, dich weiterzuentwickeln und Neues zu lernen? Du willst gemeinsam mit uns ein Pionier-Projekt unterstützen und voranbringen? Dann freuen wir uns auf deine Bewerbung:
 
 
-## Kommunikation und Projektmanagement(*/w/m) in Krankheitsvertretung
+## Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung
 
 Du bist ein Kommunikations- und Organisationstalent! Du koordinierst unseren Outreach in den Bewerbungsrunden und die Außendarstellung des Projekts. Du kennst verschiedene Technik-Communities im Open-Source-Bereich und hast Lust darauf, den Prototype Fund auf Konferenzen und bei Meetups vorzustellen. Du hast grundlegende Kenntnisse von Pressearbeit und kannst Texte schreiben.
 
