@@ -14,7 +14,6 @@ type: post
 layout: post
 card: true
 published: true
-jobs: "Administrator*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort)"
 title: "Administrator*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort)"
 ---
 
