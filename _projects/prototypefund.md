@@ -6,8 +6,6 @@ img: projects/prototypefund.jpg
 img_square: projects/prototypefund_square.jpg
 layout: project
 people:
-  - name: Julia Kloiber
-    role: Projektleitung
   - name: Elisa Lindinger
     role: Projektleitung
   - name: Fiona Krakenbürger
@@ -18,6 +16,8 @@ people:
     role: Head of Communications and Outreach
   - name: Sarina Balkhausen
     role: Project Manager & Community Organizer Code for Germany
+  - name: Julia Kloiber
+    role: Co-Founder
 contact:
   website: http://prototypefund.de
   twitter: prototypefund
