@@ -11,7 +11,6 @@ card: true
 tags:
  - OKF
  - Jobs
-jobs: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)"
 title: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)"
 published: true 
 ---
