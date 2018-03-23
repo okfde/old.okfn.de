@@ -77,6 +77,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Julia arbeitet seit 2012 als Projektleiterin bei der Open Knowledge Foundation. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter „Stadt Land Code“, Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
   bio_en: "Julia is project lead at OKF DE since 2012. Her work focuses on the areas of Open Data and Civic Tech. She has realized a number of community-driven projects such as StadtLandCode, Germanys first incubator for Civic Tech, and a number of Open Data hackathons. Currently, she is the project lead of Code for Germany, a nationwide civil tech community that builds digital tools and applications using Open Data. Julia studied Design and New Media, and worked in policy campaigns before joining the Open Knowledge Foundation. She is a member of Digitale Gesellschaft e.V. and gives talks on Open Knowledge and Open Tools."
@@ -177,6 +178,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Eileen ist seit Juli 2015 bei der Open Knowledge Foundation und arbeitet in den Projekten Code for Germany und Prototype Fund. Sie hat einen Bachelor in Philosophie und einen Master in Logik."
   bio_en: "Eileen is part of the team behind Code for Germany and the Prototype Fund. She studied philosophy and logic."
@@ -227,7 +229,7 @@
   img: arnesemsrott
   staff: 1
   board: 0
-  advisory: no
+  advisory: 0
   position:
   bio: "Arne ist bei der Open Knowledge Foundation Projektleiter des Portals FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet nebenbei als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem im Führungskreis von Transparency International und im Beirat des Whistleblower-Netzwerks."
   bio_en: "Arne leads FragDenStaat.de and is an expert in the domain of Freedom of Information (FOI). With a background in political science, he also works as a freelance journalist and engages with other NGOs in topics related to transparency and lobbyism, e.g. for Hochschulwatch.de and the Whistleblower Network."
@@ -296,6 +298,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Johanna koordiniert den Arbeitskreis Open Government Partnership. Bisher hat sie außerdem an den Projekten 2030 Watch, OpenBudgets.eu und Datensummit mitgewirkt. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
   bio_en: "Johanna coordinates the working group Arbeitskreis Open Government Partnership. She also contributed to the projects 2030 Watch, OpenBudgets.eu and Datensummit. During her studies she has accumulated experience in the field of communication for international development, e.g. with Oxfam Hong Kong and the German equivalent to the campaign 'Make Poverty History'. During her masters thesis with a focus on transparency in development cooperation she has worked at the German Federal Ministry for Economic Cooperation and Development and the World Bank in Washington, D.C. She previously was employed in the management of an organic fruit start-up and volunarily engaged at Transparency International, in particular for Hamburg's Transparency Law."
