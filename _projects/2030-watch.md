@@ -1,5 +1,5 @@
 ---
-type: politics
+type: research
 title: 2030Watch
 img: projects/2030-Watch.jpg
 layout: project
