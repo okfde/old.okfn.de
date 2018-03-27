@@ -5,7 +5,19 @@ menu_spenden: yes
 background: backgrounds/services.jpg
 
 ---
+
 Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Fast alle unserer Projekte leben vom ehrenamtlichen Engagement ihrer Unterstützer. Doch auch ehrenamtliches Engagement kostet Geld. Deshalb freuen wir uns über jede Spende, damit wir den Menschen, die sich unter dem Dach der Open Knowledge Foundation Deutschland für freies Wissen, offene Daten und Beteiligung einsetzen, weiterhin eine gute Infrastruktur bieten können. Gern nehmen wir auch projektbezogene Sachspenden an.
+
+
+<div class="row" style="margin: 2rem 0">
+    <div class="col-sm-6">
+        <img src="/static/images/logos/logo_itz.jpg" alt="Initiative Transparente Zivilgesellschaft" style="max-width: 100%"/>
+    </div>
+    <div class="col-sm-6">
+        <img src="/static/images/logos/phineo_wirkt_siegel.png" alt="Phineo Wirkt Siegel" style="max-width: 100%"/>
+    </div>
+</div>
+
 
 Die Open Knowledge Foundation Deutschland ist als gemeinnützig anerkannt ([Nachweis der Gemeinnützigkeit]({{ site.url }}/files/verein/Freistellungsbescheid-21-08-2017.pdf)).
 
