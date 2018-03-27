@@ -17,16 +17,13 @@ Kontoinhaber
 : Open Knowledge Foundation Deutschland e.V.
 
 Kontonummer
-: 3009670
-
-BLZ
-: 830 944 95 (Ethikbank)
+: 1173893200
 
 IBAN
-: DE89830944950003009670
+: DE36430609671173893200
 
 BIC
-: GENODEF1ETK
+: GENODEM1GLS
 
 Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem 
 [Vereinfachten Zuwendungsnachweis]({{ site.url }}/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
