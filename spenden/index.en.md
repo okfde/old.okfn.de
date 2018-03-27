@@ -14,17 +14,14 @@ Our bank account for donations, transfers, and standing orders:
 Name
 : Open Knowledge Foundation Deutschland e.V.
 
-Account number
-: 3009670
-
-BLZ
-: 830 944 95 (Ethikbank)
+Bank account
+: 1173893200
 
 IBAN
-: DE89830944950003009670
+: DE36430609671173893200
 
 BIC
-: GENODEF1ETK
+: GENODEM1GLS
 
 ## Donate via betterplace
 
