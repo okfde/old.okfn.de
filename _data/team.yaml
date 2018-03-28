@@ -10,6 +10,19 @@
   twitter:
   website:
 
+- name: Edgar Zanella Alvarenga
+  img: edgarzanella
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Entwickler
+  bio: "Edgar setzt sich für die co-kreative Erstellung und Vermittlung von offenem Wissen ein. In Brasilien entwickelte er u.a. Stoa, ein Netzwerk für die Universität Sao Paolo, um Kursmaterialien und OER zu teilen. Als Tech Lead bei Open Knowledge Brazil engagierte er sich in Projekten gegen Korruption und für demokratische Partitizipation. Bei der Open Knowledge Foundation Deutschland arbeitet er aktuell in den Projekten edulabs und Offener Haushalt."
+  bio_en:
+  mail: edgar.alvarenga@okfn.de
+  twitter:
+  github: aivuk
+  website:
+
 - name: Nadine Evers
   img: nadineevers
   staff: 1
