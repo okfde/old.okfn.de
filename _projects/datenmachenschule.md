@@ -11,7 +11,7 @@ people:
     role: Projektleitung
   - name: Michael Peters
     role: Entwickler
-  - name: Edgar Zanella
+  - name: Edgar Zanella Alvarenga
     role: Entwickler
 contact:
   website: https://datenmachenschule.de
