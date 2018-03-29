@@ -9,6 +9,8 @@ people:
     role: Projektleitung
   - name: Maximilian Voigt
     role: Projektmanager
+  - name: Edgar Zanella Alvarenga
+    role: Entwickler
 contact:
   website: https://edulabs.de/
   twitter:
