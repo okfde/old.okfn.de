@@ -10,6 +10,8 @@ people:
   role: Projektleitung
 - name: Michael Peters
   role: Data Scientist
+- name: Edgar Zanella Alvarenga
+  role: Developer
 contact:
   website: http://offenerhaushalt.de
   twitter: offenerhaushalt
