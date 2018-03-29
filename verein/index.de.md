@@ -103,7 +103,7 @@ zum Vorstandsvorsitzenden, [Friedrich Lindenberg](/vorstand/#friedrich-lindenber
 Unser externer Datenschutzbeauftragter ist [Thorsten Feldmann LL.M.](http://jbbdataconsult.de/wer-wir-sind/thorsten-feldmann/) von [JBB Data Consult GmbH](http://jbbdataconsult.de/).
 
 ## Ethikbeauftragte
-Am 29.03.2017 wurde [Paula Glaser](/team/#paula-glaser) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden.
+Am 29.03.2017 wurde [Paula Grünwald](/team/#paula-glaser) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden.
 
 
 ## Mittelherkunft
