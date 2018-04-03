@@ -1,6 +1,6 @@
 ---
-authors: Tanja Zagel
-- OKF
+authors:
+- Tanja Zagel
 date: 2018-04-03
 image:
   src: /files/blog/2018/04/bueroraeume.jpg
