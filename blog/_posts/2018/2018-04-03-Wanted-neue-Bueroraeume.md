@@ -3,7 +3,7 @@ authors: Tanja Zagel
 - OKF
 date: 2018-04-03
 image:
-  src: /files/blog/2018/04/bueroraeume.gif
+  src: /files/blog/2018/04/bueroraeume.jpg
   title: bueroraeume
 tags:
 - Büroräume
