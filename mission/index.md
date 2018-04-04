@@ -16,7 +16,7 @@ Der Zweck der OKF Deutschland ist die Förderung der offenen Zugänglichkeit all
 * Die Förderung und Entwicklung von Technologien und Werkzeugen für einen erweiterten Zugang zu Wissen.
 * Die Förderung und Entwicklung von Projekten, Gemeinschaften und Werkzeugen die die Zusammenarbeit zwischen Gruppen und Einzelpersonen fördern und erleichtern.
 
-Besondere Bedeutung hat der Begriff der “Offenheit” in offenem Wissen. Die OKF Deutschland orientiert sich an der “Definition für offenes Wissen” wie sie unter [opendefinition.org](www.opendefinition.org) gefasst ist. Kurz zusammengefasst besagt diese Definition: Wissen ist dann offen, wenn keine technischen oder rechtlichen Einschränkungen bestehen, welche Schaffung, Nutzung, Weiterverarbeitung und Weiterverbreitung von Wissen durch jedermann für jegliche Zwecke behindern.
+Besondere Bedeutung hat der Begriff der “Offenheit” in offenem Wissen. Die OKF Deutschland orientiert sich an der “Definition für offenes Wissen” wie sie unter [opendefinition.org](https://opendefinition.org/od/1.1/de/) gefasst ist. Kurz zusammengefasst besagt diese Definition: Wissen ist dann offen, wenn keine technischen oder rechtlichen Einschränkungen bestehen, welche Schaffung, Nutzung, Weiterverarbeitung und Weiterverbreitung von Wissen durch jedermann für jegliche Zwecke behindern.
 
 Der Schwerpunkt der Arbeit der OKF Deutschland ist die Initiierung, Entwicklung, Durchführung und Förderung von Projekten, Veranstaltungen und wissenschaftlichen Studien die die Schaffung, Nutzung und Verbreitung von Wissen fördern. Diese Ziele der OKF Deutschland werden hauptächlich erreicht durch
 
