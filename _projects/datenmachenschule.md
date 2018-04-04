@@ -20,7 +20,7 @@ contact:
 de:
   subtitle: Das Potenzial offener Daten im Unterricht erfahren.
   content: |-
-      <a href="https://datenmachenschule.png"><img src="/static/images/backgrounds/datenmachenschule-bg.png"></a>
+      <a href="https://datenmachenschule.de"><img src="/static/images/backgrounds/datenmachenschule-bg.png"></a>
       DatenmachenSchule.de ist ein Ort, an dem exemplarisch dargestellt wird, welche Potentiale in dem Einsatz Offener Daten im Unterricht liegen. Basierend auf der Pionierarbeit der Hochschule Rhein-Waal, dem Gymnasium Adolfinum, der Stadt Moers und dem OK-Lab Niederrhein wurden Informationen und Ressourcen zusammengetragen, die es Lehrern und Schulen ermöglichen und erleichtern sollen, auf offenen Daten basierende Anwendungen einzusetzen. Das Tool OffenerHaushalt.de wurde dazu technisch und strukturell neu aufgesetzt, um Daten zu Steuerausgaben zu visualisieren und dadurch anschaulich und greifbar zu machen.
 
 en:
