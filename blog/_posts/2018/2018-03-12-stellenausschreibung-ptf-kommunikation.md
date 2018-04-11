@@ -14,7 +14,6 @@ type: post
 layout: post
 card: true
 published: true
-jobs: "Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung"
 title: "Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung"
 ---
 
