@@ -4,7 +4,7 @@ authors:
 - Walter Palmetshofer
 date: 2018-04-14 
 image: 
-  src: 
+  src: /files/blog/2018/04/luftdaten.jpg
   title: 
   license: 
   license_url: 
