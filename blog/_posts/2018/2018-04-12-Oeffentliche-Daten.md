@@ -2,7 +2,7 @@
 authors: 
 - Michael Peters
 - Walter Palmetshofer
-date: 2018-04-14 
+date: 2018-04-12 
 image: 
   src: /files/blog/2018/04/luftdaten.jpg
   title: 
