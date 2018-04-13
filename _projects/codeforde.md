@@ -6,7 +6,7 @@ img: projects/codeforde.jpg
 img_square: projects/codeforde_square.jpg
 layout: project
 people:
-  - name: Sarina Balkhausen
+  - name: Michael Peters
     role: Project Manager & Community Organizer
 contact:
   website: http://codefor.de
