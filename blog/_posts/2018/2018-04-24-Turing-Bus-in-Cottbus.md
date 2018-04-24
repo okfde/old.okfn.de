@@ -29,4 +29,4 @@ Der Turing-Bus (benannt nach Computerpionier Alan Turing) wird vom Bildungsminis
 
 Auf dieser ersten von zwölf Stationen können die Teilnehmerinnen lernen, ein digitales Flugblatt zu programmieren, mit dem Botschaften per WiFi verbreitet werden können und haben im zweiten Workshop die Möglichkeit, sich ein digitales und interaktives Haustier bauen. Dazu wird ein Podiumsgespräch angeboten. Alle Informationen zur Station und der Bewerbung finden sich unter [https://turing-bus.de/stationen.html](https://turing-bus.de/stationen.html).
 
-Der offizielle Start des Projekts findet am 22. Mai in Bernau statt. Weiter Stationen sind aktuell in Planung und werden in Kürze auf der Webseite des Turing-Bus veröffentlicht. 
+Der offizielle Start des Projekts findet am 22. Mai in Bernau statt. Weiter Stationen sind aktuell in Planung und werden in Kürze auf der Webseite des Turing-Bus veröffentlicht. Interessierte können sich außerdem zum [Turing-Bus Newsletter](http://eepurl.com/dlz6Fb) anmelden. 
