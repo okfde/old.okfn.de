@@ -15,7 +15,7 @@ tags:
 
 
 
-title: "6. Juni – Save the Date – Forum Open:Education"
+title: "Am 6. Juni – Forum Open:Education"
 ---
 
 *Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „Forum Open:Education“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.*
