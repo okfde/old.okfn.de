@@ -2,7 +2,7 @@
 author: Maximilian Voigt
 date: 2018-04-25 
 image: 
-  src: /files/blog/2018/04/Forum_Open_Education.png
+  src: /files/blog/2018/04/Forum_Open_Education.jpg
   title: Save the Date – Forum Open:Education
   license: 
   license_url: 
