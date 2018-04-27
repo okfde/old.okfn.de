@@ -13,11 +13,11 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "EU Vorschlag zur Überarbeitung der PSI-Richtlinie" 
 ---
 
-Am 25. April veröffentlichte die EU den Vorschlag zur Überarbeitung der Richtlinie über die Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie), aka Opendata-Richtline.
+Am 25. April veröffentlichte die EU den [Vorschlag zur Überarbeitung](https://ec.europa.eu/digital-single-market/en/proposal-revision-public-sector-information-psi-directive) der Richtlinie über die Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie), aka Opendata-Richtline.
 
 Hier eine Kurzanalyse, eine detailierte Übersicht folgt bis 30.04.
 
@@ -30,3 +30,5 @@ Des weiteren gibt es keine keine Zugangsharmonsierung.
 
 Lobenswert ist der transparente Evalulierungprozess. 
 Die Nächste Evaluierung kommt in 4 Jahren.
+
+PS: Für Kommentare, Anmerkungen und Links gibt es ein [Pad](https://pad.okfn.de/p/psi-directive).
