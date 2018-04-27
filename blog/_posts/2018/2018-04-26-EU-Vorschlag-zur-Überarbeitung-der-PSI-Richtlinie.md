@@ -24,7 +24,7 @@ Hier eine Kurzanalyse, eine detailierte Übersicht folgt bis 30.04.
 Die Überarbeitung ist ein Schritt in die richtige Richtung, aber geht nicht weit genug.
 Die notwendigen Hinweis auf Echtzeitdaten und die Ausweitung der Diskussion auf Versorgungs- und Verkehrsunternehmen sowie der öffentlich finanzierten Forschung ist begrüßenwert, jedoch fehlen die konkreten und zeitnahen Umsetzungsmaßnahmen.
 
-Zum Beispiel der Verkehrssektor wird durch die delegierte Verordnung (EU) Nr. 2017/1926 abgedeckt, d.h. die Daten werden bei jetziger Umsetzungsgeschwindigkeit erst 2023 zur Verfügung stehen.
+Zum Beispiel wird der Verkehrssektor durch die delegierte Verordnung (EU) Nr. 2017/1926 abgedeckt, d.h. die Daten werden bei jetziger Umsetzungsgeschwindigkeit erst 2023 zur Verfügung stehen.[(Details zu 2017/1936)](https://okfn.de/blog/2018/01/multimodale-Reiseinformationsdienste/) 
 
 Des weiteren gibt es keine Zugangsharmonsierung.
 
