@@ -26,7 +26,7 @@ Die notwendigen Hinweis auf Echtzeitdaten und die Ausweitung der Diskussion auf 
 
 Zum Beispiel der Verkehrssektor wird durch die delegierte Verordnung (EU) Nr. 2017/1926 abgedeckt, d.h. die Daten werden bei jetziger Umsetzungsgeschwindigkeit erst 2023 zur Verfügung stehen.
 
-Des weiteren gibt es keine keine Zugangsharmonsierung.
+Des weiteren gibt es keine Zugangsharmonsierung.
 
 Lobenswert ist der transparente Evalulierungprozess. 
 Die Nächste Evaluierung kommt in 4 Jahren.
