@@ -14,8 +14,6 @@ people:
     role: Program Management
   - name: Jessica Binsch
     role: Head of Communications and Outreach
-  - name: Sarina Balkhausen
-    role: Project Manager & Community Organizer Code for Germany
   - name: Julia Kloiber
     role: Co-Founder
 contact:
@@ -28,9 +26,9 @@ contact:
   subtitle: Der Kultur-Hackathon
   content: |-
 de:
-  stats: 1,2 Millionen<br/>Euro
+  stats: 8 Millionen<br/>Euro
   teaser: vergibt der <a href="/projekte/prototypefund/">Prototype Fund</a> an Open-Source-Projekte.
-  subtitle: "1,2 Millionen für Open-Source-Projekte"
+  subtitle: "8 Millionen für Open-Source-Projekte"
   content: |-
      Der Prototype Fund unterstützt Softwareentwickler*innen, Hacker*innen und Kreative dabei, ihre Ideen umzusetzen. Software-Projekte 
      werden mit jeweils bis zu 47.500€ gefördert, dazu gibt es Coaching von Mentor*innen und Austausch mit einem spannenden Netzwerk. 
