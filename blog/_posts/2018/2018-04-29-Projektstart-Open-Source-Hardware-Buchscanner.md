@@ -15,7 +15,7 @@ tags:
 
 
 
-title: "Oben Hardware: Ein Buchscanner für mehr offenes Wissen"
+title: "Open Hardware: Ein Buchscanner für mehr offenes Wissen"
 ---
 
 Mit der Unterstützung der Projekte [edulabs.de](https://edulabs.de/) und [FragDenStaat.de](https://fragdenstaat.de/) baut die [machBar Potsdam](https://machbar-potsdam.de/) sowie der [FabLab Cottbus e.V.](http://blog.fablab-cottbus.de/) einen Open Source Hardware Buchscanner. Die Initiative basiert auf dem [mäqädat](https://www.bookscanner.de/der-buchscanner/)-Projekt. Dieses wiederum ist an die Arbeit von [Dany Qumsiyeh](http://www.prismscanner.org/) angelehnt, der den von ihm erfundenen [linearen Buchscanner](https://linearbookscanner.org/) ([US Patent 8711448](https://www.google.com/patents/US8711448)) zum [Nachbau oder für Veränderungen freigegeben](https://code.google.com/archive/p/linear-book-scanner/) hat.
