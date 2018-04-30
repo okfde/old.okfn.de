@@ -30,4 +30,4 @@ Der geplante Scanner bewegt ein Buch mit der Innenseite nach unten über eine Sc
 Die Projektgruppe möchte die Dokumentation des mäqädat-Scanners vervollständigen und ihn zu einem vollständigen Open Source Hardware-System weiterentwickeln. Aktuell ist der einfache Nachbau des mäqädat nicht möglich. Neben einer lückenlosen Anleitung fehlen die Software für die Ansteuerung des Scanners sowie Konstruktionszeichnungen einiger Anbauteile.
 
 ## Mitmachen 
-Wer sich an dem Projekt beteiligen oder den aktuellen Stand verfolgen möchte, kann an den regelmäßigen [Calls zum Projekt](https://hackmd.okfn.de/buchscanner_calldoku) teilnehmen. Der aktuelle Stand des Projektes kann auf [GitHub](https://github.com/fablabcb/openbookscanner/) verfolgt werden.
+Wer sich an dem Projekt beteiligen oder den aktuellen Stand verfolgen möchte, kann an den regelmäßigen [Calls zum Projekt](https://hackmd.okfn.de/buchscanner_calldoku) teilnehmen. Den aktuellen Stand des Projektes findet ihr auf [GitHub](https://github.com/fablabcb/openbookscanner/).
