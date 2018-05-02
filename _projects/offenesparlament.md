@@ -5,7 +5,7 @@ url: https://offenesparlament.de
 img: projects/offenesparlament.png
 layout: project
 people:
-  - name: Helene Hahn
+  - name: Anna Alberts
     role: Projektleitung
   - name: Jasmin Helm
     role: Kommunikation
