@@ -3,9 +3,7 @@ author: Arne Semsrott
 date: 2018-05-04
 image: 
   src: /files/blog/2018/05/ifg-meisterschaften.jpg
-  title: Der geplante Buchscanner, wirklicht von der Universität Michigan
-  license: <a href='http://www.apache.org/licenses/LICENSE-2.0'>Apache 2.0</a>
-  license_url: http://www.apache.org/licenses/LICENSE-2.0
+  title: IFG-Meisterschaften
 type: post
 layout: post
 card: true
