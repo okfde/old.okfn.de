@@ -35,11 +35,11 @@ Ein paar Sachen haben wir schon gelernt:
 * Schmierpapier macht glücklich – unsere erste Aktion für ein nachhaltigeres Büro: auf allen Druckern steht jetzt stolz eine Schmierpapier-Box. Hat 3 Minuten gedauert und wir fühlen uns schon viel besser.
 * Nachhaltigkeit heißt nicht nur Öko-Tomaten – Nachhaltigkeit bezieht sich neben Umwelt-Themen immer auch auf die wirtschaftliche und soziale Dimension der Gesellschaft…
 
-…wer über Nachhaltigkeit nachdenkt, denkt also über gesamtgesellschaftliche Fragen nach. Darüber, an welchen Rädchen wir drehen können, damit die Welt für alle besser wird: mehr Gerechtigkeit, mehr Teilhabe, mehr Selbstbestimmung. Das kommt uns ziemlich bekannt vor, darüber denken wir schließlich schon seit Jahren nach und wollen mit unseren Projekten einen Beitrag dazu leisten. Nur eben vom digitalen Blickwinkel her.   
+…wer über Nachhaltigkeit nachdenkt, denkt also über gesamtgesellschaftliche Fragen nach. Darüber, an welchen Rädchen wir drehen können, damit die Welt für alle besser wird: mehr Gerechtigkeit, mehr Teilhabe, mehr Selbstbestimmung. Das kommt uns ziemlich bekannt vor, darüber denken wir schließlich schon seit Jahren nach und wollen mit unseren Projekten aus digitaler Perspektive einen Beitrag dazu leisten. 
 
 ### Bits & Bäume 
 
-Wenn das mal nicht gut zusammen passt. Da könnte man ja direkt noch mehr daraus machen. Haben wir uns gedacht. Und wir machen noch mehr daraus: Wir freuen uns, die erste [Bits & Bäume - Die Konferenz für Digitalisierung und Nachhaltigkeit] (https://www.bits-und-baeume.org/) mitzuorganisieren: 17.-18. November, Berlin - Save the date!
+Wenn es so viele Berührungspunkte zwischen dem Thema Nachhaltigkeit und der guten Gestaltung unserer digitalen Gesellschaft gibt, dann könnte man ja direkt noch mehr daraus machen. Haben wir uns gedacht. Und wir machen noch mehr daraus: Wir freuen uns, die erste [Bits & Bäume - Die Konferenz für Digitalisierung und Nachhaltigkeit] (https://www.bits-und-baeume.org/) mitzuorganisieren: 17.-18. November, Berlin - Save the date!
 
 
 
