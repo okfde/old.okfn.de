@@ -62,6 +62,7 @@ Für das Online Community Management von Jugend hackt suchen wir eine begeisteru
 * flexible Arbeitszeiten
 * eine nette Büroatmosphäre
 * eine Vergütung angelehnt an TVöD 12/1
+* wenn du Lust dazu hast: gehe zu Konferenzen, halte Vorträge, vertrete unser Team nach außen. Wir unterstützen dich, wenn du neugierig auf diesen Bereich bist. Aber um das klarzustellen: Kein Druck, das ist keine Voraussetzung!
     
 Die Stelle ist zum nächstmöglichen Zeitpunkt zu besetzen und zunächst auf 2,5 Jahre befristet. Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
 Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn per E-Mail an jobs@jugendhackt.org.
