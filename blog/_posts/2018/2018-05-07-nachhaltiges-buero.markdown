@@ -8,7 +8,8 @@ image:
   license_url: 
 type: post
 layout: post
-card: false
+card: true
+published: false
 tags:
 - okf
 - büro
