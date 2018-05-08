@@ -14,7 +14,7 @@ type: post
 layout: post
 card: true
 published: false
-title: "Online Community-Manager*in für Jugend hackt (20h)"
+title: "Online Community-Manager\*in für Jugend hackt (20h)"
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes 
@@ -46,7 +46,7 @@ Für das Online Community Management von Jugend hackt suchen wir eine begeisteru
 
 ### Was wir erwarten
 * du bringst genau so viel Begeisterung für Programmieren, Making und für gesellschaftspolitische Fragestellungen mit, wie die Jugendlichen unserer Community
-* Freude an der Kommunikation und dem Austausch mit einer jungen Zielgruppe und ein gutes Gespür dafür, was junge Programmierer*innen und Maker*innen interessiert
+* Freude an der Kommunikation und dem Austausch mit einer jungen Zielgruppe und ein gutes Gespür dafür, was junge Programmierer\*innen und Maker\*innen interessiert
 * Erfahrung im Bereich Online-Kommunikation, -Redaktion und Social Media
 * Erfahrung mit verschiedenen CMS (v.a. Wordpress) und im Idealfall auch Erfahrung mit Bild- und Videobearbeitung
 * Organisationsstärke
