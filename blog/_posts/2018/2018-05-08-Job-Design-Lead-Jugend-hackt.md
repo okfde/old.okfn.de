@@ -56,7 +56,7 @@ Für die Position des Design Leads im Projekt Jugend Hackt sind wir auf der Such
 * eine Vergütung angelehnt an TVöD 13/1
 * wenn du Lust dazu hast: gehe zu Konferenzen, halte Vorträge, vertrete unser Team nach außen. Wir unterstützen dich, wenn du neugierig auf diesen Bereich bist. Aber um das klarzustellen: Kein Druck, das ist keine Voraussetzung!
     
-Die Stelle ist zum nächstmöglichen Zeitpunkt zu besetzen und zunächst auf 2 Jahre befristet. Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
+Die Stelle ist zum nächstmöglichen Zeitpunkt zu besetzen und zunächst befristet bis 31.12.2019. Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
 Bitte schicke uns Deine Bewerbung (Motivation, Portfolio mit ausführlichen Projektbeschreibungen und deiner Rolle, Lebenslauf) inkl. möglichem Beginn per E-Mail an jobs@jugendhackt.org.
 
 Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
