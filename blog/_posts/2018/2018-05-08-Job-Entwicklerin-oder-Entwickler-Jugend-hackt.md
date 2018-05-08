@@ -4,8 +4,8 @@ authors:
 date: 2018-05-30
 image:
   src: /files/blog/2018/05/22252106205_c92c62c8ec_z.jpg
-  title: Jugend hackt 
-  license: CC-BY 4.0 Jugend hackt, Foto: Leonard Wolf
+  title: Jugend hackt, Foto: Leonard Wolf 
+  license: CC-BY 4.0
   license_url: 
 tags:
 - Ausschreibung
