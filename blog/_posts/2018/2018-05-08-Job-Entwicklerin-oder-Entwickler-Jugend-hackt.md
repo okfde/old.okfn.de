@@ -15,6 +15,7 @@ layout: post
 card: true
 published: true
 title: "Entwickler*in (20h)"
+jobs: "Entwickler*in (20h)"
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Der Verein ist eine Dachorganisation für rund 20 Projekte mit hoher konzeptioneller und finanzieller Eigenverantwortung. 

@@ -15,6 +15,7 @@ layout: post
 card: true
 published: true
 title: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
+jobs: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes 

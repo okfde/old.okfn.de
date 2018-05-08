@@ -15,6 +15,7 @@ layout: post
 card: true
 published: true
 title: "Online Community-Manager (m/w/*) für Jugend hackt (20h)"
+jobs: "Online Community-Manager (m/w/*) für Jugend hackt (20h)"
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes 
