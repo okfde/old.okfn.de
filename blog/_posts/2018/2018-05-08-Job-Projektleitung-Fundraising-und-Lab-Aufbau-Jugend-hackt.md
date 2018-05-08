@@ -26,7 +26,7 @@ Eigenverantwortung.
 Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit “Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. und von mediale pfade.org - Verein für Medienbildung e.V.
 
 <p style="background-color: #fffaed; padding: 50px;">
-   <i>Wichtiger als“formale” Qualifikationen sind uns Vorstellungsvermögen, Machertum, Fleiß, ernsthafte Begeisterungsfähigkeit, die Fähigkeit, schnell Neues zu erlernen und, Interesse an gesellschaftlichem Wandel mit Tiefgang. Wenn du also das Gefühl hast, die Punkte unten nicht 100%ig zu erfüllen, aber ernsthaftes Interesse und große Begeisterung für unsere Community und unsere Themen hast, dann bewirb dich in jedem Fall trotzdem!</i>
+   <i>Wichtiger als formale Qualifikationen sind uns Vorstellungsvermögen, Machertum, Fleiß, ernsthafte Begeisterungsfähigkeit, die Fähigkeit, schnell Neues zu erlernen und, Interesse an gesellschaftlichem Wandel mit Tiefgang. Wenn du also das Gefühl hast, die Punkte unten nicht 100%ig zu erfüllen, aber ernsthaftes Interesse und große Begeisterung für unsere Community und unsere Themen hast, dann bewirb dich in jedem Fall trotzdem!</i>
 </p>
 
 ### Wen wir suchen
