@@ -36,7 +36,6 @@ Für die Projektleitung Fundraising und Lab-Aufbau suchen wir eine begeisterungs
 * <b>Fundraising</b>: In Abstimmung mit der Programmleitung bist du verantwortlich für die finanzielle Akquise für Jugend hackt. Dazu gehört unter anderem der Aufbau einer langfristig tragfähigen Finanzstruktur, die Erstellung von Informationsmaterialien für private und privatwirtschaftliche Sponsoren, das Schreiben von Anträgen sowie Berichte und Reporting für bestehende Geldgeber.
 * <b>Lab-Aufbau</b>: In den kommenden Jahren wollen wir – zusätzlich zu den Jugend hackt-Events – auch regionale Labs mit regelmäßigen Treffen, Workshops und Vorträgen für programmierbegeisterte Jugendliche gründen. Dafür arbeiten wir mit pädagogischen Expert*innen und lokalen Partnern zusammen. Du bist dafür verantwortlich, zentral die Fäden zusammenzuhalten. Du sorgst für Informationsaustausch zwischen den einzelnen Lab-Standorten, koordinierst die Umsetzung des Labkonzepts und berätst beim lokalen Fundraising und bei der Öffentlichkeitsarbeit. 
 * <b>Einbettung in Gesamtprogramm</b>: Die Labs sind ein Modul mit dem wir unsere Jugendliche Zielgruppe ansprechen. Gemeinsam mit den jeweils anderen Modulverantwortlichen, sorgst du dafür, dass Labs, Events und Online-Community ein stimmiges Ganzes werden. 
-* <b>Projektkoordination Demokratielabore</b>
 
 ### Was wir erwarten
 * Erfahrung im Fundraising
