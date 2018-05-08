@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Online Community-Manager (m/w/*) für Jugend hackt (20h)"
 ---
 
