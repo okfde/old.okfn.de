@@ -4,8 +4,8 @@ layout: project
 title: Jugend hackt
 background: backgrounds/jugendhackt.jpg
 url: http://jugendhackt.de
-img: projects/Logo_Programm.png
-img_square: projects/Alpaka_Berlin.png
+img: projects/Logo_Claim.png
+img_square: projects/AlpakaWebseite.png
 people:
   - name: Maria Reimer
     role: Projektleitung
