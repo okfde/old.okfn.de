@@ -85,6 +85,7 @@ Ein aktueller Auszug aus dem Vereinsregister von 2016 ist [hier einsehbar](/file
 
 Unseren ersten Tätigkeitsbericht haben wir im Gründungsjahr 2011 veröffentlicht. Auf unserem Blog berichten wir regelmässig einmal im Monat über unsere Tätigkeiten. Diese monatlichen Berichte gibt es auch in unserem Newsletter. Hier die Tätigkeitsberichte nach Jahren:
 
+* [Tätigkeitsbericht 2017](/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
 * [Tätigkeitsbericht 2016](/files/verein/OKFDE-Taetigkeitsbericht-2016.pdf)
 * [Tätigkeitsbericht 2015](/files/verein/OKFDE-Taetigkeitsbericht-2015.pdf)
 * [Tätigkeitsbericht 2014](/files/verein/OKFDE-Taetigkeitsbericht-2014.pdf)
