@@ -22,7 +22,7 @@ contact:
   website: http://jugendhackt.org
 video: "https://www.youtube.com/embed/lkNZyfhUvEc"
 de:
-  subtitle: Mit Code die Welt verbessern
+  subtitle: Förderprogramm für programmier- und makingbegeisterte Jugendliche
   stats: 500<br/>Jugendliche
   teaser: experimentieren bei <a href="/projekte/jugendhackt/">Jugend hackt</a> mit Code und Freundschaft.
   content: |-
