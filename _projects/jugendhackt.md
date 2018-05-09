@@ -34,7 +34,7 @@ Weitere Einblicke in den Ablauf und die Atmosphäre einer Jugend hackt Veranstal
      
 en:
   subtitle: Improving the world, code by code
-  stats: 300<br/>young coders
+  stats: 500<br/>young coders
   teaser: experimenting with code and friendship at <a href="/en/projekte/jugendhackt/">Jugend hackt</a>.
   content: |- 
      Jugend hackt is a program designed to support young coders. 
