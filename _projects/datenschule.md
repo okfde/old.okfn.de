@@ -2,9 +2,9 @@
 type: education
 title: Datenschule
 layout: project
-img: projects/datenschule.png
-img_square: projects/datenschule.png
-background: projects/datenschule.png
+img: projects/datenschule.jpg
+img_square: projects/datenschule.jpg
+background: projects/datenschule.jpg
 url: https://datenschule.de
 video: "https://www.youtube.com/embed/tE8vx3TFIlM"
 people:
