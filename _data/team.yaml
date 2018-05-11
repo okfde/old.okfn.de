@@ -93,8 +93,8 @@
   advisory: 0
   board_alumni: 1
   position:
-  bio: "Julia arbeitet seit 2012 als Projektleiterin bei der Open Knowledge Foundation. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter „Stadt Land Code“, Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
-  bio_en: "Julia is project lead at OKF DE since 2012. Her work focuses on the areas of Open Data and Civic Tech. She has realized a number of community-driven projects such as StadtLandCode, Germanys first incubator for Civic Tech, and a number of Open Data hackathons. Currently, she is the project lead of Code for Germany, a nationwide civil tech community that builds digital tools and applications using Open Data. Julia studied Design and New Media, and worked in policy campaigns before joining the Open Knowledge Foundation. She is a member of Digitale Gesellschaft e.V. and gives talks on Open Knowledge and Open Tools."
+  bio: "Julia hat von 2012 bis 2018 als Projektleiterin bei der Open Knowledge Foundation gearbeitet. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter „Stadt Land Code“, Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
+  bio_en: "Julia was project lead at OKF DE from 2012 until 2018. Her work focuses on the areas of Open Data and Civic Tech. She has realized a number of community-driven projects such as StadtLandCode, Germanys first incubator for Civic Tech, and a number of Open Data hackathons. Currently, she is the project lead of Code for Germany, a nationwide civil tech community that builds digital tools and applications using Open Data. Julia studied Design and New Media, and worked in policy campaigns before joining the Open Knowledge Foundation. She is a member of Digitale Gesellschaft e.V. and gives talks on Open Knowledge and Open Tools."
   mail: julia.kloiber@okfn.de
   twitter: j_kloiber
   website: http://juliakloiber.com/
@@ -102,7 +102,7 @@
 
 - name: Sarina Balkhausen
   img: sarinabalkhausen
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
@@ -314,7 +314,7 @@
   advisory: 0
   board_alumni: 1
   position:
-  bio: "Johanna koordiniert den Arbeitskreis Open Government Partnership. Bisher hat sie außerdem an den Projekten 2030 Watch, OpenBudgets.eu und Datensummit mitgewirkt. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
+  bio: "Johanna koordinierte den Arbeitskreis Open Government Partnership. Bisher hat sie außerdem an den Projekten 2030 Watch, OpenBudgets.eu und Datensummit mitgewirkt. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
   bio_en: "Johanna coordinates the working group Arbeitskreis Open Government Partnership. She also contributed to the projects 2030 Watch, OpenBudgets.eu and Datensummit. During her studies she has accumulated experience in the field of communication for international development, e.g. with Oxfam Hong Kong and the German equivalent to the campaign 'Make Poverty History'. During her masters thesis with a focus on transparency in development cooperation she has worked at the German Federal Ministry for Economic Cooperation and Development and the World Bank in Washington, D.C. She previously was employed in the management of an organic fruit start-up and volunarily engaged at Transparency International, in particular for Hamburg's Transparency Law."
   mail: "johanna.zumfelde@okfn.de"
   twitter: "@Jzfelde"
@@ -324,11 +324,12 @@
 - name: Mara Mendes
   title:
   img: maramendes
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
-  bio: "Mara Mendes leitet das EU-Forschungsprojekt DIGIWHIST, das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten soll. Bevor sie zur Open Knowledge Foundation Deutschland kam, hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
+  bio: "Mara Mendes leitete das EU-Forschungsprojekt DIGIWHIST, das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten soll. Bevor sie zur Open Knowledge Foundation Deutschland kam, hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
   bio_en: "Mara Mendes is project lead of the EU research project The Digital Whistleblower: Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed. The central objective of DIGIWHIST is to improve trust in governments and efficiency of public spending across Europe. Previously, she has worked in the area of advocacy and campaigning with Transparency International. Mara is interested in fighting against and preventing corruption. She holds a masters degree in Media, Communication and Development and a Bachelor in Sociology, Politics and Media Science."
   mail: mara.mendes@okfn.de
   twitter: maryrmendes
