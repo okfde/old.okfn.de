@@ -3,17 +3,18 @@ authors:
 - Bela Seeger
 date: 2018-05-15
 image:
-  src: /files/blog/2018/01/scaling-okfde-nahverkehr.png
-  title: PSI-Richtlinie
+  src: /files/blog/2018/05/jahresbericht.png
+  title: Jahresbericht
 tags:
 - Open Data
 - Policy
 - OGP
 - DST18
+- OKF DE
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "OKFDE Jahresbericht-2017" 
 ---
 
