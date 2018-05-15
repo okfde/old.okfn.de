@@ -17,7 +17,7 @@ published: false
 title: "OKFDE Jahresbericht-2017" 
 ---
 
-Unser [Jahresbericht 2017 ist online !!!](https://okfn.de/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf).
+Unser [Jahresbericht 2017 ist online!!!](https://okfn.de/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
 Juhu.
 
 Viel Spass beim Lesen, und falls Fragen bitte wissen lassen.
