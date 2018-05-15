@@ -15,7 +15,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "OKFDE Jahresbericht 2017" 
+title: "Der Jahresbericht 2017 der Open Knowledge Foundation Deutschland" 
 ---
 
 Unser [Jahresbericht 2017 ist online!](https://okfn.de/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
