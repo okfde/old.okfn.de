@@ -18,13 +18,9 @@ title: "OKFDE Jahresbericht-2017"
 ---
 
 Unser [Jahresbericht 2017 ist online!!!](https://okfn.de/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
-Juhu.
+Zum ersten Mal berichten wir angelehnt an den Social Reporting Standard, somit erhaltet Ihr tiefere Einblicke denn jeh in unsere Arbeit.  
 
-Viel Spass beim Lesen, und falls Fragen bitte wissen lassen.
-
-Hightlights kurz zusammengefasst ... 
-
-
+Viel Spass beim Lesen, <a href="mailto:info@okfn.de">schreibt uns</a> bei Fragen und Kommentaren.
 
 
 Der Bericht kommt als Punktladung zum [Deutschen StiftungsTag 2018](https://www.stiftungen.org/verband/was-wir-tun/vernetzungsangebote/deutscher-stiftungstag.html)
