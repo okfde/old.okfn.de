@@ -15,7 +15,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "OKFDE Jahresbericht-2017" 
+title: "OKFDE Jahresbericht 2017" 
 ---
 
 Unser [Jahresbericht 2017 ist online!!!](https://okfn.de/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
