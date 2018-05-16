@@ -21,4 +21,4 @@ Bereits mehr als 20.000 Menschen haben seit Beginn unserer Kampagne über [selbs
 
 Mehr über die OpenSCHUFA-Datenspende und die mangelnde Kontrolle der Auskunfteien berichten [Spiegel Online](http://www.spiegel.de/wirtschaft/service/schufa-wirtschaftsauskunfteien-zahlen-kontroll-gutachten-selbst-a-1207678.html) und [tagesschau.de](https://www.tagesschau.de/wirtschaft/auskunfteien-101.html).
 
-[ZUR DATENSPENDE](https://www.tagesschau.de/wirtschaft/auskunfteien-101.html)
+[ZUR DATENSPENDE](https://www.openschufa.de/)
