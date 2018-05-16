@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "OpenSchufa.de ist live - jetzt Daten spenden!" 
 ---
 
