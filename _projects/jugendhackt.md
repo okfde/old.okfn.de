@@ -4,8 +4,8 @@ layout: project
 title: Jugend hackt
 background: backgrounds/jugendhackt.jpg
 url: http://jugendhackt.de
-img: projects/Logo_Programm.png
-img_square: projects/Alpaka_Berlin.png
+img: projects/Logo_Claim.png
+img_square: projects/AlpakaWebseite.png
 people:
   - name: Maria Reimer
     role: Projektleitung
@@ -22,8 +22,8 @@ contact:
   website: http://jugendhackt.org
 video: "https://www.youtube.com/embed/lkNZyfhUvEc"
 de:
-  subtitle: Mit Code die Welt verbessern
-  stats: 500<br/>Jugend-Hacker*innen
+  subtitle: Förderprogramm für programmier- und makingbegeisterte Jugendliche
+  stats: 500<br/>Jugendliche
   teaser: experimentieren bei <a href="/projekte/jugendhackt/">Jugend hackt</a> mit Code und Freundschaft.
   content: |-
      Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses im deutschsprachigen Raum: Unter dem Motto “Mit Code die Welt verbessern” tüfteln die Teilnehmenden gemeinsam mit der Hilfe ehrenamtlicher Mentor/innen an Prototypen, digitalen Werkzeugen und Konzepten für ihre Vision einer besseren Gesellschaft.
