@@ -16,7 +16,7 @@ contact:
 de:
   subtitle: Wir knacken die Schufa!
   content: |-
-  Ob Kredit, Handy-Vertrag oder die Bewerbung für die Wohnung, man braucht eine SCHUFA-Auskunft! Wir knacken den Algorithmus und wollen herausfinden, ob die SCHUFA Ungerechtigkeiten verstärkt.
+  "Ob Kredit, Handy-Vertrag oder die Bewerbung für die Wohnung, man braucht eine SCHUFA-Auskunft! Wir knacken den Algorithmus und wollen herausfinden, ob die SCHUFA Ungerechtigkeiten verstärkt."
 
 en:
   subtitle: Germany becomes sustainable
