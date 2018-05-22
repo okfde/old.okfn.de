@@ -18,7 +18,7 @@ tags:
 title: "Am 6. Juni – Forum Open:Education"
 ---
 
-*Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „Forum Open:Education“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.*
+*Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „[Forum Open:Education](https://education.forum-open.de/)“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.*
 
 Mit Begegnungsständen, Workshops und Diskussionsrunden erhalten Bildungsinitiativen und Projekte eine offene Plattform, um ihr Arbeit zu präsentieren und sich über praktische Erfahrungen auszutauschen.
 

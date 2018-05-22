@@ -77,7 +77,7 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ## Anerkennung als gemeinnütziger Verein
 
-Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin vom 21.08.2017](/files/verein/Freistellungsbescheid-21-08-2017.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin vom 20.04.2018](/files/verein/Freistellungsbescheid-2018-04-20.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
 Ein aktueller Auszug aus dem Vereinsregister von 2016 ist [hier einsehbar](/files/verein/Vereinsregisterauszug_OKFDE_2016.pdf).
 
@@ -85,6 +85,7 @@ Ein aktueller Auszug aus dem Vereinsregister von 2016 ist [hier einsehbar](/file
 
 Unseren ersten Tätigkeitsbericht haben wir im Gründungsjahr 2011 veröffentlicht. Auf unserem Blog berichten wir regelmässig einmal im Monat über unsere Tätigkeiten. Diese monatlichen Berichte gibt es auch in unserem Newsletter. Hier die Tätigkeitsberichte nach Jahren:
 
+* [Tätigkeitsbericht 2017](/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
 * [Tätigkeitsbericht 2016](/files/verein/OKFDE-Taetigkeitsbericht-2016.pdf)
 * [Tätigkeitsbericht 2015](/files/verein/OKFDE-Taetigkeitsbericht-2015.pdf)
 * [Tätigkeitsbericht 2014](/files/verein/OKFDE-Taetigkeitsbericht-2014.pdf)
@@ -108,6 +109,8 @@ Am 29.03.2017 wurde [Paula Grünwald](/team/#paula-glaser) zur Ethikbeauftragten
 
 ## Mittelherkunft
 
+In 2017 hat die OKF DE 1.822.218,56 € aus Mitgliedsbeiträgen und Zuwendungen (Ideeller Bereich) sowie 0,00 € aus der Vermögensverwaltung vereinnahmt. Darüber hinaus wurden 1.923,50 € aus Umsatzerlösen im Zweckbetrieb und 241.905,45 € im wirtschaftlichen Geschäftsbetrieb vereinnahmt. Die Gesamteinnahmen betrugen 2.066.047,51 €. Dem standen Gesamtausgaben von insgesamt 2.112.418,39 € gegenüber. Das Vereinsergebnis für 2017 lag bei -46.370,88 €.
+
 In 2016 hat die OKF DE 1.060.168,40 € aus Mitgliedsbeiträgen und Zuwendungen (Ideeller Bereich) sowie 0,00 € aus der Vermögensverwaltung vereinnahmt. Darüber hinaus wurden 13.607,50 € aus Umsatzerlösen im Zweckbetrieb und 222.278,25 € im wirtschaftlichen Geschäftsbetrieb vereinnahmt. Die Gesamteinnahmen betrugen 1.296.054,15 €. Dem standen Gesamtausgaben von insgesamt 1.243.415,95 € gegenüber. Das Vereinsergebnis für 2016 lag bei 52.638,20 €.
 
 In 2015 hat die OKF DE 817.283,02 € aus Mitgliedsbeiträgen und Zuwendungen (Ideeller Bereich) sowie 0,12 € aus der Vermögensverwaltung vereinnahmt. Darüber hinaus wurden 2.566,93 € aus Umsatzerlösen im Zweckbetrieb und 159.422,76 € im wirtschaftlichen Geschäftsbetrieb erlöst. Die Gesamteinnahmen betrugen 979.272,83 €. Dem standen Gesamtausgaben von insgesamt 888.650,90 € gegenüber. Das Vereinsergebnis für 2015 lag bei 90.621,93 €.
@@ -128,6 +131,7 @@ Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden f�
 
 Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Die OKF DE beschäftigt zur Zeit Personen im Umfang von ca. 18,5 Vollzeitäquivalenten.
 
+* [Gewinnermittlung für 2017](/files/verein/OKF-DE-Gewinnermittlung-kurz-2017.pdf)
 * [Gewinnermittlung für 2016](/files/verein/OKF-DE-Gewinnermittlung-kurz-2016.pdf)
 * [Gewinnermittlung für 2015](/files/verein/OKF-DE-Gewinnermittlung-kurz-2015.pdf)
 * [Gewinnermittlung für 2014](/files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)

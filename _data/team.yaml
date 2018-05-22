@@ -41,9 +41,9 @@
   advisory: 0
   board_alumni: 1
   position:
-  bio: "Helene ist seit 2013 Projektleiterin für verschiedene Community- und Techprojekte bei der Open Knowledge Foundation Deutschland. Sie interessiert sich vor allem dafür, wie Daten und Technologien für eine positive Gestaltung unserer Gesellschaft eingesetzt werden können. In der Vergangenheit hat sie verschiedene Projekte konzipiert und umgesetzt, darunter Coding da Vinci, Zugang gestalten und Energyhack Reloaded. Aktuell arbeitet sie an der Datenschule, dem Weiterbildungsprogramm für NGOs zum Thema Daten und Technologien. Helene ist Teil der Policy-Gruppe, konzipiert partizipative Workshops und spricht auf Konferenzen über digitale Themen. Zuvor hat sie Kulturwissenschaften studiert und bei diversen Medienagenturen zu (netz)politischen Themen gearbeitet."
-  bio_en: "Helene is project lead for different community and tech based projects at the Open Knowledge Foundation Germany since 2013. She is interested in how data and technology can benefit our society and forster positive social change.During the last years, she conceptualised and implemented various projects, such as Coding da Vinci, Zugang gestalten und Energyhack Reloaded. Currently she is working on Datenschule (School of Data Germany), a programm that helps non-profit organisations, civil rights defenders and activists to understand and use data and technology effectively to increase their impact on societal challenges. Helene is part of the policy group at OKF DE, runs workshops and gives talks on different topics around the knowledge society. Previously, she studied Cultural Sciences and worked for different media agencies."
-  mail: helene.hahn@okfn.de
+  bio: "Helene begleitete die Open Knowledge Foundation Deutschland von 2013 bis 2018 als Projektleiterin für verschiedene Community- und Technik-Projekte zu den Themen digitale Mündigkeit und Beteiligung, Zugang zu Informationen, politische und kulturelle Bildung. Helene interessiert sich dafür, wie Daten und Technologien für eine positive Gestaltung unserer Gesellschaft eingesetzt werden können. Sie hat verschiedene Projekte konzipiert und umgesetzt, wie z.B. Coding da Vinci, die Datenschule, Offenes Parlament und Jede Schule. Sie ist im international Civic Tech-Netzwerk aktiv, konzipiert partizipative Workshops und spricht auf Konferenzen über digitale Themen, z.B. zu data literacy, open culture und data for good. Helene hat Kulturwissenschaften studiert und macht gerade ihren Masterabschluss in Governance and Human Rights."
+  bio_en: "Helene has worked as project lead at the Open Knowledge Foundation Germany from 2013 to 2018. She designed and implemented different community and tech based projects on the topics of digital literacy and participation, access to information, as well as political and cultural education. Helene is interested in how data and technologies can contribute to meaningful social change in our society. Some of her projects include Coding da Vinci, School of Data Germany, Open Parliament and Jede Schule. Currently, Helene is active in the international Civic Tech network, designs participatory workshops and speaks at conferences about data literacy, open culture and data for good. Helene has a background in Social and Cultural Sciences and is currently finishing her master’s degree in Governance and Human Rights."
+  mail: helene.hahn@posteo.de
   twitter: pluscha
   website:
   github: heleneh
@@ -93,8 +93,8 @@
   advisory: 0
   board_alumni: 1
   position:
-  bio: "Julia arbeitet seit 2012 als Projektleiterin bei der Open Knowledge Foundation. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter „Stadt Land Code“, Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
-  bio_en: "Julia is project lead at OKF DE since 2012. Her work focuses on the areas of Open Data and Civic Tech. She has realized a number of community-driven projects such as StadtLandCode, Germanys first incubator for Civic Tech, and a number of Open Data hackathons. Currently, she is the project lead of Code for Germany, a nationwide civil tech community that builds digital tools and applications using Open Data. Julia studied Design and New Media, and worked in policy campaigns before joining the Open Knowledge Foundation. She is a member of Digitale Gesellschaft e.V. and gives talks on Open Knowledge and Open Tools."
+  bio: "Julia hat von 2012 bis 2018 als Projektleiterin bei der Open Knowledge Foundation gearbeitet. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter „Stadt Land Code“, Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
+  bio_en: "Julia was project lead at OKF DE from 2012 until 2018. Her work focuses on the areas of Open Data and Civic Tech. She has realized a number of community-driven projects such as StadtLandCode, Germanys first incubator for Civic Tech, and a number of Open Data hackathons. Currently, she is the project lead of Code for Germany, a nationwide civil tech community that builds digital tools and applications using Open Data. Julia studied Design and New Media, and worked in policy campaigns before joining the Open Knowledge Foundation. She is a member of Digitale Gesellschaft e.V. and gives talks on Open Knowledge and Open Tools."
   mail: julia.kloiber@okfn.de
   twitter: j_kloiber
   website: http://juliakloiber.com/
@@ -102,7 +102,7 @@
 
 - name: Sarina Balkhausen
   img: sarinabalkhausen
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
@@ -156,8 +156,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Paula organisiert zusammen mit Maria Jugend hackt. Über die Veranstaltung hat sie auch ihre Masterarbeit im Studiengang „Medien in der Bildung“ an der PH Freiburg geschrieben. Davor hat sie u.a. für das Fraunhofer Institut gearbeitet und Dokumentarfilme gedreht. Offene Daten findet Paula super, weil sie zu aktiver demokratischer Partizipation einladen."
-  bio_en: "Paula organises Jugend hackt together with Maria. The project was part of her master thesis on Media and Education at the PH Freiburg. Previously, she worked for the Fraunhofer Institute and has filmed documentaries. Paula finds Open Data interesting and important because it stimulates active democratic participation."
+  bio: "Paula arbeitet für die Demokratielabore als Projektkoordinatorin und für Jugend hackt. Über Jugend hackt hat sie auch ihre Masterarbeit im Studiengang „Medien in der Bildung“ an der PH Freiburg geschrieben. Davor hat sie u.a. für das Fraunhofer Institut gearbeitet und Dokumentarfilme gedreht. Offene Daten findet Paula super, weil sie zu aktiver demokratischer Partizipation einladen."
+  bio_en: "Paula is working for \"Demokratielabore\" and for \"Jugend hackt\". \"Jugend hackt\" was part of her master thesis on Media and Education at the PH Freiburg. Previously, she worked for the Fraunhofer Institute and has filmed documentaries. Paula finds Open Data interesting and important because it stimulates active democratic participation."
   mail: paula.gruenwald@okfn.de
   twitter: rinhia
   website:
@@ -314,7 +314,7 @@
   advisory: 0
   board_alumni: 1
   position:
-  bio: "Johanna koordiniert den Arbeitskreis Open Government Partnership. Bisher hat sie außerdem an den Projekten 2030 Watch, OpenBudgets.eu und Datensummit mitgewirkt. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
+  bio: "Johanna koordinierte den Arbeitskreis Open Government Partnership. Bisher hat sie außerdem an den Projekten 2030 Watch, OpenBudgets.eu und Datensummit mitgewirkt. Sie hat während ihres Studiums Erfahrungen im Bereich entwicklungspolitischer Öffentlichkeitsarbeit u.a. bei Oxfam Hong Kong und der Kampagne Deine Stimme Gegen Armut gesammelt. Im Zuge Ihrer Magisterarbeit über das Thema Transparenz in der Entwicklungspolitik hat sie beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung und bei der Weltbank in Washington DC gearbeitet. Bevor sie 2015 zur Open Knowledge Foundation kam, war sie zwei Jahre im Management eines Bio Obst Start-ups tätig und hat sich bei Transparency International insbesondere für das Hamburger Transparenzgesetz ehrenamtlich engagiert."
   bio_en: "Johanna coordinates the working group Arbeitskreis Open Government Partnership. She also contributed to the projects 2030 Watch, OpenBudgets.eu and Datensummit. During her studies she has accumulated experience in the field of communication for international development, e.g. with Oxfam Hong Kong and the German equivalent to the campaign 'Make Poverty History'. During her masters thesis with a focus on transparency in development cooperation she has worked at the German Federal Ministry for Economic Cooperation and Development and the World Bank in Washington, D.C. She previously was employed in the management of an organic fruit start-up and volunarily engaged at Transparency International, in particular for Hamburg's Transparency Law."
   mail: "johanna.zumfelde@okfn.de"
   twitter: "@Jzfelde"
@@ -324,11 +324,12 @@
 - name: Mara Mendes
   title:
   img: maramendes
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
-  bio: "Mara Mendes leitet das EU-Forschungsprojekt DIGIWHIST, das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten soll. Bevor sie zur Open Knowledge Foundation Deutschland kam, hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
+  bio: "Mara Mendes leitete das EU-Forschungsprojekt DIGIWHIST, das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten soll. Bevor sie zur Open Knowledge Foundation Deutschland kam, hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
   bio_en: "Mara Mendes is project lead of the EU research project The Digital Whistleblower: Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed. The central objective of DIGIWHIST is to improve trust in governments and efficiency of public spending across Europe. Previously, she has worked in the area of advocacy and campaigning with Transparency International. Mara is interested in fighting against and preventing corruption. She holds a masters degree in Media, Communication and Development and a Bachelor in Sociology, Politics and Media Science."
   mail: mara.mendes@okfn.de
   twitter: maryrmendes
