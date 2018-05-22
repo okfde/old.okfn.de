@@ -22,11 +22,7 @@ title: "Die OKF beim Deutschen Stiftungstag 2018"
 Wie können wir digitale Mittel nutzen, um bürgerschaftliches Engagement anzukurbeln? Wie bekommen Bildungsangebote durch Open Educational Ressources (OER) mehr Reichweite? Wir waren mit unseren Bildungsprojekten beim [Deutschen Stiftungstag](https://www.stiftungen.org/verband/was-wir-tun/vernetzungsangebote/deutscher-stiftungstag.html) und haben in zwei Workshops unser Wissen geteilt. 
 
 ## Digitales Ehrenamt fördern mit offenem Wissen
-Die Open Knowledge Foundation Deutschland (OKF DE) initiiert verschiedenste [Projekte in den Bereichen offenes Regierungshandeln, offene Bildung und Civic Tech](https://okfn.de/projekte/). 
-
-So unterschiedlich unsere Projekte auch sind, haben sie alle einen gemeinsamen Kern: Sie ermutigen Menschen dazu, gesellschaftliche Herausforderungen mit digitalen Mitteln aktiv anzugehen.
-
-Die Projekte funktionieren und wachsen, weil sie auf eine große Community von Ehrenamtlichen setzen, die sich dauerhaft aktiv für eine offenere, transparentere und gerechtere Gesellschaft einsetzen.
+Die Open Knowledge Foundation Deutschland (OKF DE) initiiert verschiedenste [Projekte in den Bereichen offenes Regierungshandeln, offene Bildung und Civic Tech](https://okfn.de/projekte/). So unterschiedlich unsere Projekte auch sind, haben sie alle einen gemeinsamen Kern: Sie ermutigen Menschen dazu, gesellschaftliche Herausforderungen mit digitalen Mitteln aktiv anzugehen. Die Projekte funktionieren und wachsen, weil sie auf eine große Community von Ehrenamtlichen setzen, die sich dauerhaft aktiv für eine offenere, transparentere und gerechtere Gesellschaft einsetzen. 
 
 "Digitalisierung" ist dabei kein Selbstzweck, sondern gibt uns einfach veränderte oder im besten Fall auch zusätzliche Mittel und Werkzeuge in die Hand, um diese Aufgaben zu lösen. Wie wir das - mithilfe von Online-Zusammenarbeit, Offenem Wissen, Open Data, Transparenz, Freien Lizenzen, Crowdsourcing, Open Source Software und vielen anderen Bausteinen - angehen, haben wir am Beispiel von [Jugend hackt](https://jugendhackt.org/) und anderen OKF DE-Projekten gezeigt. Und gemerkt: Digitalisierung und Ehrenamt - in vielen Stiftungen (und anderen Organisationen) kann das der Beginn einer wunderbaren Freundschaft werden.
 -> Folien
