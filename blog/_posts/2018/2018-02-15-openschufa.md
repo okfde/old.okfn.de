@@ -7,7 +7,7 @@ image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSchufa
 tags:
-- OpenSCHUFA
+- OpenSchufa
 type: post
 layout: post
 card: true
