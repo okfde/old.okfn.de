@@ -29,7 +29,7 @@ Drei von fünf Kategorien der diesjährigen Veranstaltung
 - #DST18_Partizipation
 
 entsprechen unseren Kernkompetenzen. Es gab eine Einladung. Wir kamen. 
-Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln jener Themen ist und wie die lange Umsetzung von Forderungen brauchen (Transparenzgesetz *huestel*) … daher das Motto: Wir - und viele andere Stiftungen - bohren dicke Bretter.
+Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln jener Themen ist und wie die lange Umsetzung von Forderungen brauchen (Transparenzgesetz *huestel*) … daher das Motto: Wir - und viele andere Stiftungen - <b>bohren dicke Bretter</b>.
 
 ![Hier wird gebohrt](/files/blog/2018/05/OKFDE-20180517-bohren.jpg "Bohren")
 
