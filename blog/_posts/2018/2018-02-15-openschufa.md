@@ -5,7 +5,7 @@ authors:
 date: 2018-02-15
 image:
   src: /files/blog/2018/02/openschufa.png
-  title: OpenSCHUFA
+  title: OpenSchufa
 tags:
 - OpenSCHUFA
 type: post
