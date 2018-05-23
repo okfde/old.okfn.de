@@ -57,7 +57,7 @@ Dies betrifft auch die Zahlen der Stiftungen selber, das Spannungsfeld unternehm
 
 Passend zum künstlerischen Ambiente war auch FragdenStaat mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016). 
 
-![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-edition-vertikal2.JPG "bisserl schwarz")
+![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-vertikal2.JPG "bisserl schwarz")
 
 
 Und passend zum Thema dicke Luft hatten wir auch die Luftdatensensor von Luftdaten.info dabei, um zu messen ob es jene gab? Es gab Echtzeitdaten live vom #DST18: Temperatur und Feinstaub.
