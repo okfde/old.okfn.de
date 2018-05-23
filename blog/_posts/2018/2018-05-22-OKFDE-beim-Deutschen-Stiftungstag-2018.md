@@ -29,7 +29,7 @@ Drei von fünf Kategorien der diesjährigen Veranstaltung
 - #DST18_Partizipation
 
 entsprechen unseren Kernkompetenzen. Es gab eine Einladung. Wir kamen. 
-Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln jener Themen ist und wie die lange Umsetzung von Forderungen brauchen (Transparenzgesetz *huestel*) … daher das Motto: Wir, und viele andere Stiftungen, bohren dicke Bretter.
+Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln jener Themen ist und wie die lange Umsetzung von Forderungen brauchen (Transparenzgesetz *huestel*) … daher das Motto: Wir - und viele andere Stiftungen - bohren dicke Bretter.
 
 ![Hier wird gebohrt](/files/blog/2018/05/OKFDE-20180517-bohren.jpg "Bohren")
 
@@ -60,12 +60,12 @@ Passend zum künstlerischen Ambiente war auch FragdenStaat mit der [limitierten 
 ![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-edition.JPG "geht mehr")
 
 
-Und passend zum Thema dicke Luft hatten wir auch die Luftdatensensor von Luftdaten.info dabei, um zu messen ob jene gab? Es gab Echtzeitdaten es live vom #DST18 Temperatur und Feinstaub.
+Und passend zum Thema dicke Luft hatten wir auch die Luftdatensensor von Luftdaten.info dabei, um zu messen ob es jene gab? Es gab Echtzeitdaten live vom #DST18: Temperatur und Feinstaub.
 
 ![Wir messen Feinstaub und heisse Luft](/files/blog/2018/05/2018518-OKFDE-DST18-sensor.jpg "geht mehr")
 OKFDE-FDS-unlimited-edition.JPG
 
-Wie können wir digitale Mittel nutzen, um bürgerschaftliches Engagement anzukurbeln? Wie bekommen Bildungsangebote durch Open Educational Ressources (OER) mehr Reichweite? Wir waren mit unseren Bildungsprojekten beim [Deutschen Stiftungstag](https://www.stiftungen.org/verband/was-wir-tun/vernetzungsangebote/deutscher-stiftungstag.html) und haben in zwei Workshops unser Wissen geteilt. 
+Wie können wir digitale Mittel nutzen, um bürgerschaftliches Engagement anzukurbeln? Wie bekommen Bildungsangebote durch Open Educational Ressources (OER) mehr Reichweite? Auch unsere Bildungsprojekte waren beim [Deutschen Stiftungstag](https://www.stiftungen.org/verband/was-wir-tun/vernetzungsangebote/deutscher-stiftungstag.html) und haben in zwei Workshops unser Wissen geteilt. 
 
 ## Digitales Ehrenamt fördern mit offenem Wissen
 Die Open Knowledge Foundation Deutschland (OKF DE) initiiert verschiedenste [Projekte in den Bereichen offenes Regierungshandeln, offene Bildung und Civic Tech](https://okfn.de/projekte/). So unterschiedlich unsere Projekte auch sind, haben sie alle einen gemeinsamen Kern: Sie ermutigen Menschen dazu, gesellschaftliche Herausforderungen mit digitalen Mitteln aktiv anzugehen. Die Projekte funktionieren und wachsen, weil sie auf eine große Community von Ehrenamtlichen setzen, die sich dauerhaft aktiv für eine offenere, transparentere und gerechtere Gesellschaft einsetzen. 
@@ -75,8 +75,7 @@ Die Open Knowledge Foundation Deutschland (OKF DE) initiiert verschiedenste [Pro
 
 
 
-"Digitalisierung" ist dabei kein Selbstzweck, sondern gibt uns einfach veränderte oder im besten Fall auch zusätzliche Mittel und Werkzeuge in die Hand, um diese Aufgaben zu lösen. Wie wir das - mithilfe von Online-Zusammenarbeit, Offenem Wissen, Open Data, Transparenz, Freien Lizenzen, Crowdsourcing, Open Source Software und vielen anderen Bausteinen - angehen, haben wir am Beispiel von [Jugend hackt](https://jugendhackt.org/) und anderen OKF DE-Projekten gezeigt. Und gemerkt: Digitalisierung und Ehrenamt - in vielen Stiftungen (und anderen Organisationen) kann das der Beginn einer wunderbaren Freundschaft werden.
--> Folien
+"Digitalisierung" ist dabei kein Selbstzweck, sondern gibt uns einfach veränderte oder im besten Fall auch zusätzliche Mittel und Werkzeuge in die Hand, um diese Aufgaben zu lösen. Wie wir das - mithilfe von Online-Zusammenarbeit, Offenem Wissen, Open Data, Transparenz, Freien Lizenzen, Crowdsourcing, Open Source Software und vielen anderen Bausteinen - angehen, haben wir am Beispiel von [Jugend hackt](https://jugendhackt.org/) und anderen OKF DE-Projekten gezeigt.
 
 ## Digitale Bildung offen gestalten 
 Mehr Reichweite für Bildungsangebote mit Open Educational Ressources
@@ -86,7 +85,7 @@ BILD Markus
 ![xyz Schreibent](/files/blog/2018/05/OKFDE-20180518-Markus.jpg "geht mehr")
 
 
-Stiftungstag heisst auch “Handyreparieren” durch Ausschalten und Neustart oder Socialmediaberatern erklären http://dst18.okfn.de ist doch eine Webseite. Ansonsten waren der #prototypefund und #openschufa ein Renner. 
+Stiftungstag heißt auch “Handyreparieren” durch Ausschalten und Neustart oder Socialmediaberatern erklären http://dst18.okfn.de ist doch eine Webseite. Ansonsten waren der #prototypefund und #openschufa ein Renner. 
 
 
 Für alle noch zum Nachschauen, die bewegende Rede von der heurigen Preisträgerin Ise Bosch bzgl. Diversität.
