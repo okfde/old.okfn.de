@@ -81,11 +81,10 @@ Die Open Knowledge Foundation Deutschland (OKF DE) initiiert verschiedenste [Pro
 Mehr Reichweite für Bildungsangebote mit Open Educational Ressources
 -> Folien
 
-BILD Markus
 ![xyz Schreibent](/files/blog/2018/05/OKFDE-20180518-Markus.jpg "geht mehr")
 
 
-Stiftungstag heißt auch “Handyreparieren” durch Ausschalten und Neustart oder Socialmediaberatern erklären http://dst18.okfn.de ist doch eine Webseite. Ansonsten waren der #prototypefund und #openschufa ein Renner. 
+Ansonsten waren der #prototypefund und #openschufa ein Renner. 
 
 
 Für alle noch zum Nachschauen, die bewegende Rede von der heurigen Preisträgerin Ise Bosch bzgl. Diversität.
