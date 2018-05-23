@@ -87,7 +87,7 @@ Mehr Reichweite für Bildungsangebote mit Open Educational Ressources
 Ansonsten waren der #prototypefund und #openschufa ein Renner. 
 
 
-Für alle noch zum Nachschauen, die bewegende Rede von der heurigen Preisträgerin Ise Bosch bzgl. Diversität.
+Für alle noch eine Empfehlung zum Nachschauen: die bewegende Rede von der heurigen Preisverleihung an Ise Bosch bzgl. Diversität.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/08IGOtTyMXI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 [Start der Rede](https://youtu.be/08IGOtTyMXI?t=3328) 
