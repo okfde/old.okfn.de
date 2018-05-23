@@ -48,13 +48,12 @@ Solveig Schröder und Timo Lindelius die OrganisatorInnen vom OKLAB [„Code for
 
 ## #DST18_Transparenz
 
-Gemäß eines der Themen des Deutschen Stiftungstages #DST18_Transparenz luden wir zum Transparenzbohren. Dies wurde sehr gut angenommen, 28 Personen versuchten sich beim Bohren mit einem 250 Jahren Bohrer,auch wenn die Ausbeute mit 51% der Stammlänge (der Bohrer im Bild zeigt die Bohrtiefe an) noch Luft nach oben hat. 
-Die Forderung nach Transparenz kann, gerade am Anfang verunsichern oder schmerzen.
+Gemäß eines der Themen des Deutschen Stiftungstages #DST18_Transparenz luden wir die TeilnehmerInnen des Stiftungstages zum "Transparenzbohren" ein. Dies wurde sehr gut angenommen, 28 Personen versuchten sich beim Bohren mit einem [250 Jahren alten Bohrer](https://de.wikipedia.org/wiki/Deichel). Auch wenn die Ausbeute mit 51% der Stammlänge (der Bohrer im Bild zeigt die Bohrtiefe an) noch Luft nach oben hat, hoffen wir, dass bis zum nächsten Stiftungstag 2019 einige weitere Transparenzvorhaben umgesetz werden. Die Forderung nach Transparenz kann, gerade am Anfang verunsichern oder schmerzen.
 
 ![Teambuilding & gemeinsames Transparenzbohren](/files/blog/2018/05/OKFDE-20180517-closeup.jpg "geht mehr")
 
 
-Dies betrifft auch die Zahlen und Zahlungen der Stiftungen selber, und das Spannungsfeld unternehmensnaher Stiftungen zwischen Gemeinwohl und Partikularinteressen. Wir verweisen hier auf die [Studie von WZBV und die Diskussion über die Studie selber](http://docplayer.org/30020429-Unternehmensnahe-stiftungen-im-spannungsfeld-zwischen-gemeinwohl-und-partikularinteressen-eine-exploration-im-bereich-wissenschaft.html).
+Dies betrifft auch die Zahlen und Zahlungen der Stiftungen selber, und das Spannungsfeld unternehmensnaher Stiftungen zwischen Gemeinwohl und Partikularinteressen. Wir verweisen hier auf die [Studie von WZB und die Diskussion über die Studie selber](http://docplayer.org/30020429-Unternehmensnahe-stiftungen-im-spannungsfeld-zwischen-gemeinwohl-und-partikularinteressen-eine-exploration-im-bereich-wissenschaft.html). Ein öffentliches Stiftungsregister und die Standards der [Initiative Transparente Zivilgesellschaft](https://www.transparency.de/mitmachen/initiative-transparente-zivilgesellschaft/) seien „absolute Mindestanforderungen“. 
 
 Zu dieser Thematik, auch passend zum künstlerischen Ambiente des Stiftungstages, war auch [FragdenStaat](https://fragdenstaat.de) mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016) vertreten. 
 
