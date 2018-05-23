@@ -33,7 +33,7 @@ Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln jener
 
 ![Hier wird gebohrt](/files/blog/2018/05/OKFDE-20180517-bohren.jpg "Bohren")
 
-Unser Team brachte folgenden Input:
+Unser Team war bei folgenden Session involviert und präsentierte einige unserer Projekte:
 
 ## Demokratie reloaded: Wie Stiftungen das neue Verhältnis von Staat und Zivilgesellschaft im digitalen Zeitalter mitgestalten können
 
@@ -48,19 +48,20 @@ Solveig Schröder und Timo Lindelius die OrganisatorInnen vom OKLAB [„Code for
 
 ## #DST18_Transparenz
 
-Gemäß eines der Themen des Deutschen Stiftungstages #DST18_Transparenz luden wir zum Transparenzbohren. Dies wurde sehr gut angenommen, auch wenn die Ausbeute mit 51% der Stammlänge noch Luft nach oben hat.
+Gemäß eines der Themen des Deutschen Stiftungstages #DST18_Transparenz luden wir zum Transparenzbohren. Dies wurde sehr gut angenommen, 28 Personen versuchten sich beim Bohren mit einem 250 Jahren Bohrer,auch wenn die Ausbeute mit 51% der Stammlänge (der Bohrer im Bild zeigt die Bohrtiefe an) noch Luft nach oben hat. 
+Die Forderung nach Transparenz kann, gerade am Anfang verunsichern oder schmerzen.
 
 ![Teambuilding & gemeinsames Transparenzbohren](/files/blog/2018/05/OKFDE-20180517-closeup.jpg "geht mehr")
 
 
-Dies betrifft auch die Zahlen der Stiftungen selber, das Spannungsfeld unternehmensnaher Stiftungen zwischen Gemeinwohl und Partikularinteressen. [Studie Moritz](http://docplayer.org/30020429-Unternehmensnahe-stiftungen-im-spannungsfeld-zwischen-gemeinwohl-und-partikularinteressen-eine-exploration-im-bereich-wissenschaft.html)
+Dies betrifft auch die Zahlen der Stiftungen selber, und das Spannungsfeld unternehmensnaher Stiftungen zwischen Gemeinwohl und Partikularinteressen. [Wir verweisen hier auf die Studie von WZBV und die Diskussion darüber](http://docplayer.org/30020429-Unternehmensnahe-stiftungen-im-spannungsfeld-zwischen-gemeinwohl-und-partikularinteressen-eine-exploration-im-bereich-wissenschaft.html)
 
-Passend zum künstlerischen Ambiente war auch FragdenStaat mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016). 
+Zu dieser Thematik, auch passend zum künstlerischen Ambiente, war auch FragdenStaat mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016) vertreten. 
 
-![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-vertikal2.JPG "bisserl schwarz")
+![Das Bild zeigt Seite 6 des "ausführlichen" Antwortschreiben des Ministerium auf eine Anfrage bzgl. des VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-vertikal2.JPG "bisserl schwarz"). Gerade nicht so erhellend.
 
 
-Und passend zum Thema dicke Luft hatten wir auch die Luftdatensensor von Luftdaten.info dabei, um zu messen ob es jene gab? Es gab Echtzeitdaten live vom #DST18: Temperatur und Feinstaub.
+Und passend zum Thema dicke Luft hatten wir auch einen Luftdatensensor von [Luftdaten.info](http://luftdaten.info) mitdabei, um zu messen ob es jene dicke Luft vor Ort gab. Gemessen wurden in Echtzeit live vom #DST18 die Temperatur, Luftfeuchtigkeit und Feinstaubwerte.
 
 ![Wir messen Feinstaub und heisse Luft](/files/blog/2018/05/2018518-OKFDE-DST18-sensor.jpg "geht mehr")
 Feinstaubsensor
