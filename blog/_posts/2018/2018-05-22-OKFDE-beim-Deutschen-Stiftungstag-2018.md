@@ -57,13 +57,13 @@ Dies betrifft auch die Zahlen der Stiftungen selber, das Spannungsfeld unternehm
 
 Passend zum künstlerischen Ambiente war auch FragdenStaat mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016). 
 
-![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-edition.JPG "geht mehr")
+![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-edition-vertikal2.JPG "bisserl schwarz")
 
 
 Und passend zum Thema dicke Luft hatten wir auch die Luftdatensensor von Luftdaten.info dabei, um zu messen ob es jene gab? Es gab Echtzeitdaten live vom #DST18: Temperatur und Feinstaub.
 
 ![Wir messen Feinstaub und heisse Luft](/files/blog/2018/05/2018518-OKFDE-DST18-sensor.jpg "geht mehr")
-OKFDE-FDS-unlimited-edition.JPG
+Feinstaubsensor
 
 Wie können wir digitale Mittel nutzen, um bürgerschaftliches Engagement anzukurbeln? Wie bekommen Bildungsangebote durch Open Educational Ressources (OER) mehr Reichweite? Auch unsere Bildungsprojekte waren beim [Deutschen Stiftungstag](https://www.stiftungen.org/verband/was-wir-tun/vernetzungsangebote/deutscher-stiftungstag.html) und haben in zwei Workshops unser Wissen geteilt. 
 
@@ -90,8 +90,8 @@ Stiftungstag heißt auch “Handyreparieren” durch Ausschalten und Neustart od
 
 Für alle noch zum Nachschauen, die bewegende Rede von der heurigen Preisträgerin Ise Bosch bzgl. Diversität.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/08IGOtTyMXI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> Start der Rede https://youtu.be/08IGOtTyMXI?t=3328
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/08IGOtTyMXI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> [Start der Rede](https://youtu.be/08IGOtTyMXI?t=3328)
 
 
 Es war uns ein Fest, bis nächstes Jahr! 
-Das Thema lautet Thema „Stiftungen und Demokratieförderung“, da passen wir ja wieder wie Arsch auf Eimer. 
+Das Thema lautet Thema „Stiftungen und Demokratieförderung“, da passen wir ja wieder wieder gut dazu, wir sehen uns in Mannheim! 
