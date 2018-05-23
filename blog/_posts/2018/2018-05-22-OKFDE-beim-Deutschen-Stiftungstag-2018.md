@@ -54,11 +54,11 @@ Die Forderung nach Transparenz kann, gerade am Anfang verunsichern oder schmerze
 ![Teambuilding & gemeinsames Transparenzbohren](/files/blog/2018/05/OKFDE-20180517-closeup.jpg "geht mehr")
 
 
-Dies betrifft auch die Zahlen der Stiftungen selber, und das Spannungsfeld unternehmensnaher Stiftungen zwischen Gemeinwohl und Partikularinteressen. [Wir verweisen hier auf die Studie von WZBV und die Diskussion darüber](http://docplayer.org/30020429-Unternehmensnahe-stiftungen-im-spannungsfeld-zwischen-gemeinwohl-und-partikularinteressen-eine-exploration-im-bereich-wissenschaft.html)
+Dies betrifft auch die Zahlen und Zahlungen der Stiftungen selber, und das Spannungsfeld unternehmensnaher Stiftungen zwischen Gemeinwohl und Partikularinteressen. Wir verweisen hier auf die [Studie von WZBV und die Diskussion über die Studie selbser](http://docplayer.org/30020429-Unternehmensnahe-stiftungen-im-spannungsfeld-zwischen-gemeinwohl-und-partikularinteressen-eine-exploration-im-bereich-wissenschaft.html)
 
-Zu dieser Thematik, auch passend zum künstlerischen Ambiente, war auch FragdenStaat mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016) vertreten. 
+Zu dieser Thematik, auch passend zum künstlerischen Ambiente des Stiftungstages, war auch FragdenStaat mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016) vertreten. 
 
-![Das Bild zeigt Seite 6 des "ausführlichen" Antwortschreiben des Ministerium auf eine Anfrage bzgl. des VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-vertikal2.JPG "bisserl schwarz"). Gerade nicht so erhellend.
+![Seite 6](/files/blog/2018/05/OKFDE-FDS-unlimited-vertikal2.JPG "bisserl schwarz") Das Bild zeigt die Seite 6 des "ausführlichen" Antwortschreiben des Ministerium auf eine Anfrage bzgl. des VW-Abgasskandal. Gerade nicht so erhellend, die Antwort. Für den wohlfeilen Kunstkenner verweisen wir auf dieses Schmucke [Angebot](http://000000.limited/edition2016).
 
 
 Und passend zum Thema dicke Luft hatten wir auch einen Luftdatensensor von [Luftdaten.info](http://luftdaten.info) mitdabei, um zu messen ob es jene dicke Luft vor Ort gab. Gemessen wurden in Echtzeit live vom #DST18 die Temperatur, Luftfeuchtigkeit und Feinstaubwerte.
