@@ -3,7 +3,7 @@ authors:
 - Markus Neuschäfer, Tanja Zagel, Timo Lundelius, Walter Palmetshofer,
 date: 2018-05-28
 image:
-  src: /files/blog/2018/05/
+  src: /files/blog/2018/05/OKFDE-20180517-full.jpg
   title: OKFDE beim Deutschen Stiftungstag 2018
   license: 
   license_url: 
@@ -24,14 +24,14 @@ Der Deutsche Stiftungstag wird jedes Jahr vom Verband Deutscher Stiftungen als I
 
 
 Drei von fünf Kategorien der diesjährigen Veranstaltung 
-#DST18_OffeneDaten 
-#DST18_Transparenz
- 	#DST18_Partizipation
+- #DST18_OffeneDaten 
+- #DST18_Transparenz
+- #DST18_Partizipation
 
 entsprechen unseren Kernkompetenzen. Es gab eine Einladung. Wir kamen. 
 Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln jener Themen ist und wie die lange Umsetzung von Forderungen brauchen (Transparenzgesetz *huestel*) … daher das Motto: Wir, und viele andere Stiftungen, bohren dicke Bretter.
 
-TEAM
+![Hier wird gebohrt](/files/blog/2018/05/OKFDE-20180517-bohren.jpg "Bohren")
 
 Unser Team brachte folgenden Input:
 
@@ -57,18 +57,13 @@ Dies betrifft auch die Zahlen der Stiftungen selber, das Spannungsfeld unternehm
 
 Passend zum künstlerischen Ambiente war auch FragdenStaat mit der [limitierten 2016 Volkswagen-Edition](http://000000.limited/edition2016). 
 
-![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-20180517-closeup.jpg "geht mehr")
-OKFDE-FDS-unlimited-edition.JPG
+![Das Bild zeigt Seite 6 des ausführlichen Antwortschreiben bzgl. VW-Abgasskandal](/files/blog/2018/05/OKFDE-FDS-unlimited-edition.JPG "geht mehr")
+
 
 Und passend zum Thema dicke Luft hatten wir auch die Luftdatensensor von Luftdaten.info dabei, um zu messen ob jene gab? Es gab Echtzeitdaten es live vom #DST18 Temperatur und Feinstaub.
 
-
-BILD feinstaubsensor
-
 ![Wir messen Feinstaub und heisse Luft](/files/blog/2018/05/2018518-OKFDE-DST18-sensor.jpg "geht mehr")
 OKFDE-FDS-unlimited-edition.JPG
-
-
 
 Wie können wir digitale Mittel nutzen, um bürgerschaftliches Engagement anzukurbeln? Wie bekommen Bildungsangebote durch Open Educational Ressources (OER) mehr Reichweite? Wir waren mit unseren Bildungsprojekten beim [Deutschen Stiftungstag](https://www.stiftungen.org/verband/was-wir-tun/vernetzungsangebote/deutscher-stiftungstag.html) und haben in zwei Workshops unser Wissen geteilt. 
 
@@ -76,7 +71,7 @@ Wie können wir digitale Mittel nutzen, um bürgerschaftliches Engagement anzuku
 Die Open Knowledge Foundation Deutschland (OKF DE) initiiert verschiedenste [Projekte in den Bereichen offenes Regierungshandeln, offene Bildung und Civic Tech](https://okfn.de/projekte/). So unterschiedlich unsere Projekte auch sind, haben sie alle einen gemeinsamen Kern: Sie ermutigen Menschen dazu, gesellschaftliche Herausforderungen mit digitalen Mitteln aktiv anzugehen. Die Projekte funktionieren und wachsen, weil sie auf eine große Community von Ehrenamtlichen setzen, die sich dauerhaft aktiv für eine offenere, transparentere und gerechtere Gesellschaft einsetzen. 
 
 
-![xyz Schreibent](/files/blog/2018/05/OKFDE-20180518-Tanja-Markus.jpg "geht mehr")
+![xyz Schreiben](/files/blog/2018/05/OKFDE-20180518-Tanja-Markus.jpg "geht mehr")
 
 
 
