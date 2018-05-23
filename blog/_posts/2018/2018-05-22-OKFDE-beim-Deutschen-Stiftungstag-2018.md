@@ -84,7 +84,7 @@ Mehr Reichweite für Bildungsangebote mit Open Educational Ressources
 ![xyz Schreibent](/files/blog/2018/05/OKFDE-20180518-Markus.jpg "geht mehr")
 
 
-Ansonsten waren der #prototypefund und #openschufa ein Renner. 
+Ansonsten waren der [prototypefund](https://prototypefund.de) und unsere gemeinsame Initiative mit Algorithmwatch [OpenSchufa](https://www.openschufa.de) ein Erwähungs- und Gesprächsrenner. 
 
 
 Für alle noch eine Empfehlung zum Nachschauen: die bewegende Rede von der heurigen Preisverleihung an Ise Bosch bzgl. Diversität.
