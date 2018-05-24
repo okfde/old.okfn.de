@@ -97,9 +97,9 @@ Folien zum Workshop "Digitale Bildung offen gestalten" (PDF)
 
 
 
-Ansonsten waren der [Prototype Fund](https://prototypefund.de) und unsere gemeinsame Initiative mit Algorithmwatch [OpenSchufa](https://www.openschufa.de) ein Erwähnungs- und Gesprächsrenner.
+Ansonsten wurden der [Prototype Fund](https://prototypefund.de) und unsere gemeinsame Initiative mit Algorithmwatch [OpenSchufa](https://www.openschufa.de) viel erwähnt und angesprochen.
 
-Für alle noch eine Empfehlung zum Nachschauen: die bewegende Rede von der Preisverleihung an Ise Bosch zu Diversität.
+Für alle noch eine Empfehlung zum Nachschauen: die bewegende Rede von der Preisverleihung an Ise Bosch zu Diversität:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/08IGOtTyMXI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 [Start der Rede](https://youtu.be/08IGOtTyMXI?t=3328)
