@@ -1,7 +1,7 @@
 ---
 authors:
 - Markus Neuschäfer, Tanja Zagel, Timo Lundelius, Walter Palmetshofer
-date: 2018-05-28
+date: 2018-05-25
 image:
   src: /files/blog/2018/05/OKFDE-20180517-full.jpg
   title: Open Knowledge Foundation beim Deutschen Stiftungstag 2018
@@ -16,7 +16,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Open Knowledge Foundation beim Deutschen Stiftungstag 2018"
 ---
 
