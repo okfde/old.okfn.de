@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: true
+published: false
 title: "Entwickler*in (20h)"
 jobs: "Entwickler*in (20h)"
 ---
