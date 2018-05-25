@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: true
+published: false
 title: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
 jobs: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
 ---
