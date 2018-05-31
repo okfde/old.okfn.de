@@ -8,8 +8,6 @@ img: projects/offenerhaushalt.jpg
 people:
 - name: Anna Alberts
   role: Projektleitung
-- name: Michael Peters
-  role: Data Scientist
 - name: Edgar Zanella Alvarenga
   role: Developer
 contact:

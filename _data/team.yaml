@@ -58,9 +58,9 @@
   bio: "Juliane unterstützt die OKF als Assistenz der Geschäftsführung und hilft außerdem den Demokratielaboren bei der Zahlen- und Tabellenjonglage. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit Cybercontext, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen und des FIfF. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
   bio_en: "Juliane works for the OKF as assistance to the management and also suppports the Demokratielabore project with their finances."
   mail: juliane.krueger@okfn.de
-  twitter: 
+  twitter:
   website:
-  github: 
+  github:
 
 - name: Sebastian Seitz
   img: sebastianseitz
@@ -245,8 +245,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Michael arbeitet seit Oktober 2016 als Datenanalyst bei der Open Knowledge Foundation im Bereich Finanztransparenz. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und betreut insbesondere das Projekt OffenerHaushalt.de. Zudem koordiniert er den zivilgesellschaftliche Open Government Netzwerk, welches sich für offenes Regierungs- und Verwaltungshandeln im Rahmen der deutschen Teilnahme an der Open Government Partnership."
-  bio_en: "Michael works as a Data Analyst in the field of Open Government mostly focused on financial transparency. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the Open Government Netzwerk, the German civil society network, which advocates making the German government more open, accountable, and responsive to citizens."
+  bio: "Michael betreut die Code For Germany Community und arbeitet gemeinsam mit den OK Labs an nützlichen Anwendungen rund um offene Daten. Zudem koordiniert er das zivilgesellschaftliche Open Government Netzwerk, welches sich für mehr offenes Regierungs- und Verwaltungshandeln einsetzt. Michael hat Volkswirtschaft (M.Sc.) und Politikwissenschaft (B.A.) studiert und interessiert sich insbesondere für Netzpolitik. Er arbeitet seit 2016 bei der Open Knowledge Foundation."
+  bio_en: "Michael organizes the Code For Germany community and works together with the OK Labs on useful applications around open data. He also coordinates the Open Government Civil Society Network, which advocates for more Open Government in Germany. Michael studied economics (M.Sc.) and political science (B.A.) and is particularly interested in digital policy issues. He has been with the Open Knowledge Foundation since 2016."
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
@@ -778,7 +778,7 @@
   bio: "Tanja ist seit 2017 Projektleitung bei Jugend hackt. Zuvor hat sie eine deutschlandweite Initiative für frühe MINT-Bildung mit aufgebaut und in verschiedenen IT-Unternehmen gearbeitet. Sie ist überzeugt, dass digitale Technologien gut für die Gesellschaft sind - wenn wir sie gut machen. Deshalb arbeitet sie sehr gern an Jugend hackt, einem Projekt, das junge Menschen ermutigt, eine positive Vision für die digitale Zukunft zu entwickeln."
   bio_en: "Tanja is project lead of Jugend Hackt since October 2017. Before joining OKF, she has been building up a nationwide initiative supporting early-education in mathematics, tech and science. Previously, she worked for different IT-companies. Tanja is convinced that digital technology is good for our society - as long as we use it well. That’s why she loves working on Jugend Hackt, a project encouraging young people to develop a positive vision for our digital future."
   mail: "tanja.zagel@okfn.de"
-  twitter: 
+  twitter:
   website:
 
 - name: Nadine Stammen
@@ -802,8 +802,5 @@
   bio: "Lea ist seit September 2017 bei der OKF und unterstützt als studentische Mitarbeiterin die Demokratielabore. Sie studiert Politikwissenschaften an der FU Berlin und beschäftigt sich außerdem im Rahmen des Europäischen Jugendparlaments mit politischer Jugendbildung im Zusammenhang mit Medien. "
   bio_en: "Lea has been working for the OKF since September 2017 in the project Demokratielabore. She studies Political Science at the FU Berlin and, working with the European Youth Parliament, explores the significance of media in policial youth education. "
   mail: "lea.pfau@okfn.de"
-  twitter: 
+  twitter:
   website:
-
-
-
