@@ -50,7 +50,10 @@
 <body>
 
 {% include header.html %}
-
+{% if page.home %}
+<div data-component="dismissible-item" style="color: #222; font-size: 16px; line-height: 22px; position: fixed; bottom:20px; left:10px; width: 100%; margin:10px; z-index:10000; overflow: hidden; padding:0 50px; max-width:620px"></div>
+<script type="text/javascript" src="https://offenerhaushalt.de/static/js/banner.js"></script>
+{% endif %}
 <main id="main-content">
   {% if page.home %}
   {{ content }}
