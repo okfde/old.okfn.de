@@ -10,7 +10,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Berlin Doppelhaushalt 2018/2019 im neuem Design und mit erweiterten Funktionen" 
 ---
 
