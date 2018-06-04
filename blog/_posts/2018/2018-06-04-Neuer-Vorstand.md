@@ -12,7 +12,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt"
 ---
 
