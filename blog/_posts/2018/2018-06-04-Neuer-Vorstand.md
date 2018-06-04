@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2018-06-04
 image:
-  src: /files/blog/2018/06/Screen Shot 2018-06-04 at 18.21.49.png
+  src: /files/blog/2018/06/OKF.gif
   title: wave
   license: 
   license_url: 
