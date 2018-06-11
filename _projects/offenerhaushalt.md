@@ -1,15 +1,15 @@
 ---
-type: archive
+type: politics
 title: "Offener Haushalt"
 layout: project
 url: http://offenerhaushalt.de/
 background: backgrounds/offenerhaushalt.jpg
 img: projects/offenerhaushalt.jpg
 people:
-- name: Friedrich Lindenberg
+- name: Anna Alberts
   role: Projektleitung
-- name: Michael Peters
-  role: Data Scientist
+- name: Edgar Zanella Alvarenga
+  role: Developer
 contact:
   website: http://offenerhaushalt.de
   twitter: offenerhaushalt

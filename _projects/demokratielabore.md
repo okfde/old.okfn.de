@@ -8,14 +8,14 @@ people:
     role: Projektleitung
   - name: Jasmin Helm
     role: Projektmanagerin 
-  - name: Saadya Windauer
-    role: Projektmanagerin 
   - name: Matthias Löwe
     role: Projektmanager 
   - name: Nadine Stammen
-    role: Design Lead
+    role: Design
   - name: Leonard Wolf
     role: Studentischer Mitarbeiter
+  - name: Lea Pfau
+    role: Studentische Mitarbeiterin
 contact:
   website: http://demokratielabore.de
   twitter: demokratielabs

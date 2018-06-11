@@ -66,9 +66,7 @@ Open Knowledge Foundation Deutschland e.V. was founded in 2011.
 
 ## Recognition as a charitable foundation
 
-Here is our recognition as a charitable foundation in German:
-
-"Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin (Steuernummer 27/674/52428) vom 27.12.2012 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Our work is exempt from corporation tax in accordance with § 5 Paragraph 1 No. 9 of the Corporation Tax Act and from trade tax in accordance with § 3 No. 6 of the Trade Tax Act due to the promotion of science and research as well as the promotion of popular and vocational training and student assistance after the last [exemption notice of the Tax Office for Corporations I, Berlin of 20.04.2018](/files/verein/Freibtellungsbescheid-2018-04-20.pdf).
 
 Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar."
 
@@ -76,6 +74,8 @@ Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar."
 
 We have published our first annual activity report in 2011. On our blog and in our newsletter, we report on our activities on a monthly basis. Here are our annual activity reports:
 
+* [Activity report 2017](/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
+* [Activity report 2016](/files/verein/OKFDE-Taetigkeitsbericht-2016.pdf)
 * [Activity report 2015](/files/verein/OKFDE-Taetigkeitsbericht-2015.pdf)
 * [Activity report 2014](/files/verein/OKFDE-Taetigkeitsbericht-2014.pdf)
 * [Activity report 2013](/files/verein/OKFDE-Taetigkeitsbericht-2013.pdf)
@@ -85,6 +85,11 @@ We have published our first annual activity report in 2011. On our blog and in o
 Find more information on our projects [here](/projekte/).
 
 ## Funding
+
+
+In 2017 OKF DE has raised 1.822.218,56 € from membership payments and benefits. Moreover, there have been 241.905,45 € from turnover proceeds (business operations). Total revenue was 2.066.047,51 €. Total expenditure was 2.112.418,39 €. The surplus for 2017 was -46.370,88 €.
+
+In 2016 OKF DE has raised 1.060.168,40 € from membership payments and benefits. Moreover, there have been 235.885,75 € from turnover proceeds (business operations). Total revenue was 1.296.054,15 €. Total expenditure was 1.243.415,95 €. The surplus for 2016 was 52.638,20 €.
 
 In 2015 OKF DE has raised 817.283,02 € from membership payments and benefits (Ideeller Bereich) plus an additional 0,12 € from asset management. Moreover, there have been 161.989,69 € from turnover proceeds (business operations). Total revenue was 979.272,83 €. Total expenditure was 888.650,90 €. The surplus for 2015 was 90.621,93 €.
 
@@ -104,6 +109,8 @@ The majority of the financial benefits and proceeds is earmarked to the executio
 
 The biggest item in the application of funds were expenditures for the organisation and execution of projects and events as well as the payment of wages and remunerations. OKF DE currently employs an equivalent of roughly 18,5 full time staff.
 
+* [Balance Sheet 2017](/files/verein/OKF-DE-Gewinnermittlung-kurz-2017.pdf)
+* [Balance Sheet 2016](/files/verein/OKF-DE-Gewinnermittlung-kurz-2016.pdf)
 * [Balance Sheet 2015](/files/verein/OKF-DE-Gewinnermittlung-kurz-2015.pdf)
 * [Balance Sheet 2014](/files/verein/OKF-DE-Gewinnermittlung-kurz-2014.pdf)
 * [Balance Sheet 2013](/files/verein/OKF-DE-Gewinnermittlung-kurz-2013.pdf)

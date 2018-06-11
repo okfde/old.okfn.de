@@ -1,6 +1,6 @@
 ---
 type: politics
-title: AK OGP
+title: Open Gov Netzwerk
 url:
 img: projects/ogp.png
 layout: project
@@ -15,9 +15,8 @@ contact:
 de:
   subtitle: ""
   content: |-
-    Als Teil des [Arbeitskreis OGP](https://opengovpartnership.de/) setzen wir uns für die aktive Mitwirkung Deutschlands in der
-    [Open Government Partnership (OGP)](http://www.opengovpartnership.org/) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein. Wir koordinieren den Arbeitskreis in enger Kooperation
-    mit der [Stiftung Neue Verantwortung (SNV)](http://www.stiftung-nv.de/).
+    Als Teil des [Open Government Netzwerks](https://opengovpartnership.de/) setzen wir uns für die aktive Mitwirkung Deutschlands in der
+    [Open Government Partnership (OGP)](http://www.opengovpartnership.org/) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk. 
 
     Die Bundesregierung hat im April 2016 angekündigt in der internationalen Multi-Akteurs-Partnerschaft teilzunehmen. Die Ziele der
     OGP sind konkrete Verpflichtungen von Regierungen für Transparenz, Bürgerbeteiligung, Korruptionsbekämpfung und der Einsatz

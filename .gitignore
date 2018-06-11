@@ -8,6 +8,5 @@ __posts/
 .idea/
 .bundle/
 .gem/
-blog/_posts/2017/2017-04-05-open data-aus-sicht-von -einem-14-jährigen.md
-
-blog/_posts/2017/2017-04-05-open data-aus-sicht-von -einem-14-jährigen.md
+vendor/
+Thumbs.db

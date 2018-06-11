@@ -10,7 +10,7 @@ tags:
  - codeforgermany
  - Ausschreibung
  - community
- - jobs
+ - Jobs
 title: "Community Organizer für Code for Germany m/w (50%)"
 ---
 

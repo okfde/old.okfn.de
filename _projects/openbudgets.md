@@ -8,10 +8,6 @@ background: backgrounds/openbudgets.png
 people:
 - name: Anna Alberts
   role: Projektleitung
-- name: Bela Seeger
-  role: Projektassistenz
-- name: Michael Peters
-  role: Data Scientist
 contact:
   website: http://openbudgets.eu
   twitter: OpenBudgetsEU

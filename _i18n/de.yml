@@ -16,7 +16,7 @@ titles:
   Impressum: Impressum
   Tags: Tags im Blog
   Jobs: Stellenangebote & Praktika
-  Spenden: Spenden
+  Spenden: Unterstützen
 themen:
   Themen: Themen
   Mehr: mehr erfahren
@@ -73,16 +73,14 @@ pagination:
 start:
   Slogan: Offenes Wissen<br/>für die digitale Gesellschaft
   Intro: >
-    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br/>
+    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br class="hidden-xs hidden-sm"/>
     der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt.
   Willkommen: >
     Hier kannst du mehr über unsere <a href="/verein/">Organisation</a>, unsere <a href="/mission/">Ziele</a> und unsere <a href="/projekte/">Projekte</a> erfahren.
-  Spenden: Spenden
+  Spenden: Unsere Arbeit ist
   SpendenText: >
-    Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-kommerziell. Fast alle unserer Projekte leben vom ehrenamtlichen Engagement ihrer Unterstützer. Doch auch ehrenamtliches Engagement kostet Geld.
-    Deshalb freuen wir uns über jede Spende, damit wir den Menschen, die sich unter dem Dach der Open Knowledge Foundation Deutschland für freies Wissen, offene Daten und Beteiligung einsetzen, weiterhin eine gute
-    Infrastruktur bieten können. Gern nehmen wir auch projektbezogene Sachspenden an!
-  SpendenJa: Find ich gut. Da will ich spenden.
+    Bitte spenden Sie uns, damit wir uns weiterhin effektiv für freies Wissen, offene Daten und Beteiligung einsetzen können.
+  SpendenJa: Jetzt spenden!
   SpendenNein: Stop. Erstmal mehr erfahren.
   Newsletter: Newsletter
   NewsletterText: >
@@ -91,8 +89,14 @@ start:
   AusUnseremBlog: Aus unserem Blog
 footer:
   license: >
-    Open Knowledge Foundation Deutschland e.V. ist ein eingetragener Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben,
+    Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben,
     nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert.
+  piwik_hint: >
+    okfn.de nutzt statt den üblichen externen Dienstleistern die datenschutzfreundlichere Technologie von
+    <a href="https://matomo.org">Matomo</a>, um statistische Auswertungen der Seitennutzung zu erhalten. Wenn sie dies
+    nicht wollen, <a href="https://traffic.okfn.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de">klicken
+    Sie bitte hier und entfernen Sie den Haken</a>. Näheres in <a href="/impressum/#datenschutzerklaerung">unserer
+    Datenschutzerklärung</a>.
 impressum:
   Adresse: Vereinsadresse
   Kontakt: Kontakt

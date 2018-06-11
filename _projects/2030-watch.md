@@ -1,13 +1,15 @@
 ---
-type: politics
+type: research
 title: 2030Watch
-img: projects/2030-Watch.jpg
+img: projects/2030-watch.jpg
 layout: project
 people:
   - name: Rebecca Varghese Buchholz
     role: Projektleitung
   - name: John David Langlo
     role: Projektassistenz
+  - name: Saadya Windauer
+    role: Projektmanagerin 
 contact:
   website: http://2030-watch.de
   github: https://github.com/okfde/2030-watch.de

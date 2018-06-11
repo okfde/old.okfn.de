@@ -2,13 +2,15 @@
 type: education
 title: edulabs
 layout: project
-img: projects/edulabs_square.jpg
+img: projects/edulabs_square_new.jpg
 url: https://edulabs.de/
 people:
   - name: Markus Neusch&auml;fer
     role: Projektleitung
   - name: Maximilian Voigt
     role: Projektmanager
+  - name: Edgar Zanella Alvarenga
+    role: Entwickler
 contact:
   website: https://edulabs.de/
   twitter:

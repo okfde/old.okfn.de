@@ -6,11 +6,6 @@ img: projects/codingdavinci.jpg
 background: backgrounds/codingdavinci.jpg
 url: https://codingdavinci.de
 video: "https://www.youtube.com/embed/i6bgXZH9CqY"
-people:
-  - name: Helene Hahn
-    role: Projektleitung
-  - name: Knut Perseke
-    role: technischer Support
 contact:
   website: https://codingdavinci.de
   twitter: codingdavinci
