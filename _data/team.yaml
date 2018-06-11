@@ -20,7 +20,7 @@
   mail: nadine.evers@okfn.de
   twitter:
   website:
-  
+
 - name: Helene Hahn
   img: helenehahn
   staff: 1
@@ -52,8 +52,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Jasmin hat Soziologie an der Universität Potsdam studiert und unterstützt seit Oktober 2016 die Datenschule im Bereich Kommunikation. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie."
-  bio_en: "Jasmin studied sociology at Potsdam University and supports the project \"Datenschule\" since October 2016. The handling of data in a responsible way is a main concern for her."
+  bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit Oktober 2016 bei der OKF im Bereich Kommunikation, aktuell in den Projekten Datenschule und Demokratielabore. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie."
+  bio_en: "Jasmin studied sociology at Potsdam University and supports the projects \"Datenschule\" and \"Demokratielabore\" since October 2016. The handling of data in a responsible way is a main concern for her."
   mail: jasmin.helm@okfn.de
   twitter:
   website:
@@ -122,7 +122,7 @@
 
 - name: Eileen Wagner
   img: eileenwagner
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
@@ -164,8 +164,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist im Bereich Finanztransparenz bei der Open Knowledge Foundation. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und arbeitet in den Projekten: Subsidystories.eu, OpenBudgets.eu und OffenerHaushalt.de. Außerdem koordiniert er den zivilgesellschaftlichen Arbeitskreis zur Open Government Partnership in Deutschland, welcher sich für offeneres, transparenteres und partizipativeres Regierungshandeln einsetzt." 
-  bio_en: "Michael joined OKF Germany as a Data Scientist in the field of fiscal transparency. He works for the projects: SubsidyStories.eu, OpenBudgets.eu and OffenerHaushalt.de. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the civil society working group of the Open Government Partnerhsip, which aims towards making the German government more open, accountable, and responsive to citizens." 
+  bio: "Michael arbeitet seit Oktober 2016 als Data Scientist im Bereich Finanztransparenz bei der Open Knowledge Foundation. Er hat Volkswirtschaft mit einem Fokus auf Finanzwissenschaft studiert und arbeitet in den Projekten: Subsidystories.eu, OpenBudgets.eu und OffenerHaushalt.de. Außerdem koordiniert er den zivilgesellschaftlichen Arbeitskreis zur Open Government Partnership in Deutschland, welcher sich für offeneres, transparenteres und partizipativeres Regierungshandeln einsetzt."
+  bio_en: "Michael works as a Data Analyst in the field of Open Government mostly focused on financial transparency. He holds a Masters in Public Economics and advocates for more transparent public finances. Additionally, he coordinates the civil society working group of the Open Government Partnership, which aims towards making the German government more open, accountable, and responsive to citizens."
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
@@ -328,15 +328,15 @@
 
 - name: Stefan Wehrmeyer
   img: stefanwehrmeyer
-  staff: 0
-  board: 1
+  staff: 1
+  board: 0
+  board_alumni: 1
   advisory: 0
-  position: Beisitzer
-  bio: "Stefan Wehrmeyer ist Datenjournalist beim gemeinnützigen Recherchebüro CORRECT!V. Seit 2009 engagiert er sich für Open Data Nahverkehr und startete 2011 das Informationsfreiheitsportal [FragDenStaat.de](https://fragdenstaat.de/)."
-  bio_en: "Stefan Wehrmeyer is a data journalist at the investigative office CORRECT!V. Since 2009 he promotes Open Data Nahverkehr and started the Freedom of Information (FOI) portal FragDenStaat.de in 2009."
+  bio: "Stefan Wehrmeyer engagiert sich seit 2009 für Open Data. Im Jahr 2011 startete er das Informationsfreiheitsportal [FragDenStaat.de](https://fragdenstaat.de/)."
+  bio_en: "Since 2009 Stefan Wehrmeyer promotes Open Data and he started the Freedom of Information (FOI) portal FragDenStaat.de in 2011."
   mail: stefan.wehrmeyer@okfn.de
   twitter: stefanwehrmeyer
-  website: http://stefanwehrmeyer.com
+  website: https://stefanwehrmeyer.com
   github: stefanw
 
 - name: Lucy Chambers
@@ -445,7 +445,7 @@
   twitter: m_neujeffski
   website:
   github: mojeffski
-  
+
 - name: Rebecca Varghese Buchholz
   title:
   img: rebeccabuchholz
@@ -453,13 +453,13 @@
   board: 0
   advisory: 0
   position:
-  bio: "Seit April 2017 leitet Rebecca 2030Watch, das Monitoring-Projekt zur deutschen Nachhaltigkeitsstrategie. Davor war Rebecca Referentin für Welthandel und Investitionsabkommen bei Traidcraft in London und wissenschaftliche Mitarbeiterin bei dem United Nations Research Institute (UNRISD) for Social Development in Genf. Rebecca studierte Volkswirtschaft mit Schwerpunkt Entwicklungspolitik an der School of African and Oriental Studies (University of London) und der University of Cambridge und hat ein Graduate Diploma in Law (London College of Law)." 
+  bio: "Seit April 2017 leitet Rebecca 2030Watch, das Monitoring-Projekt zur deutschen Nachhaltigkeitsstrategie. Davor war Rebecca Referentin für Welthandel und Investitionsabkommen bei Traidcraft in London und wissenschaftliche Mitarbeiterin bei dem United Nations Research Institute (UNRISD) for Social Development in Genf. Rebecca studierte Volkswirtschaft mit Schwerpunkt Entwicklungspolitik an der School of African and Oriental Studies (University of London) und der University of Cambridge und hat ein Graduate Diploma in Law (London College of Law)."
   bio_en: "Since April 2017, Rebecca manages 2030Watch, a civil society monitoring project of SDGs’ implementation in Germany. Prior to joining OKF, Rebecca worked as a Senior Policy Adviser for international trade and investment treaties at Traidcraft in London and as a Research Analyst for the United Nations Research Institute (UNRISD) for Social Development in Geneva. Rebecca graduated in Economics and Development Studies from the School of African and Oriental Studies (BA hons) and the University of Cambridge (MPhil) and holds a Graduate Diploma in Law (London College of Law)."
   mail: "rebecca.buchholz@okfn.de"
   twitter:
   website:
   github:
-  
+
 - name: John David Langlo
   title:
   img: johnlanglo
@@ -467,7 +467,7 @@
   board: 0
   advisory: 0
   position:
-  bio: "John arbeitet als studentische Hilfskraft für 2030Watch und ist dort vornehmlich für Kommunikation zuständig. In Wien hat John internationale Entwicklungspolitik studiert und befindet sich derzeit im Master „Contemporary European Studies: politics, policy and society“ an der University of Bath und der HU Berlin. Praktika absolvierte er unter anderem bei der deutschen Vertretung im UN-Menschenrechtsrat in Genf und beim Deutschlandfunk Kultur in Berlin." 
+  bio: "John arbeitet als studentische Hilfskraft für 2030Watch und ist dort vornehmlich für Kommunikation zuständig. In Wien hat John internationale Entwicklungspolitik studiert und befindet sich derzeit im Master „Contemporary European Studies: politics, policy and society“ an der University of Bath und der HU Berlin. Praktika absolvierte er unter anderem bei der deutschen Vertretung im UN-Menschenrechtsrat in Genf und beim Deutschlandfunk Kultur in Berlin."
   bio_en: "John is a working student at 2030Watch and mainly responsible for communication and research assistance. In Vienna John majored in development studies and currently studies for his postgraduate degree in „Contemporary European Studies: politics, policy and society“ at the Humboldt University Berlin. As an intern John worked for the German permanent mission to the UN Human Rights Council in Geneva and Deutschlandfunk Kultur broadcasting in Berlin."
   mail: "john.langlo@okfn.de"
   twitter:
@@ -481,8 +481,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Nach seinem Schulabschluss im Juli 2016 begann er seinen Bundesfreiwilligendienst bei der Open Knowledge Foundation. Er ist vorrangig für „Jugend hackt“ und „FragDenStaat“ tätig und unterstützt die jeweiligen Teams. Leonard ist außerdem ehrenamtlich bei mehreren Organisationen und Vereinen engagiert, die sich mit Jugendbeteiligung und Demokratiepädagogik auseinandersetzen. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
-  bio_en: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Im Juli 2016 schloss er seine Schullaufbahn ab und entschied sich dann für einen Bundesfreiwilligendienst. Diesen macht er nun seit September 2016  bei der Open Knowledge Foundation Deutschland. Dabei ist er vorrangig für „Jugend hackt“ und „Frag den Staat“ tätig und unterstützt die jeweiligen Teams. Leonard ist darüber hinaus auch ehrenamtlich bei mehreren Organisationen und Vereinen, die sich mit Jugendbeteiligung und Demokratiepädagogik auseinandersetzen, engagiert. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
+  bio: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Nach seinem Schulabschluss im Juli 2016 begann er seinen Bundesfreiwilligendienst bei der Open Knowledge Foundation. Seit September 2017 ist Leonard als studentischer Mitarbeiter bei den Demokratielaboren. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
+  bio_en: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Nach seinem Schulabschluss im Juli 2016 begann er seinen Bundesfreiwilligendienst bei der Open Knowledge Foundation. Seit September 2017 ist Leonard als studentischer Mitarbeiter bei den Demokratielaboren. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
   mail: "leonard.wolf@okfn.de"
   twitter: woleonard
   website:
@@ -496,10 +496,24 @@
   position:
   bio: "Mat tüftelt seit 2017 an verrückten Workshopformaten der FamilienLabore und der Demokratielabore. Als Interaktionsdesigner setzt er sich generell für einen künstlerischen und kreativen Umgang mit Spielen und Spielmechaniken ein. In Form von Workshops, Talks und Festivals engagiert er sich darüber hinaus in der Initiative Creative Gaming, veranstaltet Spielkultur-Events wie temporäre Escape-Games, XBox-Rock Battles, GameJams und Nacherzähl-Wettbewerbe mit dem Gamestorm-Team, präsentiert und moderiert eine Machinima-Kinoshow und co-organisiert mit A MAZE. Veranstaltungen wie das europäische Indiegames Festival. Nebenbei koordiniert Mat und das Team des Code Week Awards weiterhin die Aktivitäten der deutschen Code Week."
   bio_en: "Mat is working on crazy workshops for the FamilyLabs and the DemocracyLabs since 2017. As an interaction designer, he is researching playful interaction and gives workshops around the world. He is also engaged in workshops, talks and festivals of the Initiative Creative Gaming to establish an artistic and creative use of games by kids, stages gamejams and game-culture events like temporary escape games, XBox-Rock Battles or retell contests with the Gamestorm-team, shows game movies at a Machinima cinema and co-organizes A MAZE. events like the European indiegamefestival. In addition, Mat is coordinating the activities of the German Code Week together with the old Code Week Award team."
-  mail: "matthiasloewe@okfn.de"
+  mail: "matthias.loewe@okfn.de"
   twitter: sp4c31nv4d3r
   website: matthiasloewe.eu
-  
+
+- name: Jessica Binsch
+  title:
+  img: jessicabinsch
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Jessica gehört zum Team des Prototype Fund. Sie kümmert sich um Kommunikation und arbeitet an der Weiterentwicklung des Projekts mit. Jessica hat zuvor mehrere Jahre lang als Journalistin gearbeitet. Sie hat für überregionale Medien in Deutschland über Digitalisierung, Netzpolitik und Netzaktivismus berichtet. Sie setzt sich dafür ein, dass mehr Menschen die Digitalisierung mitgestalten können."
+  bio_en: "Jessica is part of the Prototype Fund team. She is the communications lead and contributes to strategic development of the project. Previously, Jessica has worked as a journalist for several years. She has covered technology with a focus on tech politics, activism and civil society, and has written for large German media outlets. Her goal is to contribute to making technology more open and to enable more people to contribute to this space."
+  mail: "jessica.binsch@okfn.de"
+  twitter: jnb
+  website:
+  github:
+
 - name: Xiaowei Chen
   title:
   img: xiaoweichen
@@ -666,8 +680,33 @@
   board: 0
   advisory: 0
   position:
-  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei den Demokratielaboren. "
-  bio_en: ""
+  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei den Demokratielaboren."
+  bio_en: "Saadya has been working for the Open Knowledge Foundation since January 2017 and is a projekt manager at the Dmokratielabore."
   mail: saadya.windauer@okfn.de
   twitter:
   website:
+
+- name: Lea Schubert
+  img: leaschubert
+  title:
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Lea unterstützt die OKF seit September 2017 im Rahmen ihres Freiwilligendienstes beim FJ Beteiligung und arbeitet aktuell bei Jugend hackt und Frag den Staat mit."
+  bio_en: "Lea has been working for the Open Knowledge Foundation since September 2017 and joined the projects Jugend hackt and Frag den Staat."
+  mail: lea.schubert@okfn.de
+  twitter:
+  website:
+
+- name: Tanja Zagel
+  img: tanjazagel
+  staff: 1
+  board: 0
+  advisory: 0
+  position:
+  bio: "Tanja ist seit 2017 Projektleitung bei Jugend hackt. Zuvor hat sie eine deutschlandweite Initiative für frühe MINT-Bildung mit aufgebaut und in verschiedenen IT-Unternehmen gearbeitet. Sie ist überzeugt, dass digitale Technologien gut für die Gesellschaft sind - wenn wir sie gut machen. Deshalb arbeitet sie sehr gern an Jugend hackt, einem Projekt, das junge Menschen ermutigt, eine positive Vision für die digitale Zukunft zu entwickeln."
+  bio_en: "Tanja is project lead of Jugend Hackt since October 2017. Before joining OKF, she has been building up a nationwide initiative supporting early-education in mathematics, tech and science. Previously, she worked for different IT-companies. Tanja is convinced that digital technology is good for our society - as long as we use it well. That’s why she loves working on Jugend Hackt, a project encouraging young people to develop a positive vision for our digital future."
+  mail: "tanja.zagel@okfn.de"
+  twitter: Hrglbrmpf
+website:
