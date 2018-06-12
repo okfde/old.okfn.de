@@ -46,6 +46,9 @@
   <link rel="alternate" type="application/atom+xml" title="{% t blog.FeedTitle %}" href="{{ site.fullurl }}/atom.xml"/>
   <link rel="alternate" type="application/rss+xml" title="{% t blog.FeedTitle %}" href="{{ site.fullurl }}/feed/" />
   <link rel="shortcut icon" href="{{ site.staticurl }}images/favicon.ico">
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  {% endif %}
 </head>
 <body>
 
