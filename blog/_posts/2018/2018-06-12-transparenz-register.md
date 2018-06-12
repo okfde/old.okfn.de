@@ -8,7 +8,7 @@ image:
   title: frankieleon, A tale of three men
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
-canonical_url: http://irghts-url
+canonical_url: https://irights.info/artikel/transparenzregister-diesmal-bitte-transparent/29113
 tags:
 - Transparenzregister
 - Open Data
