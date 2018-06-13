@@ -64,9 +64,10 @@
 
 - name: Sebastian Seitz
   img: sebastianseitz
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Sebastian leitet seit 2017 die Demokratielabore bei der Open Knowledge Foundation Deutschland. Vorher hat er bei einer gemeinnützigen Stiftung in den Themenfeldern Digitale Bildung und Open Educational Resources gearbeitet. In Bielefeld hat er seinen Abschluss in Erziehungswissenschaft mit den Schwerpunkten Schulpädagogik und Medien gemacht. Sebastian glaubt, dass freie Inhalte Treiber von Innovation im Bildungswesen sein können und ist großer Freund von Open-Source-Software und deren Einsatz in Schule und Unterricht."
   bio_en: "Sebastian is in charge of the Demokratielabore at the Open Knowledge Foundation Germany. Before that he worked for a non-profit foundation in the field of digitization of education and Open Educational Resources. He made his diploma in educational science at Bielefeld University with a focus on school pedagogics and media. Sebastian believes in open content as a driver of innovation in the educational sector. He is a friend of open source software and its usage in schools and classrooms."
