@@ -16,9 +16,6 @@ card: true
 published: false
 title: "make.city - citylab.berlin - Einladung Rundgang & Diskussion 17.06 11:00" 
 ---
-
-# make.city - citylab.berlin - Einladung Rundgang & Diskussion 17.06 11:00
-
 <h1><a id="makecity__citylabberlin__Einladung_Rundgang__Diskussion_1706_1100_0"></a>make.city - citylab.berlin - Einladung Rundgang &amp; Diskussion 17.06 11:00</h1>
 <p>Es bewegt sich was.<br>
 Das Konzept <a href="http://citylab.berlin">citylab.berlin</a> - Zentrum. Labor. Experimentierfeld, ein Ort für beflügelte Ideen, Experimentierfreudigkeit und digitale Erneuerung - findet regen Anklang und so gibt es am kommenden Sonntag im Rahmen von <a href="http://makecity.berlin">makecity.berlin</a> kurzfristig einen Rundgang mit anschliessender Projektpräsentation- und Diskussionsveranstaltung.<br>
