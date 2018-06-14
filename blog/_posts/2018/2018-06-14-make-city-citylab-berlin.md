@@ -1,6 +1,6 @@
 ---
 authors: 
-- Walter Palmetshofer
+- OKF
 date: 2018-06-14
 image:
   src: /files/blog/2018/06/citylab-lageplan.jpg
