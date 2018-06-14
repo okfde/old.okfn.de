@@ -34,4 +34,4 @@ Updates folgen.
 
 Die <a href="https://www.openstreetmap.org/relation/3133647#map=18/52.48375/13.38919">Location</a> ist der ehemalige Flughafen.
 
-Anschliessend geht es noch zur [.](http://www.floatinguniversity.org/en/)
+Anschliessend geht es noch zur [~](http://www.floatinguniversity.org/en/).
