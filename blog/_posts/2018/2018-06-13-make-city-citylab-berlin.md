@@ -32,4 +32,4 @@ Blick nach innen: Umsetzung des CityLabs in Berlin, was brauchen Civic Tech Orga
 Konkrete Civic Tech-Anwendungsbeispiele z.B. Mediale Pfade, cadus, Freifunk, FixMyBerlin (Projektvorstellung u.a. Boris Hekele,): 15 min<br>
 Updates folgen.
 
-Diee <a href="https://www.openstreetmap.org/relation/3133647#map=18/52.48375/13.38919">Location</a> ist der ehemalige Flughafen.
+Die <a href="https://www.openstreetmap.org/relation/3133647#map=18/52.48375/13.38919">Location</a> ist der ehemalige Flughafen.
