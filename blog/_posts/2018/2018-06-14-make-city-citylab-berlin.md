@@ -37,7 +37,7 @@ Die <a href="https://www.openstreetmap.org/relation/3133647#map=18/52.48375/13.3
 Anschliessend geht es noch zur [~](http://www.floatinguniversity.org/en/).
 
 
-
+<br><br>
 <b>UPDATE: Kurzer Bericht von der Veranstaltung am 17.06</b>. 
 
 Hier sind die [Slides](https://docs.google.com/presentation/d/1zqa12hnGw_l95aHFg9jEltqVb7UMX9T6yO1XaK65G7g/edit#slide=id.p6) von der Veranstaltung. (Dank an [KleineAnfragen](https://kleineanfragen.de)!)
