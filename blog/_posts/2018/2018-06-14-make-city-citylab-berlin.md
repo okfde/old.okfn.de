@@ -38,7 +38,7 @@ Anschliessend geht es noch zur [~](http://www.floatinguniversity.org/en/).
 
 <a id="update"></a>
 
-Kurzer Bericht von der Veranstaltung. 
+<b>Kurzer Bericht von der Veranstaltung</b>. 
 
 Hier sind die [Slides](https://docs.google.com/presentation/d/1zqa12hnGw_l95aHFg9jEltqVb7UMX9T6yO1XaK65G7g/edit#slide=id.p6) von der Veranstaltung. (Dank an [KleineAnfragen](https://kleineanfragen.de)!)
 
@@ -48,8 +48,9 @@ Nächster Programmpunkt:
 Es war eine wunderbare Führung durch das Flughafengelände. 
 Danke an alle interessierten TeilnehmerInnen (wir zählten 42), #makecity Team, Hr Rabe und Hr Kühne für den offenen Austausch! 
 
-![Innenhof](/files/blog/2018/06/20180617_innenhof.jpg "Innenhof")
-Vernetzungstreffen
+![Innenhof](/files/blog/2018/06/20180617_innenhof.jpg "Innenhof")Innenhof
+
+![Objekt](/files/blog/2018/06/20180617-objektderbegierde.jpg "Objekt") Objekt
 
 Weitere sehenswerter Bilder sind [hier](https://github.com/okfde/okfn.de/tree/master/files/blog/2018/06).
 
