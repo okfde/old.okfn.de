@@ -44,6 +44,7 @@ Hier sind die [Slides](https://docs.google.com/presentation/d/1zqa12hnGw_l95aHFg
 
 Nächster Programmpunkt:
 <b>27. Juni [MAKE CITY, MAKE BERLIN: IMPULSE BERLIN](http://makecity.berlin/en/events/make-city-make-berlin-impulse-berlin/)</b>
+<b>29. Juni Hinweis 29.06 17:00 Zollgarage - Informationsveranstaltung zur Entwicklung des Tempelhofers Flughafen</b>
 
 Es war eine wunderbare Führung durch das Flughafengelände. 
 Danke an alle interessierten TeilnehmerInnen (wir zählten 42), #makecity Team, Hr Rabe und Hr Kühne für den offenen Austausch! 
