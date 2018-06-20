@@ -42,10 +42,10 @@ Anschliessend geht es noch zur [~](http://www.floatinguniversity.org/en/).
 
 Hier sind die [Slides](https://docs.google.com/presentation/d/1zqa12hnGw_l95aHFg9jEltqVb7UMX9T6yO1XaK65G7g/edit#slide=id.p6) von der Veranstaltung. (Dank an [KleineAnfragen](https://kleineanfragen.de)!)
 
-Nächster Programmpunkt:
+Nächste Termine:<br>
 <b>27. Juni [MAKE CITY, MAKE BERLIN: IMPULSE BERLIN](http://makecity.berlin/en/events/make-city-make-berlin-impulse-berlin/)</b><br>
 <b>29. Juni 17:00 Zollgarage - Informationsveranstaltung zur Entwicklung des Tempelhofers Flughafen</b>
-
+<br>
 Es war eine wunderbare Führung durch das Flughafengelände. 
 Danke an alle interessierten TeilnehmerInnen (wir zählten 42), #makecity Team, Hr Rabe und Hr Kühne für den offenen Austausch! 
 
