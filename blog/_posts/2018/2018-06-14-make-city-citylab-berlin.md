@@ -53,7 +53,7 @@ Danke an alle interessierten TeilnehmerInnen (wir zählten 42), #makecity Team, 
 
 ![Objekt](/files/blog/2018/06/20180617-objektderbegierde.jpg "Objekt") Objekt
 
-Weitere sehenswerte Bilder sind [hier](https://drive.google.com/drive/folders/1vCq6jtPQJaxZp8iZaoyAQzLXG7YpQcHn).
+Weitere sehenswerte Bilder sind auf [flickr](https://www.flickr.com/photos/okfde/sets/72157670333544228/) oder [hier](https://drive.google.com/drive/folders/1vCq6jtPQJaxZp8iZaoyAQzLXG7YpQcHn).
 
 
 Für neugierige Personen nochmals die Empfehlung für die [Floating University](http://www.floatinguniversity.org/en/kalender/).
