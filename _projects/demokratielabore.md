@@ -4,9 +4,11 @@ title: Demokratielabore
 img: projects/demokratielabore.jpg
 layout: project
 people:
-  - name: Sebastian Seitz
+  - name: Tanja Zagel
     role: Projektleitung
   - name: Jasmin Helm
+    role: Projektmanagerin 
+  - name: Lydia Böttcher
     role: Projektmanagerin 
   - name: Matthias Löwe
     role: Projektmanager 
