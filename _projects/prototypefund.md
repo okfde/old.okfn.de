@@ -14,6 +14,8 @@ people:
     role: Program Management
   - name: Jessica Binsch
     role: Head of Communications and Outreach
+  - name: Katharina Meyer
+    role: Head of Communications and Outreach
   - name: Julia Kloiber
     role: Co-Founder
 contact:
