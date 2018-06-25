@@ -1,7 +1,7 @@
 ---
 authors: 
 - Walter Palmetshofer
-date: 2018-06-26
+date: 2018-06-25
 image:
   src: /files/blog/2018/06/eiti-oil-platform.jpg
   title: EITI
@@ -12,7 +12,7 @@ tags: EITI
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "EITI-Woche in Berlin" 
 ---
 Diese Woche findet in Berlin das [internationale Board-Meeting](https://eiti.org/document/40th-board-meeting) von [EITI](https://www.eiti.org) statt.
