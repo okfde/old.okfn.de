@@ -48,7 +48,7 @@ the extractives industries <br>
 19:30 - 22:00 Liquidity & Networking <br><br>
 
 <b>Freitag Board-Meeting</b><br>
-Mexikanische Delegation
+Mexikanische Delegation <br>
 WB und Extractives Global Programmatic Support (EGPS) 
 
 <b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.
