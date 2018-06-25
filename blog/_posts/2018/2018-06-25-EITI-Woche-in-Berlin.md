@@ -15,7 +15,7 @@ card: true
 published: false
 title: EITI Woche in Berlin" 
 ---
-Diese Woche findet in der Berlin das internationale Board-Meeting von [EITI](https://www.eiti.org) statt.
+Diese Woche findet in der Berlin das [internationale Board-Meeting](https://eiti.org/document/40th-board-meeting) von [EITI](https://www.eiti.org) statt.
 EITI steht für Extractive Industry Transparency Initiative und bemüht sich um die Offenlegung der Zahlungsströme im Rohstoffsektor. 
 Mehr Infos [hier](https://okfn.de/blog/2017/09/Erster-EITI-Bericht-veroeffentlicht/). ([D-EITI](http://d-eiti.de) publizierte 2017 den [ersten Bericht](www.d-eiti.de/wp-content/uploads/2017/08/1_D-EITI_Bericht_-fuer_-2016.pdf).<br>
 Im Rahmen des Board-Meetings gibt es folgende Veranstaltung von der bzw. für die Zivilgesellschaft.
