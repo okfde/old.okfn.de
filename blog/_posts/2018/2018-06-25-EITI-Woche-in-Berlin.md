@@ -55,5 +55,5 @@ WB und Extractives Global Programmatic Support (EGPS)
 
 Deutschland fällt hier eine wichtige Rolle zu, einerseits gilt es EITI-Standards die man erfolgreich vertritt auch international hochzuhalten (Arbeitsrechte, Verteidigung des Civic Spaces) bzw. innovative Ansätze voranzutreiben (Themen Tiefseebohrung, Erneuerbare Energie, ...) anderseits gilt es nachzuziehen (bzgl. Transparenzregister und Informationsfreiheit, ...) nachzuziehen.
 
-In diesem Sinne <i>Marmor, Stein und Eisen bricht, nur die verdeckten Zahlungsströme nicht.</i>
+In diesem Sinne <i>Marmor, Stein und Eisen bricht, nur die verdeckten Zahlungsströme nicht.</i><br>
 Mehr Information und Zutritt wo möglich eiti@okfn.de.
