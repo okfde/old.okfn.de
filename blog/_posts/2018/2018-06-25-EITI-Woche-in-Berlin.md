@@ -53,7 +53,7 @@ WB und Extractives Global Programmatic Support (EGPS)
 
 <b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.
 
-Deutschland fällt hier eine zwiespältige Rolle zu, einerseits gilt es EITI-Standards die man erfolgreich vertritt auch international hochzuhalten (Arbeitsrechte, Verteidigung des Civic Spaces) bzw. innovative Ansätze voranzutreiben (Themen Tiefseebohrung, Erneuerbare Energie, ...) anderseits gilt es nachzuziehn (bzgl. Transparenzregister und Informationsfreiheit, ...) nachzuziehen.
+Deutschland fällt hier eine wichtige Rolle zu, einerseits gilt es EITI-Standards die man erfolgreich vertritt auch international hochzuhalten (Arbeitsrechte, Verteidigung des Civic Spaces) bzw. innovative Ansätze voranzutreiben (Themen Tiefseebohrung, Erneuerbare Energie, ...) anderseits gilt es nachzuziehen (bzgl. Transparenzregister und Informationsfreiheit, ...) nachzuziehen.
 
-In diesem Sinne <i<>Marmor, Stein und Eisen bricht, nur die verdeckten Zahlungsströme nicht.</i>
+In diesem Sinne <i>Marmor, Stein und Eisen bricht, nur die verdeckten Zahlungsströme nicht.</i>
 Mehr Information und Zutritt wo möglich eiti@okfn.de.
