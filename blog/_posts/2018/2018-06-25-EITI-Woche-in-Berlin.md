@@ -27,13 +27,13 @@ mit [Publish What You Pay](http://www.publishwhatyoupay.org/learning/eiti-guide/
 International gab es die Unterzeichnung eines [Memorandum of Understanding](https://eiti.org/news/ogp-eiti-creating-transparency-circle) zwischen OGP und EITI. Deutschland ist eines jener wenigen Länder wo beides aktiv implementiert wird.
 
 
-![lila beide, orange OGP, hellblau EITI](/files/blog/2018/06/eiti-ogp-countries.png "joinging forces EITI-OGP")lila beide, orange OGP, hellblau EITI
+![lila beide, orange OGP, hellblau EITI](/files/blog/2018/06/eiti-ogp-countries.png "joinging forces EITI-OGP")orange OGP-Länder, hellblau EITI-Länder, violet EITI-OGP-Länder
 
 Aspects of Resource Extraction and EITI Wednesday,  9 – 11 am<br>
 09.00 Welcome Prof. Dr. Edda Müller, Transparency International Germany<br>
 09.10 Social Aspects and D-EITI - IGBCE (Industrial Union in the Mining, Chemical and Energy Industry)<br>
 09.20 Ecological Aspects and D-EITI - FÖS – Green Budget Germany German Forum on Environment & Development<br>
-09.30 EITI and the Ecological and Social Impact of Mining in Peru Cesar Gamboa, Derecho, Ambiente y Recursos Naturales (tbc)<br>
+09.30 EITI and the Ecological and Social Impact of Mining in Peru Cesar Gamboa, Derecho, Ambiente y Recursos Naturales<br>
 09.45 EITI and the Ecological and Social Impact of Mining in the Philippines Dr. Cielo Magno, Bantay Kita<br>
 10.00 Discussion Under the moderation of: Jürgen Maier, German Forum on Environment & Development<br>
 10.50 Announcing EITI & OGP Partnership - effects for CS - OKFDE & friends<br>
