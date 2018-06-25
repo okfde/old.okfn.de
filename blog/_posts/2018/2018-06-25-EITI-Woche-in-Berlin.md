@@ -27,7 +27,7 @@ mit [Publish What You Pay](http://www.publishwhatyoupay.org/learning/eiti-guide/
 International gab es die Unterzeichnung eines [Memorandum of Understanding](https://eiti.org/news/ogp-eiti-creating-transparency-circle) zwischen OGP und EITI. Deutschland ist eines jener wenigen Länder wo beides aktiv implementiert wird.
 
 
-![lila beide, orange OGP, hellblau EITI](/files/blog/2018/06/eiti-ogp-countries.png "joinging forces EITI-OGP")EITI-OGP-MOU
+![lila beide, orange OGP, hellblau EITI](/files/blog/2018/06/eiti-ogp-countries.png "joinging forces EITI-OGP")lila beide, orange OGP, hellblau EITI
 
 Aspects of Resource Extraction and EITI Wednesday,  9 – 11 am<br>
 09.00 Welcome Prof. Dr. Edda Müller, Transparency International Germany<br>
@@ -42,10 +42,10 @@ Aspects of Resource Extraction and EITI Wednesday,  9 – 11 am<br>
 16:00 Side event from BMZ on civil society and shrinking spaces (Room Eichensaal)
 
 <b>Thursday Board-Meeting</b><br>
-15:00 Side event from EITI International Secretariat on contract transparency
+15:00 Side event from EITI International Secretariat on contract transparency<br>
 18:30 - 19:00 Side event from NRGI and EITI International Secretariat on blockchain technologies in
-the extractives industries 
-19:30 - 22:00 Liquidity & Networking 
+the extractives industries <br>
+19:30 - 22:00 Liquidity & Networking <br><br>
 
 <b>Freitag Board-Meeting</b><br>
 Mexikanische Delegation
