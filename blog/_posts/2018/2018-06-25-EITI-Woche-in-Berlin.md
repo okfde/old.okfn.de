@@ -5,7 +5,7 @@ date: 2018-06-25
 image:
   src: /files/blog/2018/06/eiti-oil-platform.jpg
   title: EITI
-tags: EITI
+tags:
 - EITI
 - open data 
 - transparency
