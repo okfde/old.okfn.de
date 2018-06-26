@@ -45,7 +45,7 @@ Aspects of Resource Extraction and EITI Wednesday,  9 – 11 am<br>
 
 <b>Thursday Board-Meeting</b><br>
 15:00 Side event from EITI International Secretariat on contract transparency<br>
-[What’s the Deal? Evolving Practices in Contract Transparency](https://resourcegovernance.org/events/discussion/whats-deal-evolving-practices-contract-transparency) mit EITI Secretariat, NRGI, OXFAM, [OpenOil](http://openoil.net) und [Open Contracting Partnership](https://www.open-contracting.org).<br|
+[What’s the Deal? Evolving Practices in Contract Transparency](https://resourcegovernance.org/events/discussion/whats-deal-evolving-practices-contract-transparency) mit EITI Secretariat, NRGI, OXFAM, [OpenOil](http://openoil.net) und [Open Contracting Partnership](https://www.open-contracting.org).<br>
 18:30 - 19:00 Side event from NRGI and EITI International Secretariat on blockchain technologies in
 the extractives industries <br>
 19:30 - 22:00 Liquidity & Networking <br>
