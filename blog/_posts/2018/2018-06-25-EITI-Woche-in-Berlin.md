@@ -60,7 +60,7 @@ Deutschland fällt hier eine wichtige Rolle zu. Einerseits gilt es, EITI-Standar
 
 Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
 
-<b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.
+<b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.<br>
 <b>3. Juli in Berlin #Rohstoffkongress ["Digitalisierung und Rohstoffversorgung sind zwei Seiten einer Medaille."](https://bdi.eu/termin/news/6-bdi-rohstoffkongress/)</b><br>
 
 Log vom Dienstag:<br>
