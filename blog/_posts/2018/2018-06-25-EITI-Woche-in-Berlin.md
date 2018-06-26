@@ -48,6 +48,7 @@ Aspects of Resource Extraction and EITI Wednesday,  9 – 11 am<br>
 [What’s the Deal? Evolving Practices in Contract Transparency](https://resourcegovernance.org/events/discussion/whats-deal-evolving-practices-contract-transparency) mit EITI Secretariat, NRGI, OXFAM, [OpenOil](http://openoil.net) und [Open Contracting Partnership](https://www.open-contracting.org).<br>
 18:30 - 19:00 Side event from NRGI and EITI International Secretariat on blockchain technologies in
 the extractives industries <br>
+18:30 - 20:30 [Schmutziges Geld aus dem Süden: Welche Rolle spielt Deutschland? / „The Shadowed economy – Illicit Financial Flows and Germany“](https://www.berlin.de/politische-bildung/veranstaltungen/veranstaltungen-der-berliner-landeszentrale/schmutziges-geld-aus-dem-sueden-welche-rolle-spielt-deutschland-712800.php)
 19:30 - 22:00 Liquidity & Networking <br>
 
 <b>Freitag Board-Meeting</b><br>
@@ -64,17 +65,16 @@ Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
 <b>3. Juli in Berlin #Rohstoffkongress ["Digitalisierung und Rohstoffversorgung sind zwei Seiten einer Medaille."](https://bdi.eu/termin/news/6-bdi-rohstoffkongress/)</b><br>
 
 Log vom Dienstag:<br>
-[Paris Agreement Article 2](https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf)<br>
-framing <i>Emphasizing with serious concern the urgent need to address the significant gap
+[Paris Agreement - Article 2](https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf)<br>
+<b>framing:</b><i>Emphasizing with serious concern the urgent need to address the significant gap
 between the aggregate effect of Parties’ mitigation pledges in terms of global annual
 emissions of greenhouse gases by 2020 and aggregate emission pathways consistent with
 holding the increase in the global average temperature to well below 2 °C above preindustrial
 levels and pursuing efforts to limit the temperature increase to 1.5 °C</i><br>
 
-[Was ist der Unterschied zwischen 1.5 und 2 Grad](http://www.carbonbrief.org/wp-content/uploads/2016/04/1.5C-vs-2C-final.jpg)
+[Was ist der Unterschied zwischen 1.5 und 2 Grad?](http://www.carbonbrief.org/wp-content/uploads/2016/04/1.5C-vs-2C-final.jpg)
 
-[Climate Action Tracker](https://climateactiontracker.org)<br>
-
-Documentary [Smoke & Fumes](https://www.smokeandfumes.org) The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook?<br>
-[A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
-
+Project [Climate Action Tracker](https://climateactiontracker.org)<br>
+Project [Oilchange](http://priceofoil.org/category/resources/websites/)<br>
+Documentary [Smoke & Fumes](https://www.smokeandfumes.org) The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook? <br> and the report [A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
+[CO2-Offsetting](https://qz.com/974463/buying-carbon-credits-is-the-easiest-way-to-offset-your-carbon-footprint/) ~10 USD per ton. 
