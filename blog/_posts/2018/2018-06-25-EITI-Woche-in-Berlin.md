@@ -54,8 +54,27 @@ the extractives industries <br>
 Mexikanische Delegation <br>
 WB und Extractives Global Programmatic Support (EGPS) 
 
-<b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.
+
 
 Deutschland fällt hier eine wichtige Rolle zu. Einerseits gilt es, EITI-Standards, die man erfolgreich vertritt, auch international hochzuhalten (Arbeitsrechte, Verteidigung des Civic Spaces) und innovative Ansätze voranzutreiben (Tiefseebohrung, Erneuerbare Energie). In Sachen Transparenzregister und Informationsfreiheit hat Deutschland noch einiges nachzuholen.
 
 Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
+
+<b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.
+<b>3. Juli in Berlin #Rohstoffkongress ["Digitalisierung und Rohstoffversorgung sind zwei Seiten einer Medaille."](https://bdi.eu/termin/news/6-bdi-rohstoffkongress/)</b><br>
+
+Log vom Dienstag:<br>
+[Paris Agreement Article 2](https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf)<br>
+framing <i>Emphasizing with serious concern the urgent need to address the significant gap
+between the aggregate effect of Parties’ mitigation pledges in terms of global annual
+emissions of greenhouse gases by 2020 and aggregate emission pathways consistent with
+holding the increase in the global average temperature to well below 2 °C above preindustrial
+levels and pursuing efforts to limit the temperature increase to 1.5 °C</i><br>
+
+[Was ist der Unterschied zwischen 1.5 und 2 Grad](http://www.carbonbrief.org/wp-content/uploads/2016/04/1.5C-vs-2C-final.jpg)
+
+[Climate Action Tracker](https://climateactiontracker.org)<br>
+
+Documentary [Smoke & Fumes](https://www.smokeandfumes.org) The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook?<br>
+[A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
+
