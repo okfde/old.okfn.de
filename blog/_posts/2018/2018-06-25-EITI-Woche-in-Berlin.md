@@ -60,7 +60,7 @@ WB und Extractives Global Programmatic Support (EGPS)
 Deutschland fällt hier eine wichtige Rolle zu. Einerseits gilt es, EITI-Standards, die man erfolgreich vertritt, auch international hochzuhalten (Arbeitsrechte, Verteidigung des Civic Spaces) und innovative Ansätze voranzutreiben (Tiefseebohrung, Erneuerbare Energie). In Sachen Transparenzregister und Informationsfreiheit hat Deutschland noch einiges nachzuholen.
 
 Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
-<a id="UpdateTuesday"></a>
+<a id="UpdateTuesday"></a><br><br>
 <b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.<br>
 <b>3. Juli in Berlin #Rohstoffkongress ["Digitalisierung und Rohstoffversorgung sind zwei Seiten einer Medaille."](https://bdi.eu/termin/news/6-bdi-rohstoffkongress/)</b><br>
 
