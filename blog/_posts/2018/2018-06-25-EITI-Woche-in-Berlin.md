@@ -120,6 +120,7 @@ At the <b>Side event from BMZ on civil society and shrinking spaces</b> [Peter E
 [test](test)
 
 <h3>Thursday - Bericht vom Donnerstag:</h3><br>
+[test](test)
 <br>Great presentation by [Bady Balde](https://twitter.com/BadyBalde) on [DRC - Democratic Republic of Congo](https://eiti.org/democratic-republic-of-congo) and [Mining Cadastre](http://portals.flexicadastre.com/drc/en/).
 
 The elephant in the room of this day will be the non-disclosure of taxes by ExxonMobil and Chevron.
