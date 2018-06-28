@@ -77,10 +77,10 @@ levels and pursuing efforts to limit the temperature increase to 1.5 °C</i><br>
 
 Project [Climate Action Tracker](https://climateactiontracker.org)<br>
 Project [Oilchange](http://priceofoil.org/category/resources/websites/)<br>
-Documentary [Smoke & Fumes](https://www.smokeandfumes.org) <i>The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook? </i><br> and the report [A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
-[CO2-Offsetting](https://qz.com/974463/buying-carbon-credits-is-the-easiest-way-to-offset-your-carbon-footprint/) ~10 USD per ton. 
+Documentary [Smoke & Fumes](https://www.smokeandfumes.org) <i>The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook? </i><br> and the report [A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br><br>
+[CO2-Offsetting](https://qz.com/974463/buying-carbon-credits-is-the-easiest-way-to-offset-your-carbon-footprint/) ~10 USD per ton.<br> 
 <a id="UpdateWednesday"></a>
-Presentations by [Johnny West of Openoil](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/06/20180626-Modelling-energy-transition-for-producing-countries.pptm) <br>
+Presentations by <br>[Johnny West of Openoil](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/06/20180626-Modelling-energy-transition-for-producing-countries.pptm) <br>
 Paul Nash - forthcoming<br>
 Lili Fuhr - forthcoming<br>
 <br>
@@ -126,6 +126,16 @@ The elephant in the room of this day will be the non-disclosure of taxes by Exxo
 In this context a side event on grievance mechanism on the next board meeting is welcomed, for further information take a look at the [report on a workshop on grievance mechanisms at EITI convened by MSI Integrity in 2016](http://www.msi-integrity.org/wp-content/uploads/2017/09/EITI-Accountability-and-Grievance-Mechanisms-Workshop-Report-MSI-Integrity.pdf) from 2016.
 
 ![tax disclosures and grievances mechanism](/files/blog/2018/06/I20180628-EITI-tax-disclosure-grievances-mechanism.jpg "[tax disclosures and grievances mechanism")tax disclosures and grievances mechanism
+
+<b>Side event - What’s the Deal? Evolving Practices in Contract Transparency</b>
+
+Contract transparency landscape:
+
+More than half of Extractive Industry Transparency Initiative (EITI) member countries have disclosed extractive industry contracts and 16 EITI supporting companies have now made statements supporting publication in some form. In the last year alone, new contracts were disclosed for the first time in&nbsp;<a href="https://www.ghanapetroleumregister.com/">Ghana</a>,&nbsp;<a href="http://www.dpi.gov.gy/contracts">Guyana</a>, and&nbsp;<a href="https://mininginmalawi.com/2017/05/29/malawis-oil-contracts-now-online/">Malawi</a>; <b>the Kyrgyz Republic&nbsp;<a href="http://www.erkintoo.kg/uploads/default/newspapers/ET_29_05-1.pdf">passed a law requiring publication of licenses</b></a>; and the&nbsp;<a href="https://www.mines-rdc.cd/resourcecontracts/">Democratic Republic of Congo</a>,&nbsp;<a href="http://www.contratsminiersguinee.org/">Guinea</a>, and&nbsp;<a href="https://rondasmexico.gob.mx/">Mexico</a>&nbsp;have produced state-of-the-art contract portals.<br />
+
+[OXFAM - Contract Disclosure Survey 2018](https://www.oxfam.org/en/research/contract-disclosure-survey-2018) [PDF](https://d1tn3vj7xz9fdh.cloudfront.net/s3fs-public/file_attachments/bp-contract-disclosure-extractives-2018-030518-en.pdf)
+
+[Open Contracting for Oil, Gas and Mineral Rights: Shining a Light on Good Practice](https://resourcegovernance.org/analysis-tools/publications/open-contracting-oil-gas-and-mineral-rights) [PDF](https://resourcegovernance.org/sites/default/files/documents/open-contracting-for-oil-and-gas-mineral-rights.pdf)
 
 
 Upcoming open contracting and "real" mining - BLOCKCHAIN!
