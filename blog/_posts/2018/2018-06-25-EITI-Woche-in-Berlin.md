@@ -116,9 +116,3 @@ So not only the EITI and OGP is joinging forces, but also the various groups reg
 Given the interest and demand, we would like to foster this exchange on these topics and discuss different approaches in the future.
 
 At the <b>Side event from BMZ on civil society and shrinking spaces</b> [Peter Eigen](https://en.wikipedia.org/wiki/Peter_Eigen) pointed out, how EITI started, as an civil society initiative and what it means to stick to the basic rules of disclosure.<br>
-
-<h3>Thursday - Bericht vom Donnerstag:</h3><br>
-<br>Great presentation by [Bady Balde](https://twitter.com/BadyBalde) on [DRC - Democratic Republic of Congo](https://eiti.org/democratic-republic-of-congo) and [Mining Cadastre](http://portals.flexicadastre.com/drc/en/).
-
-The elephant in the room of this day will be the non-disclosure of taxes by ExxonMobil and Chevron.
-PWYP USA sent on that matter a [letter to the board](http://www.pwypusa.org/wp-content/uploads/2018/06/PWYP-US_EITI-Grievance-Process_27Jun18.pdf) on the 27.06.18 after raising awareness for that issue for quite some time, and calling for the [removal of ExxonMobil and Chevron from the EITI Board](http://www.pwypusa.org/pwyp-news/civil-society-organizations-call-on-exxonmobil-and-chevron-to-be-removed-from-the-eiti-board/) if nothing will change.  
