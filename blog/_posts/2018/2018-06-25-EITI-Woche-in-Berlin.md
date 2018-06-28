@@ -122,15 +122,15 @@ At the <b>Side event from BMZ on civil society and shrinking spaces</b> [Peter E
 
 The elephant in the room today is be the non-disclosure of taxes by ExxonMobil and Chevron.
 [PWYP USA](http://www.pwypusa.org/) sent on that matter a [letter to the board](http://www.pwypusa.org/wp-content/uploads/2018/06/PWYP-US_EITI-Grievance-Process_27Jun18.pdf) on the 27.06.18 after raising awareness for that issue for quite some time, and calling for the [removal of ExxonMobil and Chevron from the EITI Board](http://www.pwypusa.org/pwyp-news/civil-society-organizations-call-on-exxonmobil-and-chevron-to-be-removed-from-the-eiti-board/) if nothing will change.
-<br>
+<br><br>minilog<br>
 CSO board members Jana Morgan, Faith Nwadishi, Cesar Gamboa, Cielo Magno and Oleksiy Orlovsky made clear statements towards the urgent issue of the non-disclosing of ExxonMobil and Chevron.<br> 
 More than "diplomatic" response by the EITI secretary trying to slow things down.<br> 
 Stuart Brooks points out his 40th board meeting.<br> 
 <i>"USA redrew because it risks failure of validation, because this companies didn't report the taxes."</i> - Jana Morgan<br>
 <i>"Letter written by non-board-member"</i> - Reinfeldt<br> 
 <i>"Every step you take you have to understand what is the next step ... I believe in making clear when I made the statement in the US ... in that sense they are following the standard ... </i> - Reinfeldt<br>
-<i> understand that US no longer a implementing country ... but it helps to strengthing the EITI process itself if you can held the companies accountable ... welcome the Netherlands as the 50th country ... when the UK joined, we were looking forward toward the BO of the companies operating abroads, that's why this debate is important. We need to move beyong implementing country or not.</i> Faith Nwadishi<br>
-<i> the board should be concerned if there is a disregard regarding the rules ... reinforces the relevance of the discussion tomorrow on the companies expectations </i> Rosemarie Schulp <br>
+<i> understand that US no longer a implementing country ... but it helps to strengthing the EITI process itself if you can held the companies accountable ... welcome the Netherlands as the 50th country ... when the UK joined, we were looking forward toward the BO of the companies operating abroads, that's why this debate is important. We need to move beyong implementing country or not.</i> - Faith Nwadishi<br>
+<i> the board should be concerned if there is a disregard regarding the rules ... reinforces the relevance of the discussion tomorrow on the companies expectations </i> - Rosemarie Schulp <br>
 
 
 
