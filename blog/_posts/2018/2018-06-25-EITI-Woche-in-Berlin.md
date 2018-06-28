@@ -60,11 +60,11 @@ WB und Extractives Global Programmatic Support (EGPS)
 Deutschland fällt hier eine wichtige Rolle zu. Einerseits gilt es, EITI-Standards, die man erfolgreich vertritt, auch international hochzuhalten (Arbeitsrechte, Verteidigung des Civic Spaces) und innovative Ansätze voranzutreiben (Tiefseebohrung, Erneuerbare Energie). In Sachen Transparenzregister und Informationsfreiheit hat Deutschland noch einiges nachzuholen.
 
 Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
-
+<a id="update"></a>
 <b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.<br>
 <b>3. Juli in Berlin #Rohstoffkongress ["Digitalisierung und Rohstoffversorgung sind zwei Seiten einer Medaille."](https://bdi.eu/termin/news/6-bdi-rohstoffkongress/)</b><br>
 
-Log vom Dienstag:<br>
+Bericht vom Dienstag:<br>
 [Paris Agreement - Article 2](https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf)<br>
 <b>framing:</b><i>Emphasizing with serious concern the urgent need to address the significant gap
 between the aggregate effect of Parties’ mitigation pledges in terms of global annual
@@ -78,3 +78,11 @@ Project [Climate Action Tracker](https://climateactiontracker.org)<br>
 Project [Oilchange](http://priceofoil.org/category/resources/websites/)<br>
 Documentary [Smoke & Fumes](https://www.smokeandfumes.org) The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook? <br> and the report [A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
 [CO2-Offsetting](https://qz.com/974463/buying-carbon-credits-is-the-easiest-way-to-offset-your-carbon-footprint/) ~10 USD per ton. 
+
+Presentations by [Johnny West of Openoil](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/06/20180626-Modelling-energy-transition-for-producing-countries.pptm) <br>
+Paul Nash - forthcoming<br>
+Lili Fuhr - forthcoming<br>
+
+Bericht vom Mittwoch:<br>
+![OGP EITI joingin forces](/files/blog/2018/06/ogpeiti-presentation.png "OGP EITI joingin forces")OGP EITI joingin forces
+
