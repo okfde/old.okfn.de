@@ -66,23 +66,50 @@ Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
 
 Bericht vom Dienstag:<br>
 [Paris Agreement - Article 2](https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf)<br>
-<b>framing:</b><i>Emphasizing with serious concern the urgent need to address the significant gap
+<b>framing: </b><i>Emphasizing with serious concern the urgent need to address the significant gap
 between the aggregate effect of Parties’ mitigation pledges in terms of global annual
 emissions of greenhouse gases by 2020 and aggregate emission pathways consistent with
 holding the increase in the global average temperature to well below 2 °C above preindustrial
 levels and pursuing efforts to limit the temperature increase to 1.5 °C</i><br>
 
-[Was ist der Unterschied zwischen 1.5 und 2 Grad?](http://www.carbonbrief.org/wp-content/uploads/2016/04/1.5C-vs-2C-final.jpg)
+[Difference between 1.5C and 2.0C warming - Was ist der Unterschied zwischen 1.5 und 2 Grad?](http://www.carbonbrief.org/wp-content/uploads/2016/04/1.5C-vs-2C-final.jpg)
 
 Project [Climate Action Tracker](https://climateactiontracker.org)<br>
 Project [Oilchange](http://priceofoil.org/category/resources/websites/)<br>
-Documentary [Smoke & Fumes](https://www.smokeandfumes.org) The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook? <br> and the report [A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
+Documentary [Smoke & Fumes](https://www.smokeandfumes.org) <i>The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook? </i><br> and the report [A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
 [CO2-Offsetting](https://qz.com/974463/buying-carbon-credits-is-the-easiest-way-to-offset-your-carbon-footprint/) ~10 USD per ton. 
 
 Presentations by [Johnny West of Openoil](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/06/20180626-Modelling-energy-transition-for-producing-countries.pptm) <br>
 Paul Nash - forthcoming<br>
 Lili Fuhr - forthcoming<br>
+<br>
 
-Bericht vom Mittwoch:<br>
-![OGP EITI joingin forces](/files/blog/2018/06/ogpeiti-presentation.png "OGP EITI joingin forces")OGP EITI joingin forces
+<b>Wednesday - Bericht vom Mittwoch:</b><br>
+
+
+![OGP EITI joining forces](/files/blog/2018/06/ogpeiti-presentation.png "OGP EITI joining forces")OGP and EITI joining forces
+
+Germany published the first EITI report in August 2017. Questions around ecological
+impacts of resource extraction have been of major interest to the German civil society.
+Which environmental payments have to be made by companies? Does the state
+levy taxes related to environmental impacts/  and how high are the revenues? In the second
+report, we, the German CS, also want to include a stronger focus on the social impact, such as
+workers’ rights and the role of the trade unions, social security or the process of
+relocation of population.
+
+Presentations by Alexander Berch of IGBCE (IG Bergbau, Chemie, Energie, mining trade union in Germany) on the importance of social aspects and workers rights, and ecological aspects presented by FOES and FUE were followed with great interest by the audience, like the Civil Society Members Cielo Magno (.PH), Cesar Gamboa (.PE) and Faith Nwadishi (.NG), Gubad Ibadoghhlu (.AZ) and Oleg Orlovsky (.UA) and the Mexcian delegation.
+
+The importance of this questions was also shown by the presentation on social impact of mining in Peru by Cesar Gamboa [CSO board member](https://eiti.org/contact/mr-cesar-gamboa) of [Ambiente y Recursos naturales](https://www.dar.org.pe).
+
+Dr. Cielo Magno, Assistant Professor and [CSO board member](https://eiti.org/contact/ms-cielo-magno) of [Bantay Kita](http://www.bantaykita.ph) was presenting her current work on valuing the use of water and proctecting social expenditures.
+
+In the discussion round the Mexican delegation pointed out that during the #EITIBerlin18 board beeting, Mexico will present the status of its first report where issues on environmental and social impact will be included.
+
+Also representives from the Netherlands are working towards enviromental goals and have shown their aim to make 
+environmental transparency a part of their report, stating <i>"trailblazer by including environmental performance data as a core component in EITI reporting"</i>.
+
+Although the EITI Standard does not require any disclosures regarding to environmental impact and very little regarding social impact, this side event clearly showed the importance of several EITI implementing countries have already included some information in their EITI reports and the need to increase this innovative coverage in the reports.  
+
+So not only the EITI and OGP is joinging forces, but also the various groups regarding social and enviromental issues.
+Given the interest and demand, we would like to foster this exchange on these topics and discuss different approaches in the future.
 
