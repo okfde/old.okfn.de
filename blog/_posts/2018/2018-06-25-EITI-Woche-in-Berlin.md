@@ -64,7 +64,8 @@ Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
 <b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.<br>
 <b>3. Juli in Berlin #Rohstoffkongress ["Digitalisierung und Rohstoffversorgung sind zwei Seiten einer Medaille."](https://bdi.eu/termin/news/6-bdi-rohstoffkongress/)</b><br>
 
-<h3>Tuesday - Bericht vom Dienstag:</h3>
+<h3>Tuesday - Bericht vom Dienstag:</h3><br>
+
 [Paris Agreement - Article 2](https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf)<br>
 <b>framing: </b><i>Emphasizing with serious concern the urgent need to address the significant gap
 between the aggregate effect of Parties’ mitigation pledges in terms of global annual
