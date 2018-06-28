@@ -117,8 +117,7 @@ Given the interest and demand, we would like to foster this exchange on these to
 
 At the <b>Side event from BMZ on civil society and shrinking spaces</b> [Peter Eigen](https://en.wikipedia.org/wiki/Peter_Eigen) pointed out, how EITI started, as an civil society initiative and what it means to stick to the basic rules of disclosure.<br>
 
-
-
+[test](test)
 
 <h3>Thursday - Bericht vom Donnerstag:</h3><br>
 <br>Great presentation by [Bady Balde](https://twitter.com/BadyBalde) on [DRC - Democratic Republic of Congo](https://eiti.org/democratic-republic-of-congo) and [Mining Cadastre](http://portals.flexicadastre.com/drc/en/).
