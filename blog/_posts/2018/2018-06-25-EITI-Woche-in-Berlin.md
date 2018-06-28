@@ -60,7 +60,7 @@ WB und Extractives Global Programmatic Support (EGPS)
 Deutschland fällt hier eine wichtige Rolle zu. Einerseits gilt es, EITI-Standards, die man erfolgreich vertritt, auch international hochzuhalten (Arbeitsrechte, Verteidigung des Civic Spaces) und innovative Ansätze voranzutreiben (Tiefseebohrung, Erneuerbare Energie). In Sachen Transparenzregister und Informationsfreiheit hat Deutschland noch einiges nachzuholen.
 
 Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
-<a id="update"></a>
+<a id="UpdateTuesday"></a>
 <b>02.-05. Juli Booksprint on EITI in Potsdam mit PWYP</b>.<br>
 <b>3. Juli in Berlin #Rohstoffkongress ["Digitalisierung und Rohstoffversorgung sind zwei Seiten einer Medaille."](https://bdi.eu/termin/news/6-bdi-rohstoffkongress/)</b><br>
 
@@ -79,7 +79,7 @@ Project [Climate Action Tracker](https://climateactiontracker.org)<br>
 Project [Oilchange](http://priceofoil.org/category/resources/websites/)<br>
 Documentary [Smoke & Fumes](https://www.smokeandfumes.org) <i>The oil industry used the tobacco playbook in its fight against climate science. But where did tobacco get that playbook? </i><br> and the report [A Crack in the Shell: New Documents Expose a Hidden Climate History](https://www.ciel.org/reports/a-crack-in-the-shell/)<br> 
 [CO2-Offsetting](https://qz.com/974463/buying-carbon-credits-is-the-easiest-way-to-offset-your-carbon-footprint/) ~10 USD per ton. 
-<a id="updatewednesday"></a>
+<a id="UpdateWednesday"></a>
 Presentations by [Johnny West of Openoil](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/06/20180626-Modelling-energy-transition-for-producing-countries.pptm) <br>
 Paul Nash - forthcoming<br>
 Lili Fuhr - forthcoming<br>
@@ -111,7 +111,7 @@ Also representives from the Netherlands are working towards enviromental goals a
 environmental transparency a part of their report, stating <i>"trailblazer by including environmental performance data as a core component in EITI reporting"</i>.
 
 Although the EITI Standard does not require any disclosures regarding to environmental impact and very little regarding social impact, this side event clearly showed the importance of several EITI implementing countries have already included some information in their EITI reports and the need to increase this innovative coverage in the reports.  
-<a id="updatethursday"></a>
+<a id="UpdateThursday"></a>
 So not only the EITI and OGP is joinging forces, but also the various groups regarding social and enviromental issues.
 Given the interest and demand, we would like to foster this exchange on these topics and discuss different approaches in the future.
 
