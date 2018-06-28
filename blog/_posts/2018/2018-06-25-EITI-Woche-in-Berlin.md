@@ -123,6 +123,9 @@ At the <b>Side event from BMZ on civil society and shrinking spaces</b> [Peter E
 The elephant in the room of this day will be the non-disclosure of taxes by ExxonMobil and Chevron.
 [PWYP USA](http://www.pwypusa.org/) sent on that matter a [letter to the board](http://www.pwypusa.org/wp-content/uploads/2018/06/PWYP-US_EITI-Grievance-Process_27Jun18.pdf) on the 27.06.18 after raising awareness for that issue for quite some time, and calling for the [removal of ExxonMobil and Chevron from the EITI Board](http://www.pwypusa.org/pwyp-news/civil-society-organizations-call-on-exxonmobil-and-chevron-to-be-removed-from-the-eiti-board/) if nothing will change.  
 
-In this context a side event on grievance mechanism on the next board meeting is welcomed, for further information take a look at the [Grievance Mechanism Report by MSI](http://www.msi-integrity.org/wp-content/uploads/2017/09/EITI-Accountability-and-Grievance-Mechanisms-Workshop-Report-MSI-Integrity.pdf) from 2016.
+In this context a side event on grievance mechanism on the next board meeting is welcomed, for further information take a look at the [report on a workshop on grievance mechanisms at EITI convened by MSI Integrity in 2016](http://www.msi-integrity.org/wp-content/uploads/2017/09/EITI-Accountability-and-Grievance-Mechanisms-Workshop-Report-MSI-Integrity.pdf) from 2016.
+
+![tax disclosures and grievances mechanism](/files/blog/2018/06/I20180628-EITI-tax-disclosure-grievances-mechanism.jpg "[tax disclosures and grievances mechanism")tax disclosures and grievances mechanism
+
 
 Upcoming open contracting and "real" mining - BLOCKCHAIN!
