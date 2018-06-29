@@ -137,7 +137,7 @@ Stuart Brooks points out his 40th board meeting.<br>
 In this context a side event on grievance mechanism on the next board meeting is welcomed, for further information take a look at the [report on a workshop on grievance mechanisms at EITI convened by MSI Integrity in 2016](http://www.msi-integrity.org/wp-content/uploads/2017/09/EITI-Accountability-and-Grievance-Mechanisms-Workshop-Report-MSI-Integrity.pdf) from 2016.
 
 ![tax disclosures and grievances mechanism](/files/blog/2018/06/I20180628-EITI-tax-disclosure-grievances-mechanism.jpg "[tax disclosures and grievances mechanism")tax disclosures and grievances mechanism
-
+<br>
 <b>Side event - What’s the Deal? Evolving Practices in Contract Transparency</b>
 
 Contract transparency landscape:
@@ -149,15 +149,18 @@ More than half of Extractive Industry Transparency Initiative (EITI) member coun
 [Open Contracting for Oil, Gas and Mineral Rights: Shining a Light on Good Practice](https://resourcegovernance.org/analysis-tools/publications/open-contracting-oil-gas-and-mineral-rights) [PDF](https://resourcegovernance.org/sites/default/files/documents/open-contracting-for-oil-and-gas-mineral-rights.pdf)
 <a id="UpdateFriday"></a>
 
+<br>
+<b>Side event - Blockchain technologies in the extractives industries"</b> 
 
-<b>Blockchain side-event</b> with Stefaan Verhulst of @TheGovLab, Andre Pedersen NRGI and Kaiser-Tedesco of @GIZ_gmbh.
+With Stefaan Verhulst of @TheGovLab, Andre Pedersen of NRGI and Sam Bartlett of EITI Secretary hosted by Kaiser-Tedesco of @GIZ_gmbh.<br>
 Slides are [here](https://docs.google.com/presentation/d/1S--yHY0NYNhlh4pNWsd1nlv1WyQlJbsrv5pLlTJE56U/edit?ts=5b35ce5f) also recommended for this topic [the reading list combined by NRGI and TheGovLab](http://thegovlab.org/the-govlab-selected-readings-on-blockchain-technologies-and-the-governance-of-extractives/).
 
-attributes:
+attributes of the blockchain: 
 - immutability
 - guarenteed integrity
 - distribute resilience
-optional:
+
+optional attributes:
 - disintermediation
 - transparency
 - accessibility
@@ -167,7 +170,10 @@ blockchain cases
 - [smartcontracting](http://www.eco-business.com/news/can-blockchain-save-indonesias-forests/) x -> y
 - [identity](https://www.coindesk.com/illinois-launches-blockchain-pilot-digitize-birth-certificates/)
 
-There is a nice flowchart ["flowchart Do You Need a Blockchain?"](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain) by IEEE. Tl;dr answer has 2 letters.
+According to the panel major cases of usage are "when there is information asymmetry, that's the promise" and "lowering transaction cost due data security" providing "reliabilty and authenticity" and "the real thing is blockchain plus - blockchain plus IoT & AI ...", blockchain as technology or "digitization" accelerator since the current hype can and shoud be used and "civil society to becoming a partner in the role of establishing the standards, since the industry is moving now fast in this area - current trading platforms [1](https://www.ingwb.com/themes/blockchain-articles/easy-trading-connect-using-blockchain-explained) and [2](https://www.trafigura.com/news/natixisc-ibm-and-trafigura-introduce-first-ever-blockchain-solution-for-us-crude-oil-market/21324)." Gruezi Zug & Cryptovalley!<br>  
+ 
+There is a nice flowchart ["flowchart Do You Need a Blockchain?"](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain) by IEEE. tl;dr answer is probably has 2 letters.
+<br><br>
 
 ### Friday - Bericht vom Freitag
 
