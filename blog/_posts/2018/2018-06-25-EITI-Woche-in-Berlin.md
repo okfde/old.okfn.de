@@ -185,9 +185,10 @@ The fun continued in the evening, at the Biergarten.
 Working breakfast organized by Christin Fröhlich from @BMWi_Bund for new implementing countries from Latin America 
 ![Latin America](/files/blog/2018/06/20180629-EITI-Friday-southamerica.jpg)
 <br>
-grievances mechanism discussion (update will follow)>br>
+grievances mechanism discussion (update will follow)<br>
 
->br>Last but not least:
+>Last but not least:
 <br><i>Ein weiterer wichtiger Punkt, der Antrag von D-EITI (Deutschland) bzgl. der Wesentlichkeitsschwelle von 2 Mio. € bei der Gewerbesteuer wurde angenommen. Damit sollte es mit der kommenden Validierung zügig voran gehen.</i>
 (Board paper 40-4-D Inquiry from Germany regarding requirements 4.1 and 4.6 (€2m for accepted. 
 
+pics will be available soon.
