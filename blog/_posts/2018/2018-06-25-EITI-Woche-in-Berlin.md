@@ -172,11 +172,11 @@ blockchain cases
 
 According to the panel major cases of usage are "when there is information asymmetry, that's the promise" and "lowering transaction cost due data security" providing "reliabilty and authenticity" and "the real thing is blockchain plus - blockchain plus IoT & AI ...", blockchain as technology or "digitization" accelerator since the current hype can and shoud be used and "civil society to becoming a partner in the role of establishing the standards, since the industry is moving now fast in this area - current trading platforms [1](https://www.ingwb.com/themes/blockchain-articles/easy-trading-connect-using-blockchain-explained) and [2](https://www.trafigura.com/news/natixisc-ibm-and-trafigura-introduce-first-ever-blockchain-solution-for-us-crude-oil-market/21324)." Gruezi Zug & Cryptovalley!<br>  
  
-There is a nice flowchart ["flowchart Do You Need a Blockchain?"](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain) by IEEE. tl;dr answer is probably has 2 letters.
+There is a nice flowchart ["flowchart Do You Need a Blockchain?"](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain) by IEEE. tl;dr answer probably has 2 letters.
 <br><br>
 
 ### Friday - Bericht vom Freitag
-
+<br>
 ¡Buenos días a todos! - working breakfast from @BMWi_Bund for new implementing countries from Latin America 
 ![Latin America](/files/blog/2018/06/20180629-EITI-Friday-southamerica.jpg "[Latin America")Latin America 
 
