@@ -182,7 +182,7 @@ The fun continued in the evening, at the Biergarten.
 ### Friday - Bericht vom Freitag
 <br>
 ¡Buenos días a todos! <br>
-Working breakfast from @BMWi_Bund for new implementing countries from Latin America 
+Working breakfast organized by Christin Fröhlich from @BMWi_Bund for new implementing countries from Latin America 
 ![Latin America](/files/blog/2018/06/20180629-EITI-Friday-southamerica.jpg)
 
 
