@@ -152,7 +152,7 @@ More than half of Extractive Industry Transparency Initiative (EITI) member coun
 <br>
 <b>Side event - Blockchain technologies in the extractives industries"</b> 
 
-With Stefaan Verhulst of @TheGovLab, Andre Pedersen of NRGI and Sam Bartlett of EITI Secretary hosted by Kaiser-Tedesco of @GIZ_gmbh.<br>
+With Stefaan Verhulst of @TheGovLab, [Anders Pedersen](https://twitter.com/anpe) of NRGI and Sam Bartlett of EITI Secretary hosted by Kaiser-Tedesco of @GIZ_gmbh.<br>
 Slides are [here](https://docs.google.com/presentation/d/1S--yHY0NYNhlh4pNWsd1nlv1WyQlJbsrv5pLlTJE56U/edit?ts=5b35ce5f) also recommended for this topic [the reading list combined by NRGI and TheGovLab](http://thegovlab.org/the-govlab-selected-readings-on-blockchain-technologies-and-the-governance-of-extractives/).
 
 attributes of the blockchain: 
@@ -172,11 +172,12 @@ blockchain cases
 
 According to the panel major cases of usage are "when there is information asymmetry, that's the promise" and "lowering transaction cost due data security" providing "reliabilty and authenticity" and "the real thing is blockchain plus - blockchain plus IoT & AI ...", blockchain as technology or "digitization" accelerator since the current hype can and shoud be used and "civil society to becoming a partner in the role of establishing the standards, since the industry is moving now fast in this area - current trading platforms [1](https://www.ingwb.com/themes/blockchain-articles/easy-trading-connect-using-blockchain-explained) and [2](https://www.trafigura.com/news/natixisc-ibm-and-trafigura-introduce-first-ever-blockchain-solution-for-us-crude-oil-market/21324) and the danger of upcoming monopolies." Gruezi Zug & Cryptovalley!<br>  
 
-<i>There is a certain irony, to have a "mining" product, which used to be originally established to create anonymous digital transactions (decentralized, without ~institutions), using certain ressources (~energy, quite a bit) to bring transparency in this "raw" sector (~MedienBruch). You have to hash that out. [MimbleWimble](https://github.com/mimblewimble/grin)</i>
+<i>There is a certain irony, to have a "mining" product, which used to be originally established to create anonymous digital transactions (decentralized, without ~institutions), using certain resources (~energy, quite a bit) to bring transparency in this "raw" sector (~MedienBruch). You have to hash that out. [MimbleWimble](https://github.com/mimblewimble/grin)</i>
  
 There is a nice flowchart ["Do You Need a Blockchain?"](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain) by IEEE. <br>tl;dr answer probably has 2 letters.
 <br>
-To sum it up, great panel with great people, also great audience. See #EITIBerlin2018.<br>
+To sum it up, great panel with great people, thanks Stefaan and Anders! - also great audience. See #EITIBerlin2018.<br>
+The fun continued in the evening, at the Biergarten.
 
 ### Friday - Bericht vom Freitag
 <br>
