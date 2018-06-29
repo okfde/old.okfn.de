@@ -136,7 +136,7 @@ Stuart Brooks points out his 40th board meeting.<br>
 
 In this context a side event on grievance mechanism on the next board meeting is welcomed, for further information take a look at the [report on a workshop on grievance mechanisms at EITI convened by MSI Integrity in 2016](http://www.msi-integrity.org/wp-content/uploads/2017/09/EITI-Accountability-and-Grievance-Mechanisms-Workshop-Report-MSI-Integrity.pdf) from 2016.
 
-![tax disclosures and grievances mechanism](/files/blog/2018/06/I20180628-EITI-tax-disclosure-grievances-mechanism.jpg "[tax disclosures and grievances mechanism")tax disclosures and grievances mechanism
+![tax disclosures and grievances mechanism](/files/blog/2018/06/I20180628-EITI-tax-disclosure-grievances-mechanism.jpg "tax disclosures and grievances mechanism")tax disclosures and grievances mechanism
 <br>
 <b>Side event - What’s the Deal? Evolving Practices in Contract Transparency</b>
 
@@ -180,8 +180,9 @@ To sum it up, great panel with great people, also great audience. See #EITIBerli
 
 ### Friday - Bericht vom Freitag
 <br>
-¡Buenos días a todos! - working breakfast from @BMWi_Bund for new implementing countries from Latin America 
-![Latin America](/files/blog/2018/06/20180629-EITI-Friday-southamerica.jpg "[Latin America")Latin America 
+¡Buenos días a todos! <br>
+Working breakfast from @BMWi_Bund for new implementing countries from Latin America 
+![Latin America](/files/blog/2018/06/20180629-EITI-Friday-southamerica.jpg)
 
 
 
