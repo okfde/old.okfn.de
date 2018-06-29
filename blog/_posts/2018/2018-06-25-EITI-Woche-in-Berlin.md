@@ -143,7 +143,7 @@ In this context a side event on grievance mechanism on the next board meeting is
 Contract transparency landscape:
 
 More than half of Extractive Industry Transparency Initiative (EITI) member countries have disclosed extractive industry contracts and 16 EITI supporting companies have now made statements supporting publication in some form. In the last year alone, new contracts were disclosed for the first time in&nbsp;<a href="https://www.ghanapetroleumregister.com/">Ghana</a>,&nbsp;<a href="http://www.dpi.gov.gy/contracts">Guyana</a>, and&nbsp;<a href="https://mininginmalawi.com/2017/05/29/malawis-oil-contracts-now-online/">Malawi</a>; <b>the Kyrgyz Republic&nbsp;<a href="http://www.erkintoo.kg/uploads/default/newspapers/ET_29_05-1.pdf">passed a law requiring publication </b>of licenses</a>; and the&nbsp;<a href="https://www.mines-rdc.cd/resourcecontracts/">Democratic Republic of Congo</a>,&nbsp;<a href="http://www.contratsminiersguinee.org/">Guinea</a>, and&nbsp;<a href="https://rondasmexico.gob.mx/">Mexico</a>&nbsp;have produced state-of-the-art contract portals.<br />
-
+<a id="UpdateBlockchain"></a>
 [OXFAM - Contract Disclosure Survey 2018](https://www.oxfam.org/en/research/contract-disclosure-survey-2018) [PDF](https://d1tn3vj7xz9fdh.cloudfront.net/s3fs-public/file_attachments/bp-contract-disclosure-extractives-2018-030518-en.pdf)
 
 [Open Contracting for Oil, Gas and Mineral Rights: Shining a Light on Good Practice](https://resourcegovernance.org/analysis-tools/publications/open-contracting-oil-gas-and-mineral-rights) [PDF](https://resourcegovernance.org/sites/default/files/documents/open-contracting-for-oil-and-gas-mineral-rights.pdf)
