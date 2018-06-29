@@ -150,7 +150,7 @@ More than half of Extractive Industry Transparency Initiative (EITI) member coun
 <a id="UpdateFriday"></a>
 
 
-<b>Blockchain side-event</a> with Stefaan Verhulst of @TheGovLab, Andre Pedersen NRGI and Kaiser-Tedesco of @GIZ_gmbh.
+<b>Blockchain side-event</b> with Stefaan Verhulst of @TheGovLab, Andre Pedersen NRGI and Kaiser-Tedesco of @GIZ_gmbh.
 Slides are [here](https://docs.google.com/presentation/d/1S--yHY0NYNhlh4pNWsd1nlv1WyQlJbsrv5pLlTJE56U/edit?ts=5b35ce5f) also recommended for this topic [the reading list combined by NRGI and TheGovLab](http://thegovlab.org/the-govlab-selected-readings-on-blockchain-technologies-and-the-governance-of-extractives/).
 
 attributes:
