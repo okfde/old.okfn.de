@@ -129,8 +129,8 @@ Stuart Brooks points out his 40th board meeting.<br>
 <i>"USA redrew because it risks failure of validation, because this companies didn't report the taxes."</i> - Jana Morgan<br>
 <i>"Letter written by non-board-member"</i> - Reinfeldt<br> 
 <i>"Every step you take you have to understand what is the next step ... I believe in making clear when I made the statement in the US ... in that sense they are following the standard ... </i> - Reinfeldt<br>
-<i> understand that US no longer a implementing country ... but it helps to strengthing the EITI process itself if you can held the companies accountable ... welcome the Netherlands as the 50th country ... when the UK joined, we were looking forward toward the BO of the companies operating abroads, that's why this debate is important. We need to move beyong implementing country or not.</i> - Faith Nwadishi<br>
-<i> the board should be concerned if there is a disregard regarding the rules ... reinforces the relevance of the discussion tomorrow on the companies expectations </i> - Rosemarie Schulp <br>
+<i>"I understand that US no longer a implementing country ... but it helps to strengthing the EITI process itself if you can held the companies accountable ... welcome the Netherlands as the 50th country ... when the UK joined, we were looking forward toward the BO of the companies operating abroads, that's why this debate is important. We need to move beyong implementing country or not."</i> - Faith Nwadishi<br>
+<i>"the board should be concerned if there is a disregard regarding the rules ... reinforces the relevance of the discussion tomorrow on the companies expectations ... there need to be room to discuss this ..." </i> - Rosemarie Schulp <br>
 
 
 
@@ -147,6 +147,32 @@ More than half of Extractive Industry Transparency Initiative (EITI) member coun
 [OXFAM - Contract Disclosure Survey 2018](https://www.oxfam.org/en/research/contract-disclosure-survey-2018) [PDF](https://d1tn3vj7xz9fdh.cloudfront.net/s3fs-public/file_attachments/bp-contract-disclosure-extractives-2018-030518-en.pdf)
 
 [Open Contracting for Oil, Gas and Mineral Rights: Shining a Light on Good Practice](https://resourcegovernance.org/analysis-tools/publications/open-contracting-oil-gas-and-mineral-rights) [PDF](https://resourcegovernance.org/sites/default/files/documents/open-contracting-for-oil-and-gas-mineral-rights.pdf)
+<a id="UpdateFriday"></a>
 
 
-Upcoming open contracting and "real" mining - BLOCKCHAIN!
+<b>Blockchain side-event</a> with Stefaan Verhulst of @TheGovLab, Andre Pedersen NRGI and Kaiser-Tedesco of @GIZ_gmbh.
+Slides are [here](https://docs.google.com/presentation/d/1S--yHY0NYNhlh4pNWsd1nlv1WyQlJbsrv5pLlTJE56U/edit?ts=5b35ce5f) also recommended for this topic [the reading list combined by NRGI and TheGovLab](http://thegovlab.org/the-govlab-selected-readings-on-blockchain-technologies-and-the-governance-of-extractives/).
+
+attributes:
+- immutability
+- guarenteed integrity
+- distribute resilience
+optional:
+- disintermediation
+- transparency
+- accessibility
+
+blockchain cases
+- [track and trace](https://www.reuters.com/article/us-anglo-debeers-blockchain/de-beers-turns-to-blockchain-to-guarantee-diamond-purity-idUSKBN1F51HV)
+- [smartcontracting](http://www.eco-business.com/news/can-blockchain-save-indonesias-forests/) x -> y
+- [identity](https://www.coindesk.com/illinois-launches-blockchain-pilot-digitize-birth-certificates/)
+
+There is a nice flowchart ["flowchart Do You Need a Blockchain?"](https://spectrum.ieee.org/computing/networks/do-you-need-a-blockchain) by IEEE. Tl;dr answer has 2 letters.
+
+### Friday - Bericht vom Freitag
+
+¡Buenos días a todos! - working breakfast from @BMWi_Bund for new implementing countries from Latin America 
+![Latin America](/files/blog/2018/06/20180629-EITI-Friday-southamerica.jpg "[Latin America")Latin America 
+
+
+
