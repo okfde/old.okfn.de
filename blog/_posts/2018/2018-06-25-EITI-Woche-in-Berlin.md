@@ -204,4 +204,4 @@ Pictures:<br>
 [CSO meeting](https://www.flickr.com/photos/okfde/albums/72157698590082445)<br>
 [BMWI](https://www.flickr.com/photos/okfde/sets/72157695420395142)<br>
 [Board meeting including civil society constituency, BMZ shrinking civic space, blockchain side event)](https://www.flickr.com/photos/okfde/albums/72157696919938241)<br>
-(boardmeeting including civil society constituency, BMZ shrinking civic space, blockchain side event) 
+
