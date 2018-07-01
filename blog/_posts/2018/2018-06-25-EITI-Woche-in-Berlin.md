@@ -115,6 +115,8 @@ Although the EITI Standard does not require any disclosures regarding to environ
 So not only the EITI and OGP is joinging forces, but also the various groups regarding social and enviromental issues.
 Given the interest and demand, we would like to foster this exchange on these topics and discuss different approaches in the future.
 
+[Pictures of the CSO meeting](https://www.flickr.com/photos/okfde/albums/72157698590082445)<br>
+
 At the <b>Side event from BMZ on civil society and shrinking spaces</b> [Peter Eigen](https://en.wikipedia.org/wiki/Peter_Eigen) pointed out, how EITI started, as an civil society initiative and what it means to stick to the basic rules of disclosure.<br>
 
 ### Thursday - Bericht vom Donnerstag
@@ -187,8 +189,19 @@ Working breakfast organized by Christin Fröhlich from @BMWi_Bund for new implem
 <br>
 grievances mechanism discussion (update will follow)<br>
 
+[Pictures of BMWI side event](https://www.flickr.com/photos/okfde/sets/72157695420395142)
+
 >Last but not least:
 <br><i>Ein weiterer wichtiger Punkt, der Antrag von D-EITI (Deutschland) bzgl. der Wesentlichkeitsschwelle von 2 Mio. € bei der Gewerbesteuer wurde angenommen. Damit sollte es mit der kommenden Validierung zügig voran gehen.</i>
 (Board paper 40-4-D Inquiry from Germany regarding requirements 4.1 and 4.6 (€2m for accepted. 
 
-pics will be available soon.
+And Peter Altmaier stepped by. 
+![Altmaier(/files/blog/2018/06/20180629-EITI-Altmaier-0464.jpeg "Altmaier")
+
+Thanks to the D-EITI Secretary and Mrs. Wysluch for the work over the last years.
+
+Pictures:<br>
+[CSO meeting](https://www.flickr.com/photos/okfde/albums/72157698590082445)<br>
+[BMWI](https://www.flickr.com/photos/okfde/sets/72157695420395142)<br>
+[Board meeting including civil society constituency, BMZ shrinking civic space, blockchain side event) ])https://www.flickr.com/photos/okfde/albums/72157696919938241)<br>
+(boardmeeting including civil society constituency, BMZ shrinking civic space, blockchain side event) 
