@@ -197,11 +197,13 @@ grievances mechanism discussion (update will follow)<br>
 
 And Peter Altmaier stepped by. 
 ![Altmaier](/files/blog/2018/06/20180629-EITI-Altmaier-0464.jpeg "Altmaier")
+<a id="UpdatePictures"></a>
+Thanks to the D-EITI Secretary, BMWI and Mrs. Wysluch for the work over the last years!
 
-Thanks to the D-EITI Secretary and Mrs. Wysluch for the work over the last years.
 
-Pictures:<br>
+Picture archives:<br>
 [CSO meeting](https://www.flickr.com/photos/okfde/albums/72157698590082445)<br>
 [BMWI](https://www.flickr.com/photos/okfde/sets/72157695420395142)<br>
 [Board meeting including civil society constituency, BMZ shrinking civic space, blockchain side event)](https://www.flickr.com/photos/okfde/albums/72157696919938241)<br>
+[dropbox - Thomas & Boris](https://www.dropbox.com/sh/kcdorf0qxz7a423/AABa-bhDYnaEwZZ58UA94E2Ua?dl=0)
 
