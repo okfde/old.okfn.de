@@ -195,10 +195,12 @@ grievances mechanism discussion (update will follow)<br>
 <br><i>Ein weiterer wichtiger Punkt, der Antrag von D-EITI (Deutschland) bzgl. der Wesentlichkeitsschwelle von 2 Mio. € bei der Gewerbesteuer wurde angenommen. Damit sollte es mit der kommenden Validierung zügig voran gehen.</i>
 (Board paper 40-4-D Inquiry from Germany regarding requirements 4.1 and 4.6 (€2m for accepted. 
 
-And Peter Altmaier stepped by. 
+And Peter Altmaier, Federal Minister for Economic Affairs and Energy, stopped by. 
 ![Altmaier](/files/blog/2018/06/20180629-EITI-Altmaier-0464.jpeg "Altmaier")
-<a id="UpdatePictures"></a>
-Thanks to the D-EITI Secretary, BMWI and Mrs. Wysluch for the work over the last years!
+<a id="UpdatePictures"></a><br>
+Big thanks to the EITI Secretary, D-EITI Secretary, BMWI and Mrs. Wysluch for the work over the last years!<br><br>
+And all the best for Jonas Moberg and his new endeavours! <br>
+
 
 
 Picture archives:<br>
