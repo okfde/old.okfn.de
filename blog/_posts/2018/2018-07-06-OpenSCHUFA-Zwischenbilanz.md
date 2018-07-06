@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "OpenSCHUFA: Zwischenbilanz der Datenspende - noch immer gerne Daten spenden!" 
 ---
 Liebe Unterstützerinnen und Unterstützer,
