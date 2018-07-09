@@ -820,3 +820,16 @@
   mail: "lea.pfau@okfn.de"
   twitter:
   website:
+
+- name: Lisa Passing
+  img: lisapassing
+  staff: 1
+  board: 0
+  advisory: 0
+  position: false
+  bio: "Lisa ist im April 2018 als Entwicklerin bei der OKF eingestiegen. Sie mag Privatsphäre."
+  bio_en: "Lisa entered the OKF in April 2018 as developer. She likes privacy."
+  mail: lisa.passing@okfn.de
+  twitter: false
+  website: 'https://lislis.de'
+  github: lislis
