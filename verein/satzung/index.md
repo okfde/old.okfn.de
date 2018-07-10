@@ -107,7 +107,7 @@ Die Organe des Vereins sind
 * Auflösung des Vereins
 * weitere Angelegenheiten nach Vorlage durch Vorstand
 
-    ## §9 Vorstand
+## §9 Vorstand
 
 9.1 Der Vorstand setzt sich aus dem Vorsitzenden und dem stellvertretenden Vorsitzenden, dem Kassenwart zusammen sowie bis zu sechs weiteren BeisitzerInnen. Die Amtszeit beträgt zwei Jahre. Die Wiederwahl ist zulässig. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt sind. Der Vorstand arbeitet ehrenamtlich.
 
