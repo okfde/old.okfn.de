@@ -267,11 +267,12 @@
 
 - name: Knut Perseke
   img: knutperseke
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
-  bio: "Knut arbeitet seit Februar 2015 als Entwickler bei der Open Knowledge Foundation. Er studiert Informatik an der TU Berlin und unterstützt verschiedene Projekte von der technischen Seite. Knut beschäftigt sich vor allem mit mobilen Anwendungen und Webentwicklung. Außerdem arbeitet er zurzeit im Projekt Mnemosyne, das es sich zur Aufgabe gemacht hat, Museumsbesuchern die Möglichkeit zu geben, Archive von kulturellen Institutionen neu zu entdecken."
+  bio: "Knut arbeitete von 2015 bis 2018 als Entwickler für die Open Knowledge Foundation. Er hat Informatik an der TU Berlin studiert und unterstützte vor allem die Projekte Coding da Vinci, Datenschule und Transparenzranking. Knut findet es spannend Geschichten mit Daten zu erzählen und durch die Nutzung verschiedener Quellen neue Erkenntnisse zu gewinnen."
   bio_en: "Knut works as a programmer with Open Knowledge Foundation Deutschland since February 2015. He is currently enrolled at TU Berlin (computer science) and supports our projects with his technical expertise. He focusses on mobile applications and web development, and is founding member of the project Mnemosyne, developing new forms of access to archives of cultural heritage institutions."
   mail: knut.perseke@okfn.de
   twitter: knutator

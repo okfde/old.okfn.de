@@ -11,8 +11,6 @@ people:
     role: Kommunikation
   - name: Moritz Neujeffski
     role: Workshopkonzeption
-  - name: Knut Perseke
-    role: Entwicklung
 contact:
   website: https://datenschule.de
   github: https://github.com/datenschule/offenesparlament.de

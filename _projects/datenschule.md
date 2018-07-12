@@ -10,8 +10,6 @@ video: "https://www.youtube.com/embed/tE8vx3TFIlM"
 people:
   - name: Anna Alberts
     role: Projektleitung
-  - name: Knut Perseke
-    role: Entwickler
   - name: Moritz Neujeffski
     role: Tech & Workshops
   - name: Jasmin Helm
