@@ -64,9 +64,10 @@
 
 - name: Sebastian Seitz
   img: sebastianseitz
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Sebastian leitet seit 2017 die Demokratielabore bei der Open Knowledge Foundation Deutschland. Vorher hat er bei einer gemeinnützigen Stiftung in den Themenfeldern Digitale Bildung und Open Educational Resources gearbeitet. In Bielefeld hat er seinen Abschluss in Erziehungswissenschaft mit den Schwerpunkten Schulpädagogik und Medien gemacht. Sebastian glaubt, dass freie Inhalte Treiber von Innovation im Bildungswesen sein können und ist großer Freund von Open-Source-Software und deren Einsatz in Schule und Unterricht."
   bio_en: "Sebastian is in charge of the Demokratielabore at the Open Knowledge Foundation Germany. Before that he worked for a non-profit foundation in the field of digitization of education and Open Educational Resources. He made his diploma in educational science at Bielefeld University with a focus on school pedagogics and media. Sebastian believes in open content as a driver of innovation in the educational sector. He is a friend of open source software and its usage in schools and classrooms."
@@ -364,8 +365,9 @@
 - name: Friedrich Lindenberg
   img: friedrichlindenberg
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
+  board_alumni: 1
   bio: "Friedrich Lindenberg unterstützt Journalisten bei der Auswertung öffentlicher Informationen und programmiert Software zur investigativen Datenanalyse, derzeit bei der Organisation OCCRP. Als Stipendiat der Knight-Stiftung arbeitete er zuletzt für ein Netzwerk von Investigativmedien im südlichen Afrika, davor bei Spiegel Online. Zuvor unterstützte er als Entwickler bei der britischen Open Knowledge Foundation den Aufbau des OpenSpending-Projektes."
   bio_en: "Friedrich Lindenberg supports journalists in the evaluation of public information and programs software for investigative data analysis. As a stipendiary of the Knight Foundation he has recently worked for a network of investigative media in Southern Africa, and before that at SPIEGEL ONLINE. Previously, he supported the British OKF in the crertion of the OpenSpending-Project as a developer."
   mail: friedrich.lindenberg@okfn.de
@@ -376,8 +378,9 @@
 - name: Dr. Christian Heise
   img: christianheise
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
+  board_alumni: 1
   position: Vorsitzender
   bio: "Dr. Christian Heise ist Vorsitzender der Open Knowledge Foundation Deutschland. Er ist Politologe und hat zum Thema Open Science am Centre for Digital Cultures an der Leuphana Universität Lüneburg promoviert. Derzeit ist er Mitglied des Google Digital News Initiative (DNI) Fund Teams. Zuvor war er als Manager bei der Deutschen Presse Agentur und bei ZEIT ONLINE tätig. Neben seiner ehrenamtlichen Tätigkeit im Vorstand der Open Knowledge Foundation ist er auch Gründungs- und Vorstandsmitglied im Förderverein für freie Netzwerke e.V. (freifunk.net)."
   bio_en: "Christian Heise is Manager of the Google Digital News Initiative Innovation Fund in Europe, working on stimulating innovation in the digital news ecosystem and demonstrating new thinking in the practice of digital journalism. He is also PhD Candidate at the Centre for Digital Cultures at Leuphana University Lüneburg, where he has handed in a PhD on Open Science. Previously, he was a manager at Deutsche Presse Agentur and worked at ZEIT ONLINE. Apart from his voluntary engagement in the board of OKF DE he is also founding and board member at Förderverein für Freie Netzwerke e.V. (freifunk.net)."
@@ -466,8 +469,9 @@
   title: Prof. Dr.
   img: soerenauer
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
+  board_alumni: 1
   position: Beisitzer
   bio: "Prof. Dr. Sören Auer leitet den Lehrstuhl Enterprise Information Systems an der Universität Bonn und eine Arbeitsgruppe am Fraunhofer Institut für Analysis und Informationssysteme (IAIS). Er ist Begründer mehrerer international beachteter Forschungs- und Entwicklungsvorhaben wie z.B. des Wikipedia-Semantifizierungs-Projektes DBpedia, der OpenCourseWare-Plattform SlideWiki.org oder des Social Semantic Web Toolkits OntoWiki. Dr. Auer ist Autor von über 100 referierten wissenschaftlichen Publikationen und Organisator vieler wissenschaftlicher Veranstaltungen. Seit 2010 leitet er das im EU RP7 geförderte Forschungsprojekt LOD2 – „Creating Knowledge out of Interlinked Data“. Er arbeitet als Experte für Unternehmen, die Europäische Kommission, das W3C und ist Mitglied des Advisory-Boards der Open Knowledge Foundation."
   bio_en: "Prof. Dr. Sören chairs the professorship Enterprise Information Systems at Universität Bonn and leads a working group at Fraunhofer Institute for Analysis and Information Systems (IAIS). He is founder of several internationally recognized research- and development projects such as the Wikipedia semantification project DBpedia, the OpenCourseWare platform SideWiki.org, or the Social Semantic Web Toolkit OntoWiki. Dr. Auer is author of more than 100 referenced sceintific publications and organiser of several scientific events. He recently lead the EU research project LOD2 - „Creating Knowledge out of Interlinked Data“. He works as an expert for businesses, the European Commission, the W3C, and is member of the advisory board at OKF DE."
@@ -482,8 +486,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Maximilian hat kleineAnfragen.de und sehrgutachten.de entwickelt. Für die Open Knowledge Foundation Deutschland arbeitet er ehrenamtlich aus Süddeutschland, wo er bei der Softwarefirma headissue angestellt ist."
-  bio_en: "Maximilian created kleineAnfragen.de and sehrgutachten.de. For the Open Knowledge Foundation Germany he works on a voluntary basis from Southern Germany, where he lives and works in his day-job at headissue."
+  bio: "Maximilian hat kleineAnfragen.de und sehrgutachten.de entwickelt. Für die Open Knowledge Foundation Deutschland arbeitet er ehrenamtlich aus Süddeutschland."
+  bio_en: "Maximilian created kleineAnfragen.de and sehrgutachten.de. For the Open Knowledge Foundation Germany he works on a voluntary basis from Southern Germany, where he lives."
   mail: "maximilian.richt@okfn.de"
   twitter: robbi5
   website: https://robbi5.de
@@ -506,12 +510,13 @@
 - name: Moritz Neujeffski
   title:
   img: moritzneujeffski
-  staff: 1
+  staff: 0
   board: 0
+  board_alumni: 1
   advisory: 0
   position:
-  bio: "Moritz arbeitet im Projekt Datenschule. Er gibt Workshops und unterstützt NGOs in der Datenanalyse und der datengestützten Kampagnenarbeit. Moritz hat an der Universität Maastricht European Studies und Public Policy and Human Development studiert und ist nebenher am Wissenschaftszentrum Berlin aktiv."
-  bio_en: "Moritz works at the School of Data. He gives workshops and supports NGOs in analysing and using data for their campaigning efforts. Moritz has studied European Studies and Public Policy and Human Development at Maastricht University and is also active at the Berlin Social Science Center."
+  bio: "Moritz arbeitete im Projekt Datenschule. Er gab Workshops und unterstützte NGOs in der Datenanalyse und der datengestützten Kampagnenarbeit. Moritz hat an der Universität Maastricht European Studies und Public Policy and Human Development studiert und ist nebenher am Wissenschaftszentrum Berlin aktiv."
+  bio_en: "Moritz worked at the School of Data. He gave workshops and supported NGOs in analysing and using data for their campaigning efforts. Moritz studied European Studies and Public Policy and Human Development at Maastricht University and is also active at the Berlin Social Science Center."
   mail: "moritz.neujeffski@okfn.de"
   twitter: m_neujeffski
   website:
@@ -531,10 +536,22 @@
   website:
   github:
 
+- name: Jana Wichmann
+  img: janawichmann
+  staff: 0
+  board: 1
+  advisory: 0
+  position:
+  bio: "Jana Wichmann ist jüngstes Mitglied des Vorstandes der Open Knowledge Foundation. Als Head of Operations & Agility bei der Innovationsberatung zero360 unterstützt sie Organisationen bei der Entwicklung von nutzer-zentrierten und agilen Prozessen. Janas Projekte umfassen u.a. die Begleitung strategischer Transformationsprozesse, die Konzeption und Umsetzung partizipativer Innovationsformate von der Problemanalyse über die Entwicklung neuer Lösungsansätze bis zum Nutzertesting. Zudem bildet sie Interessierte in nutzer-zentrierten und agilen Methoden aus. In ihren eigenen Projekten engagiert sie sich für die Institutionalisierung von Future und Design Thinking in Bildungseinrichtungen. Ihr Studium absolvierte sie in Medienmanagement an der Hochschule Mittweida und in Zukunftsforschung an der FU Berlin."
+  bio_en: "Jana Wichmann ist jüngstes Mitglied des Vorstandes der Open Knowledge Foundation. Als Head of Operations & Agility bei der Innovationsberatung zero360 unterstützt sie Organisationen bei der Entwicklung von nutzer-zentrierten und agilen Prozessen. Janas Projekte umfassen u.a. die Begleitung strategischer Transformationsprozesse, die Konzeption und Umsetzung partizipativer Innovationsformate von der Problemanalyse über die Entwicklung neuer Lösungsansätze bis zum Nutzertesting. Zudem bildet sie Interessierte in nutzer-zentrierten und agilen Methoden aus. In ihren eigenen Projekten engagiert sie sich für die Institutionalisierung von Future und Design Thinking in Bildungseinrichtungen. Ihr Studium absolvierte sie in Medienmanagement an der Hochschule Mittweida und in Zukunftsforschung an der FU Berlin."
+  mail: jana.wichmann@okfn.de
+  twitter:
+  website:
+
 - name: John David Langlo
   title:
   img: johnlanglo
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
@@ -772,11 +789,12 @@
 
 - name: Tanja Zagel
   img: tanjazagel
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
-  bio: "Tanja ist seit 2017 Projektleitung bei Jugend hackt. Zuvor hat sie eine deutschlandweite Initiative für frühe MINT-Bildung mit aufgebaut und in verschiedenen IT-Unternehmen gearbeitet. Sie ist überzeugt, dass digitale Technologien gut für die Gesellschaft sind - wenn wir sie gut machen. Deshalb arbeitet sie sehr gern an Jugend hackt, einem Projekt, das junge Menschen ermutigt, eine positive Vision für die digitale Zukunft zu entwickeln."
+  bio: "Tanja war 2017 und 2018 Projektleitung bei Jugend hackt. Zuvor hat sie eine deutschlandweite Initiative für frühe MINT-Bildung mit aufgebaut und in verschiedenen IT-Unternehmen gearbeitet. Sie ist überzeugt, dass digitale Technologien gut für die Gesellschaft sind - wenn wir sie gut machen. Deshalb arbeitet sie sehr gern an Jugend hackt, einem Projekt, das junge Menschen ermutigt, eine positive Vision für die digitale Zukunft zu entwickeln."
   bio_en: "Tanja is project lead of Jugend Hackt since October 2017. Before joining OKF, she has been building up a nationwide initiative supporting early-education in mathematics, tech and science. Previously, she worked for different IT-companies. Tanja is convinced that digital technology is good for our society - as long as we use it well. That’s why she loves working on Jugend Hackt, a project encouraging young people to develop a positive vision for our digital future."
   mail: "tanja.zagel@okfn.de"
   twitter:
@@ -805,3 +823,16 @@
   mail: "lea.pfau@okfn.de"
   twitter:
   website:
+
+- name: Lisa Passing
+  img: lisapassing
+  staff: 1
+  board: 0
+  advisory: 0
+  position: false
+  bio: "Lisa ist im April 2018 als Entwicklerin bei der OKF eingestiegen. Sie mag Privatsphäre."
+  bio_en: "Lisa entered the OKF in April 2018 as developer. She likes privacy."
+  mail: lisa.passing@okfn.de
+  twitter: false
+  website: 'https://lislis.de'
+  github: lislis

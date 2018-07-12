@@ -14,6 +14,8 @@ people:
     role: Tech & Workshops
   - name: Jasmin Helm
     role: Kommunikation
+  - name: Lisa Passing
+    role: Entwicklerin
 contact:
   website: https://datenschule.de
   twitter: datenschule

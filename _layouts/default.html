@@ -46,14 +46,13 @@
   <link rel="alternate" type="application/atom+xml" title="{% t blog.FeedTitle %}" href="{{ site.fullurl }}/atom.xml"/>
   <link rel="alternate" type="application/rss+xml" title="{% t blog.FeedTitle %}" href="{{ site.fullurl }}/feed/" />
   <link rel="shortcut icon" href="{{ site.staticurl }}images/favicon.ico">
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  {% endif %}
 </head>
 <body>
 
 {% include header.html %}
-{% if page.home %}
-<div data-component="dismissible-item" style="color: #222; font-size: 26px; line-height: 45px; position: fixed; top:50%; left:50%; width: 100%; margin:10px; z-index:10000; overflow: hidden; padding:0 50px; max-width:620px; transform: translate(-50%,-50%)"></div>
-<script type="text/javascript" src="https://offenerhaushalt.de/static/js/banner.js"></script>
-{% endif %}
 <main id="main-content">
   {% if page.home %}
   {{ content }}
