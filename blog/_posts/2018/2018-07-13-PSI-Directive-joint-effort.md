@@ -23,7 +23,7 @@ Today the joint [OKF comment for the PSI directive recast was submitted](http://
 
 Thanks to OKF international, OKFFI and OKFAT for the combined effort.
 
-More background information and rough timeline of the next steps:
+More background information and a rough timeline of the next steps:
 
 The committee responsible for the PSI Directive is [ITRE](http://www.europarl.europa.eu/committees/en/itre/home.html), the Industry, Research and Energy Committee.
 
