@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "PSI Directive - joint effort by OKF and friends"  
 ---
 
