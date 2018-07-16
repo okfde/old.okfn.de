@@ -21,19 +21,19 @@ A short update on the PSI directive (the
 proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the re-use of public sector information (recast). 
 Today the joint [OKF comment for the PSI directive recast was submitted](http://ec.europa.eu/info/law/better-regulation/initiatives/com-2018-234/feedback/F12687_en).
 
-Thanks to OKF international, OKFFI and OKFAT for the combined effort.
+Thanks to [Open Knowledge International](https://blog.okfn.org/2018/06/21/europes-proposed-psi-directive-a-good-baseline-for-future-open-data-policies/), [OK Finnland](http://okf.fi) and [OK Austria](https://okfn.at) for the combined effort.
 
 More background information and a rough timeline of the next steps:
 
 The committee responsible for the PSI Directive is [ITRE](http://www.europarl.europa.eu/committees/en/itre/home.html), the Industry, Research and Energy Committee.
 
-The report is expected towards the end of October, rapporteur is [Neoklis Sylikiotis](http://www.europarl.europa.eu/meps/nl/124689/NEOKLIS_SYLIKIOTIS_home.html) (GUE/NGL). 
+The report is expected towards the end of October, rapporteur is [Neoklis Sylikiotis](http://www.europarl.europa.eu/meps/nl/124689/NEOKLIS_SYLIKIOTIS_home.html) (GUE/NGL).<br> 
 <i>(Hint: Anybody from the Greek open data scene is highly welcome to talk to us or to Neoklis Sylikiotis.)</i>
 
 ITRE shadow rapporteurs are: EPP: [Michal Boni](http://www.europarl.europa.eu/meps/nl/124896/MICHAL_BONI_home.html), S&D [Razvan Popa](http://www.europarl.europa.eu/meps/en/189490/Răzvan_POPA_home.html), ALDE [Morten Helveg Petersen](http://www.europarl.europa.eu/meps/en/124872/MORTEN+HELVEG_PETERSEN_home.html), Greens: [Julia Reda](http://www.europarl.europa.eu/meps/nl/124816/JULIA_REDA_home.html)
 [More details here:](http://www.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=&reference=2018/0111(COD))
 
-IMCO has special competence, which is why it is also good to address these shadow rapporteurs*:
+IMCO has special competence, which is why it is also good to address these shadow rapporteurs:
 
 EPP [Sabine Verheyen](http://www.europarl.europa.eu/meps/nl/96756/SABINE_VERHEYEN_home.html), S&D [Liisa Jaakonsaari](http://www.europarl.europa.eu/meps/fi/96684/LIISA_JAAKONSAARI_home.html), ECR [Richard Sulik](http://www.europarl.europa.eu/meps/nl/124928/RICHARD_SULIK_home.html), ALDE [Dita Charanzova](http://www.europarl.europa.eu/meps/nl/124708/DITA_CHARANZOVA_home.html)
 
@@ -41,7 +41,7 @@ Timeline in IMCO: Deadline for amendments was 12.07.18, compromises will be nego
 
 Timeline ITRE: Rapporteur's draft report must be submitted by the end of September, it will be presented publicly on 8th or 9th October, 11th October deadline for amendments, vote on 3rd December.
 
-The first talks with the Council could then take place in Strasbourg in week 50.
+The first talks with the Council could then take place in Strasbourg in calendar week 50.
 
 If the Austrians want to have a good say during their presidency, the Council should also have its "General Approach" ready by calendar week 50, so that the negotiations can start. However, completion is not expected to take place before the end of January under the Romanian Presidency.
 
