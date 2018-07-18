@@ -1,6 +1,6 @@
 ---
 authors: OKF
-date: 2018-07-18
+date: 2018-07-17
 image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
   title: frankieleon, A tale of three men
