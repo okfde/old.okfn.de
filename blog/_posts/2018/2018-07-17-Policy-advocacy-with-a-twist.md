@@ -5,8 +5,7 @@ image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
   title: frankieleon, A tale of three men
   license: CC-BY
-  license_url: https://creativecommons.org/licenses/by/2.0/
--transparent/29113
+  license_url: https://creativecommons.org/licenses/by/2.0/transparent/29113
 tags:
 - Freedom of Information
 - Open Data
