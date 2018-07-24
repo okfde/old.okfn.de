@@ -8,7 +8,7 @@ background: backgrounds/services.jpg
 
 Satzung der Open Knowledge Foundation Deutschland
 
-in der von der Gründungsversammlung vom 19.02.2011 in Berlin beschlossenen und auf der Mitgliederversammlung am 23.08.2012 in Berlin geänderten Fassung.
+in der von der Gründungsversammlung vom 19.02.2011 in Berlin beschlossenen und auf der Mitgliederversammlung am 11.11.2017 in Berlin geänderten Fassung.
 
 ## §1 Name, Sitz und Geschäftsjahr
 
