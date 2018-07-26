@@ -26,7 +26,8 @@ in der von der Gründungsversammlung vom 19.02.2011 in Berlin beschlossenen und 
 
 2.2. Die Verwirklichung der Vereinszwecke erfolgt durch:
 
-Das Abhalten von Bildungsveranstaltungen (Workshops, Seminare, Arbeitsgruppen, Informationsveranstaltungen und Vorträgen). Die Förderung von Wissenschaft und Forschung durch Pilotprojekte interdisziplinärer wissenschaftlicher Art sowie durch qualitative und quantitative wissenschaftliche Studien sowie deren Veröffentlichung.
+* Das Abhalten von Bildungsveranstaltungen (Workshops, Seminare, Arbeitsgruppen, Informationsveranstaltungen und Vorträgen). 
+* Die Förderung von Wissenschaft und Forschung durch Pilotprojekte interdisziplinärer wissenschaftlicher Art sowie durch qualitative und quantitative wissenschaftliche Studien sowie deren Veröffentlichung.
 
 ## §3 Gemeinnützigkeit
 
@@ -81,7 +82,7 @@ Die Organe des Vereins sind
 
 ## §8 Aufgaben der Mitgliederversammlung
 
-8.1 Der Mitgliederversammlung als Beschluss fassendem Vereinsorgan obliegen alle Aufgaben, es sei denn, diese sind ausdrücklich laut Satzung einem anderen Vereinsorgan übertragen worden.
+8.1 Der Mitgliederversammlung als beschlussfassendes Vereinsorgan obliegen alle Aufgaben, es sei denn, diese sind ausdrücklich laut Satzung einem anderen Vereinsorgan übertragen worden.
 
 8.2 Die Mitgliederversammlung wählt aus der Reihe der ordentlichen Mitglieder den Vorstand. Gewählt sind die Personen, die die meisten Stimmen auf sich vereinigen. Die Wahl findet offen durch Handaufheben statt.
 
@@ -89,7 +90,7 @@ Die Organe des Vereins sind
 
 8.4 Die Mitgliederversammlung entlastet den Vorstand nach Entgegennahme des jährlich schriftlich vorzulegenden Geschäftsberichts / Jahresberichts des Vorstandes und des Prüfungsberichts des Kassenprüfers.
 
-8.5 Die Mitgliederversammlung entscheidet über den vom Vorstand jährlich vorzulegenden Haushaltsplan.
+8.5 weggefallen
 
 8.6 Die Mitgliederversammlung hat Satzungsänderungen und Vereinsauflösungen zu beschließen.
 
@@ -102,7 +103,6 @@ Die Organe des Vereins sind
 * An-und Verkauf von Vereinsvermögen
 * Belastung von Vereinsvermögen und Grundbesitz
 * Beteiligung an Gesellschaften
-* Aufnahme von Darlehen ab 500,- EUR
 * Genehmigung aller Geschäftsordnungen
 * Auflösung des Vereins
 * weitere Angelegenheiten nach Vorlage durch Vorstand
@@ -129,7 +129,8 @@ Die Organe des Vereins sind
 
 §10 Kassenprüfung
 
-Die Mitgliederversammlung wählt für die Dauer von einem Jahr einen Kassenprüfer. Dieser darf Mitglied des Vorstands sein. Die Wiederwahl ist zulässig.
+Die Mitgliederversammlung wählt für die Dauer von einem Jahr zwei Kassenprüfer\*innen. Diese dürfen
+nicht Mitglied des Vorstands oder der Belegschaft sein. Die Wiederwahl ist zulässig.
 
 §11 Vereinsfinanzierung, Auflösung des Vereins
 
