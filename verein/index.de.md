@@ -152,3 +152,5 @@ Signifikante Gelder für 2013 wurden von der Europäischen Kommission, dem Open 
 Signifikante Gelder für 2012 wurden von der Europäischen Kommission, dem Open Society Institute und der OKFN-International beigesteuert.
 
 Signifikante Gelder für 2011 stammen von der Bundeszentrale für politische Bildung, Google Deutschland, der Heinrich-Böll-Stiftung und der Kreditanstalt für Wiederaufbau.
+
+Ein Test, um zu schauen, ob alles gut geht!!
