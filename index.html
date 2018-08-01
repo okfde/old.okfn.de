@@ -5,97 +5,74 @@ card: true
 title: Open Knowledge Foundation Deutschland
 description: Offenes Wissen für die digitale Gesellschaft
 ---
-<div class="start-banner">
+<div class="page-intro">
 	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<h1 class="start-headline">{% t start.Slogan %}</h1>
+		<div class="row padded-left">
+			<div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+				<h1>{% t start.Slogan %}</h1>
+				<div class="page-opener">
+					<p class="intro">{% t start.Intro %}</p>
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="container start-opener">
-	<div class="row padded-row">
-		<div class="col-md-12">
-			<p class="intro">{% t start.Intro %}</p>
-			<p class="intro">{% t start.Willkommen %}</p>
-		</div>
-		{% assign projects = site.projects %}
-		{% for project in projects %}
-		{% capture langcontent %}{{ project[site.lang].stats }}{% endcapture %}
-		{% if langcontent != '' %}
-		<div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-5 col-md-3 col-md-offset-0">
-			<div class="showcase">
-				<a href="{{ site.baseurl }}{{project.url}}"><img src="{{ site.staticurl }}images/{{project.img_square}}" alt="{{project.title | xml_escape}}" class="img-circle"/></a>
-				<h4 class="kpi">{{ langcontent }}</h4>
-				<p class="detail">
-					{% capture teasercontent %}{{ project[site.lang].teaser }}{% endcapture %}
-					{{ teasercontent }}
-				</p>
+<div class="container">
+	<div class="row padded-left">
+		<div class="featured-project-section">
+			<div class="featured-project-item dark-section">
+				<a href="projekte/jugendhackt/">
+					<div class="project-statement">
+						<h3>Jugend Hackt</h3>
+						<p>
+							300 Jugend-Hacker experimentieren bei Jugend hackt mit Code und Freundschaft.
+						</p>
+					</div>
+				</a>
+			</div>
+			<div class="featured-project-item dark-section">
+				<a href="projekte/fragdenstaat/">
+					<div class="project-statement">
+						<h3>FragDenStaat</h3>
+						<p>
+							20 000+ Anfragen wurden bei FragDenStaat.de von BürgerInnen an Behörden gestellt.
+						</p>
+					</div>
+				</a>
+			</div>
+			<div class="featured-project-item dark-section">
+				<a href="projekte/codeforde/">
+					<div class="project-statement">
+						<h3>Code for Germany</h3>
+						<p>
+							25 OK Labs entwickeln Tools für digitale Städte in ganz Deutschland.
+						</p>
+					</div>
+				</a>
 			</div>
 		</div>
-		{% endif %}
-		{% endfor %}
 	</div>
 </div>
 
-{% if page.lang == 'en' %}
-	<div class="fond__blue">
-		<div class="container padded-row">
-			<div class="row">
-				<div class="col-md-12">
-					<h2>News News News</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-sm-8 col-sm-offset-2 col-xs-12">
-					<p>Exciting news from Open Knowledge Foundation Germany: together with <a href="http://algorithmwatch.org">AlgorithmWatch</a> we launched our first mydata project <a href="https://www.startnext.com/openschufa"> OpenSCHUFA</a>, which aims to reconstruct the Schufa (German credit scoring) algorithm with „reverse engineering“. The campaign generated Germany-wide media attention, thousands of personal data requests and over €30.000 in crowdunding.<br>
-					In addition, we opened the fourth round of our <a href="https://prototypefund.de">Prototype Fund</a> for applications. With the theme 'Power to the users – more sovereignty, security and trust through open source tools', software developers, hackers, and creatives in Germany can apply for funding until 31 March.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-{% endif%}
-
-<div class="light-section">
+<div class="blog-section">
 	<div class="container padded-row">
 		<div class="row">
 			<div class="col-md-12">
-				<h2>{% t start.Spenden %}</h2>
+				<h2>{% t start.AusUnseremBlog %}</h2>
 			</div>
 		</div>
 		<div class="row">
-			<img class="col-md-5 col-md-offset-1" style="max-width: 100%" src="{{ site.staticurl }}images/campaign/okf_adjectives.gif" alt="unabhängig, überparteilich, gemeinnützig"/>
-		</div>
-		<div class="row">
-			<div class="col-sm-7 col-sm-offset-5 col-xs-12">
-				<p>{% t start.SpendenText %}</p>
-				<p>
-          <a href="{{ site.baseurl }}/spenden/" class="highlight-link">{% t start.SpendenJa %}</a>
-        </p>
-			</div>
+			{% assign relatedArray = '' | split:':' %}
+			{% for post in site.posts limit: 4 %}
+			{% assign relatedArray = relatedArray | push: post %}
+			{% endfor %}
+			{% include post_previews.html posts=relatedArray %}
 		</div>
 	</div>
 </div>
 
-
-<div class="container padded-row">
-	<div class="row">
-		<div class="col-md-12">
-			<h2>{% t start.AusUnseremBlog %}</h2>
-		</div>
-	</div>
-	<div class="row row-flex row-flex-wrap">
-		{% assign relatedArray = '' | split:':' %}
-		{% for post in site.posts limit: 4 %}
-		{% assign relatedArray = relatedArray | push: post %}
-		{% endfor %}
-		{% include post_previews.html posts=relatedArray %}
-	</div>
-</div>
-
-<div id="newsletter" class="dark-section darker">
+<div id="newsletter"">
 	<div class="container padded-row">
 		<div class="row">
 			<div class="col-md-12">
@@ -104,18 +81,17 @@ description: Offenes Wissen für die digitale Gesellschaft
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2 col-xs-12 padded-top">
+			<div class="col-sm-8 col-xs-12 padded-top">
 				<form action="//okfn.us5.list-manage.com/subscribe/post?u=929f1e07936386d34833e20d1&amp;id=4ed2decd59" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="text-center mc-form" target="_blank">
 					<div class="input-group">
-						<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="E-Mail" required>
-				  	<span class="input-group-btn">
-						<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">{% t start.NewsletterJa %}</button>
-						<span style="position: absolute; left: -5000px;">
-							<input type="text" name="b_929f1e07936386d34833e20d1_bb63fcab72" value="">
-							<!-- set to newsletter only-->
-							<input type="checkbox" value="1" checked="checked" name="group[16985][1]" id="mce-group[16985]-16985-0" style="display:none;">
-						</span>
-				  	</span>
+
+							<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="E-Mail" required>
+							<button class="input-group-btn" type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">{% t start.NewsletterJa %}</button>
+							<span style="position: absolute; left: -5000px;">
+								<input type="text" name="b_929f1e07936386d34833e20d1_bb63fcab72" value="">
+								<!-- set to newsletter only-->
+								<input type="checkbox" value="1" checked="checked" name="group[16985][1]" id="mce-group[16985]-16985-0" style="display:none;">
+							</span>
 					</div>
 				</form>
 			</div>

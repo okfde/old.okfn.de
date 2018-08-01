@@ -6,13 +6,19 @@ background: backgrounds/background.jpg
 menu_team: yes
 ---
 {% assign staff = site.data.team | where:"staff",1 | sort: "name" %}
-<div class="lurking-header">
-  <h1>Team</h1>
-  <p>
-    Das Team der Open Knowledge Foundation besteht momentan aus {{ staff|size }} Personen. Sie arbeiten in verschiedenen Projekten an den Themen des Vereins.<br/>
-    Die Mitglieder des Vorstands haben wir <a href="../vorstand/">hier aufgelistet</a>.
-  </p>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-10 col-lg-10">
+      <h1>
+        Wir sind ein interdisziplinäres Team aus insgesamt {{ staff|size }} Personen – Aktivistinnen, Projektleiter, Entwicklerinnen und Designer.
+      </h1>
+    </div>
+  </div>
 </div>
+
+
+
 {% for person in staff %}
   {% assign order=forloop.index0|modulo:2 %}
   {% include person.html person=person order=order %}
@@ -22,5 +28,7 @@ menu_team: yes
 <div class="row person">
   <div class="col-md-12 text-center">
     Ehemalige Mitglieder des Teams sind <a href="/vorstand/alumni">hier</a> zu finden.
+    Die Mitglieder des Vorstands haben wir <a href="../vorstand/">hier aufgelistet</a>.
+
   </div>
 </div>

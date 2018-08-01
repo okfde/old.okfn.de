@@ -4,15 +4,20 @@ title: titles.Themen
 menu_themen: yes
 ---
 {% assign themen = site.pages|where:"layout","thema"|where:"lang",site.lang|sort:"title" %}
-<div class="lurking-header">
-	<h1>{% t themen.Themen %}</h1>
-	<p>{% t themen.Intro %}</p>
+
+<div class="container page-intro">
+	<div class="row">
+		<div class="col-sm-12 col-md-10 col-lg-10">
+			<h1>{% t themen.Intro %}</h1>
+		</div>
+	</div>
 </div>
 
+<div class="container">
 {% for thema in themen %}
-<div class="row themen-item">
-	<div class="col-md-4 themen-image" {% if thema.background.size> 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}></div>
-	<div class="col-md-8 themen-col">
+	<div class="row themen-item">
+		<div class="col-md-4 themen-image" {% if thema.background.size> 0 %}style="background-image:url('{{ site.staticurl }}images/{{ thema.background }}');"{% endif %}></div>
+		<div class="col-md-8 themen-col">
 			<h2>
 				<a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">{{ thema.title }}</a>
 			</h2>
@@ -21,6 +26,7 @@ menu_themen: yes
 				<a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}"><span class="highlight-link">{% t themen.Mehr %}</span>
 				</a>
 			</p>
+		</div>
 	</div>
 </div>
 {% endfor %}

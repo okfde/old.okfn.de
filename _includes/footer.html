@@ -4,10 +4,8 @@
 			<div class="row">
 				<div class="col-sm-10 col-xs-12 nav-items">
 					<ul>
-						<li{% if page.menu_team %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/team/">{% t navig.Team %}</a></li>
 						<li{% if page.menu_vorstand %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/vorstand/">{% t navig.Vorstand %}</a></li>
 						<li{% if page.menu_verein %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/verein/">{% t navig.Verein %}</a></li>
-						<li{% if page.menu_services %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/services/">{% t navig.Services %}</a></li>
 
 						<li{% if page.menu_presse %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/presse/">{% t navig.Presse %}</a></li>
 						<li{% if page.menu_jobs %} class="active"{% endif %}><a class="nav-link" href="{{ site.baseurl }}/jobs/">{% t navig.Jobs %}</a></li>
@@ -32,9 +30,6 @@
 				<div class="col-md-8">
 					<p>{% t footer.piwik_hint %}</p>
 					<p>{% t footer.license %}</p>
-				</div>
-				<div class="col-md-3 col-md-offset-1">
-					<a href="{{ site.baseurl }}"><img class="logo-cellar" src="{{site.staticurl}}images/logo_footer.png" alt="Open Knowledge Foundation Deutschland e.V."></a>
 				</div>
 			</div>
 		</div>

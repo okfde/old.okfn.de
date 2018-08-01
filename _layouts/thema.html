@@ -6,29 +6,26 @@ menu_themen: yes
 
 <div class="lurking-header topic">
   <div class="row">
-    <div class="col-md-10 col-md-offset-1">
+    <div class="col-xs-12 col-md-offset-2 col-md-8">
       <div class="post-content">{{ content }}</div>
     </div>
   </div>
 </div>
-<hr />
 <h3 class="subtle-section">{% t thema.WeitereThemen %}</h3>
 
 <div class="row">
-  <div class="col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10">
-    <div class="row row-flex row-flex-wrap">
+  <div class="col-xs-12 col-md-offset-1 col-md-10">
+    <div class="row">
       {% assign themen = site.pages|where:"layout","thema"|where:"lang",site.lang|sort:"title" %}
       {% for thema in themen %}
       {% if thema.title != page.title %}
 
-        <div class="project-item flex-col col-md-6 col-sm-6 col-xs-12">
-          <div class="project-box text-only mini">
-            <a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
-              <div class="project-box-inner">
-                <h3>{{ thema.title }}</h3>
-              </div>
-            </a>
-          </div>
+        <div class="text-only mini">
+          <a href="{{ site.baseurl }}/{{ thema.url|replace_first:'/',''|replace_first:'index.html','' }}">
+            <div class="project-box-inner">
+              <h3>{{ thema.title }}</h3>
+            </div>
+          </a>
         </div>
 
       {% endif %}

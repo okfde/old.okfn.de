@@ -5,7 +5,7 @@ background: backgrounds/opendata.jpg
 teaser: Daten sind das Rückgrat einer digitalen Gesellschaft. Offene Daten müssen von jedermann frei verwendet, nachgenutzt und verbreitet werden können. Davon ausgenommen sind personenbezogene Daten.
 ---
 # Offene Daten
-> Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und "share-alike". Davon ausgenommen sind personenbezogene Daten.
+Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und "share-alike". Davon ausgenommen sind personenbezogene Daten.
 
 Die wichtigsten Eigenschaften offener Daten sind:
 
@@ -15,7 +15,7 @@ Die wichtigsten Eigenschaften offener Daten sind:
 
 [Hier geht es zur ausführlichen Definition von offenem Wissen ("Open Definition")](http://opendefinition.org/okd/deutsch/).
 
-## Welche Arten von offenen Daten gibt es?
+### Welche Arten von offenen Daten gibt es?
 
 Es gibt eine Vielzahl von gesellschaftlichen Bereichen in denen Personen und Organisationen Daten sammeln, hier ein paar Beispiele:
 
@@ -27,11 +27,11 @@ Straßen und Gebäude, bis hin zu Topographien und Grenzen.
 * Finanzendaten sind Beispielsweise Haushaltsdaten der öffentlichen Hand (Ausgaben, Einkommen) oder Informationen zu Finanzmärkten (Aktien, Anleihen).
 * wissenschaftliche Daten entstehen innerhalb einer wissenschaftlichen Forschung, von Astronomie bis Zoologie.
 
-## Wozu überhaupt Daten öffnen?
+### Wozu überhaupt Daten öffnen?
 
 In einer gut funktionierenden, demokratischen Gesellschaft müssen die Bürgerinnen und Bürger wissen, was ihre Regierung tut. Um das zu gewährleisten, braucht es **Transparenz und demokratische Kontrolle**, sowie einen freien Zugang zu staatlichen Daten und Informationen und die Möglichkeit diese Informationen mit anderen Bürgern zu teilen. Im digitalen Zeitalter sind Daten die Schlüsselressourcen für gesellschaftliche und wirtschaftliche Aktivitäten. Durch die Öffnung von Daten können Regierungen dabei helfen, die Gründung innovativer Unternehmen und Dienstleistungen voranzutreiben, die wiederum **gesellschaftlichen und wirtschaftlichen Mehrwert** schaffen. Die Öffnung von Daten ermöglicht **Partizipation** und eine informierte Einbeziehung in die politische Entscheidungsfindung.
 
-## Wie können Daten geöffnet werden?
+### Wie können Daten geöffnet werden?
 
 Wenn Du auf der Suche nach detaillierten, praktischen Ratschlägen bist, die zeigen wie man Daten öffnen kann, dann schau Dir das [Open Data Handbuch](http://opendatahandbook.org/de/how-to-open-up-data/index.html) an. Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
 

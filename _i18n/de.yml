@@ -1,4 +1,5 @@
 navig:
+  Über uns: ueber
   Themen: Themen
   Projekte: Projekte
   Blog: Blog
@@ -21,9 +22,7 @@ themen:
   Themen: Themen
   Mehr: mehr erfahren
   Intro:  >
-     Der Open Knowledge Foundation Deutschland e.V. versteht sich als aktiver Teil der deutschen und europäischen Zivilgesellschaft.
-     Wir fördern und stärken die Menschenrechte.
-     Wir setzen uns dabei insbesondere für folgende Themen der digitalen Gesellschaft ein:
+     Wir setzen uns für folgende Themen der digitalen Gesellschaft ein
 projekte:
   Projekte: Projekte
   Intro: >
@@ -71,12 +70,10 @@ pagination:
   Naechste: Nächste
   Uebersprungen: Übersprungen
 start:
-  Slogan: Offenes Wissen<br/>für die digitale Gesellschaft
+  Slogan: Hi, wir sind die OKF. Wir setzen uns für offenes Wissen in einer digitalen Gesellschaft ein.
   Intro: >
-    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein,<br class="hidden-xs hidden-sm"/>
-    der sich für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt.
-  Willkommen: >
-    Hier kannst du mehr über unsere <a href="/verein/">Organisation</a>, unsere <a href="/mission/">Ziele</a> und unsere <a href="/projekte/">Projekte</a> erfahren.
+    Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein. <br class="hidden-xs hidden-sm"/>Wir befähigen Menschen das demokratische Potential von Technologien zu erkennen und zu nutzen.
+    Dafür organisieren wir Events, bauen Communities auf, entwickeln Bildungsangebote und eigene Software.
   Spenden: Unsere Arbeit ist
   SpendenText: >
     Bitte spenden Sie uns, damit wir uns weiterhin effektiv für freies Wissen, offene Daten und Beteiligung einsetzen können.
@@ -84,7 +81,7 @@ start:
   SpendenNein: Stop. Erstmal mehr erfahren.
   Newsletter: Newsletter
   NewsletterText: >
-    Du möchtest über die Open Knowledge Foundation auf dem Laufenden bleiben?<br>Dann trag Dich in unseren monatlichen Newsletter ein!
+    Du möchtest über die Open Knowledge Foundation auf dem Laufenden bleiben?<br> Unser monatlicher Newsletter informiert über Neuigkeiten aus unseren Projekten sowie Veranstaltungen, auf denen wir zu treffen sind!
   NewsletterJa: Abonnieren
   AusUnseremBlog: Aus unserem Blog
 footer:
@@ -92,7 +89,7 @@ footer:
     Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben,
     nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert.
   piwik_hint: >
-    okfn.de nutzt statt den üblichen externen Dienstleistern die datenschutzfreundlichere Technologie von
+    Wir verwenden die datenschutzfreundlichere Technologie von
     <a href="https://matomo.org">Matomo</a>, um statistische Auswertungen der Seitennutzung zu erhalten. Wenn sie dies
     nicht wollen, <a href="https://traffic.okfn.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de">klicken
     Sie bitte hier und entfernen Sie den Haken</a>. Näheres in <a href="/impressum/#datenschutzerklaerung">unserer
