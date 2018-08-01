@@ -127,15 +127,15 @@ Die Organe des Vereins sind
 
 9.9 Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.
 
-§10 Kassenprüfung
+## §10 Kassenprüfung
 
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr zwei Kassenprüfer\*innen. Diese dürfen
 nicht Mitglied des Vorstands oder der Belegschaft sein. Die Wiederwahl ist zulässig.
 
-§11 Vereinsfinanzierung, Auflösung des Vereins
+## §11 Vereinsfinanzierung, Auflösung des Vereins
 
 Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für Förderung von Wissenschaft und Forschung und / oder der Volksbildung.
 
-§12 Inkraftsetzung
+## §12 Inkraftsetzung
 
 Diese Satzung tritt mit der Eintragung in das Vereinsregister in Kraft.
