@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 title: "Offenes Parlament"
 url: https://offenesparlament.de
 img: projects/offenesparlament.png
