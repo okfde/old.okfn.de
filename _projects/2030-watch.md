@@ -6,8 +6,6 @@ layout: project
 people:
   - name: Rebecca Varghese Buchholz
     role: Projektleitung
-  - name: John David Langlo
-    role: Projektassistenz
   - name: Saadya Windauer
     role: Projektmanagerin 
 contact:
