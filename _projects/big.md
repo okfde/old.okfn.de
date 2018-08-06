@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 title: BIG
 url: http://big-project.eu/
 img: projects/big.jpg
