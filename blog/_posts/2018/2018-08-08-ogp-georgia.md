@@ -2,8 +2,8 @@
 authors: Michael Peters
 date: 2018-08-07
 image:
-  src: /files/blog/2018/08/OGP-Georgia.jpg.jpg
-  title: Copyright: Richard Pietro 
+  src: /files/blog/2018/08/OGP-Georgia.jpg
+  title: Copyright Richard Pietro 
 tags:
 - Open Government
 - Policy
@@ -14,8 +14,6 @@ card: true
 published: true
 title: "Rückblick: Open Government Global Summit 2018"
 ---
-
-### Pushing for transparency in lawmaking
 
 Beim „5. Open Government Global Summit 2018” der Open Government Partnership (OGP) in Tiflis tauschten sich vom 17. bis 19. Juli etwa 2000 Teilnehmer aus Regierung, Verwaltung und Zivilgesellschaft aus über 75 Ländern aus. 
 
