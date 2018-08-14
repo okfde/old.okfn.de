@@ -11,17 +11,19 @@ Our work is independent, unbiased, interdisciplinary, and non-commercial. Almost
 
 Our bank account for donations, transfers, and standing orders:
 
-Name
-: Open Knowledge Foundation Deutschland e.V.
+<noscript><p>Please enable JavaScript if you're not a robot.</p></noscript>
+<script>document.write(`
+<dl>
+  <dt>Name</dt>
+  <dd>Open Knowledge Foundation Deutschland e.V.</dd>
+  <dt>Bank account</dt>
+  <dd>1173893200</dd>
+  <dt>IBAN</dt>
+  <dd>DE36430609671173893200</dd>
+  <dt>BIC</dt>
+  <dd>GENODEM1GLS</dd>
+</dl>`)</script>
 
-Bank account
-: 1173893200
-
-IBAN
-: DE36430609671173893200
-
-BIC
-: GENODEM1GLS
 
 ## Donate via betterplace
 

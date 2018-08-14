@@ -25,19 +25,20 @@ Die Open Knowledge Foundation Deutschland ist als gemeinnützig anerkannt ([Nach
 
 Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
 
-Kontoinhaber
-: Open Knowledge Foundation Deutschland e.V.
+<noscript><p>Bitte JavaScript einschalten wenn du kein Roboter bist.</p></noscript>
+<script>document.write(`
+<dl>
+  <dt>Kontoinhaber</dt>
+  <dd>Open Knowledge Foundation Deutschland e.V.</dd>
+  <dt>Kontonummer</dt>
+  <dd>1173893200</dd>
+  <dt>IBAN</dt>
+  <dd>DE36430609671173893200</dd>
+  <dt>BIC</dt>
+  <dd>GENODEM1GLS</dd>
+</dl>`)</script>
 
-Kontonummer
-: 1173893200
-
-IBAN
-: DE36430609671173893200
-
-BIC
-: GENODEM1GLS
-
-Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem 
+Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem
 [Vereinfachten Zuwendungsnachweis]({{ site.url }}/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
 
   <br>
