@@ -169,8 +169,8 @@
   board: 0
   advisory: 0
   position:
-  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
-  bio_en: "Bela works at the Open Knowledge Foundation Germany as project manager of the educational projects "DatenmachenSchule" and "Turing-Bus". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators*."
+  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte \"DatenmachenSchule\" und \"Turing-Bus\". Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
+  bio_en: "Bela works at the Open Knowledge Foundation Germany as project manager of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators*."
   mail: bela.seeger@okfn.de
   twitter: bela_data
   website: https://github.com/seegerseeger/
