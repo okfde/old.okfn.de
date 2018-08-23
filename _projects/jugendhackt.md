@@ -15,6 +15,8 @@ people:
     role: Organisation
   - name: Lea Schubert
     role: Bufdine
+  - name: Sonja Fischbauer
+    role: tba
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
