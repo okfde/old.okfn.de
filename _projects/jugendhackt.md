@@ -13,8 +13,6 @@ people:
     role: Projektleitung
   - name: Lea Schubert
     role: Bufdine
-  - name: Sonja Fischbauer
-    role: Projektleitung
   - name: Doris Jantoljak
     role: Design
   - name: Philip Steffan
