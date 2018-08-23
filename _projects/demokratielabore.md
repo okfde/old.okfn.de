@@ -18,6 +18,8 @@ people:
     role: Studentischer Mitarbeiter
   - name: Lea Pfau
     role: Studentische Mitarbeiterin
+  - name: Sonja Fischbauer
+    role: Projektmanagerin
 contact:
   website: http://demokratielabore.de
   twitter: demokratielabs
