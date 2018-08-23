@@ -9,14 +9,16 @@ img_square: projects/AlpakaWebseite.png
 people:
   - name: Maria Reimer
     role: Projektleitung
-  - name: Tanja Zagel
-    role: Projektleitung
   - name: Paula Grünwald (geb. Glaser)
     role: Organisation
   - name: Lea Schubert
     role: Bufdine
   - name: Sonja Fischbauer
-    role: tba
+    role: Projektleitung
+  - name: Doris Jantoljak
+    role: Design
+  - name: Philip Steffan
+    role: Community
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
