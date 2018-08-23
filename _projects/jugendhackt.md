@@ -7,10 +7,10 @@ url: http://jugendhackt.de
 img: projects/Logo_Claim.png
 img_square: projects/AlpakaWebseite.png
 people:
-  - name: Maria Reimer
-    role: Projektleitung
   - name: Paula Grünwald (geb. Glaser)
-    role: Organisation
+    role: Projektleitung
+  - name: Sonja Fischbauer
+    role: Projektleitung
   - name: Lea Schubert
     role: Bufdine
   - name: Sonja Fischbauer
@@ -19,6 +19,10 @@ people:
     role: Design
   - name: Philip Steffan
     role: Community
+  - name: Cin Pietschmann
+    role: Studentische Hilfskraft
+  - name: Torben Reichert
+    role: Entwickler
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
