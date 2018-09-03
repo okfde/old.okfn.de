@@ -21,7 +21,7 @@ Update: [Stellungnahme zur PSI Richtlinie](https://github.com/okfde/okfn.de/blob
 
 A short update on the PSI directive (the 
 proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the re-use of public sector information (recast). 
-Today the joint [Open Knowledge comment for the PSI directive recast was submitted](http://ec.europa.eu/info/law/better-regulation/initiatives/com-2018-234/feedback/F12687_en).
+Today the joint [Open Knowledge comment for the PSI directive recast was submitted]https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/OKF-PSI-Directive-amendments.pdf).
 
 Thanks to [Open Knowledge International](https://blog.okfn.org/2018/06/21/europes-proposed-psi-directive-a-good-baseline-for-future-open-data-policies/), [OK Finnland](http://okf.fi) and [OK Austria](https://okfn.at) for the combined effort.
 
