@@ -14,15 +14,15 @@ tags:
 type: post
 layout: post
 card: true
-published: false
-title: "OParl 1.1: Neue Version mit vielen Detail-Verbesserungen, mehr teilnehmende Kommunen und viel Aktivität bei offenen Ratsinformationssystemen"
+published: true
+title: "OParl 1.1: Neue Version des Ratsinformationssystems mit mehr Kommunen und viel Aktivität"
 ---
 
 Vor zwei Jahren haben wir mit der [offenen Schnittstelle OParl](https://oparl.org) 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert:
-* Die vier größten Ratsinformationssystem-Hersteller haben ein OParl-Modul für ihre Software entwickelt, so dass Kommunen OParl ganz einfach in ihre bestehende Software integrieren können.
+* Die vier größten Ratsinformationssystem-Hersteller haben ein OParl-Modul für ihre Software entwickelt, sodass Kommunen OParl ganz einfach in ihre bestehende Software integrieren können.
 * Ca. 30 Kommunen haben eine offizielle OParl-Schnittstelle, in etlichen weiteren Kommunen ist das OParl-Modul zur Zeit in Einrichtung. Zuletzt dazugekommen sind Aachen und der Kreis Viersen.
 * Die Daten von 30 weiteren Kommunen wurden nach OParl-Standard aufbereitet.
-* [Zwei Förderprojekte](https://oparl.org/2017/06/30/erste-finanzierung-fuer-oparl-projekte/) haben dafür gesorgt, dass für OParl Reihe von bürgerfreundlicher Open-Source Software entstanden ist.
+* [Zwei Förderprojekte](https://oparl.org/2017/06/30/erste-finanzierung-fuer-oparl-projekte/) haben dafür gesorgt, dass für OParl eine Vielzahl von bürgerfreundlicher Open-Source Software entstanden ist.
 * Die Weiterentwicklung ist im vollen Gange: z.B. werden zur Zeit [im OK Lab Köln](https://www.meetup.com/de-DE/OKLab-Koln-Meetup/events/253670563/) neue Bedienungskonzepte für Ratsinformationssysteme entwickelt.
 * In NRW haben Vertreter von OKFN und [dem kdvz](https://www.kdvz-frechen.de/) einen Arbeitskreis im Rahmen der Open Government Strategieentwicklung des Landes NRW gegründet, welcher OParl auch auf politischer Ebene landes- und später bundesweit verbreiten will. Kontakt: [Karl-Matthias Pick](mailto:kmpick@kdvz-frechen.de).
 
@@ -32,7 +32,7 @@ Das wichtigste Feature von OParl 1.1 ist [ein neuer, verbesserter Update-Mechani
 
 Außerdem wurden zahlreiche kleine Fehler und Kleinigkeiten hinzugefügt. Sei es SHA512 statt SHA1 für die Datei-Hashes, seien es Rückreferenzen, die zur Vollständigkeit dazugehörten, sei es die Definition eines Fehlerobjektes zur Ausnahmebehandlung: an verschiedenen Stellen wurden aus den Praxisanforderungen heraus Fehler behoben und neue Attribute geschaffen.
 
-OParl 1.1 ist dabei nach Semver-Regeln kompatibel zu OParl 1.0, so dass bestehende OParl 1.0-Server ebenso wie OParl 1.0-Clients problemlos weitergenutzt werden können. Nichtsdestotrotz lohnt sich natürlich das Update, weil die Features aus der praktischen Arbeit mit den Daten entstandene Bedürfnisse abdecken und Probleme lösen.
+OParl 1.1 ist dabei nach Semver-Regeln kompatibel zu OParl 1.0, sodass bestehende OParl 1.0-Server ebenso wie OParl 1.0-Clients problemlos weitergenutzt werden können. Nichtsdestotrotz lohnt sich natürlich das Update, weil die Features aus der praktischen Arbeit mit den Daten entstandene Bedürfnisse abdecken und Probleme lösen.
 
 Zwei große Themen wurden bislang in OParl nicht behandelt: die Vereinheitlichung von Begriffen und die Definition einer flexiblen Suche. Beide Themen sind nun Ziel von OParl 2.0, sind aber hochkomplex, da es im deutschsprachigen Raum eine große Vielfalt von kommunalpolitischen Mechanismen gibt. Daher ist OParl 2.0 ein eher mittel- bis langfristiges Ziel, während OParl 1.1 auf längere Zeit die in Kommunen existierenden Daten abdecken wird.
 
