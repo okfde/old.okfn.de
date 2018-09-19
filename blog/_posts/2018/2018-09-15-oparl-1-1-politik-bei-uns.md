@@ -3,7 +3,7 @@ authors: Ernesto Ruge
 date: 2018-09-17
 image:
   src: /files/blog/2018/09/oparl.png
-  title: OParl: Der Standard für Ratsinformationssysteme
+  title: "OParl: Der Standard für Ratsinformationssysteme"
 tags:
 - Ratsinformationssystem
 - Transparenz
