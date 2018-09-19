@@ -15,7 +15,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "OParl 1.1: Neue Version des Ratsinformationssystems mit mehr Kommunen und viel Aktivität"
+title: "OParl 1.1: Neue Version des Standards - und viel Aktivität"
 ---
 
 Vor zwei Jahren haben wir mit der [offenen Schnittstelle OParl](https://oparl.org) 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert:
@@ -28,11 +28,15 @@ Vor zwei Jahren haben wir mit der [offenen Schnittstelle OParl](https://oparl.or
 
 Die intensive Beschäftigung mit den real vorliegenden Daten führte zu verschiedenen Verbesserungsvorschlägen, welche das OParl-Team gesammelt und in den Standard eingearbeitet hat. Herausgekommen ist die neue OParl-Version 1.1, welche bereits im OParl Mirror, einem Spiegel aller OParl-Daten, umgesetzt wurde.
 
+## OParl 1.1: die neue Version des Ratsinformationssystem-Datenstandards
+
 Das wichtigste Feature von OParl 1.1 ist [ein neuer, verbesserter Update-Mechanismus](https://oparl.org/spezifikation/online-ansicht/#aktualisierungsmechanismus), welcher partielle Updates von Datenbeständen erheblich ressourcenschonender macht. Der in OParl 1.0 definierte Mechanismus erwies sich in der Praxis als schlecht durchführbar, so dass mit 1.1 in Zusammenarbeit mit den Herstellern ein neuer, praxisnaher Mechanismus geschaffen wurde. In der Praxis bedeutet dies nun für alle Objekte Listen, welche als Attribut von Body bereitgestellt werden.
 
 Außerdem wurden zahlreiche kleine Fehler und Kleinigkeiten hinzugefügt. Sei es SHA512 statt SHA1 für die Datei-Hashes, seien es Rückreferenzen, die zur Vollständigkeit dazugehörten, sei es die Definition eines Fehlerobjektes zur Ausnahmebehandlung: an verschiedenen Stellen wurden aus den Praxisanforderungen heraus Fehler behoben und neue Attribute geschaffen.
 
 OParl 1.1 ist dabei nach Semver-Regeln kompatibel zu OParl 1.0, sodass bestehende OParl 1.0-Server ebenso wie OParl 1.0-Clients problemlos weitergenutzt werden können. Nichtsdestotrotz lohnt sich natürlich das Update, weil die Features aus der praktischen Arbeit mit den Daten entstandene Bedürfnisse abdecken und Probleme lösen.
+
+## Die Zukunft: erst einmal mehr Daten!
 
 Zwei große Themen wurden bislang in OParl nicht behandelt: die Vereinheitlichung von Begriffen und die Definition einer flexiblen Suche. Beide Themen sind nun Ziel von OParl 2.0, sind aber hochkomplex, da es im deutschsprachigen Raum eine große Vielfalt von kommunalpolitischen Mechanismen gibt. Daher ist OParl 2.0 ein eher mittel- bis langfristiges Ziel, während OParl 1.1 auf längere Zeit die in Kommunen existierenden Daten abdecken wird.
 
