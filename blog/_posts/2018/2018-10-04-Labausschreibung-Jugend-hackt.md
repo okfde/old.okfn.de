@@ -20,7 +20,7 @@ jobs: "Ausschreibung Jugend hackt Labs – Wir suchen regionale Partner-Organisa
 
 Seit 2013 wird Jugend hackt vom Open Knowledge Foundation Deutschland e.V. (OKF) und mediale pfade.org - Verein für Medienbildung e.V. veranstaltet. Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses im deutschsprachigen Raum mit gesellschaftspolitischen Fokus. Damit begegnet Jugend hackt zwei Herausforderungen: Erstens der sozialen Benachteiligung im Sinne einer Vereinzelung von Jugendlichen mit hohem Technikinteresse. Denn gerade die hohe Technikbegeisterung und die Zeit vor dem Computer verschiebt die engsten sozialen Kontakte häufig weg von der nächsten Umgebung hin zu ebenfalls technikaffinen Jugendlichen, die im ländlichen Raum seltener anzutreffen sind und deswegen Online stattfinden. Gerade gegenüber Eltern entsteht so einseitiger Rechtfertigungsdruck, da die quantitative Bewertung der Computernutzung meistens im Vordergrund steht. Zweitens greift das Programm den Umstand auf, dass die Digitalisierung der Welt große Veränderungen für die Menschen birgt und sensibilisiert mögliche zukünftige Programmierer*innen für ihre gesellschaftspolitische Verantwortung.
 
-**Ziel von Jugend hackt** ist es, die Lebensverläufe der Teilnehmer/innen positiv zu beeinflussen, indem ihre Identität als Hacker*in bestärkt wird und ihnen ein positives Selbstbild von ihren Fähigkeiten und der Bedeutung ihrer Rolle für die Gesellschaft vermittelt wird. Unter dem **Motto “Mit Code die Welt verbessern”** nutzen die Teilnehmer*innen ihre Technikkompetenz, um in Teams, unterstützt von ehrenamtlichen Mentor/innen, an digitalen Werkzeugen und Konzepten für ihre Vision einer besseren Gesellschaft zu arbeiten.
+**Ziel von Jugend hackt** ist es, die Lebensverläufe der Teilnehmer/innen positiv zu beeinflussen, indem ihre Identität als Hacker/in bestärkt wird und ihnen ein positives Selbstbild von ihren Fähigkeiten und der Bedeutung ihrer Rolle für die Gesellschaft vermittelt wird. Unter dem **Motto “Mit Code die Welt verbessern”** nutzen die Teilnehmer/innen ihre Technikkompetenz, um in Teams, unterstützt von ehrenamtlichen Mentor/innen, an digitalen Werkzeugen und Konzepten für ihre Vision einer besseren Gesellschaft zu arbeiten.
 
 Jugend hackt positioniert sich explizit als diverser Raum und fordert von allen Beteiligten die Einhaltung klar kommunizierter Verhaltensregeln, die es jedem/r ermöglichen sollen, sich bei Jugend hackt wohlzufühlen. Alle Informationen dazu findet man in unserem Code of Conduct.
 
@@ -44,7 +44,7 @@ Die regionalen Koordinator/innen und Mentor/innen sind eingeladen, eigene Worksh
 
 Die Open Knowledge Foundation Deutschland e.V. und mediale pfade.org -Verein für Medienbildung e.V. begleiten die Labs und regionalen Koordinator/innen eng bei der Umsetzung. Wir bieten zudem Weiterbildungen im Bereich Fundraising, die Bewerbung der Angebote in der bestehenden Online-Community und die Möglichkeit, verschiedene Module aus den Jugend hackt Programmbestandteilen zu besuchen.
 
-##Ihr Profil
+#Ihr Profil
 
 Wir suchen Organisationen, die Labs nach folgenden Kriterien betreiben:
 
@@ -56,7 +56,7 @@ Wir suchen Organisationen, die Labs nach folgenden Kriterien betreiben:
 + Anerkennung und Umsetzung unseres [Code of Conducts](https://jugendhackt.org/code-of-conduct/)
 + Es ist nicht Voraussetzung, dass die Organisation bisher Angebote oder Ausstattung aus dem breit gefassten Bereich “Technik/Coding/Making/Medien” hat
 
-##Ihre Leistungen
+#Ihre Leistungen
 **Inhaltlich**
 + Einbettung der neuen Stelle in der Institution
 + Vernetzung der eigenen regionalen Angebote mit den Jugend hackt Labs in der Region
@@ -71,7 +71,7 @@ Wir suchen Organisationen, die Labs nach folgenden Kriterien betreiben:
 + Organisation von Räumen mit Internet
  + Anschaffung, Pflege, Wartung der Technik
 
-##Unsere Leistungen
+#Unsere Leistungen
 **Inhaltlich**
 + Finanzierung des/der regionalen Koordinator*in
 + Finanzierung von Miet- und Honorarkosten für die Angebote
