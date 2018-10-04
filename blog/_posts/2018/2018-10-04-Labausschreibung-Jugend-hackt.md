@@ -3,7 +3,7 @@ authors:
 - OKF
 date: 2018-10-04
 image:
-  src: /files/blog/2018/Ausschreibung Alpaka.jpg
+  src: /files/blog/2018/AusschreibungJH.jpg
   title: Jugend hackt 
   license: 
   license_url: 
