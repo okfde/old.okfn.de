@@ -129,9 +129,10 @@
 
 - name: Maria Reimer
   img: mariareimer
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Maria Reimer ist Projektleiterin von Jugend hackt. Sie hat Public Administration und Public Policy in Münster, Enschede (Niederlande) und Erfurt studiert. Neben der Open Knowledge Foundation Deutschland arbeitet sie halbtags für eine Bundestagsabgeordnete. Ehrenamtlich setzt sich Maria im Führungskreis von Transparency International Deutschland für Informationsfreiheit ein."
   bio_en: "Maria Reimer is project lead for Jugend hackt. She studied Public Administration and Public Policy. Next to OKF DE, she works part-time for a member of the German parliament and actively promotes the Freedom of Information Act (FOI) as a Transparency International Germany volunteer."
@@ -591,7 +592,7 @@
 - name: Jessica Binsch
   title:
   img: jessicabinsch
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position:
