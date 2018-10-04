@@ -2,7 +2,7 @@
 authors: OKF
 date: 2018-10-04 09:00
 image: 
-  src: /files/blog/2018/b&b.JPG
+  src: /files/blog/2018/schwer-bit.JPG
   title: 
   license: ""
   license_url: ""
@@ -24,7 +24,9 @@ Deshalb veranstalten wir gemeinsam mit verschiedenen Organisationen aus den Bere
 
 Neben Vorträgen und Diskussionsrunden gibt es ganz viel Raum für eure Projektideen, Kampagnen und den Austausch mit anderen engagierten Menschen: Euch erwarten zwei bunte Tage mit Hands-on-Workshops, Talks, Aktivisten-Infotischen, Worldcafés, Sofas, Chill-out-Areas und und und!
 
-Natürlich sind auch einige OKF-Projekte und -Themen mit am Start, u. a.:
+----
+
+Natürlich sind auch einige **OKF-Projekte und -Themen** mit am Start, u. a.:
 
 #### Das jüngste Gericht – Umweltinfos, Hygienekontrollen und Co. ([FragdenStaat](https://fragdenstaat.de/))
 
@@ -50,6 +52,8 @@ In Berlin geht einiges, in Brandenburg der Wind? Max, der nicht nur bei der OKF 
 
 #### Ein Blick hinters Smartphone (Civic Tech)
 Das Smartphone ist ein ständiger Begleiter und beeinflusst unser Handeln. Doch für die meisten sind es intransparente Blackboxes. Wie können wir sie uns gemeinschaftlich aneignen? Max schaut mit euch hinter die Fassade der Geräte und diskutiert ihre Komponenten und systemischen Effekte. 
+
+----
 
 In unserem Forum ist zwischen dem vielseitigen Programm Platz für Diskussion und neue Ideen: Hier trefft ihr Aktivist/innen aus verschiedenen Initiativen von der [FSFE](http://fsfe.org/) und [Nager IT](https://www.nager-it.de/) über [Electronics Watch](http://electronicswatch.org/de) bis hin zu [Mundraub](https://mundraub.org/). Auch unser Team des [Prototype Fund](https://prototypefund.de/) wird da sein, lädt zum Thema „Stadt, Land, Smart“ ein und stellt die Initiative [city_lab](http://citylab.berlin/) Berlin vor. 
 
