@@ -102,6 +102,6 @@ Die Entwicklung der Labs und die Weiterentwicklung von Jugend hackt wird durch d
 
 **Dazu bitten wir das unten verlinkte Formular herunterzuladen, auszufüllen und bis zum 30.11.2018 an [labs@jugendhackt.org](mailto:labs@jugendhackt.org) zu senden. Gerne können Sie noch weiterführende Informationen und Dokumente hinzufügen. Bei Rückfragen können Sie sich an Ilona Stuetz und Sonja Fischbauer wenden [labs@jugendhackt.org](mailto:labs@jugendhackt.org).**
 
-[**Download Formular**](https://jugendhackt.org/files/2018/10/Bewerbung-als-Jugend-hackt-Labregion.zip)
+[**>> Download Formular <<**](https://jugendhackt.org/files/2018/10/Bewerbung-als-Jugend-hackt-Labregion.zip)
 
 Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. (OKF DE) und von mediale pfade.org - Verein für Medienbildung e.V., Bewerbungen werden von den Veranstalter*innen gemeinsam gesichtet.
