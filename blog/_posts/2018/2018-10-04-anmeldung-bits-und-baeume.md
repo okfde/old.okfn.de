@@ -2,7 +2,7 @@
 authors: OKF
 date: 2018-10-04 09:00
 image: 
-  src: /files/blog/2018/schwer-bit.JPG
+  src: /files/blog/2018/schwer-bit.jpg
   title: 
   license: ""
   license_url: ""
