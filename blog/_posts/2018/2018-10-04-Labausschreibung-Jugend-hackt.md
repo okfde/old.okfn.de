@@ -80,6 +80,7 @@ Wir suchen Organisationen, die Labs nach folgenden Kriterien betreiben:
 + Bereitstellung von Open Educational Ressources (OER), Methoden und erprobten Ansätzen
 + Bundesweites engagiertes Netzwerk
 + Enge Begleitung durch das Berliner Programmteam
+
 **Infrastruktur**
 + Finanzielle und inhaltliche Unterstützung bei der Technik-Anschaffung
 + Finanzielle Unterstützung bei der Miete
