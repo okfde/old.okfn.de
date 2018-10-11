@@ -50,3 +50,7 @@ If the Austrians want to have a good say during their presidency, the Council sh
 
 Anybody interested in the process please contact me.
 We will coordinate the Open Knowledge Network and friends.
+
+
+Updates:
+01.10.2018 Proposal for a Directive of the European Parliament and of the Council on the re-use of public sector information (recast) - Presidency compromise text (http://data.consilium.europa.eu/doc/document/ST-12466-2018-INIT/en/pdf)
