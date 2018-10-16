@@ -17,7 +17,9 @@ published: true
 title: "PSI Directive - joint effort by OKF and friends"  
 ---
 
-Update: [Stellungnahme zur PSI Richtlinie](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/Stellungnahme-OKFDE-PSI-Richtlinie.pdf)
+Updates: 
+[25.08.18 Stellungnahme zur PSI Richtlinie](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/Stellungnahme-OKFDE-PSI-Richtlinie.pdf)<br>
+
 
 A short update on the PSI directive (the 
 proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the re-use of public sector information (recast). 
@@ -53,4 +55,5 @@ We will coordinate the Open Knowledge Network and friends.
 
 
 Updates:
-01.10.2018 Proposal for a Directive of the European Parliament and of the Council on the re-use of public sector information (recast) - Presidency compromise text (http://data.consilium.europa.eu/doc/document/ST-12466-2018-INIT/en/pdf)
+01.10.2018 [Proposal for a Directive of the European Parliament and of the Council on the re-use of public sector information (recast) - Presidency compromise text](http://data.consilium.europa.eu/doc/document/ST-12466-2018-INIT/en/pdf)
+
