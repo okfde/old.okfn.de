@@ -70,5 +70,5 @@ Weitere Forderungen und Updates zum ÖPNV siehe [Rette deinen Nahverkehr](https:
 
 
 <b>UPDATES:</b><br>
-Slides vom 2. Dialogforum am 06.07.2018: [Dialogforum Wirtschaftsverbände/Branche]((/files/blog/2018/06/2018-06-07_PPP_Dialogforum_Branche.pdf) und [DELFI](/files/blog/2018/06/2018-06-07_DELFI_Dialogforum_BMVI.pdf)<br>
+Slides vom 2. Dialogforum am 06.07.2018: [Dialogforum Wirtschaftsverbände/Branche](/files/blog/2018/06/2018-06-07_PPP_Dialogforum_Branche.pdf) und [DELFI](/files/blog/2018/06/2018-06-07_DELFI_Dialogforum_BMVI.pdf)<br>
 [Slides vom 3. Dialogforum am 16.10.2018](/files/blog/2018/10/PPP_Dialogforum_16-10-2018.pdf)
