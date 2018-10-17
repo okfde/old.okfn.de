@@ -65,7 +65,7 @@ Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vor
 <br>
 Mit dieser delegierten Verordnung gibt es nun mal einen Zeitrahmen. Wir hoffen und fordern eine vorzeitige Erfüllung inkl. Echtzeitdaten. Dazu sollte sich eine Berücksichtigung nach offenen Daten unserer Meinung nach auch in den Ausschreibungen für neue Verkehrsverträge wiederfinden.<br> 
 <a id="Updates"></a><br>
-Weitere Forderungen und Updates bzgl. ÖPNV Datenlage siehe (https://rettedeinennahverkehr.de)  
+Weitere Forderungen und Updates bzgl. ÖPNV Datenlage siehe https://rettedeinennahverkehr.de
 <br>Eine Zusammenfassung <a href="https://pad.okfn.de/p/koalitionsvertrag-bahn">des Koalitionsvertrags für die Neigungsgruppe Eisenbahner</a>.
 
 <br><br>
