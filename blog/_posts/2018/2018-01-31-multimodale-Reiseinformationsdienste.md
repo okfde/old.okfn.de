@@ -64,10 +64,11 @@ Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vor
 ![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")-->
 <br>
 Mit dieser delegierten Verordnung gibt es nun mal einen Zeitrahmen. Wir hoffen und fordern eine vorzeitige Erfüllung inkl. Echtzeitdaten. Dazu sollte sich eine Berücksichtigung nach offenen Daten unserer Meinung nach auch in den Ausschreibungen für neue Verkehrsverträge wiederfinden.<br> 
-
+<a id="Updates"></a>
 Weitere Forderungen und Updates zum ÖPNV siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de).  
 <br>Eine Zusammenfassung <a href="https://pad.okfn.de/p/koalitionsvertrag-bahn">des Koalitionsvertrags für die Neigungsgruppe Eisenbahner</a>.
 
 
 <b>UPDATES:</b><br>
-[Slides zum Treffen vom 16.10.2018](/files/blog/2018/10/PPP_Dialogforum_16-10-2018.pdf)
+Slides vom 2. Dialogforum am 06.07.2018: [Dialogforum Wirtschaftsverbände/Branche]((/files/blog/2018/06/2018-06-07_PPP_Dialogforum_Branche.pdf) und [DELFI](/files/blog/2018/06/2018-06-07_DELFI_Dialogforum_BMVI.pdf)<br>
+[Slides vom 3. Dialogforum am 16.10.2018](/files/blog/2018/10/PPP_Dialogforum_16-10-2018.pdf)
