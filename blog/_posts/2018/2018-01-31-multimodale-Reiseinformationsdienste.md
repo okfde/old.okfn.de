@@ -64,8 +64,8 @@ Ende 2018: Kooperationen mit Fernverkehrspartnern etablieren und mit Dritten vor
 ![scaling](/files/blog/2018/01/scaling-okfde-nahverkehr.png "Scaling")-->
 <br>
 Mit dieser delegierten Verordnung gibt es nun mal einen Zeitrahmen. Wir hoffen und fordern eine vorzeitige Erfüllung inkl. Echtzeitdaten. Dazu sollte sich eine Berücksichtigung nach offenen Daten unserer Meinung nach auch in den Ausschreibungen für neue Verkehrsverträge wiederfinden.<br> 
-<a id="Updates"></a>
-Weitere Forderungen und Updates zum ÖPNV siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de).  
+<a id="Updates"></a><br>
+Weitere Forderungen und Updates bzgl. ÖPNV Datenlage sieeh [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de)  
 <br>Eine Zusammenfassung <a href="https://pad.okfn.de/p/koalitionsvertrag-bahn">des Koalitionsvertrags für die Neigungsgruppe Eisenbahner</a>.
 
 <br><br>
