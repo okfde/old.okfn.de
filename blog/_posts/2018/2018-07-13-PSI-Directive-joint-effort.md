@@ -56,6 +56,6 @@ We will coordinate the Open Knowledge Network and friends.
 
 Updates:<br>
 01.10.2018 [Proposal for a Directive of the European Parliament and of the Council on the re-use of public sector information (recast) - Presidency compromise text](http://data.consilium.europa.eu/doc/document/ST-12466-2018-INIT/en/pdf)
-List of proposed high<br>
-[List of IMCO high value data sets](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/PSI-high-value-data-sets.csv)
+<br>
+[List of high value data sets proposed at IMCO](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/PSI-high-value-data-sets.csv)
 
