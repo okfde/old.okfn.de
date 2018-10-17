@@ -68,6 +68,7 @@ Mit dieser delegierten Verordnung gibt es nun mal einen Zeitrahmen. Wir hoffen u
 Weitere Forderungen und Updates zum ÖPNV siehe [Rette deinen Nahverkehr](https://rettedeinennahverkehr.de).  
 <br>Eine Zusammenfassung <a href="https://pad.okfn.de/p/koalitionsvertrag-bahn">des Koalitionsvertrags für die Neigungsgruppe Eisenbahner</a>.
 
+<br><br>
 
 <b>UPDATES:</b><br>
 Slides vom 2. Dialogforum am 06.07.2018: [Dialogforum Wirtschaftsverbände/Branche](/files/blog/2018/06/2018-06-07_PPP_Dialogforum_Branche.pdf) und [DELFI](/files/blog/2018/06/2018-06-07_DELFI_Dialogforum_BMVI.pdf)<br>
