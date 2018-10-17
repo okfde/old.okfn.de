@@ -69,3 +69,5 @@ Weitere Forderungen und Updates zum ÖPNV siehe [Rette deinen Nahverkehr](https:
 <br>Eine Zusammenfassung <a href="https://pad.okfn.de/p/koalitionsvertrag-bahn">des Koalitionsvertrags für die Neigungsgruppe Eisenbahner</a>.
 
 
+<b>UPDATES:</b><br>
+[Slides zum Treffen vom 16.10.2018](/files/blog/2018/10/PPP_Dialogforum_16-10-2018.pdf)
