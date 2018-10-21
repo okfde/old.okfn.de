@@ -48,14 +48,17 @@ Timeline ITRE: Rapporteur's draft report must be submitted by the end of Septemb
 The first talks with the Council could then take place in Strasbourg in calendar week 50.
 
 If the Austrians want to have a good say during their presidency, the Council should also have its "General Approach" ready by calendar week 50, so that the negotiations can start. However, completion is not expected to take place before the end of January under the Romanian Presidency.
-
+<a id="updates"></a>
 
 Anybody interested in the process please contact me.
 We will coordinate the Open Knowledge Network and friends.
 
 
-Updates:<br>
+<b>Updates:</b><br>
 01.10.2018 [Proposal for a Directive of the European Parliament and of the Council on the re-use of public sector information (recast) - Presidency compromise text](http://data.consilium.europa.eu/doc/document/ST-12466-2018-INIT/en/pdf)
 <br>
 [List of high value data sets proposed at IMCO](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/PSI-high-value-data-sets.csv)
+
+On the 25th of October there will be a PSI-policy meeting at the [European Data Summit](http://www.kas.de/wf/en/17.78393/)
+~12:00/12:30 - 14:00, remote participation is possible, more infos walter@okfn.de.
 
