@@ -101,7 +101,7 @@ Die ersten beiden Labs sollen im Juli 2019 mit regelmäßigen Angeboten starten.
 
 Die Entwicklung der Labs und die Weiterentwicklung von Jugend hackt wird durch die [SKala-Initiative](http://www.skala-initiative.de/initiative/) gefördert. SKala ist eine Initiative der Unternehmerin Susanne Klatten in Partnerschaft mit dem gemeinnützigen Analyse- und Beratungshaus PHINEO. **Da es sich um eine Teilförderung handelt, werden wir im Verlauf des Projekts gemeinsam mit Ihnen weitere Fördermöglichkeiten erschließen müssen.** Um der mehrjährigen Förderung gerecht zu werden, suchen wir nach Partner/innen, die Interesse an einer längerfristigen Kooperation haben.
 
-**Dazu bitten wir das unten verlinkte Formular herunterzuladen, auszufüllen und bis zum 30.11.2018 an [labs@jugendhackt.org](mailto:labs@jugendhackt.org) zu senden. Gerne können Sie noch weiterführende Informationen und Dokumente hinzufügen. Bei Rückfragen können Sie sich an Ilona Stuetz und Sonja Fischbauer wenden [labs@jugendhackt.org](mailto:labs@jugendhackt.org).**
+**Dazu bitten wir das unten verlinkte Formular herunterzuladen, auszufüllen und bis zum 30.11.2018 an [labs@jugendhackt.org](mailto:labs@jugendhackt.org) zu senden. Gerne können Sie noch weiterführende Informationen und Dokumente hinzufügen. Bei Rückfragen können Sie sich an Ilona Stuetz und Paula Grünwald wenden [labs@jugendhackt.org](mailto:labs@jugendhackt.org).**
 
 [**>> Download Formular <<**](https://jugendhackt.org/files/2018/10/Bewerbung-als-Jugend-hackt-Labregion.zip)
 
