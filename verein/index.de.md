@@ -60,10 +60,6 @@ D-10179 Berlin
 
 Vereinsregister Nr: VR 30468 B
 
-Steuernummer: 27/674/52428
-
-VAT: DE278022128
-
 Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ## Wichtige Dokumente
@@ -97,8 +93,7 @@ Hier gibt es mehr Informationen zu [unseren Projekten](/projekte/).
 
 ## Name und Funktion der wesentlichen Entscheidungsträger
 
-Auf der letzten Mitgliederversammlung am 25.01.2016 wurde [Christian Heise](/vorstand/#christian-heise)
-zum Vorstandsvorsitzenden, [Friedrich Lindenberg](/vorstand/#friedrich-lindenberg) zum stellvertretenden Vorstandsvorsitzenden und [Andreas Pawelke](/vorstand/#andreas-pawelke) zum Kassenwart gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann](/vorstand/#claudia-schwegmann), [Daniel Dietrich](/vorstand/#daniel-dietrich), [Lucy Chambers](/vorstand/#lucy-chambers) und [Sören Auer](/vorstand/#s-ren-auer). Seit Juni 2017 ist [Nadine Evers](/team/#nadine-evers) Geschäftsführerin der OKF.
+Auf der letzten Mitgliederversammlung wurde [Andreas Pawelke](/vorstand/#andreas-pawelke) zum Vorstandsvorsitzenden, [Lucy Chambers](/vorstand/#lucy-chambers) zur stellvertretenden Vorstandsvorsitzenden und [Kristina Klein](/vorstand/#kristina-klein) zur Kassenwartin gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann](/vorstand/#claudia-schwegmann) und [Daniel Dietrich](/vorstand/#daniel-dietrich). Seit Juni 2017 ist [Nadine Evers](/team/#nadine-evers) Geschäftsführerin der OKF.
 
 ## Datenschutzbeauftragter
 Unser externer Datenschutzbeauftragter ist [Thorsten Feldmann LL.M.](http://jbbdataconsult.de/wer-wir-sind/thorsten-feldmann/) von [JBB Data Consult GmbH](http://jbbdataconsult.de/).
