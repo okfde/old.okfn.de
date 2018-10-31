@@ -171,14 +171,9 @@ Datenschutzes, des Schutzes von Geschäftsgeheimnissen oder der Offenlegung von
 Analysen, die böswilligen Akteuren erlauben könnten, das System zu manipulieren, können
 jedoch den Zugang auf qualifizierte und autorisierte Personen einschränken.
 
-6. Überprüfbarkeit: Modelle, Algorithmen, Daten und Entscheidungen sollten aufgezeichnet
-werden, damit sie in Fällen, in denen ein Schaden vermutet wird, überprüft werden können.
+6. Überprüfbarkeit: Modelle, Algorithmen, Daten und Entscheidungen sollten aufgezeichnet werden, damit sie in Fällen, in denen ein Schaden vermutet wird, überprüft werden können.
 
-7. Validierung und Testen: Institutionen sollten strenge Methoden anwenden, um ihre
-Modelle zu validieren und diese Methoden und Ergebnisse zu dokumentieren. Insbesondere
-sollten sie routinemäßig Tests durchführen, um zu beurteilen und festzustellen, ob das
-Modell diskriminierende Schäden verursacht. Die Institutionen werden ermutigt, die
-Ergebnisse solcher Tests öffentlich zu machen.</i>
+7. Validierung und Testen: Institutionen sollten strenge Methoden anwenden, um ihre Modelle zu validieren und diese Methoden und Ergebnisse zu dokumentieren. Insbesondere sollten sie routinemäßig Tests durchführen, um zu beurteilen und festzustellen, ob das Modell diskriminierende Schäden verursacht. Die Institutionen werden ermutigt, die Ergebnisse solcher Tests öffentlich zu machen.</i>
 
 
 
