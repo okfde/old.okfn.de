@@ -170,6 +170,12 @@ den Verbraucher erklärt.
 
 Hansen<br> <i>"Borges Wünsche bereits durch Art. 25 erfüllt"</i>
 
+Wolfgang Schulz, @hiig_berlin, betont #Transparenz als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. #SVRV 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Wolfgang Schulz, <a href="https://twitter.com/hiig_berlin?ref_src=twsrc%5Etfw">@hiig_berlin</a>, betont <a href="https://twitter.com/hashtag/Transparenz?src=hash&amp;ref_src=twsrc%5Etfw">#Transparenz</a> als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. <a href="https://twitter.com/hashtag/SVRV?src=hash&amp;ref_src=twsrc%5Etfw">#SVRV</a> <a href="https://twitter.com/BMJV_Bund?ref_src=twsrc%5Etfw">@BMJV_Bund</a>  <a href="https://twitter.com/hashtag/Scoring?src=hash&amp;ref_src=twsrc%5Etfw">#Scoring</a></p>&mdash; Sven Scharioth (@scharioth) <a href="https://twitter.com/scharioth/status/1057629451310194692?ref_src=twsrc%5Etfw">October 31, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 <i>"Nicht nur in der Wissenschaft, auch in der Öffentlichkeit wird die Transparenz von Scoring-Verfahren diskutiert. Im Februar 2018 starteten die gemeinnützigen Organisationen Open Knowledge Foundation und Algorithm-Watch die Initiative OpenSCHUFA. Zu den erklärten Zielen des Projektes gehört es, den Algorithmus zu „knacken“, mit dem die Schufa ihre Bonitäts-scores ermittelt (OpenSCHUFA,  2018). Sowohl die in die Berechnung des Score-Wertes eingehenden Daten als auch das Verfahren, nach dem aus diesem Datenmaterial ein individueller Score ermittelt wird, will die Initiative herausfinden, indem möglichst viele Personen der Initiative ihren Schufa-Score (den sie dort erfragen) und ihre persönlichen Merkmale mitteilen. Zahlreiche Medien berichteten über das Anliegen der Initiative (exemplarisch Erdmann, 2018; Schneider, 2018), die SCHUFA selbst trat ihr kritisch entgegen (SCHUFA Holding AG, 2018)"</i>
