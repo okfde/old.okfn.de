@@ -153,8 +153,12 @@ Axiom Daten über 44 Mio. Deutsche. Oracle, Deutsche Post auch dabei.
 
 Bzgl. "Super-Scoring" und China der Hinweis auf „Bedenken second“ schiefgehen könnte, falls das Ergebnis nicht gewünscht ist (Fehlerquote Überwachungskameras Südbahnhof).<br>
 Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring der Weg dort hin."
-<i/> 
+</i> 
 
+Marit Hansen 
+<br><i> 
+"mehr Gestaltung an System, dass sie sich besser erklären,
+Geht in die nächste Runde. Gibt ja auch die Datenschutzethikkommission."</i> 
 
 
 
@@ -201,3 +205,10 @@ jedoch den Zugang auf qualifizierte und autorisierte Personen einschränken.
 ### Wie geht es weiter bei OpenSCHUFA?
 
 Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere Vorgehen diskutieren. Infos folgen!
+
+
+### Weitere Links:<br>
+[Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
+
+Der erwähnte [Propublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
