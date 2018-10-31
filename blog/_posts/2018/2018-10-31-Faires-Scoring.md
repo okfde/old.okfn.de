@@ -230,6 +230,39 @@ Bundesinstitut für Algos. Kompetenzzentrum
 Nicht eine Agentur alleine.
 
 <br> </i>
+
+<br> <i>
+Moderator "~eher suboptimal, dass die Wirtschaft selbst die Gutachten in Auftrag geben."
+Hansen - Froh das was da ist, Gesetz ist nicht spezifisch genug.
+Einzige Informatikerin.
+
+Kulturproblem in den Behörden. 
+Rechte und Freiheite ... mit DSVGO
+
+Wie soll ein Datenschutzbeauftragte Diskriminierung erkennen?
+Manche haben null Techniker, leihen sich diese vom Ministerium
+
+Kann mir vorstellen ... Prüfteams ... 
+Bundesinstitut gut.
+<br> </i>
+
+
+Grabmair<br> <i>
+Fair lending reinschauen
+<br> </i>
+Borges <br> <i>
+Eine Kompetenzstelle aufbauen.
+
+Seit wann BSI Aufsichtsbehörde ist, 2015, davor 4 Jahrzehnte ohne, aber mit Fachwissen.
+1. Kompetenz
+2. Testen
+3. Bussgeld verhängen, in 5 Jahre oder so
+
+Kompetenz, Normen aufbauen.
+
+ <br> </i>
+
+
 <br>
 <br> 
 
