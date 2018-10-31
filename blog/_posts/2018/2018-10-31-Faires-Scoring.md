@@ -343,5 +343,6 @@ Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system
 
 Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
 upcoming netzpolitik<br>
-Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)
-
+Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)<br>
+[Mitglieder der Datenethikkommission
+der Bundesregierung](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-digitalpolitik/datenethikkommission.pdf?__blob=publicationFile&v=4)
