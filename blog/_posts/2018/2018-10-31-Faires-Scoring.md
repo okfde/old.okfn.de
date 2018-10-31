@@ -166,7 +166,7 @@ Wagner<br>
 Fordert nochmals volle Transparenz, verweist auf FAZ-Artikel wo er die Transparenz-Schnittstelle für
 den Verbraucher erklärt.
 [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)
-"Ich will wissen was hinten rauskommt"<i><br>
+"Ich will wissen was hinten rauskommt"</i><br>
 
 Hansen<br> <i>"Borges Wünsche bereits durch Art. 25 erfüllt"</i>
 
@@ -174,6 +174,22 @@ Wolfgang Schulz, @hiig_berlin, betont #Transparenz als Voraussetzung für Behör
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Wolfgang Schulz, <a href="https://twitter.com/hiig_berlin?ref_src=twsrc%5Etfw">@hiig_berlin</a>, betont <a href="https://twitter.com/hashtag/Transparenz?src=hash&amp;ref_src=twsrc%5Etfw">#Transparenz</a> als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. <a href="https://twitter.com/hashtag/SVRV?src=hash&amp;ref_src=twsrc%5Etfw">#SVRV</a> <a href="https://twitter.com/BMJV_Bund?ref_src=twsrc%5Etfw">@BMJV_Bund</a>  <a href="https://twitter.com/hashtag/Scoring?src=hash&amp;ref_src=twsrc%5Etfw">#Scoring</a></p>&mdash; Sven Scharioth (@scharioth) <a href="https://twitter.com/scharioth/status/1057629451310194692?ref_src=twsrc%5Etfw">October 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Hansen<br> <i> Wichtig mit Tests die alte Welt auf zumachen.
+In die Zukunft schauen, wie wir es haben wollen.
+Jetzt muss es mal richtig gemacht werden.
+Riesenbereich.
+</i>
+
+Wagner 
+<br> <i> 
+Vorzug GI Gutachten vers. Fairness-Kriterien.
+Wie schwer es ist verschiedene Fairness-Kriterien einzuhalten. Trade-Offs.
+Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring
+ist dies schwieriger.
+</i>
+
+
 
 
 
