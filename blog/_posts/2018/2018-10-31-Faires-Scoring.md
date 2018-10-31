@@ -204,6 +204,35 @@ Strukturiertes Forschungsprogramm.
 <br> </i> 
 
 
+Wagner <br> <i> 
+"zum testing brauchen Sie ja nicht das Modell"
+<br> </i> 
+
+Grabmair<br> <i>
+"die Unternehmer bisschen ins Boot zu holen"
+<br> </i>
+
+Hansen<br> <i>
+"zur Frage haben wir Zeit, ... wir sind nicht bei Null, 
+wollen was zusammenbringen ... wären wir noch am Anfang
+Anwendung, Transparenz, Qualität ... im Autobereich ... 
+wird sich auf die STVO auswirken, sektorspezifisch ist man dran ... 
+Lifecylce der Daten, Rechtsschutz ... spamfilter ... wie funktioniert der ... 
+täglich in den Folder reingucken ...
+<br> </i>
+
+3. Handlungsempfehlung
+
+Digitalagentur
+
+Wagner <br> </i>
+Bundesinstitut für Algos. Kompetenzzentrum
+Nicht eine Agentur alleine.
+
+<br> </i>
+<br>
+<br> 
+
 
 
 
