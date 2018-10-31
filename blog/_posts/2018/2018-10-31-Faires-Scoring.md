@@ -286,6 +286,122 @@ Martini wird zitiert, Entscheidungsstrukturen.
 Borges will keine Information wie der Score zusammenkommt.
 (Anmerkung Analogie: Keine Auskunft über die Geschwindigkeitsbegrenzungen haben will, und immer gerne den Strafzettel gerne zahlt, weil eh ...)
 <br><i>
+Zweites Panel: 
+Start mit Christiane Woopen, Zuordnung einen Zahlwertes
+
+Kant, Selbstwillen geachtet werden
+
+Nicht nur um die googles dieser welt
+
+37% der Versicherungsfirmen wollen Daten aus elektr. Akte
+
+
+Christiane Woopen: #Scoring kann zur Verschiebung von Definitionshoheiten und Machtstrukturen beitragen. Problem u.a. dass bestimmte Menschen von Vorteilen bei #Bonusprogrammen nicht profitieren und dass Krankenkassen alleine definieren, was gesundheitsrelevant ist. #SVRV
+
+
+Zitat Barry Schwartz "Die Planeten kümmern sich herzlich wenig darum, was wir denken und welche Theorien wri über sie aufstellen. Dagegen ist die Sorge, dass unsere Theorien über die menschliche Natur auf Dauer die menschliche Natur verändern könnten, durchaus berechtigt."
+
+Menschen werten keine Daten aus, sondern messen Bedeutung.
+
+-------------
+
+Müller, 
+der vzbv kümmert sich um asymmetrie Situationen.
+Intransparenz als Mensch, vergesse ja Sachen.
+
+Zweig
+H-Index nicht so prickelnd da "Varianz so hoch wie der Mittelwert"
+
+Girgenzer
+.CN argumentiert auch moralisch, anderer moralischer Begriff.
+
+@Klaus_Mueller, @vzbv, empfiehlt, Diskussion nicht auf chinesischen #Score zu begrenzen. Relevanter ist Beeinflussung des Verrbaucherberhaltens durch Unternehmen und deren Boni. Gesetzgeber darf / muss Gesellschaft beeinflussen dürfen, Konzerne sollten es nicht dürfen. #SVRV
+
+Zitat von Juli Zeh "Totalitäre Systeme kommen heute im Gewand von Serviceangeboten."
+
+Klaus_Mueller
+<br> <i>
+"Voriges Panel, ~lasst uns erst mal forschen, treibt mich auf die Palme.
+Ich habe hier Vorschläge.
+Bis Sommer nächsten Jahres Vorschläge.
+
+4 Vorschläge:
+1. Überall wo Algo tätig ist muss dies gekennzeichnet sein.
+2. Recht auf Datenqualität, Qualitätssicherung inkludiert
+3. Algo-kontrolle (nicht auf Marktplatz, Bafin, Bundeskraftfahrzzentrale)
+4. Haftungsregel der Plattformökonomie (Haftung nicht auf Akteuere verlagern können)
+<br> </i>
+
+Gigerenzer:
+- Muss auf eine A4 Seite
+- 1. Einverstanden, 2. nicht einverstanden, 3. möchte dies kompliziert regeln
+Eric Schmidt und China haben Gemeinsamkeiten.
+
+Zweig:
+Es soziale Situationen gibt, wo man aus der Situation rausgehen muss um eine Entscheidung zu treffen, 
+dort wäre der Einsatz von ADM zu vermeiden.
+
+
+
+Q&A
+Borges, 13, 15, 23 regelt Vorschlag #3
+Hatten 6 Monate zu forschen. 
+Einfach nur Regeln. 
+
+An Müller von "Holm"
+BaFin 
+
+Baude "Haben ein Problem, machen ein Gesetz"
+Was sind die Verhältnisse von Freiheit 
+Privatheit, gegen den Staat
+Kennt der Algo einen selber?
+
+Müller 
+wenn wissenschaftlicher Forschungsbedarf für Zeitschinden verwendet wird, 
+am besten soll die Politik nciht stören
+
+Banken, hatten GFC
+Energiekonzerne, hatten RWE Mrds
+... 
+
+in Versicherungskonzerne kommen ADMs ... macht mich nervös.
+
+Zertifizierung durch Wirtschaftsprüfer.
+
+
+Zweig
+Vertrauen in Entscheidungen
+Pluralität (geht verloren 70% vs. 71% - Überlappung oder Inklusion)
+Ausverhandlungen gehen verloren, wenn wir sie den maschinen überlassen.
+
+
+Müller<br>
+Eine Sprache (nicht Jus, VWL, ...) die für Menschen nachvollziehbar. 
+<br>
+
+Gerd Billen<br>
+Fand es anregend.
+SVRV hat 4 Handlungseben aufgezeigt, daran wird orientiert.
+Geschäftsgeheimnis ist kein absolutes Gut. Eigentum verpflicht.
+Aufsicht, Kontrollinstitution.
+
+Bildung, digitale Souveränität.
+
+Hoffnung auf Datenethikkommission.
+
+Q Moderator: Mehrheitsfähigkeit der Koa - A: "Nächste Frage".
+
+Wollen in demokratischen Gesellschaften leben. Nicht Eseln mit Möhren vor der Nase.
+Ist mein Gefühl, das Bewusstsein, dass wir uns für die Grundwerte einsetzen müssen, zunimmt.
+Sind nicht selbstverständlich.
+CSR Diskurs, vielleicht könnte man Unternehmenscoring einbringen.
+<br>
+
+
+
+
+
+
 
 <br>
 <br> 
@@ -340,9 +456,12 @@ Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere 
 
 ### Weitere Links:<br>
 Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
-
+Ein Sachverständigenrat sieht in einem Gutachten Gesetzgeber und Aufsichtsbehörden in der Pflicht [heise.de](https://www.heise.de/newsticker/meldung/Experten-warnen-vor-Super-Scoring-a-la-China-in-Deutschland-4208327.html)
 Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
 upcoming netzpolitik<br>
 Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)<br>
 [Mitglieder der Datenethikkommission
 der Bundesregierung](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-digitalpolitik/datenethikkommission.pdf?__blob=publicationFile&v=4)
+
+
+#CfP (Deadline: 30.11.18) für den den Workshop "Digitaler #Konsum: Herausforderung und Chancen der #Verbraucherinformatik" im Rahmen der @WI_2019 am 24.2.19 verbraucherinformatik.de @vznrw
