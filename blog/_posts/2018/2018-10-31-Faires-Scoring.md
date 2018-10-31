@@ -189,6 +189,19 @@ Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring
 ist dies schwieriger.
 </i>
 
+Borges<br> <i> 
+Muss der Auftakt zur Auseinandersetzung sein.
+Fairness ist kein Rechtsbegriff.
+Dies kann man nicht am Wochenende erledigen.
+Aufgabe der Politik, diesen Rahmen zu geben. 
+Dies strukturell zu erforschen.
+Mit der AI haben wir die Möglichkeit hier tiefer reinzugehen.
+Was sind legitime, was sind illegitime Vorgänge.
+
+Allg. Algo-Gesetz wär ein Unsinn.
+Zuerst verstehen, was die Probleme sind.
+Strukturiertes Forschungsprogramm.
+<br> </i> 
 
 
 
