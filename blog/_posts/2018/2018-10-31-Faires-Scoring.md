@@ -160,6 +160,16 @@ Marit Hansen
 "mehr Gestaltung an System, dass sie sich besser erklären,
 Geht in die nächste Runde. Gibt ja auch die Datenschutzethikkommission."</i> 
 
+Wagner<br>
+<i>
+"Für volle Transparenz sind Hr. Girgenzer und ich." Transparenzschnittstelle, sind ja nur logistische Regression.
+Fordert nochmals volle Transparenz, verweist auf FAZ-Artikel wo er die Transparenz-Schnittstelle für
+den Verbraucher erklärt.
+[FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)
+"Ich will wissen was hinten rauskommt"<i><br>
+
+Hansen<br> <i>"Borges Wünsche bereits durch Art. 25 erfüllt"</i>
+
 
 
 <i>"Nicht nur in der Wissenschaft, auch in der Öffentlichkeit wird die Transparenz von Scoring-Verfahren diskutiert. Im Februar 2018 starteten die gemeinnützigen Organisationen Open Knowledge Foundation und Algorithm-Watch die Initiative OpenSCHUFA. Zu den erklärten Zielen des Projektes gehört es, den Algorithmus zu „knacken“, mit dem die Schufa ihre Bonitäts-scores ermittelt (OpenSCHUFA,  2018). Sowohl die in die Berechnung des Score-Wertes eingehenden Daten als auch das Verfahren, nach dem aus diesem Datenmaterial ein individueller Score ermittelt wird, will die Initiative herausfinden, indem möglichst viele Personen der Initiative ihren Schufa-Score (den sie dort erfragen) und ihre persönlichen Merkmale mitteilen. Zahlreiche Medien berichteten über das Anliegen der Initiative (exemplarisch Erdmann, 2018; Schneider, 2018), die SCHUFA selbst trat ihr kritisch entgegen (SCHUFA Holding AG, 2018)"</i>
@@ -211,5 +221,6 @@ Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere 
 Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
 
 Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
-upcoming netzpolitik
+upcoming netzpolitik<br>
+Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)
 
