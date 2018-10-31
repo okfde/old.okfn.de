@@ -140,18 +140,19 @@ Es freut uns, dass die Vorschläge von "Digitale Souveränität", die Stärkung 
 
 ### Aussagen
 
-Girgenzer 
-<i> Schufa legt Verfahren den Datenschutzbehörden vor, Aussage
-"Schufaverfahren bereits für Behörden transparent (Hessen)."
-Sprecher NRW: Es fehlt notwendiges Fachwissen.
-Es wird nur auf Plausibilität geprüft.
-Hinweis Bayern: Gutachten von Auskunftsdateien selbst. 
-Interessenskonflikt.
+<b>Girgenzer</b> 
+<i> Schufa legt Verfahren den Datenschutzbehörden vor, die Aussage
+"Schufaverfahren bereits für Behörden transparent (Hessen)."<br>
+Sprecher NRW: Es fehlt notwendiges Fachwissen. Es wird nur auf Plausibilität geprüft.<br>
+Hinweis aus Bayern: Gutachten von Auskunftsdateien selbst. Interessenskonflikt.<br>
 
 Gigerenzer vergleicht den Interessenskonflikt der Auskunftsdateien mit
 Ratingsagenturen vor der Finanzkrise. 
 
 Axiom Daten über 44 Mio. Deutsche. Oracle, Deutsche Post auch dabei.
+
+Bzgl. "Super-Scoring" und China der Hinweis auf „Bedenken second“ schiefgehen könnte, falls das Ergebnis nicht gewünscht ist (Fehlerquote Überwachungskameras Südbahnhof).<br>
+Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring der Weg dort hin."
 <i/> 
 
 
