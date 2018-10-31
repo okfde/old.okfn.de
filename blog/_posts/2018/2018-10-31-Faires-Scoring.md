@@ -189,7 +189,7 @@ Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring
 ist dies schwieriger.
 </i>
 
-Borges<br> <i> 
+Borges<br><i> 
 Muss der Auftakt zur Auseinandersetzung sein.
 Fairness ist kein Rechtsbegriff.
 Dies kann man nicht am Wochenende erledigen.
@@ -200,26 +200,25 @@ Was sind legitime, was sind illegitime Vorgänge.
 
 Allg. Algo-Gesetz wär ein Unsinn.
 Zuerst verstehen, was die Probleme sind.
-Strukturiertes Forschungsprogramm.
-<br> </i> 
+Strukturiertes Forschungsprogramm.</i><br>
 
 
-Wagner <br> <i> 
+Wagner <br><i> 
 "zum testing brauchen Sie ja nicht das Modell"
-<br> </i> 
+<br></i> 
 
-Grabmair<br> <i>
+Grabmair<br><i>
 "die Unternehmer bisschen ins Boot zu holen"
-<br> </i>
+<br></i>
 
-Hansen<br> <i>
+Hansen<br><i>
 "zur Frage haben wir Zeit, ... wir sind nicht bei Null, 
 wollen was zusammenbringen ... wären wir noch am Anfang
 Anwendung, Transparenz, Qualität ... im Autobereich ... 
 wird sich auf die STVO auswirken, sektorspezifisch ist man dran ... 
 Lifecylce der Daten, Rechtsschutz ... spamfilter ... wie funktioniert der ... 
 täglich in den Folder reingucken ...
-<br> </i>
+<br></i>
 
 3. Handlungsempfehlung
 
@@ -250,7 +249,8 @@ Bundesinstitut gut.
 Grabmair<br> <i>
 Fair lending reinschauen
 <br> </i>
-Borges <br> <i>
+
+<b>Borges</b><br> <i>
 Eine Kompetenzstelle aufbauen.
 
 Seit wann BSI Aufsichtsbehörde ist, 2015, davor 4 Jahrzehnte ohne, aber mit Fachwissen.
@@ -259,10 +259,8 @@ Seit wann BSI Aufsichtsbehörde ist, 2015, davor 4 Jahrzehnte ohne, aber mit Fac
 3. Bussgeld verhängen, in 5 Jahre oder so
 
 Kompetenz, Normen aufbauen.
-
- <br> <i>
-
- <br> </i>
+ <br> 
+ 
 
 <br> <i>
 me ... Datenqualität
@@ -284,8 +282,10 @@ Incentives. Durch Sanktionen.
 BGH 1995 ... 
 heisst nicht, dass die Karten nicht neu gemischt werden müssen.
 Martini wird zitiert, Entscheidungsstrukturen.
-<br></i>
-
+<br><i>
+Borges will keine Information wie der Score zusammenkommt.
+(Anmerkung Analogie: Keine Auskunft über die Geschwindigkeitsbegrenzungen haben will, und immer gerne den Strafzettel gerne zahlt, weil eh ...)
+<br><i>
 
 <br>
 <br> 
