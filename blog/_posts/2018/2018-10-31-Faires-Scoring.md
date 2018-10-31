@@ -53,41 +53,21 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
 
 Aus den Handlungsempfehlungen:
 
-<i>"Das Potenzial digitalen Scorings kann nur ausgeschöpft
-werden, wenn eine Reihe von gesellschaftlich legitimen
-erwartungen erfüllt sind. nur dann wird es von Verbrau­
-chern auch akzeptiert werden und nur dann wird es ih­
-nen zunutze sein."</i>
+<i>"Das Potenzial digitalen Scorings kann nur ausgeschöpft werden, wenn eine Reihe von gesellschaftlich legitimen
+Erwartungen erfüllt sind. Nur dann wird es von Verbrauchern auch akzeptiert werden und nur dann wird es ihnen zunutze sein."</i>
 
 Das war unser Antrieb für OpenSchufa. 
 
 
-1. Scoring verständlicher machen
+1. Empfehlung: Scoring verständlicher machen
 
-<i>Die ergebnisse der repräsentativen Bevölkerungsbe­
-fragung zeigen im detail, dass das Wissen über die ver­
-wendeten merkmale im Bereich des Bonitäts­scorings
-neben dem alter davon abhängt, ob eine person in den
-vergangenen fünf Jahren eine Selbstauskunft eingeholt
-hat. formale Bildung für sich genommen scheint dage­
-gen keinen relevanten Einfluss auf das Scoring- Wissen
-zu haben. Interessant ist auch, dass die Befragten
-mehrheitlich dagegen sind, eine Rückmeldung zu ihrem
-Score-Wert zu erhalten; knapp die Hälfte möchte grund­
-sätzlich (mit unterschiedlicher Häufigkeit) darüber aktiv
+<i>Die Ergebnisse der repräsentativen Bevölkerungsbefragung zeigen im Detail, dass das Wissen über die verwendeten Merkmale im Bereich des Bonitäts-Scorings neben dem Alter davon abhängt, ob eine Person in den vergangenen fünf Jahren eine Selbstauskunft eingeholt hat. Formale Bildung für sich genommen scheint dagegen keinen relevanten Einfluss auf das Scoring- Wissen zu haben. Interessant ist auch, dass die Befragten mehrheitlich dagegen sind, eine Rückmeldung zu ihrem Score-Wert zu erhalten; knapp die Hälfte möchte grundsätzlich (mit unterschiedlicher Häufigkeit) darüber aktiv
 informiert werden.</i>
 
 Fast 50% der Bevölkerung wünscht sich einen transparenteren Umgang.
 
-
-<i>Festzustellen, welche merkmale für
-Verbraucher wesentlich sind, kann nicht nur
-Aufgabe des Gesetzgebers sein, sondern sollte
-auch Aufgabe von Verbraucherorganisationen
-oder der „marktwächter“ der Verbraucherzentralen sein.
-Eine vollständige Offenlegung der
-Scores und ihrer Eigenschaften gegenüber Aufsichtsbehörden ist in jedem Fall notwendig (vgl.
-das SVRV Gutachten "Digitale Souveränität).</i> 
+<i>Festzustellen, welche Merkmale für Verbraucher wesentlich sind, kann nicht nur Aufgabe des Gesetzgebers sein, sondern sollte auch Aufgabe von Verbraucherorganisationen oder der „Marktwächter“ der Verbraucherzentralen sein.
+Eine vollständige Offenlegung der Scores und ihrer Eigenschaften gegenüber Aufsichtsbehörden ist in jedem Fall notwendig (vgl. das SVRV Gutachten "Digitale Souveränität).</i> 
 
 Dieser Forderung schließen wir uns an.
 
@@ -106,7 +86,6 @@ Wir begrüßen, dass ein Teil des Rats eine weitergehende Lösung befürwortet.
 <i>Die Verständlichkeit der Scores durch Verbraucher sollte nicht nur
 von Fachleuten behauptet, sondern empirisch überprüft werden.</i>
 
-
 2. Scoring-Wissen und Kompetenzen fördern
 
 Update folgt
@@ -114,28 +93,24 @@ Update folgt
 
 6. Datenqualität sichern
 
-<i> 1. Eine angemessene Datenqualität bei der Score­-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.</i>
+<i> 1. Eine angemessene Datenqualität bei der Score-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.</i>
 
 Begrüßenswert und wünschenswert. Aktuell gibt es ja noch viel "room for improvement." 
-Siehe Fall (golem).
+Siehe Berich in [golem](https://www.golem.de/news/schufa-eintrag-kleinganoven-ueberforderte-hotlines-und-ein-einfaches-konto-1804-133251.html).
 
-
-<i>3. In der anwendung der Verfahren ist die Korrektheit, Vollständigkeit und aktualität der Daten
+<i>3. In der Anwendung der Verfahren ist die Korrektheit, Vollständigkeit und aktualität der Daten
 sicherzustellen.</i>
 
 Sowie der Verlauf der Daten (Hinweis auf ACM, GI Gutachten).
 
 <i>4. Zur Überprüfung der Datenbasis durch die Verbraucher selbst hat der SVRV bereits in seinem
-Gutachten „Digitale Souveränität“ die Option eines Daten-Dashboards skizziert, um ein ver­braucher­zentriertes Datenmanagement zu ermöglichen.</i>
-
-Dazu bedarf es der Möglichkeit für den Verbraucher die Daten zu bekommen.
-Dies ist im Moment nicht der Fall.
-
-Es sei der Hinweis gestattet, die aktuelle Handlungsverbesserungen sind auch ohne Blockchain möglich.
+Gutachten „Digitale Souveränität“ die Option eines Daten-Dashboards skizziert, um ein verbraucherzentriertes Datenmanagement zu ermöglichen.</i>
 
 Es freut uns, dass die Vorschläge von "Digitale Souveränität", die Stärkung der Verbraucherposition 
-übernommen wurde.
+übernommen wurde. Jedoch bedarf es der Möglichkeit für den Verbraucher die Daten zu bekommen.
+Dies ist im Moment nur eingeschränkt der Fall.
 
+Es sei der Hinweis gestattet, die aktuelle Handlungsverbesserungen sind auch ohne Blockchain möglich.
 
 
 ### Aussagen
@@ -155,69 +130,60 @@ Bzgl. "Super-Scoring" und China der Hinweis auf „Bedenken second“ schiefgehe
 Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring der Weg dort hin."
 </i> 
 
-Marit Hansen 
+<b>Marit Hansen </b>
 <br><i> 
-"mehr Gestaltung an System, dass sie sich besser erklären,
+"Mehr Gestaltung am System, dass sich besser erklären lässt. 
 Geht in die nächste Runde. Gibt ja auch die Datenschutzethikkommission."</i> 
 
-Wagner<br>
+<b>Wagner</b><br>
 <i>
 "Für volle Transparenz sind Hr. Girgenzer und ich." Transparenzschnittstelle, sind ja nur logistische Regression.
 Fordert nochmals volle Transparenz, verweist auf FAZ-Artikel wo er die Transparenz-Schnittstelle für
 den Verbraucher erklärt.
 [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)
-"Ich will wissen was hinten rauskommt"</i><br>
+Zitiert Kohl: "Ich will wissen was hinten rauskommt"</i><br>
 
-Hansen<br> <i>"Borges Wünsche bereits durch Art. 25 erfüllt"</i>
-
-Wolfgang Schulz, @hiig_berlin, betont #Transparenz als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. #SVRV 
+<b>Hansen</b><br> <i>"Borges Wünsche bereits durch Art. 25 erfüllt"</i>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Wolfgang Schulz, <a href="https://twitter.com/hiig_berlin?ref_src=twsrc%5Etfw">@hiig_berlin</a>, betont <a href="https://twitter.com/hashtag/Transparenz?src=hash&amp;ref_src=twsrc%5Etfw">#Transparenz</a> als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. <a href="https://twitter.com/hashtag/SVRV?src=hash&amp;ref_src=twsrc%5Etfw">#SVRV</a> <a href="https://twitter.com/BMJV_Bund?ref_src=twsrc%5Etfw">@BMJV_Bund</a>  <a href="https://twitter.com/hashtag/Scoring?src=hash&amp;ref_src=twsrc%5Etfw">#Scoring</a></p>&mdash; Sven Scharioth (@scharioth) <a href="https://twitter.com/scharioth/status/1057629451310194692?ref_src=twsrc%5Etfw">October 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Hansen<br> <i> Wichtig mit Tests die alte Welt auf zumachen.
+<b>Hansen</b><br> <i> Wichtig mit Tests die alte Welt auf zumachen.
 In die Zukunft schauen, wie wir es haben wollen.
 Jetzt muss es mal richtig gemacht werden.
 Riesenbereich.
 </i>
 
-Wagner 
-<br> <i> 
-Vorzug GI Gutachten vers. Fairness-Kriterien.
+<b>Wagner</b><br><i> 
+Vorzug von GI Gutachten: vers. Fairness-Kriterien.
 Wie schwer es ist verschiedene Fairness-Kriterien einzuhalten. Trade-Offs.
-Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring
-ist dies schwieriger.
+Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring ist dies schwieriger.
 </i>
 
-Borges<br><i> 
-Muss der Auftakt zur Auseinandersetzung sein.
-Fairness ist kein Rechtsbegriff.
-Dies kann man nicht am Wochenende erledigen.
-Aufgabe der Politik, diesen Rahmen zu geben. 
-Dies strukturell zu erforschen.
-Mit der AI haben wir die Möglichkeit hier tiefer reinzugehen.
+<b>Borges</b><br><i> 
+Muss der Auftakt zur Auseinandersetzung sein. Fairness ist kein Rechtsbegriff.
+Dies kann man nicht am Wochenende erledigen. Aufgabe der Politik, diesen Rahmen zu geben. 
+Dies strukturell zu erforschen. Mit der AI haben wir die Möglichkeit hier tiefer reinzugehen.
 Was sind legitime, was sind illegitime Vorgänge.
-
 Allg. Algo-Gesetz wär ein Unsinn.
 Zuerst verstehen, was die Probleme sind.
 Strukturiertes Forschungsprogramm.</i><br>
 
-
-Wagner <br><i> 
+<b>Wagner</b><br><i> 
 "zum testing brauchen Sie ja nicht das Modell"
 <br></i> 
 
-Grabmair<br><i>
+<b>Grabmair</b><br><i>
 "die Unternehmer bisschen ins Boot zu holen"
 <br></i>
 
-Hansen<br><i>
+<b>Hansen</b><br><i>
 "zur Frage haben wir Zeit, ... wir sind nicht bei Null, 
 wollen was zusammenbringen ... wären wir noch am Anfang
 Anwendung, Transparenz, Qualität ... im Autobereich ... 
 wird sich auf die STVO auswirken, sektorspezifisch ist man dran ... 
 Lifecylce der Daten, Rechtsschutz ... spamfilter ... wie funktioniert der ... 
-täglich in den Folder reingucken ...
+täglich in den Folder reingucken ... 
 <br></i>
 
 3. Handlungsempfehlung
@@ -319,7 +285,7 @@ Girgenzer
 
 Zitat von Juli Zeh "Totalitäre Systeme kommen heute im Gewand von Serviceangeboten."
 
-Klaus_Mueller
+<b>Klaus_Mueller</b>
 <br> <i>
 "Voriges Panel, ~lasst uns erst mal forschen, treibt mich auf die Palme.
 Ich habe hier Vorschläge.
@@ -332,10 +298,10 @@ Bis Sommer nächsten Jahres Vorschläge.
 4. Haftungsregel der Plattformökonomie (Haftung nicht auf Akteuere verlagern können)
 <br> </i>
 
-Gigerenzer:
-- Muss auf eine A4 Seite
+<b>Gigerenzer</b><i>
+- Muss auf eine A4 Seite passen
 - 1. Einverstanden, 2. nicht einverstanden, 3. möchte dies kompliziert regeln
-Eric Schmidt und China haben Gemeinsamkeiten.
+Eric Schmidt und China haben Gemeinsamkeiten.<br> </i>
 
 Zweig:
 Es soziale Situationen gibt, wo man aus der Situation rausgehen muss um eine Entscheidung zu treffen, 
@@ -389,7 +355,7 @@ Bildung, digitale Souveränität.
 
 Hoffnung auf Datenethikkommission.
 
-Q Moderator: Mehrheitsfähigkeit der Koa - A: "Nächste Frage".
+Q Moderator: Mehrheitsfähigkeit der Koalition - A: "Nächste Frage".
 
 Wollen in demokratischen Gesellschaften leben. Nicht Eseln mit Möhren vor der Nase.
 Ist mein Gefühl, das Bewusstsein, dass wir uns für die Grundwerte einsetzen müssen, zunimmt.
@@ -398,15 +364,8 @@ CSR Diskurs, vielleicht könnte man Unternehmenscoring einbringen.
 <br>
 
 
-
-
-
-
-
 <br>
 <br> 
-
-
 
 
 <i>"Nicht nur in der Wissenschaft, auch in der Öffentlichkeit wird die Transparenz von Scoring-Verfahren diskutiert. Im Februar 2018 starteten die gemeinnützigen Organisationen Open Knowledge Foundation und Algorithm-Watch die Initiative OpenSCHUFA. Zu den erklärten Zielen des Projektes gehört es, den Algorithmus zu „knacken“, mit dem die Schufa ihre Bonitäts-scores ermittelt (OpenSCHUFA,  2018). Sowohl die in die Berechnung des Score-Wertes eingehenden Daten als auch das Verfahren, nach dem aus diesem Datenmaterial ein individueller Score ermittelt wird, will die Initiative herausfinden, indem möglichst viele Personen der Initiative ihren Schufa-Score (den sie dort erfragen) und ihre persönlichen Merkmale mitteilen. Zahlreiche Medien berichteten über das Anliegen der Initiative (exemplarisch Erdmann, 2018; Schneider, 2018), die SCHUFA selbst trat ihr kritisch entgegen (SCHUFA Holding AG, 2018)"</i>
@@ -456,7 +415,7 @@ Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere 
 
 ### Weitere Links:<br>
 Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
-Ein Sachverständigenrat sieht in einem Gutachten Gesetzgeber und Aufsichtsbehörden in der Pflicht [heise.de](https://www.heise.de/newsticker/meldung/Experten-warnen-vor-Super-Scoring-a-la-China-in-Deutschland-4208327.html)
+Ein Sachverständigenrat sieht in einem Gutachten Gesetzgeber und Aufsichtsbehörden in der Pflicht [heise.de](https://www.heise.de/newsticker/meldung/Experten-warnen-vor-Super-Scoring-a-la-China-in-Deutschland-4208327.html)<br>
 Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
 upcoming netzpolitik<br>
 Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)<br>
