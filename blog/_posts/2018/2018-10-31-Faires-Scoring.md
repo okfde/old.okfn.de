@@ -260,7 +260,31 @@ Seit wann BSI Aufsichtsbehörde ist, 2015, davor 4 Jahrzehnte ohne, aber mit Fac
 
 Kompetenz, Normen aufbauen.
 
+ <br> <i>
+
  <br> </i>
+
+<br> <i>
+me ... Datenqualität
+<br> </i>
+
+<br> <i>
+Pauli von VZBV
+BGH Entscheidung "Warum bin ich unterdurchschnittlich bewertet worden?"
+<br> </i>
+
+Wagner<br> </i>
+Was die SCHUFA liefert muss man zwei Studienabschlüsse liefern.
+Deswegen Transparenz und Verständlichkeit
+<br> <i>
+
+Hansen<br> <i>
+"Wegen Datenqualität hat sich noch nicht gelohnt.
+Incentives. Durch Sanktionen. 
+BGH 1995 ... 
+heisst nicht, dass die Karten nicht neu gemischt werden müssen.
+Martini wird zitiert, Entscheidungsstrukturen.
+<br></i>
 
 
 <br>
