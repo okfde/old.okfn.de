@@ -29,7 +29,7 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
  
 
 ### Handlungsempfehlungen
-[Handlungsempfehlungen des Rats (S. 142-151)](SVRV_HR-Verbrauchergerechtes_Scoring.pdf)
+[Handlungsempfehlungen des Rats (S. 142-151)](/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf)
 
 1. Scoring für den Verbraucher verständlich machen
 
