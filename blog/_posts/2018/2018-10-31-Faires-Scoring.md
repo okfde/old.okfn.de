@@ -208,7 +208,8 @@ Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere 
 
 
 ### Weitere Links:<br>
-[Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
+Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
 
-Der erwähnte [Propublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
+upcoming netzpolitik
 
