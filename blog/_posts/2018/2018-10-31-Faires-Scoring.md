@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: ture
 title: "OpenSCHUFA: Verbrauchergerechtes Scoring" 
 ---
 Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort.
@@ -31,6 +31,7 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
 ### Handlungsempfehlungen
 [Handlungsempfehlungen des Rats (S. 142-151)](/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf)
 
+
 1. Scoring für den Verbraucher verständlich machen
 
 2. Scoring-Wissen und Kompetenz fördern
@@ -46,6 +47,8 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
 7. Aufsicht verbessern
 
 8. Super-Scores
+
+![Empfehlungen](/files/blog/2018/10/img-20181031-empfehlungen.jpg "Empfehlungen")<br>
 
 
 Aus den Handlungsempfehlungen:
@@ -136,6 +139,23 @@ Es freut uns, dass die Vorschläge von "Digitale Souveränität", die Stärkung 
 
 
 ### Aussagen
+
+Girgenzer 
+<i> Schufa legt Verfahren den Datenschutzbehörden vor, Aussage
+"Schufaverfahren bereits für Behörden transparent (Hessen)."
+Sprecher NRW: Es fehlt notwendiges Fachwissen.
+Es wird nur auf Plausibilität geprüft.
+Hinweis Bayern: Gutachten von Auskunftsdateien selbst. 
+Interessenskonflikt.
+
+Gigerenzer vergleicht den Interessenskonflikt der Auskunftsdateien mit
+Ratingsagenturen vor der Finanzkrise. 
+
+Axiom Daten über 44 Mio. Deutsche. Oracle, Deutsche Post auch dabei.
+<i/> 
+
+
+
 
 <i>"Nicht nur in der Wissenschaft, auch in der Öffentlichkeit wird die Transparenz von Scoring-Verfahren diskutiert. Im Februar 2018 starteten die gemeinnützigen Organisationen Open Knowledge Foundation und Algorithm-Watch die Initiative OpenSCHUFA. Zu den erklärten Zielen des Projektes gehört es, den Algorithmus zu „knacken“, mit dem die Schufa ihre Bonitäts-scores ermittelt (OpenSCHUFA,  2018). Sowohl die in die Berechnung des Score-Wertes eingehenden Daten als auch das Verfahren, nach dem aus diesem Datenmaterial ein individueller Score ermittelt wird, will die Initiative herausfinden, indem möglichst viele Personen der Initiative ihren Schufa-Score (den sie dort erfragen) und ihre persönlichen Merkmale mitteilen. Zahlreiche Medien berichteten über das Anliegen der Initiative (exemplarisch Erdmann, 2018; Schneider, 2018), die SCHUFA selbst trat ihr kritisch entgegen (SCHUFA Holding AG, 2018)"</i>
 
