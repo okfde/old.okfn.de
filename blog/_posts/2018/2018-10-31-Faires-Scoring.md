@@ -14,30 +14,39 @@ card: true
 published: false
 title: "OpenSCHUFA: Verbrauchergerechtes Scoring" 
 ---
-Heute findet die Präsentation des SRVR zu Verbrauchergerechtes statt. Wir berichten LIVE vor Ort.
+Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort.
 #fairesscoring #openschufa
 
-### Das wichtiges in Übersicht 
+### Das wichtigste in Kürze 
 
 [Programm der Veranstaltung](https://www.bmjv.de/DE/Veranstaltungen/Anmeldeportal/Events/SVRV/SVRV_Anmeldung_node.html)
 
-[Übersichtsseite zu „Verbrauchergerechtes Scoring“, von SVRV](http://www.svr-verbraucherfragen.de/dokumente/verbrauchergerechtes-scoring/)
+[Übersichtsseite zu „Verbrauchergerechtes Scoring“ (Sachverständigenrat)](http://www.svr-verbraucherfragen.de/dokumente/verbrauchergerechtes-scoring/)
 
 [Technische und rechtliche Betrachtungen algorithmischer Entscheidungsverfahren
-Gesellschaft für Informatik e. V.](http://www.svr-verbraucherfragen.de/dokumente/technische-und-rechtliche-betrachtungen-algorithmischer-entscheidungsverfahren/)
+(Gesellschaft für Informatik e. V.)](http://www.svr-verbraucherfragen.de/dokumente/technische-und-rechtliche-betrachtungen-algorithmischer-entscheidungsverfahren/)
 
  
 
 ### Handlungsempfehlungen
-[Handlungsempfehlungen p142-151] (SVRV_HR-Verbrauchergerechtes_Scoring.pdf)
+[Handlungsempfehlungen des Rats (S. 142-151)](SVRV_HR-Verbrauchergerechtes_Scoring.pdf)
+
 1. Scoring für den Verbraucher verständlich machen
+
 2. Scoring-Wissen und Kompetenz fördern
+
 3. Diskriminierung prüfen und offenlegen
+
 4. telematikfreie Option sicherstellen
+
 5. Score-Qualität gewährleisten
+
 6. Datenqualität sichern
+
 7. Aufsicht verbessern
+
 8. Super-Scores
+
 
 Aus den Handlungsempfehlungen:
 
@@ -47,7 +56,7 @@ erwartungen erfüllt sind. nur dann wird es von Verbrau­
 chern auch akzeptiert werden und nur dann wird es ih­
 nen zunutze sein."</i>
 
-Das war unser Antrieb für openschufa. 
+Das war unser Antrieb für OpenSchufa. 
 
 
 1. Scoring verständlicher machen
@@ -77,7 +86,7 @@ Eine vollständige Offenlegung der
 Scores und ihrer Eigenschaften gegenüber Aufsichtsbehörden ist in jedem Fall notwendig (vgl.
 das SVRV Gutachten "Digitale Souveränität).</i> 
 
-Dieser Forderung schliessen wir uns an.
+Dieser Forderung schließen wir uns an.
 
 
 <i>Ein Teil des SVRV spricht sich für eine weiterreichende Scoring-Transparenz aus. Er ist der
@@ -88,14 +97,11 @@ und -Nutzer haben insoweit gegenüber dem Auskunftsinteresse
 der Verbraucher zurückzustehen, wobei das Geschäftsgeheimnis der Entwicklung
 und Programmierung eines scores gewahrt bleiben sollte.</i>
 
-Wir begrüßen, dass es einen Teil des SRVR dieser Vorschlag nicht weitgenug geht.
+Wir begrüßen, dass ein Teil des Rats eine weitergehende Lösung befürwortet.
 
 
 <i>Die Verständlichkeit der Scores durch Verbraucher sollte nicht nur
 von Fachleuten behauptet, sondern empirisch überprüft werden.</i>
-
-+1
-
 
 
 2. Scoring-Wissen und Kompetenzen fördern
@@ -107,7 +113,7 @@ Update folgt
 
 <i> 1. Eine angemessene Datenqualität bei der Score­-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.</i>
 
-Begrüßenswert und wünschenswert. Aktuell ja noch viel "room for improvement." 
+Begrüßenswert und wünschenswert. Aktuell gibt es ja noch viel "room for improvement." 
 Siehe Fall (golem).
 
 
@@ -142,16 +148,20 @@ Wir verweisen auf die sieben Prinzipien des ACM (p 123 GI Studie)
 sollten sich der möglichen Vorurteile bewusst sein, die mit ihrer Gestaltung, Implementierung
 und Verwendung sowie dem möglichen Schaden, den Voreingenommenheit Einzelpersonen
 und der Gesellschaft verursachen kann, verbunden sind.
+
 2. Zugang und Rechtsbehelfe: Die Regulierungsbehörden sollten die Einführung von
 Mechanismen fördern, die Befragungen und Rechtsbehelfe für Einzelpersonen und Gruppen
 ermöglichen, die von algorithmisch fundierten Entscheidungen betroffen sind.
+
 3. Rechenschaftspflicht: Institutionen sollten für Entscheidungen verantwortlich gemacht
 werden, die durch die von ihnen verwendeten Algorithmen getroffen werden, auch wenn es
 nicht möglich ist, im Detail zu erklären, wie die Algorithmen ihre Ergebnisse produzieren.
+
 4. Erläuterung: Systeme und Institutionen, die algorithmische Entscheidungen treffen,
 werden ermutigt, Erläuterungen sowohl zu den vom Algorithmus verfolgten Verfahren als
 auch zu den spezifischen getroffenen Entscheidungen zu geben. Dies ist besonders wichtig
 in öffentlichen politischen Kontexten.
+
 5. Datenprovenienz: Eine Beschreibung der Art und Weise, in der die Trainingsdaten
 gesammelt wurden, sollte von den Erstellern der Algorithmen beibehalten werden, begleitet
 von einer Untersuchung der möglichen Verzerrungen, die durch den menschlichen oder
@@ -160,8 +170,10 @@ Daten bietet maximale Möglichkeiten für Korrekturen. Bedenken hinsichtlich des
 Datenschutzes, des Schutzes von Geschäftsgeheimnissen oder der Offenlegung von
 Analysen, die böswilligen Akteuren erlauben könnten, das System zu manipulieren, können
 jedoch den Zugang auf qualifizierte und autorisierte Personen einschränken.
+
 6. Überprüfbarkeit: Modelle, Algorithmen, Daten und Entscheidungen sollten aufgezeichnet
 werden, damit sie in Fällen, in denen ein Schaden vermutet wird, überprüft werden können.
+
 7. Validierung und Testen: Institutionen sollten strenge Methoden anwenden, um ihre
 Modelle zu validieren und diese Methoden und Ergebnisse zu dokumentieren. Insbesondere
 sollten sie routinemäßig Tests durchführen, um zu beurteilen und festzustellen, ob das
@@ -172,4 +184,4 @@ Ergebnisse solcher Tests öffentlich zu machen.</i>
 
 ### Wie geht es weiter bei OpenSCHUFA?
 
-Veranstaltung im November ankündigen ... 
+Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere Vorgehen diskutieren. Infos folgen!
