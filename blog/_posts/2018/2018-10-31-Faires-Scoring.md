@@ -28,9 +28,9 @@ Wir berichten live vor Ort. Raw.
 [Technische und rechtliche Betrachtungen algorithmischer Entscheidungsverfahren
 (Gesellschaft für Informatik e. V.)](http://www.svr-verbraucherfragen.de/dokumente/technische-und-rechtliche-betrachtungen-algorithmischer-entscheidungsverfahren/)
 
- 
 
-### Handlungsempfehlungen
+
+### Diskussion zu Handlungsempfehlungen
 [Handlungsempfehlungen des Rats (S. 142-151)](/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf)
 
 
@@ -61,7 +61,7 @@ Erwartungen erfüllt sind. Nur dann wird es von Verbrauchern auch akzeptiert wer
 Das war unser Antrieb für OpenSchufa. <br><br>
 
 
-1. Empfehlung: Scoring verständlicher machen
+### Erste Empfehlung: Scoring verständlicher machen
 
 <i>Die Ergebnisse der repräsentativen Bevölkerungsbefragung zeigen im Detail, dass das Wissen über die verwendeten Merkmale im Bereich des Bonitäts-Scorings neben dem Alter davon abhängt, ob eine Person in den vergangenen fünf Jahren eine Selbstauskunft eingeholt hat. Formale Bildung für sich genommen scheint dagegen keinen relevanten Einfluss auf das Scoring- Wissen zu haben. Interessant ist auch, dass die Befragten mehrheitlich dagegen sind, eine Rückmeldung zu ihrem Score-Wert zu erhalten; knapp die Hälfte möchte grundsätzlich (mit unterschiedlicher Häufigkeit) darüber aktiv
 informiert werden.</i>
@@ -88,17 +88,17 @@ Wir begrüßen, dass ein Teil des Rats eine weitergehende Lösung befürwortet.<
 <i>Die Verständlichkeit der Scores durch Verbraucher sollte nicht nur
 von Fachleuten behauptet, sondern empirisch überprüft werden.</i>
 
-2. Empfehlung Scoring-Wissen und Kompetenzen fördern
+### Zweite Empfehlung Scoring-Wissen und Kompetenzen fördern
 
 Update folgt
 
 
-6. Empfehlung Datenqualität sichern
+### Sechste Empfehlung Datenqualität sichern
 
 <i> 1. Eine angemessene Datenqualität bei der Score-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.</i>
 
 Begrüßenswert und wünschenswert. Aktuell gibt es ja noch viel "room for improvement." 
-Siehe Berich in [golem](https://www.golem.de/news/schufa-eintrag-kleinganoven-ueberforderte-hotlines-und-ein-einfaches-konto-1804-133251.html).
+Siehe Bericht in [golem](https://www.golem.de/news/schufa-eintrag-kleinganoven-ueberforderte-hotlines-und-ein-einfaches-konto-1804-133251.html).
 
 <i>3. In der Anwendung der Verfahren ist die Korrektheit, Vollständigkeit und aktualität der Daten
 sicherzustellen.</i>
@@ -126,34 +126,30 @@ Hinweis aus Bayern: Gutachten von Auskunftsdateien selbst. Interessenskonflikt.<
 Gigerenzer vergleicht den Interessenskonflikt der Auskunftsdateien mit
 Ratingsagenturen vor der Finanzkrise. 
 
-Axiom Daten über 44 Mio. Deutsche. Oracle, Deutsche Post auch dabei.
+Acxiom hat Daten über 44 Mio. Deutsche. Oracle, Deutsche Post auch dabei.
 
-Bzgl. "Super-Scoring" und China der Hinweis auf „Bedenken second“ schiefgehen könnte, falls das Ergebnis nicht gewünscht ist (Fehlerquote Überwachungskameras Südbahnhof).<br>
-Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring der Weg dort hin."
+Bzgl. "Super-Scoring" und China gab es den Hinweis, dass „Bedenken second“ auch schiefgehen könnte, falls das Ergebnis nicht so gewünscht ist (Verweis auf Fehlerquote des Testpilots Überwachungskameras am Südbahnhof Berlin).<br>
+Die Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring wär der Weg dort hin."
 </i> 
 
 <b>Marit Hansen </b>
 <br><i> 
 "Mehr Gestaltung am System, dass sich besser erklären lässt. 
-Geht in die nächste Runde. Gibt ja auch die Datenschutzethikkommission."</i> 
+Geht in die nächste Runde. Gibt ja auch die [Datenschutzethikkommission](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-digitalpolitik/datenethikkommission.pdf?__blob=publicationFile&v=4)."</i> 
 
 <b>Wagner</b><br>
 <i>
 "Für volle Transparenz sind Hr. Gigerenzer und ich." Transparenzschnittstelle, sind ja nur logistische Regression.
-Fordert nochmals volle Transparenz, verweist auf FAZ-Artikel wo er die Transparenz-Schnittstelle für
-den Verbraucher erklärt.
-[FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)
-Zitiert Kohl: "Ich will wissen was hinten rauskommt"</i><br>
+Fordert nochmals volle Transparenz, verweist auf [FAZ-Artikel](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html) wo er die Transparenz-Schnittstelle für
+den Verbraucher erklärt. Zitiert Kohl: "Ich will wissen was hinten rauskommt"</i><br>
 
 <b>Hansen</b><br> <i>"Borges Wünsche bereits durch Art. 25 erfüllt"</i>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Wolfgang Schulz, <a href="https://twitter.com/hiig_berlin?ref_src=twsrc%5Etfw">@hiig_berlin</a>, betont <a href="https://twitter.com/hashtag/Transparenz?src=hash&amp;ref_src=twsrc%5Etfw">#Transparenz</a> als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. <a href="https://twitter.com/hashtag/SVRV?src=hash&amp;ref_src=twsrc%5Etfw">#SVRV</a> <a href="https://twitter.com/BMJV_Bund?ref_src=twsrc%5Etfw">@BMJV_Bund</a>  <a href="https://twitter.com/hashtag/Scoring?src=hash&amp;ref_src=twsrc%5Etfw">#Scoring</a></p>&mdash; Sven Scharioth (@scharioth) <a href="https://twitter.com/scharioth/status/1057629451310194692?ref_src=twsrc%5Etfw">October 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<b>Hansen</b><br> <i> Wichtig mit Tests die alte Welt auf zumachen.
-In die Zukunft schauen, wie wir es haben wollen.
-Jetzt muss es mal richtig gemacht werden.
-Riesenbereich.
+<b>Hansen</b><br> <i> Wichtig mit Tests die alte Welt aufzumachen. In die Zukunft schauen, wie wir es haben wollen.
+Jetzt muss es mal richtig gemacht werden. Riesenbereich.
 </i>
 
 <b>Wagner</b><br><i> 
@@ -172,15 +168,15 @@ Zuerst verstehen, was die Probleme sind.
 Strukturiertes Forschungsprogramm.</i><br>
 
 <b>Wagner</b><br><i> 
-"zum testing brauchen Sie ja nicht das Modell"
+"Zum Testing brauchen Sie ja nicht das Modell."
 <br></i> 
 
 <b>Grabmair</b><br><i>
-"die Unternehmer bisschen ins Boot zu holen"
+"Die Unternehmer bisschen ins Boot zu holen, fehlen hier."
 <br></i>
 
 <b>Hansen</b><br><i>
-"zur Frage haben wir Zeit, ... wir sind nicht bei Null, 
+"Zur Frage haben wir Zeit, ... wir sind nicht bei Null, 
 wollen was zusammenbringen ... wären wir noch am Anfang
 Anwendung, Transparenz, Qualität ... im Autobereich ... 
 wird sich auf die STVO auswirken, sektorspezifisch ist man dran ... 
@@ -190,15 +186,15 @@ täglich in den Folder reingucken ...
 
 Zu 3. Handlungsempfehlung Digitalagentur
 
-Wagner <br> <i>
+<b>Wagner</b><br> <i>
 Bundesinstitut für Algos. Kompetenzzentrum
 Nicht eine Agentur alleine.
 
 <br> </i>
 
 <br> <i>
-Moderator "~eher suboptimal, dass die Wirtschaft selbst die Gutachten in Auftrag geben."
-Hansen - Froh das was da ist, Gesetz ist nicht spezifisch genug.
+<b>Moderator</b> "~eher suboptimal, dass die Wirtschaft selbst die Gutachten in Auftrag geben."
+<b>Hansen</b> - Froh das was da ist, Gesetz ist nicht spezifisch genug.
 Einzige Informatikerin.
 
 Kulturproblem in den Behörden. 
@@ -226,32 +222,32 @@ Seit wann BSI Aufsichtsbehörde ist, 2015, davor 4 Jahrzehnte ohne, aber mit Fac
 Kompetenz, Normen aufbauen.
  <br> 
  
-
+<b>Q&A vom Publikum</b>
 <br> <i>
-me ... Datenqualität
+WP ... Datenqualität, Data Value Chain, wie kann die Qualität der Daten gewährleistet werden.
 <br> </i>
 
 <br> <i>
-Pauli von VZBV
+<b>Pauli</b> von VZBV
 BGH Entscheidung "Warum bin ich unterdurchschnittlich bewertet worden?"
 <br> </i>
 
-Wagner<br> <i>
+<b>Wagner</b><br> <i>
 Was die SCHUFA liefert muss man zwei Studienabschlüsse liefern.
 Deswegen Transparenz und Verständlichkeit
 <br> </i>
 
-Hansen<br> <i>
+<b>Hansen</b><br> <i>
 "Wegen Datenqualität hat sich noch nicht gelohnt.
 Incentives. Durch Sanktionen. 
 BGH 1995 ... 
 heisst nicht, dass die Karten nicht neu gemischt werden müssen.
 Martini wird zitiert, Entscheidungsstrukturen.
-<br><i>
-Borges will keine Information wie der Score zusammenkommt.
+<b>Borges<b> <br><i>
+Will keine Information wie der Score zusammenkommt.
 (Anmerkung Analogie: Keine Auskunft über die Geschwindigkeitsbegrenzungen haben will, und immer gerne den Strafzettel gerne zahlt, weil eh ...)
 <br><i>
-Zweites Panel: 
+### Zweites Panel: 
 Start mit Christiane Woopen, Zuordnung einen Zahlwertes
 
 Kant, Selbstwillen geachtet werden
@@ -261,7 +257,7 @@ Nicht nur um die googles dieser welt
 37% der Versicherungsfirmen wollen Daten aus elektr. Akte
 
 
-Christiane Woopen: #Scoring kann zur Verschiebung von Definitionshoheiten und Machtstrukturen beitragen. Problem u.a. dass bestimmte Menschen von Vorteilen bei #Bonusprogrammen nicht profitieren und dass Krankenkassen alleine definieren, was gesundheitsrelevant ist. #SVRV
+<b>Christiane Woopen:</b> #Scoring kann zur Verschiebung von Definitionshoheiten und Machtstrukturen beitragen. Problem u.a. dass bestimmte Menschen von Vorteilen bei #Bonusprogrammen nicht profitieren und dass Krankenkassen alleine definieren, was gesundheitsrelevant ist. #SVRV
 
 
 Zitat Barry Schwartz "Die Planeten kümmern sich herzlich wenig darum, was wir denken und welche Theorien wri über sie aufstellen. Dagegen ist die Sorge, dass unsere Theorien über die menschliche Natur auf Dauer die menschliche Natur verändern könnten, durchaus berechtigt."
