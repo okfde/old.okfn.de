@@ -12,9 +12,11 @@ type: post
 layout: post
 card: true
 published: ture
-title: "OpenSCHUFA: Verbrauchergerechtes Scoring" 
+title: "Veranstaltung FairesScoring - Verbrauchergerechtes Scoring" 
 ---
-Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort.
+Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. 
+Thema: Faires Scoring. 
+Wir berichten live vor Ort. Raw.
 #fairesscoring #openschufa
 
 ### Das wichtigste in Kürze 
@@ -56,7 +58,7 @@ Aus den Handlungsempfehlungen:
 <i>"Das Potenzial digitalen Scorings kann nur ausgeschöpft werden, wenn eine Reihe von gesellschaftlich legitimen
 Erwartungen erfüllt sind. Nur dann wird es von Verbrauchern auch akzeptiert werden und nur dann wird es ihnen zunutze sein."</i>
 
-Das war unser Antrieb für OpenSchufa. 
+Das war unser Antrieb für OpenSchufa. <br><br>
 
 
 1. Empfehlung: Scoring verständlicher machen
@@ -64,12 +66,12 @@ Das war unser Antrieb für OpenSchufa.
 <i>Die Ergebnisse der repräsentativen Bevölkerungsbefragung zeigen im Detail, dass das Wissen über die verwendeten Merkmale im Bereich des Bonitäts-Scorings neben dem Alter davon abhängt, ob eine Person in den vergangenen fünf Jahren eine Selbstauskunft eingeholt hat. Formale Bildung für sich genommen scheint dagegen keinen relevanten Einfluss auf das Scoring- Wissen zu haben. Interessant ist auch, dass die Befragten mehrheitlich dagegen sind, eine Rückmeldung zu ihrem Score-Wert zu erhalten; knapp die Hälfte möchte grundsätzlich (mit unterschiedlicher Häufigkeit) darüber aktiv
 informiert werden.</i>
 
-Fast 50% der Bevölkerung wünscht sich einen transparenteren Umgang.
+Fast 50% der Bevölkerung wünscht sich einen transparenteren Umgang.<br>
 
 <i>Festzustellen, welche Merkmale für Verbraucher wesentlich sind, kann nicht nur Aufgabe des Gesetzgebers sein, sondern sollte auch Aufgabe von Verbraucherorganisationen oder der „Marktwächter“ der Verbraucherzentralen sein.
 Eine vollständige Offenlegung der Scores und ihrer Eigenschaften gegenüber Aufsichtsbehörden ist in jedem Fall notwendig (vgl. das SVRV Gutachten "Digitale Souveränität).</i> 
 
-Dieser Forderung schließen wir uns an.
+Dieser Forderung schließen wir uns an.<br>
 
 
 <i>Ein Teil des SVRV spricht sich für eine weiterreichende Scoring-Transparenz aus. Er ist der
@@ -80,18 +82,18 @@ und -Nutzer haben insoweit gegenüber dem Auskunftsinteresse
 der Verbraucher zurückzustehen, wobei das Geschäftsgeheimnis der Entwicklung
 und Programmierung eines scores gewahrt bleiben sollte.</i>
 
-Wir begrüßen, dass ein Teil des Rats eine weitergehende Lösung befürwortet.
+Wir begrüßen, dass ein Teil des Rats eine weitergehende Lösung befürwortet.<br>
 
 
 <i>Die Verständlichkeit der Scores durch Verbraucher sollte nicht nur
 von Fachleuten behauptet, sondern empirisch überprüft werden.</i>
 
-2. Scoring-Wissen und Kompetenzen fördern
+2. Empfehlung Scoring-Wissen und Kompetenzen fördern
 
 Update folgt
 
 
-6. Datenqualität sichern
+6. Empfehlung Datenqualität sichern
 
 <i> 1. Eine angemessene Datenqualität bei der Score-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.</i>
 
@@ -115,7 +117,7 @@ Es sei der Hinweis gestattet, die aktuelle Handlungsverbesserungen sind auch ohn
 
 ### Aussagen
 
-<b>Girgenzer</b> 
+<b>Gigerenzer</b> 
 <i> Schufa legt Verfahren den Datenschutzbehörden vor, die Aussage
 "Schufaverfahren bereits für Behörden transparent (Hessen)."<br>
 Sprecher NRW: Es fehlt notwendiges Fachwissen. Es wird nur auf Plausibilität geprüft.<br>
@@ -137,7 +139,7 @@ Geht in die nächste Runde. Gibt ja auch die Datenschutzethikkommission."</i>
 
 <b>Wagner</b><br>
 <i>
-"Für volle Transparenz sind Hr. Girgenzer und ich." Transparenzschnittstelle, sind ja nur logistische Regression.
+"Für volle Transparenz sind Hr. Gigerenzer und ich." Transparenzschnittstelle, sind ja nur logistische Regression.
 Fordert nochmals volle Transparenz, verweist auf FAZ-Artikel wo er die Transparenz-Schnittstelle für
 den Verbraucher erklärt.
 [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)
@@ -186,11 +188,9 @@ Lifecylce der Daten, Rechtsschutz ... spamfilter ... wie funktioniert der ...
 täglich in den Folder reingucken ... 
 <br></i>
 
-3. Handlungsempfehlung
+Zu 3. Handlungsempfehlung Digitalagentur
 
-Digitalagentur
-
-Wagner <br> </i>
+Wagner <br> <i>
 Bundesinstitut für Algos. Kompetenzzentrum
 Nicht eine Agentur alleine.
 
@@ -212,8 +212,7 @@ Bundesinstitut gut.
 <br> </i>
 
 
-Grabmair<br> <i>
-Fair lending reinschauen
+<b>Grabmair</b><br> <i> Fair lending reinschauen, Empfehlung
 <br> </i>
 
 <b>Borges</b><br> <i>
@@ -237,10 +236,10 @@ Pauli von VZBV
 BGH Entscheidung "Warum bin ich unterdurchschnittlich bewertet worden?"
 <br> </i>
 
-Wagner<br> </i>
+Wagner<br> <i>
 Was die SCHUFA liefert muss man zwei Studienabschlüsse liefern.
 Deswegen Transparenz und Verständlichkeit
-<br> <i>
+<br> </i>
 
 Hansen<br> <i>
 "Wegen Datenqualität hat sich noch nicht gelohnt.
@@ -271,22 +270,21 @@ Menschen werten keine Daten aus, sondern messen Bedeutung.
 
 -------------
 
-Müller, 
+<b>Müller,</b>
 der vzbv kümmert sich um asymmetrie Situationen.
 Intransparenz als Mensch, vergesse ja Sachen.
 
-Zweig
+<b>Zweig</b>
 H-Index nicht so prickelnd da "Varianz so hoch wie der Mittelwert"
 
-Girgenzer
-.CN argumentiert auch moralisch, anderer moralischer Begriff.
+<b>Gigerenzer</b> .CN argumentiert auch moralisch, anderer moralischer Begriff.
 
 @Klaus_Mueller, @vzbv, empfiehlt, Diskussion nicht auf chinesischen #Score zu begrenzen. Relevanter ist Beeinflussung des Verrbaucherberhaltens durch Unternehmen und deren Boni. Gesetzgeber darf / muss Gesellschaft beeinflussen dürfen, Konzerne sollten es nicht dürfen. #SVRV
 
 Zitat von Juli Zeh "Totalitäre Systeme kommen heute im Gewand von Serviceangeboten."
 
 <b>Klaus_Mueller</b>
-<br> <i>
+<br><i>
 "Voriges Panel, ~lasst uns erst mal forschen, treibt mich auf die Palme.
 Ich habe hier Vorschläge.
 Bis Sommer nächsten Jahres Vorschläge.
@@ -350,6 +348,8 @@ Fand es anregend.
 SVRV hat 4 Handlungseben aufgezeigt, daran wird orientiert.
 Geschäftsgeheimnis ist kein absolutes Gut. Eigentum verpflicht.
 Aufsicht, Kontrollinstitution.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TsB7I8Hw0IM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Bildung, digitale Souveränität.
 
