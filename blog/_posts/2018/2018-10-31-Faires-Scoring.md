@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 card: true
-published: ture
+published: true
 title: "Veranstaltung FairesScoring - Verbrauchergerechtes Scoring" 
 ---
 Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. 
@@ -394,10 +394,11 @@ Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere 
 Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
 Ein Sachverständigenrat sieht in einem Gutachten Gesetzgeber und Aufsichtsbehörden in der Pflicht [heise.de](https://www.heise.de/newsticker/meldung/Experten-warnen-vor-Super-Scoring-a-la-China-in-Deutschland-4208327.html)<br>
 Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
-upcoming netzpolitik<br>
+Datenwahrsagerei mit echten Folgen [netzpolitik](https://netzpolitik.org/2018/datenwahrsagerei-mit-echten-folgen-schuetzen-kann-uns-nur-ein-neues-recht/)<br>
 Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)<br>
 [Mitglieder der Datenethikkommission
-der Bundesregierung](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-digitalpolitik/datenethikkommission.pdf?__blob=publicationFile&v=4)
+der Bundesregierung](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-digitalpolitik/datenethikkommission.pdf?__blob=publicationFile&v=4)<br>
+A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI - [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3248829)
 
 
 #CfP (Deadline: 30.11.18) für den den Workshop "Digitaler #Konsum: Herausforderung und Chancen der #Verbraucherinformatik" im Rahmen der @WI_2019 am 24.2.19 verbraucherinformatik.de @vznrw
