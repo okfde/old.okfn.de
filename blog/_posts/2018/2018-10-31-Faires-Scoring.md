@@ -186,15 +186,15 @@ täglich in den Folder reingucken ...
 
 Zu 3. Handlungsempfehlung Digitalagentur
 
-<b>Wagner</b><br> <i>
+<b>Wagner</b><br><i>
 Bundesinstitut für Algos. Kompetenzzentrum
 Nicht eine Agentur alleine.
 
-<br> </i>
+<br></i>
 
-<br> <i>
-<b>Moderator</b> "~eher suboptimal, dass die Wirtschaft selbst die Gutachten in Auftrag geben."
-<b>Hansen</b> - Froh das was da ist, Gesetz ist nicht spezifisch genug.
+<br>
+<b>Moderator</b><i> "~eher suboptimal, dass die Wirtschaft selbst die Gutachten in Auftrag geben."</i>
+<b>Hansen</b><i> - Froh das was da ist, Gesetz ist nicht spezifisch genug.
 Einzige Informatikerin.
 
 Kulturproblem in den Behörden. 
@@ -204,14 +204,14 @@ Wie soll ein Datenschutzbeauftragte Diskriminierung erkennen?
 Manche haben null Techniker, leihen sich diese vom Ministerium
 
 Kann mir vorstellen ... Prüfteams ... 
-Bundesinstitut gut.
-<br> </i>
+Bundesinstitut gut.</i>
+<br>
 
 
-<b>Grabmair</b><br> <i> Fair lending reinschauen, Empfehlung
-<br> </i>
+<b>Grabmair</b><br> <i> Fair lending reinschauen, Empfehlung</i>
+<br>
 
-<b>Borges</b><br> <i>
+<b>Borges</b><br><i>
 Eine Kompetenzstelle aufbauen.
 
 Seit wann BSI Aufsichtsbehörde ist, 2015, davor 4 Jahrzehnte ohne, aber mit Fachwissen.
@@ -289,22 +289,20 @@ Bis Sommer nächsten Jahres Vorschläge.
 1. Überall wo Algo tätig ist muss dies gekennzeichnet sein.
 2. Recht auf Datenqualität, Qualitätssicherung inkludiert
 3. Algo-kontrolle (nicht auf Marktplatz, Bafin, Bundeskraftfahrzzentrale)
-4. Haftungsregel der Plattformökonomie (Haftung nicht auf Akteuere verlagern können)
-<br> </i>
+4. Haftungsregel der Plattformökonomie (Haftung nicht auf Akteuere verlagern können)</i>
+<br> 
 
 <b>Gigerenzer</b><i>
 - Muss auf eine A4 Seite passen
 - 1. Einverstanden, 2. nicht einverstanden, 3. möchte dies kompliziert regeln
-Eric Schmidt und China haben Gemeinsamkeiten.<br> </i>
+Eric Schmidt und China haben Gemeinsamkeiten.</i><br> 
 
-Zweig:
-Es soziale Situationen gibt, wo man aus der Situation rausgehen muss um eine Entscheidung zu treffen, 
-dort wäre der Einsatz von ADM zu vermeiden.
+<b>Zweig</b>:
+<i>Es soziale Situationen gibt, wo man aus der Situation rausgehen muss um eine Entscheidung zu treffen, 
+dort wäre der Einsatz von ADM zu vermeiden.</i>
 
-
-
-Q&A
-Borges, 13, 15, 23 regelt Vorschlag #3
+<b>Q&A</b>
+<b>Borges</b> 13, 15, 23 regelt Vorschlag #3
 Hatten 6 Monate zu forschen. 
 Einfach nur Regeln. 
 
@@ -316,48 +314,47 @@ Was sind die Verhältnisse von Freiheit
 Privatheit, gegen den Staat
 Kennt der Algo einen selber?
 
-Müller 
-wenn wissenschaftlicher Forschungsbedarf für Zeitschinden verwendet wird, 
+<b>Müller</b> 
+<i>Wenn wissenschaftlicher Forschungsbedarf für Zeitschinden verwendet wird, 
 am besten soll die Politik nciht stören
 
 Banken, hatten GFC
 Energiekonzerne, hatten RWE Mrds
 ... 
-
 in Versicherungskonzerne kommen ADMs ... macht mich nervös.
+Zertifizierung durch Wirtschaftsprüfer.</i>
 
-Zertifizierung durch Wirtschaftsprüfer.
-
-
-Zweig
+<b>Zweig</b>
 Vertrauen in Entscheidungen
 Pluralität (geht verloren 70% vs. 71% - Überlappung oder Inklusion)
 Ausverhandlungen gehen verloren, wenn wir sie den maschinen überlassen.
 
 
-Müller<br>
+<b>Müller</b><br>
 Eine Sprache (nicht Jus, VWL, ...) die für Menschen nachvollziehbar. 
 <br>
 
-Gerd Billen<br>
+<b>Gerd Billen</b><br><i>
 Fand es anregend.
 SVRV hat 4 Handlungseben aufgezeigt, daran wird orientiert.
 Geschäftsgeheimnis ist kein absolutes Gut. Eigentum verpflicht.
-Aufsicht, Kontrollinstitution.
+Aufsicht, Kontrollinstitution.</i>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TsB7I8Hw0IM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Bildung, digitale Souveränität.
-
-Hoffnung auf Datenethikkommission.
-
-Q Moderator: Mehrheitsfähigkeit der Koalition - A: "Nächste Frage".
-
+<i>Bildung, digitale Souveränität.
+Hoffnung auf Datenethikkommission.</i>
+<b>Q Moderator</b>: Mehrheitsfähigkeit der Koalition - A: "Nächste Frage".
+<i<>
 Wollen in demokratischen Gesellschaften leben. Nicht Eseln mit Möhren vor der Nase.
 Ist mein Gefühl, das Bewusstsein, dass wir uns für die Grundwerte einsetzen müssen, zunimmt.
 Sind nicht selbstverständlich.
-CSR Diskurs, vielleicht könnte man Unternehmenscoring einbringen.
+CSR Diskurs, vielleicht könnte man Unternehmenscoring einbringen.</i>
 <br>
+
+<b>Update 1. November 2018</b>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">„Jegliche Form von Scoring muss transparent sein und Diskriminierung sowie Missbrauch ausschließen. Die Vorschläge des Sachverständigenrates werden wir deswegen eingehend und zügig prüfen.“ – Ministerin <a href="https://twitter.com/katarinabarley?ref_src=twsrc%5Etfw">@KatarinaBarley</a>. <a href="https://twitter.com/hashtag/Algorithmus?src=hash&amp;ref_src=twsrc%5Etfw">#Algorithmus</a> <a href="https://twitter.com/hashtag/Scoring?src=hash&amp;ref_src=twsrc%5Etfw">#Scoring</a> <a href="https://twitter.com/hashtag/Verbraucherschutz?src=hash&amp;ref_src=twsrc%5Etfw">#Verbraucherschutz</a> <a href="https://t.co/Jw54UxjsC9">pic.twitter.com/Jw54UxjsC9</a></p>&mdash; BM der Justiz und für Verbraucherschutz (@BMJV_Bund) <a href="https://twitter.com/BMJV_Bund/status/1058013628564160512?ref_src=twsrc%5Etfw">November 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <br>
