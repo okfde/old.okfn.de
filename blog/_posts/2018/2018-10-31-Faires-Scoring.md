@@ -242,7 +242,7 @@ Incentives. Durch Sanktionen.
 BGH 1995 ... 
 heisst nicht, dass die Karten nicht neu gemischt werden müssen.
 Martini wird zitiert, Entscheidungsstrukturen.
-<b>Borges<b> <br><i>
+<br><b>Borges</b><br><i>
 Will keine Information wie der Score zusammenkommt.
 (Anmerkung Analogie: Keine Auskunft über die Geschwindigkeitsbegrenzungen haben will, und immer gerne den Strafzettel gerne zahlt, weil eh ...)
 <br><i>
