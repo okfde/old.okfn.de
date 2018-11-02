@@ -121,16 +121,16 @@ Es sei der Hinweis gestattet, die aktuelle Handlungsverbesserungen sind auch ohn
 <i> Schufa legt Verfahren den Datenschutzbehörden vor, die Aussage
 "Schufaverfahren bereits für Behörden transparent (Hessen)."<br>
 Sprecher NRW: Es fehlt notwendiges Fachwissen. Es wird nur auf Plausibilität geprüft.<br>
-Hinweis aus Bayern: Gutachten von Auskunftsdateien selbst. Interessenskonflikt.<br>
+Hinweis aus Bayern: Gutachten von Auskunftsdateien selbst. Interessenskonflikt.</i> <br>
 
 Gigerenzer vergleicht den Interessenskonflikt der Auskunftsdateien mit
 Ratingsagenturen vor der Finanzkrise. 
-
+<i> 
 Acxiom hat Daten über 44 Mio. Deutsche. Oracle, Deutsche Post auch dabei.
 
-Bzgl. "Super-Scoring" und China gab es den Hinweis, dass „Bedenken second“ auch schiefgehen könnte, falls das Ergebnis nicht so gewünscht ist (Verweis auf Fehlerquote des Testpilots Überwachungskameras am Südbahnhof Berlin).<br>
-Die Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring wär der Weg dort hin."
-</i> 
+Bzgl. "Super-Scoring" und China gab es den Hinweis, dass „Bedenken second“ auch schiefgehen könnte, falls das Ergebnis nicht so gewünscht ist (Verweis auf Fehlerquote des Testpilots Überwachungskameras am Südbahnhof Berlin).
+Die Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring wär der Weg dort hin."</i> <br>
+
 
 <b>Marit Hansen </b>
 <br><i> 
@@ -155,8 +155,7 @@ Jetzt muss es mal richtig gemacht werden. Riesenbereich.
 <b>Wagner</b><br><i> 
 Vorzug von GI Gutachten: vers. Fairness-Kriterien.
 Wie schwer es ist verschiedene Fairness-Kriterien einzuhalten. Trade-Offs.
-Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring ist dies schwieriger.
-</i>
+Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring ist dies schwieriger.</i><br>
 
 <b>Borges</b><br><i> 
 Muss der Auftakt zur Auseinandersetzung sein. Fairness ist kein Rechtsbegriff.
@@ -227,10 +226,10 @@ Kompetenz, Normen aufbauen.
 WP ... Datenqualität, Data Value Chain, wie kann die Qualität der Daten gewährleistet werden.
 <br> </i>
 
-<br> <i>
-<b>Pauli</b> von VZBV
-BGH Entscheidung "Warum bin ich unterdurchschnittlich bewertet worden?"
-<br> </i>
+<br>
+<b>Pauli</b> von VZBV <i>
+BGH Entscheidung "Warum bin ich unterdurchschnittlich bewertet worden?"</i>
+<br> 
 
 <b>Wagner</b><br> <i>
 Was die SCHUFA liefert muss man zwei Studienabschlüsse liefern.
@@ -248,13 +247,13 @@ Will keine Information wie der Score zusammenkommt.
 (Anmerkung Analogie: Keine Auskunft über die Geschwindigkeitsbegrenzungen haben will, und immer gerne den Strafzettel gerne zahlt, weil eh ...)
 <br><i>
 ### Zweites Panel: 
-Start mit Christiane Woopen, Zuordnung einen Zahlwertes
+Start mit <b>Christiane Woopen</b>, Scoring ist die Zuordnung einen Zahlwertes.
 
-Kant, Selbstwillen geachtet werden
+Kant, Mensch um Selbstwillen geachtet werden.
 
-Nicht nur um die googles dieser welt
+Nicht nur um die Googles dieser welt.
 
-37% der Versicherungsfirmen wollen Daten aus elektr. Akte
+37% der Versicherungsfirmen wollen Daten aus elektr. Akte verwenden.
 
 
 <b>Christiane Woopen:</b> #Scoring kann zur Verschiebung von Definitionshoheiten und Machtstrukturen beitragen. Problem u.a. dass bestimmte Menschen von Vorteilen bei #Bonusprogrammen nicht profitieren und dass Krankenkassen alleine definieren, was gesundheitsrelevant ist. #SVRV
@@ -267,33 +266,31 @@ Menschen werten keine Daten aus, sondern messen Bedeutung.
 -------------
 
 <b>Müller,</b>
-der vzbv kümmert sich um asymmetrie Situationen.
-Intransparenz als Mensch, vergesse ja Sachen.
+<i>Der vzbv kümmert sich um asymmetrie Situationen. Intransparenz als Mensch, ich vergesse ja Sachen.</i>
 
 <b>Zweig</b>
-H-Index nicht so prickelnd da "Varianz so hoch wie der Mittelwert"
+<i>H-Index nicht so prickelnd da "Varianz so hoch wie der Mittelwert".</i>.
 
-<b>Gigerenzer</b> .CN argumentiert auch moralisch, anderer moralischer Begriff.
+<b>Gigerenzer</b> 
+<i>.CN argumentiert auch moralisch, anderer moralischer Begriff.</i>
 
-@Klaus_Mueller, @vzbv, empfiehlt, Diskussion nicht auf chinesischen #Score zu begrenzen. Relevanter ist Beeinflussung des Verrbaucherberhaltens durch Unternehmen und deren Boni. Gesetzgeber darf / muss Gesellschaft beeinflussen dürfen, Konzerne sollten es nicht dürfen. #SVRV
+<b>Klaus Mueller</b>
+<i>empfiehlt, Diskussion nicht auf chinesischen #Score zu begrenzen. Relevanter ist Beeinflussung des Verrbaucherberhaltens durch Unternehmen und deren Boni. Gesetzgeber darf / muss Gesellschaft beeinflussen dürfen, Konzerne sollten es nicht dürfen.</i>
 
 Zitat von Juli Zeh "Totalitäre Systeme kommen heute im Gewand von Serviceangeboten."
 
 <b>Klaus_Mueller</b>
-<br><i>
-"Voriges Panel, ~lasst uns erst mal forschen, treibt mich auf die Palme.
-Ich habe hier Vorschläge.
-Bis Sommer nächsten Jahres Vorschläge.
+<br><i>"Voriges Panel, 'Lasst uns erst mal forschen', treibt mich auf die Palme. Ich habe hier Vorschläge. Bis Sommer nächsten Jahres Vorschläge.</i>
 
-4 Vorschläge:
+4 Vorschläge:<i>
 1. Überall wo Algo tätig ist muss dies gekennzeichnet sein.
 2. Recht auf Datenqualität, Qualitätssicherung inkludiert
 3. Algo-kontrolle (nicht auf Marktplatz, Bafin, Bundeskraftfahrzzentrale)
 4. Haftungsregel der Plattformökonomie (Haftung nicht auf Akteuere verlagern können)</i>
 <br> 
 
-<b>Gigerenzer</b><i>
-- Muss auf eine A4 Seite passen
+<b>Gigerenzer</b>
+<i>- Muss auf eine A4 Seite passen
 - 1. Einverstanden, 2. nicht einverstanden, 3. möchte dies kompliziert regeln
 Eric Schmidt und China haben Gemeinsamkeiten.</i><br> 
 
@@ -302,37 +299,30 @@ Eric Schmidt und China haben Gemeinsamkeiten.</i><br>
 dort wäre der Einsatz von ADM zu vermeiden.</i>
 
 <b>Q&A</b>
-<b>Borges</b> 13, 15, 23 regelt Vorschlag #3
-Hatten 6 Monate zu forschen. 
-Einfach nur Regeln. 
+<b>Borges</b> 
+<i>13, 15, 23 regelt Vorschlag #3. Hatten 6 Monate zu forschen. Einfach nur Regeln.</i>
 
-An Müller von "Holm"
-BaFin 
+An <b>Müller</b> von "Holm" BaFin .
 
-Baude "Haben ein Problem, machen ein Gesetz"
-Was sind die Verhältnisse von Freiheit 
+<b>Baude</b> "Haben ein Problem, machen ein Gesetz"
+Was sind die Verhältnisse von Freiheit?
 Privatheit, gegen den Staat
 Kennt der Algo einen selber?
 
 <b>Müller</b> 
-<i>Wenn wissenschaftlicher Forschungsbedarf für Zeitschinden verwendet wird, 
-am besten soll die Politik nciht stören
-
-Banken, hatten GFC
-Energiekonzerne, hatten RWE Mrds
-... 
-in Versicherungskonzerne kommen ADMs ... macht mich nervös.
+<i>Wenn wissenschaftlicher Forschungsbedarf für Zeitschinden verwendet wird, am besten er soll die Politik nicht stören  ..
+Banken, hatten GFC ...
+Energiekonzerne, hatten RWE Mrds ... 
+in Versicherungskonzerne kommen ADMs ... dies macht mich nervös.
 Zertifizierung durch Wirtschaftsprüfer.</i>
 
 <b>Zweig</b>
-Vertrauen in Entscheidungen
-Pluralität (geht verloren 70% vs. 71% - Überlappung oder Inklusion)
-Ausverhandlungen gehen verloren, wenn wir sie den maschinen überlassen.
-
+<i>Vertrauen in Entscheidungen
+Pluralität (geht verloren 70% vs. 71% - Überlappung oder Inklusion?)
+Ausverhandlungen gehen verloren, wenn wir sie den Maschinen überlassen.</i>
 
 <b>Müller</b><br>
-Eine Sprache (nicht Jus, VWL, ...) die für Menschen nachvollziehbar. 
-<br>
+<i>Eine Sprache (nicht Jus, VWL, ...) die für Menschen nachvollziehbar.</i><br>
 
 <b>Gerd Billen</b><br><i>
 Fand es anregend.
@@ -342,11 +332,9 @@ Aufsicht, Kontrollinstitution.</i>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TsB7I8Hw0IM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<i>Bildung, digitale Souveränität.
-Hoffnung auf Datenethikkommission.</i>
+<i>Bildung, digitale Souveränität. Hoffnung auf Datenethikkommission.</i>
 <b>Q Moderator</b>: Mehrheitsfähigkeit der Koalition - A: "Nächste Frage".
-<i<>
-Wollen in demokratischen Gesellschaften leben. Nicht Eseln mit Möhren vor der Nase.
+<i>Wollen in demokratischen Gesellschaften leben. Nicht Eseln mit Möhren vor der Nase.
 Ist mein Gefühl, das Bewusstsein, dass wir uns für die Grundwerte einsetzen müssen, zunimmt.
 Sind nicht selbstverständlich.
 CSR Diskurs, vielleicht könnte man Unternehmenscoring einbringen.</i>
@@ -355,11 +343,7 @@ CSR Diskurs, vielleicht könnte man Unternehmenscoring einbringen.</i>
 <b>Update 1. November 2018</b>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">„Jegliche Form von Scoring muss transparent sein und Diskriminierung sowie Missbrauch ausschließen. Die Vorschläge des Sachverständigenrates werden wir deswegen eingehend und zügig prüfen.“ – Ministerin <a href="https://twitter.com/katarinabarley?ref_src=twsrc%5Etfw">@KatarinaBarley</a>. <a href="https://twitter.com/hashtag/Algorithmus?src=hash&amp;ref_src=twsrc%5Etfw">#Algorithmus</a> <a href="https://twitter.com/hashtag/Scoring?src=hash&amp;ref_src=twsrc%5Etfw">#Scoring</a> <a href="https://twitter.com/hashtag/Verbraucherschutz?src=hash&amp;ref_src=twsrc%5Etfw">#Verbraucherschutz</a> <a href="https://t.co/Jw54UxjsC9">pic.twitter.com/Jw54UxjsC9</a></p>&mdash; BM der Justiz und für Verbraucherschutz (@BMJV_Bund) <a href="https://twitter.com/BMJV_Bund/status/1058013628564160512?ref_src=twsrc%5Etfw">November 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 <br>
-<br> 
-
 
 <i>"Nicht nur in der Wissenschaft, auch in der Öffentlichkeit wird die Transparenz von Scoring-Verfahren diskutiert. Im Februar 2018 starteten die gemeinnützigen Organisationen Open Knowledge Foundation und Algorithm-Watch die Initiative OpenSCHUFA. Zu den erklärten Zielen des Projektes gehört es, den Algorithmus zu „knacken“, mit dem die Schufa ihre Bonitäts-scores ermittelt (OpenSCHUFA,  2018). Sowohl die in die Berechnung des Score-Wertes eingehenden Daten als auch das Verfahren, nach dem aus diesem Datenmaterial ein individueller Score ermittelt wird, will die Initiative herausfinden, indem möglichst viele Personen der Initiative ihren Schufa-Score (den sie dort erfragen) und ihre persönlichen Merkmale mitteilen. Zahlreiche Medien berichteten über das Anliegen der Initiative (exemplarisch Erdmann, 2018; Schneider, 2018), die SCHUFA selbst trat ihr kritisch entgegen (SCHUFA Holding AG, 2018)"</i>
 
