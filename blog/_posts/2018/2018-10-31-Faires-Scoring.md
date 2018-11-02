@@ -223,7 +223,7 @@ Kompetenz, Normen aufbauen.
  
 <b>Q&A vom Publikum</b>
 <br> <i>
-WP ... Datenqualität, Data Value Chain, wie kann die Qualität der Daten gewährleistet werden.
+WP ... Datenqualität, Data Value Chain, wie kann die Qualität der Daten gewährleistet werden?
 <br> </i>
 
 <br>
@@ -232,7 +232,7 @@ BGH Entscheidung "Warum bin ich unterdurchschnittlich bewertet worden?"</i>
 <br> 
 
 <b>Wagner</b><br> <i>
-Was die SCHUFA liefert muss man zwei Studienabschlüsse liefern.
+Was die SCHUFA liefert, da muss man zwei Studienabschlüsse haben um es zu entschlüsseln.
 Deswegen Transparenz und Verständlichkeit
 <br> </i>
 
@@ -279,7 +279,7 @@ Menschen werten keine Daten aus, sondern messen Bedeutung.
 
 Zitat von Juli Zeh "Totalitäre Systeme kommen heute im Gewand von Serviceangeboten."
 
-<b>Klaus_Mueller</b>
+<b>Klaus Mueller</b>
 <br><i>"Voriges Panel, 'Lasst uns erst mal forschen', treibt mich auf die Palme. Ich habe hier Vorschläge. Bis Sommer nächsten Jahres Vorschläge.</i>
 
 4 Vorschläge:<i>
@@ -290,8 +290,8 @@ Zitat von Juli Zeh "Totalitäre Systeme kommen heute im Gewand von Serviceangebo
 <br> 
 
 <b>Gigerenzer</b>
-<i>- Muss auf eine A4 Seite passen
-- 1. Einverstanden, 2. nicht einverstanden, 3. möchte dies kompliziert regeln
+<i>Es muss auf eine A4 Seite passen:
+3 Möglichkeiten: 1. Einverstanden, 2. Nicht einverstanden, 3. Möchte dies gerne kompliziert regeln
 Eric Schmidt und China haben Gemeinsamkeiten.</i><br> 
 
 <b>Zweig</b>:
