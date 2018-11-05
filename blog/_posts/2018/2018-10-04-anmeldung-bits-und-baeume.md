@@ -23,7 +23,7 @@ Bislang agieren Umwelt-Aktivist/innen und digitale Menschenrechtler/innen oft ne
 Deshalb veranstalten wir gemeinsam mit verschiedenen Organisationen aus den Bereichen Umwelt, Tech und Netzpolitik am **17. und 18. November 2018 in Berlin die [Konferenz Bits & Bäume](https://bits-und-baeume.org)**. Die offene Vernetzungskonferenz steht für neue Perspektiven auf eine nachhaltige Digitalisierung einerseits und einen genauen Blick auf die digitale Unterstützung nachhaltiger Ziele andererseits. Mit dabei: der [CCC](https://www.ccc.de/) und das [FIfF](https://www.fiff.de/), ebenso aber auch [Germanwatch](https://germanwatch.org/), der [BUND](https://www.bund.net/) und [Brot für die Welt](https://www.brot-fuer-die-welt.de/). Wir wollen gegenseitigen Austausch, wir brauchen aktive Vernetzung. Dafür bringen wir die Communities zusammen und dabei dürft ihr nicht fehlen!
 
 Neben Vorträgen und Diskussionsrunden gibt es ganz viel Raum für eure Projektideen, Kampagnen und den Austausch mit anderen engagierten Menschen: Euch erwarten zwei bunte Tage mit Hands-on-Workshops, Talks, Aktivisten-Infotischen, Worldcafés, Sofas, Chill-out-Areas und und und!
-
+<a id="OKFDE"></a>
 ----
 
 Natürlich sind auch einige **OKF-Projekte und -Themen** mit am Start, u. a.:
@@ -35,6 +35,10 @@ Wie sauber ist dein Lieblingsrestaurant? Wie viele Abgase pusten Dienstwagen des
 #### Wie nachhaltig ist Deutschland? Fortschritt ist messbar. Und wie!? ([2030Watch](https://www.2030-watch.de/))
 
 Wie nachhaltig ist Deutschland? Der ökologische, ökonomische und soziale Zustand der Welt erfordert eine globale Transformation zu einer nachhaltigen Entwicklung. Mit der Agenda 2030 haben sich alle UN-Staaten verpflichtet, für die Realisierung dieser Transformation 17 Nachhaltigkeitsziele bis zum Jahr 2030 umzusetzen. Wie das messbar gemacht werden kann, zeigt Saadya von 2030Watch in ihrem Vortrag.
+
+#### citylab.berlin: Nachhaltige (Stadt)Entwicklung ([OGP](http://citylab.berlin/)
+
+Mit Stand und Track vor Ort.
 
 #### Open Government: Offenheit und Nachhaltigkeit ([OGP](https://okfn.de/themen/offenes-regierungshandeln/))
 
