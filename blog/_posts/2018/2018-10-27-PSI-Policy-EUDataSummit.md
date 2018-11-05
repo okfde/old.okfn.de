@@ -218,7 +218,7 @@ the high value that's the French example
 in French say well demonstrate that they
 have if there's political will you can
 do it and then you try to to tax the app
-developers and to get the AT from them
+developers and to get the VAT from them
 don't try to have these 8-10 distributors
 that happen to be tapped into your
 company register in your country and
