@@ -12,13 +12,13 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "PSI Policy und EUDataSummit" 
 ---
 
 <i>English summary will follow</i>.
 
-Seit 2012(/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Information Directive, aka Open Data.
+Seit [2012](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Information Directive, aka Open Data.
 Und so wie es scheint, auch noch länger.
 
 Anlassgegeben zu den aktuellen Neuverhandlungen der PSI Richtlinie fand am 24.-26. Oktober
