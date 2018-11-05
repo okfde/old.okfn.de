@@ -24,6 +24,7 @@ Deshalb veranstalten wir gemeinsam mit verschiedenen Organisationen aus den Bere
 
 Neben Vorträgen und Diskussionsrunden gibt es ganz viel Raum für eure Projektideen, Kampagnen und den Austausch mit anderen engagierten Menschen: Euch erwarten zwei bunte Tage mit Hands-on-Workshops, Talks, Aktivisten-Infotischen, Worldcafés, Sofas, Chill-out-Areas und und und!
 <a id="OKFDE"></a>
+
 ----
 
 Natürlich sind auch einige **OKF-Projekte und -Themen** mit am Start, u. a.:
@@ -36,7 +37,7 @@ Wie sauber ist dein Lieblingsrestaurant? Wie viele Abgase pusten Dienstwagen des
 
 Wie nachhaltig ist Deutschland? Der ökologische, ökonomische und soziale Zustand der Welt erfordert eine globale Transformation zu einer nachhaltigen Entwicklung. Mit der Agenda 2030 haben sich alle UN-Staaten verpflichtet, für die Realisierung dieser Transformation 17 Nachhaltigkeitsziele bis zum Jahr 2030 umzusetzen. Wie das messbar gemacht werden kann, zeigt Saadya von 2030Watch in ihrem Vortrag.
 
-#### citylab.berlin: Nachhaltige (Stadt)Entwicklung ([OGP](http://citylab.berlin/)
+#### citylab.berlin: Nachhaltige (Stadt)Entwicklung ([OGP](http://citylab.berlin/))
 
 Mit Stand und Track vor Ort.
 
