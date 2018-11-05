@@ -16,26 +16,24 @@ published: true
 title: "PSI Policy und EUDataSummit" 
 ---
 
-<i>English summary will follow</i>.
-
-Seit [2012](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Information Directive, aka Open Data.
-Und so wie es scheint, auch noch länger.
+<i>English summary <a href="https://okfn.de/blog/2018/10/PSI-Policy-EUDataSummit#english">below</a></i>.
+Seit [2012](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Information Directive, aka Open Data. Und so wie es scheint, auch noch länger.
 
 Anlassgegeben zu den aktuellen Neuverhandlungen der PSI Richtlinie fand am 24.-26. Oktober
 der [EUDataSummit](http://www.kas.de/wf/en/17.78393/) in der KAS Konrad Adenauerstiftung statt.
 
 Den Anfang machte Rufus Pollock zu digitaler Transformation von "Atomen zu Bits".
-[Präsentation](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) hier. Video folgt.
+[Präsentation](/files/blog/2018/10/open-revolution-24-oct-2018-berlin.pdf) hier. Video folgt.
 
-Bild Banane
+![costless copying](/files/blog/2018/10/20181024-rufus.png "costless copying")
 
 Kurz seine These: Die Rahmenbedingungen der "Digitalisierung" durch "costless copying" führen zu Marktmachtkonzentration (aka Monopole) welche wiederum zu Vermögensungleichheiten führen, welche wiederum zu politischen Herausforderungen führen
 (siehe Trump, Rechtsruck in Europa, Brasilien, ...). Zur Teillösung dieser Herausforderungen schlägt er ein Remunerationsystem
 bei Patenten, ... vor. ([Buch Kapitel 10](https://openrevolution.net/)).
 
-Danach gab eine Podiumsdiskussion. Eines der Highlights war der sehenswerte Überblick von der PSI Genese in Europa aus Brüsseler Sicht von Malte Beyer. Video:
+Danach gab eine Podiumsdiskussion. Eines der Highlights war der sehenswerte Überblick von der PSI Genese in Europa aus Brüsseler Sicht von Malte Beyer. [Exakter Beginn](https://youtu.be/qz9BC35gkxU?t=1194) vom Video:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qz9BC35gkxU?t=1194&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> [Beginn](https://youtu.be/qz9BC35gkxU?t=1194)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qz9BC35gkxU?t=1194&rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 Malte Beyer verknüpfte dabei den Bogen von [2008 Paper von Rufus](https://rufuspollock.com/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/) zu den aktuellen französischen Rahmenbedingungen. (Als Beispiel nannte er die Kostenbefreiung des nationalen französischen Geographiedienstes und der Daten und die Kostenabdeckung durch zukünfigte Mehrwertsteuer die aus jenen Anwendungen enstehen).
 Industriepolitik. Wirtschaftspolitik. Anreizsysteme.
@@ -45,13 +43,15 @@ Ursprünglicher Antreiber war UK. Fehlt jetzt weg. Franzosen aktuell der zweite 
 
 Und es ist ein Frage des politischen Willen. 
 
+![Policy](/files/blog/2018/10/20181024-eudatasummit-policy.jpg "Empfehlungen")<br>
+
 *cough* *cough* oder wie man auf Deutsch sagt *HUESTEL*!!!
 
 Das zweite Panel behandelte "B2B and B2G Data Sharing". Video folgt.
 
 Nach den Breakfast Session "Data Driven Governments" und "Access to Data" kamen in der extra einberäumten PSI Policy-Lunch-Session Mitglieder der aktuellen österr. EU-Präsidentschaft, EC, Verhandlungsteam der einzelnen Länder, Open Data Enthusiasten und Wirtschaftsleute zusammen. Und es fand ein äussert reger Austausch statt (quasi opengov).
 
-![Policy](/files/blog/2018/10/20181024-eudatasummit-policy.jpg "Empfehlungen")<br>
+![PSI](/files/blog/2018/10/20181024-eudatasummit-lunch.jpg "PSI")
 
 Wir werden sehen wie süß oder sauer die nächste PSI wird.
 
@@ -61,17 +61,19 @@ Danke an Pencho und KAS Stiftung, oder wie es Mathias Schindler so treffend sagt
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Glückwunsch an die <a href="https://twitter.com/KASonline?ref_src=twsrc%5Etfw">@KASonline</a> für das <a href="https://twitter.com/hashtag/EUdatasummit?src=hash&amp;ref_src=twsrc%5Etfw">#EUdatasummit</a>. Die richtige Konferenz zur richtigen Zeit. Gerne mehr davon.</p>&mdash; Mathias Schindler (@presroi) <a href="https://twitter.com/presroi/status/1055425468650999809?ref_src=twsrc%5Etfw">October 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<a id="english"></a>
 #### Aktueller Fahrplan:
 6. November Präsentation der EC, aktuelles doc.
 4. Dezember Abstimmung im Parlament
-Bis dahin rattern die Türklinken.
+<br>Bis dahin rattern die Türklinken.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/EuDataSummit?src=hash&amp;ref_src=twsrc%5Etfw">#EuDataSummit</a> : <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> est à Berlin avec la <a href="https://twitter.com/KASonline?ref_src=twsrc%5Etfw">@KASonline</a> pour présenter les actions  en matière <a href="https://twitter.com/hashtag/opendata?src=hash&amp;ref_src=twsrc%5Etfw">#opendata</a> et de politique de la donnée 🇫🇷 <br> « La France montre la voie » selon le représentant de <a href="https://twitter.com/EU_Commission?ref_src=twsrc%5Etfw">@EU_Commission</a> <a href="https://t.co/EnA01172LP">pic.twitter.com/EnA01172LP</a></p>&mdash; Etalab (@Etalab) <a href="https://twitter.com/Etalab/status/1055390956353216512?ref_src=twsrc%5Etfw">October 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ### English
 
-Transcript Malte Beyer. (status: machine translated)
+Transcript of [Malte Beyer](https://youtu.be/qz9BC35gkxU?t=1194) (status: machine translated)
 
 Thanks for for having me, I'm first and
 foremost a true soldier I mean in the
