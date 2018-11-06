@@ -264,3 +264,7 @@ pins the fact that it's a it's like an
 infrastructural resource in the economy
 and certain of that infrastructure needs
 to be publicly provided.
+
+<br><br>
+Updates:<br>
+DigitalEurope [Input digital Industry](https://t.co/gNEiPgAvHr)
