@@ -63,7 +63,7 @@ Danke an Pencho und KAS Stiftung, oder wie es Mathias Schindler so treffend sagt
 
 <a id="english"></a>
 #### Aktueller Fahrplan:
-6. November Präsentation der EC, aktuelles doc.
+6. November geplantes Update/Präsentation der EC, aktuelles [Dokument](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_13418_2018_INIT&from=EN)<br
 4. Dezember Abstimmung im Parlament
 <br>Bis dahin rattern die Türklinken.
 
