@@ -395,7 +395,7 @@ Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system
 Ein Sachverständigenrat sieht in einem Gutachten Gesetzgeber und Aufsichtsbehörden in der Pflicht [heise.de](https://www.heise.de/newsticker/meldung/Experten-warnen-vor-Super-Scoring-a-la-China-in-Deutschland-4208327.html)<br>
 Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
 Datenwahrsagerei mit echten Folgen [netzpolitik](https://netzpolitik.org/2018/datenwahrsagerei-mit-echten-folgen-schuetzen-kann-uns-nur-ein-neues-recht/)<br>
-Mehr Transparenz für Verbraucher-Scores [netzpolitik](https://netzpolitik.org/2018/sachverstaendigenrat-fordert-mehr-transparenz-fuer-verbraucher-scores/)
+Mehr Transparenz für Verbraucher-Scores [netzpolitik](https://netzpolitik.org/2018/sachverstaendigenrat-fordert-mehr-transparenz-fuer-verbraucher-scores/)<br>
 Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wie-man-algorithmen-transparent-machen-kann-15652267.html)<br>
 [Mitglieder der Datenethikkommission
 der Bundesregierung](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-digitalpolitik/datenethikkommission.pdf?__blob=publicationFile&v=4)<br>
