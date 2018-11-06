@@ -62,8 +62,9 @@ Danke an Pencho und KAS Stiftung, oder wie es Mathias Schindler so treffend sagt
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a id="english"></a>
+19.10.18 Julia Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)
 #### Aktueller Fahrplan:
-6. November geplantes Update/Präsentation der EC, aktuelles [Dokument](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_13418_2018_INIT&from=EN)<br
+6. November geplantes Update/Präsentation der EC, aktuelles [Dokument](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_13418_2018_INIT&from=EN)<br>
 4. Dezember Abstimmung im Parlament
 <br>Bis dahin rattern die Türklinken.
 
