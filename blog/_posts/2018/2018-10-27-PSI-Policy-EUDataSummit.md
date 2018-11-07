@@ -71,6 +71,7 @@ Danke an Pencho und KAS Stiftung, oder wie es Mathias Schindler so treffend sagt
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/EuDataSummit?src=hash&amp;ref_src=twsrc%5Etfw">#EuDataSummit</a> : <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> est à Berlin avec la <a href="https://twitter.com/KASonline?ref_src=twsrc%5Etfw">@KASonline</a> pour présenter les actions  en matière <a href="https://twitter.com/hashtag/opendata?src=hash&amp;ref_src=twsrc%5Etfw">#opendata</a> et de politique de la donnée 🇫🇷 <br> « La France montre la voie » selon le représentant de <a href="https://twitter.com/EU_Commission?ref_src=twsrc%5Etfw">@EU_Commission</a> <a href="https://t.co/EnA01172LP">pic.twitter.com/EnA01172LP</a></p>&mdash; Etalab (@Etalab) <a href="https://twitter.com/Etalab/status/1055390956353216512?ref_src=twsrc%5Etfw">October 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+![PSI](/files/blog/2018/10/PSI.jpg "PSI")
 
 ### English
 
