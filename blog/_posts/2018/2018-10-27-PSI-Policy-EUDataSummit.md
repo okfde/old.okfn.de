@@ -65,8 +65,10 @@ Danke an Pencho und KAS Stiftung, oder wie es Mathias Schindler so treffend sagt
 19.10.18 Julia Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)
 #### Aktueller Fahrplan:
 6. November geplantes Update/Präsentation der EC, aktuelles [Dokument](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_13418_2018_INIT&from=EN)<br>
-4. Dezember Abstimmung im Parlament
+4. Dezember voraussichtlich Abstimmung im Parlament<br>
+5. Dezember Brüssel "Kommunale Daten" @KASeurope Diskussion mit (ɔ) @AxelVossMdEP und @AlexanderHand vom @Gemeindebund<br>
 <br>Bis dahin rattern die Türklinken.
+Update 7.11 [EC press release](https://www.consilium.europa.eu/de/press/press-releases/2018/11/07/eu-to-strengthen-sharing-of-public-sector-data-council-agrees-its-position/) 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hashtag/EuDataSummit?src=hash&amp;ref_src=twsrc%5Etfw">#EuDataSummit</a> : <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> est à Berlin avec la <a href="https://twitter.com/KASonline?ref_src=twsrc%5Etfw">@KASonline</a> pour présenter les actions  en matière <a href="https://twitter.com/hashtag/opendata?src=hash&amp;ref_src=twsrc%5Etfw">#opendata</a> et de politique de la donnée 🇫🇷 <br> « La France montre la voie » selon le représentant de <a href="https://twitter.com/EU_Commission?ref_src=twsrc%5Etfw">@EU_Commission</a> <a href="https://t.co/EnA01172LP">pic.twitter.com/EnA01172LP</a></p>&mdash; Etalab (@Etalab) <a href="https://twitter.com/Etalab/status/1055390956353216512?ref_src=twsrc%5Etfw">October 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
