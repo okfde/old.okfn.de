@@ -391,6 +391,7 @@ Am 21. November werden wir in einer Podiumsdiskussion bei Wikimedia das weitere 
 
 
 ### Weitere Links:<br>
+9.11 Überwachung: Umfassendes Social Scoring wie in China ist auch bei uns möglich [wired.de](https://www.wired.de/article/ueberwachung-umfassendes-social-scoring-wie-in-china-ist-auch-bei-uns-moeglich)<br>
 Bericht vom [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/scoring-system-regierungsberater-warnen-vor-dem-glaesernen-buerger/23248936.html)<br>
 Ein Sachverständigenrat sieht in einem Gutachten Gesetzgeber und Aufsichtsbehörden in der Pflicht [heise.de](https://www.heise.de/newsticker/meldung/Experten-warnen-vor-Super-Scoring-a-la-China-in-Deutschland-4208327.html)<br>
 Der erwähnte [ProPublica Klassiker](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)<br>
