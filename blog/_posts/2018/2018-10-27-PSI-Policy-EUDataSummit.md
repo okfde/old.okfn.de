@@ -47,13 +47,7 @@ Und es ist ein Frage des politischen Willen.
 
 *cough* *cough* oder wie man auf Deutsch sagt *HUESTEL*!!!
 
-Das zweite Panel behandelte "B2B and B2G Data Sharing". [Video](https://youtu.be/yopxz6ru2m8).
-Heiko Richter, Max-Planck-Institut
-Jakob Greiner, Deutsche Telekom
-Felix Schwabe, AUDI AG
-Malte Beyer-Katzenberger, European Commission
-Peter Wells, The Open Data Institute
-Moderation: Lina Rusch, Der Tagesspiegel
+Das zweite Panel mit Heiko Richter (Max-Planck-Institut), Jakob Greiner (Deutsche Telekom), Felix Schwabe (AUDI AG), Malte Beyer-Katzenberger (European Commission), Peter Wells (The Open Data Institute) und moderiert von Lina Rusch (Der Tagesspiegel) behandelte das Thema "B2B and B2G Data Sharing". [Video](https://youtu.be/yopxz6ru2m8)
 
 
 Nach den Breakfast Session "Data Driven Governments" und "Access to Data" kamen in der extra einberäumten PSI Policy-Lunch-Session Mitglieder der aktuellen österr. EU-Präsidentschaft, EC, Verhandlungsteam der einzelnen Länder, Open Data Enthusiasten und Wirtschaftsleute zusammen. Und es fand ein äussert reger Austausch statt (quasi opengov).
