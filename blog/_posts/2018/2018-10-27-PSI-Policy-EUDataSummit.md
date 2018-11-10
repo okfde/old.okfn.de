@@ -23,7 +23,7 @@ Anlassgegeben zu den aktuellen Neuverhandlungen der PSI Richtlinie fand am 24.-2
 der [EUDataSummit](http://www.kas.de/wf/en/17.78393/) in der KAS Konrad Adenauerstiftung statt.
 
 Den Anfang machte Rufus Pollock zu digitaler Transformation von "Atomen zu Bits".
-[Präsentation](/files/blog/2018/10/open-revolution-24-oct-2018-berlin.pdf) hier. Video folgt.
+[Präsentation](/files/blog/2018/10/open-revolution-24-oct-2018-berlin.pdf) hier. [Video](https://youtu.be/8pjC5PaWjIc)
 
 ![costless copying](/files/blog/2018/10/20181024-rufus.png "costless copying")
 
@@ -47,7 +47,7 @@ Und es ist ein Frage des politischen Willen.
 
 *cough* *cough* oder wie man auf Deutsch sagt *HUESTEL*!!!
 
-Das zweite Panel behandelte "B2B and B2G Data Sharing". Video folgt.
+Das zweite Panel behandelte "B2B and B2G Data Sharing". [Video](https://youtu.be/yopxz6ru2m8).
 
 Nach den Breakfast Session "Data Driven Governments" und "Access to Data" kamen in der extra einberäumten PSI Policy-Lunch-Session Mitglieder der aktuellen österr. EU-Präsidentschaft, EC, Verhandlungsteam der einzelnen Länder, Open Data Enthusiasten und Wirtschaftsleute zusammen. Und es fand ein äussert reger Austausch statt (quasi opengov).
 
@@ -269,6 +269,16 @@ infrastructural resource in the economy
 and certain of that infrastructure needs
 to be publicly provided.
 
+<a id="updates"></a>
 <br><br>
 Updates:<br>
-DigitalEurope [Input digital Industry](https://t.co/gNEiPgAvHr)
+DigitalEurope [Input digital Industry](https://t.co/gNEiPgAvHr)<br>
+
+[Video Opening](https://youtu.be/Hi_YKtZJ6PE)<br>
+[Video Rufus](https://youtu.be/8pjC5PaWjIc)<br>
+[Video Panel 1](https://youtu.be/qz9BC35gkxU)<br>
+[Video Panel 2](https://youtu.be/yopxz6ru2m8)<br>
+[Presentation Pollock](/files/blog/2018/10/open-revolution-24-oct-2018-berlin.pdf)<br>
+[Book - Openrevolution](https://openrevolution.net/)<br>
+
+
