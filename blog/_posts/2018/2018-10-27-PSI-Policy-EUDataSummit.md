@@ -23,7 +23,7 @@ Anlassgegeben zu den aktuellen Neuverhandlungen der PSI Richtlinie fand am 24.-2
 der [EUDataSummit](http://www.kas.de/wf/en/17.78393/) in der KAS Konrad Adenauerstiftung statt.
 
 Den Anfang machte Rufus Pollock zu digitaler Transformation von "Atomen zu Bits".
-[Präsentation](/files/blog/2018/10/open-revolution-24-oct-2018-berlin.pdf) hier. [Video](https://youtu.be/8pjC5PaWjIc)
+[Slides](/files/blog/2018/10/open-revolution-24-oct-2018-berlin.pdf) bzw. [Video](https://youtu.be/8pjC5PaWjIc) der Präsentation.
 
 ![costless copying](/files/blog/2018/10/20181024-rufus.png "costless copying")
 
@@ -48,6 +48,13 @@ Und es ist ein Frage des politischen Willen.
 *cough* *cough* oder wie man auf Deutsch sagt *HUESTEL*!!!
 
 Das zweite Panel behandelte "B2B and B2G Data Sharing". [Video](https://youtu.be/yopxz6ru2m8).
+Heiko Richter, Max-Planck-Institut
+Jakob Greiner, Deutsche Telekom
+Felix Schwabe, AUDI AG
+Malte Beyer-Katzenberger, European Commission
+Peter Wells, The Open Data Institute
+Moderation: Lina Rusch, Der Tagesspiegel
+
 
 Nach den Breakfast Session "Data Driven Governments" und "Access to Data" kamen in der extra einberäumten PSI Policy-Lunch-Session Mitglieder der aktuellen österr. EU-Präsidentschaft, EC, Verhandlungsteam der einzelnen Länder, Open Data Enthusiasten und Wirtschaftsleute zusammen. Und es fand ein äussert reger Austausch statt (quasi opengov).
 
