@@ -1702,13 +1702,13 @@ header {
 
 #overlay{
   position: fixed;
-  right: 0;
+  right: 20px;
   bottom: 0;
   z-index: 80;
   background-color: #00564A;
   width: 400px;
   height: 300px;
-  top: 350;
+  top: 300px;
   img{
     width: 100%;
   }
