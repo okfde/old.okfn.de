@@ -52,6 +52,7 @@
 </head>
 <body>
 
+
 {% include header.html %}
 <main id="main-content">
   {% if page.home %}
@@ -71,12 +72,14 @@
   {% include footer.html %}
 </main>
 
+
 {% include sidebar.html %}
 
 <script src="{{ site.staticurl }}js/jqlite.min.js"></script>
 <script src="{{ site.staticurl }}js/index.js"></script>
 {% include piwik.html %}
 
+<!--
 {% if page.home %}
 <div id="overlay">
   <marquee height="35"><p>++ News ++ News ++ News ++ News ++ News ++ News ++ News ++ News ++ News ++</p></marquee>
@@ -93,7 +96,7 @@
  });
 </script>
 {% endif %}
-
+-->
 </body>
 </html>
 {% endstrip %}
