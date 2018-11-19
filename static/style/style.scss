@@ -1699,37 +1699,3 @@ header {
     }
   }
 }
-
-#overlay{
-  position: fixed;
-  right: 20px;
-  bottom: 0;
-  z-index: 80;
-  background-color: #00564A;
-  width: 400px;
-  height: 300px;
-  top: 300px;
-  img{
-    width: 100%;
-  }
-  h2{
-    color: #15FFD8;
-  }
-  p{
-    color: white;
-  }
-  marquee {
-    padding: 0.5em 2.3em;
-  }
-  button {
-    border: none;
-    background: transparent;
-    font-family: sans-serif;
-    color: white;
-    font-weight: 600;
-    position: absolute;
-    top: 8px;
-    z-index: 5;
-    right: 4px;
-  }
-}
