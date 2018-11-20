@@ -65,9 +65,11 @@ Danke an Pencho und KAS Stiftung, oder wie es Mathias Schindler so treffend sagt
 <a id="english"></a>
 19.10.18 Julia Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)
 #### Aktueller Fahrplan:
-6. November geplantes Update/Präsentation der EC, aktuelles [Dokument](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_13418_2018_INIT&from=EN)<br>
-4. Dezember voraussichtlich Abstimmung im Parlament<br>
-5. Dezember Brüssel "Kommunale Daten" @KASeurope Diskussion mit (ɔ) @AxelVossMdEP und @AlexanderHand vom @Gemeindebund<br>
+Am 6. November geplantes Update/Präsentation der EC, aktuelles [Dokument](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_13418_2018_INIT&from=EN)<br>
+Am 20. November ITRE [doc update](/files/blog/2018/10/ITREcompromiseamendmentsconsolidated.pdf)
+Am 29. November in Brüssel "Sharing is caring" Veranstaltung - Update folgt
+Am 4. Dezember voraussichtlich Abstimmung im Parlament<br>
+Am 5. Dezember Brüssel "Kommunale Daten" @KASeurope Diskussion mit (ɔ) @AxelVossMdEP und @AlexanderHand vom @Gemeindebund<br>
 <br>Bis dahin rattern die Türklinken.
 Update 7.11 [EC press release](https://www.consilium.europa.eu/de/press/press-releases/2018/11/07/eu-to-strengthen-sharing-of-public-sector-data-council-agrees-its-position/) 
 
