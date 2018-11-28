@@ -27,15 +27,15 @@ Viele Personen haben schlechte Schufa-Scores, obwohl sie keine negativen Merkmal
 
 - Angeblich genaue Scores trotz ungenauer Daten
 
-Die Schufa-Scores suggerieren der Öffentlichkeit, dass sie besonders wissenschaftlich erstellt werden. Ein Teil dieses Bildes wird durch die angebliche Genauigkeit von Scores wie beispielsweise 85,04% oder 97,41% erzeugt. Die Angaben sind allerdings irreführend. Oft fehlt der Schufa die Datenbasis, um tatsächlich zuverlässige Aussagen über die Kreditwürdigkeit von einzelnen Personen treffen zu können. Statistische Fehlerbereiche fehlen. Der Score ist in diesen Fällen **nicht besonders vertrauenswürdig**.
+Die Schufa-Scores suggerieren der Öffentlichkeit, dass sie besonders wissenschaftlich erstellt werden. Ein Teil dieses Bildes wird durch die angebliche Genauigkeit von Scores wie beispielsweise 85,04% oder 97,41% erzeugt. Die Angaben sind allerdings irreführend. Oft fehlt der Schufa die Datenbasis, um tatsächlich zuverlässige Aussagen über die Kreditwürdigkeit von einzelnen Personen treffen zu können. Über fast ein Viertel der Personen im OpenSchufa-Datensatz hat die Schufa maximal drei Informationen aus dem Wirtschaftsleben gespeichert.  Statistische Fehlerbereiche fehlen in den Auskünften trotzdem. Der Score ist in diesen Fällen **nicht besonders vertrauenswürdig**.
 
 - Faktoren: Alter, Geschlecht und Umzüge
 
-Der OpenSchufa-Datensatz legt nahe, dass Faktoren wie Alter, Geschlecht und viele Umzüge sich auf den Schufa-Score auswirken. Das bedeutet: Auch Aspekte, die nicht beeinflussbar sind, könnten negative Schufa-Scores hervorrufen. Mit den Daten lässt sich nicht abschließend sagen, wie genau die Faktoren auf den jeweiligen Score wirken und ob die Schufa diese einzeln in die Berechnung eingehen lässt oder sie kombiniert. Es könnte sein, dass die Scores **diskiminieren**.
+Der OpenSchufa-Datensatz legt nahe, dass Faktoren wie Alter, Geschlecht und viele Umzüge sich auf den Schufa-Score auswirken. Beispielsweise sind häufig junge Männer schlechtergestellt. Das bedeutet: Auch Aspekte, die nicht beeinflussbar sind, könnten negative Schufa-Scores hervorrufen. Mit den Daten lässt sich nicht abschließend sagen, wie genau die Faktoren auf den jeweiligen Score wirken und ob die Schufa diese einzeln in die Berechnung eingehen lässt oder sie kombiniert. Es könnte sein, dass **die Scores diskiminieren**.
 
 - Manche Scores sind aus der Zeit gefallen
 
-In vielen Bereichen hält die Schufa aus einem Scoring-Bereich mehrere Score-Versionen über Einzelpersonen. Das führt dazu, dass Personen beispielsweise nach der Version 1 des Schufa-Bankenscores einen schlechteren Score haben als nach Version 2 oder Version 3 des Schufa-Bankenscores. Wer Pech hat, dass eine Bank eine ältere Score-Version von der Schufa anfordert, hat in einem solchen Beispiel schlechtere Karten. Dass die älteren Score-Versionen noch herausgegeben werden, **führt offenbar zu Diskriminierungen**.
+In vielen Bereichen hält die Schufa aus einem Scoring-Bereich mehrere Score-Versionen über Einzelpersonen. Das führt dazu, dass Personen beispielsweise nach der Version 1 des Schufa-Bankenscores einen schlechteren Score haben als nach Version 2 oder Version 3 des Schufa-Bankenscores. Wer Pech hat, dass eine Bank eine ältere Score-Version von der Schufa anfordert, hat in einem solchen Beispiel schlechtere Karten. Dass die älteren Score-Versionen noch herausgegeben werden, **führt offenbar zu Verzerrungen**.
 
 ## Daraus ergeben sich diese Forderungen:
 
