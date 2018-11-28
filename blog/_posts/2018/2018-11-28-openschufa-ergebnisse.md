@@ -31,7 +31,7 @@ Die Schufa-Scores suggerieren der Öffentlichkeit, dass sie besonders wissenscha
 
 - Faktoren: Alter, Geschlecht und Umzüge
 
-Der OpenSchufa-Datensatz legt nahe, dass Faktoren wie Alter, Geschlecht und viele Umzüge sich auf den Schufa-Score auswirken. Beispielsweise sind häufig junge Männer schlechtergestellt. Das bedeutet: Auch Aspekte, die nicht beeinflussbar sind, könnten negative Schufa-Scores hervorrufen. Mit den Daten lässt sich nicht abschließend sagen, wie genau die Faktoren auf den jeweiligen Score wirken und ob die Schufa diese einzeln in die Berechnung eingehen lässt oder sie kombiniert. Es könnte sein, dass **die Scores diskiminieren**.
+Der OpenSchufa-Datensatz legt nahe, dass Faktoren wie Alter, Geschlecht und viele Umzüge sich auf den Schufa-Score auswirken. Beispielsweise sind häufig junge Männer schlechtergestellt. Das bedeutet: Auch Aspekte, die nicht beeinflussbar sind, könnten negative Schufa-Scores hervorrufen. Mit den Daten lässt sich nicht abschließend sagen, wie genau die Faktoren auf den jeweiligen Score wirken und ob die Schufa diese einzeln in die Berechnung eingehen lässt oder sie kombiniert. Es könnte sein, dass **die Scores diskriminieren**.
 
 - Manche Scores sind aus der Zeit gefallen
 
