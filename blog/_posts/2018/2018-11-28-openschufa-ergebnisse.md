@@ -1,6 +1,7 @@
 ---
 authors: 
 - Arne Semsrott
+- Walter Palmetshofer
 date: 2018-11-28 09:10:00
 image:
   src: /files/blog/2018/11/openschufa.jpg
