@@ -71,6 +71,8 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f√
 - [Bayerischer Rundfunk: Schufa-Score - Wie Menschen unverschuldet zum Risikofall werden](https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP)
 - [ARD PlusMinus: Blackbox Schufa: Eine exklusive Datenauswertung gibt Einblicke ](https://www.daserste.de/information/wirtschaft-boerse/plusminus/sendung/plusminus-996.html)
 - [ZDF Zoom: Unheimliche Macht - Wie Algorithmen unser Leben bestimmen](https://www.zdf.de/dokumentation/unheimliche-macht---wie-algorithmen-unser-leben-bestimmen-102.html)
+- [tagesschau.de: Unverschuldet als Risikofall eingestuft?](https://www.tagesschau.de/wirtschaft/schufa-105.html)
+- [Deutschlandfunk: Durch die Schufa unverschuldet zum Risikofall](https://www.deutschlandfunk.de/medienbericht-durch-die-schufa-unverschuldet-zum-risikofall.1939.de.html?drn:news_id=950686)
 
 
 ## Pressekontakt
