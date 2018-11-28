@@ -30,6 +30,7 @@ Viele Personen haben schlechte Schufa-Scores, obwohl sie keine negativen Merkmal
 Die Schufa-Scores suggerieren der Öffentlichkeit, dass sie besonders wissenschaftlich erstellt werden. Ein Teil dieses Bildes wird durch die angebliche Genauigkeit von Scores wie beispielsweise 85,04% oder 97,41% erzeugt. Die Angaben sind allerdings irreführend. Oft fehlt der Schufa die Datenbasis, um tatsächlich zuverlässige Aussagen über die Kreditwürdigkeit von einzelnen Personen treffen zu können. Statistische Fehlerbereiche fehlen. Der Score ist in diesen Fällen **nicht besonders vertrauenswürdig**.
 
 - Faktoren: Alter, Geschlecht und Umzüge
+
 Der OpenSchufa-Datensatz legt nahe, dass Faktoren wie Alter, Geschlecht und viele Umzüge sich auf den Schufa-Score auswirken. Das bedeutet: Auch Aspekte, die nicht beeinflussbar sind, könnten negative Schufa-Scores hervorrufen. Mit den Daten lässt sich nicht abschließend sagen, wie genau die Faktoren auf den jeweiligen Score wirken und ob die Schufa diese einzeln in die Berechnung eingehen lässt oder sie kombiniert. Es könnte sein, dass die Scores **diskiminieren**.
 
 - Manche Scores sind aus der Zeit gefallen
