@@ -8,8 +8,6 @@ layout: project
 people:
   - name: Elisa Lindinger
     role: Projektleitung
-  - name: Fiona Krakenbürger
-    role: Lead Program Manager
   - name: Adriana Groh
     role: Program Management
   - name: Jessica Binsch
