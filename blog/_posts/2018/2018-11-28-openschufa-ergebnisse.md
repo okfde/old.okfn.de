@@ -66,7 +66,6 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 - [SpiegelOnline: Blackbox Schufa](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
 - [SpiegelOnline: 2800 Datensätze - so haben wir sie ausgewertet](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html)
 - [SpiegelOnline: So bestellen Sie Ihre kostenlose Schufa-Auskunft](http://www.spiegel.de/wirtschaft/service/schufa-auskunft-kostenlos-online-beantragen-so-geht-s-a-1240548.html)
-- [SpiegelOnline: Blackbox Schufa](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
 - [SpiegelOnline: Video - Wie die Schufa zu ihrem Urteil kommt](http://www.spiegel.de/video/erklaervideo-wie-der-schufa-score-funktioniert-video-99023089.html)
 - [Bayerischer Rundfunk: Die ganze Recherche - Erhöhtes Risiko](https://web.br.de/interaktiv/erhoehtes-risiko/)
 - [Bayerischer Rundfunk: Schufa-Score - Wie Menschen unverschuldet zum Risikofall werden](https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP)
