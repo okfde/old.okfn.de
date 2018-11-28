@@ -49,10 +49,7 @@ Das Bundesministerium hat bereits angekündigt, die Empfehlungen des Rats zu pr�
 
 ## Und was ist mit dem Schufa-Algorithmus?
 
-
-Dazu kommt der Faktor, dass bei diesen Datenspenden es auch eine Überrepräsentanz der Eigenschaften urban, männlich, IT-Interesse, Alterskohorte 20-40 gibt. 
-
-Wir arbeiten derzeit noch daran, verschiedene Aspekte der Schufa-Formel zuverlässig zu entschlüsseln. Die Herausforderung: Von rund 30.000  Anfragen, die Nutzer über selbstauskunft.net an die Schufa gestellt haben, sind an uns nur rund 3.000 Datensätze weitergeleitet worden. Wir versuchen trotzdem, weitere möglichst sichere Aussagen über den Schufa-Algorithmus zu treffen und arbeiten dafür weiter mit dem Datensatz.
+Wir arbeiten derzeit noch daran, verschiedene Aspekte der Schufa-Formel zuverlässig zu entschlüsseln. Die Herausforderung: Von rund 30.000  Anfragen, die Nutzer über selbstauskunft.net an die Schufa gestellt haben, sind an uns nur rund 3.000 Datensätze weitergeleitet worden, die vor allem aus bestimmten gesellschaftlichen Milieus stammen. Wir versuchen trotzdem, weitere möglichst sichere Aussagen über den Schufa-Algorithmus zu treffen und arbeiten dafür weiter mit dem Datensatz.
 
 Ursprünglich hatten wir geplant, bei Verzerrungen in den Daten gezielte Aufrufe an bestimmte Bevölkerungsschichten zu richten, um von ihnen Daten zu erhalten. Das ist derzeit aber nicht mehr möglich. Seit Anwendung der Datenschutzgrundverordnung (DSGVO) im Mai gibt die Schufa mit der kostenlosen Selbstauskunft deutlich weniger Daten also vorher an Einzelpersonen. Datenspenden von Schufa-Auskünften sind also seit Mai für uns nicht verwendbar. Hier muss sich die Schufa bewegen.
 
@@ -71,5 +68,6 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 - ZDF Zoom: [Unheimliche Macht - Wie Algorithmen unser Leben bestimmen](https://www.zdf.de/dokumentation/unheimliche-macht---wie-algorithmen-unser-leben-bestimmen-102.html)
 
 
-##Pressekontakt
+## Pressekontakt
+
 Arne Semsrott, Open Knowledge Foundation Deutschland, arne.semsrott@okfn.de, 030 57703666 0
