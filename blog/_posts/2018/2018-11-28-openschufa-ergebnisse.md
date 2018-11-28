@@ -43,7 +43,7 @@ Dank OpenSchufa hat sich bereits der Sachverständigenrat für Verbraucherfragen
 
 Er hat sich [dafür ausgesprochen](https://okfn.de/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf), dass die Schufa und weitere Scoring-Anbieter ihren Algorithmus offenlegen. Merkmale und Gewichtung des Scores müssen für den Verbraucher verständlich werden. Wie auch die Ergebnisse von OpenSchufa zeigen, muss mögliche Diskriminierung geprüft und offengelegt werden. Ein zentrales Problem bei der Schufa  ist offenbar die Qualität des Scores und der ihr zugrunde liegenden Daten. 
 
-Weitere Berichterstattung des Bayerischen Rundfunks hat bereits gezeigt, dass die Aufsicht der Schufa und anderer Scoring-Anbieter mangelhaft ist. Die Schufa bezahlt selbst für die Gutachten, die sie eigentlich unabhängig prüfen sollen. 
+Weitere Berichterstattung des Bayerischen Rundfunks hat bereits gezeigt, dass die Aufsicht der Schufa und anderer Scoring-Anbieter mangelhaft ist. Die Schufa [bezahlt selbst für die Gutachten, die sie eigentlich unabhängig prüfen sollen](https://www.br.de/nachrichten/deutschland-welt/luecken-beim-pruefen-von-auskunfteien,Qs8b2xe). 
 
 Das Bundesministerium hat bereits angekündigt, die Empfehlungen des Rats zu prüfen. Die Schufa sollte neben Transparenz auch ihre Verantwortung in der Gesellschaft akzeptieren. Dazu gehört, dass die Schufa mit Forschern, Journalistinnen und der Zivilgesellschaft konstruktiv kooperieren sollte. Bisher ist die Pressestelle der Schufa vor allem dadurch aufgefallen, dass sie [Journalistinnen einschüchtert](https://twitter.com/fanaticTRX/status/1006854038921601024).
 
@@ -63,9 +63,15 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 
 ## Zur aktuellen Schufa-Berichterstattung 
 
-- [SpiegelOnline](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
-- [Bayerischer Rundfunk](https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP)
-- ZDF Zoom: [Unheimliche Macht - Wie Algorithmen unser Leben bestimmen](https://www.zdf.de/dokumentation/unheimliche-macht---wie-algorithmen-unser-leben-bestimmen-102.html)
+- [SpiegelOnline: Blackbox Schufa](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
+- [SpiegelOnline: 2800 Datensätze - so haben wir sie ausgewertet](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html)
+- [SpiegelOnline: So bestellen Sie Ihre kostenlose Schufa-Auskunft](http://www.spiegel.de/wirtschaft/service/schufa-auskunft-kostenlos-online-beantragen-so-geht-s-a-1240548.html)
+- [SpiegelOnline: Blackbox Schufa](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
+- [SpiegelOnline: Video - Wie die Schufa zu ihrem Urteil kommt](http://www.spiegel.de/video/erklaervideo-wie-der-schufa-score-funktioniert-video-99023089.html)
+- [Bayerischer Rundfunk: Die ganze Recherche - Erhöhtes Risiko](https://web.br.de/interaktiv/erhoehtes-risiko/)
+- [Bayerischer Rundfunk: Schufa-Score - Wie Menschen unverschuldet zum Risikofall werden](https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP)
+- [ARD PlusMinus: Blackbox Schufa: Eine exklusive Datenauswertung gibt Einblicke ](https://www.daserste.de/information/wirtschaft-boerse/plusminus/sendung/plusminus-996.html)
+- [ZDF Zoom: Unheimliche Macht - Wie Algorithmen unser Leben bestimmen](https://www.zdf.de/dokumentation/unheimliche-macht---wie-algorithmen-unser-leben-bestimmen-102.html)
 
 
 ## Pressekontakt
