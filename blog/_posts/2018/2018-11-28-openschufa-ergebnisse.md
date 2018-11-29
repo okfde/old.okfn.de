@@ -56,7 +56,7 @@ Ursprünglich hatten wir geplant, bei Verzerrungen in den Daten gezielte Aufrufe
 ## Wie geht es weiter?
 
 Wir arbeiten gemeinsam mit unserem Partner AlgorithmWatch weiter an der Auswertung der Daten und hoffen, bald noch weitere Erkenntnisse aus den Daten ableiten zu können. Daran anschließend wollen wir weitere Empfehlungen für gesetzliche Regelungen geben.
-
+<a id="Updates"></a>
 Wichtig außerdem: Derzeit weigert sich die Schufa noch, [kostenlose Auskünfte auch per E-Mail herausgeben](https://www.welt.de/finanzen/article177303132/DSGVO-stellt-das-Abo-Modell-der-Schufa-infrage.html), obwohl sie es müsste. Wir werden uns dafür einsetzen, dass die Schufa dieser Verpflichtung aus der DSGVO nachkommt.
 
 Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz für alle Scoring-Anbieter in Deutschland und Europa.
@@ -75,6 +75,11 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 - [Deutschlandfunk: Durch die Schufa unverschuldet zum Risikofall](https://www.deutschlandfunk.de/medienbericht-durch-die-schufa-unverschuldet-zum-risikofall.1939.de.html?drn:news_id=950686)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ifajykkrnic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Politische Reaktionen
+- 29.11 [Ministerin Barley fordert Schufa zu mehr Transparenz auf](http://www.spiegel.de/wirtschaft/service/schufa-co-barley-fordert-mehr-transparenz-von-auskunfteien-a-1241107.html)<br>
+- 29.11 [Nach Schufa-Recherche: Politiker verlangen mehr Transparenz](https://www.br.de/nachrichten/wirtschaft/nach-schufa-recherche-politiker-verlangen-mehr-transparenz,RAnwNpV)<br>
+- 18.09 [Tabea Rößner über eine undurchsichtige Auskunftsdatei und wie Bürgerinnen und Bürger sie reformieren können](https://www.neues-deutschland.de/artikel/1100866.transparenz-der-schufa-blackbox-schufa.html)<br>
 
 ## Pressekontakt
 
