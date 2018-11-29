@@ -402,6 +402,7 @@ Transparenzschnittstelle [FAZ](http://www.faz.net/aktuell/feuilleton/debatten/wi
 der Bundesregierung](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-digitalpolitik/datenethikkommission.pdf?__blob=publicationFile&v=4)<br>
 A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI - [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3248829)
 <br>
-[Das Urteil des BGH zum Schufa-Scoring im Volltext](https://www.internet-law.de/2014/02/das-urteil-des-bgh-zum-schufa-scoring-im-volltext.html)
+[Das Urteil des BGH zum Schufa-Scoring im Volltext](https://www.internet-law.de/2014/02/das-urteil-des-bgh-zum-schufa-scoring-im-volltext.html)<br>
+PEW study - 68% unacceptable [attitudes towards algos](http://www.pewinternet.org/2018/11/16/public-attitudes-toward-computer-algorithms/)
 
 #CfP (Deadline: 30.11.18) für den den Workshop "Digitaler #Konsum: Herausforderung und Chancen der #Verbraucherinformatik" im Rahmen der @WI_2019 am 24.2.19 verbraucherinformatik.de @vznrw
