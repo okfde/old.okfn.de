@@ -17,7 +17,7 @@ published: true
 title: "OpenSchufa: The first results"
 ---
 
-Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline (their [making of is here](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html) have evaluated the anonymous data that we have collected with the help of our "mydata" project [OpenSchufa](https://okfn.de/blog/tags/openschufa/) since this spring.
+Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline  have evaluated the anonymous data that we have collected with the help of our "mydata" project [OpenSchufa](https://okfn.de/blog/tags/openschufa/) since this spring.
 
 In the last 10 months this project generated 100,000 individual data requests in Germany. Out of these, more than 30,000 were directed at Schufa and resulted in more than 3,000 data donations to us.
 
