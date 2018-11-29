@@ -21,7 +21,7 @@ Today the first analyses of OpenSchufa dataset are published. The data teams and
 Their [making of can be found here](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html).
 
 In the last 10 month this project generated 100.000 individual data requests in Germany, 
-out of these more than 30.000 were directed at Schufa and resulated in more than 3.000 openschufa datadonations.
+out of these more than 30.000 were directed at Schufa and resulted in more than 3.000 openschufa datadonations.
 Bigly numbers, especially considering these are personal financial data sets, in Germany. 
 
 Sincerly many thanks to all the people who donated money (https://www.startnext.com/openschufa), time and especially their data (https://www.openschufa.de/) and supported this project with other ressources (like selbstauskunft.net)!
@@ -69,10 +69,21 @@ Also important: Schufa currently still refuses to [provide free information by e
 The Schufa is the beginning, but not the end. 
 We need more transparency for all scoring providers in Germany and Europe.
 
-## Schufa reporting on the 28th of November
+## Schufa reporting on the 28th of November (in German)
 
-- Tagesschau.de
-- MirrorOnline
-- radio
-- ARD: 21.45 plus minus
-- further updates will follow
+
+- [SpiegelOnline: Blackbox Schufa](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
+- [SpiegelOnline: 2800 Datensätze - so haben wir sie ausgewertet](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html)
+- [SpiegelOnline: So bestellen Sie Ihre kostenlose Schufa-Auskunft](http://www.spiegel.de/wirtschaft/service/schufa-auskunft-kostenlos-online-beantragen-so-geht-s-a-1240548.html)
+- [SpiegelOnline: Video - Wie die Schufa zu ihrem Urteil kommt](http://www.spiegel.de/video/erklaervideo-wie-der-schufa-score-funktioniert-video-99023089.html)
+- [Bayerischer Rundfunk: Die ganze Recherche - Erhöhtes Risiko](https://web.br.de/interaktiv/erhoehtes-risiko/)
+- [Bayerischer Rundfunk: Schufa-Score - Wie Menschen unverschuldet zum Risikofall werden](https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP)
+- [ARD PlusMinus: Blackbox Schufa: Eine exklusive Datenauswertung gibt Einblicke ](https://www.daserste.de/information/wirtschaft-boerse/plusminus/sendung/plusminus-996.html)
+- [ZDF Zoom: Unheimliche Macht - Wie Algorithmen unser Leben bestimmen](https://www.zdf.de/dokumentation/unheimliche-macht---wie-algorithmen-unser-leben-bestimmen-102.html)
+- [tagesschau.de: Unverschuldet als Risikofall eingestuft?](https://www.tagesschau.de/wirtschaft/schufa-105.html)
+- [Deutschlandfunk: Durch die Schufa unverschuldet zum Risikofall](https://www.deutschlandfunk.de/medienbericht-durch-die-schufa-unverschuldet-zum-risikofall.1939.de.html?drn:news_id=950686)
+
+
+## For further inquiries
+
+Walter Palmetshofer, Open Knowledge Foundation Deutschland, walter.palmetshofer@okfn.de, 030 57703666 0
