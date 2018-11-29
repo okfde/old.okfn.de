@@ -17,8 +17,7 @@ published: false
 title: "OpenSchufa: Die Ergebnisse"
 ---
 
-Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline have evaluated the anonymous data that we collected with the help of "our mydata" project [OpenSchufa](https://okfn.de/blog/tags/openschufa/) since this spring.  
-Their [making of can be found here](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html).
+Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline (their [making of is here](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html) have evaluated the anonymous data that we collected with the help of "our mydata" project [OpenSchufa](https://okfn.de/blog/tags/openschufa/) since this spring.  
 
 In the last 10 month this project generated 100.000 individual data requests in Germany, 
 out of these more than 30.000 were directed at Schufa and resulted in more than 3.000 openschufa datadonations.
@@ -71,7 +70,6 @@ We need more transparency for all scoring providers in Germany and Europe.
 
 ## Schufa reporting on the 28th of November (in German)
 
-
 - [SpiegelOnline: Blackbox Schufa](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
 - [SpiegelOnline: 2800 Datensätze - so haben wir sie ausgewertet](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html)
 - [SpiegelOnline: So bestellen Sie Ihre kostenlose Schufa-Auskunft](http://www.spiegel.de/wirtschaft/service/schufa-auskunft-kostenlos-online-beantragen-so-geht-s-a-1240548.html)
@@ -83,6 +81,7 @@ We need more transparency for all scoring providers in Germany and Europe.
 - [tagesschau.de: Unverschuldet als Risikofall eingestuft?](https://www.tagesschau.de/wirtschaft/schufa-105.html)
 - [Deutschlandfunk: Durch die Schufa unverschuldet zum Risikofall](https://www.deutschlandfunk.de/medienbericht-durch-die-schufa-unverschuldet-zum-risikofall.1939.de.html?drn:news_id=950686)
 
+[German version of this article with more frequent udates](https://okfn.de/blog/2018/11/openschufa-ergebnisse/)
 
 ## For further inquiries
 
