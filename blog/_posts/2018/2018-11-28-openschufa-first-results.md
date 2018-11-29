@@ -2,7 +2,7 @@
 authors: 
 - Arne Semsrott
 - Walter Palmetshofer
-date: 2018-11-29 
+date: 2018-11-28
 image:
   src: /files/blog/2018/11/openschufa.jpg
   title: 
@@ -14,14 +14,14 @@ type: post
 layout: post
 card: true
 published: true
-title: "OpenSchufa: The results"
+title: "OpenSchufa: The first results"
 ---
 
 Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline (their [making of is here](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html) have evaluated the anonymous data that we have collected with the help of our "mydata" project [OpenSchufa](https://okfn.de/blog/tags/openschufa/) since this spring.
 
 In the last 10 months this project generated 100,000 individual data requests in Germany. Out of these, more than 30,000 were directed at Schufa and resulted in more than 3,000 data donations to us.
 
-Many thanks to all the people who donated money (https://www.startnext.com/openschufa), time and especially their data (https://www.openschufa.de/) and supported this project with other resources (like selbstauskunft.net)!
+Many thanks to all the people who donated [money](https://www.startnext.com/openschufa), time and especially their [data](https://www.openschufa.de/) and supported this project with other resources!
 
 ## These are the most important findings:
 
