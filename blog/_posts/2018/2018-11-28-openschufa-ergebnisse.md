@@ -73,6 +73,7 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 - [ZDF Zoom: Unheimliche Macht - Wie Algorithmen unser Leben bestimmen](https://www.zdf.de/dokumentation/unheimliche-macht---wie-algorithmen-unser-leben-bestimmen-102.html)
 - [tagesschau.de: Unverschuldet als Risikofall eingestuft?](https://www.tagesschau.de/wirtschaft/schufa-105.html)
 - [Deutschlandfunk: Durch die Schufa unverschuldet zum Risikofall](https://www.deutschlandfunk.de/medienbericht-durch-die-schufa-unverschuldet-zum-risikofall.1939.de.html?drn:news_id=950686)
+- [MDR jump: Wie verlässlich sind die Schufa-Scores?](https://www.jumpradio.de/thema/schufa-algorithmus-fragwuerdig-recherche-falscher-score-100.html)
 - [Wired.de: Citizen Scoring: Wie Staaten mit Daten und Überwachungstechnik über ihre Bürger herrschen](https://www.wired.de/article/citizen-scoring-wie-staaten-mit-daten-und-ueberwachungstechnik-ueber-ihre-buerger-herrschen)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ifajykkrnic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
