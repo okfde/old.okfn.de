@@ -81,6 +81,7 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 ## Politische Reaktionen
 - 29.11 [Ministerin Barley fordert Schufa zu mehr Transparenz auf](http://www.spiegel.de/wirtschaft/service/schufa-co-barley-fordert-mehr-transparenz-von-auskunfteien-a-1241107.html)<br>
 - 29.11 [Nach Schufa-Recherche: Politiker verlangen mehr Transparenz](https://www.br.de/nachrichten/wirtschaft/nach-schufa-recherche-politiker-verlangen-mehr-transparenz,RAnwNpV)<br>
+- 30.11 [Renate Künast - Schufa ist eine Blackbox. Es braucht ein Gesetz für Transparenz](https://www.mdr.de/nachrichten/audio-895128_zc-fd08c406_zs-950f04ff.html)
 - 18.09 [Tabea Rößner über eine undurchsichtige Auskunftsdatei und wie Bürgerinnen und Bürger sie reformieren können](https://www.neues-deutschland.de/artikel/1100866.transparenz-der-schufa-blackbox-schufa.html)<br>
 
 ## Pressekontakt
