@@ -77,18 +77,18 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 - [Wired.de: Citizen Scoring: Wie Staaten mit Daten und Überwachungstechnik über ihre Bürger herrschen](https://www.wired.de/article/citizen-scoring-wie-staaten-mit-daten-und-ueberwachungstechnik-ueber-ihre-buerger-herrschen)
 - [Spiegel - Wie faires Scoring aussehen könnte](http://www.spiegel.de/wirtschaft/service/kreditwuerdigkeit-wie-faires-scoring-aussehen-koennte-a-1241323.html)
 - [Futurzone.de - Versteckte Schufa-Prüfung: So wirst du beim Online-Shopping heimlich durchleuchtet](https://www.futurezone.de/digital-life/article215930381/Versteckte-Schufa-Pruefung-So-wirst-du-beim-Online-Shopping-heimlich-durchleuchtet.html)
-- [mdr - Künast fodert mehr Transparenz bei der Schufa](https://www.mdr.de/nachrichten/politik/inland/schufa-kuenast-mehr-transparenz-100.html)
-- [Stuttgarter Nachrichten](https://www.stuttgarter-nachrichten.de/inhalt.selbstauskunft-schufas-verschlungene-wege-zu-den-eigenen-daten.e08ea261-3949-4023-8ce6-166c8d32aef6.html)
+- [mdr - Künast fordert mehr Transparenz bei der Schufa](https://www.mdr.de/nachrichten/politik/inland/schufa-kuenast-mehr-transparenz-100.html)
+- [Stuttgarter Nachrichten - Schufas verschlungene Wege zu den eigenen Daten](https://www.stuttgarter-nachrichten.de/inhalt.selbstauskunft-schufas-verschlungene-wege-zu-den-eigenen-daten.e08ea261-3949-4023-8ce6-166c8d32aef6.html)
 - [radioeins - Einfach Schröder](https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/schufa.html)
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ifajykkrnic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Politische Reaktionen
-- 29.11 [Ministerin Barley fordert Schufa zu mehr Transparenz auf](http://www.spiegel.de/wirtschaft/service/schufa-co-barley-fordert-mehr-transparenz-von-auskunfteien-a-1241107.html)<br>
-- 29.11 [Nach Schufa-Recherche: Politiker verlangen mehr Transparenz](https://www.br.de/nachrichten/wirtschaft/nach-schufa-recherche-politiker-verlangen-mehr-transparenz,RAnwNpV)<br>
-- 30.11 [Renate Künast - Schufa ist eine Blackbox. Es braucht ein Gesetz für Transparenz](https://www.mdr.de/nachrichten/audio-895128_zc-fd08c406_zs-950f04ff.html)
-- 18.09 [Tabea Rößner über eine undurchsichtige Auskunftsdatei und wie Bürgerinnen und Bürger sie reformieren können](https://www.neues-deutschland.de/artikel/1100866.transparenz-der-schufa-blackbox-schufa.html)<br>
+- 29.11. [Ministerin Barley fordert Schufa zu mehr Transparenz auf](http://www.spiegel.de/wirtschaft/service/schufa-co-barley-fordert-mehr-transparenz-von-auskunfteien-a-1241107.html)<br>
+- 29.11. [Nach Schufa-Recherche: Politiker verlangen mehr Transparenz](https://www.br.de/nachrichten/wirtschaft/nach-schufa-recherche-politiker-verlangen-mehr-transparenz,RAnwNpV)<br>
+- 30.11. [Renate Künast - Schufa ist eine Blackbox. Es braucht ein Gesetz für Transparenz](https://www.mdr.de/nachrichten/audio-895128_zc-fd08c406_zs-950f04ff.html)
+- 18.09. [Tabea Rößner über eine undurchsichtige Auskunftsdatei und wie Bürgerinnen und Bürger sie reformieren können](https://www.neues-deutschland.de/artikel/1100866.transparenz-der-schufa-blackbox-schufa.html)<br>
 
 ## Pressekontakt
 
