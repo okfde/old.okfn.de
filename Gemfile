@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-gem 'jekyll'
-gem 'github-pages'
+gem 'jekyll', '~> 3.7'
+gem 'github-pages', '~> 193'
 gem 'octopress-autoprefixer'
 gem 'jekyll-tagging', :git => 'https://github.com/pattex/jekyll-tagging.git'
 gem 'icalendar'
