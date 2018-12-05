@@ -28,7 +28,7 @@ GEM
     execjs (2.7.0)
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.18)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (157)
@@ -172,8 +172,8 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-titles-from-headings (0.4.0)
       jekyll (~> 3.3)
-    jekyll-watch (1.5.0)
-      listen (~> 3.0, < 3.1)
+    jekyll-watch (1.5.1)
+      listen (~> 3.0)
     jemoji (0.8.0)
       activesupport (~> 4.0)
       gemoji (~> 3.0)
@@ -199,15 +199,15 @@ GEM
     octopress-autoprefixer (2.0.1)
       autoprefixer-rails
       jekyll (~> 3.0)
-    pathutil (0.14.0)
+    pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    rb-fsevent (0.10.2)
+    rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.5.1)
+    sass (3.7.2)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -238,4 +238,4 @@ DEPENDENCIES
   selene
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
