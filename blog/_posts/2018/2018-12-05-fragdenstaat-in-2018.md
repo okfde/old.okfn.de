@@ -14,7 +14,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "Schufa gibt nach: Elektronische Auskünfte ab 2019"
+title: "Strengthening the Democratic Infrastructure"
 ---
 
 <p>2018 proved, again, why we need to strengthen the infrastructure for democracy. This year, our freedom of information project <a href="https://fragdenstaat.de">FragDenStaat</a> has revealed how the Ministry of Family Affairs cooperates with the Domestic Intelligence Service, we have published the Ministry of the Interior's <a href="https://fragdenstaat.de/blog/2018/masterplan-english/">Master Plan on Migration</a> and documents on “<a href="https://fragdenstaat.de/blog/2018/exclusive-internal-diplomatic-report-concentration-camp-conditions-libyan-refugee-camps/">concentration camp-like prisons</a>”&nbsp;in Libya.</p>
