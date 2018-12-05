@@ -96,7 +96,7 @@ Hier gibt es mehr Informationen zu [unseren Projekten](/projekte/).
 Auf der letzten Mitgliederversammlung wurde [Andreas Pawelke](/vorstand/#andreas-pawelke) zum Vorstandsvorsitzenden, [Lucy Chambers](/vorstand/#lucy-chambers) zur stellvertretenden Vorstandsvorsitzenden und [Kristina Klein](/vorstand/#kristina-klein) zur Kassenwartin gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann](/vorstand/#claudia-schwegmann) und [Daniel Dietrich](/vorstand/#daniel-dietrich). Seit Juni 2017 ist [Nadine Evers](/team/#nadine-evers) Geschäftsführerin der OKF.
 
 ## Datenschutzbeauftragter
-Unser externer Datenschutzbeauftragter ist [Thorsten Feldmann LL.M.](http://jbbdataconsult.de/wer-wir-sind/thorsten-feldmann/) von [JBB Data Consult GmbH](http://jbbdataconsult.de/).
+Unsere externe Datenschutzbeauftragte ist **Beata-Konstanze Hubrig** von der [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
 
 ## Ethikbeauftragte
 Am 29.03.2017 wurde [Paula Grünwald](/team/#paula-glaser) zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an [ethics@okfn.de](mailto:ethics@oknf.de) gerichtet werden.
