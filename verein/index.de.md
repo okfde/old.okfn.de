@@ -95,7 +95,7 @@ Hier gibt es mehr Informationen zu [unseren Projekten](/projekte/).
 
 Auf der letzten Mitgliederversammlung wurde [Andreas Pawelke](/vorstand/#andreas-pawelke) zum Vorstandsvorsitzenden, [Lucy Chambers](/vorstand/#lucy-chambers) zur stellvertretenden Vorstandsvorsitzenden und [Kristina Klein](/vorstand/#kristina-klein) zur Kassenwartin gewählt. Weitere Vorstandsmitglieder sind [Claudia Schwegmann](/vorstand/#claudia-schwegmann) und [Daniel Dietrich](/vorstand/#daniel-dietrich). Seit Juni 2017 ist [Nadine Evers](/team/#nadine-evers) Geschäftsführerin der OKF.
 
-## Datenschutzbeauftragter
+## Datenschutzbeauftragte
 Unsere externe Datenschutzbeauftragte ist **Beata-Konstanze Hubrig** von der [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
 
 ## Ethikbeauftragte
