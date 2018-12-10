@@ -39,7 +39,7 @@ Malte Beyer verknüpfte dabei den Bogen von [2008 Paper von Rufus](https://rufus
 Industriepolitik. Wirtschaftspolitik. Anreizsysteme.
 (Text siehe Transkript im englischen Teil).
 
-Ursprünglicher Antreiber war UK. Fehlt jetzt weg. Franzosen aktuell der zweite Treiber.
+Ursprünglicher Antreiber war UK. Fällt jetzt weg. Franzosen aktuell der zweite Treiber.
 
 Und es ist ein Frage des politischen Willen. 
 
