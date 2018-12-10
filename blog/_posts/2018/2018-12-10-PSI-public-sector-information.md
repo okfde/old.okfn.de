@@ -4,7 +4,8 @@ authors:
 date: 2018-12-10
 image:
   src: /files/blog/2018/10/LogoEC-el-svg.png
-  title: PSI-public-sector-information aka opendata
+  title: PSI public sector information
+tags:
 - PSI
 - Policy
 - Opendata
@@ -12,8 +13,9 @@ type: post
 layout: post
 card: true
 published: false
-title: "PSI public sector" 
+title: "PSI public sector information" 
 ---
+
 
 <i>Documents & upcoming English summary <a href="https://okfn.de/blog/2018/12/PSI-public-sector-information#english">below</a></i>.
 
