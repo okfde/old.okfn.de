@@ -15,8 +15,6 @@ card: true
 published: true
 title: "PSI public sector information" 
 ---
-Kurzzusammenf PSI Richtinie ktuelle Kurzzfsg. um
-
 <i>Documents & upcoming English summary <a href="https://okfn.de/blog/2018/12/PSI-public-sector-information#english">below</a></i>.
 
 Seit [2012](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector [Information](http://www.kas.de/wf/en/17.78393/) Directive, aka Open Data. Und so wie es scheint, auch noch länger.
