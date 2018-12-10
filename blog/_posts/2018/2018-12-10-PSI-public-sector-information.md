@@ -42,12 +42,16 @@ Die Chance auf den Aufbau einer europäischen Dateninfrastruktur wurde leider vo
 allen Sonntagsreden zum Trotz, nicht wahrgenommen. Deutschland kann im internationalen Wettbewerb 
 langfristig nur als Teil eines europäischen Ansatzes bestehen. Eine  Kooperation mit Frankreich 
 hätte die Chance geboten, beide Länder zum Motor einer europäischen Opendata Strategie zu machen.
+Damit wurde wiederum eine Chance auf ein europäisches Gegenmodell nicht genützt.
+Das Thema wurde von der Bundesregierung nicht ausreichend unterstützt, und wie mehrfach abgesichert aus Verhandlungskreisen bekannt ist, waren VertreterInnen aus Deutschland und die Bedenkenträgerfraktion leider tatkräftig am Werken und einer der Bremsklötze schlecht hin (Links folgen).
 
 Übrigens, im aktuellen Koalitionsvertrag der deutschen Bundesregierung steht:
-"Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten."
-Man darf gespannt sein, wie dieses Verlaufen wird.
+<i>"Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten."
+Man darf gespannt sein, wie dieses Verlaufen wird.</i>
 
 Die nächste Baustelle bzw. Chance.
+
+Nächstes Update erfolgt am 12.12.2012.
 
 
 
