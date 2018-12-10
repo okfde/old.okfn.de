@@ -16,34 +16,31 @@ title: "PSI Policy und EUDataSummit"
 ---
 <i>Documents & upcoming English summary <a href="https://okfn.de/blog/2018/12/PSI-public-sector-information#english">below</a></i>.
 
-Seit [2012](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector [Information]((http://www.kas.de/wf/en/17.78393/) Directive, aka Open Data. Und so wie es scheint, auch noch länger.
+Seit [2012](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector [Information](http://www.kas.de/wf/en/17.78393/) Directive, aka Open Data. Und so wie es scheint, auch noch länger.
 
-Am Montag den 5. Dezember [kam](http://www.europarl.europa.eu/streaming/?event=20181203-1630-COMMITTEE-ITRE) es im federführenden ITRE-Ausschuss (Industrie, Forschung und Energie) zur Abstimmung (25min) über
+Am Montag den 5. Dezember [kam](http://www.europarl.europa.eu/streaming/?event=20181203-1630-COMMITTEE-ITRE) es im federführenden [ITRE-Ausschuss](https://de.wikipedia.org/wiki/Ausschuss_f%C3%BCr_Industrie,_Forschung_und_Energie) (Industrie, Forschung und Energie) zur Abstimmung (25min) über
 die PSI Richtlinie, also über die kommende Richtlinie für offene Daten in der europäischen Union.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qb8DwCIn2D8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 [Ergebnisse im Detail](/files/blog/2018/12/20181203-PSI-voting-SCAN_181203_172755.pdf)
 
-Am 12. Dezember findet die erste [Trilog](https://de.wikipedia.org/wiki/Trilog) statt. Dazu gibt es hier eine kurze Übersicht zu den wichtigsten Punkt 
+Am 12. Dezember findet der erste [Trilog](https://de.wikipedia.org/wiki/Trilog) statt. Dazu gibt es hier eine kurze Übersicht zu den wichtigsten Punkte. 
 
-Hintergrund zur PSI zum besseren Verständnis. Die [Genesis der PSI](https://www.youtube-nocookie.com/embed/qz9BC35gkxU?t=1194&rel=0") 
-und [Modelle zur](https://rufuspollock.com/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/) zu den aktuellen französischen Rahmenbedingungen. (Als Beispiel nannte er die Kostenbefreiung des nationalen französischen Geographiedienstes und der Daten und die Kostenabdeckung durch zukünfigte Mehrwertsteuer die aus jenen Anwendungen enstehen).
-Erreichung eines "europäischen" Dateninfrastruktur. 
-Ursprünglicher Antreiber war UK, fällt jetzt weg, Franzosen aktuell der zweite Treiber, sind von Deutschland alleingelassen worden.
+Hintergrund zur PSI zum besseren Verständnis (die [Genesis der PSI](https://www.youtube-nocookie.com/embed/qz9BC35gkxU?t=1194&rel=0") und [Modelle zur](https://rufuspollock.com/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/)). 
+<i>tl;dr: Ursprünglicher Antreiber war UK, fällt jetzt weg, Franzriech aktuell der zweite Treiber, ist von Deutschland alleingelassen worden.</i>
 
 Großbritannien war Ende der 1990er-Jahre ein Innovator auf dem Gebiet der PSI. Der Beitrag der britischen Regierung 
 war für die offene Datenpolitik und die 2003 verabschiedete EU-Richtlinie von wesentlicher Bedeutung. Dazu gehört 
 auch die Aufnahme der Liste von hochwertigen Datensätzen in die G8-Charta. Ein weiterer Treiber ist heute die französische 
 Politik, die ein Gesetz über die „Digitale Republik“ verabschiedet hat. Frankreich definierte Kategorien von vorrangig
-im öffentlichen Sektor gehaltenen Daten, die von grundlegendem Wert für die ganze Gesellschaft sind. Nach dem Brexit bräuchte es in der EU umso mehr politische Einigkeit bei der Fest-
-legung einer innovativen Datenpolitik.
+im öffentlichen Sektor gehaltenen Daten, die von grundlegendem Wert für die ganze Gesellschaft sind. Nach dem Brexit bräuchte es in der EU umso mehr politische Einigkeit bei der Festlegung einer innovativen Datenpolitik.
 
 Die Chance auf den Aufbau einer europäischen Dateninfrastruktur wurde leider von Deutschland, 
 allen Sonntagsreden zum Trotz, nicht wahrgenommen. Deutschland kann im internationalen Wettbewerb 
 langfristig nur als Teil eines europäischen Ansatzes bestehen. Eine  Kooperation mit Frankreich 
 hätte die Chance geboten, beide Länder zum Motor einer europäischen OpenData Strategie zu machen.
 
-Übrigens, im aktuellen Koaliationsvertrag der deutschen Bundesregierung steht:
+Übrigens, im aktuellen Koalitionsvertrag der deutschen Bundesregierung steht:
 "Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten."
 Man darf gespannt sein, wie dieses Verlaufen wird.
 
