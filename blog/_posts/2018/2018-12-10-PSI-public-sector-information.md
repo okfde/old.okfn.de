@@ -12,8 +12,9 @@ type: post
 layout: post
 card: true
 published: false
-title: "PSI Policy und EUDataSummit" 
+title: "PSI public sector" 
 ---
+
 <i>Documents & upcoming English summary <a href="https://okfn.de/blog/2018/12/PSI-public-sector-information#english">below</a></i>.
 
 Seit [2012](/files/blog/2018/10/PSI-Stellungnahme-2012.pdf) beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector [Information](http://www.kas.de/wf/en/17.78393/) Directive, aka Open Data. Und so wie es scheint, auch noch länger.
@@ -27,7 +28,7 @@ die PSI Richtlinie, also über die kommende Richtlinie für offene Daten in der 
 Am 12. Dezember findet der erste [Trilog](https://de.wikipedia.org/wiki/Trilog) statt. Dazu gibt es hier eine kurze Übersicht zu den wichtigsten Punkte. 
 
 Hintergrund zur PSI zum besseren Verständnis (die [Genesis der PSI](https://www.youtube-nocookie.com/embed/qz9BC35gkxU?t=1194&rel=0") und [Modell zur Umsetzung](https://rufuspollock.com/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/)). 
-<br><i>tl;dr: Ursprünglicher Antreiber war UK, fällt jetzt weg, Franzriech aktuell der zweite Treiber, ist von Deutschland alleingelassen worden.</i>
+<br><i>tl;dr: Ursprünglicher Antreiber war UK, fällt jetzt weg, Frankreich aktuell der zweite Treiber, ist von Deutschland alleingelassen worden.</i>
 
 Großbritannien war Ende der 1990er-Jahre ein Innovator auf dem Gebiet der PSI. Der Beitrag der britischen Regierung 
 war für die offene Datenpolitik und die 2003 verabschiedete EU-Richtlinie von wesentlicher Bedeutung. Dazu gehört 
