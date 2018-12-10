@@ -26,8 +26,8 @@ die PSI Richtlinie, also über die kommende Richtlinie für offene Daten in der 
 
 Am 12. Dezember findet der erste [Trilog](https://de.wikipedia.org/wiki/Trilog) statt. Dazu gibt es hier eine kurze Übersicht zu den wichtigsten Punkte. 
 
-Hintergrund zur PSI zum besseren Verständnis (die [Genesis der PSI](https://www.youtube-nocookie.com/embed/qz9BC35gkxU?t=1194&rel=0") und [Modelle zur](https://rufuspollock.com/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/)). 
-<i>tl;dr: Ursprünglicher Antreiber war UK, fällt jetzt weg, Franzriech aktuell der zweite Treiber, ist von Deutschland alleingelassen worden.</i>
+Hintergrund zur PSI zum besseren Verständnis (die [Genesis der PSI](https://www.youtube-nocookie.com/embed/qz9BC35gkxU?t=1194&rel=0") und [Modell zur Umsetzung](https://rufuspollock.com/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/)). 
+<br><i>tl;dr: Ursprünglicher Antreiber war UK, fällt jetzt weg, Franzriech aktuell der zweite Treiber, ist von Deutschland alleingelassen worden.</i>
 
 Großbritannien war Ende der 1990er-Jahre ein Innovator auf dem Gebiet der PSI. Der Beitrag der britischen Regierung 
 war für die offene Datenpolitik und die 2003 verabschiedete EU-Richtlinie von wesentlicher Bedeutung. Dazu gehört 
@@ -38,7 +38,7 @@ im öffentlichen Sektor gehaltenen Daten, die von grundlegendem Wert für die ga
 Die Chance auf den Aufbau einer europäischen Dateninfrastruktur wurde leider von Deutschland, 
 allen Sonntagsreden zum Trotz, nicht wahrgenommen. Deutschland kann im internationalen Wettbewerb 
 langfristig nur als Teil eines europäischen Ansatzes bestehen. Eine  Kooperation mit Frankreich 
-hätte die Chance geboten, beide Länder zum Motor einer europäischen OpenData Strategie zu machen.
+hätte die Chance geboten, beide Länder zum Motor einer europäischen Opendata Strategie zu machen.
 
 Übrigens, im aktuellen Koalitionsvertrag der deutschen Bundesregierung steht:
 "Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten."
@@ -49,14 +49,13 @@ Die nächste Baustelle bzw. Chance.
 
 
 <a id="english"></a>
-Dokumente:
-IMCO Julia Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)
-5.12 [Abstimmungsergebnisse im Detail](/files/blog/2018/12/20181203-PSI-voting-SCAN_181203_172755.pdf)
+#### Dokumente:
+IMCO Julia Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)<br>
+5.12 [Abstimmungsergebnisse im Detail](/files/blog/2018/12/20181203-PSI-voting-SCAN_181203_172755.pdf)<br>
 
 #### Aktueller Fahrplan:
-Am 12. Dezember startet der Trilog
-31.12 Übergabe an den rümanischen EU-Ratsvorsitz.
-
+12.12 startet der Trilog<br>
+31.12 Übergabe an den rümanischen EU-Ratsvorsitz<br>
 Die "Kommunale Daten" @KASeurope Diskussion mit (ɔ) @AxelVossMdEP und @AlexanderHand vom @Gemeindebund, 
 entfiel leider, soll Anfang 2019 nachgeholt werden.<br>
 
@@ -70,6 +69,6 @@ Update 7.11 [EC press release](https://www.consilium.europa.eu/de/press/press-re
 
 ### English
 
-~ "We shall write, As time, and our concernings shall importune"
--- "Duke" | W. Shakespeare's "Measure for Measure": Act I, Scene I (play)
+~ "We shall write, As time, and our concernings shall importune"<br>
+-- "Duke" | W. Shakespeare's "Measure for Measure": Act I, Scene I (play)<br>
 aka It's is timely ressource question.
