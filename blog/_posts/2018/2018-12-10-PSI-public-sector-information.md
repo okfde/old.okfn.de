@@ -42,7 +42,7 @@ allen Sonntagsreden zum Trotz, nicht wahrgenommen. Deutschland kann im internati
 langfristig nur als Teil eines europäischen Ansatzes bestehen. Eine  Kooperation mit Frankreich 
 hätte die Chance geboten, beide Länder zum Motor einer europäischen Opendata Strategie zu machen.
 Damit wurde wiederum eine Chance auf ein europäisches Gegenmodell nicht genützt.
-Das Thema wurde von der Bundesregierung nicht ausreichend unterstützt, und wie mehrfach abgesichert aus Verhandlungskreisen bekannt ist, waren VertreterInnen aus Deutschland und die Bedenkenträgerfraktion leider tatkräftig am Werken und einer der Bremsklötze schlecht hin (Links folgen).
+Das Thema wurde von der Bundesregierung nicht ausreichend unterstützt, und wie mehrfach abgesichert aus Verhandlungskreisen bekannt ist, waren VertreterInnen aus Deutschland und die Bedenkenträgerfraktion leider tatkräftig am Werken und einer der Bremsklötze schlecht hin (Links folgen [bzw.](/files/blog/2018/12/20181212-Tagesspiegel-Digitalisierung-Background-PSI-Trilog.pdf)).
 
 Übrigens, im aktuellen Koalitionsvertrag der deutschen Bundesregierung steht:
 <i>"Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten."
@@ -50,7 +50,7 @@ Man darf gespannt sein, wie dieses Verlaufen wird.</i>
 
 Die nächste Baustelle bzw. Chance.
 
-Nächstes Update erfolgt am 12.12.2012.
+Nächstes Update erfolgt am 12.12.2012 am Abend nach dem Triolog.
 
 
 
@@ -59,6 +59,7 @@ Nächstes Update erfolgt am 12.12.2012.
 IMCO Julia Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)<br>
 28.11 [NGOs urge European Parliament to vote for free access to company and UBO registers](https://openstate.eu/en/2018/11/psidirectiverevision/)<br>
 5.12 [Abstimmungsergebnisse im Detail](/files/blog/2018/12/20181203-PSI-voting-SCAN_181203_172755.pdf)<br>
+12.12 [Tagesspiegel Digitalisierung Background zu PSI Trilog by Lina Rusch](/files/blog/2018/12/20181212-Tagesspiegel-Digitalisierung-Background-PSI-Trilog.pdf)<br>
 
 #### Aktueller Fahrplan:
 12.12 startet der Trilog<br>
