@@ -17,7 +17,6 @@ contact:
   website: https://fragdenstaat.de
   twitter: fragdenstaat
   github: https://github.com/okfde/fragdenstaat_de
-  mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
 de:
   stats: 30 000+<br/>Anfragen
