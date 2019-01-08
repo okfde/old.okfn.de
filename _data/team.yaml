@@ -311,9 +311,10 @@
 - name: Anna Alberts
   title:
   img: annaalberts
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Anna Alberts leitet bei der Open Knowledge Foundation Deutschland das EU-Forschungsprojekt OpenBudgets.eu. Anna hat Internationale Entwicklungsstudien und Internationale Beziehungen studiert und als Referentin mit den Schwerpunkten Daten- und Geopolitik im Planungsstab des Außenministeriums der Niederlande gearbeitet. Ehrenamtlich setzt sich Anna beim Peace Innovation Lab Berlin für die Förderung von Social Innovation-Projekten ein."
   bio_en: "Anna Alberts leads the EU research project OpenBudgets.eu. She has a degree in international development studies and international relations and worked as desk officer for data- and geopolitics at the Ministry of Foreign Relations of the Netherlands. Anna develops Social Innovation projectsat the Peace Innovation Lab in Berlin."
@@ -526,9 +527,10 @@
 - name: Rebecca Varghese Buchholz
   title:
   img: rebeccabuchholz
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position:
   bio: "Seit April 2017 leitet Rebecca 2030Watch, das Monitoring-Projekt zur deutschen Nachhaltigkeitsstrategie. Davor war Rebecca Referentin für Welthandel und Investitionsabkommen bei Traidcraft in London und wissenschaftliche Mitarbeiterin bei dem United Nations Research Institute (UNRISD) for Social Development in Genf. Rebecca studierte Volkswirtschaft mit Schwerpunkt Entwicklungspolitik an der School of African and Oriental Studies (University of London) und der University of Cambridge und hat ein Graduate Diploma in Law (London College of Law)."
   bio_en: "Since April 2017, Rebecca manages 2030Watch, a civil society monitoring project of SDGs’ implementation in Germany. Prior to joining OKF, Rebecca worked as a Senior Policy Adviser for international trade and investment treaties at Traidcraft in London and as a Research Analyst for the United Nations Research Institute (UNRISD) for Social Development in Geneva. Rebecca graduated in Economics and Development Studies from the School of African and Oriental Studies (BA hons) and the University of Cambridge (MPhil) and holds a Graduate Diploma in Law (London College of Law)."
