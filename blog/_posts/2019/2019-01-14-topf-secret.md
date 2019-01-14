@@ -25,7 +25,7 @@ Die Plattform ermöglicht es allen Menschen, einfach und schnell vorformulierte 
 
 Seit Jahren wird jeder vierte kontrollierte Betrieb beanstandet, größtenteils wegen Hygienemängeln. Wir wollen mit der Mitmach-Plattform Druck aufbauen, damit Behörden in Zukunft ausnahmslos alle Kontrollergebnisse veröffentlichen müssen. Erst das schafft den nötigen Anreiz für Lebensmittelbetriebe, sich jeden Tag an alle lebensmittelrechtlichen Vorgaben zu halten. Bundesernährungsministerin Julia Klöckner muss die gesetzliche Grundlage für ein Transparenzsystem wie in Dänemark, Wales oder Norwegen schaffen. Dort werden alle Ergebnisse der amtlichen Lebensmittelüberwachung veröffentlicht, im Internet und direkt an der Ladentür.
 
-##Bundesregierung will nur „freiwilliges System“
+## Bundesregierung will nur „freiwilliges System“
 
 Die gesetzliche Grundlage für Anfragen über „Topf Secret“ ist das Verbraucherinformationsgesetz (VIG). Nutzer*innen können einen beliebigen Betrieb – von Restaurants über Bäckereien bis hin zu Tankstellen – über eine Suchfunktion oder per Klick auf einer Straßenkarte aussuchen. Nutzerinnen und Nutzer brauchen lediglich Name, E-Mail- und Postadresse eingeben, die gemeinsam mit einem vorbereiteten Text an die zuständige Behörde übermittelt wird. Die Antragstellung ist innerhalb von einer Minute fertig.
 
