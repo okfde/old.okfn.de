@@ -15,7 +15,7 @@ type: post
 layout: post
 card: true
 published: true
-title: ""Pot Secret" - Freeing thousands of Food Hygiene Reports"
+title: "Pot Secret - Freeing thousands of Food Hygiene Reports"
 ---
 
 Yesterday we launched ["Pot Secret"](https://fragdenstaat.de/kampagnen/lebensmittelkontrolle/) ("Topf Secret" in German) - a platform against secrecy at food authorities. Consumers can use this platform to obtain the results of hygiene controls in restaurants, bakeries, supermarkets and other food-processing businesses.
