@@ -11,8 +11,8 @@ people:
     role: Projektleitung
   - name: Sonja Fischbauer
     role: Projektleitung
-  - name: Lea Schubert
-    role: Bufdine
+  - name: Sebastian Schröder
+    role: Bufdi
   - name: Doris Jantoljak
     role: Design
   - name: Philip Steffan
@@ -21,6 +21,8 @@ people:
     role: Studentische Hilfskraft
   - name: Torben Reichert
     role: Entwickler
+  - name: Saadya Windauer
+    role: Projektmanagerin
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
