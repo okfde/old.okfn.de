@@ -6,8 +6,6 @@ layout: project
 people:
   - name: Rebecca Varghese Buchholz
     role: Projektleitung
-  - name: Saadya Windauer
-    role: Projektmanagerin 
 contact:
   website: http://2030-watch.de
   github: https://github.com/okfde/2030-watch.de
