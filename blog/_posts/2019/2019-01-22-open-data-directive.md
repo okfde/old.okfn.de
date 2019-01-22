@@ -53,9 +53,9 @@ Wenn der politische Wille da wär.
 
 Übrigens in Deutschland steht in dieser Legislaturperiode auch noch laut [Koalitionsvertrag](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1) ein Open Data Gesetz an:<br>
 <i>
-2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und 
-2074 Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines 
-2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. 
+2073 Um die Chancen und den Nutzen behördlicher Verwaltungsdaten für Wirtschaft und <br>
+2074 Bürgerinnen und Bürger noch weiter zu verbessern, werden wir im Rahmen eines <br>
+2075 zweiten Open Data Gesetzes die Bereitstellung von Open Data ausweiten. <br>
 </i>
 
 
