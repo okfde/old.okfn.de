@@ -58,8 +58,9 @@ Für die Stelle der regionalen Koordination für die Jugend hackt Lab Region Ulm
 * eine Vergütung angelehnt an TV-L West  E12S1 
 
 ### Dein Einsatzort: das Verschwörhaus
-Du arbeitest im außergewöhnlichen Umfeld des [Verschwörhaus in Ulm](https://verschwoerhaus.de/) – dem ersten Maker- und Hackspace Deutschlands, der von einer Kommune getragen wird.
-Du bist im Arbeitsalltag in das hauptamtliche Team vor Ort eingebunden, das aus der städtischen Geschäftsstelle Digitale Agenda und einer bei der OKF angestellten Kollegin besteht.
+Du arbeitest im außergewöhnlichen Umfeld des [Verschwörhaus in Ulm](https://verschwoerhaus.de/) – dem ersten Maker- und Hackspace Deutschlands, der von einer Kommune getragen wird. Du bist im Arbeitsalltag in das hauptamtliche Team vor Ort eingebunden, das aus der städtischen Geschäftsstelle Digitale Agenda und einer bei der OKF angestellten Kollegin besteht.
+
+
 
 Die Stelle ist zum **01.04.2019 (spätestens zum 01.05.2019)** zu besetzen und zunächst auf 2 Jahre befristet. Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
 
