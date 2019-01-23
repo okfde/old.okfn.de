@@ -15,6 +15,7 @@ layout: post
 card: true
 published: true
 title: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
+jobs: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
 ---
 
 ### Wer wir sind
