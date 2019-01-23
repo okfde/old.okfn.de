@@ -5,8 +5,8 @@ date: 2019-01-23
 image:
   src: /files/blog/2019/01/Stellenausschreibung_ReKoUlm.jpg
   title: Jugend hackt 
-  license: CC-BY 4.0 Jugend hackt, Foto: Holger Dorn 
-  license_url: https://creativecommons.org/licenses/by/4.0/deed.de
+  license: 
+  license_url: 
 tags:
 - Ausschreibung
 - Jobs
@@ -15,7 +15,6 @@ layout: post
 card: true
 published: true
 title: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
-jobs: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
 ---
 
 ### Wer wir sind
