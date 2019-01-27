@@ -10,8 +10,8 @@ people:
     role: Projektleitung
   - name: Adriana Groh
     role: Program Management
-  - name: Jessica Binsch
-    role: Head of Communications and Outreach
+  - name: Thomas Friese
+    role: Program Management
   - name: Katharina Meyer
     role: Head of Communications and Outreach
   - name: Julia Kloiber
@@ -19,7 +19,8 @@ people:
 contact:
   website: http://prototypefund.de
   twitter: prototypefund
-  github: https://github.com/prototypeteam
+  mustodon: <a href="https://mastodon.social/@PrototypeFund">@PrototypeFund@mastodon.social</a>
+  github: https://github.com/prototypefund
   mailinglist: http://eepurl.com/b_rDS1
   stats: 325 000<br/>Kulturdaten
   teaser: wurden bei <a href="/projekte/codingdavinci/">Coding da Vinci</a> für alle zugänglich und nutzbar gemacht.
@@ -49,4 +50,3 @@ en:
      [website](https://prototypefund.de/en/ ). The Prototype Fund is funded by the Federal Ministry for Research and Education of Germany. 
 
 ---
-
