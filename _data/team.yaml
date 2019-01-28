@@ -852,16 +852,29 @@
   mail: doris.jantoljak@okfn.de
   twitter:
   website: https://jantoljak.de/
-  
+
 - name: Sebastian Schröder
-  title: 
+  title:
   img: sebastianschroeder
   staff: 1
   board: 0
   advisory: 0
-  position: 
+  position:
   bio: "Sebastian Schröder hat schon mehrmals bei »Jugend hackt« teilgenommen und beginnt 2018 seinen Bundesfreiwilligendienst. Dabei wird er das Team von »Jugend hackt« bei der Organisation der Events unterstützen und die verschiedenen Projekte der Open Knowledge Foundation kennenlernen."
   bio_en: "Sebastian Schröder has already taken part in »Jugend hackt« several times and will start his voluntary service in 2018. He will support the team of »Jugend hackt« in organizing the events and get to know the different projects of the Open Knowledge Foundation."
   mail: sebastian.schroeder@okfn.de
   twitter:
   website:
+
+- name: Thomas Friese
+  img: thomasfriese
+  staff: 1
+  board: 0
+  advisory: 0
+  position: false
+  bio: "Betreut und evaluiert die Förderprojekte des Prototype Funds, begleitet deren Fortschritte und steht insbesondere in technologischen Fragen dem Prototype Fund-Team wie auch den geförderten CoderInnen zur Seite. Thomas ist Generalist, Autodidakt und war zuletzt Systemadministrator, Entwickler und Development Operator."
+  bio_en: "Maintains and evaluates the Prototype Fund's funded projects, monitors their progress and, in particular, advises the Prototype Fund team and funded coders on technological issues. Thomas is a generalist, autodidact and most recently worked as a system administrator, developer and development operator."
+  mail: thomas.friese@okfn.de
+  twitter: false
+  website: 'https://tasmo.rocks'
+  github: tasmo
