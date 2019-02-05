@@ -39,7 +39,7 @@ Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträg
 </dl>`)</script>
 
 Für Spenden bis zu 200 Euro jährlich genügt der Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem
-[Vereinfachten Zuwendungsnachweis]({{ site.url }}/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
+[Vereinfachten Zuwendungsnachweis](/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
 
   <br>
 
