@@ -19,7 +19,7 @@ Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht-komm
 </div>
 
 
-Die Open Knowledge Foundation Deutschland ist als gemeinnützig anerkannt ([Nachweis der Gemeinnützigkeit]({{ site.url }}/files/verein/Freistellungsbescheid-21-08-2017.pdf)).
+Die Open Knowledge Foundation Deutschland ist als gemeinnützig anerkannt ([Nachweis der Gemeinnützigkeit](/files/verein/2018-12-13_Freistellungsbescheid_2017.pdf).
 
 ## Spenden via Banküberweisung
 
