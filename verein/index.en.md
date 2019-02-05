@@ -68,7 +68,7 @@ Open Knowledge Foundation Deutschland e.V. was founded in 2011.
 
 ## Recognition as a charitable foundation
 
-Our work is exempt from corporation tax in accordance with § 5 Paragraph 1 No. 9 of the Corporation Tax Act and from trade tax in accordance with § 3 No. 6 of the Trade Tax Act due to the promotion of science and research as well as the promotion of popular and vocational training and student assistance after the last [exemption notice of the Tax Office for Corporations I, Berlin of 20.04.2018](/files/verein/Freibtellungsbescheid-2018-04-20.pdf).
+Our work is exempt from corporation tax in accordance with § 5 Paragraph 1 No. 9 of the Corporation Tax Act and from trade tax in accordance with § 3 No. 6 of the Trade Tax Act due to the promotion of science and research as well as the promotion of popular and vocational training and student assistance after the last [exemption notice of the Tax Office for Corporations I, Berlin of 2018/12/13](/files/verein/2018-12-13_Freistellungsbescheid_2017.pdf).
 
 Ein aktueller Auszug aus dem Vereinsregister von 2014 ist hier einsehbar."
 
