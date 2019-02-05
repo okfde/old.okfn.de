@@ -73,7 +73,7 @@ Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ## Anerkennung als gemeinnütziger Verein
 
-Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin vom 20.04.2018](/files/verein/Freistellungsbescheid-2018-04-20.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid des Finanzamts für Körperschaften I, Berlin vom 13.12.2018](/files/verein/2018-12-13_Freistellungsbescheid_2017.pdf) nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
 Ein aktueller Auszug aus dem Vereinsregister von 2018 ist [hier einsehbar](/files/verein/Vereinsregisterauszug_OKFDE_2018.pdf).
 
