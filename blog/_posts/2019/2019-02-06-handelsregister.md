@@ -23,7 +23,7 @@ Auf der Website können die Daten einfach zentral durchsucht, heruntergeladen so
 
 Zwar sind die Registerdaten theoretisch auch auf der offiziellen Website [handelsregister.de](https://www.handelsregister.de/) zugänglich. Die Nutzungsordnung des Justizministeriums Nordrhein-Westfalen ist allerdings äußerst restriktiv. Außerdem ist die Suchfunktion der Website kaum nutzbar und die Datenqualität teils mangelhaft.
 
-Jetzt muss die Bundesregierung handeln! 
+## Jetzt muss die Bundesregierung handeln! 
 
 **Sämtliche Daten aus dem Handelsregister und dem Transparenzregister müssen auch von Bund und Ländern als offene Daten veröffentlicht werden.** Für Auskünfte Gebühren zu verlangen, ist nicht zeitgemäß. Offene Daten ermöglichen es der Zivilgesellschaft und investigativen Medien, Korruption aufzudecken, wie Recherchen der [Correctiv](https://correctiv.org/aktuelles/wem-gehoert-hamburg/2019/02/05/mieten-unter-palmen), [Süddeutscher Zeitung](https://www.sueddeutsche.de/wirtschaft/transparenzregister-firmeneigentuemer-eu-1.4317342) und [NDR](https://www.tagesschau.de/wirtschaft/handelsregister-101.html) zeigen. Sie stärken das Gemeinwohl und ermöglichen Unternehmen verbesserte Compliance und Risikobewertung. [Großbritannien](https://developer.companieshouse.gov.uk/api/docs/) macht es vor und veröffentlicht seit 2016 ein offenes Handels- und Transparenzregister. 
 
