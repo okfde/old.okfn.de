@@ -17,7 +17,7 @@ published: true
 title: "Das Handelsregister: Endlich offene Daten!"
 ---
 
-Gemeinsam mit der Organisation [OpenCorporates](https://opencorporates.com/) veröffentlichen wir heute auf [OffeneRegister.de](https://www.offeneregeister.de/) Informationen aus dem Handelsregister und den Handelsregisterbekanntmachungen als offene Daten. Damit sind Daten wie Sitz, Rechtsform und vertretungsberechtigte Personen von 5,1 Millionen deutschen Firmen, Stiftungen und Vereinen erstmals offen und frei im Internet verfügbar.
+Gemeinsam mit der Organisation [OpenCorporates](https://opencorporates.com/) veröffentlichen wir heute auf [OffeneRegister.de](https://www.offeneregister.de/) Informationen aus dem Handelsregister und den Handelsregisterbekanntmachungen als offene Daten. Damit sind Daten wie Sitz, Rechtsform und vertretungsberechtigte Personen von 5,1 Millionen deutschen Firmen, Stiftungen und Vereinen erstmals offen und frei im Internet verfügbar.
 
 Auf der Website können die Daten einfach zentral durchsucht, heruntergeladen sowie per Programmierschnittstelle (API) weiterverwendet werden. Abdrucke aus dem Handelsregister, für deren Offenlegung handelsregister.de Gebühren erhebt, sind nicht in den Daten enthalten.
 
