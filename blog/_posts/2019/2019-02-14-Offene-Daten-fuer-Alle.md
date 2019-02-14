@@ -17,7 +17,7 @@ title: "Offene Daten für Alle"
 ---
 
 Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt,
-Bericht siehe [hier](xxx), aktuell wird in Deutschland über ["Daten für alle"](https://www.spd.de/aktuelles/daten-fuer-alle-gesetz/) gesprochen und wir sind zur heutigen Veranstaltung eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss. 
+Bericht siehe [hier](https://okfn.de/blog/2019/01/open-data-directive/), aktuell wird in Deutschland über ["Daten für alle"](https://www.spd.de/aktuelles/daten-fuer-alle-gesetz/) gesprochen und wir sind zur heutigen Veranstaltung eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss. 
 
 tl;dr:
 
