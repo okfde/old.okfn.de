@@ -12,7 +12,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Open Data directive, the directive formerly known as PSI public sector information" 
 ---
 It's done. The Provisional Agreement for the PSI Directive soon to be known as Open Data Directive (directive on Open
@@ -31,13 +31,13 @@ The so called high value dataset categories are including the company ownership 
 Update: 
 Here is the current [final version as of 2019-06-02](/files/blog/2019/02/AnnextoEPletterPSI060219.en.docx).
 Next steps:
-19th February voting ITRE
-2nd or 4th March voting plenum
-sometimes before summer finalized
-2 years for the member states to get it done
-
+19th February voting ITRE<br>
+2nd or 4th March voting plenum<br>
+sometimes before summer finalized<br>
+2 years for the member states to get it done<br>
+<br>
 Further details on the 19th of February.
-
+<br>
 <a id="deutsch"></a>
 [The new open data definiton](/files/blog/2019/01/20180122-PSI-inthemaking.jpeg)
 
