@@ -1,7 +1,7 @@
 ---
 authors:
 - Michael Peters
-date: 2019-02-25
+date: 2019-02-24
 image:
   src: /files/blog/2018/08/OGP-Georgia.jpg
   title: "OGP. Georgia"
