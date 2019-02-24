@@ -14,7 +14,7 @@ tags:
 type: post
 layout: post
 card: true
-published: false
+published: true
 title: "Open Government in Deutschland: mehr zivilgesellschaftliche Beteiligung"
 ---
 
@@ -54,3 +54,5 @@ Im Sommer 2019 soll nun der zweite Aktionsplan folgen. Der Prozess wird mittlerw
 Zusammengefasst ist Open Government vor allem eine Methode, welche dabei hilft strukturiert mit aktuellen Problemen von Bürger*innen umzugehen. Dabei wird von der Problemstellung aus gedacht. Informationen werden gesammelt und transparent bereitgestellt und mit Hilfe von digitalen Tools wird eine breite Beteiligung der Zivilgesellschaft ermöglicht.
 
 Richtig umgesetzt kann Open Government einen nachhaltigen Wandel der politischen Kultur hin zu einer Kooperationskultur zwischen dem öffentlichen Sektor und der Zivilgesellschaft bewirken, welche das Vertrauen in den Staat steigert. Zudem bietet sich die Chance, die Expertise der Bürger*innen zu nutzen, um bessere Lösungen für Herausforderungen und  Probleme zu finden. Im Idealfall profitieren von Open Government alle: Regierung, Verwaltung und Bürger*innen.
+
+Foto: OGP Georgia von Richard Pietro unter <a href="https://creativecommons.org/licenses/by/2.0/">CC By 2.0</a>
