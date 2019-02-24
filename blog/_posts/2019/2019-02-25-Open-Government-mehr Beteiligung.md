@@ -1,7 +1,7 @@
 ---
 authors:
 - Michael Peters
-date: 2019-02-24
+date: 2019-02-23
 image:
   src: /files/blog/2018/08/OGP-Georgia.jpg
   title: "OGP. Georgia"
@@ -18,7 +18,6 @@ published: true
 title: "Open Government in Deutschland: mehr zivilgesellschaftliche Beteiligung"
 ---
 
-## Einleitung
 In unseren westlichen Gesellschaften sinkt das Vertrauen in die Politik. Dabei spielt insbesondere auch die Intransparenz politischer Prozesse eine Rolle. Ein faktenbasierter öffentlicher Diskurs ist in Deutschland unter anderem häufig deswegen nicht möglich, weil Informationen zurückgehalten werden. Über Horst Seehofers sogenannten »Masterplan« wurde zum Beispiel monatelang diskutiert, ohne dass das Dokument je öffentlich war. Dabei hat die Bundesregierung mit dem Open Government Ansatz schon einen möglichen Lösungsansatz entdeckt, sie muss die Umsetzung in Deutschland aber auch flächendeckend verfolgen.
 
 Open Government, auf Deutsch offenes Regierungs- und Verwaltungshandeln, ist ein ganzheitlicher Ansatz zur Belebung der Demokratie, dessen Ziel es ist, die Arbeit des öffentlichen Sektors transparenter, partizipativer und kooperativer zu gestalten. Der Ansatz basiert auf der Erkenntnis, dass der systematische Einbezug von Bürger*innen in politischen Entscheidungen zu einer Verbesserung staatlicher Leistungen führt.
@@ -55,4 +54,4 @@ Zusammengefasst ist Open Government vor allem eine Methode, welche dabei hilft s
 
 Richtig umgesetzt kann Open Government einen nachhaltigen Wandel der politischen Kultur hin zu einer Kooperationskultur zwischen dem öffentlichen Sektor und der Zivilgesellschaft bewirken, welche das Vertrauen in den Staat steigert. Zudem bietet sich die Chance, die Expertise der Bürger*innen zu nutzen, um bessere Lösungen für Herausforderungen und  Probleme zu finden. Im Idealfall profitieren von Open Government alle: Regierung, Verwaltung und Bürger*innen.
 
-Foto: OGP Georgia von Richard Pietro unter <a href="https://creativecommons.org/licenses/by/2.0/">CC By 2.0</a>
+Foto: OGP Georgia von Richard Pietro unter [CC By 2.0](https://creativecommons.org/licenses/by/2.0/)
